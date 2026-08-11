@@ -1,8 +1,14 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-11T21:55:47+00:00",
+  "atualizadoEm": "2026-08-11T22:52:50+00:00",
   "itens": {
     "agronegocio": [
+      {
+        "titulo": "Move Agrícola: Conheça a nova linha de crédito para financiamento agro",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdU02WnRKOUpQc3o0UzJqZXYzZWRRWlRsSGNzMC1heGl5N3VrLWk0Mi15WUdIRDM5WF9BN1AtNDhsM2lKWVVPUzI0RU1QV3BBVmp1VXdLcXNZRkktNWVZZzFtOHdtdUIwTlBqLXdkRWF5ZVhfYUJkeEVCczVROG9KMlRBbk9PQzJJNnNoVE10YnhjRWw1MTRLMDZ0N1dqWUFtYXJvaldQbUktdW1aVzhaaUVWS3Bna1N4bGJQa091Tk1JTTZIYTh2MQ?oc=5",
+        "fonte": "Sicredi",
+        "data": "2026-08-06"
+      },
       {
         "titulo": "Mais de 3 milhões de pessoas físicas já investem no agronegócio pela B3",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTdFVDBjM0x6SDk4emV0enphSkZBX2V1azNOczlPTlQ3b2FwZGFfZ2tLdTFOMW1aaF8wQXlIMVNZckgyZ2pDSlJXRjUwckp2d2puN3FVZ0U1RVluTV9LcUpBQldMTkN0aHFaSENEQUtRODhOaUdITEMyekNOMFdxM1hWSExUcTZlQTRHQWVaSE1JNFJTMTFGYWJCMDFRTTdfRXdDN0FsRjdJdw?oc=5",
@@ -14,12 +20,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSE0wekhTaEhhS3ZhWWFaVmJvbXBnWXRJWThXYmNiQTNHS2JyN0hva2h4NmZ5U3Bqcll3ZTRBUHJIazRwQ2VYNmMyaE1ubUVKbm9tT2Y1Ni1CVUJCdUFjS20wYUtwRUtXaWNOdlpreXBlekwyNDFlWGhRR3FNVjNNeE1sSXNXbmdMZDFsdFNDalJRQnhham55R25tMmdHYk5JaFVmdUxMV0wzT0l4SkpyUjVleUVXekgwdkZGVQ?oc=5",
         "fonte": "Forbes Brasil",
         "data": "2026-08-07"
-      },
-      {
-        "titulo": "Bahia Farm Show celebra 20ª edição histórica com anúncios do governo de investimentos para o agro",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUmJZekVPT1QyZUd5TTJMMU9vZnM4V2FPNTB5cGdxN0kzZmpCN0xLeW9VZnZkOFoybjNFTS02NkZONUZCWnlMM1FkSGo3VGVxQ3BGSkdacWNEVEM0aFRvXzlLUk1ZZVJ6eVhsMU1ZM0tZRXdzSThxWDNoYWFTekx4Ylo1aFBHUjJxNGhVME9CNDdMX0hvM1EwU3hJYVlnaUZ1ZnlmNDkzczNZSkRtYi1Xb21iLUVVdFN3blhTWnBPcEVBcE9hdFAwOWFWLWFtOVVTbDgtcG9HZ3cyT1VWTm5RWWozaHAyaVBvbW9pTGtLOEFITm14N3hfUjRn0gH_AUFVX3lxTE9FVVZCU3VuSmMwYW1WSEpRRW1oYWxiTFNyX0pycEI4RW1jcXcyWEZ0RFRqZk52SFFneC1EVnVXdUo4RGhIY2hUUFh0ZzhaOFVkc3BzcE91aHp0VDdIZ3phSTQyQU1tTjFJQWVsQVQyN1RZYjladDBENXFQd2JIbnY1Rk85T3oxSXduSm9DYnRva1BMeFpOZEEycjdFZ1BvU2E3YlFjeFBUdE5Rc0VEa0xEc0RSN2hoV0RlU2YwWXFWYUpPLWVfeWpkRHplRmxzWUhTamhONVh5amNjYWNiMjNiQmZzZzVhbnF1SHk1dG1DbFE2dV9hZTYweG9RTDRfOA?oc=5",
-        "fonte": "Notícias Agrícolas",
-        "data": "2026-08-05"
       }
     ],
     "alimentos-bebidas": [
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Carros chineses derrubam preços e impactam mercado de seminovos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW10UjdKbmtnX3k5dHV2OGhBNFdBWkRWZk51a216UE9ENnh4WjI1MjdmX0ptY1gtV2tHdDZmWWxXbE5GenBhM2dWOGVncEp0clROWE1pMGJTN3l1ZS01X29iWGFvOTdLSDRYR3dBUDZGdF8zelpXSDRUTnhLR2YtUXhGMFhIbldjdHR3SDFDMXAxSnI5a1BfSHhWRHFWMmxfekg3ZUhDYWVORGFvMGxqN3FR?oc=5",
-        "fonte": "gazetadopovo.com.br",
+        "fonte": "Gazeta do Povo",
         "data": "2026-08-05"
       },
       {
@@ -92,7 +92,7 @@ window.NEWS = {
       {
         "titulo": "CSN recebe propostas vinculantes por divisão de cimentos",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDVPSFBDa0pqM1BudDRQUTJnMGQ2SmF4U2NtWW02TnA5anZZUGxuamVwNUxiOXU4V1hBT09tRjVNeG8tQ3ZWbTB5Rkx3cVhiUzRGLXpic3VFQWN4WG5IR3pGRHV3eExsUXNJZUlSLV9uelVjY1l3bzlsbGVYV2xMRkozVWdocGQ2SWxNeFRrZ3YzZDBtemhhd01fNA?oc=5",
-        "fonte": "bnamericas.com",
+        "fonte": "BNamericas",
         "data": "2026-08-11"
       },
       {
@@ -106,19 +106,19 @@ window.NEWS = {
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "agfeed.com.br",
+        "fonte": "AgFeed",
         "data": "2026-08-10"
       },
       {
         "titulo": "Viezzer Supermercados anuncia investimento de R$ 6,5 milhões em suas lojas",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeEp1akl5bzlGMFdaeFlDWU9qQmhLcDZHa3d1M1UxMUNDcUtGQzBVWDZKUVM5ajYwS1hKbkl2SEhSYXpQZEdubFRFVHNEVHVLVXlXOXhmT1BudHdmcVNVbXFkNUxabGxQRXFhUzZnTERjQVBHczBKYVo5Y1ktT0U3M0U2VVlVdEVORGhteDhXaVNQY2FzWHk1YkJ6T0dEMjFXbC1EZjBR?oc=5",
-        "fonte": "Rádio Pampa",
+        "fonte": "radiopampa.com.br",
         "data": "2026-08-10"
       },
       {
         "titulo": "Balanços mostram disputa entre crescimento e rentabilidade no varejo",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3dNQ2FxSHhxUjVqM05tOGZmLVdUSU5zdUlWVUgtNjFScjN1c2tPWWhkZUJuNEZ4VFN6N0dlRnhpTDh3NnZNc2ZyRHZtNkhVNFhzTE0zSjJlRWY2U25nTFI2SnIwRXlMQ29DRDZGX0RIa05PVlBNb1A1OFpyaUJ4Q0l0akFsUDJjRDVySElHOTdRc0NMTzk5VzJ2S19ESnB3dklYMEx3VTluRGtfWnE1OUFqeEh3VmZVZjc5OGlSNFU?oc=5",
-        "fonte": "bol.uol.com.br",
+        "fonte": "BOL",
         "data": "2026-08-07"
       }
     ],
@@ -158,7 +158,7 @@ window.NEWS = {
       {
         "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB0gHkAUFVX3lxTE1hV19HZmx2WlM3aDdwVkxyS0N5STRYX1RZYmFpelNMVUxCQ25xRXdPOFJTWXN0cWJUXzV6czFsVEctTUkzcnZkTjlNN2Z6UEpueEJXQlI5aVNhczcxbTVoTzFHcmI4RktHQ3RhQjI1c055SnVXVmVDejlGMDRkSk9PalRRVTFGRUc2bXhhc0F5c3c3YzZOS0hTLXNULUFMX0ZKdHdNMkMtbWdwbGZtUk85NWNtZ2ptSHEwZ2FtUklCLU1kZUxkLW44Yzc1WDRqVEd6MVA1bXlxMVh5VGpMVnROTDZ5VA?oc=5",
-        "fonte": "G1",
+        "fonte": "g1.globo.com",
         "data": "2026-08-09"
       }
     ],
@@ -194,7 +194,7 @@ window.NEWS = {
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "agfeed.com.br",
+        "fonte": "AgFeed",
         "data": "2026-08-10"
       },
       {
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Plano de logística quer investir R$ 1,225 tri até 2050",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHpXQThIcGVqR2dyMW9uOHdPWmxsSkVSM0JzVUExVDA2OHExX1ZreFZkVlhlNnN3UjVVMTdzZ0c3Y18teGdDVkhxSkh5NzNXTzNZMV8tc0psN2ZTdXFoVVByMWUzTE92Rlh6MFdkZVJsN2VfRjZVcld0R3ZIUDJrV3RUMkVGT3ducWIzSFVueENqVy02dVFoUHJvLUvSAasBQVVfeXFMUGdXQnc5Z2h1Z25mQjNKS0xxNndCeTdCLUcxSkJtbXR1T1VNeDNlXzJBdFdpWG96RWFaazk5UnlHWTA5VFBwamJ1WkhwQ3Z3blFRcjU2ZXNfZFV6cVhCZ29UWTJVSF9RWGtENVU1eFhsdC11YlBCM2lobjhNREZPSHJpQkxKazlkQ05iRUV5VUs5MzlLNjVEaWRoWm5jbmJSTWtUZW5TZkJiYm5Z?oc=5",
-        "fonte": "Valor Econômico",
+        "fonte": "valor.globo.com",
         "data": "2026-08-05"
       },
       {
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "Indústria prefere comprar máquinas novas, mas investe pouco em automatização, mostra pesquisa CNI",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS3hyejBEY2ZGM3NvVmQwM0VVdXNfcUJkLTh1eE1ZMTlYX1d2bExneV8yeEtPRF9yc3EybEZpanNzeWg2cHBjSDVvbWp0QnQtNS1nS085cm43cm1PQkYzaDF0NDZ0RlZOQU54dHB2UUMwN3N6ZXJ3LUh6UzhYdGdfV1hDc25Mbk5uN3hBYlEwSjAwVUlSQnJ1c2VlR0lzeHUtTmowWWtYVlZOdVpYQWIxb1NVeGtodzVjT2tZUGhGTU84T1JWbndvNWRjd0dFcnpfRm1tNGNMYjluRWJFU0hmQtIB7wFBVV95cUxObFVoVEYtRU9wUlhvb2NMRkxfTW01TGhiQUlSUWxjMk12VWxTTmpKQ2Y5NGZ4Y3lxWHpHYnZhZC1aY3huaFJ1TjljOFRqYVNXYXM2Szd1elRRUmp6UWxXZDAycHZCNk95ekliSXppT29FUzd2b0RvbGVjSGRKV0dnNjhva2x0RklqMnBwQzlWQUotaGt0YjdyNUVpTGJrNDJHcV9XY1ZXU0M2SEdzbkE0ekFRN19qb29TZDM1bThfSjdMdHJXa01Ha0pHT0t5dnZDX0VVa1ZFYXhCMHppNzEteFEtd0ZhdEVwUXlmR0RkOA?oc=5",
-        "fonte": "Valor Econômico",
+        "fonte": "valor.globo.com",
         "data": "2026-08-05"
       },
       {
@@ -289,7 +289,7 @@ window.NEWS = {
       {
         "titulo": "Investimento privado moderniza infraestrutura no país - 06/08/2026 - Concessões",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVAxWkNxNFUyUTdqbnd6Y0Y2Q05pNDVjYkJrVXp0LWFjd1FpbW9fNWV2MXQ0RjAtR3NmZmY5UjZmaDRfVlJIT3JBdG9KMkVZLTRuVXcya1BDdkY0VHpvVnJrYk1BWl9oaGN2QlBxTW1PSFlGYUZkR045VE1IOExlbnpNaVVwdEhrdFZ2dnlBQndyZm16QWNTZTNuQXpLdDRLOHB4OGNhNHdZbENLLW4zUA?oc=5",
-        "fonte": "Estúdio Folha",
+        "fonte": "estudio.folha.uol.com.br",
         "data": "2026-08-07"
       },
       {
