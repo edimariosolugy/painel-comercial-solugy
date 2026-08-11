@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-11T22:52:50+00:00",
+  "atualizadoEm": "2026-08-11T23:49:28+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "Danone investe no Brasil em meio à febre da proteína: 'Quero crescer mais que a matriz', diz CEO",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHBBbm13WDcwY3RiWnNYTFNoVUdleEc3X2JYajhEM1BaMUdOc29XMnJzTEVIWkl0VTBDSGEyYmtENDNxem1lZHBUTTBqQk5pcFN0cC10OEUyT3Rtd3hhNExqWEhVVFJrVnZiTG1nLUJ6NUhKS3JPMWJKNWI0MzhINzFzWDYwS0VTelNGUmxPRDJUMEtaZUtGcF9jUFVTLTQ0TEdMWG0ybVJhTGkxTkdaV3Vtem9jeXdjbTFqeEhZbVlCWEdWLVVpZzZ3WnZVMEhFVTROUXFUNVpkZGk3?oc=5",
-        "fonte": "Folha de S.Paulo",
+        "fonte": "folha.uol.com.br",
         "data": "2026-08-05"
       },
       {
@@ -84,22 +84,16 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "A italiana @cement.ir e a brasileira Votorantim Cimentos entregaram proposta ao @grupocsn pela unidade de cimentos, apurou o Pipeline. A companhia de Benjamin Steinbruch confirmou o recebimento de ofertas vinculantes, mas não revelou número ou n",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EOUZfSFRoa2FhNElJRW9qbGQwemprUWx5YXd3RlhDdWt2eXFSalRmdnZkVDZraGNlc2hHZU1McnktX1Q0aWtXY2dYb210TDYycWc?oc=5",
-        "fonte": "instagram.com",
-        "data": "2026-08-10"
-      },
-      {
-        "titulo": "CSN recebe propostas vinculantes por divisão de cimentos",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDVPSFBDa0pqM1BudDRQUTJnMGQ2SmF4U2NtWW02TnA5anZZUGxuamVwNUxiOXU4V1hBT09tRjVNeG8tQ3ZWbTB5Rkx3cVhiUzRGLXpic3VFQWN4WG5IR3pGRHV3eExsUXNJZUlSLV9uelVjY1l3bzlsbGVYV2xMRkozVWdocGQ2SWxNeFRrZ3YzZDBtemhhd01fNA?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-08-11"
-      },
-      {
         "titulo": "As 10 melhores empresas do mundo no mercado de concreto de alta resistência",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObHR4UDBtSzJwUGROZGhyUi12S21NVTlNX05ISWhVY0thbURod2FfZzBxTF83ZFVDelhmSm1mSElTaVFKY1AzcEVsbjk2ZC1OaVM5ZmJZbVlwR05mNUtLbHpzc3dkRFBNcHZ2blFOU193WlZPd09MRnppOWtzanNRbFlmemk2RVlnd3lqV2JRTXFMc2VHaF9VYlpkYV9WR2xXeGpwZ3dXdEMtR2ZkVDBsV0Mtdm1VQUJieUUyOXlWVWpWTS1POTI0TWJlX1pycjBxUTVJM2pZaUNhMDl3emZxTmRNZklKc0ZTRmF2Y1NTMVhyc3pjVnp2Ym5n?oc=5",
         "fonte": "Spherical Insights",
         "data": "2026-08-08"
+      },
+      {
+        "titulo": "Liberando recursos de construção para criar impulso para o crescimento.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVl1ZUtfWDhTczZSaU5NUlU1N1JoQVBqclZMbVVaLWtkZFlHanN1QmpvRUVEZEt4SWdWTDIxZUlXeGgwckhISFhjeTl1SkthanJHTW13aklNd1pjakJvZTMtT3IwVnZKdTNBdmhvalpRcU1FVjBIa1k0VER1X295OVREQQ?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-08-11"
       }
     ],
     "comercio": [
@@ -173,7 +167,7 @@ window.NEWS = {
       {
         "titulo": "Pesquisa e inovação em saúde no Brasil",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ub21odk5haXNnb3BpakRwdGV0dWkxRUh5YlZ5M2J3TUM0bFhjYVpucHhwTU9ZQ2pfUkotTFczVks3WXhjbkpYMUJUczI5SnlhRU04aGNyUkdYcDF3amNhZ3h4cGlWMmJvSS12YkdyNmk4a3l5ckZhVTdYTmtIZw?oc=5",
-        "fonte": "ABC - Academia Brasileira de Ciências",
+        "fonte": "abc.org.br",
         "data": "2026-08-10"
       },
       {
@@ -214,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Novo plano de infraestrutura do Brasil prevê R$ 1,2 tri em investimentos",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWJKQ0ZDYmRVSGhMSDZ1SGlXR3ZycHBHVUJPa2VpTjNCR3VSQzd4MEdTS1pwWXJYU0k5dTFPeHloU0x4TVoxNzBTLUVrMjZGWDlvd0QxV21zWUJLbVozOEpXa3U3cGhQWG9rZWl3TWRCWlUwOXhWUXNpdGM5R2N3VW5IRlZIOE9ZZWk1OURoV2ZFbW5YM01QN05tTWEtRXhRamVRNWlIMGRGX3I0?oc=5",
-        "fonte": "Rádio Itatiaia",
+        "fonte": "itatiaia.com.br",
         "data": "2026-08-07"
       },
       {
