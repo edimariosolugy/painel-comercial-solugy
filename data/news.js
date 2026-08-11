@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-11T20:54:13+00:00",
+  "atualizadoEm": "2026-08-11T21:55:47+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Carros chineses derrubam preços e impactam mercado de seminovos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW10UjdKbmtnX3k5dHV2OGhBNFdBWkRWZk51a216UE9ENnh4WjI1MjdmX0ptY1gtV2tHdDZmWWxXbE5GenBhM2dWOGVncEp0clROWE1pMGJTN3l1ZS01X29iWGFvOTdLSDRYR3dBUDZGdF8zelpXSDRUTnhLR2YtUXhGMFhIbldjdHR3SDFDMXAxSnI5a1BfSHhWRHFWMmxfekg3ZUhDYWVORGFvMGxqN3FR?oc=5",
-        "fonte": "Gazeta do Povo",
+        "fonte": "gazetadopovo.com.br",
         "data": "2026-08-05"
       },
       {
@@ -84,9 +84,15 @@ window.NEWS = {
     ],
     "cimento": [
       {
+        "titulo": "A italiana @cement.ir e a brasileira Votorantim Cimentos entregaram proposta ao @grupocsn pela unidade de cimentos, apurou o Pipeline. A companhia de Benjamin Steinbruch confirmou o recebimento de ofertas vinculantes, mas não revelou número ou n",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EOUZfSFRoa2FhNElJRW9qbGQwemprUWx5YXd3RlhDdWt2eXFSalRmdnZkVDZraGNlc2hHZU1McnktX1Q0aWtXY2dYb210TDYycWc?oc=5",
+        "fonte": "instagram.com",
+        "data": "2026-08-10"
+      },
+      {
         "titulo": "CSN recebe propostas vinculantes por divisão de cimentos",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDVPSFBDa0pqM1BudDRQUTJnMGQ2SmF4U2NtWW02TnA5anZZUGxuamVwNUxiOXU4V1hBT09tRjVNeG8tQ3ZWbTB5Rkx3cVhiUzRGLXpic3VFQWN4WG5IR3pGRHV3eExsUXNJZUlSLV9uelVjY1l3bzlsbGVYV2xMRkozVWdocGQ2SWxNeFRrZ3YzZDBtemhhd01fNA?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-08-11"
       },
       {
@@ -94,19 +100,13 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObHR4UDBtSzJwUGROZGhyUi12S21NVTlNX05ISWhVY0thbURod2FfZzBxTF83ZFVDelhmSm1mSElTaVFKY1AzcEVsbjk2ZC1OaVM5ZmJZbVlwR05mNUtLbHpzc3dkRFBNcHZ2blFOU193WlZPd09MRnppOWtzanNRbFlmemk2RVlnd3lqV2JRTXFMc2VHaF9VYlpkYV9WR2xXeGpwZ3dXdEMtR2ZkVDBsV0Mtdm1VQUJieUUyOXlWVWpWTS1POTI0TWJlX1pycjBxUTVJM2pZaUNhMDl3emZxTmRNZklKc0ZTRmF2Y1NTMVhyc3pjVnp2Ym5n?oc=5",
         "fonte": "Spherical Insights",
         "data": "2026-08-08"
-      },
-      {
-        "titulo": "Liberando recursos de construção para criar impulso para o crescimento.",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVl1ZUtfWDhTczZSaU5NUlU1N1JoQVBqclZMbVVaLWtkZFlHanN1QmpvRUVEZEt4SWdWTDIxZUlXeGgwckhISFhjeTl1SkthanJHTW13aklNd1pjakJvZTMtT3IwVnZKdTNBdmhvalpRcU1FVjBIa1k0VER1X295OVREQQ?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-08-11"
       }
     ],
     "comercio": [
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-08-10"
       },
       {
@@ -144,12 +144,6 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
-        "fonte": "BBC",
-        "data": "2026-08-07"
-      },
-      {
         "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
         "fonte": "Canal Solar",
@@ -160,6 +154,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
         "fonte": "Senado",
         "data": "2026-08-10"
+      },
+      {
+        "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB0gHkAUFVX3lxTE1hV19HZmx2WlM3aDdwVkxyS0N5STRYX1RZYmFpelNMVUxCQ25xRXdPOFJTWXN0cWJUXzV6czFsVEctTUkzcnZkTjlNN2Z6UEpueEJXQlI5aVNhczcxbTVoTzFHcmI4RktHQ3RhQjI1c055SnVXVmVDejlGMDRkSk9PalRRVTFGRUc2bXhhc0F5c3c3YzZOS0hTLXNULUFMX0ZKdHdNMkMtbWdwbGZtUk85NWNtZ2ptSHEwZ2FtUklCLU1kZUxkLW44Yzc1WDRqVEd6MVA1bXlxMVh5VGpMVnROTDZ5VA?oc=5",
+        "fonte": "G1",
+        "data": "2026-08-09"
       }
     ],
     "epc": [],
@@ -194,13 +194,13 @@ window.NEWS = {
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-08-10"
       },
       {
         "titulo": "Brastemp e Consul não fecharam fábricas no Brasil; decisão de empresa envolve Argentina e México",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGQ2Q2xCa0ROSFRaUXN5b0ZJc0pxTjFoMkIzRDRUMVloNmlFQ0tPd2UwMXA5UFhkRnoyWWdJS2UwZ2I5M1lYaFpEMGp5QzY5WGhEYlZRN2tRVFZDblR4T3o0ODFEU1RuelZXSmptXzdTdF9DTXBGTWNVUXdhWDhmbGRLWW51eU5JSlAwdUVmQmF5VjRyYzB5amJUWkR1LXViX1lrSkFHSUJBRm1BcUMxeXFkVmk0RWRRXzlzQWd5WHNWMGJUbjNvSnZQUDN5ZkVxbzE4dzFkY1PSAd4BQVVfeXFMTjF3dlY2UFMxM2JFR1VtaFJIOXlfelAwaHdqNkNUZ0tLa0tCa2UxOXI4bXpVYV9rbWFSYzJOSUhmWUNTQ2ViSmFrZUNSVUhHTVlJRUp3NURuLVpVUnhOZWFESWg5SEpfNXRaSG05cUtTNnduc0hMSHdmb2pJLXRmTmNXT0llZHBvNVFDRmxUeEFSYUZyUjBnNkNZN2pUMW4yWXlORGY1NDhkb1VGaGlVbll6UzFLTmdtT2tZM0lOSlVOUUJWYmV1Y2JfbGcxdThCNUFSeFdtYk1DRGJnRF93?oc=5",
-        "fonte": "estadao.com.br",
+        "fonte": "Estadão",
         "data": "2026-08-06"
       }
     ],
