@@ -278,18 +278,40 @@ function mostraNome(primeiro){
 function extraiPrimeiroNome(cp){
   const cl=cp.claims||[];
   const get=t=>{const c=cl.find(x=>(x.typ||"").toLowerCase().endsWith(t));return c?c.val:"";};
-  let nome=get("givenname")||get("firstname")||get("/name")||get("name")||get("preferred_username")||cp.userDetails||"";
-  if(nome.includes("@"))nome=nome.split("@")[0].replace(/[._-]/g," ");
-  return (nome.trim().split(/\s+/)[0]||"").toLowerCase().replace(/^./,c=>c.toUpperCase());
+  // testa vários campos e ignora valores mascarados pelo Azure (ex.: "edi*****")
+  const candidatos=[get("givenname"),get("firstname"),get("/name"),get("name"),get("preferred_username"),get("upn"),cp.userDetails||""];
+  for(let nome of candidatos){
+    if(!nome||nome.includes("*"))continue;
+    if(nome.includes("@"))nome=nome.split("@")[0].replace(/[._-]/g," ");
+    const primeiro=(nome.trim().split(/\s+/)[0]||"").toLowerCase().replace(/^./,c=>c.toUpperCase());
+    if(primeiro.length>=2)return primeiro;
+  }
+  return "";
 }
-try{mostraNome(localStorage.getItem("solugy_nome"));}catch(e){} // memória: nome aparece na hora
+try{ // memória: nome aparece na hora (descarta se ficou mascarado de versão anterior)
+  const salvo=localStorage.getItem("solugy_nome");
+  if(salvo&&salvo.includes("*"))localStorage.removeItem("solugy_nome");
+  else mostraNome(salvo);
+}catch(e){}
 fetch("/.auth/me",{cache:"no-store"}).then(r=>r.ok?r.json():null).then(j=>{
   if(!j)return;
   const cp=j.clientPrincipal||(Array.isArray(j)&&j[0])||null; // formatos SWA e App Service
   if(!cp)return;
   const primeiro=extraiPrimeiroNome(cp);
-  if(primeiro){mostraNome(primeiro);try{localStorage.setItem("solugy_nome",primeiro);}catch(e){}}
+  if(primeiro&&!localStorage.getItem("solugy_nome")){mostraNome(primeiro);try{localStorage.setItem("solugy_nome",primeiro);}catch(e){}}
 }).catch(()=>{});
+// clique no "Bem-vindo" para definir/corrigir o nome (fica salvo neste navegador)
+const elWelcome=document.getElementById("welcome");
+elWelcome.style.cursor="pointer";
+elWelcome.title="Clique para ajustar seu nome";
+elWelcome.addEventListener("click",()=>{
+  const n=prompt("Como você quer ser chamado no painel?",localStorage.getItem("solugy_nome")||"");
+  if(n&&n.trim()){
+    const p=n.trim().split(/\s+/)[0].replace(/^./,c=>c.toUpperCase());
+    try{localStorage.setItem("solugy_nome",p);}catch(e){}
+    mostraNome(p);
+  }
+});
 
 // Chart.js — tema escuro do grupo
 Chart.defaults.color=C.txt2;
