@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-11T10:04:38+00:00",
+  "atualizadoEm": "2026-08-11T11:49:18+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Danone investe no Brasil em meio à febre da proteína: 'Quero crescer mais que a matriz', diz CEO",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHBBbm13WDcwY3RiWnNYTFNoVUdleEc3X2JYajhEM1BaMUdOc29XMnJzTEVIWkl0VTBDSGEyYmtENDNxem1lZHBUTTBqQk5pcFN0cC10OEUyT3Rtd3hhNExqWEhVVFJrVnZiTG1nLUJ6NUhKS3JPMWJKNWI0MzhINzFzWDYwS0VTelNGUmxPRDJUMEtaZUtGcF9jUFVTLTQ0TEdMWG0ybVJhTGkxTkdaV3Vtem9jeXdjbTFqeEhZbVlCWEdWLVVpZzZ3WnZVMEhFVTROUXFUNVpkZGk3?oc=5",
-        "fonte": "Folha de S.Paulo",
+        "fonte": "folha.uol.com.br",
         "data": "2026-08-05"
       },
       {
@@ -84,6 +84,12 @@ window.NEWS = {
     ],
     "cimento": [
       {
+        "titulo": "CSN recebe propostas vinculantes por divisão de cimentos",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDVPSFBDa0pqM1BudDRQUTJnMGQ2SmF4U2NtWW02TnA5anZZUGxuamVwNUxiOXU4V1hBT09tRjVNeG8tQ3ZWbTB5Rkx3cVhiUzRGLXpic3VFQWN4WG5IR3pGRHV3eExsUXNJZUlSLV9uelVjY1l3bzlsbGVYV2xMRkozVWdocGQ2SWxNeFRrZ3YzZDBtemhhd01fNA?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-08-11"
+      },
+      {
         "titulo": "As 10 melhores empresas do mundo no mercado de concreto de alta resistência",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObHR4UDBtSzJwUGROZGhyUi12S21NVTlNX05ISWhVY0thbURod2FfZzBxTF83ZFVDelhmSm1mSElTaVFKY1AzcEVsbjk2ZC1OaVM5ZmJZbVlwR05mNUtLbHpzc3dkRFBNcHZ2blFOU193WlZPd09MRnppOWtzanNRbFlmemk2RVlnd3lqV2JRTXFMc2VHaF9VYlpkYV9WR2xXeGpwZ3dXdEMtR2ZkVDBsV0Mtdm1VQUJieUUyOXlWVWpWTS1POTI0TWJlX1pycjBxUTVJM2pZaUNhMDl3emZxTmRNZklKc0ZTRmF2Y1NTMVhyc3pjVnp2Ym5n?oc=5",
         "fonte": "Spherical Insights",
@@ -94,12 +100,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVl1ZUtfWDhTczZSaU5NUlU1N1JoQVBqclZMbVVaLWtkZFlHanN1QmpvRUVEZEt4SWdWTDIxZUlXeGgwckhISFhjeTl1SkthanJHTW13aklNd1pjakJvZTMtT3IwVnZKdTNBdmhvalpRcU1FVjBIa1k0VER1X295OVREQQ?oc=5",
         "fonte": "Vietnam.vn",
         "data": "2026-08-11"
-      },
-      {
-        "titulo": "Pedreiro aposentado cria maquina de fazer tijolo ecológico usando resto de poda de árvore e ganha investimento milionário em programa de inovação sustentável",
-        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbVlBZjRFTXFGVUlMcktyaWgtWTBhWmFGbG5ydFl4dFNfdUtKRkctZHBOT2lSd21FUEZNaXU3THM3M0lpSk9jb2RKUXo2bmFkWmdPR1BfNVNIaHU2RzU2NnhudmM2NE5JWHpRRFE2Vk5HNGxseXJhUjFlSG5mVTd6azVZREE2YzY1Vy1NN05MWktRb2NqQkxFR1JSdTdIUkdtak8ydmlLV193NTZ5bzlsRVlJYW5NbFhmOVdySWVuU1ZLdFNNdFFpUFV6ZTJJcTQ2MFhQSlpGSXdHVTNDbXAybEtMUG94QzlDeGU4UDlmQ0IzOEhoa1BvRzgzZU92U3dqcmFLaG1JWm9YWlZEX0tVMWhDd1RXdUNPRXhwRUI2UmJJcHJVMTlVSWFaSi1qdmRLMFE?oc=5",
-        "fonte": "O Antagonista",
-        "data": "2026-08-04"
       }
     ],
     "comercio": [
@@ -132,14 +132,14 @@ window.NEWS = {
       {
         "titulo": "Axia prevê R$ 8,7 bi em expansão da rede de transmissão",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVppdUJLUHlxVTlLYTRudnFjME80blVpVS1jdExpenBwZENNNHJTcEZrVzZpTUpQZHgxZm1yclQydmN5NzByYnRGY1dvQ0ZycEdTZDdnMkpPMkotcEhxd1ZZNFQzbk00bVFNVml5SkZaZDVuWFBMX2xua2tZTEdMdGZNSmZpSkVZVVdON19Hbw?oc=5",
-        "fonte": "agenciainfra.com",
+        "fonte": "Agência iNFRA",
         "data": "2026-08-05"
       },
       {
-        "titulo": "Leilão de baterias atrai oferta recorde com mais de 6 mil projetos; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkk4bml0SHBpaDNMWVdVX0c1ZjNNVDJ6Ql9vQ2JuYVY4SjY3QXduYVFaWjlwR0Nzbzh1NkFDZ21nT3VySzZtN0RhS3ozR1NuazlaYUF1RkhzVmIyZ3p6enExSlhhZ3l4Yk5jQ3hxUHRJa19QWVZqOWFuWkhGdHhkcWdtQXd6dVA3MnhhMDRwZW5nLUpOR2Q1aEc4Q3R2c3ZGS0twNWY2MFdGblNPRVdGcGo1bWtoaU9PTTJUM2FGSG9WSTZuWklabGR2YW5WaHFYeFFVZ1hnZGNOY0J1?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-08-04"
+        "titulo": "El Niño pode gerar perdas acima de R$ 8 bilhões para renováveis no Brasil; veja o Radar Energia XP | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWG4zdFhfVzVFV0ZDQ3Y3YnJ4Sk1yOE1vQjBjanQ0LTdUUm0tT0pPM0JOYjNmbnJ4NnNTTnEyS056VC00Yl81REdwcVIyZ0FfUEU0YlFZaXl2LW9ZZEEwZlM4SE9lQmdDblIyWlJYSjNBWkhDRUJ5VnJiRE9KaDZmN2FuWmg2QTk5YjZBRzQ1VWVVaWFYekRhekpSQXl5d3NKZzZKeHJqNDZoVmxMSVVlSHZud0N3aTlXY1c1cW5iMXNEcHFta3BpcXdYUUp5UEdWb0phbVZXYlRtOWRhWS1hYTFDN0E?oc=5",
+        "fonte": "conteudos.xpi.com.br",
+        "data": "2026-08-07"
       }
     ],
     "solar": [
@@ -162,14 +162,7 @@ window.NEWS = {
         "data": "2026-08-09"
       }
     ],
-    "epc": [
-      {
-        "titulo": "Engeform e Galapagos lançam fundo para inves...",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenZGeHJJVmw3RE1xWU5XZXhuMGVOU2xLWVA4d0NrbXFURTBSSkJ0M1NSVmpJT1RmN2x3RzZsbG51VmV5SzBVbDVyODh2SlpjLWRNNWZrU1ZfUDRTSVVqQ3hNSXNOeHpVX19fMExjZ2RqLTF2ZVp2cFItekl0VGYyaW1ObDh2MjNnbnJGWWtZTlRqMUNKbW91X084UkpEN2RMdXkzeks3a25nRVJlUFBtRDV4d0pHTzd5OFM1eTZn?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-08-04"
-      }
-    ],
+    "epc": [],
     "farma": [
       {
         "titulo": "O futuro da indústria nacional perante a Big Pharma",
@@ -296,7 +289,7 @@ window.NEWS = {
       {
         "titulo": "Investimento privado moderniza infraestrutura no país - 06/08/2026 - Concessões",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVAxWkNxNFUyUTdqbnd6Y0Y2Q05pNDVjYkJrVXp0LWFjd1FpbW9fNWV2MXQ0RjAtR3NmZmY5UjZmaDRfVlJIT3JBdG9KMkVZLTRuVXcya1BDdkY0VHpvVnJrYk1BWl9oaGN2QlBxTW1PSFlGYUZkR045VE1IOExlbnpNaVVwdEhrdFZ2dnlBQndyZm16QWNTZTNuQXpLdDRLOHB4OGNhNHdZbENLLW4zUA?oc=5",
-        "fonte": "estudio.folha.uol.com.br",
+        "fonte": "Estúdio Folha",
         "data": "2026-08-07"
       },
       {
@@ -308,7 +301,7 @@ window.NEWS = {
       {
         "titulo": "Minas Gerais lidera leilões de infraestrutura na B3 em 2026",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUs3RE11MGRJSzZWaGVDR0xlc1lsMU9QN2ZmNzBBT0JtWGNNejRzelBDMDZlZ2lCbEd1R0lnU3lFd0JzcHhzejg0NUNvQVVYbTd4V3VHcVNKQkVPS1M0MnZUcG5UTi1vaXdYUmNidjVQSENfdVdIbGpROERaa25YY3dwbVEwTzExZjNkRk43ZEM4cVUyeVVKMm83VzRVX0pyY0pLTFJ30gGrAUFVX3lxTE1QdjdYNV9mZV9WQVJ2ZjExRmM1MlZIM25RcVRfMFVfcFNtUmRKNmxTOXFlcC1ucXEwbGZzWnRGNk4ySFVVc0tYZXgtVlQzRC11TmR3cjZfMEVKd19MR2tuVFVGQWE0VnVvZkF5d2c4dmFpTHFvVFRIanBGUjYwYmFYRi10aGM4azMtU3FKTFd0MjhxdXQ1Q3VWbVZsU3N3N192ckJjOXI3NldUMA?oc=5",
-        "fonte": "O TEMPO",
+        "fonte": "otempo.com.br",
         "data": "2026-08-06"
       }
     ],
@@ -322,7 +315,7 @@ window.NEWS = {
       {
         "titulo": "Sindicato dos Metalúrgicos teme avanço do aço chinês diante da ameaça a empregos no Sul Fluminense",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTNNekhPaUduOEt2WE1Hc1o5OS1FYlFlTFZLbUZZaHFIaEIyUTllZUwxd3VhTmRIdDZwWmpLZlZLbmV5UjdLWnVLaWg4dTJxdHhQd0VadklXWXBUNVJJX2w0cVdKcUsyUGtPTUR4THJYYXdLZTU3QmNPMEF0aWRLYTMzalJQWDZFSUkwM3BJc3RRdkY3NUdpTEpqTzl6QWU4bFU5c3hiVFFXUE5rSmhMQWtuajlEVm9VM0pMTGNvRU5BOUotelE?oc=5",
-        "fonte": "avozdacidade.com",
+        "fonte": "A Voz da Cidade",
         "data": "2026-08-05"
       }
     ],
@@ -330,19 +323,19 @@ window.NEWS = {
       {
         "titulo": "Mercado de odontologia amplia espaço em Goiás",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFdCSmcxT3ctTmtpbFFVTEY3ZVZ1cWhyS2UxdGVSR1lvdXBEeUpSYWlTWE50bXdNZWVBenZBeGFjaW5RRHo1ek1KZHN3bkJacXlzWGpmOUFsMkZySmR0YzdGalF3dy1xcTZfaXRsZGxIMV9WUk9qRWNiLUxhbks0YlVMdlBHbXFUZDZNRWI3Z0VVQQ?oc=5",
-        "fonte": "opopular.com.br",
+        "fonte": "O Popular",
         "data": "2026-08-09"
       },
       {
         "titulo": "Previsão do tempo na região Central para segunda-feira (10)",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3d3eVRrUDlQMldCWW14dWtJM2lDT19BbDM3V25NM1p3N1ZsV3BJeEpOLXhFUmZQZVdzRU96TmpDN2QxYVhYSDJ1a1RjUURYbno0RnRFdXJRN1RBMTdab3l6RmltSUZ3YVkzWktBV3FyLVFOT0toeTF6cEpzSjhKVkFGa3p1NVhFbVBHcklNRmVpbVhkaTRvNnJfN1U3Zw?oc=5",
-        "fonte": "opopular.com.br",
+        "fonte": "O Popular",
         "data": "2026-08-09"
       },
       {
         "titulo": "Previsão do tempo na região Sudoeste para segunda-feira (10)",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVBDbGxUSi1VeVR1RERRMmpQTjFydDM0bTFNV2M4amFMNnpZdkgwZXVITnlWMURhTG5tdnVoZ2QxbkYxTU9WMlpOd0otc2hlVmY2UGhTU092ZmNtblVtWDc0WHdCbjNzT3ZpZ0tJS0RYaFJDQ0ctVXpnNUZqM3VEeTYxaHdMWk1SQUF0OVB4NE9NLU9HYkRudEVIYi1fb3c?oc=5",
-        "fonte": "opopular.com.br",
+        "fonte": "O Popular",
         "data": "2026-08-09"
       }
     ]
