@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-11T15:04:24+00:00",
+  "atualizadoEm": "2026-08-11T17:03:11+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,6 +24,12 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
+        "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
+        "fonte": "Brasil de Fato",
+        "data": "2026-08-11"
+      },
+      {
         "titulo": "Danone investe no Brasil em meio à febre da proteína: 'Quero crescer mais que a matriz', diz CEO",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHBBbm13WDcwY3RiWnNYTFNoVUdleEc3X2JYajhEM1BaMUdOc29XMnJzTEVIWkl0VTBDSGEyYmtENDNxem1lZHBUTTBqQk5pcFN0cC10OEUyT3Rtd3hhNExqWEhVVFJrVnZiTG1nLUJ6NUhKS3JPMWJKNWI0MzhINzFzWDYwS0VTelNGUmxPRDJUMEtaZUtGcF9jUFVTLTQ0TEdMWG0ybVJhTGkxTkdaV3Vtem9jeXdjbTFqeEhZbVlCWEdWLVVpZzZ3WnZVMEhFVTROUXFUNVpkZGk3?oc=5",
         "fonte": "Folha de S.Paulo",
@@ -34,12 +40,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODh1VmxGcUpoaXhZRWROTDJMb09tYXFfYThHRGV2TVB2MWJrWFNnU29oUWpmbjN5SDZIc3Y3Ykx1c0VwODJKcmYzY2RGUjZKcURtYlM5LXpoMU1UQXc3SzlFV0NINlBDTi1mZkJPMFhDT0RvSkFLSW15alFkbFhFcnhZSkJqaWhHQ3M0MjFzSVp3OV9Hb01QWlRYemtOeXpHTkhQY0xLcjFLYmQxa08xel9mMm5PdmtiLTZxQlZtNTE1bXNxYTl3Q1MwTTdKVnZteWc?oc=5",
         "fonte": "O POVO+",
         "data": "2026-08-06"
-      },
-      {
-        "titulo": "FIEC inaugura laboratórios que ampliam competitividade da indústria alimentícia - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmk5UUFib21aUWExSG1PTW1jZzU0TlQ5WlZWbDIxMTB5a3VZSXJvdUxPeGpiRzNLTl9OYnMyN1NUU2ZzY0t5di1vRG5ZU05rT21zYnZZTXEwRm9CTmRGVDBWOUlqaUU3NVJkREpxVXVjRlpPSU1HYklLb0pjaThPcEpaOWd6YkhzNUJnaWpoM19OUHpOaENZRDdteGFCLUZfSlNGU3Y5ejVsQjZsRDRxcWVLVWlXSmc?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-08-05"
       }
     ],
     "automotivo": [
@@ -98,7 +98,7 @@ window.NEWS = {
       {
         "titulo": "Liberando recursos de construção para criar impulso para o crescimento.",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVl1ZUtfWDhTczZSaU5NUlU1N1JoQVBqclZMbVVaLWtkZFlHanN1QmpvRUVEZEt4SWdWTDIxZUlXeGgwckhISFhjeTl1SkthanJHTW13aklNd1pjakJvZTMtT3IwVnZKdTNBdmhvalpRcU1FVjBIa1k0VER1X295OVREQQ?oc=5",
-        "fonte": "Vietnam.vn",
+        "fonte": "vietnam.vn",
         "data": "2026-08-11"
       }
     ],
@@ -150,16 +150,16 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
+        "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
+        "fonte": "BBC",
+        "data": "2026-08-07"
+      },
+      {
         "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
         "fonte": "Senado",
         "data": "2026-08-10"
-      },
-      {
-        "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB0gHkAUFVX3lxTE1hV19HZmx2WlM3aDdwVkxyS0N5STRYX1RZYmFpelNMVUxCQ25xRXdPOFJTWXN0cWJUXzV6czFsVEctTUkzcnZkTjlNN2Z6UEpueEJXQlI5aVNhczcxbTVoTzFHcmI4RktHQ3RhQjI1c055SnVXVmVDejlGMDRkSk9PalRRVTFGRUc2bXhhc0F5c3c3YzZOS0hTLXNULUFMX0ZKdHdNMkMtbWdwbGZtUk85NWNtZ2ptSHEwZ2FtUklCLU1kZUxkLW44Yzc1WDRqVEd6MVA1bXlxMVh5VGpMVnROTDZ5VA?oc=5",
-        "fonte": "G1",
-        "data": "2026-08-09"
       }
     ],
     "epc": [],
@@ -188,13 +188,7 @@ window.NEWS = {
       {
         "titulo": "Gaúcha Vibra Foods investe para ampliar produção em fábrica de Soledade",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUQ3bkhuaVotQy1GeldIdFNLUEZaa0dQMWFfcVlzbDlWajZZMlhCREQ3TXY5My1TMW9hRlJacEdZVTN4ZHdzZkQ1YzJyaHM5a2ZFbTR6WUhpV2lLNjBFUzUtVTVKQ0NYVlhfV3IwRlQ2enVBRFNsMGJHaTU3ZXR3bjVObU1wZzlENnUyNGpPQy1PLWJueFVlel85TmJuTmNienV5S1FRQ2c2dFo4S2NtS05Ic2tQN3ZWQVk2MXJvSHNpdWtYVG9PUDV1cjFLR18tc0hTWjBfYkJXVzg1QnFzNFFYcUtaMjNLTHI3YlZITnpRNHM?oc=5",
-        "fonte": "jornaldocomercio.com",
-        "data": "2026-08-06"
-      },
-      {
-        "titulo": "Brastemp e Consul não fecharam fábricas no Brasil; decisão de empresa envolve Argentina e México",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGQ2Q2xCa0ROSFRaUXN5b0ZJc0pxTjFoMkIzRDRUMVloNmlFQ0tPd2UwMXA5UFhkRnoyWWdJS2UwZ2I5M1lYaFpEMGp5QzY5WGhEYlZRN2tRVFZDblR4T3o0ODFEU1RuelZXSmptXzdTdF9DTXBGTWNVUXdhWDhmbGRLWW51eU5JSlAwdUVmQmF5VjRyYzB5amJUWkR1LXViX1lrSkFHSUJBRm1BcUMxeXFkVmk0RWRRXzlzQWd5WHNWMGJUbjNvSnZQUDN5ZkVxbzE4dzFkY1PSAd4BQVVfeXFMTjF3dlY2UFMxM2JFR1VtaFJIOXlfelAwaHdqNkNUZ0tLa0tCa2UxOXI4bXpVYV9rbWFSYzJOSUhmWUNTQ2ViSmFrZUNSVUhHTVlJRUp3NURuLVpVUnhOZWFESWg5SEpfNXRaSG05cUtTNnduc0hMSHdmb2pJLXRmTmNXT0llZHBvNVFDRmxUeEFSYUZyUjBnNkNZN2pUMW4yWXlORGY1NDhkb1VGaGlVbll6UzFLTmdtT2tZM0lOSlVOUUJWYmV1Y2JfbGcxdThCNUFSeFdtYk1DRGJnRF93?oc=5",
-        "fonte": "Estadão",
+        "fonte": "Jornal do Comércio",
         "data": "2026-08-06"
       },
       {
@@ -202,6 +196,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
         "fonte": "AgFeed",
         "data": "2026-08-10"
+      },
+      {
+        "titulo": "Brastemp e Consul não fecharam fábricas no Brasil; decisão de empresa envolve Argentina e México",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGQ2Q2xCa0ROSFRaUXN5b0ZJc0pxTjFoMkIzRDRUMVloNmlFQ0tPd2UwMXA5UFhkRnoyWWdJS2UwZ2I5M1lYaFpEMGp5QzY5WGhEYlZRN2tRVFZDblR4T3o0ODFEU1RuelZXSmptXzdTdF9DTXBGTWNVUXdhWDhmbGRLWW51eU5JSlAwdUVmQmF5VjRyYzB5amJUWkR1LXViX1lrSkFHSUJBRm1BcUMxeXFkVmk0RWRRXzlzQWd5WHNWMGJUbjNvSnZQUDN5ZkVxbzE4dzFkY1PSAd4BQVVfeXFMTjF3dlY2UFMxM2JFR1VtaFJIOXlfelAwaHdqNkNUZ0tLa0tCa2UxOXI4bXpVYV9rbWFSYzJOSUhmWUNTQ2ViSmFrZUNSVUhHTVlJRUp3NURuLVpVUnhOZWFESWg5SEpfNXRaSG05cUtTNnduc0hMSHdmb2pJLXRmTmNXT0llZHBvNVFDRmxUeEFSYUZyUjBnNkNZN2pUMW4yWXlORGY1NDhkb1VGaGlVbll6UzFLTmdtT2tZM0lOSlVOUUJWYmV1Y2JfbGcxdThCNUFSeFdtYk1DRGJnRF93?oc=5",
+        "fonte": "Estadão",
+        "data": "2026-08-06"
       }
     ],
     "logistica": [
@@ -246,12 +246,6 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Minerais críticos podem gerar R$ 192 bilhões ao PIB brasileiro até 2050, prevê Amcham",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1dNeXJKSFJVMkg5MnA4TjA0X1ZPaWlLQkh6UGZ3TWxYZF9fM19Pd3IyVlVnZzhpR0h6b2s4d2RWVmhIXy12dW04N3NNWDFVVlR6Snh2Y1VmRHJqQ3hfRjdaS0RBZjhCN0EwNExKcFNSbE8ySWlGUm4xZzN2YmNZTEVSV3dCQ25MZGxFR0xxUGNKUWRnMUQ2N01DNDRsR00xLVVucDhCZFFMUy03d3dzcEZ1bWdpd2dkZnBLYmthVGc?oc=5",
-        "fonte": "Canal Rural",
-        "data": "2026-08-04"
-      },
-      {
         "titulo": "Ala do governo quer triagem \"rigorosa\" para investidor em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1FNdXd4YkJjdy1UVDJYYS1DbUpkeWVfMGM1bzVGbFFnTEVRd3VBckx6RXNDRldycG9QNGo4UEVvUEFUajk1SXVCU09JV2Joc0ZSU3ZxRWttWV8tY2JfQ0YzaHRZZjd1SEZiRkZmXzFNOFNuZDd1dHgxaExqNm82aUVNUE9uUEhXSGRCRHBXV2Q3XzNhLVk3dHVnVUU5a1lpRDBfMmNtSUlyVDNnbkE?oc=5",
         "fonte": "CNN Brasil",
@@ -260,8 +254,14 @@ window.NEWS = {
       {
         "titulo": "Minerais críticos podem adicionar mais de R$ 40 bilhões ao PIB de Minas",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZSm9nMTNkd1ZRcFlNemtJdHdPNUE5YzkxbElZcjlLSktMaFhnQjc5T0RGTUtOU25Ed1JnNnV2ODIza3h0bWZRTjVnbFlaTC1NZVpVRU5PdzVQaFZpdThoU1VvOEVlc2JPWjhCTGxFa3IyQXN1d0dybg?oc=5",
-        "fonte": "Diário do Comércio",
+        "fonte": "diariodocomercio.com.br",
         "data": "2026-08-05"
+      },
+      {
+        "titulo": "Minerais críticos podem adicionar R$ 192 bilhões ao PIB",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2tLcUJQVWsxTk5QQzJzYnFWNUJ4dnp5QU9iRU9BUWpZcnBqbTQ3NXdHVHZKd0VQQlJJYklDQXphZlNrZmM3dFFjX2gtMk5uNlZJZVRiSnQ4S1p6Mk5JeTFDXzdJTkZzT0pNc3FaOXhyck1vQ3FTTFB5b2wweUJGQVZGQ3VXcUNyNWhtaA?oc=5",
+        "fonte": "AEPET",
+        "data": "2026-08-06"
       }
     ],
     "papel-celulose": [
