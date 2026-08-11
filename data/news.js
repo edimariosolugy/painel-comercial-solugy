@@ -1,73 +1,350 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
-// Carga inicial: curadoria manual de 10/08/2026. Será sobrescrito pelo robô diário.
 window.NEWS = {
-  "atualizadoEm": "2026-08-10T12:00:00+00:00",
+  "atualizadoEm": "2026-08-11T10:04:38+00:00",
   "itens": {
     "agronegocio": [
-      {"titulo": "Governo Federal lança Plano Safra 2025/2026 com R$ 516,2 bilhões para o agro", "link": "https://www.gov.br/agricultura/pt-br/assuntos/noticias/2025/governo-federal-lanca-plano-safra-2025-2026-com-r-516-2-bilhoes-para-impulsionar-o-agro-brasileiro", "fonte": "MAPA", "data": "2025-07-01"},
-      {"titulo": "Plano Safra 2026/2027 anunciado com R$ 525,1 bilhões", "link": "https://www.abcdnews.com.br/noticia/governo-federal-lanca-plano-safra-2026-2027-de-r-525-1-bilhoes", "fonte": "ABCD News", "data": "2026-07-01"}
+      {
+        "titulo": "Mais de 3 milhões de pessoas físicas já investem no agronegócio pela B3",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYTdFVDBjM0x6SDk4emV0enphSkZBX2V1azNOczlPTlQ3b2FwZGFfZ2tLdTFOMW1aaF8wQXlIMVNZckgyZ2pDSlJXRjUwckp2d2puN3FVZ0U1RVluTV9LcUpBQldMTkN0aHFaSENEQUtRODhOaUdITEMyekNOMFdxM1hWSExUcTZlQTRHQWVaSE1JNFJTMTFGYWJCMDFRTTdfRXdDN0FsRjdJdw?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-10"
+      },
+      {
+        "titulo": "PIB do Agronegócio Inicia 2026 em Queda; Veja os Demais Destaques do AgroRound",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSE0wekhTaEhhS3ZhWWFaVmJvbXBnWXRJWThXYmNiQTNHS2JyN0hva2h4NmZ5U3Bqcll3ZTRBUHJIazRwQ2VYNmMyaE1ubUVKbm9tT2Y1Ni1CVUJCdUFjS20wYUtwRUtXaWNOdlpreXBlekwyNDFlWGhRR3FNVjNNeE1sSXNXbmdMZDFsdFNDalJRQnhham55R25tMmdHYk5JaFVmdUxMV0wzT0l4SkpyUjVleUVXekgwdkZGVQ?oc=5",
+        "fonte": "Forbes Brasil",
+        "data": "2026-08-07"
+      },
+      {
+        "titulo": "Bahia Farm Show celebra 20ª edição histórica com anúncios do governo de investimentos para o agro",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUmJZekVPT1QyZUd5TTJMMU9vZnM4V2FPNTB5cGdxN0kzZmpCN0xLeW9VZnZkOFoybjNFTS02NkZONUZCWnlMM1FkSGo3VGVxQ3BGSkdacWNEVEM0aFRvXzlLUk1ZZVJ6eVhsMU1ZM0tZRXdzSThxWDNoYWFTekx4Ylo1aFBHUjJxNGhVME9CNDdMX0hvM1EwU3hJYVlnaUZ1ZnlmNDkzczNZSkRtYi1Xb21iLUVVdFN3blhTWnBPcEVBcE9hdFAwOWFWLWFtOVVTbDgtcG9HZ3cyT1VWTm5RWWozaHAyaVBvbW9pTGtLOEFITm14N3hfUjRn0gH_AUFVX3lxTE9FVVZCU3VuSmMwYW1WSEpRRW1oYWxiTFNyX0pycEI4RW1jcXcyWEZ0RFRqZk52SFFneC1EVnVXdUo4RGhIY2hUUFh0ZzhaOFVkc3BzcE91aHp0VDdIZ3phSTQyQU1tTjFJQWVsQVQyN1RZYjladDBENXFQd2JIbnY1Rk85T3oxSXduSm9DYnRva1BMeFpOZEEycjdFZ1BvU2E3YlFjeFBUdE5Rc0VEa0xEc0RSN2hoV0RlU2YwWXFWYUpPLWVfeWpkRHplRmxzWUhTamhONVh5amNjYWNiMjNiQmZzZzVhbnF1SHk1dG1DbFE2dV9hZTYweG9RTDRfOA?oc=5",
+        "fonte": "Notícias Agrícolas",
+        "data": "2026-08-05"
+      }
     ],
     "alimentos-bebidas": [
-      {"titulo": "ABIA: R$ 120 bilhões de investimentos da indústria de alimentos até 2026", "link": "https://abia.org.br/release/abia-apresenta-r-120-bilhoes-de-investimentos-da-industria-de-alimentos-ate-2026/", "fonte": "ABIA", "data": "2024-07-01"},
-      {"titulo": "Indústria de alimentos e bebidas investe para ampliar competitividade", "link": "https://engarrafadormoderno.com.br/mercado/industria-de-alimentos-e-bebidas-investe-para-ampliar-competitividade-e-sustentar-crescimento", "fonte": "Engarrafador Moderno", "data": "2026-06-01"}
+      {
+        "titulo": "Danone investe no Brasil em meio à febre da proteína: 'Quero crescer mais que a matriz', diz CEO",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbHBBbm13WDcwY3RiWnNYTFNoVUdleEc3X2JYajhEM1BaMUdOc29XMnJzTEVIWkl0VTBDSGEyYmtENDNxem1lZHBUTTBqQk5pcFN0cC10OEUyT3Rtd3hhNExqWEhVVFJrVnZiTG1nLUJ6NUhKS3JPMWJKNWI0MzhINzFzWDYwS0VTelNGUmxPRDJUMEtaZUtGcF9jUFVTLTQ0TEdMWG0ybVJhTGkxTkdaV3Vtem9jeXdjbTFqeEhZbVlCWEdWLVVpZzZ3WnZVMEhFVTROUXFUNVpkZGk3?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-08-05"
+      },
+      {
+        "titulo": "Com investimento de R$ 6 milhões, Ceará ganha centro para certificação do leite",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODh1VmxGcUpoaXhZRWROTDJMb09tYXFfYThHRGV2TVB2MWJrWFNnU29oUWpmbjN5SDZIc3Y3Ykx1c0VwODJKcmYzY2RGUjZKcURtYlM5LXpoMU1UQXc3SzlFV0NINlBDTi1mZkJPMFhDT0RvSkFLSW15alFkbFhFcnhZSkJqaWhHQ3M0MjFzSVp3OV9Hb01QWlRYemtOeXpHTkhQY0xLcjFLYmQxa08xel9mMm5PdmtiLTZxQlZtNTE1bXNxYTl3Q1MwTTdKVnZteWc?oc=5",
+        "fonte": "O POVO+",
+        "data": "2026-08-06"
+      },
+      {
+        "titulo": "FIEC inaugura laboratórios que ampliam competitividade da indústria alimentícia - Portal IN - Pompeu Vasconcelos",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmk5UUFib21aUWExSG1PTW1jZzU0TlQ5WlZWbDIxMTB5a3VZSXJvdUxPeGpiRzNLTl9OYnMyN1NUU2ZzY0t5di1vRG5ZU05rT21zYnZZTXEwRm9CTmRGVDBWOUlqaUU3NVJkREpxVXVjRlpPSU1HYklLb0pjaThPcEpaOWd6YkhzNUJnaWpoM19OUHpOaENZRDdteGFCLUZfSlNGU3Y5ejVsQjZsRDRxcWVLVWlXSmc?oc=5",
+        "fonte": "Balada IN",
+        "data": "2026-08-05"
+      }
     ],
     "automotivo": [
-      {"titulo": "Montadoras de veículos investem mais de R$ 60 bilhões no Brasil até 2032", "link": "https://www.automotivebusiness.com.br/noticias/montadoras-de-veiculos-investem-mais-de-r-60-bilhoes-no-brasil-ate-2032", "fonte": "Automotive Business", "data": "2026-01-15"},
-      {"titulo": "Produção de veículos cresce 5% em 2026, mas avanço dos importados preocupa", "link": "https://mecanicaonline.com.br/2026/05/producao-de-veiculos-cresce-5-em-2026-mas-avanco-dos-importados-preocupa-industria-nacional/", "fonte": "Mecânica Online", "data": "2026-05-01"}
+      {
+        "titulo": "Carros chineses derrubam preços e impactam mercado de seminovos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLW10UjdKbmtnX3k5dHV2OGhBNFdBWkRWZk51a216UE9ENnh4WjI1MjdmX0ptY1gtV2tHdDZmWWxXbE5GenBhM2dWOGVncEp0clROWE1pMGJTN3l1ZS01X29iWGFvOTdLSDRYR3dBUDZGdF8zelpXSDRUTnhLR2YtUXhGMFhIbldjdHR3SDFDMXAxSnI5a1BfSHhWRHFWMmxfekg3ZUhDYWVORGFvMGxqN3FR?oc=5",
+        "fonte": "Gazeta do Povo",
+        "data": "2026-08-05"
+      },
+      {
+        "titulo": "Imposto Seletivo e Mover no setor automotivo",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlBjbkQtUnc3TXhTLWdQVUE1TGh1Vk1ZQ3FyVlk1SzNCOWYwS0wxXzdpR0drTG16UXdnWEV4UmxZS19DUEprS0tzbnA1OWt2cFA4Slh5ZUs0MGZMY29tMkJJQjVwMzJvYTVfSTQ1dHUtQllaZnlqdGZJMmROY0VwX3pkalp2b19VQ0swZURuaWJzZ2dH?oc=5",
+        "fonte": "Automotive Business",
+        "data": "2026-08-07"
+      },
+      {
+        "titulo": "Montadora chinesa Jetour vê com bons olhos opção por fábrica compartilhada no Brasil, diz diretor",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWVBzYXdMOWxjX3plX2Y5VUJZdU1KdmJ1emdLWHFjLWlFTTI5YjUtQjQ2MVd2U2RGOGY2SkVZa1E0TFhGa2k5ZGxheDgtRTdDT1haeTYwRnRPZHB0ckhmMldnY0puSXdEWUNzQk1FRVpPMW5uYmhJQk9Bd25fdmp5eWxNTGRUWDN2OWc3eTdYRmdWZmNOYTBCZmowUVktQW56VTJQdEItQlBqM1JBTFhucC1renktS0RfZ0RwNFJ5clNOd0t3eEVTQnBNRDE?oc=5",
+        "fonte": "Money Times",
+        "data": "2026-08-06"
+      }
     ],
     "bioenergia": [
-      {"titulo": "Investimentos bilionários transformam etanol de milho em novo motor do agro", "link": "https://passandoalimpomt.com.br/agronegocio/investimentos-bilionarios-transformam-etanol-de-milho-em-novo-motor-do-agronegocio-brasileiro/", "fonte": "Passando a Limpo", "data": "2026-06-01"},
-      {"titulo": "Governo propõe gasolina com 32% de etanol e mira autossuficiência", "link": "https://cenarioenergia.com.br/2026/04/27/governo-propoe-gasolina-com-32-de-etanol-e-mira-autossuficiencia-com-corte-nas-importacoes/", "fonte": "Cenário Energia", "data": "2026-04-27"}
+      {
+        "titulo": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGkxUFFYRlljdkQyd2E1TXNSVkNjOERfZW1XU0FXVVV2M0Q5eWpHSl9YODhDaThFVU1hRlJpZExKTWFKay1fdlpQWm9ZQ1ZCMDA5VFhWTHluZnFISVRYRzNPampCR0NlaUJlY3VZN2tVV1h3M0MxU2FJdGRPYU15T0pVa2pNRXd6dGJtbWpUR0NLRFFxZ1FGLUxTcFRna01jLU5sNjVOZG5QMUp6M1g2bzBKbk0?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-08-10"
+      },
+      {
+        "titulo": "Fenasucro & Agrocana: Rodadas de Negócios devem movimentar mais de R$ 10 milhões",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1FIRXVfU1oteXV6MktaZHhMcV9Bb25CWDNEVjR4VXJzd21Lek13YkstQ0ZXZUJqSDd6M2hWTE9PbUowd1luNkJNcDlRc2NJNjhYZUJCTHBmUkdkZ0JPRHV2TmN6TnBncHMzeG4yVUZHX3dmVUdZY291MDEwM0dmQm9GaDF1SGJRYXV0UlFhWFFJbGNsdTVIUkxBTWZYeFBKbUE?oc=5",
+        "fonte": "JornalCana",
+        "data": "2026-08-05"
+      },
+      {
+        "titulo": "Biometano amplia fronteiras da bioenergia e coloca usinas no centro da expansão do gás renovável",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaTMtMVlJSGtBNng1WHFHSkF4TUpfOVFBaDdlUi0zMWVLZlNuaFhwSXI0QUMtZmRfRnp2YWJMT0VTY2VxYnVidS0yTC16OXJKQllyc3FCOU53NVdsMHdYTFpiLVFtSS1KNmE4R256bDJuQXNicV9vU1NBTmlYcXBYMWZPXzI2MjViNTNlV01mNE9rNG9aVUFla0NFaW9rbVlFT2R5VXlHZE5La2txazVpd0pabEFLUVF5RWhnU1dCNU9nR2xOUnc?oc=5",
+        "fonte": "revistarpanews.com.br",
+        "data": "2026-08-07"
+      }
     ],
     "cimento": [
-      {"titulo": "Vendas de cimento fecham 2025 com forte desempenho", "link": "https://abcp.org.br/vendas-de-cimento-2025/", "fonte": "ABCP", "data": "2026-01-15"},
-      {"titulo": "Mercado do cimento projeta crescimento em 2026 com habitação, infra e saneamento", "link": "https://alec.org.br/cimento-13/", "fonte": "ALEC", "data": "2026-02-01"}
+      {
+        "titulo": "As 10 melhores empresas do mundo no mercado de concreto de alta resistência",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObHR4UDBtSzJwUGROZGhyUi12S21NVTlNX05ISWhVY0thbURod2FfZzBxTF83ZFVDelhmSm1mSElTaVFKY1AzcEVsbjk2ZC1OaVM5ZmJZbVlwR05mNUtLbHpzc3dkRFBNcHZ2blFOU193WlZPd09MRnppOWtzanNRbFlmemk2RVlnd3lqV2JRTXFMc2VHaF9VYlpkYV9WR2xXeGpwZ3dXdEMtR2ZkVDBsV0Mtdm1VQUJieUUyOXlWVWpWTS1POTI0TWJlX1pycjBxUTVJM2pZaUNhMDl3emZxTmRNZklKc0ZTRmF2Y1NTMVhyc3pjVnp2Ym5n?oc=5",
+        "fonte": "Spherical Insights",
+        "data": "2026-08-08"
+      },
+      {
+        "titulo": "Liberando recursos de construção para criar impulso para o crescimento.",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVl1ZUtfWDhTczZSaU5NUlU1N1JoQVBqclZMbVVaLWtkZFlHanN1QmpvRUVEZEt4SWdWTDIxZUlXeGgwckhISFhjeTl1SkthanJHTW13aklNd1pjakJvZTMtT3IwVnZKdTNBdmhvalpRcU1FVjBIa1k0VER1X295OVREQQ?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-08-11"
+      },
+      {
+        "titulo": "Pedreiro aposentado cria maquina de fazer tijolo ecológico usando resto de poda de árvore e ganha investimento milionário em programa de inovação sustentável",
+        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPbVlBZjRFTXFGVUlMcktyaWgtWTBhWmFGbG5ydFl4dFNfdUtKRkctZHBOT2lSd21FUEZNaXU3THM3M0lpSk9jb2RKUXo2bmFkWmdPR1BfNVNIaHU2RzU2NnhudmM2NE5JWHpRRFE2Vk5HNGxseXJhUjFlSG5mVTd6azVZREE2YzY1Vy1NN05MWktRb2NqQkxFR1JSdTdIUkdtak8ydmlLV193NTZ5bzlsRVlJYW5NbFhmOVdySWVuU1ZLdFNNdFFpUFV6ZTJJcTQ2MFhQSlpGSXdHVTNDbXAybEtMUG94QzlDeGU4UDlmQ0IzOEhoa1BvRzgzZU92U3dqcmFLaG1JWm9YWlZEX0tVMWhDd1RXdUNPRXhwRUI2UmJJcHJVMTlVSWFaSi1qdmRLMFE?oc=5",
+        "fonte": "O Antagonista",
+        "data": "2026-08-04"
+      }
     ],
-    "comercio": [],
+    "comercio": [
+      {
+        "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-08-10"
+      },
+      {
+        "titulo": "Viezzer Supermercados anuncia investimento de R$ 6,5 milhões em suas lojas",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeEp1akl5bzlGMFdaeFlDWU9qQmhLcDZHa3d1M1UxMUNDcUtGQzBVWDZKUVM5ajYwS1hKbkl2SEhSYXpQZEdubFRFVHNEVHVLVXlXOXhmT1BudHdmcVNVbXFkNUxabGxQRXFhUzZnTERjQVBHczBKYVo5Y1ktT0U3M0U2VVlVdEVORGhteDhXaVNQY2FzWHk1YkJ6T0dEMjFXbC1EZjBR?oc=5",
+        "fonte": "Rádio Pampa",
+        "data": "2026-08-10"
+      },
+      {
+        "titulo": "Balanços mostram disputa entre crescimento e rentabilidade no varejo",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3dNQ2FxSHhxUjVqM05tOGZmLVdUSU5zdUlWVUgtNjFScjN1c2tPWWhkZUJuNEZ4VFN6N0dlRnhpTDh3NnZNc2ZyRHZtNkhVNFhzTE0zSjJlRWY2U25nTFI2SnIwRXlMQ29DRDZGX0RIa05PVlBNb1A1OFpyaUJ4Q0l0akFsUDJjRDVySElHOTdRc0NMTzk5VzJ2S19ESnB3dklYMEx3VTluRGtfWnE1OUFqeEh3VmZVZjc5OGlSNFU?oc=5",
+        "fonte": "BOL",
+        "data": "2026-08-07"
+      }
+    ],
     "energia-gt": [
-      {"titulo": "MME anuncia leilões bilionários de transmissão para 2026 com foco em renováveis", "link": "https://canalsolar.com.br/leiloes-transmissao-2026/", "fonte": "Canal Solar", "data": "2026-01-20"},
-      {"titulo": "Leilão de transmissão terá nove lotes e R$ 8,9 bilhões em investimentos", "link": "https://www.epowerbay.com/single-post/leilao-de-transmissao-de-outubro-tera-nove-lotes-e-r-8-9-bilhoes-em-investimentos", "fonte": "ePowerBay", "data": "2026-07-01"}
+      {
+        "titulo": "Axia Energia investirá R$ 8,7 bilhões em obras de transmissão até 2030",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XSnRrMk9rS0N6bW9HVlB1UWJuc0dyWnNBeHY1c3c1WVBMQ2ZDU29yY0FYbW9JTENjb29BbHd5N3FvSW01Z1VhVXB3TndXTnp1RVBRT1BDT2Y0cXY1NUVMWloxV0E4WFhZVTUwbk9UNDlVSDExSXNDcUxBaw?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-08-05"
+      },
+      {
+        "titulo": "Axia prevê R$ 8,7 bi em expansão da rede de transmissão",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVppdUJLUHlxVTlLYTRudnFjME80blVpVS1jdExpenBwZENNNHJTcEZrVzZpTUpQZHgxZm1yclQydmN5NzByYnRGY1dvQ0ZycEdTZDdnMkpPMkotcEhxd1ZZNFQzbk00bVFNVml5SkZaZDVuWFBMX2xua2tZTEdMdGZNSmZpSkVZVVdON19Hbw?oc=5",
+        "fonte": "agenciainfra.com",
+        "data": "2026-08-05"
+      },
+      {
+        "titulo": "Leilão de baterias atrai oferta recorde com mais de 6 mil projetos; veja o Radar Energia XP | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkk4bml0SHBpaDNMWVdVX0c1ZjNNVDJ6Ql9vQ2JuYVY4SjY3QXduYVFaWjlwR0Nzbzh1NkFDZ21nT3VySzZtN0RhS3ozR1NuazlaYUF1RkhzVmIyZ3p6enExSlhhZ3l4Yk5jQ3hxUHRJa19QWVZqOWFuWkhGdHhkcWdtQXd6dVA3MnhhMDRwZW5nLUpOR2Q1aEc4Q3R2c3ZGS0twNWY2MFdGblNPRVdGcGo1bWtoaU9PTTJUM2FGSG9WSTZuWklabGR2YW5WaHFYeFFVZ1hnZGNOY0J1?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-08-04"
+      }
     ],
     "solar": [
-      {"titulo": "Investimentos em energia solar superam R$ 300 bilhões no Brasil", "link": "https://canalsolar.com.br/investimentos-em-energia-solar-brasil-2026/", "fonte": "Canal Solar", "data": "2026-03-01"}
+      {
+        "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-08-10"
+      },
+      {
+        "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
+        "fonte": "Senado",
+        "data": "2026-08-10"
+      },
+      {
+        "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB0gHkAUFVX3lxTE1hV19HZmx2WlM3aDdwVkxyS0N5STRYX1RZYmFpelNMVUxCQ25xRXdPOFJTWXN0cWJUXzV6czFsVEctTUkzcnZkTjlNN2Z6UEpueEJXQlI5aVNhczcxbTVoTzFHcmI4RktHQ3RhQjI1c055SnVXVmVDejlGMDRkSk9PalRRVTFGRUc2bXhhc0F5c3c3YzZOS0hTLXNULUFMX0ZKdHdNMkMtbWdwbGZtUk85NWNtZ2ptSHEwZ2FtUklCLU1kZUxkLW44Yzc1WDRqVEd6MVA1bXlxMVh5VGpMVnROTDZ5VA?oc=5",
+        "fonte": "G1",
+        "data": "2026-08-09"
+      }
     ],
     "epc": [
-      {"titulo": "Novo PAC: R$ 944,8 bilhões executados em três anos (70%+ do ciclo 2023–26)", "link": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2025/dezembro/com-r-944-8-bilhoes-em-tres-anos-novo-pac-ja-executou-mais-de-70-do-programado-para-o-ciclo-2023-2026", "fonte": "Casa Civil", "data": "2025-12-01"},
-      {"titulo": "Novo PAC chega a 2026 com protagonismo do setor privado", "link": "https://jornaldebrasilia.com.br/noticias/politica-e-poder/novo-pac-chega-a-2026-com-protagonismo-do-setor-privado-e-promessas-para-transportes/", "fonte": "Jornal de Brasília", "data": "2026-01-05"}
+      {
+        "titulo": "Engeform e Galapagos lançam fundo para inves...",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPenZGeHJJVmw3RE1xWU5XZXhuMGVOU2xLWVA4d0NrbXFURTBSSkJ0M1NSVmpJT1RmN2x3RzZsbG51VmV5SzBVbDVyODh2SlpjLWRNNWZrU1ZfUDRTSVVqQ3hNSXNOeHpVX19fMExjZ2RqLTF2ZVp2cFItekl0VGYyaW1ObDh2MjNnbnJGWWtZTlRqMUNKbW91X084UkpEN2RMdXkzeks3a25nRVJlUFBtRDV4d0pHTzd5OFM1eTZn?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-08-04"
+      }
     ],
     "farma": [
-      {"titulo": "Indústria farmacêutica deve crescer 10,6% em 2026 e superar R$ 220 bi", "link": "https://www.superaparque.com.br/not%C3%ADcias/ind%C3%BAstria-farmac%C3%AAutica-brasileira-deve-crescer-10-6-em-2026-e-superar-r-220-bilh%C3%B5es-em-movimenta%C3%A7%C3%B5es", "fonte": "Supera Parque", "data": "2026-01-10"},
-      {"titulo": "Genéricos geram R$ 14,6 bilhões em economia no 1º trimestre de 2026", "link": "https://febrafar.com.br/genericos-movimentam-o-brasil-e-ja-geram-r-146-bilhoes-em-economia-no-primeiro-trimestre-de-2026/", "fonte": "Febrafar", "data": "2026-05-21"}
+      {
+        "titulo": "O futuro da indústria nacional perante a Big Pharma",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNakF2bFB6V0pqOV9tVkUyczB6cTBkLW91SUhYdzZNa0pzT25vX0hxTWxpSnFOVm1pLXduYkt5R0dQWmo1bUU2bl8xWHJ6YWhZTWZ3VFF0eWw1NlVpWGxZOVg3SzNoRmlWdURvZXNSVWg4VmNsN0RreDYtdkcyTnpfOGhpcTdIcEpxLUQwam44Tkx0OVRM?oc=5",
+        "fonte": "Outras Palavras",
+        "data": "2026-08-06"
+      },
+      {
+        "titulo": "Pesquisa e inovação em saúde no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ub21odk5haXNnb3BpakRwdGV0dWkxRUh5YlZ5M2J3TUM0bFhjYVpucHhwTU9ZQ2pfUkotTFczVks3WXhjbkpYMUJUczI5SnlhRU04aGNyUkdYcDF3amNhZ3h4cGlWMmJvSS12YkdyNmk4a3l5ckZhVTdYTmtIZw?oc=5",
+        "fonte": "ABC - Academia Brasileira de Ciências",
+        "data": "2026-08-10"
+      },
+      {
+        "titulo": "Governo do Brasil destina R$ 120 milhões para impulsionar pesquisa clínica no SUS",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWZsN2IzSXJPdUIzSDNGN09ZUUplc0MzZGtfSS1qRU1uaFpnTzNHYmFNQ0N3ODJfalpPMXVNSHhOT3ZYVjlPM0NDbzlhNE1RaWxlNDZGMURITnNJMktCNE9aQmI3ZURoVGlfWFNBUURGbzAzTlAxMnd0QWxiY3JoZmVtTnpsZmVwUW5Tbm9vNndqN1BuRzZvdzJaelRjM3Vrbk5sSFU5Y2hPTHhVZWQwZ1VkYw?oc=5",
+        "fonte": "Biored Brasil",
+        "data": "2026-08-07"
+      }
     ],
     "fertilizantes": [],
-    "industria-geral": [],
-    "logistica": [
-      {"titulo": "Com R$ 54,9 bilhões, Novo PAC acelera modernização dos portos", "link": "https://www.gov.br/casacivil/pt-br/assuntos/noticias/2025/agosto/com-r-54-9-bilhoes-em-investimentos-novo-pac-acelera-modernizacao-dos-portos-e-apresenta-resultados-na-camara-dos-deputados", "fonte": "Casa Civil", "data": "2025-08-15"}
+    "industria-geral": [
+      {
+        "titulo": "Gaúcha Vibra Foods investe para ampliar produção em fábrica de Soledade",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUQ3bkhuaVotQy1GeldIdFNLUEZaa0dQMWFfcVlzbDlWajZZMlhCREQ3TXY5My1TMW9hRlJacEdZVTN4ZHdzZkQ1YzJyaHM5a2ZFbTR6WUhpV2lLNjBFUzUtVTVKQ0NYVlhfV3IwRlQ2enVBRFNsMGJHaTU3ZXR3bjVObU1wZzlENnUyNGpPQy1PLWJueFVlel85TmJuTmNienV5S1FRQ2c2dFo4S2NtS05Ic2tQN3ZWQVk2MXJvSHNpdWtYVG9PUDV1cjFLR18tc0hTWjBfYkJXVzg1QnFzNFFYcUtaMjNLTHI3YlZITnpRNHM?oc=5",
+        "fonte": "Jornal do Comércio",
+        "data": "2026-08-06"
+      },
+      {
+        "titulo": "Brastemp e Consul não fecharam fábricas no Brasil; decisão de empresa envolve Argentina e México",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGQ2Q2xCa0ROSFRaUXN5b0ZJc0pxTjFoMkIzRDRUMVloNmlFQ0tPd2UwMXA5UFhkRnoyWWdJS2UwZ2I5M1lYaFpEMGp5QzY5WGhEYlZRN2tRVFZDblR4T3o0ODFEU1RuelZXSmptXzdTdF9DTXBGTWNVUXdhWDhmbGRLWW51eU5JSlAwdUVmQmF5VjRyYzB5amJUWkR1LXViX1lrSkFHSUJBRm1BcUMxeXFkVmk0RWRRXzlzQWd5WHNWMGJUbjNvSnZQUDN5ZkVxbzE4dzFkY1PSAd4BQVVfeXFMTjF3dlY2UFMxM2JFR1VtaFJIOXlfelAwaHdqNkNUZ0tLa0tCa2UxOXI4bXpVYV9rbWFSYzJOSUhmWUNTQ2ViSmFrZUNSVUhHTVlJRUp3NURuLVpVUnhOZWFESWg5SEpfNXRaSG05cUtTNnduc0hMSHdmb2pJLXRmTmNXT0llZHBvNVFDRmxUeEFSYUZyUjBnNkNZN2pUMW4yWXlORGY1NDhkb1VGaGlVbll6UzFLTmdtT2tZM0lOSlVOUUJWYmV1Y2JfbGcxdThCNUFSeFdtYk1DRGJnRF93?oc=5",
+        "fonte": "Estadão",
+        "data": "2026-08-06"
+      },
+      {
+        "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-08-10"
+      }
     ],
-    "maquinas": [],
+    "logistica": [
+      {
+        "titulo": "Plano de logística quer investir R$ 1,225 tri até 2050",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHpXQThIcGVqR2dyMW9uOHdPWmxsSkVSM0JzVUExVDA2OHExX1ZreFZkVlhlNnN3UjVVMTdzZ0c3Y18teGdDVkhxSkh5NzNXTzNZMV8tc0psN2ZTdXFoVVByMWUzTE92Rlh6MFdkZVJsN2VfRjZVcld0R3ZIUDJrV3RUMkVGT3ducWIzSFVueENqVy02dVFoUHJvLUvSAasBQVVfeXFMUGdXQnc5Z2h1Z25mQjNKS0xxNndCeTdCLUcxSkJtbXR1T1VNeDNlXzJBdFdpWG96RWFaazk5UnlHWTA5VFBwamJ1WkhwQ3Z3blFRcjU2ZXNfZFV6cVhCZ29UWTJVSF9RWGtENVU1eFhsdC11YlBCM2lobjhNREZPSHJpQkxKazlkQ05iRUV5VUs5MzlLNjVEaWRoWm5jbmJSTWtUZW5TZkJiYm5Z?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-05"
+      },
+      {
+        "titulo": "Novo plano de infraestrutura do Brasil prevê R$ 1,2 tri em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWJKQ0ZDYmRVSGhMSDZ1SGlXR3ZycHBHVUJPa2VpTjNCR3VSQzd4MEdTS1pwWXJYU0k5dTFPeHloU0x4TVoxNzBTLUVrMjZGWDlvd0QxV21zWUJLbVozOEpXa3U3cGhQWG9rZWl3TWRCWlUwOXhWUXNpdGM5R2N3VW5IRlZIOE9ZZWk1OURoV2ZFbW5YM01QN05tTWEtRXhRamVRNWlIMGRGX3I0?oc=5",
+        "fonte": "Rádio Itatiaia",
+        "data": "2026-08-07"
+      },
+      {
+        "titulo": "Brasil precisa de R$ 2,03 trilhões para transformar sua infraestrutura de transportes e logística, alerta Sindicomis",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlg1a1NWRVBJdEVWa2V6T01rLW5kVFl6RTJfdDlRNGRsbXhMR0RIVFdYS1pxLUhrd3N3cWVPQ3BYUFVyNnZNaVpJdl9nWk9aTEtEckkyQWttd3FMNnNCQk1lb1dJSVotNWdiRVo4V2ExUlA1Ynp0bWJaT3d3dFo2WFFSOE9TelozeFd0dk03T1p4Uk1mR0tHVTZHbWIxTGRzWmxXejJVUklZcjVla1dJeHFHNnZtNll0UGV3?oc=5",
+        "fonte": "deducao.com.br",
+        "data": "2026-08-10"
+      }
+    ],
+    "maquinas": [
+      {
+        "titulo": "Juros altos e baixa automatização: o que trava a indústria brasileira? (Ep. #214)",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmZvS0F1LTlEcnZxTnpueUxaekJoQXJBSHNyVldha1VUcWVlV2w5OFRhMFo1cTNqUmRUcmIzMHZiRXpBTjhtWXhwX25EMm90cXJTMlVGNEZtdU0zb2VQSGNIUzJvZ3RLNG8tdWRTei01YnJRelhhRzc3ZEVmYmVpZkFMUUdUTXBVeS1qTWt5ai1zeEhBa3R6UHdvbmc4ckN4UElfazAzanZSNVFuc0lOX05HUFlYalVFNXdmbUVPNF9uaEQ4VFNYQ1l6NXhmU1Jpbnc?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
+        "data": "2026-08-07"
+      },
+      {
+        "titulo": "Indústria prefere comprar máquinas novas, mas investe pouco em automatização, mostra pesquisa CNI",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS3hyejBEY2ZGM3NvVmQwM0VVdXNfcUJkLTh1eE1ZMTlYX1d2bExneV8yeEtPRF9yc3EybEZpanNzeWg2cHBjSDVvbWp0QnQtNS1nS085cm43cm1PQkYzaDF0NDZ0RlZOQU54dHB2UUMwN3N6ZXJ3LUh6UzhYdGdfV1hDc25Mbk5uN3hBYlEwSjAwVUlSQnJ1c2VlR0lzeHUtTmowWWtYVlZOdVpYQWIxb1NVeGtodzVjT2tZUGhGTU84T1JWbndvNWRjd0dFcnpfRm1tNGNMYjluRWJFU0hmQtIB7wFBVV95cUxObFVoVEYtRU9wUlhvb2NMRkxfTW01TGhiQUlSUWxjMk12VWxTTmpKQ2Y5NGZ4Y3lxWHpHYnZhZC1aY3huaFJ1TjljOFRqYVNXYXM2Szd1elRRUmp6UWxXZDAycHZCNk95ekliSXppT29FUzd2b0RvbGVjSGRKV0dnNjhva2x0RklqMnBwQzlWQUotaGt0YjdyNUVpTGJrNDJHcV9XY1ZXU0M2SEdzbkE0ekFRN19qb29TZDM1bThfSjdMdHJXa01Ha0pHT0t5dnZDX0VVa1ZFYXhCMHppNzEteFEtd0ZhdEVwUXlmR0RkOA?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-05"
+      },
+      {
+        "titulo": "Indústria renova máquinas, mas automatização fica em só 5%, diz CNI",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1JCRUcxZXh4NWJlSUdLdlhjaS1SSmxIMTFlb2hvTFNmZjVhZW1pbzVtZ2U2UUtmTjg1T2l6VXVKemxuS3I5R0lXMFVMSlNkc1dfaFd3ekhuQ0c5OXpOb2h5M1N4TGlHQmI5bHgtdktTZWFXTF9HZmljV0UyY2loU1JOcENINDU1bUhoNkFXeEdMRm1MdW9DVXpXX29uc3ZnX3NmVEFJVWQwREN6?oc=5",
+        "fonte": "Poder360",
+        "data": "2026-08-05"
+      }
+    ],
     "mineracao": [
-      {"titulo": "Mineração prevê US$ 76,9 bilhões em investimentos até 2030, com foco em minerais críticos", "link": "https://revistamineracao.com.br/2026/07/29/mineracao-preve-us-769-bilhoes-em-investimentos-ate-2030-com-foco-em-minerais-criticos/", "fonte": "Revista Mineração", "data": "2026-07-29"},
-      {"titulo": "Minerais críticos devem receber US$ 21,3 bilhões entre 2026 e 2030", "link": "https://revistaminerios.com.br/minerais-criticos-deve-receber-us-213-bilhoes-entre-2026-e-2030/", "fonte": "Revista Minérios", "data": "2026-02-04"},
-      {"titulo": "Setor mineral fatura R$ 77,9 bilhões no 1º trimestre, alta de 6%", "link": "https://www.folhape.com.br/noticia/amp/481041/ibram-setor-mineral-do-brasil-faturou-r-779-bilhoes-no-1o/", "fonte": "Folha PE", "data": "2026-05-15"}
+      {
+        "titulo": "Minerais críticos podem gerar R$ 192 bilhões ao PIB brasileiro até 2050, prevê Amcham",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR1dNeXJKSFJVMkg5MnA4TjA0X1ZPaWlLQkh6UGZ3TWxYZF9fM19Pd3IyVlVnZzhpR0h6b2s4d2RWVmhIXy12dW04N3NNWDFVVlR6Snh2Y1VmRHJqQ3hfRjdaS0RBZjhCN0EwNExKcFNSbE8ySWlGUm4xZzN2YmNZTEVSV3dCQ25MZGxFR0xxUGNKUWRnMUQ2N01DNDRsR00xLVVucDhCZFFMUy03d3dzcEZ1bWdpd2dkZnBLYmthVGc?oc=5",
+        "fonte": "Canal Rural",
+        "data": "2026-08-04"
+      },
+      {
+        "titulo": "Ala do governo quer triagem \"rigorosa\" para investidor em minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1FNdXd4YkJjdy1UVDJYYS1DbUpkeWVfMGM1bzVGbFFnTEVRd3VBckx6RXNDRldycG9QNGo4UEVvUEFUajk1SXVCU09JV2Joc0ZSU3ZxRWttWV8tY2JfQ0YzaHRZZjd1SEZiRkZmXzFNOFNuZDd1dHgxaExqNm82aUVNUE9uUEhXSGRCRHBXV2Q3XzNhLVk3dHVnVUU5a1lpRDBfMmNtSUlyVDNnbkE?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-07"
+      },
+      {
+        "titulo": "Trump reforça ofensiva por minerais críticos com projetos de US$ 3 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoUDNSYUVnQ0ZCV2FXRVBGYTFEVXBEam1acTlMcElKTWplQ3FPdnpRYkdsc3plX2xuOU5XdWU2Zld0dk1kb0pGQVdWdHdqMldoZnZ0N2V2bEJ5ek8yTElsc3NDeW5CdzdnYktGUHB1T2NjV2pYdGoyUdIBeEFVX3lxTFBoUDNSYUVnQ0ZCV2FXRVBGYTFEVXBEam1acTlMcElKTWplQ3FPdnpRYkdsc3plX2xuOU5XdWU2Zld0dk1kb0pGQVdWdHdqMldoZnZ0N2V2bEJ5ek8yTElsc3NDeW5CdzdnYktGUHB1T2NjV2pYdGoyUQ?oc=5",
+        "fonte": "InvestNews",
+        "data": "2026-08-08"
+      }
     ],
     "papel-celulose": [
-      {"titulo": "Indústria de papel e celulose investirá R$ 105 bi no Brasil até 2028", "link": "https://investidor10.com.br/noticias/industria-de-papel-e-celulose-investira-r-105-bi-no-brasil-ate-2028-106660/", "fonte": "Investidor10", "data": "2026-04-01"},
-      {"titulo": "Boom da celulose redesenha a cadeia do papel e chega ao varejo", "link": "https://www.industrianews.com.br/2026/05/boom-da-celulose-redesenha-a-cadeia-do-papel-e-chega-ao-varejo/", "fonte": "Indústria News", "data": "2026-05-10"}
+      {
+        "titulo": "Klabin vê recompra de ações como alternativa importante em alocação de capital",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekU2MjlfakR6dFVIeGx6MHNfYk9PUGJTWHdFVmJSeExyLWFTUmRadkRTNVFXZEJqOGViVENvNHA0OE0ybW9mX0FSc2luXzdFbTZzMlluYmlyQ2V2RVVoZk5PY2MzTnRTandoSE5qUjgzUUxKT1NJMFp6cXBHRVhVMmhmMHdkRXRzZzJ6RmRaU3ZLQmFfVWhzRjhubVE3OGdBN05YalNEZlJaRkZSTkJReTh4SVRCVV9R0gG-AUFVX3lxTE4wVWFES0pKSnJxTEZ1WVJlR0l5NlRKR0JRMnctNFlOVlFWanNSMHhoUFN6RENfa3lTTVNHT3hSbWN3WGdaUDVtanF5RU0zb09rYWFGSmUzV0hmTGdSX0podHJaTmxZLU1RX0tfZFM5Y093d1FkY19XN1h3UlBOX2VGN2hQb2wweEZGZnhkWlNoUVNGTlIwVmc4S1RUYzJxUFlCZzVTUGsxb1pnZEJUQVRTQXBtNzdGSnpQUVR2c2c?oc=5",
+        "fonte": "InfoMoney",
+        "data": "2026-08-06"
+      },
+      {
+        "titulo": "Klabin entra em fase de \"colheita\" e adia novos grandes investimentos",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzRiMWUxcDQ1Y0ljU3pJdjFLRHU0RlBseDBWZ1RuWkpqMjMyRGxnUVRfU2pPejFIRDVEWHVtQ0xKTHMwTEtobXR4U01SOW0yenV0aWdNdWtxNjFVaURkRlRvVUdJSTFBWXZYLXY2MTN1SUN3Yy00QWUySGJBaE5BLWxmYUQtUE4yU0V0WXctTVkwekQyQnVPUXpueVg5THN5dUdKcw?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-06"
+      },
+      {
+        "titulo": "Suzano lidera ranking de inovação no setor de papel e celulose",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWlEbGVLQ05fQzdsVWtMcWpwWFJUTXBhSWhTdjFkXzBVeHMxWjh5UzRBekVaUXNtV3hzdnl3M3VDYlJLclhYdk1iMEZfZ1VBQjh1NmNtVnIwX2FVZjV4OWNicU1yWlpQUU1XM1JxUEpZdVk4N2ZzemRZTi12N1VhVE5lNkhHZE5UUzJNRVcwbFNweEs0TVE?oc=5",
+        "fonte": "Tissue Online",
+        "data": "2026-08-05"
+      }
     ],
-    "quimica": [
-      {"titulo": "Governo vai triplicar incentivo fiscal para socorrer indústria química", "link": "https://agenciabrasil.ebc.com.br/politica/noticia/2026-02/governo-vai-triplicar-incentivo-fiscal-para-socorrer-industria-quimica", "fonte": "Agência Brasil", "data": "2026-02-10"},
-      {"titulo": "Indústria química nacional apresenta sinais de revitalização em 2026", "link": "https://correiodobrasil.com.br/a/industria-quimica-nacional-apresenta-sinais-revitalizacao", "fonte": "Correio do Brasil", "data": "2026-06-01"}
-    ],
+    "quimica": [],
     "saneamento": [
-      {"titulo": "Investimento anual em saneamento cresceu 51% após marco legal, diz estudo", "link": "https://www.cnnbrasil.com.br/nacional/brasil/investimento-anual-em-saneamento-cresceu-51-apos-marco-legal-diz-estudo/", "fonte": "CNN Brasil", "data": "2026-07-10"},
-      {"titulo": "Saneamento: 2026 pode ter maior número de PPPs ofertadas ao mercado", "link": "https://agenciainfra.com/blog/saneamento-2026-pode-ter-maior-numero-de-ppps-ofertadas-ao-mercado/", "fonte": "Agência iNFRA", "data": "2026-03-01"}
+      {
+        "titulo": "Investimento privado moderniza infraestrutura no país - 06/08/2026 - Concessões",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVAxWkNxNFUyUTdqbnd6Y0Y2Q05pNDVjYkJrVXp0LWFjd1FpbW9fNWV2MXQ0RjAtR3NmZmY5UjZmaDRfVlJIT3JBdG9KMkVZLTRuVXcya1BDdkY0VHpvVnJrYk1BWl9oaGN2QlBxTW1PSFlGYUZkR045VE1IOExlbnpNaVVwdEhrdFZ2dnlBQndyZm16QWNTZTNuQXpLdDRLOHB4OGNhNHdZbENLLW4zUA?oc=5",
+        "fonte": "estudio.folha.uol.com.br",
+        "data": "2026-08-07"
+      },
+      {
+        "titulo": "Brasil conta com 23 projetos de saneamento em estruturação, totalizando pipeline de pelo menos R$ 30,4 bi",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYWVMa0V6UHRBeHYtYXhsbTVvX1EtOXF2YlJ6YUtETDlTZ2NSU3NsRURwUzM2RWZ1R3ZRT1JkQkh5bEl6TlpwUDhfQmkzODl2ckpoZnVheW11akVHWVR2Y0dHZUhuSVJ5T1RXZmlyazZuVUpJUkdWVmJ4d3pnYlFsOU11blp0ak9FMzdlOU51WENCVjU0VFVvTlBvNDZ0WUtkcERNaHZ5UjBFWmtybk8yYWw2Z3NfMVJWVFkwQlIwSVNCRVVmMHBiZDQxUTVCZlM3TDRzaVd6WQ?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-08-10"
+      },
+      {
+        "titulo": "Minas Gerais lidera leilões de infraestrutura na B3 em 2026",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUs3RE11MGRJSzZWaGVDR0xlc1lsMU9QN2ZmNzBBT0JtWGNNejRzelBDMDZlZ2lCbEd1R0lnU3lFd0JzcHhzejg0NUNvQVVYbTd4V3VHcVNKQkVPS1M0MnZUcG5UTi1vaXdYUmNidjVQSENfdVdIbGpROERaa25YY3dwbVEwTzExZjNkRk43ZEM4cVUyeVVKMm83VzRVX0pyY0pLTFJ30gGrAUFVX3lxTE1QdjdYNV9mZV9WQVJ2ZjExRmM1MlZIM25RcVRfMFVfcFNtUmRKNmxTOXFlcC1ucXEwbGZzWnRGNk4ySFVVc0tYZXgtVlQzRC11TmR3cjZfMEVKd19MR2tuVFVGQWE0VnVvZkF5d2c4dmFpTHFvVFRIanBGUjYwYmFYRi10aGM4azMtU3FKTFd0MjhxdXQ1Q3VWbVZsU3N3N192ckJjOXI3NldUMA?oc=5",
+        "fonte": "O TEMPO",
+        "data": "2026-08-06"
+      }
     ],
     "siderurgia": [
-      {"titulo": "Mineração e siderurgia: preços de commodities sustentam destaques do setor", "link": "https://conteudos.xpi.com.br/acoes/relatorios/mineracao-e-siderurgia-papel-e-celulose-precos-mais-elevados-de-commodities-sustentam-vale-e-aura-como-destaques/", "fonte": "XP Investimentos", "data": "2026-07-01"}
+      {
+        "titulo": "Gerdau é reconhecida, pelo terceiro ano consecutivo, em ranking por atrair e reter talentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOGF3eHg5MnRqSXFLM1NuOTBQak1qaFA3R3hqeGN6MWZwbnFtenhVNjVUb21NNGJxOXRZVklRTVZFNzlFa1FTeTA5Zm8wc2N6OVIzaWVIeUVRQ2VKb3AxT3FzTlVWYkFZUG1LZlNIemVCWEs0d1V3WFhNeEd5aExsTjFpelRzUXJHRHctY0FRb1hrekxkV1VpTERFMHdQSk1fTlNPY1dTaFJOT1RPZVVDV2FmcGZISVZmNXBLYmM3a3doZXVkTFI1cEFLckE2Y2dfMnpoemJ2VTB0bEk?oc=5",
+        "fonte": "Jornal Portuário",
+        "data": "2026-08-11"
+      },
+      {
+        "titulo": "Sindicato dos Metalúrgicos teme avanço do aço chinês diante da ameaça a empregos no Sul Fluminense",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTNNekhPaUduOEt2WE1Hc1o5OS1FYlFlTFZLbUZZaHFIaEIyUTllZUwxd3VhTmRIdDZwWmpLZlZLbmV5UjdLWnVLaWg4dTJxdHhQd0VadklXWXBUNVJJX2w0cVdKcUsyUGtPTUR4THJYYXdLZTU3QmNPMEF0aWRLYTMzalJQWDZFSUkwM3BJc3RRdkY3NUdpTEpqTzl6QWU4bFU5c3hiVFFXUE5rSmhMQWtuajlEVm9VM0pMTGNvRU5BOUotelE?oc=5",
+        "fonte": "avozdacidade.com",
+        "data": "2026-08-05"
+      }
     ],
     "odontologia": [
-      {"titulo": "Mercado odontológico surpreende com projeção de crescimento de 13%", "link": "https://unef.edu.br/mercado-odontologico-brasileiro-surpreende-com-projecao-de-crescimento-de-13-estetica-e-tecnologia-impulsiona-avanco/", "fonte": "UNEF", "data": "2026-04-01"},
-      {"titulo": "Mercado odontológico no Brasil em 2026: oportunidades e desafios", "link": "https://www.clinicorp.com/post/mercado-odontologico", "fonte": "Clinicorp", "data": "2026-02-01"}
+      {
+        "titulo": "Mercado de odontologia amplia espaço em Goiás",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFdCSmcxT3ctTmtpbFFVTEY3ZVZ1cWhyS2UxdGVSR1lvdXBEeUpSYWlTWE50bXdNZWVBenZBeGFjaW5RRHo1ek1KZHN3bkJacXlzWGpmOUFsMkZySmR0YzdGalF3dy1xcTZfaXRsZGxIMV9WUk9qRWNiLUxhbks0YlVMdlBHbXFUZDZNRWI3Z0VVQQ?oc=5",
+        "fonte": "opopular.com.br",
+        "data": "2026-08-09"
+      },
+      {
+        "titulo": "Previsão do tempo na região Central para segunda-feira (10)",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3d3eVRrUDlQMldCWW14dWtJM2lDT19BbDM3V25NM1p3N1ZsV3BJeEpOLXhFUmZQZVdzRU96TmpDN2QxYVhYSDJ1a1RjUURYbno0RnRFdXJRN1RBMTdab3l6RmltSUZ3YVkzWktBV3FyLVFOT0toeTF6cEpzSjhKVkFGa3p1NVhFbVBHcklNRmVpbVhkaTRvNnJfN1U3Zw?oc=5",
+        "fonte": "opopular.com.br",
+        "data": "2026-08-09"
+      },
+      {
+        "titulo": "Previsão do tempo na região Sudoeste para segunda-feira (10)",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVBDbGxUSi1VeVR1RERRMmpQTjFydDM0bTFNV2M4amFMNnpZdkgwZXVITnlWMURhTG5tdnVoZ2QxbkYxTU9WMlpOd0otc2hlVmY2UGhTU092ZmNtblVtWDc0WHdCbjNzT3ZpZ0tJS0RYaFJDQ0ctVXpnNUZqM3VEeTYxaHdMWk1SQUF0OVB4NE9NLU9HYkRudEVIYi1fb3c?oc=5",
+        "fonte": "opopular.com.br",
+        "data": "2026-08-09"
+      }
     ]
   }
 };
