@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-11T17:03:11+00:00",
+  "atualizadoEm": "2026-08-11T19:10:47+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -86,7 +86,7 @@ window.NEWS = {
       {
         "titulo": "CSN recebe propostas vinculantes por divisão de cimentos",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDVPSFBDa0pqM1BudDRQUTJnMGQ2SmF4U2NtWW02TnA5anZZUGxuamVwNUxiOXU4V1hBT09tRjVNeG8tQ3ZWbTB5Rkx3cVhiUzRGLXpic3VFQWN4WG5IR3pGRHV3eExsUXNJZUlSLV9uelVjY1l3bzlsbGVYV2xMRkozVWdocGQ2SWxNeFRrZ3YzZDBtemhhd01fNA?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-08-11"
       },
       {
@@ -98,7 +98,7 @@ window.NEWS = {
       {
         "titulo": "Liberando recursos de construção para criar impulso para o crescimento.",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVl1ZUtfWDhTczZSaU5NUlU1N1JoQVBqclZMbVVaLWtkZFlHanN1QmpvRUVEZEt4SWdWTDIxZUlXeGgwckhISFhjeTl1SkthanJHTW13aklNd1pjakJvZTMtT3IwVnZKdTNBdmhvalpRcU1FVjBIa1k0VER1X295OVREQQ?oc=5",
-        "fonte": "vietnam.vn",
+        "fonte": "Vietnam.vn",
         "data": "2026-08-11"
       }
     ],
@@ -132,7 +132,7 @@ window.NEWS = {
       {
         "titulo": "Axia prevê R$ 8,7 bi em expansão da rede de transmissão",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVppdUJLUHlxVTlLYTRudnFjME80blVpVS1jdExpenBwZENNNHJTcEZrVzZpTUpQZHgxZm1yclQydmN5NzByYnRGY1dvQ0ZycEdTZDdnMkpPMkotcEhxd1ZZNFQzbk00bVFNVml5SkZaZDVuWFBMX2xua2tZTEdMdGZNSmZpSkVZVVdON19Hbw?oc=5",
-        "fonte": "Agência iNFRA",
+        "fonte": "agenciainfra.com",
         "data": "2026-08-05"
       },
       {
@@ -144,16 +144,16 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-08-10"
-      },
-      {
         "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
         "fonte": "BBC",
         "data": "2026-08-07"
+      },
+      {
+        "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
+        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-08-10"
       },
       {
         "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
@@ -214,7 +214,7 @@ window.NEWS = {
       {
         "titulo": "Novo plano de infraestrutura do Brasil prevê R$ 1,2 tri em investimentos",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWJKQ0ZDYmRVSGhMSDZ1SGlXR3ZycHBHVUJPa2VpTjNCR3VSQzd4MEdTS1pwWXJYU0k5dTFPeHloU0x4TVoxNzBTLUVrMjZGWDlvd0QxV21zWUJLbVozOEpXa3U3cGhQWG9rZWl3TWRCWlUwOXhWUXNpdGM5R2N3VW5IRlZIOE9ZZWk1OURoV2ZFbW5YM01QN05tTWEtRXhRamVRNWlIMGRGX3I0?oc=5",
-        "fonte": "Rádio Itatiaia",
+        "fonte": "itatiaia.com.br",
         "data": "2026-08-07"
       },
       {
@@ -254,7 +254,7 @@ window.NEWS = {
       {
         "titulo": "Minerais críticos podem adicionar mais de R$ 40 bilhões ao PIB de Minas",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZSm9nMTNkd1ZRcFlNemtJdHdPNUE5YzkxbElZcjlLSktMaFhnQjc5T0RGTUtOU25Ed1JnNnV2ODIza3h0bWZRTjVnbFlaTC1NZVpVRU5PdzVQaFZpdThoU1VvOEVlc2JPWjhCTGxFa3IyQXN1d0dybg?oc=5",
-        "fonte": "diariodocomercio.com.br",
+        "fonte": "Diário do Comércio",
         "data": "2026-08-05"
       },
       {
@@ -291,12 +291,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVAxWkNxNFUyUTdqbnd6Y0Y2Q05pNDVjYkJrVXp0LWFjd1FpbW9fNWV2MXQ0RjAtR3NmZmY5UjZmaDRfVlJIT3JBdG9KMkVZLTRuVXcya1BDdkY0VHpvVnJrYk1BWl9oaGN2QlBxTW1PSFlGYUZkR045VE1IOExlbnpNaVVwdEhrdFZ2dnlBQndyZm16QWNTZTNuQXpLdDRLOHB4OGNhNHdZbENLLW4zUA?oc=5",
         "fonte": "Estúdio Folha",
         "data": "2026-08-07"
-      },
-      {
-        "titulo": "Brasil conta com 23 projetos de saneamento em estruturação, totalizando pipeline de pelo menos R$ 30,4 bi",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYWVMa0V6UHRBeHYtYXhsbTVvX1EtOXF2YlJ6YUtETDlTZ2NSU3NsRURwUzM2RWZ1R3ZRT1JkQkh5bEl6TlpwUDhfQmkzODl2ckpoZnVheW11akVHWVR2Y0dHZUhuSVJ5T1RXZmlyazZuVUpJUkdWVmJ4d3pnYlFsOU11blp0ak9FMzdlOU51WENCVjU0VFVvTlBvNDZ0WUtkcERNaHZ5UjBFWmtybk8yYWw2Z3NfMVJWVFkwQlIwSVNCRVVmMHBiZDQxUTVCZlM3TDRzaVd6WQ?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-08-10"
       },
       {
         "titulo": "Minas Gerais lidera leilões de infraestrutura na B3 em 2026",
