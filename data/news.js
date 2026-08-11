@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-11T13:19:37+00:00",
+  "atualizadoEm": "2026-08-11T15:04:24+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -18,7 +18,7 @@ window.NEWS = {
       {
         "titulo": "Bahia Farm Show celebra 20ª edição histórica com anúncios do governo de investimentos para o agro",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUmJZekVPT1QyZUd5TTJMMU9vZnM4V2FPNTB5cGdxN0kzZmpCN0xLeW9VZnZkOFoybjNFTS02NkZONUZCWnlMM1FkSGo3VGVxQ3BGSkdacWNEVEM0aFRvXzlLUk1ZZVJ6eVhsMU1ZM0tZRXdzSThxWDNoYWFTekx4Ylo1aFBHUjJxNGhVME9CNDdMX0hvM1EwU3hJYVlnaUZ1ZnlmNDkzczNZSkRtYi1Xb21iLUVVdFN3blhTWnBPcEVBcE9hdFAwOWFWLWFtOVVTbDgtcG9HZ3cyT1VWTm5RWWozaHAyaVBvbW9pTGtLOEFITm14N3hfUjRn0gH_AUFVX3lxTE9FVVZCU3VuSmMwYW1WSEpRRW1oYWxiTFNyX0pycEI4RW1jcXcyWEZ0RFRqZk52SFFneC1EVnVXdUo4RGhIY2hUUFh0ZzhaOFVkc3BzcE91aHp0VDdIZ3phSTQyQU1tTjFJQWVsQVQyN1RZYjladDBENXFQd2JIbnY1Rk85T3oxSXduSm9DYnRva1BMeFpOZEEycjdFZ1BvU2E3YlFjeFBUdE5Rc0VEa0xEc0RSN2hoV0RlU2YwWXFWYUpPLWVfeWpkRHplRmxzWUhTamhONVh5amNjYWNiMjNiQmZzZzVhbnF1SHk1dG1DbFE2dV9hZTYweG9RTDRfOA?oc=5",
-        "fonte": "noticiasagricolas.com.br",
+        "fonte": "Notícias Agrícolas",
         "data": "2026-08-05"
       }
     ],
@@ -52,7 +52,7 @@ window.NEWS = {
       {
         "titulo": "Imposto Seletivo e Mover no setor automotivo",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlBjbkQtUnc3TXhTLWdQVUE1TGh1Vk1ZQ3FyVlk1SzNCOWYwS0wxXzdpR0drTG16UXdnWEV4UmxZS19DUEprS0tzbnA1OWt2cFA4Slh5ZUs0MGZMY29tMkJJQjVwMzJvYTVfSTQ1dHUtQllaZnlqdGZJMmROY0VwX3pkalp2b19VQ0swZURuaWJzZ2dH?oc=5",
-        "fonte": "automotivebusiness.com.br",
+        "fonte": "Automotive Business",
         "data": "2026-08-07"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Axia Energia investirá R$ 8,7 bilhões em obras de transmissão até 2030",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9XSnRrMk9rS0N6bW9HVlB1UWJuc0dyWnNBeHY1c3c1WVBMQ2ZDU29yY0FYbW9JTENjb29BbHd5N3FvSW01Z1VhVXB3TndXTnp1RVBRT1BDT2Y0cXY1NUVMWloxV0E4WFhZVTUwbk9UNDlVSDExSXNDcUxBaw?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-05"
       },
       {
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-10"
       },
       {
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "Gaúcha Vibra Foods investe para ampliar produção em fábrica de Soledade",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUQ3bkhuaVotQy1GeldIdFNLUEZaa0dQMWFfcVlzbDlWajZZMlhCREQ3TXY5My1TMW9hRlJacEdZVTN4ZHdzZkQ1YzJyaHM5a2ZFbTR6WUhpV2lLNjBFUzUtVTVKQ0NYVlhfV3IwRlQ2enVBRFNsMGJHaTU3ZXR3bjVObU1wZzlENnUyNGpPQy1PLWJueFVlel85TmJuTmNienV5S1FRQ2c2dFo4S2NtS05Ic2tQN3ZWQVk2MXJvSHNpdWtYVG9PUDV1cjFLR18tc0hTWjBfYkJXVzg1QnFzNFFYcUtaMjNLTHI3YlZITnpRNHM?oc=5",
-        "fonte": "Jornal do Comércio",
+        "fonte": "jornaldocomercio.com",
         "data": "2026-08-06"
       },
       {
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Plano de logística quer investir R$ 1,225 tri até 2050",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUHpXQThIcGVqR2dyMW9uOHdPWmxsSkVSM0JzVUExVDA2OHExX1ZreFZkVlhlNnN3UjVVMTdzZ0c3Y18teGdDVkhxSkh5NzNXTzNZMV8tc0psN2ZTdXFoVVByMWUzTE92Rlh6MFdkZVJsN2VfRjZVcld0R3ZIUDJrV3RUMkVGT3ducWIzSFVueENqVy02dVFoUHJvLUvSAasBQVVfeXFMUGdXQnc5Z2h1Z25mQjNKS0xxNndCeTdCLUcxSkJtbXR1T1VNeDNlXzJBdFdpWG96RWFaazk5UnlHWTA5VFBwamJ1WkhwQ3Z3blFRcjU2ZXNfZFV6cVhCZ29UWTJVSF9RWGtENVU1eFhsdC11YlBCM2lobjhNREZPSHJpQkxKazlkQ05iRUV5VUs5MzlLNjVEaWRoWm5jbmJSTWtUZW5TZkJiYm5Z?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-05"
       },
       {
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "Indústria prefere comprar máquinas novas, mas investe pouco em automatização, mostra pesquisa CNI",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS3hyejBEY2ZGM3NvVmQwM0VVdXNfcUJkLTh1eE1ZMTlYX1d2bExneV8yeEtPRF9yc3EybEZpanNzeWg2cHBjSDVvbWp0QnQtNS1nS085cm43cm1PQkYzaDF0NDZ0RlZOQU54dHB2UUMwN3N6ZXJ3LUh6UzhYdGdfV1hDc25Mbk5uN3hBYlEwSjAwVUlSQnJ1c2VlR0lzeHUtTmowWWtYVlZOdVpYQWIxb1NVeGtodzVjT2tZUGhGTU84T1JWbndvNWRjd0dFcnpfRm1tNGNMYjluRWJFU0hmQtIB7wFBVV95cUxObFVoVEYtRU9wUlhvb2NMRkxfTW01TGhiQUlSUWxjMk12VWxTTmpKQ2Y5NGZ4Y3lxWHpHYnZhZC1aY3huaFJ1TjljOFRqYVNXYXM2Szd1elRRUmp6UWxXZDAycHZCNk95ekliSXppT29FUzd2b0RvbGVjSGRKV0dnNjhva2x0RklqMnBwQzlWQUotaGt0YjdyNUVpTGJrNDJHcV9XY1ZXU0M2SEdzbkE0ekFRN19qb29TZDM1bThfSjdMdHJXa01Ha0pHT0t5dnZDX0VVa1ZFYXhCMHppNzEteFEtd0ZhdEVwUXlmR0RkOA?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-05"
       },
       {
@@ -258,10 +258,10 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
-        "titulo": "Trump reforça ofensiva por minerais críticos com projetos de US$ 3 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoUDNSYUVnQ0ZCV2FXRVBGYTFEVXBEam1acTlMcElKTWplQ3FPdnpRYkdsc3plX2xuOU5XdWU2Zld0dk1kb0pGQVdWdHdqMldoZnZ0N2V2bEJ5ek8yTElsc3NDeW5CdzdnYktGUHB1T2NjV2pYdGoyUdIBeEFVX3lxTFBoUDNSYUVnQ0ZCV2FXRVBGYTFEVXBEam1acTlMcElKTWplQ3FPdnpRYkdsc3plX2xuOU5XdWU2Zld0dk1kb0pGQVdWdHdqMldoZnZ0N2V2bEJ5ek8yTElsc3NDeW5CdzdnYktGUHB1T2NjV2pYdGoyUQ?oc=5",
-        "fonte": "InvestNews",
-        "data": "2026-08-08"
+        "titulo": "Minerais críticos podem adicionar mais de R$ 40 bilhões ao PIB de Minas",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBZSm9nMTNkd1ZRcFlNemtJdHdPNUE5YzkxbElZcjlLSktMaFhnQjc5T0RGTUtOU25Ed1JnNnV2ODIza3h0bWZRTjVnbFlaTC1NZVpVRU5PdzVQaFZpdThoU1VvOEVlc2JPWjhCTGxFa3IyQXN1d0dybg?oc=5",
+        "fonte": "Diário do Comércio",
+        "data": "2026-08-05"
       }
     ],
     "papel-celulose": [
@@ -278,10 +278,10 @@ window.NEWS = {
         "data": "2026-08-06"
       },
       {
-        "titulo": "Suzano lidera ranking de inovação no setor de papel e celulose",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWlEbGVLQ05fQzdsVWtMcWpwWFJUTXBhSWhTdjFkXzBVeHMxWjh5UzRBekVaUXNtV3hzdnl3M3VDYlJLclhYdk1iMEZfZ1VBQjh1NmNtVnIwX2FVZjV4OWNicU1yWlpQUU1XM1JxUEpZdVk4N2ZzemRZTi12N1VhVE5lNkhHZE5UUzJNRVcwbFNweEs0TVE?oc=5",
-        "fonte": "tissueonline.com.br",
-        "data": "2026-08-05"
+        "titulo": "Aires Galhardo, ex-Suzano, assume comando da Atvos",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDZxYm1RLWNJUzlJYTlJRUIxWkdzT1hUajg0cVpxNmczT0UteWM5SDhzc2dtTHdGd0ljMzMwODk3b3JwcHB0ZlFodzU1dmVnekI5anN1eS1YNWFYdDkxR1VDakhVeHBMZjVFOU5LaE9VUTJZZV96RThyYWN4NE1GWU4wTUxiYVJyOUhSUGFqeGJoeGREb2Zv?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-08-11"
       }
     ],
     "quimica": [],
