@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-11T19:10:47+00:00",
+  "atualizadoEm": "2026-08-11T20:54:13+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -86,7 +86,7 @@ window.NEWS = {
       {
         "titulo": "CSN recebe propostas vinculantes por divisão de cimentos",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDVPSFBDa0pqM1BudDRQUTJnMGQ2SmF4U2NtWW02TnA5anZZUGxuamVwNUxiOXU4V1hBT09tRjVNeG8tQ3ZWbTB5Rkx3cVhiUzRGLXpic3VFQWN4WG5IR3pGRHV3eExsUXNJZUlSLV9uelVjY1l3bzlsbGVYV2xMRkozVWdocGQ2SWxNeFRrZ3YzZDBtemhhd01fNA?oc=5",
-        "fonte": "bnamericas.com",
+        "fonte": "BNamericas",
         "data": "2026-08-11"
       },
       {
@@ -118,7 +118,7 @@ window.NEWS = {
       {
         "titulo": "Balanços mostram disputa entre crescimento e rentabilidade no varejo",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3dNQ2FxSHhxUjVqM05tOGZmLVdUSU5zdUlWVUgtNjFScjN1c2tPWWhkZUJuNEZ4VFN6N0dlRnhpTDh3NnZNc2ZyRHZtNkhVNFhzTE0zSjJlRWY2U25nTFI2SnIwRXlMQ29DRDZGX0RIa05PVlBNb1A1OFpyaUJ4Q0l0akFsUDJjRDVySElHOTdRc0NMTzk5VzJ2S19ESnB3dklYMEx3VTluRGtfWnE1OUFqeEh3VmZVZjc5OGlSNFU?oc=5",
-        "fonte": "BOL",
+        "fonte": "bol.uol.com.br",
         "data": "2026-08-07"
       }
     ],
@@ -130,16 +130,16 @@ window.NEWS = {
         "data": "2026-08-05"
       },
       {
-        "titulo": "Axia prevê R$ 8,7 bi em expansão da rede de transmissão",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVppdUJLUHlxVTlLYTRudnFjME80blVpVS1jdExpenBwZENNNHJTcEZrVzZpTUpQZHgxZm1yclQydmN5NzByYnRGY1dvQ0ZycEdTZDdnMkpPMkotcEhxd1ZZNFQzbk00bVFNVml5SkZaZDVuWFBMX2xua2tZTEdMdGZNSmZpSkVZVVdON19Hbw?oc=5",
-        "fonte": "agenciainfra.com",
-        "data": "2026-08-05"
+        "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
+        "fonte": "Times Brasil | CNBC",
+        "data": "2026-08-11"
       },
       {
-        "titulo": "El Niño pode gerar perdas acima de R$ 8 bilhões para renováveis no Brasil; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWG4zdFhfVzVFV0ZDQ3Y3YnJ4Sk1yOE1vQjBjanQ0LTdUUm0tT0pPM0JOYjNmbnJ4NnNTTnEyS056VC00Yl81REdwcVIyZ0FfUEU0YlFZaXl2LW9ZZEEwZlM4SE9lQmdDblIyWlJYSjNBWkhDRUJ5VnJiRE9KaDZmN2FuWmg2QTk5YjZBRzQ1VWVVaWFYekRhekpSQXl5d3NKZzZKeHJqNDZoVmxMSVVlSHZud0N3aTlXY1c1cW5iMXNEcHFta3BpcXdYUUp5UEdWb0phbVZXYlRtOWRhWS1hYTFDN0E?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-08-07"
+        "titulo": "Axia prevê R$ 8,7 bi em expansão da rede de transmissão",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVppdUJLUHlxVTlLYTRudnFjME80blVpVS1jdExpenBwZENNNHJTcEZrVzZpTUpQZHgxZm1yclQydmN5NzByYnRGY1dvQ0ZycEdTZDdnMkpPMkotcEhxd1ZZNFQzbk00bVFNVml5SkZaZDVuWFBMX2xua2tZTEdMdGZNSmZpSkVZVVdON19Hbw?oc=5",
+        "fonte": "Agência iNFRA",
+        "data": "2026-08-05"
       }
     ],
     "solar": [
@@ -200,7 +200,7 @@ window.NEWS = {
       {
         "titulo": "Brastemp e Consul não fecharam fábricas no Brasil; decisão de empresa envolve Argentina e México",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRGQ2Q2xCa0ROSFRaUXN5b0ZJc0pxTjFoMkIzRDRUMVloNmlFQ0tPd2UwMXA5UFhkRnoyWWdJS2UwZ2I5M1lYaFpEMGp5QzY5WGhEYlZRN2tRVFZDblR4T3o0ODFEU1RuelZXSmptXzdTdF9DTXBGTWNVUXdhWDhmbGRLWW51eU5JSlAwdUVmQmF5VjRyYzB5amJUWkR1LXViX1lrSkFHSUJBRm1BcUMxeXFkVmk0RWRRXzlzQWd5WHNWMGJUbjNvSnZQUDN5ZkVxbzE4dzFkY1PSAd4BQVVfeXFMTjF3dlY2UFMxM2JFR1VtaFJIOXlfelAwaHdqNkNUZ0tLa0tCa2UxOXI4bXpVYV9rbWFSYzJOSUhmWUNTQ2ViSmFrZUNSVUhHTVlJRUp3NURuLVpVUnhOZWFESWg5SEpfNXRaSG05cUtTNnduc0hMSHdmb2pJLXRmTmNXT0llZHBvNVFDRmxUeEFSYUZyUjBnNkNZN2pUMW4yWXlORGY1NDhkb1VGaGlVbll6UzFLTmdtT2tZM0lOSlVOUUJWYmV1Y2JfbGcxdThCNUFSeFdtYk1DRGJnRF93?oc=5",
-        "fonte": "Estadão",
+        "fonte": "estadao.com.br",
         "data": "2026-08-06"
       }
     ],
@@ -214,7 +214,7 @@ window.NEWS = {
       {
         "titulo": "Novo plano de infraestrutura do Brasil prevê R$ 1,2 tri em investimentos",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWJKQ0ZDYmRVSGhMSDZ1SGlXR3ZycHBHVUJPa2VpTjNCR3VSQzd4MEdTS1pwWXJYU0k5dTFPeHloU0x4TVoxNzBTLUVrMjZGWDlvd0QxV21zWUJLbVozOEpXa3U3cGhQWG9rZWl3TWRCWlUwOXhWUXNpdGM5R2N3VW5IRlZIOE9ZZWk1OURoV2ZFbW5YM01QN05tTWEtRXhRamVRNWlIMGRGX3I0?oc=5",
-        "fonte": "itatiaia.com.br",
+        "fonte": "Rádio Itatiaia",
         "data": "2026-08-07"
       },
       {
@@ -278,10 +278,10 @@ window.NEWS = {
         "data": "2026-08-06"
       },
       {
-        "titulo": "Aires Galhardo, ex-Suzano, assume comando da Atvos",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDZxYm1RLWNJUzlJYTlJRUIxWkdzT1hUajg0cVpxNmczT0UteWM5SDhzc2dtTHdGd0ljMzMwODk3b3JwcHB0ZlFodzU1dmVnekI5anN1eS1YNWFYdDkxR1VDakhVeHBMZjVFOU5LaE9VUTJZZV96RThyYWN4NE1GWU4wTUxiYVJyOUhSUGFqeGJoeGREb2Zv?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-08-11"
+        "titulo": "Suzano lidera ranking de inovação no setor de papel e celulose",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWlEbGVLQ05fQzdsVWtMcWpwWFJUTXBhSWhTdjFkXzBVeHMxWjh5UzRBekVaUXNtV3hzdnl3M3VDYlJLclhYdk1iMEZfZ1VBQjh1NmNtVnIwX2FVZjV4OWNicU1yWlpQUU1XM1JxUEpZdVk4N2ZzemRZTi12N1VhVE5lNkhHZE5UUzJNRVcwbFNweEs0TVE?oc=5",
+        "fonte": "Tissue Online",
+        "data": "2026-08-05"
       }
     ],
     "quimica": [],
