@@ -1,0 +1,53 @@
+name: Atualizar Instagram (de hora em hora)
+
+on:
+  schedule:
+    # 30 min após a hora cheia, das 06:30 às 20:30 de Brasília, seg-sáb.
+    - cron: "30 9-23 * * 1-6"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atualiza-dados
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Verificar se os secrets do Instagram estão configurados
+        id: cfg
+        env:
+          T: ${{ secrets.IG_TOKEN }}
+        run: |
+          if [ -z "$T" ]; then
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+            echo "::notice::Secrets IG_TOKEN/IG_USER_ID ainda não configurados — pulando (veja GUIA-PUBLICACAO.md, etapa 5)."
+          else
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v5
+        if: steps.cfg.outputs.ok == 'true'
+        with:
+          python-version: "3.12"
+
+      - name: Buscar métricas do Instagram
+        if: steps.cfg.outputs.ok == 'true'
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python scripts/update_instagram.py
+
+      - name: Commit e push se houver mudanças
+        if: steps.cfg.outputs.ok == 'true'
+        run: |
+          git config user.name "painel-bot"
+          git config user.email "actions@github.com"
+          git add data/instagram.js
+          git diff --cached --quiet || git commit -m "chore: instagram $(date -u '+%F %H:%M')"
+          git pull --rebase && git push

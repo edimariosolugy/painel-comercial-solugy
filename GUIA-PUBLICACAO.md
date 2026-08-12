@@ -87,6 +87,30 @@ Teste: aba **Actions** → **"Sincronizar funil com a planilha (de hora em hora)
 
 ---
 
+## Etapa 5 — Aba Instagram (@solugyoficial) de hora em hora
+
+Conecta a aba Instagram à API oficial da Meta. Pré-requisito: o **@solugyoficial** deve ser conta **profissional** (Business/Criador) **vinculada a uma Página do Facebook** da Solugy (configura-se no app do Instagram → Configurações → Central de contas).
+
+1. Acesse https://developers.facebook.com (logado com a conta que administra a Página) → **My Apps → Create App** → tipo **Business** → nome `painel-solugy-instagram`.
+2. Abra **Tools → Graph API Explorer** (https://developers.facebook.com/tools/explorer):
+   - Em *Meta App*, selecione o app criado.
+   - Em *Permissions*, adicione: `instagram_basic`, `instagram_manage_insights`, `pages_show_list`, `pages_read_engagement` → **Generate Access Token** (autorize com sua conta).
+3. Ainda no Explorer, descubra os IDs (rode cada consulta na barra de endereço do Explorer):
+   - `me/accounts` → copie o **id** da Página Solugy e o **access_token** dela (este é o token de página, de longa duração).
+   - `{id-da-pagina}?fields=instagram_business_account` → o **id** retornado é o **IG_USER_ID**.
+4. No GitHub: repo → **Settings → Secrets and variables → Actions**, crie:
+
+| Secret | Valor |
+|---|---|
+| `IG_TOKEN` | o access_token **da Página** (passo 3) |
+| `IG_USER_ID` | o id do instagram_business_account |
+
+5. Teste: aba **Actions** → **"Atualizar Instagram (de hora em hora)"** → *Run workflow*. Ficando verde, a aba Instagram do painel mostra seguidores, alcance diário (30 dias), visitas ao perfil e o ranking de engajamento dos últimos posts — atualizando a cada hora (06:30–20:30, seg–sáb).
+
+> Dica: para o token de página não expirar, gere-o a partir de um token de usuário de longa duração (Explorer → ⓘ do token → *Open in Access Token Tool* → *Extend Access Token*, e refaça o passo `me/accounts`). Enquanto os secrets não existirem, o workflow se pula com aviso e a aba mostra as instruções.
+
+---
+
 ## Resumo do funcionamento automático
 
 | O quê | Frequência | Como |

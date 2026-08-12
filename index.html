@@ -135,6 +135,7 @@
   <button class="tab-btn" data-tab="mensal">Indicadores Mensais</button>
   <button class="tab-btn" data-tab="noticias">Notícias do Dia</button>
   <button class="tab-btn" data-tab="funil">Funil de Prospecção</button>
+  <button class="tab-btn" data-tab="insta">Instagram</button>
 </div>
 
 <!-- ============ ABA 1: SETORES ============ -->
@@ -238,6 +239,11 @@
   </div>
 </div>
 
+<!-- ============ ABA 5: INSTAGRAM ============ -->
+<div class="tab" id="tab-insta">
+  <div id="instaConteudo"></div>
+</div>
+
 <div class="foot">
   Fontes de mercado: MAPA, ABIA, Anfavea, EPE, SNIC/CBIC, MME, ABSOLAR, Casa Civil/Novo PAC, PróGenéricos, IBRAM, Ibá, Abiquim, ANA, IPEA (ago/2026) · Notícias via Google News (robô diário).
   Dados comerciais: planilha "Gestão e Controle de Orçamentos" — sincronize com <span class="mono">scripts/extract_funil.py</span>. Uso interno Grupo Solugy.
@@ -247,6 +253,7 @@
 <script src="data/sectors.js"></script>
 <script src="data/news.js"></script>
 <script src="data/funil.js"></script>
+<script src="data/instagram.js"></script>
 <script>
 // ================= helpers (padrão DashboardExec) =================
 const C={bg:"#0A0A0B",panel:"#141416",panel2:"#1A1A1D",line:"#2A2A2E",border:"#26262A",
@@ -540,6 +547,53 @@ function irParaFunil(slug){
   document.querySelector('.tab-btn[data-tab="funil"]').click();
 }
 renderFunil();
+
+// ================= ABA 5: instagram =================
+(function(){
+  const alvo=document.getElementById("instaConteudo");
+  const I=window.INSTA||null;
+  if(!I){
+    alvo.innerHTML=`<div class="panel">
+      <div class="panel-head"><div><div class="panel-title">Instagram @solugyoficial — aguardando conexão</div>
+      <div class="panel-sub">A aba conecta na API oficial da Meta e atualiza de hora em hora</div></div></div>
+      <div style="font-size:12.5px;color:var(--txt2);line-height:1.7;padding:6px 2px">
+        Para ativar, siga a <b style="color:var(--txt)">Etapa 5 do GUIA-PUBLICACAO.md</b>: gere o token na plataforma
+        Meta for Developers e cadastre os secrets <span class="mono" style="color:var(--orange)">IG_TOKEN</span> e
+        <span class="mono" style="color:var(--orange)">IG_USER_ID</span> no GitHub.
+        Na primeira rodada do robô, esta aba passa a mostrar seguidores, alcance diário, visitas ao perfil e o
+        engajamento dos últimos posts — tudo automático. O restante do painel funciona normalmente enquanto isso.
+      </div></div>`;
+    return;
+  }
+  const eng=I.posts.length?Math.round(I.posts.reduce((s,p)=>s+p.likes+p.comentarios,0)/I.posts.length):0;
+  const alcTotal=I.alcance30d.reduce((s,x)=>s+x.valor,0);
+  alvo.innerHTML=`
+    <div class="kpi-grid g4" style="margin-bottom:14px">
+      <div class="kpi"><div class="kpi-lab">Seguidores</div><div class="kpi-val" style="color:var(--orange)">${I.perfil.seguidores.toLocaleString("pt-BR")}</div><div class="kpi-sub">@${I.perfil.username}</div></div>
+      <div class="kpi"><div class="kpi-lab">Alcance · 30 dias</div><div class="kpi-val">${alcTotal.toLocaleString("pt-BR")}</div><div class="kpi-sub">contas alcançadas</div></div>
+      <div class="kpi"><div class="kpi-lab">Visitas ao perfil · 30d</div><div class="kpi-val">${I.visitasPerfil30d!=null?I.visitasPerfil30d.toLocaleString("pt-BR"):"—"}</div></div>
+      <div class="kpi"><div class="kpi-lab">Engajamento médio</div><div class="kpi-val">${eng.toLocaleString("pt-BR")}</div><div class="kpi-sub">curtidas+comentários por post (últimos ${I.posts.length})</div></div>
+    </div>
+    <div class="panel" style="margin-bottom:14px">
+      <div class="panel-head"><div><div class="panel-title">Alcance diário — últimos 30 dias</div>
+      <div class="panel-sub">Atualizado ${fmtData(I.atualizadoEm)} · API oficial Meta</div></div></div>
+      <div class="chart-box"><canvas id="chartInsta"></canvas></div>
+    </div>
+    <div class="panel">
+      <div class="panel-head"><div><div class="panel-title">Últimos posts — engajamento</div>
+      <div class="panel-sub">Clique para abrir no Instagram</div></div></div>
+      <table><thead><tr><th>Data</th><th>Post</th><th>Tipo</th><th>Curtidas</th><th>Coment.</th></tr></thead>
+      <tbody>${[...I.posts].sort((a,b)=>(b.likes+b.comentarios)-(a.likes+a.comentarios)).map(p=>
+        `<tr class="main" onclick="window.open('${p.link}','_blank')"><td>${fmtData(p.data)}</td>
+         <td class="nm">${p.legenda||"(sem legenda)"}</td><td>${p.tipo.replace("CAROUSEL_ALBUM","CARROSSEL")}</td>
+         <td>${p.likes.toLocaleString("pt-BR")}</td><td>${p.comentarios.toLocaleString("pt-BR")}</td></tr>`).join("")}
+      </tbody></table>
+    </div>`;
+  if(I.alcance30d.length)
+    new Chart(document.getElementById("chartInsta"),{type:"line",
+      data:{labels:I.alcance30d.map(x=>fmtData(x.data).slice(0,5)),datasets:[{label:"Alcance",data:I.alcance30d.map(x=>x.valor),borderColor:C.orange,backgroundColor:"#F65D0022",fill:true,tension:.3,pointRadius:0}]},
+      options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false}}}}});
+})();
 </script>
 </body>
 </html>
