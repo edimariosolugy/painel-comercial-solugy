@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-12T20:53:26+00:00",
+  "atualizadoEm": "2026-08-12T21:53:09+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-08-06"
       },
       {
-        "titulo": "FIEC inaugura laboratórios que ampliam competitividade da indústria alimentícia - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObmk5UUFib21aUWExSG1PTW1jZzU0TlQ5WlZWbDIxMTB5a3VZSXJvdUxPeGpiRzNLTl9OYnMyN1NUU2ZzY0t5di1vRG5ZU05rT21zYnZZTXEwRm9CTmRGVDBWOUlqaUU3NVJkREpxVXVjRlpPSU1HYklLb0pjaThPcEpaOWd6YkhzNUJnaWpoM19OUHpOaENZRDdteGFCLUZfSlNGU3Y5ejVsQjZsRDRxcWVLVWlXSmc?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-08-05"
+        "titulo": "Maior câmara fria do Paraná é inaugurada; veja qual foi o investimento",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJQRDFTaGctVHVfNnVZREFTNnEzQi1BOVZfSF9PR2M0WHZDSTktaXZSX0dZSENjdmV4STJiRVZ6T25fZ01GRHN0OG5taXhQZk84bWJDV0IwcEY0Ri1mdHk3WTJQZkxSWkZHRWlQRGFKN2Iwc25iOEcwdV9oTXRDSlFsbTA5alptVlpnczMzSFc5MzR2d0RoZDFEcXRGQkppV1phdHJrQXBXUdIBrwFBVV95cUxOcTJOVmEyWHU0VjdYQ1E3ZEV5SzZFQVlvSzhVWXZXQXNDclZDZ28xa2JRMWVsclFLUTZmX0pXdHRHa3pzWEZtTXRwaTR6Q2tORDM1R3M0WmdwbzFHSEhiSU9rMEFxUThTd252c01KNUFjODc3MTlZNUNBSkJPenVETDVPQ1VQVjJ2TEFObWNHRnZqQ214aEIybjdmRUlob0p6MXlSdGFSdzZCT2VHNFl3?oc=5",
+        "fonte": "Tribuna do Paraná",
+        "data": "2026-08-10"
       }
     ],
     "automotivo": [
@@ -116,9 +116,9 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "Viezzer Supermercados anuncia investimento de R$ 6,5 milhões em lojas",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlAtckI0N0JOYUZPd1NjSmpwQzJiSmVvNTFxSXZJYTJHODdlTDYtbkdva2g0Z3AzZTJFTU5qRXpMUzV6azRNWE92Y2lHYzhPeUZHbWtCOHlubkhmTnlXbWlfNGs0ZExvbXg2UmpEemcyd25nVmFIdTY0MFlnZUNQdGNNVkFzeVBpZFk0cjVrWWlWSDN2Z2Q0Q1lZMkpuejRPRnp4X0tIOWg?oc=5",
-        "fonte": "SuperVarejo",
+        "titulo": "Viezzer Supermercados anuncia investimento de R$ 6,5 milhões em suas lojas",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlBTRkdkNDkxWEtoWFBSSk1yUUJjenRZRmRIUjNCT2dlTFhBU0RxUUh2YXFrbm9BT25Pc1F6RzNZd1FVMmNGYjBla1NPclFzUERJWllmTWIzOWhOd1h6TmN5b3lYbzVuLXMxQWV6MFZfREpLNTBmelVoTWhueUpYQUFENjJ0NUpfWF9EX1JHRWMzNmI3SHpfWUNPdkM1RjY2X19J0gGjAUFVX3lxTE1aUFNGR2Q0OTFYS2hYUFJKTXJRQmN6dFlGZEhSM0JPZ2VMWEFTRHFRSHZhcWtub0FPbk9zUXpHM1l3UVUyY0ZiMGVrU09yUXNQRElaWWZNYjM5aE53WHpOY3lveVhvNW4tczFBZXowVl9ESks1MGZ6VWhNaG55SlhBQUQ2MnQ1Sl9YX0RfUkdFYzM2YjdIel9ZQ092QzVGNjZfX0k?oc=5",
+        "fonte": "Jornal O Sul",
         "data": "2026-08-10"
       }
     ],
@@ -328,7 +328,7 @@ window.NEWS = {
       {
         "titulo": "Sindicato dos Metalúrgicos alerta para avanço do aço chinês no Sul Fluminense",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnJPbEd5blVzTG5oOER3SUtyUGlUeXpRNkswUkpOd1B4S1h1bGkzV0d4RjhVeVZFeUFWX09OdElmc05pRXNtaUNYaE9JbFIzajl2bThQbmZCeVo3V0V6QlVkbWoteW1GZVZaVXZ5NWtYdTA5cWN4akRpZ1pMbFNBMmJIb1M5Rmp4YjFYaWg2WmNrdXFNUm5HTTZKM3htX2tELWhiR25aN3p3WmxrcFZHd0JDbWlWbzNi?oc=5",
-        "fonte": "diariodovale.com.br",
+        "fonte": "Diário do Vale",
         "data": "2026-08-06"
       }
     ],
