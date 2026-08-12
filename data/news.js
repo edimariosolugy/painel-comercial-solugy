@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-12T10:13:29+00:00",
+  "atualizadoEm": "2026-08-12T11:52:31+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -58,22 +58,22 @@ window.NEWS = {
       {
         "titulo": "“O consumidor final é quem ganha”, diz diretor da BCOMEX sobre avanço das montadoras chinesas no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjVYeEFYN1pGTW5UYURNeFFqNEpPMDhTQmtxbU1ZeFZWeXo5SGVHZlQ5cmV2V05tVVhaQnpEZHlxSXF1UEtZSy1Kc0NaUldxWGZkcUZBckwyZzJLanNpdTdGb2FZX2JTSGdGeUxjSzBmZnVXSVNQQnMyMjg5ZGJuV3FobEg0VFFkWExEMjNidDd4RkVYXzdRZWNCbUVGSnh5c3BjYTJzMkF0OHYzWTBjS0dISzVxdVQwS3hjamo1UUpPd0d5X0RvSW9sZWVhMW15?oc=5",
-        "fonte": "Times Brasil | CNBC",
+        "fonte": "timesbrasil.com.br",
         "data": "2026-08-06"
       }
     ],
     "bioenergia": [
       {
+        "titulo": "Brasil avança no etanol de milho, mas ainda precisa convencer gringo de sustentabilidade",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS2x5dWdQcEp0REl1RmFmYmEzbGFZQWJoN0pzUmRBaEYyaThzWV9tdTl4aWllOXBmSFlGWFJnYzhDX2E0Sk83Y3FkRkQtMjVOb1FCaWItcGw3ZGEtYlVBenB6WDVLRl9EcFh6cWJkNzg3UENuTmtDeFF5Z0tnVzZPLVRVUG1Bb0Q0M3dwTU5TaVVpZ2pfNXpURi1EUXFJN2RWMnpDNWd1YjJ3ZG5fZHVwZmtJU3A2S2RtdHlkLXlNTmFEajNMUVFQekRFMDNKaEpk?oc=5",
+        "fonte": "The AgriBiz",
+        "data": "2026-08-10"
+      },
+      {
         "titulo": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeV85Y2hTVDhuYThLNGhoaDZMV0dmZTZSMUYzX05aM3h1QmhPOFpNMkhIejlKUFI1cXFfWVp5Q0M1Q0pQR1JBWjJCYndWd1JHQ0owRVFmd3hLdlB0dHlZUVM0LW1vRWp2VU45VHo2ZGZTZXRxSy1uRGMwZnFCeDNoeWo5eTlyX2hfb0hkZE9hOFlTYnJwZTlLOHhNVFZwVkIwenRWWlBzT1k?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-08-11"
-      },
-      {
-        "titulo": "Fenasucro & Agrocana: Rodadas de Negócios devem movimentar mais de R$ 10 milhões",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPT1FIRXVfU1oteXV6MktaZHhMcV9Bb25CWDNEVjR4VXJzd21Lek13YkstQ0ZXZUJqSDd6M2hWTE9PbUowd1luNkJNcDlRc2NJNjhYZUJCTHBmUkdkZ0JPRHV2TmN6TnBncHMzeG4yVUZHX3dmVUdZY291MDEwM0dmQm9GaDF1SGJRYXV0UlFhWFFJbGNsdTVIUkxBTWZYeFBKbUE?oc=5",
-        "fonte": "JornalCana",
-        "data": "2026-08-05"
       },
       {
         "titulo": "Biometano amplia fronteiras da bioenergia e coloca usinas no centro da expansão do gás renovável",
@@ -120,7 +120,7 @@ window.NEWS = {
       {
         "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
-        "fonte": "Times Brasil | CNBC",
+        "fonte": "timesbrasil.com.br",
         "data": "2026-08-11"
       },
       {
@@ -132,7 +132,7 @@ window.NEWS = {
       {
         "titulo": "El Niño pode gerar perdas acima de R$ 8 bilhões para renováveis no Brasil; veja o Radar Energia XP | Agosto",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWG4zdFhfVzVFV0ZDQ3Y3YnJ4Sk1yOE1vQjBjanQ0LTdUUm0tT0pPM0JOYjNmbnJ4NnNTTnEyS056VC00Yl81REdwcVIyZ0FfUEU0YlFZaXl2LW9ZZEEwZlM4SE9lQmdDblIyWlJYSjNBWkhDRUJ5VnJiRE9KaDZmN2FuWmg2QTk5YjZBRzQ1VWVVaWFYekRhekpSQXl5d3NKZzZKeHJqNDZoVmxMSVVlSHZud0N3aTlXY1c1cW5iMXNEcHFta3BpcXdYUUp5UEdWb0phbVZXYlRtOWRhWS1hYTFDN0E?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-07"
       }
     ],
@@ -219,23 +219,23 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "Porto do Pecém atrai investimentos de empresa de logística e comércio exterior - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLUJjbFhvXzRKdU1aUUF4ZzY2ckdXUWRDaktVUnRXRTVremZoWFNvZ3FhTGNOUlprdlJFU002NkxORTYzclZNQnpET000YnltRkstQmljZy1ENWZRN2dURmV0anJOR19xcTBUWVNQVEhyRmxxdHFNMDMwbVVWWjRtYVlQZTYyaC1IUUZSZHVLWmlqRHRic2RuMTJUUEMzeDhCVnZ1NWMzN09xeFdQMGV2M0UyLXBwdw?oc=5",
+        "titulo": "Quixeramobim se prepara para se tornar um hub logístico do interior do Ceará - Portal IN - Pompeu Vasconcelos",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzQxcUpudFUxaWNEYWg5ajJRZUxYZ08zeV9ZaWdSbkU2Ykx3VkRlYURRb0JuaTVhbk1HbU43VFBxOUF2aXRfZF9zV19kNHQwTEtKNV9xaWhfZFNnTE0zLVRzWUNKMmhRNjQyTDJ4dVdRR0FQSmE3VjJxczczWjlRTUNCdmdPb3F1QnBLY1FOZTJYU3pFQjBzSjI0VGdCengzdmJZSVd2WGhVT25vVldwYnFIZw?oc=5",
         "fonte": "Balada IN",
-        "data": "2026-08-06"
+        "data": "2026-08-10"
       }
     ],
     "maquinas": [
       {
         "titulo": "Juros altos e baixa automatização: o que trava a indústria brasileira? (Ep. #214)",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmZvS0F1LTlEcnZxTnpueUxaekJoQXJBSHNyVldha1VUcWVlV2w5OFRhMFo1cTNqUmRUcmIzMHZiRXpBTjhtWXhwX25EMm90cXJTMlVGNEZtdU0zb2VQSGNIUzJvZ3RLNG8tdWRTei01YnJRelhhRzc3ZEVmYmVpZkFMUUdUTXBVeS1qTWt5ai1zeEhBa3R6UHdvbmc4ckN4UElfazAzanZSNVFuc0lOX05HUFlYalVFNXdmbUVPNF9uaEQ4VFNYQ1l6NXhmU1Jpbnc?oc=5",
-        "fonte": "noticias.portaldaindustria.com.br",
+        "fonte": "Agência de Notícias da Indústria",
         "data": "2026-08-07"
       },
       {
         "titulo": "Indústria prefere comprar máquinas novas, mas investe pouco em automatização, mostra pesquisa CNI",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS3hyejBEY2ZGM3NvVmQwM0VVdXNfcUJkLTh1eE1ZMTlYX1d2bExneV8yeEtPRF9yc3EybEZpanNzeWg2cHBjSDVvbWp0QnQtNS1nS085cm43cm1PQkYzaDF0NDZ0RlZOQU54dHB2UUMwN3N6ZXJ3LUh6UzhYdGdfV1hDc25Mbk5uN3hBYlEwSjAwVUlSQnJ1c2VlR0lzeHUtTmowWWtYVlZOdVpYQWIxb1NVeGtodzVjT2tZUGhGTU84T1JWbndvNWRjd0dFcnpfRm1tNGNMYjluRWJFU0hmQtIB7wFBVV95cUxObFVoVEYtRU9wUlhvb2NMRkxfTW01TGhiQUlSUWxjMk12VWxTTmpKQ2Y5NGZ4Y3lxWHpHYnZhZC1aY3huaFJ1TjljOFRqYVNXYXM2Szd1elRRUmp6UWxXZDAycHZCNk95ekliSXppT29FUzd2b0RvbGVjSGRKV0dnNjhva2x0RklqMnBwQzlWQUotaGt0YjdyNUVpTGJrNDJHcV9XY1ZXU0M2SEdzbkE0ekFRN19qb29TZDM1bThfSjdMdHJXa01Ha0pHT0t5dnZDX0VVa1ZFYXhCMHppNzEteFEtd0ZhdEVwUXlmR0RkOA?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-05"
       },
       {
@@ -269,7 +269,7 @@ window.NEWS = {
       {
         "titulo": "Klabin vê recompra de ações como alternativa importante em alocação de capital",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekU2MjlfakR6dFVIeGx6MHNfYk9PUGJTWHdFVmJSeExyLWFTUmRadkRTNVFXZEJqOGViVENvNHA0OE0ybW9mX0FSc2luXzdFbTZzMlluYmlyQ2V2RVVoZk5PY2MzTnRTandoSE5qUjgzUUxKT1NJMFp6cXBHRVhVMmhmMHdkRXRzZzJ6RmRaU3ZLQmFfVWhzRjhubVE3OGdBN05YalNEZlJaRkZSTkJReTh4SVRCVV9R0gG-AUFVX3lxTE4wVWFES0pKSnJxTEZ1WVJlR0l5NlRKR0JRMnctNFlOVlFWanNSMHhoUFN6RENfa3lTTVNHT3hSbWN3WGdaUDVtanF5RU0zb09rYWFGSmUzV0hmTGdSX0podHJaTmxZLU1RX0tfZFM5Y093d1FkY19XN1h3UlBOX2VGN2hQb2wweEZGZnhkWlNoUVNGTlIwVmc4S1RUYzJxUFlCZzVTUGsxb1pnZEJUQVRTQXBtNzdGSnpQUVR2c2c?oc=5",
-        "fonte": "infomoney.com.br",
+        "fonte": "InfoMoney",
         "data": "2026-08-06"
       },
       {
@@ -292,6 +292,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVAxWkNxNFUyUTdqbnd6Y0Y2Q05pNDVjYkJrVXp0LWFjd1FpbW9fNWV2MXQ0RjAtR3NmZmY5UjZmaDRfVlJIT3JBdG9KMkVZLTRuVXcya1BDdkY0VHpvVnJrYk1BWl9oaGN2QlBxTW1PSFlGYUZkR045VE1IOExlbnpNaVVwdEhrdFZ2dnlBQndyZm16QWNTZTNuQXpLdDRLOHB4OGNhNHdZbENLLW4zUA?oc=5",
         "fonte": "Estúdio Folha",
         "data": "2026-08-07"
+      },
+      {
+        "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-08-12"
       },
       {
         "titulo": "Minas Gerais lidera leilões de infraestrutura na B3 em 2026",
