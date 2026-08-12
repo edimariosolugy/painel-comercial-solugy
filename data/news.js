@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-12T11:52:31+00:00",
+  "atualizadoEm": "2026-08-12T13:23:32+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -58,7 +58,7 @@ window.NEWS = {
       {
         "titulo": "“O consumidor final é quem ganha”, diz diretor da BCOMEX sobre avanço das montadoras chinesas no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjVYeEFYN1pGTW5UYURNeFFqNEpPMDhTQmtxbU1ZeFZWeXo5SGVHZlQ5cmV2V05tVVhaQnpEZHlxSXF1UEtZSy1Kc0NaUldxWGZkcUZBckwyZzJLanNpdTdGb2FZX2JTSGdGeUxjSzBmZnVXSVNQQnMyMjg5ZGJuV3FobEg0VFFkWExEMjNidDd4RkVYXzdRZWNCbUVGSnh5c3BjYTJzMkF0OHYzWTBjS0dISzVxdVQwS3hjamo1UUpPd0d5X0RvSW9sZWVhMW15?oc=5",
-        "fonte": "timesbrasil.com.br",
+        "fonte": "Times Brasil | CNBC",
         "data": "2026-08-06"
       }
     ],
@@ -86,7 +86,7 @@ window.NEWS = {
       {
         "titulo": "As 10 melhores empresas do mundo no mercado de concreto de alta resistência",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObHR4UDBtSzJwUGROZGhyUi12S21NVTlNX05ISWhVY0thbURod2FfZzBxTF83ZFVDelhmSm1mSElTaVFKY1AzcEVsbjk2ZC1OaVM5ZmJZbVlwR05mNUtLbHpzc3dkRFBNcHZ2blFOU193WlZPd09MRnppOWtzanNRbFlmemk2RVlnd3lqV2JRTXFMc2VHaF9VYlpkYV9WR2xXeGpwZ3dXdEMtR2ZkVDBsV0Mtdm1VQUJieUUyOXlWVWpWTS1POTI0TWJlX1pycjBxUTVJM2pZaUNhMDl3emZxTmRNZklKc0ZTRmF2Y1NTMVhyc3pjVnp2Ym5n?oc=5",
-        "fonte": "Spherical Insights",
+        "fonte": "sphericalinsights.com",
         "data": "2026-08-08"
       },
       {
@@ -118,9 +118,15 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
+        "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-08-11"
+      },
+      {
         "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
-        "fonte": "timesbrasil.com.br",
+        "fonte": "Times Brasil | CNBC",
         "data": "2026-08-11"
       },
       {
@@ -128,25 +134,19 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRVppdUJLUHlxVTlLYTRudnFjME80blVpVS1jdExpenBwZENNNHJTcEZrVzZpTUpQZHgxZm1yclQydmN5NzByYnRGY1dvQ0ZycEdTZDdnMkpPMkotcEhxd1ZZNFQzbk00bVFNVml5SkZaZDVuWFBMX2xua2tZTEdMdGZNSmZpSkVZVVdON19Hbw?oc=5",
         "fonte": "Agência iNFRA",
         "data": "2026-08-05"
-      },
-      {
-        "titulo": "El Niño pode gerar perdas acima de R$ 8 bilhões para renováveis no Brasil; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWG4zdFhfVzVFV0ZDQ3Y3YnJ4Sk1yOE1vQjBjanQ0LTdUUm0tT0pPM0JOYjNmbnJ4NnNTTnEyS056VC00Yl81REdwcVIyZ0FfUEU0YlFZaXl2LW9ZZEEwZlM4SE9lQmdDblIyWlJYSjNBWkhDRUJ5VnJiRE9KaDZmN2FuWmg2QTk5YjZBRzQ1VWVVaWFYekRhekpSQXl5d3NKZzZKeHJqNDZoVmxMSVVlSHZud0N3aTlXY1c1cW5iMXNEcHFta3BpcXdYUUp5UEdWb0phbVZXYlRtOWRhWS1hYTFDN0E?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-08-07"
       }
     ],
     "solar": [
       {
         "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
-        "fonte": "Canal Solar",
+        "fonte": "canalsolar.com.br",
         "data": "2026-08-10"
       },
       {
         "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
-        "fonte": "BBC",
+        "fonte": "bbc.com",
         "data": "2026-08-07"
       },
       {
@@ -235,7 +235,7 @@ window.NEWS = {
       {
         "titulo": "Indústria prefere comprar máquinas novas, mas investe pouco em automatização, mostra pesquisa CNI",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS3hyejBEY2ZGM3NvVmQwM0VVdXNfcUJkLTh1eE1ZMTlYX1d2bExneV8yeEtPRF9yc3EybEZpanNzeWg2cHBjSDVvbWp0QnQtNS1nS085cm43cm1PQkYzaDF0NDZ0RlZOQU54dHB2UUMwN3N6ZXJ3LUh6UzhYdGdfV1hDc25Mbk5uN3hBYlEwSjAwVUlSQnJ1c2VlR0lzeHUtTmowWWtYVlZOdVpYQWIxb1NVeGtodzVjT2tZUGhGTU84T1JWbndvNWRjd0dFcnpfRm1tNGNMYjluRWJFU0hmQtIB7wFBVV95cUxObFVoVEYtRU9wUlhvb2NMRkxfTW01TGhiQUlSUWxjMk12VWxTTmpKQ2Y5NGZ4Y3lxWHpHYnZhZC1aY3huaFJ1TjljOFRqYVNXYXM2Szd1elRRUmp6UWxXZDAycHZCNk95ekliSXppT29FUzd2b0RvbGVjSGRKV0dnNjhva2x0RklqMnBwQzlWQUotaGt0YjdyNUVpTGJrNDJHcV9XY1ZXU0M2SEdzbkE0ekFRN19qb29TZDM1bThfSjdMdHJXa01Ha0pHT0t5dnZDX0VVa1ZFYXhCMHppNzEteFEtd0ZhdEVwUXlmR0RkOA?oc=5",
-        "fonte": "Valor Econômico",
+        "fonte": "valor.globo.com",
         "data": "2026-08-05"
       },
       {
@@ -279,10 +279,10 @@ window.NEWS = {
         "data": "2026-08-06"
       },
       {
-        "titulo": "Suzano lidera ranking de inovação no setor de papel e celulose",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcWlEbGVLQ05fQzdsVWtMcWpwWFJUTXBhSWhTdjFkXzBVeHMxWjh5UzRBekVaUXNtV3hzdnl3M3VDYlJLclhYdk1iMEZfZ1VBQjh1NmNtVnIwX2FVZjV4OWNicU1yWlpQUU1XM1JxUEpZdVk4N2ZzemRZTi12N1VhVE5lNkhHZE5UUzJNRVcwbFNweEs0TVE?oc=5",
-        "fonte": "Tissue Online",
-        "data": "2026-08-05"
+        "titulo": "Aires Galhardo, ex-Suzano, assume comando da Atvos",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeDZxYm1RLWNJUzlJYTlJRUIxWkdzT1hUajg0cVpxNmczT0UteWM5SDhzc2dtTHdGd0ljMzMwODk3b3JwcHB0ZlFodzU1dmVnekI5anN1eS1YNWFYdDkxR1VDakhVeHBMZjVFOU5LaE9VUTJZZV96RThyYWN4NE1GWU4wTUxiYVJyOUhSUGFqeGJoeGREb2Zv?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-08-11"
       }
     ],
     "quimica": [],
@@ -294,16 +294,16 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
-        "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-08-12"
-      },
-      {
         "titulo": "Minas Gerais lidera leilões de infraestrutura na B3 em 2026",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUs3RE11MGRJSzZWaGVDR0xlc1lsMU9QN2ZmNzBBT0JtWGNNejRzelBDMDZlZ2lCbEd1R0lnU3lFd0JzcHhzejg0NUNvQVVYbTd4V3VHcVNKQkVPS1M0MnZUcG5UTi1vaXdYUmNidjVQSENfdVdIbGpROERaa25YY3dwbVEwTzExZjNkRk43ZEM4cVUyeVVKMm83VzRVX0pyY0pLTFJ30gGrAUFVX3lxTE1QdjdYNV9mZV9WQVJ2ZjExRmM1MlZIM25RcVRfMFVfcFNtUmRKNmxTOXFlcC1ucXEwbGZzWnRGNk4ySFVVc0tYZXgtVlQzRC11TmR3cjZfMEVKd19MR2tuVFVGQWE0VnVvZkF5d2c4dmFpTHFvVFRIanBGUjYwYmFYRi10aGM4azMtU3FKTFd0MjhxdXQ1Q3VWbVZsU3N3N192ckJjOXI3NldUMA?oc=5",
         "fonte": "O TEMPO",
         "data": "2026-08-06"
+      },
+      {
+        "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-08-12"
       }
     ],
     "siderurgia": [
@@ -318,6 +318,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTNNekhPaUduOEt2WE1Hc1o5OS1FYlFlTFZLbUZZaHFIaEIyUTllZUwxd3VhTmRIdDZwWmpLZlZLbmV5UjdLWnVLaWg4dTJxdHhQd0VadklXWXBUNVJJX2w0cVdKcUsyUGtPTUR4THJYYXdLZTU3QmNPMEF0aWRLYTMzalJQWDZFSUkwM3BJc3RRdkY3NUdpTEpqTzl6QWU4bFU5c3hiVFFXUE5rSmhMQWtuajlEVm9VM0pMTGNvRU5BOUotelE?oc=5",
         "fonte": "A Voz da Cidade",
         "data": "2026-08-05"
+      },
+      {
+        "titulo": "Incentivos ao aço somam R$ 14,6 bi e ampliam pressão ambiental",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWdoRDlGbVFUMXM3VHhGRWhUYXJkMGFsNXFXS0Jic3NXeldMby02MjVEQmc3QXYtX0EteXhJME1lTmc0dFN6aC00ajJ1blR5a1FydGhnenhLYkFqbThaOV9FS0tSZnFMb0pNWkFSSUZ3cEdodTNrTmRCYkt3eDRnenBTOVhQczY0MmNHY0U1NTVFQnNkRmFZ?oc=5",
+        "fonte": "Revista Amazônia",
+        "data": "2026-08-12"
       }
     ],
     "odontologia": [
