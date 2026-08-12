@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-12T21:53:09+00:00",
+  "atualizadoEm": "2026-08-12T22:49:45+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola é nova fronteira para a expansão do agronegócio brasileiro",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWdSLW5ydVJXUGFpMmZmOEx4Qm1ITTJJRC0xOE1ybm5hZFhzWWZ1ZDVfMnhnbG5zWF9wLUJuZGQ1QnVaR3RPYXZ3UkdzQm10S0JqS0ROdXJWaXhRUWI1cFA2c0FVY1g4Y05pMUw4UXZLS2VWMkVCQWVQdWpDRHR6SzhiZ2RwR2FlNmxUV0FaUW5OVGtEaXZ2aVgzaEtZbWpqdkE?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-12"
       },
       {
@@ -18,7 +18,7 @@ window.NEWS = {
       {
         "titulo": "PIB do Agronegócio Inicia 2026 em Queda; Veja os Demais Destaques do AgroRound",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSE0wekhTaEhhS3ZhWWFaVmJvbXBnWXRJWThXYmNiQTNHS2JyN0hva2h4NmZ5U3Bqcll3ZTRBUHJIazRwQ2VYNmMyaE1ubUVKbm9tT2Y1Ni1CVUJCdUFjS20wYUtwRUtXaWNOdlpreXBlekwyNDFlWGhRR3FNVjNNeE1sSXNXbmdMZDFsdFNDalJRQnhham55R25tMmdHYk5JaFVmdUxMV0wzT0l4SkpyUjVleUVXekgwdkZGVQ?oc=5",
-        "fonte": "Forbes Brasil",
+        "fonte": "forbes.com.br",
         "data": "2026-08-07"
       }
     ],
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "Com investimento de R$ 6 milhões, Ceará ganha centro para certificação do leite",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODh1VmxGcUpoaXhZRWROTDJMb09tYXFfYThHRGV2TVB2MWJrWFNnU29oUWpmbjN5SDZIc3Y3Ykx1c0VwODJKcmYzY2RGUjZKcURtYlM5LXpoMU1UQXc3SzlFV0NINlBDTi1mZkJPMFhDT0RvSkFLSW15alFkbFhFcnhZSkJqaWhHQ3M0MjFzSVp3OV9Hb01QWlRYemtOeXpHTkhQY0xLcjFLYmQxa08xel9mMm5PdmtiLTZxQlZtNTE1bXNxYTl3Q1MwTTdKVnZteWc?oc=5",
-        "fonte": "O POVO+",
+        "fonte": "mais.opovo.com.br",
         "data": "2026-08-06"
       },
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Imposto Seletivo e Mover no setor automotivo",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlBjbkQtUnc3TXhTLWdQVUE1TGh1Vk1ZQ3FyVlk1SzNCOWYwS0wxXzdpR0drTG16UXdnWEV4UmxZS19DUEprS0tzbnA1OWt2cFA4Slh5ZUs0MGZMY29tMkJJQjVwMzJvYTVfSTQ1dHUtQllaZnlqdGZJMmROY0VwX3pkalp2b19VQ0swZURuaWJzZ2dH?oc=5",
-        "fonte": "Automotive Business",
+        "fonte": "automotivebusiness.com.br",
         "data": "2026-08-07"
       },
       {
@@ -116,10 +116,10 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "Viezzer Supermercados anuncia investimento de R$ 6,5 milhões em suas lojas",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWlBTRkdkNDkxWEtoWFBSSk1yUUJjenRZRmRIUjNCT2dlTFhBU0RxUUh2YXFrbm9BT25Pc1F6RzNZd1FVMmNGYjBla1NPclFzUERJWllmTWIzOWhOd1h6TmN5b3lYbzVuLXMxQWV6MFZfREpLNTBmelVoTWhueUpYQUFENjJ0NUpfWF9EX1JHRWMzNmI3SHpfWUNPdkM1RjY2X19J0gGjAUFVX3lxTE1aUFNGR2Q0OTFYS2hYUFJKTXJRQmN6dFlGZEhSM0JPZ2VMWEFTRHFRSHZhcWtub0FPbk9zUXpHM1l3UVUyY0ZiMGVrU09yUXNQRElaWWZNYjM5aE53WHpOY3lveVhvNW4tczFBZXowVl9ESks1MGZ6VWhNaG55SlhBQUQ2MnQ1Sl9YX0RfUkdFYzM2YjdIel9ZQ092QzVGNjZfX0k?oc=5",
-        "fonte": "Jornal O Sul",
-        "data": "2026-08-10"
+        "titulo": "Balanços mostram disputa entre crescimento e rentabilidade no varejo",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3dNQ2FxSHhxUjVqM05tOGZmLVdUSU5zdUlWVUgtNjFScjN1c2tPWWhkZUJuNEZ4VFN6N0dlRnhpTDh3NnZNc2ZyRHZtNkhVNFhzTE0zSjJlRWY2U25nTFI2SnIwRXlMQ29DRDZGX0RIa05PVlBNb1A1OFpyaUJ4Q0l0akFsUDJjRDVySElHOTdRc0NMTzk5VzJ2S19ESnB3dklYMEx3VTluRGtfWnE1OUFqeEh3VmZVZjc5OGlSNFU?oc=5",
+        "fonte": "BOL",
+        "data": "2026-08-07"
       }
     ],
     "energia-gt": [
@@ -192,16 +192,16 @@ window.NEWS = {
         "data": "2026-08-06"
       },
       {
+        "titulo": "O plano da Gerdau para criar uma \"nova Gerdau\" no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTS1zeEVqTURTTWhBUkhmYjdFTEVSWVM2VE5EQy1CNmM2dFlMaVVEMlBnanZZR0VOeGtiY2ZTU0hYemw2Y1FGOG5WSGF2TW1OQkpiYnFKSEhyT2J2MlRvM2xXYzhPeXFhY1BxVE85cEVNcTRhYjlnU0h1SW1PZ3NyUW1MdkhQdkoyaTJxMjVRdnU?oc=5",
+        "fonte": "NeoFeed",
+        "data": "2026-08-12"
+      },
+      {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
         "fonte": "AgFeed",
         "data": "2026-08-10"
-      },
-      {
-        "titulo": "Do fim das fábricas e o nascimento dos fundos de investimento: a financeirização de São Paulo e a metamorfose da burguesia brasileira",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWlYtbFBRZjN3NkUtYkl3amgwbWVaYUVXU1ZnaGN1VTZ3NmpaS3BiTlBLdnBMb0RtcXgzdUdNdTBrUlozR2I0dzJjZklZRHhqX2ROT3lXQUpoOHRxUHVlU21jd0tGa2tSLS1yMVlHa3RNQ0xKZHhHZTd0UE1VcXVENEYwR2VDTm1pMkZDVXNjSXpoZHp0Vjc0QmxNbjNFaDNlOXpsOVlVREY0bF9wTEJST19iVDdENVEyb21NcFhOYlhGcGZEYTBsNEdOVXF3alFHMjJGRThKWDRFblRaWU5SdWpuM3d1bU5TTkI5RVBnczBnY3BJQU1r?oc=5",
-        "fonte": "Brasil 247",
-        "data": "2026-08-06"
       }
     ],
     "logistica": [
@@ -218,7 +218,7 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "Governo lança Plano Nacional de Logística 2050 e projeta R$ 1,2 trilhão em investimentos até 2050",
+        "titulo": "PNL 2050 entra em vigor com R$ 1,225 trilhão em investimentos e reafirma Tecon Santos 10 como projeto-âncora do setor portuário",
         "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRE40a0FxM2hJTElZdnliY0otbmNTTDRaNnZoalFSOGRYYk1MZmZvcmJKUTVPNWY2YmpzNVZwWVctX1JCVzItanF2RXNQRVVIV0g3WkpsNXpiTFlaMHNCQ1NWa1ZHTms3eEZKOEpyVTY0QzVidkJXWUk0MDhFeXVnLWRjZEFEMWRqV0NSREFHcER1RXlITEhlOWdrNjJXa0ZiUFZJTk56VlpwVDFJSFNPTmJ3VklIMmJ6dE13UkdJV1dpVU1aNmpZNFktNVhGb1pQeC05T1NiTG1VdlRUY3JwanpJcjhIcmJJazhfVjRKSzA?oc=5",
         "fonte": "Portogente",
         "data": "2026-08-12"
@@ -248,13 +248,13 @@ window.NEWS = {
       {
         "titulo": "Ala do governo quer triagem \"rigorosa\" para investidor em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1FNdXd4YkJjdy1UVDJYYS1DbUpkeWVfMGM1bzVGbFFnTEVRd3VBckx6RXNDRldycG9QNGo4UEVvUEFUajk1SXVCU09JV2Joc0ZSU3ZxRWttWV8tY2JfQ0YzaHRZZjd1SEZiRkZmXzFNOFNuZDd1dHgxaExqNm82aUVNUE9uUEhXSGRCRHBXV2Q3XzNhLVk3dHVnVUU5a1lpRDBfMmNtSUlyVDNnbkE?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-07"
       },
       {
         "titulo": "PL de minerais críticos avança sem considerar riscos, alertam especialistas",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDZ5dTc4V0NKRVhSbmJuTlV2aGNRSlJsYVN1cGg3cjdnS25kWmVfVFdDNktJYkZabFl0SERGa3U5b1dDRF80aW1lRGFydzZLU1AtN01xcUpHLTJ6Y1A2UFZmMzhGTUk1NGdoVjB1Y2lRanFvdUNQX1dETmMzVkVuaXpOLVJHREVseFljSnlYaG5IWDBPSlo1cmpGTHhaS1doTVN2R0I2RE9KUWZJMHFSbg?oc=5",
-        "fonte": "Mongabay Brasil",
+        "fonte": "brasil.mongabay.com",
         "data": "2026-08-06"
       },
       {
@@ -274,7 +274,7 @@ window.NEWS = {
       {
         "titulo": "Klabin entra em fase de \"colheita\" e adia novos grandes investimentos",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzRiMWUxcDQ1Y0ljU3pJdjFLRHU0RlBseDBWZ1RuWkpqMjMyRGxnUVRfU2pPejFIRDVEWHVtQ0xKTHMwTEtobXR4U01SOW0yenV0aWdNdWtxNjFVaURkRlRvVUdJSTFBWXZYLXY2MTN1SUN3Yy00QWUySGJBaE5BLWxmYUQtUE4yU0V0WXctTVkwekQyQnVPUXpueVg5THN5dUdKcw?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-06"
       },
       {
@@ -296,7 +296,7 @@ window.NEWS = {
       {
         "titulo": "Investimento privado moderniza infraestrutura no país - 06/08/2026 - Concessões",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVAxWkNxNFUyUTdqbnd6Y0Y2Q05pNDVjYkJrVXp0LWFjd1FpbW9fNWV2MXQ0RjAtR3NmZmY5UjZmaDRfVlJIT3JBdG9KMkVZLTRuVXcya1BDdkY0VHpvVnJrYk1BWl9oaGN2QlBxTW1PSFlGYUZkR045VE1IOExlbnpNaVVwdEhrdFZ2dnlBQndyZm16QWNTZTNuQXpLdDRLOHB4OGNhNHdZbENLLW4zUA?oc=5",
-        "fonte": "Estúdio Folha",
+        "fonte": "estudio.folha.uol.com.br",
         "data": "2026-08-07"
       },
       {
@@ -340,16 +340,16 @@ window.NEWS = {
         "data": "2026-08-09"
       },
       {
-        "titulo": "Previsão do tempo na região Central para segunda-feira (10)",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ3d3eVRrUDlQMldCWW14dWtJM2lDT19BbDM3V25NM1p3N1ZsV3BJeEpOLXhFUmZQZVdzRU96TmpDN2QxYVhYSDJ1a1RjUURYbno0RnRFdXJRN1RBMTdab3l6RmltSUZ3YVkzWktBV3FyLVFOT0toeTF6cEpzSjhKVkFGa3p1NVhFbVBHcklNRmVpbVhkaTRvNnJfN1U3Zw?oc=5",
-        "fonte": "O Popular",
-        "data": "2026-08-09"
-      },
-      {
         "titulo": "Previsão do tempo na região Sudoeste para segunda-feira (10)",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVBDbGxUSi1VeVR1RERRMmpQTjFydDM0bTFNV2M4amFMNnpZdkgwZXVITnlWMURhTG5tdnVoZ2QxbkYxTU9WMlpOd0otc2hlVmY2UGhTU092ZmNtblVtWDc0WHdCbjNzT3ZpZ0tJS0RYaFJDQ0ctVXpnNUZqM3VEeTYxaHdMWk1SQUF0OVB4NE9NLU9HYkRudEVIYi1fb3c?oc=5",
         "fonte": "O Popular",
         "data": "2026-08-09"
+      },
+      {
+        "titulo": "A escolha de Caiado e Daniel e o dilema de Marconi",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYm14eXBGbmV0cW9jVUJxbG1IbjJlc3VkdEFsenpyci16bXpldy1GVlRHMkxxeVE2SFo2TXY4V2dQSXh1ZDVCMllRRVJlQkMybXlvLVRhRWR0UlI1eEtoaVlsdlBCdkpscjNRaV96enhZTlVDMlVBVjdTb0pxbHNrYmwxVUJoLXRzbzlRRl9NdVlkOFN0WENzMGJBXzROdS0walk2S21wVQ?oc=5",
+        "fonte": "O Popular",
+        "data": "2026-08-06"
       }
     ]
   }
