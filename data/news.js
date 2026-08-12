@@ -1,18 +1,18 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-12T19:09:38+00:00",
+  "atualizadoEm": "2026-08-12T20:53:26+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola é nova fronteira para a expansão do agronegócio brasileiro",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWdSLW5ydVJXUGFpMmZmOEx4Qm1ITTJJRC0xOE1ybm5hZFhzWWZ1ZDVfMnhnbG5zWF9wLUJuZGQ1QnVaR3RPYXZ3UkdzQm10S0JqS0ROdXJWaXhRUWI1cFA2c0FVY1g4Y05pMUw4UXZLS2VWMkVCQWVQdWpDRHR6SzhiZ2RwR2FlNmxUV0FaUW5OVGtEaXZ2aVgzaEtZbWpqdkE?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-12"
       },
       {
         "titulo": "Move Agrícola: Conheça a nova linha de crédito para financiamento agro",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdU02WnRKOUpQc3o0UzJqZXYzZWRRWlRsSGNzMC1heGl5N3VrLWk0Mi15WUdIRDM5WF9BN1AtNDhsM2lKWVVPUzI0RU1QV3BBVmp1VXdLcXNZRkktNWVZZzFtOHdtdUIwTlBqLXdkRWF5ZVhfYUJkeEVCczVROG9KMlRBbk9PQzJJNnNoVE10YnhjRWw1MTRLMDZ0N1dqWUFtYXJvaldQbUktdW1aVzhaaUVWS3Bna1N4bGJQa091Tk1JTTZIYTh2MQ?oc=5",
-        "fonte": "sicredi.com.br",
+        "fonte": "Sicredi",
         "data": "2026-08-06"
       },
       {
@@ -52,7 +52,7 @@ window.NEWS = {
       {
         "titulo": "Montadora chinesa Jetour vê com bons olhos opção por fábrica compartilhada no Brasil, diz diretor",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWVBzYXdMOWxjX3plX2Y5VUJZdU1KdmJ1emdLWHFjLWlFTTI5YjUtQjQ2MVd2U2RGOGY2SkVZa1E0TFhGa2k5ZGxheDgtRTdDT1haeTYwRnRPZHB0ckhmMldnY0puSXdEWUNzQk1FRVpPMW5uYmhJQk9Bd25fdmp5eWxNTGRUWDN2OWc3eTdYRmdWZmNOYTBCZmowUVktQW56VTJQdEItQlBqM1JBTFhucC1renktS0RfZ0RwNFJ5clNOd0t3eEVTQnBNRDE?oc=5",
-        "fonte": "moneytimes.com.br",
+        "fonte": "Money Times",
         "data": "2026-08-06"
       },
       {
@@ -116,9 +116,9 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "Viezzer Supermercados anuncia investimento de R$ 6,5 milhões em suas lojas",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeEp1akl5bzlGMFdaeFlDWU9qQmhLcDZHa3d1M1UxMUNDcUtGQzBVWDZKUVM5ajYwS1hKbkl2SEhSYXpQZEdubFRFVHNEVHVLVXlXOXhmT1BudHdmcVNVbXFkNUxabGxQRXFhUzZnTERjQVBHczBKYVo5Y1ktT0U3M0U2VVlVdEVORGhteDhXaVNQY2FzWHk1YkJ6T0dEMjFXbC1EZjBR?oc=5",
-        "fonte": "Rádio Pampa",
+        "titulo": "Viezzer Supermercados anuncia investimento de R$ 6,5 milhões em lojas",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVlAtckI0N0JOYUZPd1NjSmpwQzJiSmVvNTFxSXZJYTJHODdlTDYtbkdva2g0Z3AzZTJFTU5qRXpMUzV6azRNWE92Y2lHYzhPeUZHbWtCOHlubkhmTnlXbWlfNGs0ZExvbXg2UmpEemcyd25nVmFIdTY0MFlnZUNQdGNNVkFzeVBpZFk0cjVrWWlWSDN2Z2Q0Q1lZMkpuejRPRnp4X0tIOWg?oc=5",
+        "fonte": "SuperVarejo",
         "data": "2026-08-10"
       }
     ],
@@ -152,7 +152,7 @@ window.NEWS = {
       {
         "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
-        "fonte": "senado.leg.br",
+        "fonte": "Senado",
         "data": "2026-08-10"
       },
       {
@@ -248,7 +248,7 @@ window.NEWS = {
       {
         "titulo": "Ala do governo quer triagem \"rigorosa\" para investidor em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1FNdXd4YkJjdy1UVDJYYS1DbUpkeWVfMGM1bzVGbFFnTEVRd3VBckx6RXNDRldycG9QNGo4UEVvUEFUajk1SXVCU09JV2Joc0ZSU3ZxRWttWV8tY2JfQ0YzaHRZZjd1SEZiRkZmXzFNOFNuZDd1dHgxaExqNm82aUVNUE9uUEhXSGRCRHBXV2Q3XzNhLVk3dHVnVUU5a1lpRDBfMmNtSUlyVDNnbkE?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-07"
       },
       {
@@ -274,7 +274,7 @@ window.NEWS = {
       {
         "titulo": "Klabin entra em fase de \"colheita\" e adia novos grandes investimentos",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzRiMWUxcDQ1Y0ljU3pJdjFLRHU0RlBseDBWZ1RuWkpqMjMyRGxnUVRfU2pPejFIRDVEWHVtQ0xKTHMwTEtobXR4U01SOW0yenV0aWdNdWtxNjFVaURkRlRvVUdJSTFBWXZYLXY2MTN1SUN3Yy00QWUySGJBaE5BLWxmYUQtUE4yU0V0WXctTVkwekQyQnVPUXpueVg5THN5dUdKcw?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-06"
       },
       {
@@ -320,16 +320,16 @@ window.NEWS = {
         "data": "2026-08-11"
       },
       {
-        "titulo": "Sindicato dos Metalúrgicos teme avanço do aço chinês diante da ameaça a empregos no Sul Fluminense",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQTNNekhPaUduOEt2WE1Hc1o5OS1FYlFlTFZLbUZZaHFIaEIyUTllZUwxd3VhTmRIdDZwWmpLZlZLbmV5UjdLWnVLaWg4dTJxdHhQd0VadklXWXBUNVJJX2w0cVdKcUsyUGtPTUR4THJYYXdLZTU3QmNPMEF0aWRLYTMzalJQWDZFSUkwM3BJc3RRdkY3NUdpTEpqTzl6QWU4bFU5c3hiVFFXUE5rSmhMQWtuajlEVm9VM0pMTGNvRU5BOUotelE?oc=5",
-        "fonte": "A Voz da Cidade",
-        "data": "2026-08-05"
-      },
-      {
         "titulo": "Incentivos ao aço somam R$ 14,6 bi e ampliam pressão ambiental",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWdoRDlGbVFUMXM3VHhGRWhUYXJkMGFsNXFXS0Jic3NXeldMby02MjVEQmc3QXYtX0EteXhJME1lTmc0dFN6aC00ajJ1blR5a1FydGhnenhLYkFqbThaOV9FS0tSZnFMb0pNWkFSSUZ3cEdodTNrTmRCYkt3eDRnenBTOVhQczY0MmNHY0U1NTVFQnNkRmFZ?oc=5",
         "fonte": "Revista Amazônia",
         "data": "2026-08-12"
+      },
+      {
+        "titulo": "Sindicato dos Metalúrgicos alerta para avanço do aço chinês no Sul Fluminense",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnJPbEd5blVzTG5oOER3SUtyUGlUeXpRNkswUkpOd1B4S1h1bGkzV0d4RjhVeVZFeUFWX09OdElmc05pRXNtaUNYaE9JbFIzajl2bThQbmZCeVo3V0V6QlVkbWoteW1GZVZaVXZ5NWtYdTA5cWN4akRpZ1pMbFNBMmJIb1M5Rmp4YjFYaWg2WmNrdXFNUm5HTTZKM3htX2tELWhiR25aN3p3WmxrcFZHd0JDbWlWbzNi?oc=5",
+        "fonte": "diariodovale.com.br",
+        "data": "2026-08-06"
       }
     ],
     "odontologia": [
