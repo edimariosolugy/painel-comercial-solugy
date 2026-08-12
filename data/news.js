@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-12T13:23:32+00:00",
+  "atualizadoEm": "2026-08-12T15:03:20+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
-        "fonte": "Brasil de Fato",
+        "fonte": "brasildefato.com.br",
         "data": "2026-08-11"
       },
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Imposto Seletivo e Mover no setor automotivo",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlBjbkQtUnc3TXhTLWdQVUE1TGh1Vk1ZQ3FyVlk1SzNCOWYwS0wxXzdpR0drTG16UXdnWEV4UmxZS19DUEprS0tzbnA1OWt2cFA4Slh5ZUs0MGZMY29tMkJJQjVwMzJvYTVfSTQ1dHUtQllaZnlqdGZJMmROY0VwX3pkalp2b19VQ0swZURuaWJzZ2dH?oc=5",
-        "fonte": "Automotive Business",
+        "fonte": "automotivebusiness.com.br",
         "data": "2026-08-07"
       },
       {
@@ -73,7 +73,7 @@ window.NEWS = {
         "titulo": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeV85Y2hTVDhuYThLNGhoaDZMV0dmZTZSMUYzX05aM3h1QmhPOFpNMkhIejlKUFI1cXFfWVp5Q0M1Q0pQR1JBWjJCYndWd1JHQ0owRVFmd3hLdlB0dHlZUVM0LW1vRWp2VU45VHo2ZGZTZXRxSy1uRGMwZnFCeDNoeWo5eTlyX2hfb0hkZE9hOFlTYnJwZTlLOHhNVFZwVkIwenRWWlBzT1k?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-08-11"
+        "data": "2026-08-10"
       },
       {
         "titulo": "Biometano amplia fronteiras da bioenergia e coloca usinas no centro da expansão do gás renovável",
@@ -86,7 +86,7 @@ window.NEWS = {
       {
         "titulo": "As 10 melhores empresas do mundo no mercado de concreto de alta resistência",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObHR4UDBtSzJwUGROZGhyUi12S21NVTlNX05ISWhVY0thbURod2FfZzBxTF83ZFVDelhmSm1mSElTaVFKY1AzcEVsbjk2ZC1OaVM5ZmJZbVlwR05mNUtLbHpzc3dkRFBNcHZ2blFOU193WlZPd09MRnppOWtzanNRbFlmemk2RVlnd3lqV2JRTXFMc2VHaF9VYlpkYV9WR2xXeGpwZ3dXdEMtR2ZkVDBsV0Mtdm1VQUJieUUyOXlWVWpWTS1POTI0TWJlX1pycjBxUTVJM2pZaUNhMDl3emZxTmRNZklKc0ZTRmF2Y1NTMVhyc3pjVnp2Ym5n?oc=5",
-        "fonte": "sphericalinsights.com",
+        "fonte": "Spherical Insights",
         "data": "2026-08-08"
       },
       {
@@ -100,7 +100,7 @@ window.NEWS = {
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-08-10"
       },
       {
@@ -140,13 +140,13 @@ window.NEWS = {
       {
         "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-10"
       },
       {
         "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
-        "fonte": "bbc.com",
+        "fonte": "BBC",
         "data": "2026-08-07"
       },
       {
@@ -195,7 +195,7 @@ window.NEWS = {
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-08-10"
       },
       {
@@ -207,6 +207,12 @@ window.NEWS = {
     ],
     "logistica": [
       {
+        "titulo": "Governo lança plano com projeção de R$ 1,2 tri para logística até 2050",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZVE3cXRKZ3kzT3hTVVBCVHFtS1BOdlV2dFRaRzlSY0dOQld0VWlGV1hvQ1NvQXI1NzJIUlFJVzBNVm1zcjAxS0ZrSGtNeXgzSU8tdmQyTnV3eXNuU2JlQk5nRlZEbG1rUlRhVkI2bmxVUEhYMFBmbVg3T3FDeXc2R2E5WXc5SFptcTZxR19fQUMxMGZidWxxdEpPV0hfblV2alBJa1phX0F4US1HYlE?oc=5",
+        "fonte": "Poder360",
+        "data": "2026-08-12"
+      },
+      {
         "titulo": "Novo plano de infraestrutura do Brasil prevê R$ 1,2 tri em investimentos",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOdWJKQ0ZDYmRVSGhMSDZ1SGlXR3ZycHBHVUJPa2VpTjNCR3VSQzd4MEdTS1pwWXJYU0k5dTFPeHloU0x4TVoxNzBTLUVrMjZGWDlvd0QxV21zWUJLbVozOEpXa3U3cGhQWG9rZWl3TWRCWlUwOXhWUXNpdGM5R2N3VW5IRlZIOE9ZZWk1OURoV2ZFbW5YM01QN05tTWEtRXhRamVRNWlIMGRGX3I0?oc=5",
         "fonte": "Rádio Itatiaia",
@@ -217,32 +223,26 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPUlg1a1NWRVBJdEVWa2V6T01rLW5kVFl6RTJfdDlRNGRsbXhMR0RIVFdYS1pxLUhrd3N3cWVPQ3BYUFVyNnZNaVpJdl9nWk9aTEtEckkyQWttd3FMNnNCQk1lb1dJSVotNWdiRVo4V2ExUlA1Ynp0bWJaT3d3dFo2WFFSOE9TelozeFd0dk03T1p4Uk1mR0tHVTZHbWIxTGRzWmxXejJVUklZcjVla1dJeHFHNnZtNll0UGV3?oc=5",
         "fonte": "deducao.com.br",
         "data": "2026-08-10"
-      },
-      {
-        "titulo": "Quixeramobim se prepara para se tornar um hub logístico do interior do Ceará - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSzQxcUpudFUxaWNEYWg5ajJRZUxYZ08zeV9ZaWdSbkU2Ykx3VkRlYURRb0JuaTVhbk1HbU43VFBxOUF2aXRfZF9zV19kNHQwTEtKNV9xaWhfZFNnTE0zLVRzWUNKMmhRNjQyTDJ4dVdRR0FQSmE3VjJxczczWjlRTUNCdmdPb3F1QnBLY1FOZTJYU3pFQjBzSjI0VGdCengzdmJZSVd2WGhVT25vVldwYnFIZw?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-08-10"
       }
     ],
     "maquinas": [
       {
         "titulo": "Juros altos e baixa automatização: o que trava a indústria brasileira? (Ep. #214)",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUmZvS0F1LTlEcnZxTnpueUxaekJoQXJBSHNyVldha1VUcWVlV2w5OFRhMFo1cTNqUmRUcmIzMHZiRXpBTjhtWXhwX25EMm90cXJTMlVGNEZtdU0zb2VQSGNIUzJvZ3RLNG8tdWRTei01YnJRelhhRzc3ZEVmYmVpZkFMUUdUTXBVeS1qTWt5ai1zeEhBa3R6UHdvbmc4ckN4UElfazAzanZSNVFuc0lOX05HUFlYalVFNXdmbUVPNF9uaEQ4VFNYQ1l6NXhmU1Jpbnc?oc=5",
-        "fonte": "Agência de Notícias da Indústria",
+        "fonte": "noticias.portaldaindustria.com.br",
         "data": "2026-08-07"
-      },
-      {
-        "titulo": "Indústria prefere comprar máquinas novas, mas investe pouco em automatização, mostra pesquisa CNI",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNS3hyejBEY2ZGM3NvVmQwM0VVdXNfcUJkLTh1eE1ZMTlYX1d2bExneV8yeEtPRF9yc3EybEZpanNzeWg2cHBjSDVvbWp0QnQtNS1nS085cm43cm1PQkYzaDF0NDZ0RlZOQU54dHB2UUMwN3N6ZXJ3LUh6UzhYdGdfV1hDc25Mbk5uN3hBYlEwSjAwVUlSQnJ1c2VlR0lzeHUtTmowWWtYVlZOdVpYQWIxb1NVeGtodzVjT2tZUGhGTU84T1JWbndvNWRjd0dFcnpfRm1tNGNMYjluRWJFU0hmQtIB7wFBVV95cUxObFVoVEYtRU9wUlhvb2NMRkxfTW01TGhiQUlSUWxjMk12VWxTTmpKQ2Y5NGZ4Y3lxWHpHYnZhZC1aY3huaFJ1TjljOFRqYVNXYXM2Szd1elRRUmp6UWxXZDAycHZCNk95ekliSXppT29FUzd2b0RvbGVjSGRKV0dnNjhva2x0RklqMnBwQzlWQUotaGt0YjdyNUVpTGJrNDJHcV9XY1ZXU0M2SEdzbkE0ekFRN19qb29TZDM1bThfSjdMdHJXa01Ha0pHT0t5dnZDX0VVa1ZFYXhCMHppNzEteFEtd0ZhdEVwUXlmR0RkOA?oc=5",
-        "fonte": "valor.globo.com",
-        "data": "2026-08-05"
       },
       {
         "titulo": "Indústria investe em máquinas, mas modernização tecnológica ainda é limitada",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeXFfTnBZN3FBUlpERGFDdkVTU05NSGg4dVZ6QklybEJWeF9La1NFV0RpZEdRREpnWWN3VENnTzlXTVp6RV9udkdlRWtGT1o5UU9Sb2xxWnQ2R1d6Y3dkYXFXSWtmMGJwS0xfYTc5OGpib08yejliYkpCanZSMUdkOEhOY3Nlb29vWFFpaXhiTWZVajNNaWdsMzdZT2JUNjhpakhYRFltUXZQSEw4VWdQWGFma1lIQVBRYVpCdGU4Q0ZqMExyb3gtclVpSDkxV0k?oc=5",
         "fonte": "Rede Catarinense de Noticias",
         "data": "2026-08-05"
+      },
+      {
+        "titulo": "CNI: indústria investe em máquinas novas, mas modernização tecnológica avança lentamente",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUC1JTEt2TFRoeVNxRDJVTVZ4ZWdRc3ZFbWNOZ3o5S2s3T1hCUWZpODNGU3YtTUVMRjZvUm9zV0ViT0NmeFN6eXd2SU1LdXE0bE1NMmhCc2ExOElzUVlVc1NPeHJwQmhVck03NTdzUTliNWlhZXJacGlLT0FJaXlrYUJLTXdOSXBWMnctZ0RnRUxWTW5naGV2ZWRGUHpvdmVOa1ZfUnNHeUt3OFZwdnVfQXg3SGtIMTF1akFIatIBwgFBVV95cUxPNGVDc2Y2YndmVXRRelJoblpkWkdGSVFfNW05d08wblpILXFORGtOTm04dWQyU1ltTDg5LXN2UzRjYlRiMEluWVFJZEF3V0RXWGVEVllfS2dMS1M5N052b0RyNHF1cXpFZmlrOVRIMjdORjItTEVFM3NKcXAyOFEzdmlOVVBmbXh5WUZsZ2kxREE1a1hGaldiNzBOZ19NTWhDa0lGT2VUVjVvOTdUZEgwZWZRMk9zSW0xeDQ5SzVxdzFTZw?oc=5",
+        "fonte": "Brasil 61",
+        "data": "2026-08-07"
       }
     ],
     "mineracao": [
