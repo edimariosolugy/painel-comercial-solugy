@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-12T22:49:45+00:00",
+  "atualizadoEm": "2026-08-12T23:49:10+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -18,7 +18,7 @@ window.NEWS = {
       {
         "titulo": "PIB do Agronegócio Inicia 2026 em Queda; Veja os Demais Destaques do AgroRound",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSE0wekhTaEhhS3ZhWWFaVmJvbXBnWXRJWThXYmNiQTNHS2JyN0hva2h4NmZ5U3Bqcll3ZTRBUHJIazRwQ2VYNmMyaE1ubUVKbm9tT2Y1Ni1CVUJCdUFjS20wYUtwRUtXaWNOdlpreXBlekwyNDFlWGhRR3FNVjNNeE1sSXNXbmdMZDFsdFNDalJRQnhham55R25tMmdHYk5JaFVmdUxMV0wzT0l4SkpyUjVleUVXekgwdkZGVQ?oc=5",
-        "fonte": "forbes.com.br",
+        "fonte": "Forbes Brasil",
         "data": "2026-08-07"
       }
     ],
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "Com investimento de R$ 6 milhões, Ceará ganha centro para certificação do leite",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODh1VmxGcUpoaXhZRWROTDJMb09tYXFfYThHRGV2TVB2MWJrWFNnU29oUWpmbjN5SDZIc3Y3Ykx1c0VwODJKcmYzY2RGUjZKcURtYlM5LXpoMU1UQXc3SzlFV0NINlBDTi1mZkJPMFhDT0RvSkFLSW15alFkbFhFcnhZSkJqaWhHQ3M0MjFzSVp3OV9Hb01QWlRYemtOeXpHTkhQY0xLcjFLYmQxa08xel9mMm5PdmtiLTZxQlZtNTE1bXNxYTl3Q1MwTTdKVnZteWc?oc=5",
-        "fonte": "mais.opovo.com.br",
+        "fonte": "O POVO",
         "data": "2026-08-06"
       },
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Imposto Seletivo e Mover no setor automotivo",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxONlBjbkQtUnc3TXhTLWdQVUE1TGh1Vk1ZQ3FyVlk1SzNCOWYwS0wxXzdpR0drTG16UXdnWEV4UmxZS19DUEprS0tzbnA1OWt2cFA4Slh5ZUs0MGZMY29tMkJJQjVwMzJvYTVfSTQ1dHUtQllaZnlqdGZJMmROY0VwX3pkalp2b19VQ0swZURuaWJzZ2dH?oc=5",
-        "fonte": "automotivebusiness.com.br",
+        "fonte": "Automotive Business",
         "data": "2026-08-07"
       },
       {
@@ -86,7 +86,7 @@ window.NEWS = {
       {
         "titulo": "As 10 melhores empresas do mundo no mercado de concreto de alta resistência",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObHR4UDBtSzJwUGROZGhyUi12S21NVTlNX05ISWhVY0thbURod2FfZzBxTF83ZFVDelhmSm1mSElTaVFKY1AzcEVsbjk2ZC1OaVM5ZmJZbVlwR05mNUtLbHpzc3dkRFBNcHZ2blFOU193WlZPd09MRnppOWtzanNRbFlmemk2RVlnd3lqV2JRTXFMc2VHaF9VYlpkYV9WR2xXeGpwZ3dXdEMtR2ZkVDBsV0Mtdm1VQUJieUUyOXlWVWpWTS1POTI0TWJlX1pycjBxUTVJM2pZaUNhMDl3emZxTmRNZklKc0ZTRmF2Y1NTMVhyc3pjVnp2Ym5n?oc=5",
-        "fonte": "Spherical Insights",
+        "fonte": "sphericalinsights.com",
         "data": "2026-08-08"
       },
       {
@@ -118,7 +118,7 @@ window.NEWS = {
       {
         "titulo": "Balanços mostram disputa entre crescimento e rentabilidade no varejo",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3dNQ2FxSHhxUjVqM05tOGZmLVdUSU5zdUlWVUgtNjFScjN1c2tPWWhkZUJuNEZ4VFN6N0dlRnhpTDh3NnZNc2ZyRHZtNkhVNFhzTE0zSjJlRWY2U25nTFI2SnIwRXlMQ29DRDZGX0RIa05PVlBNb1A1OFpyaUJ4Q0l0akFsUDJjRDVySElHOTdRc0NMTzk5VzJ2S19ESnB3dklYMEx3VTluRGtfWnE1OUFqeEh3VmZVZjc5OGlSNFU?oc=5",
-        "fonte": "BOL",
+        "fonte": "bol.uol.com.br",
         "data": "2026-08-07"
       }
     ],
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
-        "fonte": "Canal Solar",
+        "fonte": "canalsolar.com.br",
         "data": "2026-08-10"
       },
       {
@@ -156,7 +156,7 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
+        "titulo": "Agora no g1",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB0gHkAUFVX3lxTE1hV19HZmx2WlM3aDdwVkxyS0N5STRYX1RZYmFpelNMVUxCQ25xRXdPOFJTWXN0cWJUXzV6czFsVEctTUkzcnZkTjlNN2Z6UEpueEJXQlI5aVNhczcxbTVoTzFHcmI4RktHQ3RhQjI1c055SnVXVmVDejlGMDRkSk9PalRRVTFGRUc2bXhhc0F5c3c3YzZOS0hTLXNULUFMX0ZKdHdNMkMtbWdwbGZtUk85NWNtZ2ptSHEwZ2FtUklCLU1kZUxkLW44Yzc1WDRqVEd6MVA1bXlxMVh5VGpMVnROTDZ5VA?oc=5",
         "fonte": "G1",
         "data": "2026-08-09"
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "​Indústria compra máquinas novas no país, mas automação avança lenta no Nordeste",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2QxU2o3eU90Z0RNUWJwYUdiZFBpQW9zZmJ5bWEwc0R6VDNmNmt5X3V2Tk5jR05OV3ppU01tc1o2OWRNRWhQYmpDbUFnSm14RHJpUE4xbF8zV2R5TlNiNU83czU1VXhMT09jUmhoQ1Zkc3hrOVc3OUNlQ3BYM3N2Vk5CM0kwMW5VWlJLbHFCelFpdFFtTXc4MUdWNFJSTUUzWTItWGZOT1Z4UXJnaC1fTk4wYw?oc=5",
-        "fonte": "O Estado CE",
+        "fonte": "oestadoce.com.br",
         "data": "2026-08-07"
       },
       {
@@ -254,7 +254,7 @@ window.NEWS = {
       {
         "titulo": "PL de minerais críticos avança sem considerar riscos, alertam especialistas",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDZ5dTc4V0NKRVhSbmJuTlV2aGNRSlJsYVN1cGg3cjdnS25kWmVfVFdDNktJYkZabFl0SERGa3U5b1dDRF80aW1lRGFydzZLU1AtN01xcUpHLTJ6Y1A2UFZmMzhGTUk1NGdoVjB1Y2lRanFvdUNQX1dETmMzVkVuaXpOLVJHREVseFljSnlYaG5IWDBPSlo1cmpGTHhaS1doTVN2R0I2RE9KUWZJMHFSbg?oc=5",
-        "fonte": "brasil.mongabay.com",
+        "fonte": "Mongabay Brasil",
         "data": "2026-08-06"
       },
       {
@@ -296,7 +296,7 @@ window.NEWS = {
       {
         "titulo": "Investimento privado moderniza infraestrutura no país - 06/08/2026 - Concessões",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVAxWkNxNFUyUTdqbnd6Y0Y2Q05pNDVjYkJrVXp0LWFjd1FpbW9fNWV2MXQ0RjAtR3NmZmY5UjZmaDRfVlJIT3JBdG9KMkVZLTRuVXcya1BDdkY0VHpvVnJrYk1BWl9oaGN2QlBxTW1PSFlGYUZkR045VE1IOExlbnpNaVVwdEhrdFZ2dnlBQndyZm16QWNTZTNuQXpLdDRLOHB4OGNhNHdZbENLLW4zUA?oc=5",
-        "fonte": "estudio.folha.uol.com.br",
+        "fonte": "Estúdio Folha",
         "data": "2026-08-07"
       },
       {
@@ -328,7 +328,7 @@ window.NEWS = {
       {
         "titulo": "Sindicato dos Metalúrgicos alerta para avanço do aço chinês no Sul Fluminense",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnJPbEd5blVzTG5oOER3SUtyUGlUeXpRNkswUkpOd1B4S1h1bGkzV0d4RjhVeVZFeUFWX09OdElmc05pRXNtaUNYaE9JbFIzajl2bThQbmZCeVo3V0V6QlVkbWoteW1GZVZaVXZ5NWtYdTA5cWN4akRpZ1pMbFNBMmJIb1M5Rmp4YjFYaWg2WmNrdXFNUm5HTTZKM3htX2tELWhiR25aN3p3WmxrcFZHd0JDbWlWbzNi?oc=5",
-        "fonte": "Diário do Vale",
+        "fonte": "diariodovale.com.br",
         "data": "2026-08-06"
       }
     ],
