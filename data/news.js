@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-13T13:25:10+00:00",
+  "atualizadoEm": "2026-08-13T15:03:20+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-08-11"
       },
       {
+        "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
+        "fonte": "Times Brasil | CNBC",
+        "data": "2026-08-13"
+      },
+      {
         "titulo": "Maior câmara fria do Paraná é inaugurada; veja qual foi o investimento",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJQRDFTaGctVHVfNnVZREFTNnEzQi1BOVZfSF9PR2M0WHZDSTktaXZSX0dZSENjdmV4STJiRVZ6T25fZ01GRHN0OG5taXhQZk84bWJDV0IwcEY0Ri1mdHk3WTJQZkxSWkZHRWlQRGFKN2Iwc25iOEcwdV9oTXRDSlFsbTA5alptVlpnczMzSFc5MzR2d0RoZDFEcXRGQkppV1phdHJrQXBXUdIBrwFBVV95cUxOcTJOVmEyWHU0VjdYQ1E3ZEV5SzZFQVlvSzhVWXZXQXNDclZDZ28xa2JRMWVsclFLUTZmX0pXdHRHa3pzWEZtTXRwaTR6Q2tORDM1R3M0WmdwbzFHSEhiSU9rMEFxUThTd252c01KNUFjODc3MTlZNUNBSkJPenVETDVPQ1VQVjJ2TEFObWNHRnZqQ214aEIybjdmRUlob0p6MXlSdGFSdzZCT2VHNFl3?oc=5",
         "fonte": "Tribuna do Paraná",
         "data": "2026-08-10"
-      },
-      {
-        "titulo": "ApexBrasil cria plano de diversificação de exportações para empresas afetadas pelo tarifaço",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaTFwWlNiRFhfbjNDLXBWdFppTEJyaHVaM2ZRUzkxM0dHV3Z1bGpnTlhnekVwYWltejRBNnJ5TTMzS3AwVkNCZlNKTDhnMUpNc0ZKWmtLbFFjY3RSNDVzVDllbEVnd0FkRnpUQmxJMnFrRDF3RHJtd3JybTQ1MmdxN3NZSkdVYTk5bHQ5QlJwX3VfYkE1SzA3SUdKOUpod2RoakU2Z01aeTBUQnNjemZPejNJWWtfS3d2cllXUV9FUEY0TjhWTWkxdHNsSkc2NFNkVXppbnh1T0NpLWtQYTk0M9IB7wFBVV95cUxQWE5wRDlaXy10ZlRpejhxM0o3UnlXSjVmRXVLSVlDQlhtTDE4ZTVzbWNrckFkMW9MSzNMdVJYa0k3eWNId2NGaExYOWlRdHQ2cGtUaWV3SGxNb21SMW9TbmlkVHRuaktvdTgwczRKNVE5N2hURndaTGh4NUdtZThaejEyemN3ZURJN214NC0yTlpHcG5pYmlTZmV0MDVTeHJYb1N4OTk4aGczWDFvd1MtVGFLZTQ5Tm13Y2NLLXNjUFMzUGkyVEtEVF9LUE9odWJrUlhlSmgzZWRUTEJ3bzdRYnotSmwxSTNsUDVSUjZidw?oc=5",
-        "fonte": "CBN",
-        "data": "2026-08-11"
       }
     ],
     "automotivo": [
@@ -50,16 +50,16 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
+        "titulo": "Avanço das montadoras chinesas reconfigura o mercado de financiamento automotivo no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVBHenVTN0xfWnhuUmpsejZkZGNKemtOVC1MWDFBRUJqX3Y1M09CUUhBeUtyTjNqem5idFNSd1VjbmhYWXZ1RU8wMUNlQ19KYnlieFM0RmZCNHhQbXFiaDByTjE2d0FvVFVFTVRzelhUV2I0X3lKOXhJNTRJYlBXazQ4VVpHZGVNeHJsTVhNMW10QnZ4bHhJVUVpd0sya250UkFRdHlDdWpYaG1mejRYV1cxendYVHo1?oc=5",
+        "fonte": "adnews.com.br",
+        "data": "2026-08-13"
+      },
+      {
         "titulo": "Empresa de SC investe em novo sistema de pinturas para autopeças e mira expansão internacional",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUR5QmtFTF9GUlRjaUE2NFhfWUFZb2YzaFg5djFuVV85d25SQ243NHFrbTFkZzRwWTl6X1VpZTVpd29Iakh2cU14QWxkMFRZaXRRaEllWEF0NUdJOWRXT3l2QU5rakpkdG5ZQ0pZZmVOeXh4dmhYR3B4c0hvdFpQaGtkNGlzZlQ0MWhoSFNRc3FoNEV4Q2s0U2kyei1ha3lsNlJnbWVWcUJJV0RSY1lsTXp5dHg3TEd6X29KOS1rc1gyTUFyb0dDeG1QVThjVHpnTmFOTQ?oc=5",
         "fonte": "noticenter.com.br",
         "data": "2026-08-12"
-      },
-      {
-        "titulo": "“O consumidor final é quem ganha”, diz diretor da BCOMEX sobre avanço das montadoras chinesas no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdjVYeEFYN1pGTW5UYURNeFFqNEpPMDhTQmtxbU1ZeFZWeXo5SGVHZlQ5cmV2V05tVVhaQnpEZHlxSXF1UEtZSy1Kc0NaUldxWGZkcUZBckwyZzJLanNpdTdGb2FZX2JTSGdGeUxjSzBmZnVXSVNQQnMyMjg5ZGJuV3FobEg0VFFkWExEMjNidDd4RkVYXzdRZWNCbUVGSnh5c3BjYTJzMkF0OHYzWTBjS0dISzVxdVQwS3hjamo1UUpPd0d5X0RvSW9sZWVhMW15?oc=5",
-        "fonte": "timesbrasil.com.br",
-        "data": "2026-08-06"
       }
     ],
     "bioenergia": [
@@ -126,13 +126,13 @@ window.NEWS = {
       {
         "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
-        "fonte": "eixos.com.br",
+        "fonte": "Agência eixos",
         "data": "2026-08-11"
       },
       {
         "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
-        "fonte": "timesbrasil.com.br",
+        "fonte": "Times Brasil | CNBC",
         "data": "2026-08-11"
       },
       {
@@ -186,10 +186,10 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Stellantis adia novas decisões de investimento no Brasil à espera de definições políticas",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGxIdTZhdzVYMTNabkZzelc5Skw4M2NPdVNNRUtKa2pTeVdiS3phcEMzRXdfcXFKRmQ3S3l1czhUNHJ1UFRkN3JvTUVXM2FJMUNJbHA1ek5ubVV6NUNvUmRLd0dncEl2dFdYLUNtUm9oWUx5S0M3R0R3U25xTjNoMmN2YUpwcFBtTmQ4NGttdkNxRndSUktIMm9DUk1lcUV2OHZuM3BkSlc0Z1NaU3hvR0RCRERqZm10UTU0NXBNSkg2WTAyb2JlZQ?oc=5",
-        "fonte": "Canal Rural",
-        "data": "2026-08-13"
+        "titulo": "O plano da Gerdau para criar uma \"nova Gerdau\" no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTS1zeEVqTURTTWhBUkhmYjdFTEVSWVM2VE5EQy1CNmM2dFlMaVVEMlBnanZZR0VOeGtiY2ZTU0hYemw2Y1FGOG5WSGF2TW1OQkpiYnFKSEhyT2J2MlRvM2xXYzhPeXFhY1BxVE85cEVNcTRhYjlnU0h1SW1PZ3NyUW1MdkhQdkoyaTJxMjVRdnU?oc=5",
+        "fonte": "neofeed.com.br",
+        "data": "2026-08-12"
       },
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
@@ -198,10 +198,10 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "O plano da Gerdau para criar uma \"nova Gerdau\" no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTS1zeEVqTURTTWhBUkhmYjdFTEVSWVM2VE5EQy1CNmM2dFlMaVVEMlBnanZZR0VOeGtiY2ZTU0hYemw2Y1FGOG5WSGF2TW1OQkpiYnFKSEhyT2J2MlRvM2xXYzhPeXFhY1BxVE85cEVNcTRhYjlnU0h1SW1PZ3NyUW1MdkhQdkoyaTJxMjVRdnU?oc=5",
-        "fonte": "NeoFeed",
-        "data": "2026-08-12"
+        "titulo": "Stellantis adia novas decisões de investimento no Brasil à espera de definições políticas",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGxIdTZhdzVYMTNabkZzelc5Skw4M2NPdVNNRUtKa2pTeVdiS3phcEMzRXdfcXFKRmQ3S3l1czhUNHJ1UFRkN3JvTUVXM2FJMUNJbHA1ek5ubVV6NUNvUmRLd0dncEl2dFdYLUNtUm9oWUx5S0M3R0R3U25xTjNoMmN2YUpwcFBtTmQ4NGttdkNxRndSUktIMm9DUk1lcUV2OHZuM3BkSlc0Z1NaU3hvR0RCRERqZm10UTU0NXBNSkg2WTAyb2JlZQ?oc=5",
+        "fonte": "Canal Rural",
+        "data": "2026-08-13"
       }
     ],
     "logistica": [
@@ -252,16 +252,16 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
-        "titulo": "PL de minerais críticos avança sem considerar riscos, alertam especialistas",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVDZ5dTc4V0NKRVhSbmJuTlV2aGNRSlJsYVN1cGg3cjdnS25kWmVfVFdDNktJYkZabFl0SERGa3U5b1dDRF80aW1lRGFydzZLU1AtN01xcUpHLTJ6Y1A2UFZmMzhGTUk1NGdoVjB1Y2lRanFvdUNQX1dETmMzVkVuaXpOLVJHREVseFljSnlYaG5IWDBPSlo1cmpGTHhaS1doTVN2R0I2RE9KUWZJMHFSbg?oc=5",
-        "fonte": "Mongabay Brasil",
-        "data": "2026-08-06"
-      },
-      {
         "titulo": "Minerais críticos podem adicionar R$ 192 bilhões ao PIB",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2tLcUJQVWsxTk5QQzJzYnFWNUJ4dnp5QU9iRU9BUWpZcnBqbTQ3NXdHVHZKd0VQQlJJYklDQXphZlNrZmM3dFFjX2gtMk5uNlZJZVRiSnQ4S1p6Mk5JeTFDXzdJTkZzT0pNc3FaOXhyck1vQ3FTTFB5b2wweUJGQVZGQ3VXcUNyNWhtaA?oc=5",
         "fonte": "AEPET",
         "data": "2026-08-06"
+      },
+      {
+        "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
+        "fonte": "IBRAM - Mineração do Brasil",
+        "data": "2026-08-12"
       }
     ],
     "papel-celulose": [
