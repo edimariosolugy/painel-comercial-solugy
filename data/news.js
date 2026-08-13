@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-12T23:49:10+00:00",
+  "atualizadoEm": "2026-08-13T10:14:38+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-08-11"
       },
       {
-        "titulo": "Com investimento de R$ 6 milhões, Ceará ganha centro para certificação do leite",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNODh1VmxGcUpoaXhZRWROTDJMb09tYXFfYThHRGV2TVB2MWJrWFNnU29oUWpmbjN5SDZIc3Y3Ykx1c0VwODJKcmYzY2RGUjZKcURtYlM5LXpoMU1UQXc3SzlFV0NINlBDTi1mZkJPMFhDT0RvSkFLSW15alFkbFhFcnhZSkJqaWhHQ3M0MjFzSVp3OV9Hb01QWlRYemtOeXpHTkhQY0xLcjFLYmQxa08xel9mMm5PdmtiLTZxQlZtNTE1bXNxYTl3Q1MwTTdKVnZteWc?oc=5",
-        "fonte": "O POVO",
-        "data": "2026-08-06"
-      },
-      {
         "titulo": "Maior câmara fria do Paraná é inaugurada; veja qual foi o investimento",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJQRDFTaGctVHVfNnVZREFTNnEzQi1BOVZfSF9PR2M0WHZDSTktaXZSX0dZSENjdmV4STJiRVZ6T25fZ01GRHN0OG5taXhQZk84bWJDV0IwcEY0Ri1mdHk3WTJQZkxSWkZHRWlQRGFKN2Iwc25iOEcwdV9oTXRDSlFsbTA5alptVlpnczMzSFc5MzR2d0RoZDFEcXRGQkppV1phdHJrQXBXUdIBrwFBVV95cUxOcTJOVmEyWHU0VjdYQ1E3ZEV5SzZFQVlvSzhVWXZXQXNDclZDZ28xa2JRMWVsclFLUTZmX0pXdHRHa3pzWEZtTXRwaTR6Q2tORDM1R3M0WmdwbzFHSEhiSU9rMEFxUThTd252c01KNUFjODc3MTlZNUNBSkJPenVETDVPQ1VQVjJ2TEFObWNHRnZqQ214aEIybjdmRUlob0p6MXlSdGFSdzZCT2VHNFl3?oc=5",
         "fonte": "Tribuna do Paraná",
         "data": "2026-08-10"
+      },
+      {
+        "titulo": "ApexBrasil cria plano de diversificação de exportações para empresas afetadas pelo tarifaço",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaTFwWlNiRFhfbjNDLXBWdFppTEJyaHVaM2ZRUzkxM0dHV3Z1bGpnTlhnekVwYWltejRBNnJ5TTMzS3AwVkNCZlNKTDhnMUpNc0ZKWmtLbFFjY3RSNDVzVDllbEVnd0FkRnpUQmxJMnFrRDF3RHJtd3JybTQ1MmdxN3NZSkdVYTk5bHQ5QlJwX3VfYkE1SzA3SUdKOUpod2RoakU2Z01aeTBUQnNjemZPejNJWWtfS3d2cllXUV9FUEY0TjhWTWkxdHNsSkc2NFNkVXppbnh1T0NpLWtQYTk0M9IB7wFBVV95cUxQWE5wRDlaXy10ZlRpejhxM0o3UnlXSjVmRXVLSVlDQlhtTDE4ZTVzbWNrckFkMW9MSzNMdVJYa0k3eWNId2NGaExYOWlRdHQ2cGtUaWV3SGxNb21SMW9TbmlkVHRuaktvdTgwczRKNVE5N2hURndaTGh4NUdtZThaejEyemN3ZURJN214NC0yTlpHcG5pYmlTZmV0MDVTeHJYb1N4OTk4aGczWDFvd1MtVGFLZTQ5Tm13Y2NLLXNjUFMzUGkyVEtEVF9LUE9odWJrUlhlSmgzZWRUTEJ3bzdRYnotSmwxSTNsUDVSUjZidw?oc=5",
+        "fonte": "CBN",
+        "data": "2026-08-11"
       }
     ],
     "automotivo": [
@@ -50,10 +50,10 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
-        "titulo": "Montadora chinesa Jetour vê com bons olhos opção por fábrica compartilhada no Brasil, diz diretor",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOWVBzYXdMOWxjX3plX2Y5VUJZdU1KdmJ1emdLWHFjLWlFTTI5YjUtQjQ2MVd2U2RGOGY2SkVZa1E0TFhGa2k5ZGxheDgtRTdDT1haeTYwRnRPZHB0ckhmMldnY0puSXdEWUNzQk1FRVpPMW5uYmhJQk9Bd25fdmp5eWxNTGRUWDN2OWc3eTdYRmdWZmNOYTBCZmowUVktQW56VTJQdEItQlBqM1JBTFhucC1renktS0RfZ0RwNFJ5clNOd0t3eEVTQnBNRDE?oc=5",
-        "fonte": "Money Times",
-        "data": "2026-08-06"
+        "titulo": "Empresa de SC investe em novo sistema de pinturas para autopeças e mira expansão internacional",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUR5QmtFTF9GUlRjaUE2NFhfWUFZb2YzaFg5djFuVV85d25SQ243NHFrbTFkZzRwWTl6X1VpZTVpd29Iakh2cU14QWxkMFRZaXRRaEllWEF0NUdJOWRXT3l2QU5rakpkdG5ZQ0pZZmVOeXh4dmhYR3B4c0hvdFpQaGtkNGlzZlQ0MWhoSFNRc3FoNEV4Q2s0U2kyei1ha3lsNlJnbWVWcUJJV0RSY1lsTXp5dHg3TEd6X29KOS1rc1gyTUFyb0dDeG1QVThjVHpnTmFOTQ?oc=5",
+        "fonte": "noticenter.com.br",
+        "data": "2026-08-12"
       },
       {
         "titulo": "“O consumidor final é quem ganha”, diz diretor da BCOMEX sobre avanço das montadoras chinesas no Brasil",
@@ -64,15 +64,9 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
-        "titulo": "Brasil avança no etanol de milho, mas ainda precisa convencer gringo de sustentabilidade",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS2x5dWdQcEp0REl1RmFmYmEzbGFZQWJoN0pzUmRBaEYyaThzWV9tdTl4aWllOXBmSFlGWFJnYzhDX2E0Sk83Y3FkRkQtMjVOb1FCaWItcGw3ZGEtYlVBenB6WDVLRl9EcFh6cWJkNzg3UENuTmtDeFF5Z0tnVzZPLVRVUG1Bb0Q0M3dwTU5TaVVpZ2pfNXpURi1EUXFJN2RWMnpDNWd1YjJ3ZG5fZHVwZmtJU3A2S2RtdHlkLXlNTmFEajNMUVFQekRFMDNKaEpk?oc=5",
-        "fonte": "The AgriBiz",
-        "data": "2026-08-10"
-      },
-      {
         "titulo": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGkxUFFYRlljdkQyd2E1TXNSVkNjOERfZW1XU0FXVVV2M0Q5eWpHSl9YODhDaThFVU1hRlJpZExKTWFKay1fdlpQWm9ZQ1ZCMDA5VFhWTHluZnFISVRYRzNPampCR0NlaUJlY3VZN2tVV1h3M0MxU2FJdGRPYU15T0pVa2pNRXd6dGJtbWpUR0NLRFFxZ1FGLUxTcFRna01jLU5sNjVOZG5QMUp6M1g2bzBKbk0?oc=5",
-        "fonte": "brasilagro.com.br",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeV85Y2hTVDhuYThLNGhoaDZMV0dmZTZSMUYzX05aM3h1QmhPOFpNMkhIejlKUFI1cXFfWVp5Q0M1Q0pQR1JBWjJCYndWd1JHQ0owRVFmd3hLdlB0dHlZUVM0LW1vRWp2VU45VHo2ZGZTZXRxSy1uRGMwZnFCeDNoeWo5eTlyX2hfb0hkZE9hOFlTYnJwZTlLOHhNVFZwVkIwenRWWlBzT1k?oc=5",
+        "fonte": "CNN Brasil",
         "data": "2026-08-10"
       },
       {
@@ -80,13 +74,19 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaTMtMVlJSGtBNng1WHFHSkF4TUpfOVFBaDdlUi0zMWVLZlNuaFhwSXI0QUMtZmRfRnp2YWJMT0VTY2VxYnVidS0yTC16OXJKQllyc3FCOU53NVdsMHdYTFpiLVFtSS1KNmE4R256bDJuQXNicV9vU1NBTmlYcXBYMWZPXzI2MjViNTNlV01mNE9rNG9aVUFla0NFaW9rbVlFT2R5VXlHZE5La2txazVpd0pabEFLUVF5RWhnU1dCNU9nR2xOUnc?oc=5",
         "fonte": "revistarpanews.com.br",
         "data": "2026-08-07"
+      },
+      {
+        "titulo": "José Fernando Mazuca Filho assume Bioind MT em momento de expansão da bioenergia em Mato Grosso",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTVA5TS1aVU1oWUw5S2tsemtTUHdJZklyRkh0YmVCTF9EVjQyVHdEUU9pNFhYamVIOTlCakZXRFpMT0w3bnFyRlRNV2liMEdKWWJmY1hLcjJQX1p5cGM5OU5rbWxwR0xIY1JrejZ0dVVXMXVNbERORUVITkMwc1BBTzlBWVAweEhrc2daZGIyeHdiRWg2SC1kMU9zcDl3Y2VIbWRYTF9jWk9zbkkydmlRZlk0cExNRlZOVXc?oc=5",
+        "fonte": "JornalCana",
+        "data": "2026-08-12"
       }
     ],
     "cimento": [
       {
         "titulo": "As 10 melhores empresas do mundo no mercado de concreto de alta resistência",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObHR4UDBtSzJwUGROZGhyUi12S21NVTlNX05ISWhVY0thbURod2FfZzBxTF83ZFVDelhmSm1mSElTaVFKY1AzcEVsbjk2ZC1OaVM5ZmJZbVlwR05mNUtLbHpzc3dkRFBNcHZ2blFOU193WlZPd09MRnppOWtzanNRbFlmemk2RVlnd3lqV2JRTXFMc2VHaF9VYlpkYV9WR2xXeGpwZ3dXdEMtR2ZkVDBsV0Mtdm1VQUJieUUyOXlWVWpWTS1POTI0TWJlX1pycjBxUTVJM2pZaUNhMDl3emZxTmRNZklKc0ZTRmF2Y1NTMVhyc3pjVnp2Ym5n?oc=5",
-        "fonte": "sphericalinsights.com",
+        "fonte": "Spherical Insights",
         "data": "2026-08-08"
       },
       {
@@ -116,10 +116,10 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "Balanços mostram disputa entre crescimento e rentabilidade no varejo",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3dNQ2FxSHhxUjVqM05tOGZmLVdUSU5zdUlWVUgtNjFScjN1c2tPWWhkZUJuNEZ4VFN6N0dlRnhpTDh3NnZNc2ZyRHZtNkhVNFhzTE0zSjJlRWY2U25nTFI2SnIwRXlMQ29DRDZGX0RIa05PVlBNb1A1OFpyaUJ4Q0l0akFsUDJjRDVySElHOTdRc0NMTzk5VzJ2S19ESnB3dklYMEx3VTluRGtfWnE1OUFqeEh3VmZVZjc5OGlSNFU?oc=5",
-        "fonte": "bol.uol.com.br",
-        "data": "2026-08-07"
+        "titulo": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU2VOQVZ6ZWwwVnI1TDlFX09tU2o0c2g4QWVmd1E5WFNHTlNta0g2bGtWQzZsTHUwMEJnRmNtWFlVU0Y5Z1J1Qm16ZzlwcDhjOHdMdzdxcEc4Tjc2OWVobUFvWkxqeW9yX0xneWpqcWQtN1Q2RGRmTy0zTGFRQmVyUTl5SUJ0UTRsLXBVMlZzclYtMTJTSUp4U2FBZWFRYnZQOVBCUUVGR3lRRndwT1N3cHhIRk9iUnhDazhuUl9xZ0wzMU1ybHNOLXQ3SHFxV1lzcTVyX3dlUE9RbE1leTBTUDRNSmdtWnFnWkhyZA?oc=5",
+        "fonte": "Diário Indústria & Comércio",
+        "data": "2026-08-13"
       }
     ],
     "energia-gt": [
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-10"
       },
       {
@@ -156,10 +156,10 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "Agora no g1",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB0gHkAUFVX3lxTE1hV19HZmx2WlM3aDdwVkxyS0N5STRYX1RZYmFpelNMVUxCQ25xRXdPOFJTWXN0cWJUXzV6czFsVEctTUkzcnZkTjlNN2Z6UEpueEJXQlI5aVNhczcxbTVoTzFHcmI4RktHQ3RhQjI1c055SnVXVmVDejlGMDRkSk9PalRRVTFGRUc2bXhhc0F5c3c3YzZOS0hTLXNULUFMX0ZKdHdNMkMtbWdwbGZtUk85NWNtZ2ptSHEwZ2FtUklCLU1kZUxkLW44Yzc1WDRqVEd6MVA1bXlxMVh5VGpMVnROTDZ5VA?oc=5",
-        "fonte": "G1",
-        "data": "2026-08-09"
+        "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1leW8xSDhJMUVaLU9aUDZNQWVoeng5LV9WR1pUUXdGem1pamQwU1hZcS1Cal9hQlhZUkIxay0yYUFjUU41M1l4QjlyTGhiakFxeTRfRzhyMWdTOGliN2MwcEZn0gFnQVVfeXFMUEhYeU5mcVNDWkpuQXlvTWIyOThLRGNhaW9GeC1vaWc3MUtTVWljSjhLMGxCbVlKVDFuamk0d2tZQk9IRUt5a3Npa0F5QTl2WE1sNjRoazZKaU9mdDRNN3JFUC1Tb1h1NA?oc=5",
+        "fonte": "BBC",
+        "data": "2026-08-07"
       }
     ],
     "epc": [],
@@ -186,22 +186,22 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Gaúcha Vibra Foods investe para ampliar produção em fábrica de Soledade",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPQUQ3bkhuaVotQy1GeldIdFNLUEZaa0dQMWFfcVlzbDlWajZZMlhCREQ3TXY5My1TMW9hRlJacEdZVTN4ZHdzZkQ1YzJyaHM5a2ZFbTR6WUhpV2lLNjBFUzUtVTVKQ0NYVlhfV3IwRlQ2enVBRFNsMGJHaTU3ZXR3bjVObU1wZzlENnUyNGpPQy1PLWJueFVlel85TmJuTmNienV5S1FRQ2c2dFo4S2NtS05Ic2tQN3ZWQVk2MXJvSHNpdWtYVG9PUDV1cjFLR18tc0hTWjBfYkJXVzg1QnFzNFFYcUtaMjNLTHI3YlZITnpRNHM?oc=5",
-        "fonte": "Jornal do Comércio",
-        "data": "2026-08-06"
-      },
-      {
-        "titulo": "O plano da Gerdau para criar uma \"nova Gerdau\" no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTS1zeEVqTURTTWhBUkhmYjdFTEVSWVM2VE5EQy1CNmM2dFlMaVVEMlBnanZZR0VOeGtiY2ZTU0hYemw2Y1FGOG5WSGF2TW1OQkpiYnFKSEhyT2J2MlRvM2xXYzhPeXFhY1BxVE85cEVNcTRhYjlnU0h1SW1PZ3NyUW1MdkhQdkoyaTJxMjVRdnU?oc=5",
-        "fonte": "NeoFeed",
-        "data": "2026-08-12"
+        "titulo": "Stellantis adia novas decisões de investimento no Brasil à espera de definições políticas",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGxIdTZhdzVYMTNabkZzelc5Skw4M2NPdVNNRUtKa2pTeVdiS3phcEMzRXdfcXFKRmQ3S3l1czhUNHJ1UFRkN3JvTUVXM2FJMUNJbHA1ek5ubVV6NUNvUmRLd0dncEl2dFdYLUNtUm9oWUx5S0M3R0R3U25xTjNoMmN2YUpwcFBtTmQ4NGttdkNxRndSUktIMm9DUk1lcUV2OHZuM3BkSlc0Z1NaU3hvR0RCRERqZm10UTU0NXBNSkg2WTAyb2JlZQ?oc=5",
+        "fonte": "Canal Rural",
+        "data": "2026-08-13"
       },
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
         "fonte": "AgFeed",
         "data": "2026-08-10"
+      },
+      {
+        "titulo": "Do fim das fábricas e o nascimento dos fundos de investimento: a financeirização de São Paulo e a metamorfose da burguesia brasileira",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWlYtbFBRZjN3NkUtYkl3amgwbWVaYUVXU1ZnaGN1VTZ3NmpaS3BiTlBLdnBMb0RtcXgzdUdNdTBrUlozR2I0dzJjZklZRHhqX2ROT3lXQUpoOHRxUHVlU21jd0tGa2tSLS1yMVlHa3RNQ0xKZHhHZTd0UE1VcXVENEYwR2VDTm1pMkZDVXNjSXpoZHp0Vjc0QmxNbjNFaDNlOXpsOVlVREY0bF9wTEJST19iVDdENVEyb21NcFhOYlhGcGZEYTBsNEdOVXF3alFHMjJGRThKWDRFblRaWU5SdWpuM3d1bU5TTkI5RVBnczBnY3BJQU1r?oc=5",
+        "fonte": "Brasil 247",
+        "data": "2026-08-06"
       }
     ],
     "logistica": [
@@ -213,8 +213,8 @@ window.NEWS = {
       },
       {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSDJNS3NHTDhGQlVma0Z5V2tLQ2hYd0RpZjVGZlMzdjc4VVZYOExsaXJLNUs5aTRpNE5rdzNFTTJaUjJuU3IxSDYtQk9GckV1OE5SREJyTzlTay00U0Y4cDhVSlN0WWFSWERIU3I1cnF5MVdhUHRDX3A4c1lFZnk5c3A2WWIzcVplSkU0d2hDZmFiMG81cnpOUzktV2w1bXgzQnpCQmFyUEFZZnRiMklUclllMzRuRmozY3Y1d1hiZlFEWmo2czQ1VVo4bVZacEU?oc=5",
-        "fonte": "Correio do Povo",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
+        "fonte": "ES Brasil",
         "data": "2026-08-12"
       },
       {
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "​Indústria compra máquinas novas no país, mas automação avança lenta no Nordeste",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2QxU2o3eU90Z0RNUWJwYUdiZFBpQW9zZmJ5bWEwc0R6VDNmNmt5X3V2Tk5jR05OV3ppU01tc1o2OWRNRWhQYmpDbUFnSm14RHJpUE4xbF8zV2R5TlNiNU83czU1VXhMT09jUmhoQ1Zkc3hrOVc3OUNlQ3BYM3N2Vk5CM0kwMW5VWlJLbHFCelFpdFFtTXc4MUdWNFJSTUUzWTItWGZOT1Z4UXJnaC1fTk4wYw?oc=5",
-        "fonte": "oestadoce.com.br",
+        "fonte": "O Estado CE",
         "data": "2026-08-07"
       },
       {
@@ -258,10 +258,10 @@ window.NEWS = {
         "data": "2026-08-06"
       },
       {
-        "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
-        "fonte": "IBRAM - Mineração do Brasil",
-        "data": "2026-08-12"
+        "titulo": "Minerais críticos podem adicionar R$ 192 bilhões ao PIB",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2tLcUJQVWsxTk5QQzJzYnFWNUJ4dnp5QU9iRU9BUWpZcnBqbTQ3NXdHVHZKd0VQQlJJYklDQXphZlNrZmM3dFFjX2gtMk5uNlZJZVRiSnQ4S1p6Mk5JeTFDXzdJTkZzT0pNc3FaOXhyck1vQ3FTTFB5b2wweUJGQVZGQ3VXcUNyNWhtaA?oc=5",
+        "fonte": "AEPET",
+        "data": "2026-08-06"
       }
     ],
     "papel-celulose": [
@@ -272,16 +272,16 @@ window.NEWS = {
         "data": "2026-08-06"
       },
       {
+        "titulo": "Desembolsos do BNDES em 1,4% do PIB não representam impulso significativo de demanda, defende diretor do banco | Agosto 2026",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-08-13"
+      },
+      {
         "titulo": "Klabin entra em fase de \"colheita\" e adia novos grandes investimentos",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzRiMWUxcDQ1Y0ljU3pJdjFLRHU0RlBseDBWZ1RuWkpqMjMyRGxnUVRfU2pPejFIRDVEWHVtQ0xKTHMwTEtobXR4U01SOW0yenV0aWdNdWtxNjFVaURkRlRvVUdJSTFBWXZYLXY2MTN1SUN3Yy00QWUySGJBaE5BLWxmYUQtUE4yU0V0WXctTVkwekQyQnVPUXpueVg5THN5dUdKcw?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-08-06"
-      },
-      {
-        "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-12"
       }
     ],
     "quimica": [
@@ -324,12 +324,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWdoRDlGbVFUMXM3VHhGRWhUYXJkMGFsNXFXS0Jic3NXeldMby02MjVEQmc3QXYtX0EteXhJME1lTmc0dFN6aC00ajJ1blR5a1FydGhnenhLYkFqbThaOV9FS0tSZnFMb0pNWkFSSUZ3cEdodTNrTmRCYkt3eDRnenBTOVhQczY0MmNHY0U1NTVFQnNkRmFZ?oc=5",
         "fonte": "Revista Amazônia",
         "data": "2026-08-12"
-      },
-      {
-        "titulo": "Sindicato dos Metalúrgicos alerta para avanço do aço chinês no Sul Fluminense",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSnJPbEd5blVzTG5oOER3SUtyUGlUeXpRNkswUkpOd1B4S1h1bGkzV0d4RjhVeVZFeUFWX09OdElmc05pRXNtaUNYaE9JbFIzajl2bThQbmZCeVo3V0V6QlVkbWoteW1GZVZaVXZ5NWtYdTA5cWN4akRpZ1pMbFNBMmJIb1M5Rmp4YjFYaWg2WmNrdXFNUm5HTTZKM3htX2tELWhiR25aN3p3WmxrcFZHd0JDbWlWbzNi?oc=5",
-        "fonte": "diariodovale.com.br",
-        "data": "2026-08-06"
       }
     ],
     "odontologia": [
@@ -346,10 +340,10 @@ window.NEWS = {
         "data": "2026-08-09"
       },
       {
-        "titulo": "A escolha de Caiado e Daniel e o dilema de Marconi",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNYm14eXBGbmV0cW9jVUJxbG1IbjJlc3VkdEFsenpyci16bXpldy1GVlRHMkxxeVE2SFo2TXY4V2dQSXh1ZDVCMllRRVJlQkMybXlvLVRhRWR0UlI1eEtoaVlsdlBCdkpscjNRaV96enhZTlVDMlVBVjdTb0pxbHNrYmwxVUJoLXRzbzlRRl9NdVlkOFN0WENzMGJBXzROdS0walk2S21wVQ?oc=5",
+        "titulo": "Brasil pode ser mediador na Guerra da Ucrânia, diz chanceler da Suécia",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkQ0eGUwQVpwTl9BRm54bHZQa3I3anF4WVl2dkJuTHduOFlYdWlPMjBqY29aVWJUUGMwNklOcE4tckJtRjNVQVYwbzJDZHNFaUdkaEZCbjZfV1FscUFDRWlITWxWQzZUTTNoTkN6WndjYV9YRVlxSUVSdTh1bXI3VWFWUld3YnZyWmtWdm95dGVoVjY2M2pSV3BwVjM5MWJHR0txWVlyRlpXSHkyeHc?oc=5",
         "fonte": "O Popular",
-        "data": "2026-08-06"
+        "data": "2026-08-07"
       }
     ]
   }
