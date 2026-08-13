@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-13T20:51:16+00:00",
+  "atualizadoEm": "2026-08-13T21:53:10+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
-        "fonte": "brasildefato.com.br",
+        "fonte": "Brasil de Fato",
         "data": "2026-08-11"
       },
       {
@@ -152,7 +152,7 @@ window.NEWS = {
       {
         "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
-        "fonte": "Senado",
+        "fonte": "senado.leg.br",
         "data": "2026-08-10"
       },
       {
@@ -167,7 +167,7 @@ window.NEWS = {
       {
         "titulo": "Pesquisa e inovação em saúde no Brasil",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ub21odk5haXNnb3BpakRwdGV0dWkxRUh5YlZ5M2J3TUM0bFhjYVpucHhwTU9ZQ2pfUkotTFczVks3WXhjbkpYMUJUczI5SnlhRU04aGNyUkdYcDF3amNhZ3h4cGlWMmJvSS12YkdyNmk4a3l5ckZhVTdYTmtIZw?oc=5",
-        "fonte": "ABC - Academia Brasileira de Ciências",
+        "fonte": "abc.org.br",
         "data": "2026-08-10"
       },
       {
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "MundoLogística",
+        "fonte": "mundologistica.com.br",
         "data": "2026-08-12"
       },
       {
@@ -246,16 +246,16 @@ window.NEWS = {
     ],
     "mineracao": [
       {
+        "titulo": "INDÚSTRIA | O Estadão promove na quinta-feira, 20, o Fórum Minério Verde, em São Paulo. Especialistas e executivos vão discutir a mineração em áreas de biodiversidade sensível, a corrida pelos minerais críticos e a automatização e o uso de inteligência",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVlNkRE5RUlRpM1VTNEQ1RG43LXlSV1I3dlAtWmg5WDUtVFhLd1ZZTjYxN1lWTWtkQklYd2RyYkxyUzE4bVhVNTJwbXR3NnBHM0E?oc=5",
+        "fonte": "instagram.com",
+        "data": "2026-08-13"
+      },
+      {
         "titulo": "Ala do governo quer triagem \"rigorosa\" para investidor em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1FNdXd4YkJjdy1UVDJYYS1DbUpkeWVfMGM1bzVGbFFnTEVRd3VBckx6RXNDRldycG9QNGo4UEVvUEFUajk1SXVCU09JV2Joc0ZSU3ZxRWttWV8tY2JfQ0YzaHRZZjd1SEZiRkZmXzFNOFNuZDd1dHgxaExqNm82aUVNUE9uUEhXSGRCRHBXV2Q3XzNhLVk3dHVnVUU5a1lpRDBfMmNtSUlyVDNnbkE?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-08-07"
-      },
-      {
-        "titulo": "Minerais críticos podem adicionar R$ 192 bilhões ao PIB",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc2tLcUJQVWsxTk5QQzJzYnFWNUJ4dnp5QU9iRU9BUWpZcnBqbTQ3NXdHVHZKd0VQQlJJYklDQXphZlNrZmM3dFFjX2gtMk5uNlZJZVRiSnQ4S1p6Mk5JeTFDXzdJTkZzT0pNc3FaOXhyck1vQ3FTTFB5b2wweUJGQVZGQ3VXcUNyNWhtaA?oc=5",
-        "fonte": "AEPET",
-        "data": "2026-08-06"
       },
       {
         "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
@@ -272,16 +272,16 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
+        "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
+        "fonte": "InfoMoney",
+        "data": "2026-08-13"
+      },
+      {
         "titulo": "Alltech acelera expansão no Brasil e fortalece operação de Crop Science",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkRfQ3FkTVBpVGdJZF9QNWotQWt5N1EtT3hMS3k2Tk96UnY5ZmVPVUhPS3NsbTIxUUdZMF83cERTMzE0c1FZSUp1d1p5NWhDTXNwbUZzM1AyQ1l6dk9kaUJsc0dtMUp5OFllRFhGbWNzZ01fTkg3MURKQmZ0RGx3Q2ZYWW5NcjVxS2FEVkhoaWdGeXNra21GQlk4UkZmVm9tWmF1MnkzekVWUQ?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-08-07"
-      },
-      {
-        "titulo": "Suzano (SUZB3) lucra R$ 1,8 bilhão no 2º trimestre, queda anual de 64%",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPeWl0SzFSa3dzYm1OdXNUeUdQR0tTY1NfQVZuY3NqR0FSM2ZDVmZsR0xlOVU1OVR2N1F3OEFzblhPNnd5RlhoNDZzUWxMMkk2SG85bGZYSXpOTWxvUllrbVBsQmd5RFhtZkNPNEw2LXlNeURMWk9oRE4zY3lWelJvNjBoSHRacFBhUk9TMVRR0gGTAUFVX3lxTE9MR2dpMmt4Ty15NDVXX2Fld0JtR3FSZ2l4eGdKMnJZdHA2YkhXeDQ4ZXRYRGNyd0xmSXdIemFCRmtlaW1nUkpaMTJucXIzZGJBNlJXekZRQTFkLW5HZHkwRTlKd0VpUldxRHFEUFdiano5eE1sYkh4ekJnQ3huQUpLdWNkN2VaWjQxLW1Ja1FNcDhUaw?oc=5",
-        "fonte": "InfoMoney",
-        "data": "2026-08-12"
       }
     ],
     "quimica": [
