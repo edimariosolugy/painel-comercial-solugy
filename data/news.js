@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-13T21:53:10+00:00",
+  "atualizadoEm": "2026-08-13T22:51:09+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -78,7 +78,7 @@ window.NEWS = {
       {
         "titulo": "JornalCana 360: Etanol de milho, mobilidade híbrida e eficiência industrial",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
-        "fonte": "JornalCana",
+        "fonte": "jornalcana.com.br",
         "data": "2026-08-13"
       }
     ],
@@ -152,7 +152,7 @@ window.NEWS = {
       {
         "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
-        "fonte": "senado.leg.br",
+        "fonte": "Senado",
         "data": "2026-08-10"
       },
       {
@@ -167,7 +167,7 @@ window.NEWS = {
       {
         "titulo": "Pesquisa e inovação em saúde no Brasil",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ub21odk5haXNnb3BpakRwdGV0dWkxRUh5YlZ5M2J3TUM0bFhjYVpucHhwTU9ZQ2pfUkotTFczVks3WXhjbkpYMUJUczI5SnlhRU04aGNyUkdYcDF3amNhZ3h4cGlWMmJvSS12YkdyNmk4a3l5ckZhVTdYTmtIZw?oc=5",
-        "fonte": "abc.org.br",
+        "fonte": "ABC - Academia Brasileira de Ciências",
         "data": "2026-08-10"
       },
       {
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "mundologistica.com.br",
+        "fonte": "MundoLogística",
         "data": "2026-08-12"
       },
       {
@@ -240,7 +240,7 @@ window.NEWS = {
       {
         "titulo": "XCMG já produziu mais de 30 mil máquinas em Pouso Alegre e amplia investimentos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzFfSW9mRlR3ZVBMOW1ER0tYUk4weVNSZjBfYW42NXA0eTMtLURVcEVRQkNxTmRFNHJTWXhSV3VSQk41Q3NSSWFIbWkxUFFXNVdsN1Q3aWNlY0dCTlh2UFRRTFg2RnNXRVZjNFdXaktWWE03WDVrYVpXYm9RODRaUGl4YTB1OE1USUs2RmtGdnZ4cWRGbk90b2o5bE1IWnNUa1c0Q0Vjd2xoMm03NFR4d3ZLOGNCaFI5cFIxNFF5OA?oc=5",
-        "fonte": "TVUAI",
+        "fonte": "tvuai.com.br",
         "data": "2026-08-10"
       }
     ],
@@ -258,10 +258,10 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
-        "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
-        "fonte": "IBRAM - Mineração do Brasil",
-        "data": "2026-08-12"
+        "titulo": "Estratégia global de Trump reduz poder de barganha do Brasil sobre minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzBmR1RnUmsxX3ZkRVZpZmx4Y282ZHJPOXZfSU9FTUlMd1lQem1KQnJqdEVBaG1VSEp6akNseW9WaDhycnpORjJPdkdQcGdXSVJrVEtWenlTSHlxbGJqX0ExczBnczZWTXcxa2llUGJTd1JXUlVQS1JFRzJSRGQtd2cxamlEbHZycGFsYkNHQk9jTFYwdVdYTm9CQnJyZ1FNOW9WZEI3YWZUVW1GSjd1SnBnSW9xdw?oc=5",
+        "fonte": "Capital Digital",
+        "data": "2026-08-09"
       }
     ],
     "papel-celulose": [
