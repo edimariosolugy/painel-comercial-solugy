@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-13T10:14:38+00:00",
+  "atualizadoEm": "2026-08-13T11:53:11+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -76,10 +76,10 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
-        "titulo": "José Fernando Mazuca Filho assume Bioind MT em momento de expansão da bioenergia em Mato Grosso",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTVA5TS1aVU1oWUw5S2tsemtTUHdJZklyRkh0YmVCTF9EVjQyVHdEUU9pNFhYamVIOTlCakZXRFpMT0w3bnFyRlRNV2liMEdKWWJmY1hLcjJQX1p5cGM5OU5rbWxwR0xIY1JrejZ0dVVXMXVNbERORUVITkMwc1BBTzlBWVAweEhrc2daZGIyeHdiRWg2SC1kMU9zcDl3Y2VIbWRYTF9jWk9zbkkydmlRZlk0cExNRlZOVXc?oc=5",
+        "titulo": "JornalCana 360: Etanol de milho, mobilidade híbrida e eficiência industrial",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
         "fonte": "JornalCana",
-        "data": "2026-08-12"
+        "data": "2026-08-13"
       }
     ],
     "cimento": [
@@ -152,7 +152,7 @@ window.NEWS = {
       {
         "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
-        "fonte": "Senado",
+        "fonte": "senado.leg.br",
         "data": "2026-08-10"
       },
       {
@@ -165,12 +165,6 @@ window.NEWS = {
     "epc": [],
     "farma": [
       {
-        "titulo": "O futuro da indústria nacional perante a Big Pharma",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNakF2bFB6V0pqOV9tVkUyczB6cTBkLW91SUhYdzZNa0pzT25vX0hxTWxpSnFOVm1pLXduYkt5R0dQWmo1bUU2bl8xWHJ6YWhZTWZ3VFF0eWw1NlVpWGxZOVg3SzNoRmlWdURvZXNSVWg4VmNsN0RreDYtdkcyTnpfOGhpcTdIcEpxLUQwam44Tkx0OVRM?oc=5",
-        "fonte": "Outras Palavras",
-        "data": "2026-08-06"
-      },
-      {
         "titulo": "Pesquisa e inovação em saúde no Brasil",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ub21odk5haXNnb3BpakRwdGV0dWkxRUh5YlZ5M2J3TUM0bFhjYVpucHhwTU9ZQ2pfUkotTFczVks3WXhjbkpYMUJUczI5SnlhRU04aGNyUkdYcDF3amNhZ3h4cGlWMmJvSS12YkdyNmk4a3l5ckZhVTdYTmtIZw?oc=5",
         "fonte": "ABC - Academia Brasileira de Ciências",
@@ -180,6 +174,12 @@ window.NEWS = {
         "titulo": "Governo do Brasil destina R$ 120 milhões para impulsionar pesquisa clínica no SUS",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWZsN2IzSXJPdUIzSDNGN09ZUUplc0MzZGtfSS1qRU1uaFpnTzNHYmFNQ0N3ODJfalpPMXVNSHhOT3ZYVjlPM0NDbzlhNE1RaWxlNDZGMURITnNJMktCNE9aQmI3ZURoVGlfWFNBUURGbzAzTlAxMnd0QWxiY3JoZmVtTnpsZmVwUW5Tbm9vNndqN1BuRzZvdzJaelRjM3Vrbk5sSFU5Y2hPTHhVZWQwZ1VkYw?oc=5",
         "fonte": "Biored Brasil",
+        "data": "2026-08-07"
+      },
+      {
+        "titulo": "Farmacêutica recusa proposta do Brasil e atrasa acesso do SUS à PrEP semestral",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaUhaTG04eUVJODE5ZGtHQUhGSkJQM3loMVVRWmNURi14ZlVPcnA5RC0xZzJqd0Q0RUM1QjdqRGFVUmtralpTYUk0RndRNmdvUDVZYWxaYV9jeml3bHVYRUNwbm11VGdYNEdUd3NYMXZRaEJpcm5IUGE3V29nLXNtZXcyZ3dsNk03Y20zWXFwcnVvOWhhSktpd212LXpkWGxid3ZiSnhaTEZJUFRBb1cwMEp6bGRCUWtCZFpYUXRPVmFyZktm?oc=5",
+        "fonte": "ICTQ",
         "data": "2026-08-07"
       }
     ],
@@ -198,10 +198,10 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "Do fim das fábricas e o nascimento dos fundos de investimento: a financeirização de São Paulo e a metamorfose da burguesia brasileira",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWlYtbFBRZjN3NkUtYkl3amgwbWVaYUVXU1ZnaGN1VTZ3NmpaS3BiTlBLdnBMb0RtcXgzdUdNdTBrUlozR2I0dzJjZklZRHhqX2ROT3lXQUpoOHRxUHVlU21jd0tGa2tSLS1yMVlHa3RNQ0xKZHhHZTd0UE1VcXVENEYwR2VDTm1pMkZDVXNjSXpoZHp0Vjc0QmxNbjNFaDNlOXpsOVlVREY0bF9wTEJST19iVDdENVEyb21NcFhOYlhGcGZEYTBsNEdOVXF3alFHMjJGRThKWDRFblRaWU5SdWpuM3d1bU5TTkI5RVBnczBnY3BJQU1r?oc=5",
-        "fonte": "Brasil 247",
-        "data": "2026-08-06"
+        "titulo": "O plano da Gerdau para criar uma \"nova Gerdau\" no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTS1zeEVqTURTTWhBUkhmYjdFTEVSWVM2VE5EQy1CNmM2dFlMaVVEMlBnanZZR0VOeGtiY2ZTU0hYemw2Y1FGOG5WSGF2TW1OQkpiYnFKSEhyT2J2MlRvM2xXYzhPeXFhY1BxVE85cEVNcTRhYjlnU0h1SW1PZ3NyUW1MdkhQdkoyaTJxMjVRdnU?oc=5",
+        "fonte": "NeoFeed",
+        "data": "2026-08-12"
       }
     ],
     "logistica": [
@@ -214,7 +214,7 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
-        "fonte": "ES Brasil",
+        "fonte": "esbrasil.com.br",
         "data": "2026-08-12"
       },
       {
@@ -226,10 +226,10 @@ window.NEWS = {
     ],
     "maquinas": [
       {
-        "titulo": "Terras-raras podem adicionar R$ 192 bi ao PIB do Brasil e gerar 750 mil empregos, aponta estudo",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNTGJXenh2ZG90SjFtZlVQMW8yRzcxYzM1QTRyWWduc3A4b01hX3d0aWxfYzNheldlZ1hrYnRVSnlHLU1vRldBUWIzVW84UUg1NDV2TTExY2NNYzNMZDlBeUJieUpjU0hxa0FvTk9mVVRUZHNZbElWYjhVa1lac19zd3FWaEFCYVhhMUxDR1lVcXg2UUM2MlBzVS1nejhuZnU1YjkwZHdLYUJDdmhqbXdBMkxDNWFwQUtYU0loSkdhZ2p5aVc2Q1JoOVA4UEJhdko5NlpudmVWNnI5TGdVR2FJVzdBQVF5LWPSAfYBQVVfeXFMTkdIZWphdHRGR3Y5dmZmc05UdXNUeVBLMTZUMVVMcWg3RXdmcGdveDlRSUtPSHJKMTdscGVoN2hnaFNQLTNXX0FPWTdqQUI2WTJnQ0d5RXgtVWxuNjl5RVNEX2VnWE5xUllXOUNIUGI2alNxem5oWlBzTVg0a2tCOFdWUmRIbkxWVmFveVAzcVlWaWpsRDdFYjlnZ2I3QTcwaUlpMlpPTWxhVTBLSk5uQVB2cDY2NjgzcVV3QmNzZHUxT2F3MW5TSlg4aG9lZmhMWVBuRGoxQlhvVjBCYWdCMVoxbWRqTlhOYTd3bWExNkdzLS10aVJR?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-06"
+        "titulo": "Trans Obra apresenta opções de entrada para empreendedores",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOXzBLNS1OX3dfbGNVTE9uTHU0VmVRNUMwZGVYOE0wYlFlTGNqNDZSdDJ2SENBR0JyRTNsV2htYVpJVnFsMEFNWE55OWNUamNYX1lSQnZjWVJPSzB4cTRFV3NYdHdTYm9TZGpzY0ZiTVo3dXQtaTU0SjV4bDlGR3pCTVJkRlVGU1BPNGRJTlNIbDAwWXdmcmNOdWxMbHNObklYT1VSUDJOUDJFZWJoOXVSR0ZKbG83dzBiRzgxQmR2YVNNaV9uOG9IMG9vQ3RjR0prbG840gHTAUFVX3lxTE5fMEs1LU5fd19sY1VMT25MdTRWZVE1QzBkZVg4TTBiUWVMY2o0NlJ0MnZIQ0FHQnJFM2xXaG1hWklWcWwwQU1YTnk5Y1RqY1hfWVJCdmNZUk9LMHhxNEVXc1h0d1Nib1NkanNjRmJNWjd1dC1pNTRKNXhsOUZHekJNUmRGVUZTUE80ZElOU0hsMDBZd2ZyY051bExsc05uSVhPVVJQMk5QMkVlYmg5dVJHRkpsbzd3MGJHODFCZHZhU01pX244b0gwb29DdGNHSmtsbzg?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-10"
       },
       {
         "titulo": "​Indústria compra máquinas novas no país, mas automação avança lenta no Nordeste",
@@ -308,7 +308,7 @@ window.NEWS = {
       {
         "titulo": "Minas Gerais lidera leilões de infraestrutura na B3 em 2026",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSUs3RE11MGRJSzZWaGVDR0xlc1lsMU9QN2ZmNzBBT0JtWGNNejRzelBDMDZlZ2lCbEd1R0lnU3lFd0JzcHhzejg0NUNvQVVYbTd4V3VHcVNKQkVPS1M0MnZUcG5UTi1vaXdYUmNidjVQSENfdVdIbGpROERaa25YY3dwbVEwTzExZjNkRk43ZEM4cVUyeVVKMm83VzRVX0pyY0pLTFJ30gGrAUFVX3lxTE1QdjdYNV9mZV9WQVJ2ZjExRmM1MlZIM25RcVRfMFVfcFNtUmRKNmxTOXFlcC1ucXEwbGZzWnRGNk4ySFVVc0tYZXgtVlQzRC11TmR3cjZfMEVKd19MR2tuVFVGQWE0VnVvZkF5d2c4dmFpTHFvVFRIanBGUjYwYmFYRi10aGM4azMtU3FKTFd0MjhxdXQ1Q3VWbVZsU3N3N192ckJjOXI3NldUMA?oc=5",
-        "fonte": "O TEMPO",
+        "fonte": "otempo.com.br",
         "data": "2026-08-06"
       }
     ],
@@ -322,7 +322,7 @@ window.NEWS = {
       {
         "titulo": "Incentivos ao aço somam R$ 14,6 bi e ampliam pressão ambiental",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWdoRDlGbVFUMXM3VHhGRWhUYXJkMGFsNXFXS0Jic3NXeldMby02MjVEQmc3QXYtX0EteXhJME1lTmc0dFN6aC00ajJ1blR5a1FydGhnenhLYkFqbThaOV9FS0tSZnFMb0pNWkFSSUZ3cEdodTNrTmRCYkt3eDRnenBTOVhQczY0MmNHY0U1NTVFQnNkRmFZ?oc=5",
-        "fonte": "Revista Amazônia",
+        "fonte": "revistaamazonia.com.br",
         "data": "2026-08-12"
       }
     ],
