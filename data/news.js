@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-13T22:51:09+00:00",
+  "atualizadoEm": "2026-08-13T23:49:58+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -12,7 +12,7 @@ window.NEWS = {
       {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejRITUpFSkdZOUw1T3RKNk9tRFVfSVV5RGRId2t1WGFRMWozc1NKckNLVVNiZi1kb1hCSkhXRVVhSGZGZExDbGpLVW9VUklJRVRZTWNGeGFfOTN2NkhReVZ5ZFg4MkxaU1gzRGlsTnpmX1VtZ05lWURObVdLa3NadE9WTlo1ZmdMM2tmR1g5RUZ1VE9OSk1DeGc3LXIyZHdIMGdUT0VRUXc2bng2V05zUjdOem4xaXpVZFdkZHJWQlpqVHhwVHg3NzR0R0l4b0tpUDJ3WtIB1AFBVV95cUxPejRITUpFSkdZOUw1T3RKNk9tRFVfSVV5RGRId2t1WGFRMWozc1NKckNLVVNiZi1kb1hCSkhXRVVhSGZGZExDbGpLVW9VUklJRVRZTWNGeGFfOTN2NkhReVZ5ZFg4MkxaU1gzRGlsTnpmX1VtZ05lWURObVdLa3NadE9WTlo1ZmdMM2tmR1g5RUZ1VE9OSk1DeGc3LXIyZHdIMGdUT0VRUXc2bng2V05zUjdOem4xaXpVZFdkZHJWQlpqVHhwVHg3NzR0R0l4b0tpUDJ3Wg?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
+        "fonte": "bloomberglinea.com.br",
         "data": "2026-08-13"
       },
       {
@@ -56,10 +56,10 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "Empresa de SC investe em novo sistema de pinturas para autopeças e mira expansão internacional",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUR5QmtFTF9GUlRjaUE2NFhfWUFZb2YzaFg5djFuVV85d25SQ243NHFrbTFkZzRwWTl6X1VpZTVpd29Iakh2cU14QWxkMFRZaXRRaEllWEF0NUdJOWRXT3l2QU5rakpkdG5ZQ0pZZmVOeXh4dmhYR3B4c0hvdFpQaGtkNGlzZlQ0MWhoSFNRc3FoNEV4Q2s0U2kyei1ha3lsNlJnbWVWcUJJV0RSY1lsTXp5dHg3TEd6X29KOS1rc1gyTUFyb0dDeG1QVThjVHpnTmFOTQ?oc=5",
-        "fonte": "noticenter.com.br",
-        "data": "2026-08-12"
+        "titulo": "Déficit de Autopeças no Brasil Atinge US$ 7,8 Bilhões em 2026",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUUR1c2oxSGNxcHR1NC0yaU1tQ1YwakZ2SFh1QW9BVU5zVTg5Mk54VXhYc3BaOFNZWENDcHdVSUFNVEVOZlFuMVhuMTRmWFVGTUhXTXVmUGhvMk1pRGZqeDYtWjlJY0pKblVfSEduZUZSWXZYckFvdl9IN092cGRWOUVHT3VralgyZzRfdzZsWEtpbWV2dUx6M25HZUdVOUI1WU1MSENWTdIBpwFBVV95cUxQUUR1c2oxSGNxcHR1NC0yaU1tQ1YwakZ2SFh1QW9BVU5zVTg5Mk54VXhYc3BaOFNZWENDcHdVSUFNVEVOZlFuMVhuMTRmWFVGTUhXTXVmUGhvMk1pRGZqeDYtWjlJY0pKblVfSEduZUZSWXZYckFvdl9IN092cGRWOUVHT3VralgyZzRfdzZsWEtpbWV2dUx6M25HZUdVOUI1WU1MSENWTQ?oc=5",
+        "fonte": "Portal Hortolândia",
+        "data": "2026-08-07"
       }
     ],
     "bioenergia": [
@@ -78,7 +78,7 @@ window.NEWS = {
       {
         "titulo": "JornalCana 360: Etanol de milho, mobilidade híbrida e eficiência industrial",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
-        "fonte": "jornalcana.com.br",
+        "fonte": "JornalCana",
         "data": "2026-08-13"
       }
     ],
@@ -92,7 +92,7 @@ window.NEWS = {
       {
         "titulo": "As 10 melhores empresas do mundo no mercado de concreto de alta resistência",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxObHR4UDBtSzJwUGROZGhyUi12S21NVTlNX05ISWhVY0thbURod2FfZzBxTF83ZFVDelhmSm1mSElTaVFKY1AzcEVsbjk2ZC1OaVM5ZmJZbVlwR05mNUtLbHpzc3dkRFBNcHZ2blFOU193WlZPd09MRnppOWtzanNRbFlmemk2RVlnd3lqV2JRTXFMc2VHaF9VYlpkYV9WR2xXeGpwZ3dXdEMtR2ZkVDBsV0Mtdm1VQUJieUUyOXlWVWpWTS1POTI0TWJlX1pycjBxUTVJM2pZaUNhMDl3emZxTmRNZklKc0ZTRmF2Y1NTMVhyc3pjVnp2Ym5n?oc=5",
-        "fonte": "Spherical Insights",
+        "fonte": "sphericalinsights.com",
         "data": "2026-08-08"
       },
       {
@@ -136,10 +136,10 @@ window.NEWS = {
         "data": "2026-08-11"
       },
       {
-        "titulo": "El Niño pode gerar perdas acima de R$ 8 bilhões para renováveis no Brasil; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPWG4zdFhfVzVFV0ZDQ3Y3YnJ4Sk1yOE1vQjBjanQ0LTdUUm0tT0pPM0JOYjNmbnJ4NnNTTnEyS056VC00Yl81REdwcVIyZ0FfUEU0YlFZaXl2LW9ZZEEwZlM4SE9lQmdDblIyWlJYSjNBWkhDRUJ5VnJiRE9KaDZmN2FuWmg2QTk5YjZBRzQ1VWVVaWFYekRhekpSQXl5d3NKZzZKeHJqNDZoVmxMSVVlSHZud0N3aTlXY1c1cW5iMXNEcHFta3BpcXdYUUp5UEdWb0phbVZXYlRtOWRhWS1hYTFDN0E?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-08-07"
+        "titulo": "Taesa mantém estudos para disputar leilão de baterias, mas aguarda definição da regulação",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYTJ6cERRZ0pqaWRXdl9jci1yTHFOS3hmcG56d196azZoSlJBa28tT05KY29GLWVVMF94WmZUeUJ3cm9sWTFlbnlVbm03U1RCZ21aSTgzY1RqQzN3OEZiV3dzclpGdF9KRnkxaGptaldPTS1p?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-08-13"
       }
     ],
     "solar": [
@@ -157,7 +157,7 @@ window.NEWS = {
       },
       {
         "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB0gHkAUFVX3lxTE1hV19HZmx2WlM3aDdwVkxyS0N5STRYX1RZYmFpelNMVUxCQ25xRXdPOFJTWXN0cWJUXzV6czFsVEctTUkzcnZkTjlNN2Z6UEpueEJXQlI5aVNhczcxbTVoTzFHcmI4RktHQ3RhQjI1c055SnVXVmVDejlGMDRkSk9PalRRVTFGRUc2bXhhc0F5c3c3YzZOS0hTLXNULUFMX0ZKdHdNMkMtbWdwbGZtUk85NWNtZ2ptSHEwZ2FtUklCLU1kZUxkLW44Yzc1WDRqVEd6MVA1bXlxMVh5VGpMVnROTDZ5VA?oc=5",
         "fonte": "G1",
         "data": "2026-08-09"
       }
@@ -220,7 +220,7 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística: o que o governo prevê para rodovias, ferrovias, hidrovias e portos",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamVOWU92emkwMGJkR2FjeGRUWnl5Y2JEcnZ3Skw1UGZOd0x2STIwOEh6d21DeUhyRU1ma0tBTERKTVFoa0NQU2RqbXdfUzdXazVYcVlJT1lKS2JfdlloMkxDVk5wYy1oU0NpTDNDOFdGTlJQT3ZmaGFsX1A2bkVENnpQaWhyRTZVY0l6ZGpGUVJoRlQxYkg0YjBzT1NzSHQwbUhRbmpxZEpELWxtSkdSNTdUZGdSU24zak01Z081Z2lsTnpVM0tRdWlLeXQ0UUs5dkFj?oc=5",
-        "fonte": "Transporte Moderno",
+        "fonte": "transportemoderno.com.br",
         "data": "2026-08-13"
       }
     ],
@@ -240,7 +240,7 @@ window.NEWS = {
       {
         "titulo": "XCMG já produziu mais de 30 mil máquinas em Pouso Alegre e amplia investimentos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzFfSW9mRlR3ZVBMOW1ER0tYUk4weVNSZjBfYW42NXA0eTMtLURVcEVRQkNxTmRFNHJTWXhSV3VSQk41Q3NSSWFIbWkxUFFXNVdsN1Q3aWNlY0dCTlh2UFRRTFg2RnNXRVZjNFdXaktWWE03WDVrYVpXYm9RODRaUGl4YTB1OE1USUs2RmtGdnZ4cWRGbk90b2o5bE1IWnNUa1c0Q0Vjd2xoMm03NFR4d3ZLOGNCaFI5cFIxNFF5OA?oc=5",
-        "fonte": "tvuai.com.br",
+        "fonte": "TVUAI",
         "data": "2026-08-10"
       }
     ],
@@ -258,13 +258,19 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
-        "titulo": "Estratégia global de Trump reduz poder de barganha do Brasil sobre minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPXzBmR1RnUmsxX3ZkRVZpZmx4Y282ZHJPOXZfSU9FTUlMd1lQem1KQnJqdEVBaG1VSEp6akNseW9WaDhycnpORjJPdkdQcGdXSVJrVEtWenlTSHlxbGJqX0ExczBnczZWTXcxa2llUGJTd1JXUlVQS1JFRzJSRGQtd2cxamlEbHZycGFsYkNHQk9jTFYwdVdYTm9CQnJyZ1FNOW9WZEI3YWZUVW1GSjd1SnBnSW9xdw?oc=5",
-        "fonte": "Capital Digital",
-        "data": "2026-08-09"
+        "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
+        "fonte": "IBRAM - Mineração do Brasil",
+        "data": "2026-08-12"
       }
     ],
     "papel-celulose": [
+      {
+        "titulo": "SUZB3 - Suzano - Resultados, Dividendos, Cotação e Indicadores",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTG1odkhVUVZ2ckhlc1NaMzhPZGlsNlJZS1MxVEJoQlU3Y2tJU2drbHJOQUVTNngyemc4UW90X3FWUXZPd3N6RXpEU0dYWHVlaHc?oc=5",
+        "fonte": "Investidor10",
+        "data": "2026-08-12"
+      },
       {
         "titulo": "Termos para novas debêntures em plano de recuperação do GPA são aprovados | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
@@ -276,12 +282,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
         "fonte": "InfoMoney",
         "data": "2026-08-13"
-      },
-      {
-        "titulo": "Alltech acelera expansão no Brasil e fortalece operação de Crop Science",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYkRfQ3FkTVBpVGdJZF9QNWotQWt5N1EtT3hMS3k2Tk96UnY5ZmVPVUhPS3NsbTIxUUdZMF83cERTMzE0c1FZSUp1d1p5NWhDTXNwbUZzM1AyQ1l6dk9kaUJsc0dtMUp5OFllRFhGbWNzZ01fTkg3MURKQmZ0RGx3Q2ZYWW5NcjVxS2FEVkhoaWdGeXNra21GQlk4UkZmVm9tWmF1MnkzekVWUQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-07"
       }
     ],
     "quimica": [
