@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-13T19:10:42+00:00",
+  "atualizadoEm": "2026-08-13T20:51:16+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
-        "fonte": "Brasil de Fato",
+        "fonte": "brasildefato.com.br",
         "data": "2026-08-11"
       },
       {
@@ -85,7 +85,7 @@ window.NEWS = {
     "cimento": [
       {
         "titulo": "Cimento Apodi destaca inovação na ExpoConstruir 2026",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQmN2NmlyMC1mTFJ0YURwQkZCVWktSWF3VS1SLXQtTFJSd0loQjZXVVNmM3VGc0dUa0VvcHo0QzVVc05fZnAtTDF4akV2ajNjUGNWZmVDSDlFMG1yQUFlVlpWdXJldHJpdEVwQTIxWGMxR1EzLTAzN29JSmJmcm5CbnRzZTJNVTdJRE1xejdITmZFa0F3eVJweFI2OEJzSFdjUkVpTGtROA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnVPamFYN3plaTRXWnk5T2hpa2I1dzRSdnViNFI2b2lOVWFLMG0yMUhrUVloM1RvNGdiR1RCRS1IbS1Ic1o3ekhaQVVXNHp6dGttcFlVSGxPZVhjTXdaVDBGTXVBOG1fdzVEUW5WUVc2TWtmQUtLVzVROXM3blUybU53elMyYjEwa0VOemFCdTBvQnFod1F4bng1eDItV1J4VUkzUFh0OVJfRXhRa3I0SDl3?oc=5",
         "fonte": "Portal Terra da Luz",
         "data": "2026-08-13"
       },
@@ -186,29 +186,29 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
+        "titulo": "Programa de incentivos atrai indústria e empregos à Capital – CGNotícias",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcFhFRDlieGMtYTBYZzNlclRtdjhQNWpYSTVDd0g2ZkxOVEZLZ0N3a21yVGY3bDVXb2l6VlVHbmJJZkxnYi1hSmhzVUthR1dyRmtURWpJUFk4QjYtWnBUYnJiM1RQYVJPOTZ3MUt0OGI4ZzFCY3JGc3FIbnVPWHhyOS0xdEZKajFZVXVVMVVfdm5KLTZEVjFkZll5c3huWmxibVYwS0NSNDhfc0JzUkFYUGJkNA?oc=5",
+        "fonte": "campogrande.ms.gov.br",
+        "data": "2026-08-13"
+      },
+      {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
         "fonte": "AgFeed",
         "data": "2026-08-10"
       },
       {
-        "titulo": "Stellantis adia novas decisões de investimento no Brasil à espera de definições políticas",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGxIdTZhdzVYMTNabkZzelc5Skw4M2NPdVNNRUtKa2pTeVdiS3phcEMzRXdfcXFKRmQ3S3l1czhUNHJ1UFRkN3JvTUVXM2FJMUNJbHA1ek5ubVV6NUNvUmRLd0dncEl2dFdYLUNtUm9oWUx5S0M3R0R3U25xTjNoMmN2YUpwcFBtTmQ4NGttdkNxRndSUktIMm9DUk1lcUV2OHZuM3BkSlc0Z1NaU3hvR0RCRERqZm10UTU0NXBNSkg2WTAyb2JlZQ?oc=5",
-        "fonte": "Canal Rural",
-        "data": "2026-08-13"
-      },
-      {
-        "titulo": "Da Fiat à BYD: o futuro da indústria automotiva no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1RyUkgzYlM0VkZjdjdoU0VwdXhvaHo0WnRfZWtaUEt2blcxbWZKblI3Ml9QeUtmU20xcml5ZjdKdkQ3WWhVYXhkTWt1cE45ZndqQmdtWmF3WWZBbVB5dzlPbUhfdGo1Rkd3WkswelVSbTNPckl0SWRhMldiUG9VN1Zja05EZlFMaDVucUFYbjZnSVg00gGaAUFVX3lxTFBWX2JHc2Zjd2pGQ0pYYnZYT2pkMnR6dVZrczc4WlRWbE1saFU0d1pNb25FZkpBOHJMMGRZbTRzQ2wzQWlYS0REUW1nUXF5WGsxVzJWSDFiYmhXTkRVUW1rMVV6U1ZVYWMyUDBLQW1mSG5WN0RSaVAtRkFQQmdDUl9xbUdsRnhWMmZQRzV5Z1V5UHNsWnlvVjQ3M2c?oc=5",
-        "fonte": "InvestNews",
-        "data": "2026-08-13"
+        "titulo": "O plano da Gerdau para criar uma \"nova Gerdau\" no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOTS1zeEVqTURTTWhBUkhmYjdFTEVSWVM2VE5EQy1CNmM2dFlMaVVEMlBnanZZR0VOeGtiY2ZTU0hYemw2Y1FGOG5WSGF2TW1OQkpiYnFKSEhyT2J2MlRvM2xXYzhPeXFhY1BxVE85cEVNcTRhYjlnU0h1SW1PZ3NyUW1MdkhQdkoyaTJxMjVRdnU?oc=5",
+        "fonte": "NeoFeed",
+        "data": "2026-08-12"
       }
     ],
     "logistica": [
       {
         "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "mundologistica.com.br",
+        "fonte": "MundoLogística",
         "data": "2026-08-12"
       },
       {
@@ -218,10 +218,10 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "PNL 2050 entra em vigor com R$ 1,225 trilhão em investimentos e reafirma Tecon Santos 10 como projeto-âncora do setor portuário",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNRE40a0FxM2hJTElZdnliY0otbmNTTDRaNnZoalFSOGRYYk1MZmZvcmJKUTVPNWY2YmpzNVZwWVctX1JCVzItanF2RXNQRVVIV0g3WkpsNXpiTFlaMHNCQ1NWa1ZHTms3eEZKOEpyVTY0QzVidkJXWUk0MDhFeXVnLWRjZEFEMWRqV0NSREFHcER1RXlITEhlOWdrNjJXa0ZiUFZJTk56VlpwVDFJSFNPTmJ3VklIMmJ6dE13UkdJV1dpVU1aNmpZNFktNVhGb1pQeC05T1NiTG1VdlRUY3JwanpJcjhIcmJJazhfVjRKSzA?oc=5",
-        "fonte": "Portogente",
-        "data": "2026-08-12"
+        "titulo": "Plano Nacional de Logística: o que o governo prevê para rodovias, ferrovias, hidrovias e portos",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamVOWU92emkwMGJkR2FjeGRUWnl5Y2JEcnZ3Skw1UGZOd0x2STIwOEh6d21DeUhyRU1ma0tBTERKTVFoa0NQU2RqbXdfUzdXazVYcVlJT1lKS2JfdlloMkxDVk5wYy1oU0NpTDNDOFdGTlJQT3ZmaGFsX1A2bkVENnpQaWhyRTZVY0l6ZGpGUVJoRlQxYkg0YjBzT1NzSHQwbUhRbmpxZEpELWxtSkdSNTdUZGdSU24zak01Z081Z2lsTnpVM0tRdWlLeXQ0UUs5dkFj?oc=5",
+        "fonte": "Transporte Moderno",
+        "data": "2026-08-13"
       }
     ],
     "maquinas": [
@@ -238,10 +238,10 @@ window.NEWS = {
         "data": "2026-08-11"
       },
       {
-        "titulo": "CNI: máquinas novas e pouco investimen­to em automação",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUld1YmxmWEpNOFIwYVZ2aU0wa1VtVXJ6MS1CWGkxSXNpZEdoSDVsLXVVeEFzekZLdjB0UDhPMjhPaUczM2RfQ0wyS25hRmtBSDdlTmtYbkxFOUJwOWVPOGlhdFg3aFdVa2k0WklFbGFGSzU4eTRTVVJIc1FWNGFTRF9xZFJpQnpGdjQw?oc=5",
-        "fonte": "pressreader.com",
-        "data": "2026-08-06"
+        "titulo": "XCMG já produziu mais de 30 mil máquinas em Pouso Alegre e amplia investimentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzFfSW9mRlR3ZVBMOW1ER0tYUk4weVNSZjBfYW42NXA0eTMtLURVcEVRQkNxTmRFNHJTWXhSV3VSQk41Q3NSSWFIbWkxUFFXNVdsN1Q3aWNlY0dCTlh2UFRRTFg2RnNXRVZjNFdXaktWWE03WDVrYVpXYm9RODRaUGl4YTB1OE1USUs2RmtGdnZ4cWRGbk90b2o5bE1IWnNUa1c0Q0Vjd2xoMm03NFR4d3ZLOGNCaFI5cFIxNFF5OA?oc=5",
+        "fonte": "TVUAI",
+        "data": "2026-08-10"
       }
     ],
     "mineracao": [
