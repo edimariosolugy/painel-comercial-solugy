@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-14T10:10:25+00:00",
+  "atualizadoEm": "2026-08-14T11:49:50+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -30,15 +30,15 @@ window.NEWS = {
         "data": "2026-08-11"
       },
       {
-        "titulo": "Com a demanda mais fraca nos Estados Unidos e na Europa, a América Latina ganhou protagonismo nos resultados das multinacionais de alimentos. Empresas como Nestlé, Mondelez, Danone, PepsiCo e Grupo Bimbo tiveram no Brasil e no México seus m",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Kall0aXJ4Ymh4UTJMYmZsTEFBcHRiVG03NW9rbnNYQjFJZXBJTnNHU0YyM0VwZ3MyUTlGTld1ZGFENG9XQnNrREpvTl9sQTMxMXc?oc=5",
-        "fonte": "instagram.com",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
         "fonte": "Times Brasil | CNBC",
+        "data": "2026-08-13"
+      },
+      {
+        "titulo": "Com a demanda mais fraca nos Estados Unidos e na Europa, a América Latina ganhou protagonismo nos resultados das multinacionais de alimentos. Empresas como Nestlé, Mondelez, Danone, PepsiCo e Grupo Bimbo tiveram no Brasil e no México seus m",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Kall0aXJ4Ymh4UTJMYmZsTEFBcHRiVG03NW9rbnNYQjFJZXBJTnNHU0YyM0VwZ3MyUTlGTld1ZGFENG9XQnNrREpvTl9sQTMxMXc?oc=5",
+        "fonte": "instagram.com",
         "data": "2026-08-13"
       }
     ],
@@ -50,16 +50,16 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
+        "titulo": "15 empresas do setor automotivo negociam vinda para o ES",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWZPeEFPYklCRzhDSTZzdjNyVE12aVdzdFRSQ3Y1N1hXdEw3WjRNRk1KclF2M0tZYUF2WmNocGNDU3hyUHI5cDVGem04dFg2OGlNMWVfb01ZaThBbXBkUjZnRlZaSF9naDVjNHhJLVVSUHBsNVVtLTd0US1VYWw1T2tJb3JXVGhPUWdNbzdaOGZaV3lnYW9lZ3Z1MVk2SXlvVk5wYWtuRkVfTTDSAasBQVVfeXFMTk1mT3hBT2JJQkc4Q0k2c3YzclRNdmlXc3RUUkN2NTdYV3RMN1o0TUZNSnJRdjNLWWFBdlpjaHBjQ1N4clByOXA1RnptOHRYNjhpTTFlX29NWWk4QW1wZFI2Z0ZWWkhfZ2g1YzR4SS1VUlBwbDVVbS03dFEtVWFsNU9rSW9yV1RoT1FnTW83WjhmWld5Z2FvZWd2dTFZNkl5b1ZOcGFrbkZFX00w?oc=5",
+        "fonte": "Tribuna Online",
+        "data": "2026-08-14"
+      },
+      {
         "titulo": "Avanço das montadoras chinesas reconfigura o mercado de financiamento automotivo no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVBHenVTN0xfWnhuUmpsejZkZGNKemtOVC1MWDFBRUJqX3Y1M09CUUhBeUtyTjNqem5idFNSd1VjbmhYWXZ1RU8wMUNlQ19KYnlieFM0RmZCNHhQbXFiaDByTjE2d0FvVFVFTVRzelhUV2I0X3lKOXhJNTRJYlBXazQ4VVpHZGVNeHJsTVhNMW10QnZ4bHhJVUVpd0sya250UkFRdHlDdWpYaG1mejRYV1cxendYVHo1?oc=5",
         "fonte": "adnews.com.br",
         "data": "2026-08-13"
-      },
-      {
-        "titulo": "Empresa de SC investe em novo sistema de pinturas para autopeças e mira expansão internacional",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWUR5QmtFTF9GUlRjaUE2NFhfWUFZb2YzaFg5djFuVV85d25SQ243NHFrbTFkZzRwWTl6X1VpZTVpd29Iakh2cU14QWxkMFRZaXRRaEllWEF0NUdJOWRXT3l2QU5rakpkdG5ZQ0pZZmVOeXh4dmhYR3B4c0hvdFpQaGtkNGlzZlQ0MWhoSFNRc3FoNEV4Q2s0U2kyei1ha3lsNlJnbWVWcUJJV0RSY1lsTXp5dHg3TEd6X29KOS1rc1gyTUFyb0dDeG1QVThjVHpnTmFOTQ?oc=5",
-        "fonte": "noticenter.com.br",
-        "data": "2026-08-12"
       }
     ],
     "bioenergia": [
@@ -78,7 +78,7 @@ window.NEWS = {
       {
         "titulo": "JornalCana 360: Etanol de milho, mobilidade híbrida e eficiência industrial",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
-        "fonte": "JornalCana",
+        "fonte": "jornalcana.com.br",
         "data": "2026-08-13"
       }
     ],
@@ -86,7 +86,7 @@ window.NEWS = {
       {
         "titulo": "Cimento Apodi destaca inovação na ExpoConstruir 2026",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnVPamFYN3plaTRXWnk5T2hpa2I1dzRSdnViNFI2b2lOVWFLMG0yMUhrUVloM1RvNGdiR1RCRS1IbS1Ic1o3ekhaQVVXNHp6dGttcFlVSGxPZVhjTXdaVDBGTXVBOG1fdzVEUW5WUVc2TWtmQUtLVzVROXM3blUybU53elMyYjEwa0VOemFCdTBvQnFod1F4bng1eDItV1J4VUkzUFh0OVJfRXhRa3I0SDl3?oc=5",
-        "fonte": "Portal Terra da Luz",
+        "fonte": "portalterradaluz.com.br",
         "data": "2026-08-13"
       },
       {
@@ -150,16 +150,16 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
+        "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
+        "fonte": "Senado",
+        "data": "2026-08-10"
+      },
+      {
         "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB0gHkAUFVX3lxTE1hV19HZmx2WlM3aDdwVkxyS0N5STRYX1RZYmFpelNMVUxCQ25xRXdPOFJTWXN0cWJUXzV6czFsVEctTUkzcnZkTjlNN2Z6UEpueEJXQlI5aVNhczcxbTVoTzFHcmI4RktHQ3RhQjI1c055SnVXVmVDejlGMDRkSk9PalRRVTFGRUc2bXhhc0F5c3c3YzZOS0hTLXNULUFMX0ZKdHdNMkMtbWdwbGZtUk85NWNtZ2ptSHEwZ2FtUklCLU1kZUxkLW44Yzc1WDRqVEd6MVA1bXlxMVh5VGpMVnROTDZ5VA?oc=5",
         "fonte": "G1",
         "data": "2026-08-09"
-      },
-      {
-        "titulo": "Brasil lidera buscas por energia solar residencial; veja o que isso sinaliza para o SNEL11",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVVkS3JlV09QREltNnR0TmRlZnZLM0xIR0l6RDBtZDQ4QktCcTVBa1lBQk5jUjZtV2syNEgxT0l1eUtiSW1nOEI0cDBBa0pzLXV1cW9EXzNHQkNkbTYyR0hEWl9uLWlyNXpwdUx0U2w0OVo5MnFHMFRoaFcyT1dFeHg1SHBVQ0d1UU1ZRmZzWno0ZXBSQ3E3Ng?oc=5",
-        "fonte": "Fiis",
-        "data": "2026-08-13"
       }
     ],
     "epc": [],
@@ -167,13 +167,13 @@ window.NEWS = {
       {
         "titulo": "Pesquisa e inovação em saúde no Brasil",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9Ub21odk5haXNnb3BpakRwdGV0dWkxRUh5YlZ5M2J3TUM0bFhjYVpucHhwTU9ZQ2pfUkotTFczVks3WXhjbkpYMUJUczI5SnlhRU04aGNyUkdYcDF3amNhZ3h4cGlWMmJvSS12YkdyNmk4a3l5ckZhVTdYTmtIZw?oc=5",
-        "fonte": "abc.org.br",
+        "fonte": "ABC - Academia Brasileira de Ciências",
         "data": "2026-08-10"
       },
       {
         "titulo": "Governo do Brasil destina R$ 120 milhões para impulsionar pesquisa clínica no SUS",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWZsN2IzSXJPdUIzSDNGN09ZUUplc0MzZGtfSS1qRU1uaFpnTzNHYmFNQ0N3ODJfalpPMXVNSHhOT3ZYVjlPM0NDbzlhNE1RaWxlNDZGMURITnNJMktCNE9aQmI3ZURoVGlfWFNBUURGbzAzTlAxMnd0QWxiY3JoZmVtTnpsZmVwUW5Tbm9vNndqN1BuRzZvdzJaelRjM3Vrbk5sSFU5Y2hPTHhVZWQwZ1VkYw?oc=5",
-        "fonte": "bioredbrasil.com.br",
+        "fonte": "Biored Brasil",
         "data": "2026-08-07"
       },
       {
@@ -192,15 +192,15 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
+        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
+        "fonte": "GZH",
+        "data": "2026-08-14"
+      },
+      {
         "titulo": "Da Fiat à BYD: o futuro da indústria automotiva no Brasil",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1RyUkgzYlM0VkZjdjdoU0VwdXhvaHo0WnRfZWtaUEt2blcxbWZKblI3Ml9QeUtmU20xcml5ZjdKdkQ3WWhVYXhkTWt1cE45ZndqQmdtWmF3WWZBbVB5dzlPbUhfdGo1Rkd3WkswelVSbTNPckl0SWRhMldiUG9VN1Zja05EZlFMaDVucUFYbjZnSVg00gGaAUFVX3lxTFBWX2JHc2Zjd2pGQ0pYYnZYT2pkMnR6dVZrczc4WlRWbE1saFU0d1pNb25FZkpBOHJMMGRZbTRzQ2wzQWlYS0REUW1nUXF5WGsxVzJWSDFiYmhXTkRVUW1rMVV6U1ZVYWMyUDBLQW1mSG5WN0RSaVAtRkFQQmdDUl9xbUdsRnhWMmZQRzV5Z1V5UHNsWnlvVjQ3M2c?oc=5",
         "fonte": "InvestNews",
-        "data": "2026-08-13"
-      },
-      {
-        "titulo": "Stellantis adia novas decisões de investimento no Brasil à espera de definições políticas",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGxIdTZhdzVYMTNabkZzelc5Skw4M2NPdVNNRUtKa2pTeVdiS3phcEMzRXdfcXFKRmQ3S3l1czhUNHJ1UFRkN3JvTUVXM2FJMUNJbHA1ek5ubVV6NUNvUmRLd0dncEl2dFdYLUNtUm9oWUx5S0M3R0R3U25xTjNoMmN2YUpwcFBtTmQ4NGttdkNxRndSUktIMm9DUk1lcUV2OHZuM3BkSlc0Z1NaU3hvR0RCRERqZm10UTU0NXBNSkg2WTAyb2JlZQ?oc=5",
-        "fonte": "canalrural.com.br",
         "data": "2026-08-13"
       }
     ],
@@ -208,13 +208,13 @@ window.NEWS = {
       {
         "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "mundologistica.com.br",
+        "fonte": "MundoLogística",
         "data": "2026-08-12"
       },
       {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
-        "fonte": "ES Brasil",
+        "fonte": "esbrasil.com.br",
         "data": "2026-08-12"
       },
       {
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "Crédito empresarial: quando vale a pena?",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCX2FBdE1hWDZjUEsxMktOMF8tZUtaZGdmTkhPSUczWW1vLWNoX0RDV0xJM0JDLUp5LTBja25xMWpVSHRySkJaMC1lSVhLZlVqdGd1enhqc29wVW1LZ1JscnlLQUhsTy14TVhFNmNDVTQ?oc=5",
-        "fonte": "ES Brasil",
+        "fonte": "esbrasil.com.br",
         "data": "2026-08-11"
       },
       {
@@ -258,10 +258,10 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "Gestora planeja fundos para a ‘nova corrida dos metais’: de PIPE a crédito",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGs5SFRHaFB0SFJRSzU1X3pUX2VPWVRsaXViblVPLVY4R3lRcFJEN21iei11UVFEZ3ZiN19lRlJoWHU4X2hNUVpaNjFzT08tamtiQUxXeWRDb3U3TDNaVFVaUkVOQ1JiWXJEOGs4VWJjMnFTX2c4OEctN0FZb2wwSzVjVDgyY2kzTVZXNzdzTG9DTkFFQnBMS3E3bWttZkk?oc=5",
-        "fonte": "Brazil Journal",
-        "data": "2026-08-12"
+        "titulo": "França cria comissão no Brasil para ampliar negócios em minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkJOdG0wR09abmVuZEtVbWVjS0dfWkUxcnlPTDljRE5MT3pKN0xSZUNYcnN4WEJmV0F1ZGtPSUlEU0N4NGV5V3pzcDlyUkVYYi1YZlVOc2twREdQNGlwaWwxa2cwNkpJV0NjdkktbmZqTURYejZnWGFWc1JubUo3RWhuSTRlRWJUaTVqbnpYa1RLVVVrN1dIcGZwOFIwUXRkMGV4R3FQOE94RG5PM0E?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-13"
       }
     ],
     "papel-celulose": [
@@ -285,12 +285,6 @@ window.NEWS = {
       }
     ],
     "quimica": [
-      {
-        "titulo": "20 Empresas no mercado de tetrafluoreto de enxofre Tamanho, Compartilhar",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ3dtM3FvUTVqZFBFSjRiQ1ZTWGZ3UUJ0aW1vQWN0Q0hoc3ljcEY0Z2stS0VxWG5UcXpaZnNtQ1dJSzVybW1Rb1NOME1XYXdxNjAtRkRHb25rOU5hQ3AyRmdTUWhxMG53czVXREtwUkxKb0tONU40Mlc3V0NUdWhHUHNLcGVRTDFPQU9haDFTV09sSWN1cGxUSjJGcXZwd0xsY3diV003UHhuLW5GazRQYnc2SS1vTzNfMGs2emxRQ2Q5YUJFN2k5QXJjbTg4UDQyYmRfZU1B?oc=5",
-        "fonte": "Spherical Insights",
-        "data": "2026-08-07"
-      },
       {
         "titulo": "Zimbabué: Importação de Máquinas de 120 M$ Impulsiona Investimento Industrial",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYmh4QXFPVGJfYm8tdElJZFJXT0tPNDRqRG5qQzZoSE9PZEdfT0ZhV2d4NzJwSGdxRkJyenNUaTI2eWNUV2t2T2RYbVVhYjRBb1RldlF0MUowUlltSGZxVnQwczlnMjA1OEpzN2t2TFZFX2ZZNzhSNnlQVE85WGhVZURRaTZObWJMWTNyUGZYb1NuUUZINXNka2xhQ2lIZzM2eXBTcEt2MENINVVkX29RVFJ0c2FqTE55WEJhOVRvUlBBV3I1akdFQmp2VjV6ZjA?oc=5",
@@ -332,12 +326,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVBDbGxUSi1VeVR1RERRMmpQTjFydDM0bTFNV2M4amFMNnpZdkgwZXVITnlWMURhTG5tdnVoZ2QxbkYxTU9WMlpOd0otc2hlVmY2UGhTU092ZmNtblVtWDc0WHdCbjNzT3ZpZ0tJS0RYaFJDQ0ctVXpnNUZqM3VEeTYxaHdMWk1SQUF0OVB4NE9NLU9HYkRudEVIYi1fb3c?oc=5",
         "fonte": "O Popular",
         "data": "2026-08-09"
-      },
-      {
-        "titulo": "Brasil pode ser mediador na Guerra da Ucrânia, diz chanceler da Suécia",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkQ0eGUwQVpwTl9BRm54bHZQa3I3anF4WVl2dkJuTHduOFlYdWlPMjBqY29aVWJUUGMwNklOcE4tckJtRjNVQVYwbzJDZHNFaUdkaEZCbjZfV1FscUFDRWlITWxWQzZUTTNoTkN6WndjYV9YRVlxSUVSdTh1bXI3VWFWUld3YnZyWmtWdm95dGVoVjY2M2pSV3BwVjM5MWJHR0txWVlyRlpXSHkyeHc?oc=5",
-        "fonte": "O Popular",
-        "data": "2026-08-07"
       }
     ]
   }
