@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-14T19:02:26+00:00",
+  "atualizadoEm": "2026-08-14T20:36:16+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola é nova fronteira para a expansão do agronegócio brasileiro",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWdSLW5ydVJXUGFpMmZmOEx4Qm1ITTJJRC0xOE1ybm5hZFhzWWZ1ZDVfMnhnbG5zWF9wLUJuZGQ1QnVaR3RPYXZ3UkdzQm10S0JqS0ROdXJWaXhRUWI1cFA2c0FVY1g4Y05pMUw4UXZLS2VWMkVCQWVQdWpDRHR6SzhiZ2RwR2FlNmxUV0FaUW5OVGtEaXZ2aVgzaEtZbWpqdkE?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-12"
       },
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "PIB do Agronegócio Inicia 2026 em Queda; Veja os Demais Destaques do AgroRound",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSE0wekhTaEhhS3ZhWWFaVmJvbXBnWXRJWThXYmNiQTNHS2JyN0hva2h4NmZ5U3Bqcll3ZTRBUHJIazRwQ2VYNmMyaE1ubUVKbm9tT2Y1Ni1CVUJCdUFjS20wYUtwRUtXaWNOdlpreXBlekwyNDFlWGhRR3FNVjNNeE1sSXNXbmdMZDFsdFNDalJRQnhham55R25tMmdHYk5JaFVmdUxMV0wzT0l4SkpyUjVleUVXekgwdkZGVQ?oc=5",
-        "fonte": "Forbes Brasil",
-        "data": "2026-08-07"
+        "titulo": "Crédito para o agro",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JTGRuN19sNjd2R05ZdWYzNUxtcW1wdkhyMFdPcFlRVjNRQlFnV1daUHNtaGxxdW5wYVU1bGJIb2VGalpRN2ItaVlaUU9TZEwtbVMxZlFSbWF3amtsTERhWFJWcw?oc=5",
+        "fonte": "Portal CNA Brasil",
+        "data": "2026-08-14"
       }
     ],
     "alimentos-bebidas": [
@@ -72,7 +72,7 @@ window.NEWS = {
       {
         "titulo": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeV85Y2hTVDhuYThLNGhoaDZMV0dmZTZSMUYzX05aM3h1QmhPOFpNMkhIejlKUFI1cXFfWVp5Q0M1Q0pQR1JBWjJCYndWd1JHQ0owRVFmd3hLdlB0dHlZUVM0LW1vRWp2VU45VHo2ZGZTZXRxSy1uRGMwZnFCeDNoeWo5eTlyX2hfb0hkZE9hOFlTYnJwZTlLOHhNVFZwVkIwenRWWlBzT1k?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-10"
       },
       {
@@ -98,7 +98,7 @@ window.NEWS = {
       {
         "titulo": "Com a eletrificação da UE, os exportadores de aço, cimento e produtos químicos precisam estar cientes das novas regulamentações.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWNNVXBhdVExN3ViZTRFUFFJNTlxRmFwcWNLYmVWUFBkdEw1dHZiNFY3azduLWo2M0h4Tl9NMkVCR3g3Rzc3Mlh1NnNYM09QZ0NDODhyZFBHQXh4WFlJcXl2UWlVaG9XZ05tQUl2a1c4UC1aQy05QlZZRk84YjJSSllOcmhwLWgtaFlWcDBhV3JydHRVaHQtSnJmWUd4Wmt0XzAwUzZvR3liWHByMWc?oc=5",
-        "fonte": "Vietnam.vn",
+        "fonte": "vietnam.vn",
         "data": "2026-08-14"
       }
     ],
@@ -106,20 +106,20 @@ window.NEWS = {
       {
         "titulo": "Com FedEx fora da rota e Correios em crise, DHL \"entrega\" R$ 270 milhões em investimentos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTVpTkJuYlZfRFh5LVFEN1lwRHFlV3pncXpJeHNEQi1yRlFSMXBVbWJ0Mkg2MG9QaE91TnFJdk45aWI4RGthY2Y1NFBjLWF5cDZHYk9peHljR2c0bGsySDhEbUZJRXNVZ3pJVHo2dkFnTl85bHktWFU4MURLMDV4cXB4M2prUk1ZQXh2ZEJmLXN3eVlUeWw2MkZyY29WcHh0T0JkaU8wVE1iUVRFcFVOcDFkcm81dHM2NkpPNjJHZzRoN3lGN1U4?oc=5",
-        "fonte": "neofeed.com.br",
+        "fonte": "NeoFeed",
         "data": "2026-08-13"
       },
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "agfeed.com.br",
+        "fonte": "AgFeed",
         "data": "2026-08-10"
       },
       {
-        "titulo": "A Rede Viezzer Supermercados investirá R$ 6,5 milhões na modernização de suas lojas nas regiões Metropolitana de Porto Alegre e do Vale dos Sinos, no Rio Grande do Sul. 📍 Confira a matéria completa no link nos stories. #ViezzerSupermercados #Varej",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yMUxZdjlTYWV5aXBsNlVDbWNPZllCOERzdWo3a2MzQkI4UDdZREg3cFk4UEFfMmxldFNMOFBMbFQ2NWlNZS1EWFpGbEphSUpfM3c?oc=5",
+        "titulo": "O Carrefour Brasil unificou a gestão de suas marcas próprias Carrefour, Member’s Mark e Bulnez. A estratégia busca: 📍 Confira a matéria completa no link nos stories. #CarrefourBrasil #MarcasProprias #VarejoAlimentar #Gestao #Estrategia Inovacao SAMai",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lSVQ1aXVkdUktc2NWcGdiQVczZjh1Z3VJWlhYVlVSTGR0emxja1VxVUktOFVyTUZiTE1uT2lycGNXWUdpcm8zaUxDVkg5bmx6YWc?oc=5",
         "fonte": "instagram.com",
-        "data": "2026-08-12"
+        "data": "2026-08-13"
       }
     ],
     "energia-gt": [
@@ -177,10 +177,10 @@ window.NEWS = {
         "data": "2026-08-07"
       },
       {
-        "titulo": "Farmacêutica recusa proposta do Brasil e atrasa acesso do SUS à PrEP semestral",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQaUhaTG04eUVJODE5ZGtHQUhGSkJQM3loMVVRWmNURi14ZlVPcnA5RC0xZzJqd0Q0RUM1QjdqRGFVUmtralpTYUk0RndRNmdvUDVZYWxaYV9jeml3bHVYRUNwbm11VGdYNEdUd3NYMXZRaEJpcm5IUGE3V29nLXNtZXcyZ3dsNk03Y20zWXFwcnVvOWhhSktpd212LXpkWGxid3ZiSnhaTEZJUFRBb1cwMEp6bGRCUWtCZFpYUXRPVmFyZktm?oc=5",
-        "fonte": "ICTQ",
-        "data": "2026-08-07"
+        "titulo": "Interfarma apresenta Carta aos Presidenciáveis com 10 prioridades para a saúde no próximo governo",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFBqd2JZcHJwbEZLcno2dTBQZFNqRkZRQlItajZ2YnRYU1ZnSFpTa3hoUGVrSXN6MHVQM0NUSC0zcFJpQ1kyckZYWlFVWGlEanllcXRMcDBnVkhUc3ZIS1VSOXE4QjVZbkgyZFJUajV4QnZ3aEp5UHA3dThaWnBQSWQ1U2JXSWFxOUdLRnRjZExKSWE2SjVybTdmQnZpbEJvbGd2U2FVS3g4alcwTWxDTkhoTjQyR3VrbktRazV6bmJwaEpTdmJYTmVHUFJFVHFG?oc=5",
+        "fonte": "PFARMA.com.br",
+        "data": "2026-08-14"
       }
     ],
     "fertilizantes": [],
@@ -188,13 +188,13 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-14"
       },
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "agfeed.com.br",
+        "fonte": "AgFeed",
         "data": "2026-08-10"
       },
       {
@@ -226,22 +226,22 @@ window.NEWS = {
     ],
     "maquinas": [
       {
-        "titulo": "​Indústria compra máquinas novas no país, mas automação avança lenta no Nordeste",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2QxU2o3eU90Z0RNUWJwYUdiZFBpQW9zZmJ5bWEwc0R6VDNmNmt5X3V2Tk5jR05OV3ppU01tc1o2OWRNRWhQYmpDbUFnSm14RHJpUE4xbF8zV2R5TlNiNU83czU1VXhMT09jUmhoQ1Zkc3hrOVc3OUNlQ3BYM3N2Vk5CM0kwMW5VWlJLbHFCelFpdFFtTXc4MUdWNFJSTUUzWTItWGZOT1Z4UXJnaC1fTk4wYw?oc=5",
-        "fonte": "O Estado CE",
-        "data": "2026-08-07"
-      },
-      {
         "titulo": "Crédito empresarial: quando vale a pena?",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCX2FBdE1hWDZjUEsxMktOMF8tZUtaZGdmTkhPSUczWW1vLWNoX0RDV0xJM0JDLUp5LTBja25xMWpVSHRySkJaMC1lSVhLZlVqdGd1enhqc29wVW1LZ1JscnlLQUhsTy14TVhFNmNDVTQ?oc=5",
         "fonte": "ES Brasil",
         "data": "2026-08-11"
       },
       {
-        "titulo": "XCMG já produziu mais de 30 mil máquinas em Pouso Alegre e amplia investimentos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzFfSW9mRlR3ZVBMOW1ER0tYUk4weVNSZjBfYW42NXA0eTMtLURVcEVRQkNxTmRFNHJTWXhSV3VSQk41Q3NSSWFIbWkxUFFXNVdsN1Q3aWNlY0dCTlh2UFRRTFg2RnNXRVZjNFdXaktWWE03WDVrYVpXYm9RODRaUGl4YTB1OE1USUs2RmtGdnZ4cWRGbk90b2o5bE1IWnNUa1c0Q0Vjd2xoMm03NFR4d3ZLOGNCaFI5cFIxNFF5OA?oc=5",
-        "fonte": "TVUAI",
-        "data": "2026-08-10"
+        "titulo": "Empresário de Cruzeiro do Sul transforma projeto de expansão em realidade",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXBWalRsZmEwUGdEX1FicEswVTZoZTJCeGtYTnlUbjh4V3ZNTGc3OG5WM2xpUFNUdzZxQ2s3YVpabUh4Q3BJakpDUGROcVozT2dEN1BjT0RHNFZiZ3hjYjRvRmMyQUZmQkd2OFl0V1R6cVNQTTAxbGNqa3hUX1JrSWVDWjVOXzl1WWQxSENSaG9ka3hCc3J0Wld2TjhpeUVHVC0wV1NyLVlrVWhtY2Y0clhHZG13M3QtMDFCZTJR?oc=5",
+        "fonte": "Grupo A Hora",
+        "data": "2026-08-14"
+      },
+      {
+        "titulo": "Carta de Conjuntura",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZURnQno4RndnZmJOT3NydjRtWkZRa1ZqZmN3WFNnRUFnMW1VTGxNWHFYREtnVGVwQm5VbHdiamxIQ3FhR2JzMk91QjZqSjk4bElKRA?oc=5",
+        "fonte": "Ipea",
+        "data": "2026-08-12"
       }
     ],
     "mineracao": [
@@ -274,13 +274,13 @@ window.NEWS = {
       {
         "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
-        "fonte": "InfoMoney",
+        "fonte": "infomoney.com.br",
         "data": "2026-08-13"
       },
       {
         "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-12"
       }
     ],
