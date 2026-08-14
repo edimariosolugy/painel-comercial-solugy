@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-14T21:30:25+00:00",
+  "atualizadoEm": "2026-08-14T22:29:34+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -98,7 +98,7 @@ window.NEWS = {
       {
         "titulo": "Com a eletrificação da UE, os exportadores de aço, cimento e produtos químicos precisam estar cientes das novas regulamentações.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWNNVXBhdVExN3ViZTRFUFFJNTlxRmFwcWNLYmVWUFBkdEw1dHZiNFY3azduLWo2M0h4Tl9NMkVCR3g3Rzc3Mlh1NnNYM09QZ0NDODhyZFBHQXh4WFlJcXl2UWlVaG9XZ05tQUl2a1c4UC1aQy05QlZZRk84YjJSSllOcmhwLWgtaFlWcDBhV3JydHRVaHQtSnJmWUd4Wmt0XzAwUzZvR3liWHByMWc?oc=5",
-        "fonte": "vietnam.vn",
+        "fonte": "Vietnam.vn",
         "data": "2026-08-14"
       }
     ],
@@ -232,16 +232,16 @@ window.NEWS = {
         "data": "2026-08-11"
       },
       {
+        "titulo": "XCMG já produziu mais de 30 mil máquinas em Pouso Alegre e amplia investimentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzFfSW9mRlR3ZVBMOW1ER0tYUk4weVNSZjBfYW42NXA0eTMtLURVcEVRQkNxTmRFNHJTWXhSV3VSQk41Q3NSSWFIbWkxUFFXNVdsN1Q3aWNlY0dCTlh2UFRRTFg2RnNXRVZjNFdXaktWWE03WDVrYVpXYm9RODRaUGl4YTB1OE1USUs2RmtGdnZ4cWRGbk90b2o5bE1IWnNUa1c0Q0Vjd2xoMm03NFR4d3ZLOGNCaFI5cFIxNFF5OA?oc=5",
+        "fonte": "TVUAI",
+        "data": "2026-08-10"
+      },
+      {
         "titulo": "Empresário de Cruzeiro do Sul transforma projeto de expansão em realidade",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXBWalRsZmEwUGdEX1FicEswVTZoZTJCeGtYTnlUbjh4V3ZNTGc3OG5WM2xpUFNUdzZxQ2s3YVpabUh4Q3BJakpDUGROcVozT2dEN1BjT0RHNFZiZ3hjYjRvRmMyQUZmQkd2OFl0V1R6cVNQTTAxbGNqa3hUX1JrSWVDWjVOXzl1WWQxSENSaG9ka3hCc3J0Wld2TjhpeUVHVC0wV1NyLVlrVWhtY2Y0clhHZG13M3QtMDFCZTJR?oc=5",
         "fonte": "Grupo A Hora",
         "data": "2026-08-14"
-      },
-      {
-        "titulo": "Após dez anos sem campanha institucional, Algar volta a investir",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXpOQW1PSkl1U1RMY2tWMkJLZGJFbUh1ZVhiQ1ZEaUlMV0FYRTNFbFgybVdLUjhndmNKcHd2NExKclNDa012Zk53c0JWRG1hLWZxSGs4Z1hMekRnUy1wVGFTSmU5NFkyVTU2UDN5bW80OENjVmEzNFN0YkIxZ0hEV3lPakxqWUZGVFpJQnJyTlVsbTVXR1pTaml5ZWNkS3FWb2dUaENNR1hxUS1Jemd6R2MzZkgxWVkzX3Jxdl9WU0liSVFhaEYwVDhoTdIB2gFBVV95cUxQcUpCazFYbzZfWTd4aGY1M3lTTzNNc2FLS1BnM19oS0ViVkcyMlhJTG9wbTJpZWxEOGdHR3RRWHFpX2NFVHcyV0xQRk1EUzVDbkZNbjl0S1luZUt0TkNPRDNqNW1nd0FFTlh4QlBUMTgzd1FkOTRWRUx3Zy00M0hPR3g2MHFodFhzY21EbjBWQy1VUGVqTHItbENqUllXT3dxdnUzMjZSWnJkNEx0dUtqX3gxeGdTemlCLV9NQXo5LXI3OFNGUE5Zdko4QWJMX2FyZ3h3ZVloNEQxdw?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-08-11"
       }
     ],
     "mineracao": [
@@ -311,20 +311,14 @@ window.NEWS = {
       {
         "titulo": "Mercado de odontologia amplia espaço em Goiás",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNOFdCSmcxT3ctTmtpbFFVTEY3ZVZ1cWhyS2UxdGVSR1lvdXBEeUpSYWlTWE50bXdNZWVBenZBeGFjaW5RRHo1ek1KZHN3bkJacXlzWGpmOUFsMkZySmR0YzdGalF3dy1xcTZfaXRsZGxIMV9WUk9qRWNiLUxhbks0YlVMdlBHbXFUZDZNRWI3Z0VVQQ?oc=5",
-        "fonte": "O Popular",
+        "fonte": "opopular.com.br",
         "data": "2026-08-09"
       },
       {
         "titulo": "Previsão do tempo na região Sudoeste para segunda-feira (10)",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVBDbGxUSi1VeVR1RERRMmpQTjFydDM0bTFNV2M4amFMNnpZdkgwZXVITnlWMURhTG5tdnVoZ2QxbkYxTU9WMlpOd0otc2hlVmY2UGhTU092ZmNtblVtWDc0WHdCbjNzT3ZpZ0tJS0RYaFJDQ0ctVXpnNUZqM3VEeTYxaHdMWk1SQUF0OVB4NE9NLU9HYkRudEVIYi1fb3c?oc=5",
-        "fonte": "O Popular",
+        "fonte": "opopular.com.br",
         "data": "2026-08-09"
-      },
-      {
-        "titulo": "Brasil pode ser mediador na Guerra da Ucrânia, diz chanceler da Suécia",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkQ0eGUwQVpwTl9BRm54bHZQa3I3anF4WVl2dkJuTHduOFlYdWlPMjBqY29aVWJUUGMwNklOcE4tckJtRjNVQVYwbzJDZHNFaUdkaEZCbjZfV1FscUFDRWlITWxWQzZUTTNoTkN6WndjYV9YRVlxSUVSdTh1bXI3VWFWUld3YnZyWmtWdm95dGVoVjY2M2pSV3BwVjM5MWJHR0txWVlyRlpXSHkyeHc?oc=5",
-        "fonte": "O Popular",
-        "data": "2026-08-07"
       }
     ]
   }
