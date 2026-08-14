@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-14T15:59:53+00:00",
+  "atualizadoEm": "2026-08-14T17:04:53+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
-        "fonte": "Times Brasil | CNBC",
+        "fonte": "timesbrasil.com.br",
         "data": "2026-08-13"
       },
       {
@@ -76,10 +76,10 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "JornalCana 360: Etanol de milho, mobilidade híbrida e eficiência industrial",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
-        "fonte": "JornalCana",
-        "data": "2026-08-13"
+        "titulo": "Etanol de milho: Brasil supera EUA em rentabilidade",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHBGT3BJR05hWW9ZTjNIVENCNmkwSW1BbWJuSm10dmZ4WXplSENsYk1GLXh5NFlMVnVtcjhLMUM3a05sYXIwX3h3NzI3TThGMzF2ci1XRVRXRDVycXpWSDlRUTZWd0VjRGFJU1Uya2ZpaUhCN2JhSWl3ODlkeGpmQ0RIeXVscE1XdGdhS25KRnNHbzFQclg1WXpVWXAzdFB1V01zVVhSWEJjTjl0ejJ6MFpB0gGyAUFVX3lxTE5rRkdUQTB2Qnc0M1VlQW9VdWVaVWh2VGkzZXpNRjNpTmxyMkw2Y0dNcnVvSENsV1RnY3B3SEZJX3hxaENtamI0OEpUeVZGSFdxUjZSM3BtMEx0MWp6TFZnYTJFNEdBSWMtRWpfNGptMmduc0o2cHNmcW9VaFBwOXFLbGUzb0w0YVNydWlWME0zUzhYY2l3WXZ0cDJaTWk1WGpCX2Vmb25hY29VU0xDSTFnUHc?oc=5",
+        "fonte": "Campo Grande News",
+        "data": "2026-08-14"
       }
     ],
     "cimento": [
@@ -106,7 +106,7 @@ window.NEWS = {
       {
         "titulo": "Com FedEx fora da rota e Correios em crise, DHL \"entrega\" R$ 270 milhões em investimentos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTVpTkJuYlZfRFh5LVFEN1lwRHFlV3pncXpJeHNEQi1yRlFSMXBVbWJ0Mkg2MG9QaE91TnFJdk45aWI4RGthY2Y1NFBjLWF5cDZHYk9peHljR2c0bGsySDhEbUZJRXNVZ3pJVHo2dkFnTl85bHktWFU4MURLMDV4cXB4M2prUk1ZQXh2ZEJmLXN3eVlUeWw2MkZyY29WcHh0T0JkaU8wVE1iUVRFcFVOcDFkcm81dHM2NkpPNjJHZzRoN3lGN1U4?oc=5",
-        "fonte": "NeoFeed",
+        "fonte": "neofeed.com.br",
         "data": "2026-08-13"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
-        "fonte": "Times Brasil | CNBC",
+        "fonte": "timesbrasil.com.br",
         "data": "2026-08-11"
       },
       {
@@ -226,16 +226,16 @@ window.NEWS = {
     ],
     "maquinas": [
       {
+        "titulo": "​Indústria compra máquinas novas no país, mas automação avança lenta no Nordeste",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY2QxU2o3eU90Z0RNUWJwYUdiZFBpQW9zZmJ5bWEwc0R6VDNmNmt5X3V2Tk5jR05OV3ppU01tc1o2OWRNRWhQYmpDbUFnSm14RHJpUE4xbF8zV2R5TlNiNU83czU1VXhMT09jUmhoQ1Zkc3hrOVc3OUNlQ3BYM3N2Vk5CM0kwMW5VWlJLbHFCelFpdFFtTXc4MUdWNFJSTUUzWTItWGZOT1Z4UXJnaC1fTk4wYw?oc=5",
+        "fonte": "O Estado CE",
+        "data": "2026-08-07"
+      },
+      {
         "titulo": "Crédito empresarial: quando vale a pena?",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCX2FBdE1hWDZjUEsxMktOMF8tZUtaZGdmTkhPSUczWW1vLWNoX0RDV0xJM0JDLUp5LTBja25xMWpVSHRySkJaMC1lSVhLZlVqdGd1enhqc29wVW1LZ1JscnlLQUhsTy14TVhFNmNDVTQ?oc=5",
         "fonte": "ES Brasil",
         "data": "2026-08-11"
-      },
-      {
-        "titulo": "XCMG já produziu mais de 30 mil máquinas em Pouso Alegre e amplia investimentos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYzFfSW9mRlR3ZVBMOW1ER0tYUk4weVNSZjBfYW42NXA0eTMtLURVcEVRQkNxTmRFNHJTWXhSV3VSQk41Q3NSSWFIbWkxUFFXNVdsN1Q3aWNlY0dCTlh2UFRRTFg2RnNXRVZjNFdXaktWWE03WDVrYVpXYm9RODRaUGl4YTB1OE1USUs2RmtGdnZ4cWRGbk90b2o5bE1IWnNUa1c0Q0Vjd2xoMm03NFR4d3ZLOGNCaFI5cFIxNFF5OA?oc=5",
-        "fonte": "TVUAI",
-        "data": "2026-08-10"
       },
       {
         "titulo": "Após dez anos sem campanha institucional, Algar volta a investir",
@@ -258,10 +258,10 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "França cria comissão no Brasil para ampliar negócios em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkJOdG0wR09abmVuZEtVbWVjS0dfWkUxcnlPTDljRE5MT3pKN0xSZUNYcnN4WEJmV0F1ZGtPSUlEU0N4NGV5V3pzcDlyUkVYYi1YZlVOc2twREdQNGlwaWwxa2cwNkpJV0NjdkktbmZqTURYejZnWGFWc1JubUo3RWhuSTRlRWJUaTVqbnpYa1RLVVVrN1dIcGZwOFIwUXRkMGV4R3FQOE94RG5PM0E?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-13"
+        "titulo": "Gestora planeja fundos para a ‘nova corrida dos metais’: de PIPE a crédito",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRGs5SFRHaFB0SFJRSzU1X3pUX2VPWVRsaXViblVPLVY4R3lRcFJEN21iei11UVFEZ3ZiN19lRlJoWHU4X2hNUVpaNjFzT08tamtiQUxXeWRDb3U3TDNaVFVaUkVOQ1JiWXJEOGs4VWJjMnFTX2c4OEctN0FZb2wwSzVjVDgyY2kzTVZXNzdzTG9DTkFFQnBMS3E3bWttZkk?oc=5",
+        "fonte": "Brazil Journal",
+        "data": "2026-08-12"
       }
     ],
     "papel-celulose": [
@@ -269,7 +269,7 @@ window.NEWS = {
         "titulo": "SUZB3 - Suzano - Resultados, Dividendos, Cotação e Indicadores",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTG1odkhVUVZ2ckhlc1NaMzhPZGlsNlJZS1MxVEJoQlU3Y2tJU2drbHJOQUVTNngyemc4UW90X3FWUXZPd3N6RXpEU0dYWHVlaHc?oc=5",
         "fonte": "Investidor10",
-        "data": "2026-08-13"
+        "data": "2026-08-14"
       },
       {
         "titulo": "Termos para novas debêntures em plano de recuperação do GPA são aprovados | Agosto 2026",
@@ -326,6 +326,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVBDbGxUSi1VeVR1RERRMmpQTjFydDM0bTFNV2M4amFMNnpZdkgwZXVITnlWMURhTG5tdnVoZ2QxbkYxTU9WMlpOd0otc2hlVmY2UGhTU092ZmNtblVtWDc0WHdCbjNzT3ZpZ0tJS0RYaFJDQ0ctVXpnNUZqM3VEeTYxaHdMWk1SQUF0OVB4NE9NLU9HYkRudEVIYi1fb3c?oc=5",
         "fonte": "O Popular",
         "data": "2026-08-09"
+      },
+      {
+        "titulo": "Brasil pode ser mediador na Guerra da Ucrânia, diz chanceler da Suécia",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkQ0eGUwQVpwTl9BRm54bHZQa3I3anF4WVl2dkJuTHduOFlYdWlPMjBqY29aVWJUUGMwNklOcE4tckJtRjNVQVYwbzJDZHNFaUdkaEZCbjZfV1FscUFDRWlITWxWQzZUTTNoTkN6WndjYV9YRVlxSUVSdTh1bXI3VWFWUld3YnZyWmtWdm95dGVoVjY2M2pSV3BwVjM5MWJHR0txWVlyRlpXSHkyeHc?oc=5",
+        "fonte": "O Popular",
+        "data": "2026-08-07"
       }
     ]
   }
