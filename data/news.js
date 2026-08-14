@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-14T11:49:50+00:00",
+  "atualizadoEm": "2026-08-14T13:19:57+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -70,36 +70,36 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "Biometano amplia fronteiras da bioenergia e coloca usinas no centro da expansão do gás renovável",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaTMtMVlJSGtBNng1WHFHSkF4TUpfOVFBaDdlUi0zMWVLZlNuaFhwSXI0QUMtZmRfRnp2YWJMT0VTY2VxYnVidS0yTC16OXJKQllyc3FCOU53NVdsMHdYTFpiLVFtSS1KNmE4R256bDJuQXNicV9vU1NBTmlYcXBYMWZPXzI2MjViNTNlV01mNE9rNG9aVUFla0NFaW9rbVlFT2R5VXlHZE5La2txazVpd0pabEFLUVF5RWhnU1dCNU9nR2xOUnc?oc=5",
-        "fonte": "revistarpanews.com.br",
-        "data": "2026-08-07"
-      },
-      {
         "titulo": "JornalCana 360: Etanol de milho, mobilidade híbrida e eficiência industrial",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
         "fonte": "jornalcana.com.br",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "Exclusivo: Usina de Otaviano Pivetta recebeu dinheiro de fundo investigado pela PF",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0QyX1pxbWRxLVdjTWRQM3FnSzlKdHJDbXVDeDV1R25JQ19jYTFRcW1qaV9KbnRpWlVMVDJUcVFlMWlhN1VHSFVTVmYwYlNTdERFeUZGRmo5X2tWczBYeUg3TFJLNUhVVnpxTGQ5bmZIRzhCNTZxNzcxbmNTelpSTkJycHgyNnVjNkZjOVYzOHZJX0RRemRaMk4zc2Y4NnNCa1NCbGkyTUNJVFE?oc=5",
+        "fonte": "pnbonline.com.br",
+        "data": "2026-08-12"
       }
     ],
     "cimento": [
       {
         "titulo": "Cimento Apodi destaca inovação na ExpoConstruir 2026",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnVPamFYN3plaTRXWnk5T2hpa2I1dzRSdnViNFI2b2lOVWFLMG0yMUhrUVloM1RvNGdiR1RCRS1IbS1Ic1o3ekhaQVVXNHp6dGttcFlVSGxPZVhjTXdaVDBGTXVBOG1fdzVEUW5WUVc2TWtmQUtLVzVROXM3blUybU53elMyYjEwa0VOemFCdTBvQnFod1F4bng1eDItV1J4VUkzUFh0OVJfRXhRa3I0SDl3?oc=5",
-        "fonte": "portalterradaluz.com.br",
+        "fonte": "Portal Terra da Luz",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "Plano de investimentos da Votorantim Cimentos de R$ 5 bilhões no Brasil até 2028 segue em execução, com R$ 3,1 bilhões em projetos já anunciados",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV1VvMW1Xb0JSekNpTlZsRWJxMWhyUzBxM3MtWm0yWG1HYk5ONy1vNk5GU0tPdm9aWEpDYUZmMk5lRGRzUEh0SjZ4ZTJvTm0wRFdsdHE0b0JvcWlPb2dfRVdudFZ6U1lDSzhzYmtTTGpITFRYRUhqSGxQUHhyWV84RkFTVTJyU1RFcVpxSTh4WDdvM01KNFAtT0wtbGs4TDVsOFBpeUtBNDllUGRpbFZ6ZENwX1RZT2Fha195VzktZUFUY2FnR3VyQ3hBQ0Z6bHZ4Ql9pclRmUlJ0cC00cXdmTUhBWjloa05PM01CTl92THJGMnFjRzFZMjFTTWM?oc=5",
+        "fonte": "jornaldaregiao.com",
+        "data": "2026-08-14"
       },
       {
         "titulo": "Com a eletrificação da UE, os exportadores de aço, cimento e produtos químicos precisam estar cientes das novas regulamentações.",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRWNNVXBhdVExN3ViZTRFUFFJNTlxRmFwcWNLYmVWUFBkdEw1dHZiNFY3azduLWo2M0h4Tl9NMkVCR3g3Rzc3Mlh1NnNYM09QZ0NDODhyZFBHQXh4WFlJcXl2UWlVaG9XZ05tQUl2a1c4UC1aQy05QlZZRk84YjJSSllOcmhwLWgtaFlWcDBhV3JydHRVaHQtSnJmWUd4Wmt0XzAwUzZvR3liWHByMWc?oc=5",
         "fonte": "Vietnam.vn",
         "data": "2026-08-14"
-      },
-      {
-        "titulo": "As PMEs precisam iniciar sua transformação verde com soluções práticas.",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1JXU1ZUeGtvdERua183eWc0SjRpRkUtWWozcTZyaDlzSEVuRmlselg3bUIwTUtITzJPSmkwMHJXYzFqNklocUdmLVNrd0NWLTV2T3YwUUNCNy0wUnVYbkVXbWlfbDlhOHo0NnFLOUJIS2RERTFvR0ZlS0hGUDZyWmtHQ3RXNzR2b3dyN2UtR0VTUjVpVnRPUmUxZnNPcW5BWVE?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-08-12"
       }
     ],
     "comercio": [
@@ -138,7 +138,7 @@ window.NEWS = {
       {
         "titulo": "Aneel homologa resultado da 2ª etapa do leilão de transmissão, com R$ 1,8 bi em investimentos",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUc3RTlocElQdzFuUXQ5c2VyMUpCNlBCcDBXYm9qWVZKOUMtZjZPSWI4Y204WXJEZzZhdVhXRE5OdXFERFFFMk9HeVBOczZ6Z3dhM1l4UTN2NFhKUVkyMVNyY2JYTFl2b1F1Rk92bWdwRzlVeDJmZmZEclM3RjZUbTVXRWM5VDlYeDJEcHFtV2M0RVRGZzR5aUR4aHlqV09IczVLeV9hRWZ1NV9SV1NacnR2VHg2ckJuVjBDa3JWMGtnQzU3M2NFVHJ2bW9XcFR0T3NGclF2bkVDU05RaFlBLXdn?oc=5",
-        "fonte": "MegaWhat",
+        "fonte": "megawhat.uol.com.br",
         "data": "2026-08-11"
       }
     ],
@@ -214,7 +214,7 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
-        "fonte": "esbrasil.com.br",
+        "fonte": "ES Brasil",
         "data": "2026-08-12"
       },
       {
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "Crédito empresarial: quando vale a pena?",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCX2FBdE1hWDZjUEsxMktOMF8tZUtaZGdmTkhPSUczWW1vLWNoX0RDV0xJM0JDLUp5LTBja25xMWpVSHRySkJaMC1lSVhLZlVqdGd1enhqc29wVW1LZ1JscnlLQUhsTy14TVhFNmNDVTQ?oc=5",
-        "fonte": "esbrasil.com.br",
+        "fonte": "ES Brasil",
         "data": "2026-08-11"
       },
       {
