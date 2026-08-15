@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-15T13:35:06+00:00",
+  "atualizadoEm": "2026-08-15T14:29:06+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -12,7 +12,7 @@ window.NEWS = {
       {
         "titulo": "Crise atual do agro pode ser “igual ou maior” que as do passado, diz Aprosoja Brasil",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUNoMDFPU0cyZHJzMk1vV3FTQWVNZndTSGdRSzdMQ3BEZFJrcDBublBNSkYxT3lNQ1NHMy0tUWpEQ2dBWllva0E5MkRhT1M0Z0ZhcExPWHFNRm9vcGxqRTVQd0lvSXozQ0FTODdjaWRuMkwxTWh5U0NTZ1dTVHVmVmt3TUJZcmRWcjlQTDZPUmMxcUJrWVFwbDk2d2h0T3BaaWZDS0llX1BxR3BNYkZ2VkFVMA?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-08-10"
       },
       {
@@ -26,20 +26,20 @@ window.NEWS = {
       {
         "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
-        "fonte": "Brasil de Fato",
+        "fonte": "brasildefato.com.br",
         "data": "2026-08-11"
       },
       {
         "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
-        "fonte": "Times Brasil | CNBC",
+        "fonte": "timesbrasil.com.br",
         "data": "2026-08-13"
       },
       {
-        "titulo": "Com a demanda mais fraca nos Estados Unidos e na Europa, a América Latina ganhou protagonismo nos resultados das multinacionais de alimentos. Empresas como Nestlé, Mondelez, Danone, PepsiCo e Grupo Bimbo tiveram no Brasil e no México seus m",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9Kall0aXJ4Ymh4UTJMYmZsTEFBcHRiVG03NW9rbnNYQjFJZXBJTnNHU0YyM0VwZ3MyUTlGTld1ZGFENG9XQnNrREpvTl9sQTMxMXc?oc=5",
-        "fonte": "instagram.com",
-        "data": "2026-08-13"
+        "titulo": "Maior câmara fria do Paraná é inaugurada; veja qual foi o investimento",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWDJQRDFTaGctVHVfNnVZREFTNnEzQi1BOVZfSF9PR2M0WHZDSTktaXZSX0dZSENjdmV4STJiRVZ6T25fZ01GRHN0OG5taXhQZk84bWJDV0IwcEY0Ri1mdHk3WTJQZkxSWkZHRWlQRGFKN2Iwc25iOEcwdV9oTXRDSlFsbTA5alptVlpnczMzSFc5MzR2d0RoZDFEcXRGQkppV1phdHJrQXBXUdIBrwFBVV95cUxOcTJOVmEyWHU0VjdYQ1E3ZEV5SzZFQVlvSzhVWXZXQXNDclZDZ28xa2JRMWVsclFLUTZmX0pXdHRHa3pzWEZtTXRwaTR6Q2tORDM1R3M0WmdwbzFHSEhiSU9rMEFxUThTd252c01KNUFjODc3MTlZNUNBSkJPenVETDVPQ1VQVjJ2TEFObWNHRnZqQ214aEIybjdmRUlob0p6MXlSdGFSdzZCT2VHNFl3?oc=5",
+        "fonte": "Tribuna do Paraná",
+        "data": "2026-08-10"
       }
     ],
     "automotivo": [
@@ -78,7 +78,7 @@ window.NEWS = {
       {
         "titulo": "Etanol de milho: Brasil supera EUA em rentabilidade",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHBGT3BJR05hWW9ZTjNIVENCNmkwSW1BbWJuSm10dmZ4WXplSENsYk1GLXh5NFlMVnVtcjhLMUM3a05sYXIwX3h3NzI3TThGMzF2ci1XRVRXRDVycXpWSDlRUTZWd0VjRGFJU1Uya2ZpaUhCN2JhSWl3ODlkeGpmQ0RIeXVscE1XdGdhS25KRnNHbzFQclg1WXpVWXAzdFB1V01zVVhSWEJjTjl0ejJ6MFpB0gGyAUFVX3lxTE5rRkdUQTB2Qnc0M1VlQW9VdWVaVWh2VGkzZXpNRjNpTmxyMkw2Y0dNcnVvSENsV1RnY3B3SEZJX3hxaENtamI0OEpUeVZGSFdxUjZSM3BtMEx0MWp6TFZnYTJFNEdBSWMtRWpfNGptMmduc0o2cHNmcW9VaFBwOXFLbGUzb0w0YVNydWlWME0zUzhYY2l3WXZ0cDJaTWk1WGpCX2Vmb25hY29VU0xDSTFnUHc?oc=5",
-        "fonte": "Campo Grande News",
+        "fonte": "campograndenews.com.br",
         "data": "2026-08-14"
       }
     ],
@@ -112,7 +112,7 @@ window.NEWS = {
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-08-10"
       },
       {
@@ -132,7 +132,7 @@ window.NEWS = {
       {
         "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
-        "fonte": "Times Brasil | CNBC",
+        "fonte": "timesbrasil.com.br",
         "data": "2026-08-11"
       },
       {
@@ -158,7 +158,7 @@ window.NEWS = {
       {
         "titulo": "Por que sistema elétrico brasileiro enfrenta risco por excesso de geração de energia",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcHFBdHpMcDhFb0EtQXV1SzYzUUpKc1BDSmNlS1Q2NThXdkR1Tk1FNU1sSVdXcl95WmdOSG5haWFaUmIwaENzeGc0aGVQd3otOEUtaW1BYXlKaWl3alJSNHYtWEZsbVVvUWZITnBFNnpQQ2hwUmVsV19ZTE5FaE1SbmJCZndtbnFBcFF2S0lfVG83MnNmU2hBRllGcXUyNzZGRWtwZmQ4aFB4VDdvUVYtRU1QQUs0TVpUZ0tnOGN5QWFnRHZ1R0Utdy0xTVJCS1owcDFiRFlB0gHkAUFVX3lxTE1hV19HZmx2WlM3aDdwVkxyS0N5STRYX1RZYmFpelNMVUxCQ25xRXdPOFJTWXN0cWJUXzV6czFsVEctTUkzcnZkTjlNN2Z6UEpueEJXQlI5aVNhczcxbTVoTzFHcmI4RktHQ3RhQjI1c055SnVXVmVDejlGMDRkSk9PalRRVTFGRUc2bXhhc0F5c3c3YzZOS0hTLXNULUFMX0ZKdHdNMkMtbWdwbGZtUk85NWNtZ2ptSHEwZ2FtUklCLU1kZUxkLW44Yzc1WDRqVEd6MVA1bXlxMVh5VGpMVnROTDZ5VA?oc=5",
-        "fonte": "g1.globo.com",
+        "fonte": "G1",
         "data": "2026-08-09"
       }
     ],
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-08-10"
       },
       {
@@ -254,7 +254,7 @@ window.NEWS = {
       {
         "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
-        "fonte": "IBRAM - Mineração do Brasil",
+        "fonte": "ibram.org.br",
         "data": "2026-08-12"
       },
       {
@@ -278,10 +278,10 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-12"
+        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-15"
       }
     ],
     "quimica": [],
