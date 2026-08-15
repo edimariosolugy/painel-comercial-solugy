@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-15T21:27:02+00:00",
+  "atualizadoEm": "2026-08-15T22:27:58+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola é nova fronteira para a expansão do agronegócio brasileiro",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWdSLW5ydVJXUGFpMmZmOEx4Qm1ITTJJRC0xOE1ybm5hZFhzWWZ1ZDVfMnhnbG5zWF9wLUJuZGQ1QnVaR3RPYXZ3UkdzQm10S0JqS0ROdXJWaXhRUWI1cFA2c0FVY1g4Y05pMUw4UXZLS2VWMkVCQWVQdWpDRHR6SzhiZ2RwR2FlNmxUV0FaUW5OVGtEaXZ2aVgzaEtZbWpqdkE?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-12"
       },
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "15 empresas do setor automotivo negociam vinda para o ES",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWZPeEFPYklCRzhDSTZzdjNyVE12aVdzdFRSQ3Y1N1hXdEw3WjRNRk1KclF2M0tZYUF2WmNocGNDU3hyUHI5cDVGem04dFg2OGlNMWVfb01ZaThBbXBkUjZnRlZaSF9naDVjNHhJLVVSUHBsNVVtLTd0US1VYWw1T2tJb3JXVGhPUWdNbzdaOGZaV3lnYW9lZ3Z1MVk2SXlvVk5wYWtuRkVfTTDSAasBQVVfeXFMTk1mT3hBT2JJQkc4Q0k2c3YzclRNdmlXc3RUUkN2NTdYV3RMN1o0TUZNSnJRdjNLWWFBdlpjaHBjQ1N4clByOXA1RnptOHRYNjhpTTFlX29NWWk4QW1wZFI2Z0ZWWkhfZ2g1YzR4SS1VUlBwbDVVbS03dFEtVWFsNU9rSW9yV1RoT1FnTW83WjhmWld5Z2FvZWd2dTFZNkl5b1ZOcGFrbkZFX00w?oc=5",
-        "fonte": "Tribuna Online",
+        "fonte": "tribunaonline.com.br",
         "data": "2026-08-14"
       },
       {
@@ -72,13 +72,13 @@ window.NEWS = {
       {
         "titulo": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeV85Y2hTVDhuYThLNGhoaDZMV0dmZTZSMUYzX05aM3h1QmhPOFpNMkhIejlKUFI1cXFfWVp5Q0M1Q0pQR1JBWjJCYndWd1JHQ0owRVFmd3hLdlB0dHlZUVM0LW1vRWp2VU45VHo2ZGZTZXRxSy1uRGMwZnFCeDNoeWo5eTlyX2hfb0hkZE9hOFlTYnJwZTlLOHhNVFZwVkIwenRWWlBzT1k?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-10"
       },
       {
         "titulo": "Etanol de milho: Brasil supera EUA em rentabilidade",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHBGT3BJR05hWW9ZTjNIVENCNmkwSW1BbWJuSm10dmZ4WXplSENsYk1GLXh5NFlMVnVtcjhLMUM3a05sYXIwX3h3NzI3TThGMzF2ci1XRVRXRDVycXpWSDlRUTZWd0VjRGFJU1Uya2ZpaUhCN2JhSWl3ODlkeGpmQ0RIeXVscE1XdGdhS25KRnNHbzFQclg1WXpVWXAzdFB1V01zVVhSWEJjTjl0ejJ6MFpB0gGyAUFVX3lxTE5rRkdUQTB2Qnc0M1VlQW9VdWVaVWh2VGkzZXpNRjNpTmxyMkw2Y0dNcnVvSENsV1RnY3B3SEZJX3hxaENtamI0OEpUeVZGSFdxUjZSM3BtMEx0MWp6TFZnYTJFNEdBSWMtRWpfNGptMmduc0o2cHNmcW9VaFBwOXFLbGUzb0w0YVNydWlWME0zUzhYY2l3WXZ0cDJaTWk1WGpCX2Vmb25hY29VU0xDSTFnUHc?oc=5",
-        "fonte": "campograndenews.com.br",
+        "fonte": "Campo Grande News",
         "data": "2026-08-14"
       }
     ],
@@ -92,13 +92,13 @@ window.NEWS = {
       {
         "titulo": "As PMEs precisam iniciar sua transformação verde com soluções práticas.",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQc1JXU1ZUeGtvdERua183eWc0SjRpRkUtWWozcTZyaDlzSEVuRmlselg3bUIwTUtITzJPSmkwMHJXYzFqNklocUdmLVNrd0NWLTV2T3YwUUNCNy0wUnVYbkVXbWlfbDlhOHo0NnFLOUJIS2RERTFvR0ZlS0hGUDZyWmtHQ3RXNzR2b3dyN2UtR0VTUjVpVnRPUmUxZnNPcW5BWVE?oc=5",
-        "fonte": "vietnam.vn",
+        "fonte": "Vietnam.vn",
         "data": "2026-08-12"
       },
       {
         "titulo": "Liberando recursos de construção para criar impulso para o crescimento.",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOLVl1ZUtfWDhTczZSaU5NUlU1N1JoQVBqclZMbVVaLWtkZFlHanN1QmpvRUVEZEt4SWdWTDIxZUlXeGgwckhISFhjeTl1SkthanJHTW13aklNd1pjakJvZTMtT3IwVnZKdTNBdmhvalpRcU1FVjBIa1k0VER1X295OVREQQ?oc=5",
-        "fonte": "vietnam.vn",
+        "fonte": "Vietnam.vn",
         "data": "2026-08-11"
       }
     ],
@@ -186,12 +186,6 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-08-15"
-      },
-      {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
         "fonte": "AgFeed",
@@ -202,6 +196,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRlB6QUhyam5SZW9PV2hyVFBqM2djakU5by1sZ1dqdVBzSFZLalo4RlhaZy1VZ3p4ZEJNYkV5cEpXQl95LTJkUjJMbnlxMTFXR1c0d1k5UUhFcWRnVU0xbTZqa3lucER3S1FLbm1TQUxLOWJKN0xmY0pDOXU3N0tvVHE1N1ZrQ1FuM1RGc2lTYkFSeUxqR1Q0bGtoWVljY2ZtX2ZOTWplUlJ5SndvZTdreTNfOUM1dkt2Wi13NXRPZjRaM0hrTzk5bmhxZkItMm9oTEwzckhnVVZjQU8tck9JN196M2hxcGREclE?oc=5",
         "fonte": "Marcas pelo Mundo",
         "data": "2026-08-15"
+      },
+      {
+        "titulo": "Da Fiat à BYD: o futuro da indústria automotiva no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1RyUkgzYlM0VkZjdjdoU0VwdXhvaHo0WnRfZWtaUEt2blcxbWZKblI3Ml9QeUtmU20xcml5ZjdKdkQ3WWhVYXhkTWt1cE45ZndqQmdtWmF3WWZBbVB5dzlPbUhfdGo1Rkd3WkswelVSbTNPckl0SWRhMldiUG9VN1Zja05EZlFMaDVucUFYbjZnSVg00gGaAUFVX3lxTFBWX2JHc2Zjd2pGQ0pYYnZYT2pkMnR6dVZrczc4WlRWbE1saFU0d1pNb25FZkpBOHJMMGRZbTRzQ2wzQWlYS0REUW1nUXF5WGsxVzJWSDFiYmhXTkRVUW1rMVV6U1ZVYWMyUDBLQW1mSG5WN0RSaVAtRkFQQmdDUl9xbUdsRnhWMmZQRzV5Z1V5UHNsWnlvVjQ3M2c?oc=5",
+        "fonte": "investnews.com.br",
+        "data": "2026-08-13"
       }
     ],
     "logistica": [
@@ -240,21 +240,15 @@ window.NEWS = {
       {
         "titulo": "Após dez anos sem campanha institucional, Algar volta a investir",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXpOQW1PSkl1U1RMY2tWMkJLZGJFbUh1ZVhiQ1ZEaUlMV0FYRTNFbFgybVdLUjhndmNKcHd2NExKclNDa012Zk53c0JWRG1hLWZxSGs4Z1hMekRnUy1wVGFTSmU5NFkyVTU2UDN5bW80OENjVmEzNFN0YkIxZ0hEV3lPakxqWUZGVFpJQnJyTlVsbTVXR1pTaml5ZWNkS3FWb2dUaENNR1hxUS1Jemd6R2MzZkgxWVkzX3Jxdl9WU0liSVFhaEYwVDhoTdIB2gFBVV95cUxQcUpCazFYbzZfWTd4aGY1M3lTTzNNc2FLS1BnM19oS0ViVkcyMlhJTG9wbTJpZWxEOGdHR3RRWHFpX2NFVHcyV0xQRk1EUzVDbkZNbjl0S1luZUt0TkNPRDNqNW1nd0FFTlh4QlBUMTgzd1FkOTRWRUx3Zy00M0hPR3g2MHFodFhzY21EbjBWQy1VUGVqTHItbENqUllXT3dxdnUzMjZSWnJkNEx0dUtqX3gxeGdTemlCLV9NQXo5LXI3OFNGUE5Zdko4QWJMX2FyZ3h3ZVloNEQxdw?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-11"
       }
     ],
     "mineracao": [
       {
-        "titulo": "INDÚSTRIA | O Estadão promove na quinta-feira, 20, o Fórum Minério Verde, em São Paulo. Especialistas e executivos vão discutir a mineração em áreas de biodiversidade sensível, a corrida pelos minerais críticos e a automatização e o uso de inteligência",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVlNkRE5RUlRpM1VTNEQ1RG43LXlSV1I3dlAtWmg5WDUtVFhLd1ZZTjYxN1lWTWtkQklYd2RyYkxyUzE4bVhVNTJwbXR3NnBHM0E?oc=5",
-        "fonte": "instagram.com",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "Câmara França-Brasil cria comissão para aproveitar oportunidades em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkpzM2d2Z1NRNDBkSnNnY2pSU1k5bzBBTTVYeVBndUQ0cUZMVVVhSEVLeDUzYTM0b1g0Ql9TNGZuLVV6SGpxZ3ItWkNnZlNxSzNHbUhVOW1laEVJTFNEdENPQURhUGFhZEJOZ2RGUjZtR0ZxaGp2blRQeG9yUU9xOFZwc0N5QUZaQ1hKZ0IwekNVRFFIN24wRFNDZ0pkYk96VTBHeGtzRGNMbkJ1Z3RnbkZaZHM1Zk9waEdwaEZocUVBZS1fVjJXS0txU05BQi01WWFFUjFGVy3SAecBQVVfeXFMTnQxUnA4TzgxWW9VMVVhLVBDOFlQVzFlVXVVcktqMUtWbHRmVWxJRldkcDdBcF83di1VbDBHTlNuMS01ZzJDVXRma1hxN05xVjJwZ3hSN1M2Y3ZpelNiNTFsOF83cUJ6ZU1WZmdxWkdfTFVhOThwS2wxa3dXYjNtc3J1dDUzUDE2ZHVPVkdWc3k5SHhtT2J4ZGQ1WEdaajNVd3NGS0xhZlVBSUEyTTh4c2lEajlGOXo2c1pIWkt4VWFmYjhCNW95WEN0QXFxNFgtRDkySXQ4NU9DaFNzTGhYQktOWFdLTHhz?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-15"
       },
       {
@@ -262,6 +256,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
         "fonte": "IBRAM - Mineração do Brasil",
         "data": "2026-08-12"
+      },
+      {
+        "titulo": "INDÚSTRIA | O Estadão promove na quinta-feira, 20, o Fórum Minério Verde, em São Paulo. Especialistas e executivos vão discutir a mineração em áreas de biodiversidade sensível, a corrida pelos minerais críticos e a automatização e o uso de inteligência",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVlNkRE5RUlRpM1VTNEQ1RG43LXlSV1I3dlAtWmg5WDUtVFhLd1ZZTjYxN1lWTWtkQklYd2RyYkxyUzE4bVhVNTJwbXR3NnBHM0E?oc=5",
+        "fonte": "instagram.com",
+        "data": "2026-08-13"
       }
     ],
     "papel-celulose": [
@@ -307,13 +307,6 @@ window.NEWS = {
         "data": "2026-08-12"
       }
     ],
-    "odontologia": [
-      {
-        "titulo": "Acidente entre ônibus e caminhão que causou sete mortes aconteceu após carreta perder controle em curva, diz perito",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOTRhdW9JTHNBUk1HcHhEaDV0cXp2M3FVM2RzcFJmUVRSYS1FMmFlYTVUNGY4cDhxMWhlNW8tZzhPSW5DM0pOX2FGd0p3cjVDdXg5R0hlRHlYbXRTZ2QwTkViWWFzQk1STWpGazZOSkU2TVVzVE1pbldwNmFGaTNxRVNLY28yRFVGVmhibVR0ZFhBUnMyeFUzNzdJbzBnTWVnN3VrR01KbTd2WTFmTmJzbXliMkJoN3k1a3EwOGhxZ1NOUXVuUEVfdzk0dnZTT1J2Q0IyODlnakpPN1BKdmt4dXJXbFptMjlJWVhNbg?oc=5",
-        "fonte": "O Popular",
-        "data": "2026-08-08"
-      }
-    ]
+    "odontologia": []
   }
 };
