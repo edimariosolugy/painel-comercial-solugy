@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-15T22:27:58+00:00",
+  "atualizadoEm": "2026-08-15T23:26:05+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "15 empresas do setor automotivo negociam vinda para o ES",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWZPeEFPYklCRzhDSTZzdjNyVE12aVdzdFRSQ3Y1N1hXdEw3WjRNRk1KclF2M0tZYUF2WmNocGNDU3hyUHI5cDVGem04dFg2OGlNMWVfb01ZaThBbXBkUjZnRlZaSF9naDVjNHhJLVVSUHBsNVVtLTd0US1VYWw1T2tJb3JXVGhPUWdNbzdaOGZaV3lnYW9lZ3Z1MVk2SXlvVk5wYWtuRkVfTTDSAasBQVVfeXFMTk1mT3hBT2JJQkc4Q0k2c3YzclRNdmlXc3RUUkN2NTdYV3RMN1o0TUZNSnJRdjNLWWFBdlpjaHBjQ1N4clByOXA1RnptOHRYNjhpTTFlX29NWWk4QW1wZFI2Z0ZWWkhfZ2g1YzR4SS1VUlBwbDVVbS03dFEtVWFsNU9rSW9yV1RoT1FnTW83WjhmWld5Z2FvZWd2dTFZNkl5b1ZOcGFrbkZFX00w?oc=5",
-        "fonte": "tribunaonline.com.br",
+        "fonte": "Tribuna Online",
         "data": "2026-08-14"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
-        "fonte": "eixos.com.br",
+        "fonte": "Agência eixos",
         "data": "2026-08-11"
       },
       {
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-10"
       },
       {
@@ -200,7 +200,7 @@ window.NEWS = {
       {
         "titulo": "Da Fiat à BYD: o futuro da indústria automotiva no Brasil",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxON1RyUkgzYlM0VkZjdjdoU0VwdXhvaHo0WnRfZWtaUEt2blcxbWZKblI3Ml9QeUtmU20xcml5ZjdKdkQ3WWhVYXhkTWt1cE45ZndqQmdtWmF3WWZBbVB5dzlPbUhfdGo1Rkd3WkswelVSbTNPckl0SWRhMldiUG9VN1Zja05EZlFMaDVucUFYbjZnSVg00gGaAUFVX3lxTFBWX2JHc2Zjd2pGQ0pYYnZYT2pkMnR6dVZrczc4WlRWbE1saFU0d1pNb25FZkpBOHJMMGRZbTRzQ2wzQWlYS0REUW1nUXF5WGsxVzJWSDFiYmhXTkRVUW1rMVV6U1ZVYWMyUDBLQW1mSG5WN0RSaVAtRkFQQmdDUl9xbUdsRnhWMmZQRzV5Z1V5UHNsWnlvVjQ3M2c?oc=5",
-        "fonte": "investnews.com.br",
+        "fonte": "InvestNews",
         "data": "2026-08-13"
       }
     ],
@@ -234,13 +234,13 @@ window.NEWS = {
       {
         "titulo": "Empresário de Cruzeiro do Sul transforma projeto de expansão em realidade",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVXBWalRsZmEwUGdEX1FicEswVTZoZTJCeGtYTnlUbjh4V3ZNTGc3OG5WM2xpUFNUdzZxQ2s3YVpabUh4Q3BJakpDUGROcVozT2dEN1BjT0RHNFZiZ3hjYjRvRmMyQUZmQkd2OFl0V1R6cVNQTTAxbGNqa3hUX1JrSWVDWjVOXzl1WWQxSENSaG9ka3hCc3J0Wld2TjhpeUVHVC0wV1NyLVlrVWhtY2Y0clhHZG13M3QtMDFCZTJR?oc=5",
-        "fonte": "grupoahora.net.br",
+        "fonte": "Grupo A Hora",
         "data": "2026-08-14"
       },
       {
         "titulo": "Após dez anos sem campanha institucional, Algar volta a investir",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXpOQW1PSkl1U1RMY2tWMkJLZGJFbUh1ZVhiQ1ZEaUlMV0FYRTNFbFgybVdLUjhndmNKcHd2NExKclNDa012Zk53c0JWRG1hLWZxSGs4Z1hMekRnUy1wVGFTSmU5NFkyVTU2UDN5bW80OENjVmEzNFN0YkIxZ0hEV3lPakxqWUZGVFpJQnJyTlVsbTVXR1pTaml5ZWNkS3FWb2dUaENNR1hxUS1Jemd6R2MzZkgxWVkzX3Jxdl9WU0liSVFhaEYwVDhoTdIB2gFBVV95cUxQcUpCazFYbzZfWTd4aGY1M3lTTzNNc2FLS1BnM19oS0ViVkcyMlhJTG9wbTJpZWxEOGdHR3RRWHFpX2NFVHcyV0xQRk1EUzVDbkZNbjl0S1luZUt0TkNPRDNqNW1nd0FFTlh4QlBUMTgzd1FkOTRWRUx3Zy00M0hPR3g2MHFodFhzY21EbjBWQy1VUGVqTHItbENqUllXT3dxdnUzMjZSWnJkNEx0dUtqX3gxeGdTemlCLV9NQXo5LXI3OFNGUE5Zdko4QWJMX2FyZ3h3ZVloNEQxdw?oc=5",
-        "fonte": "Valor Econômico",
+        "fonte": "valor.globo.com",
         "data": "2026-08-11"
       }
     ],
@@ -248,7 +248,7 @@ window.NEWS = {
       {
         "titulo": "Câmara França-Brasil cria comissão para aproveitar oportunidades em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkpzM2d2Z1NRNDBkSnNnY2pSU1k5bzBBTTVYeVBndUQ0cUZMVVVhSEVLeDUzYTM0b1g0Ql9TNGZuLVV6SGpxZ3ItWkNnZlNxSzNHbUhVOW1laEVJTFNEdENPQURhUGFhZEJOZ2RGUjZtR0ZxaGp2blRQeG9yUU9xOFZwc0N5QUZaQ1hKZ0IwekNVRFFIN24wRFNDZ0pkYk96VTBHeGtzRGNMbkJ1Z3RnbkZaZHM1Zk9waEdwaEZocUVBZS1fVjJXS0txU05BQi01WWFFUjFGVy3SAecBQVVfeXFMTnQxUnA4TzgxWW9VMVVhLVBDOFlQVzFlVXVVcktqMUtWbHRmVWxJRldkcDdBcF83di1VbDBHTlNuMS01ZzJDVXRma1hxN05xVjJwZ3hSN1M2Y3ZpelNiNTFsOF83cUJ6ZU1WZmdxWkdfTFVhOThwS2wxa3dXYjNtc3J1dDUzUDE2ZHVPVkdWc3k5SHhtT2J4ZGQ1WEdaajNVd3NGS0xhZlVBSUEyTTh4c2lEajlGOXo2c1pIWkt4VWFmYjhCNW95WEN0QXFxNFgtRDkySXQ4NU9DaFNzTGhYQktOWFdLTHhz?oc=5",
-        "fonte": "Valor Econômico",
+        "fonte": "valor.globo.com",
         "data": "2026-08-15"
       },
       {
@@ -274,7 +274,7 @@ window.NEWS = {
       {
         "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
-        "fonte": "InfoMoney",
+        "fonte": "infomoney.com.br",
         "data": "2026-08-13"
       },
       {
