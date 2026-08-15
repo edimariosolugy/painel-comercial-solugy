@@ -1,25 +1,25 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-14T23:27:52+00:00",
+  "atualizadoEm": "2026-08-15T09:31:48+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola é nova fronteira para a expansão do agronegócio brasileiro",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWdSLW5ydVJXUGFpMmZmOEx4Qm1ITTJJRC0xOE1ybm5hZFhzWWZ1ZDVfMnhnbG5zWF9wLUJuZGQ1QnVaR3RPYXZ3UkdzQm10S0JqS0ROdXJWaXhRUWI1cFA2c0FVY1g4Y05pMUw4UXZLS2VWMkVCQWVQdWpDRHR6SzhiZ2RwR2FlNmxUV0FaUW5OVGtEaXZ2aVgzaEtZbWpqdkE?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-12"
+      },
+      {
+        "titulo": "Crise atual do agro pode ser “igual ou maior” que as do passado, diz Aprosoja Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUNoMDFPU0cyZHJzMk1vV3FTQWVNZndTSGdRSzdMQ3BEZFJrcDBublBNSkYxT3lNQ1NHMy0tUWpEQ2dBWllva0E5MkRhT1M0Z0ZhcExPWHFNRm9vcGxqRTVQd0lvSXozQ0FTODdjaWRuMkwxTWh5U0NTZ1dTVHVmVmt3TUJZcmRWcjlQTDZPUmMxcUJrWVFwbDk2d2h0T3BaaWZDS0llX1BxR3BNYkZ2VkFVMA?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-08-10"
       },
       {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
-        "fonte": "bloomberglinea.com.br",
+        "fonte": "Bloomberg Línea Brasil",
         "data": "2026-08-13"
-      },
-      {
-        "titulo": "Crédito para o agro",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JTGRuN19sNjd2R05ZdWYzNUxtcW1wdkhyMFdPcFlRVjNRQlFnV1daUHNtaGxxdW5wYVU1bGJIb2VGalpRN2ItaVlaUU9TZEwtbVMxZlFSbWF3amtsTERhWFJWcw?oc=5",
-        "fonte": "Portal CNA Brasil",
-        "data": "2026-08-14"
       }
     ],
     "alimentos-bebidas": [
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "15 empresas do setor automotivo negociam vinda para o ES",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWZPeEFPYklCRzhDSTZzdjNyVE12aVdzdFRSQ3Y1N1hXdEw3WjRNRk1KclF2M0tZYUF2WmNocGNDU3hyUHI5cDVGem04dFg2OGlNMWVfb01ZaThBbXBkUjZnRlZaSF9naDVjNHhJLVVSUHBsNVVtLTd0US1VYWw1T2tJb3JXVGhPUWdNbzdaOGZaV3lnYW9lZ3Z1MVk2SXlvVk5wYWtuRkVfTTDSAasBQVVfeXFMTk1mT3hBT2JJQkc4Q0k2c3YzclRNdmlXc3RUUkN2NTdYV3RMN1o0TUZNSnJRdjNLWWFBdlpjaHBjQ1N4clByOXA1RnptOHRYNjhpTTFlX29NWWk4QW1wZFI2Z0ZWWkhfZ2g1YzR4SS1VUlBwbDVVbS03dFEtVWFsNU9rSW9yV1RoT1FnTW83WjhmWld5Z2FvZWd2dTFZNkl5b1ZOcGFrbkZFX00w?oc=5",
-        "fonte": "tribunaonline.com.br",
+        "fonte": "Tribuna Online",
         "data": "2026-08-14"
       },
       {
@@ -72,7 +72,7 @@ window.NEWS = {
       {
         "titulo": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeV85Y2hTVDhuYThLNGhoaDZMV0dmZTZSMUYzX05aM3h1QmhPOFpNMkhIejlKUFI1cXFfWVp5Q0M1Q0pQR1JBWjJCYndWd1JHQ0owRVFmd3hLdlB0dHlZUVM0LW1vRWp2VU45VHo2ZGZTZXRxSy1uRGMwZnFCeDNoeWo5eTlyX2hfb0hkZE9hOFlTYnJwZTlLOHhNVFZwVkIwenRWWlBzT1k?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-10"
       },
       {
@@ -124,22 +124,22 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
+        "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-08-11"
+      },
+      {
         "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
         "fonte": "Times Brasil | CNBC",
         "data": "2026-08-11"
       },
       {
-        "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
-        "fonte": "eixos.com.br",
+        "titulo": "Aneel homologa resultado da 2ª etapa do leilão de transmissão, com R$ 1,8 bi em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUc3RTlocElQdzFuUXQ5c2VyMUpCNlBCcDBXYm9qWVZKOUMtZjZPSWI4Y204WXJEZzZhdVhXRE5OdXFERFFFMk9HeVBOczZ6Z3dhM1l4UTN2NFhKUVkyMVNyY2JYTFl2b1F1Rk92bWdwRzlVeDJmZmZEclM3RjZUbTVXRWM5VDlYeDJEcHFtV2M0RVRGZzR5aUR4aHlqV09IczVLeV9hRWZ1NV9SV1NacnR2VHg2ckJuVjBDa3JWMGtnQzU3M2NFVHJ2bW9XcFR0T3NGclF2bkVDU05RaFlBLXdn?oc=5",
+        "fonte": "MegaWhat",
         "data": "2026-08-11"
-      },
-      {
-        "titulo": "Taesa mantém estudos para disputar leilão de baterias, mas aguarda definição da regulação",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYTJ6cERRZ0pqaWRXdl9jci1yTHFOS3hmcG56d196azZoSlJBa28tT05KY29GLWVVMF94WmZUeUJ3cm9sWTFlbnlVbm03U1RCZ21aSTgzY1RqQzN3OEZiV3dzclpGdF9KRnkxaGptaldPTS1p?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-08-13"
       }
     ],
     "solar": [
@@ -171,16 +171,16 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "Governo do Brasil destina R$ 120 milhões para impulsionar pesquisa clínica no SUS",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbWZsN2IzSXJPdUIzSDNGN09ZUUplc0MzZGtfSS1qRU1uaFpnTzNHYmFNQ0N3ODJfalpPMXVNSHhOT3ZYVjlPM0NDbzlhNE1RaWxlNDZGMURITnNJMktCNE9aQmI3ZURoVGlfWFNBUURGbzAzTlAxMnd0QWxiY3JoZmVtTnpsZmVwUW5Tbm9vNndqN1BuRzZvdzJaelRjM3Vrbk5sSFU5Y2hPTHhVZWQwZ1VkYw?oc=5",
-        "fonte": "Biored Brasil",
-        "data": "2026-08-07"
-      },
-      {
-        "titulo": "Interfarma apresenta Carta aos Presidenciáveis com 10 prioridades para a saúde no próximo governo",
+        "titulo": "Conheça os tipos de repelentes para se proteger dos mosquitos (Dengue)",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFBqd2JZcHJwbEZLcno2dTBQZFNqRkZRQlItajZ2YnRYU1ZnSFpTa3hoUGVrSXN6MHVQM0NUSC0zcFJpQ1kyckZYWlFVWGlEanllcXRMcDBnVkhUc3ZIS1VSOXE4QjVZbkgyZFJUajV4QnZ3aEp5UHA3dThaWnBQSWQ1U2JXSWFxOUdLRnRjZExKSWE2SjVybTdmQnZpbEJvbGd2U2FVS3g4alcwTWxDTkhoTjQyR3VrbktRazV6bmJwaEpTdmJYTmVHUFJFVHFG?oc=5",
         "fonte": "PFARMA.com.br",
         "data": "2026-08-14"
+      },
+      {
+        "titulo": "Prati-Donaduzzi abre inscrições para Programa Trainee 2026 com foco em formação de lideranças",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMVU2czFoVFZmbThsVE5WclAxOWhTb0dfT3Zyb3lqQ0RsWDlMejUtazlhbFJDVlJMelRDNG1RMXNucmpJbVZXMkR3a09tNS1yNi1xdHRMTnJTdENwcERfdHhXZV9EdWFwRkhzcHhnRkozUEZ0OXNpSXhkNUFIejdCZjktbTkxRkYxX1BHZDVSZFZhRm4wem9BRHFxdktqS3VKY3pfU0w5MVlGS21nYWxqUS1hSGpvMEE1MGFKNmxoSDk3bHpuX3pIajlGYjlZWnlLUlZvVEhlWS1iYm5nRlVxUE1NT25OTVE?oc=5",
+        "fonte": "cff.org.br",
+        "data": "2026-08-13"
       }
     ],
     "fertilizantes": [],
@@ -192,10 +192,10 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-14"
+        "titulo": "LG inaugura fábrica de R$ 1,5 bilhão no Paraná com capacidade para produzir 600 mil geladeiras por ano",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRlB6QUhyam5SZW9PV2hyVFBqM2djakU5by1sZ1dqdVBzSFZLalo4RlhaZy1VZ3p4ZEJNYkV5cEpXQl95LTJkUjJMbnlxMTFXR1c0d1k5UUhFcWRnVU0xbTZqa3lucER3S1FLbm1TQUxLOWJKN0xmY0pDOXU3N0tvVHE1N1ZrQ1FuM1RGc2lTYkFSeUxqR1Q0bGtoWVljY2ZtX2ZOTWplUlJ5SndvZTdreTNfOUM1dkt2Wi13NXRPZjRaM0hrTzk5bmhxZkItMm9oTEwzckhnVVZjQU8tck9JN196M2hxcGREclE?oc=5",
+        "fonte": "Marcas pelo Mundo",
+        "data": "2026-08-15"
       },
       {
         "titulo": "Da Fiat à BYD: o futuro da indústria automotiva no Brasil",
@@ -315,10 +315,10 @@ window.NEWS = {
         "data": "2026-08-09"
       },
       {
-        "titulo": "Previsão do tempo na região Sudoeste para segunda-feira (10)",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQVBDbGxUSi1VeVR1RERRMmpQTjFydDM0bTFNV2M4amFMNnpZdkgwZXVITnlWMURhTG5tdnVoZ2QxbkYxTU9WMlpOd0otc2hlVmY2UGhTU092ZmNtblVtWDc0WHdCbjNzT3ZpZ0tJS0RYaFJDQ0ctVXpnNUZqM3VEeTYxaHdMWk1SQUF0OVB4NE9NLU9HYkRudEVIYi1fb3c?oc=5",
+        "titulo": "Acidente entre ônibus e caminhão que causou sete mortes aconteceu após carreta perder controle em curva, diz perito",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOTRhdW9JTHNBUk1HcHhEaDV0cXp2M3FVM2RzcFJmUVRSYS1FMmFlYTVUNGY4cDhxMWhlNW8tZzhPSW5DM0pOX2FGd0p3cjVDdXg5R0hlRHlYbXRTZ2QwTkViWWFzQk1STWpGazZOSkU2TVVzVE1pbldwNmFGaTNxRVNLY28yRFVGVmhibVR0ZFhBUnMyeFUzNzdJbzBnTWVnN3VrR01KbTd2WTFmTmJzbXliMkJoN3k1a3EwOGhxZ1NOUXVuUEVfdzk0dnZTT1J2Q0IyODlnakpPN1BKdmt4dXJXbFptMjlJWVhNbg?oc=5",
         "fonte": "O Popular",
-        "data": "2026-08-09"
+        "data": "2026-08-08"
       }
     ]
   }
