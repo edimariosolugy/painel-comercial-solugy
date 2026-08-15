@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-15T16:31:49+00:00",
+  "atualizadoEm": "2026-08-15T17:25:46+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -18,7 +18,7 @@ window.NEWS = {
       {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
-        "fonte": "bloomberglinea.com.br",
+        "fonte": "Bloomberg Línea Brasil",
         "data": "2026-08-13"
       }
     ],
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-10"
       },
       {
@@ -186,12 +186,6 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-08-15"
-      },
-      {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
         "fonte": "AgFeed",
@@ -202,13 +196,19 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
         "fonte": "GZH",
         "data": "2026-08-14"
+      },
+      {
+        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-08-15"
       }
     ],
     "logistica": [
       {
         "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "mundologistica.com.br",
+        "fonte": "MundoLogística",
         "data": "2026-08-12"
       },
       {
@@ -220,7 +220,7 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística: o que o governo prevê para rodovias, ferrovias, hidrovias e portos",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNamVOWU92emkwMGJkR2FjeGRUWnl5Y2JEcnZ3Skw1UGZOd0x2STIwOEh6d21DeUhyRU1ma0tBTERKTVFoa0NQU2RqbXdfUzdXazVYcVlJT1lKS2JfdlloMkxDVk5wYy1oU0NpTDNDOFdGTlJQT3ZmaGFsX1A2bkVENnpQaWhyRTZVY0l6ZGpGUVJoRlQxYkg0YjBzT1NzSHQwbUhRbmpxZEpELWxtSkdSNTdUZGdSU24zak01Z081Z2lsTnpVM0tRdWlLeXQ0UUs5dkFj?oc=5",
-        "fonte": "transportemoderno.com.br",
+        "fonte": "Transporte Moderno",
         "data": "2026-08-13"
       }
     ],
@@ -274,7 +274,7 @@ window.NEWS = {
       {
         "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
-        "fonte": "infomoney.com.br",
+        "fonte": "InfoMoney",
         "data": "2026-08-13"
       },
       {
@@ -289,7 +289,7 @@ window.NEWS = {
       {
         "titulo": "Brasil conta com 23 projetos de saneamento em estruturação, totalizando pipeline de pelo menos R$ 30,4 bi",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYWVMa0V6UHRBeHYtYXhsbTVvX1EtOXF2YlJ6YUtETDlTZ2NSU3NsRURwUzM2RWZ1R3ZRT1JkQkh5bEl6TlpwUDhfQmkzODl2ckpoZnVheW11akVHWVR2Y0dHZUhuSVJ5T1RXZmlyazZuVUpJUkdWVmJ4d3pnYlFsOU11blp0ak9FMzdlOU51WENCVjU0VFVvTlBvNDZ0WUtkcERNaHZ5UjBFWmtybk8yYWw2Z3NfMVJWVFkwQlIwSVNCRVVmMHBiZDQxUTVCZlM3TDRzaVd6WQ?oc=5",
-        "fonte": "bnamericas.com",
+        "fonte": "BNamericas",
         "data": "2026-08-10"
       },
       {
