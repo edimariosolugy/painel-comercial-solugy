@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-15T17:25:46+00:00",
+  "atualizadoEm": "2026-08-15T18:37:26+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "15 empresas do setor automotivo negociam vinda para o ES",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWZPeEFPYklCRzhDSTZzdjNyVE12aVdzdFRSQ3Y1N1hXdEw3WjRNRk1KclF2M0tZYUF2WmNocGNDU3hyUHI5cDVGem04dFg2OGlNMWVfb01ZaThBbXBkUjZnRlZaSF9naDVjNHhJLVVSUHBsNVVtLTd0US1VYWw1T2tJb3JXVGhPUWdNbzdaOGZaV3lnYW9lZ3Z1MVk2SXlvVk5wYWtuRkVfTTDSAasBQVVfeXFMTk1mT3hBT2JJQkc4Q0k2c3YzclRNdmlXc3RUUkN2NTdYV3RMN1o0TUZNSnJRdjNLWWFBdlpjaHBjQ1N4clByOXA1RnptOHRYNjhpTTFlX29NWWk4QW1wZFI2Z0ZWWkhfZ2g1YzR4SS1VUlBwbDVVbS03dFEtVWFsNU9rSW9yV1RoT1FnTW83WjhmWld5Z2FvZWd2dTFZNkl5b1ZOcGFrbkZFX00w?oc=5",
-        "fonte": "Tribuna Online",
+        "fonte": "tribunaonline.com.br",
         "data": "2026-08-14"
       },
       {
@@ -186,21 +186,21 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
+        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-08-15"
+      },
+      {
         "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
         "fonte": "AgFeed",
         "data": "2026-08-10"
       },
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-14"
-      },
-      {
-        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
-        "fonte": "Folha de S.Paulo",
+        "titulo": "LG inaugura fábrica de R$ 1,5 bilhão no Paraná com capacidade para produzir 600 mil geladeiras por ano",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRlB6QUhyam5SZW9PV2hyVFBqM2djakU5by1sZ1dqdVBzSFZLalo4RlhaZy1VZ3p4ZEJNYkV5cEpXQl95LTJkUjJMbnlxMTFXR1c0d1k5UUhFcWRnVU0xbTZqa3lucER3S1FLbm1TQUxLOWJKN0xmY0pDOXU3N0tvVHE1N1ZrQ1FuM1RGc2lTYkFSeUxqR1Q0bGtoWVljY2ZtX2ZOTWplUlJ5SndvZTdreTNfOUM1dkt2Wi13NXRPZjRaM0hrTzk5bmhxZkItMm9oTEwzckhnVVZjQU8tck9JN196M2hxcGREclE?oc=5",
+        "fonte": "Marcas pelo Mundo",
         "data": "2026-08-15"
       }
     ],
@@ -214,7 +214,7 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
-        "fonte": "esbrasil.com.br",
+        "fonte": "ES Brasil",
         "data": "2026-08-12"
       },
       {
@@ -228,7 +228,7 @@ window.NEWS = {
       {
         "titulo": "Crédito empresarial: quando vale a pena?",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCX2FBdE1hWDZjUEsxMktOMF8tZUtaZGdmTkhPSUczWW1vLWNoX0RDV0xJM0JDLUp5LTBja25xMWpVSHRySkJaMC1lSVhLZlVqdGd1enhqc29wVW1LZ1JscnlLQUhsTy14TVhFNmNDVTQ?oc=5",
-        "fonte": "esbrasil.com.br",
+        "fonte": "ES Brasil",
         "data": "2026-08-11"
       },
       {
@@ -274,14 +274,14 @@ window.NEWS = {
       {
         "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
-        "fonte": "InfoMoney",
+        "fonte": "infomoney.com.br",
         "data": "2026-08-13"
       },
       {
-        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-15"
+        "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
+        "fonte": "GZH",
+        "data": "2026-08-12"
       }
     ],
     "quimica": [],
