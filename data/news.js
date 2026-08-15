@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-15T10:28:17+00:00",
+  "atualizadoEm": "2026-08-15T11:25:54+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "Brasil avança no etanol de milho, mas ainda precisa convencer gringo de sustentabilidade",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS2x5dWdQcEp0REl1RmFmYmEzbGFZQWJoN0pzUmRBaEYyaThzWV9tdTl4aWllOXBmSFlGWFJnYzhDX2E0Sk83Y3FkRkQtMjVOb1FCaWItcGw3ZGEtYlVBenB6WDVLRl9EcFh6cWJkNzg3UENuTmtDeFF5Z0tnVzZPLVRVUG1Bb0Q0M3dwTU5TaVVpZ2pfNXpURi1EUXFJN2RWMnpDNWd1YjJ3ZG5fZHVwZmtJU3A2S2RtdHlkLXlNTmFEajNMUVFQekRFMDNKaEpk?oc=5",
-        "fonte": "theagribiz.com",
+        "fonte": "The AgriBiz",
         "data": "2026-08-10"
       },
       {
