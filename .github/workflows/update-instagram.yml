@@ -41,6 +41,8 @@ jobs:
         env:
           IG_TOKEN: ${{ secrets.IG_TOKEN }}
           IG_USER_ID: ${{ secrets.IG_USER_ID }}
+          IG_USER_ID2: ${{ secrets.IG_USER_ID2 }}
+          IG_TOKEN2: ${{ secrets.IG_TOKEN2 }}
         run: python scripts/update_instagram.py
 
       - name: Commit e push se houver mudanças

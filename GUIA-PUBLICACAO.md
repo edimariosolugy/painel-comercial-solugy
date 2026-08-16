@@ -109,6 +109,15 @@ Conecta a aba Instagram à API oficial da Meta. Pré-requisito: o **@solugyofici
 
 > Dica: para o token de página não expirar, gere-o a partir de um token de usuário de longa duração (Explorer → ⓘ do token → *Open in Access Token Tool* → *Extend Access Token*, e refaça o passo `me/accounts`). Enquanto os secrets não existirem, o workflow se pula com aviso e a aba mostra as instruções.
 
+### Segunda conta: @edimariosolugy
+
+A aba suporta duas contas com um seletor. Para adicionar o @edimariosolugy:
+
+1. Vincule o @edimariosolugy a uma Página do Facebook (pode criar uma página própria, ex. "Edimário Solugy" — mesma Central de Contas do celular). A conta precisa ser profissional.
+2. Repita o passo 3 da Etapa 5: `me/accounts` → localize essa página → `{id-da-pagina}?fields=instagram_business_account` → copie o `id`.
+3. Crie o secret **`IG_USER_ID2`** com esse id. Se a página for administrada por outra conta/token, crie também **`IG_TOKEN2`**; senão, o `IG_TOKEN` principal é reaproveitado (basta o mesmo perfil pessoal administrar as duas páginas).
+4. Rode o workflow do Instagram — o seletor @solugyoficial / @edimariosolugy aparece sozinho na aba.
+
 ---
 
 ## Resumo do funcionamento automático

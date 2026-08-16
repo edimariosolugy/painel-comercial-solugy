@@ -1,17 +1,19 @@
 #!/usr/bin/env python3
 """
-Busca métricas do Instagram @solugyoficial via API oficial da Meta (Instagram
-Graph) e grava data/instagram.js. Rodado de hora em hora pelo GitHub Actions.
+Busca métricas do Instagram via API oficial da Meta (Instagram Graph) e grava
+data/instagram.js. Suporta DUAS contas: @solugyoficial e @edimariosolugy.
+Rodado de hora em hora pelo GitHub Actions.
 
 Variáveis de ambiente (GitHub Secrets):
-  IG_TOKEN   - token de página de longa duração (ver GUIA-PUBLICACAO.md, etapa 5)
-  IG_USER_ID - ID da conta Instagram Business (@solugyoficial)
+  IG_TOKEN     - token de longa duração (usuário ou página) com acesso às contas
+  IG_USER_ID   - ID da conta Instagram Business principal (@solugyoficial)
+  IG_USER_ID2  - (opcional) ID da segunda conta (@edimariosolugy)
+  IG_TOKEN2    - (opcional) token específico da segunda conta; se ausente, usa IG_TOKEN
 
 Apenas biblioteca padrão do Python.
 """
 import json
 import os
-import sys
 import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
@@ -22,41 +24,36 @@ SAIDA = RAIZ / "data" / "instagram.js"
 G = "https://graph.facebook.com/v21.0"
 
 
-def get(caminho, **params):
-    params["access_token"] = os.environ["IG_TOKEN"]
+def get(caminho, token, **params):
+    params["access_token"] = token
     url = f"{G}/{caminho}?" + urllib.parse.urlencode(params)
     with urllib.request.urlopen(url, timeout=60) as r:
         return json.loads(r.read())
 
 
-def main():
-    ig = os.environ["IG_USER_ID"]
+def coleta_conta(ig_id, token):
+    """Coleta perfil, alcance 30d, visitas e últimos posts de uma conta."""
+    perfil = get(ig_id, token, fields="username,name,followers_count,media_count")
+    desde = int((datetime.now(timezone.utc) - timedelta(days=30)).timestamp())
 
-    # Perfil
-    perfil = get(ig, fields="username,name,followers_count,media_count")
-
-    # Alcance diário (últimos 30 dias) — tolerante a mudanças de API
     alcance = []
     try:
-        desde = int((datetime.now(timezone.utc) - timedelta(days=30)).timestamp())
-        ins = get(f"{ig}/insights", metric="reach", period="day", since=desde)
+        ins = get(f"{ig_id}/insights", token, metric="reach", period="day", since=desde)
         for v in ins.get("data", [{}])[0].get("values", []):
             alcance.append({"data": v.get("end_time", "")[:10], "valor": v.get("value", 0)})
     except Exception as e:
-        print(f"[aviso] alcance indisponível: {e}")
+        print(f"[aviso] {perfil.get('username')}: alcance indisponível: {e}")
 
-    # Visitas ao perfil (nem toda conta expõe; tolerante)
-    visitas30d = None
+    visitas = None
     try:
-        ins = get(f"{ig}/insights", metric="profile_views", period="day", since=desde)
-        visitas30d = sum(v.get("value", 0) for v in ins.get("data", [{}])[0].get("values", []))
+        ins = get(f"{ig_id}/insights", token, metric="profile_views", period="day", since=desde)
+        visitas = sum(v.get("value", 0) for v in ins.get("data", [{}])[0].get("values", []))
     except Exception as e:
-        print(f"[aviso] profile_views indisponível: {e}")
+        print(f"[aviso] {perfil.get('username')}: profile_views indisponível: {e}")
 
-    # Últimos 12 posts
     posts = []
     try:
-        med = get(f"{ig}/media", fields="caption,media_type,permalink,timestamp,like_count,comments_count", limit=12)
+        med = get(f"{ig_id}/media", token, fields="caption,media_type,permalink,timestamp,like_count,comments_count", limit=12)
         for m in med.get("data", []):
             posts.append({
                 "legenda": (m.get("caption") or "")[:120],
@@ -67,19 +64,42 @@ def main():
                 "comentarios": m.get("comments_count", 0),
             })
     except Exception as e:
-        print(f"[aviso] posts indisponíveis: {e}")
+        print(f"[aviso] {perfil.get('username')}: posts indisponíveis: {e}")
 
-    payload = {
-        "atualizadoEm": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    return {
         "perfil": {
-            "username": perfil.get("username", "solugyoficial"),
+            "username": perfil.get("username", ""),
             "nome": perfil.get("name", ""),
             "seguidores": perfil.get("followers_count", 0),
             "totalPosts": perfil.get("media_count", 0),
         },
         "alcance30d": alcance,
-        "visitasPerfil30d": visitas30d,
+        "visitasPerfil30d": visitas,
         "posts": posts,
+    }
+
+
+def main():
+    token = os.environ["IG_TOKEN"]
+    contas_cfg = [(os.environ["IG_USER_ID"], token)]
+    if os.environ.get("IG_USER_ID2"):
+        contas_cfg.append((os.environ["IG_USER_ID2"], os.environ.get("IG_TOKEN2") or token))
+
+    contas = []
+    for ig_id, tk in contas_cfg:
+        try:
+            c = coleta_conta(ig_id, tk)
+            contas.append(c)
+            print(f"[ok] @{c['perfil']['username']}: {c['perfil']['seguidores']} seguidores, {len(c['posts'])} posts")
+        except Exception as e:
+            print(f"[erro] conta {ig_id}: {e}")
+
+    if not contas:
+        raise SystemExit("Nenhuma conta coletada — verifique IG_TOKEN/IG_USER_ID.")
+
+    payload = {
+        "atualizadoEm": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+        "contas": contas,
     }
 
     # Não regrava se nada mudou (evita commit/deploy inútil)
@@ -99,7 +119,7 @@ def main():
         "window.INSTA = " + json.dumps(payload, ensure_ascii=False) + ";\n",
         encoding="utf-8",
     )
-    print(f"OK: @{payload['perfil']['username']} · {payload['perfil']['seguidores']} seguidores · {len(posts)} posts -> {SAIDA}")
+    print(f"Gravado {SAIDA} — {len(contas)} conta(s).")
 
 
 if __name__ == "__main__":

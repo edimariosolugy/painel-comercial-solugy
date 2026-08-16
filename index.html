@@ -390,9 +390,12 @@ renderSetores();
 
 // ================= ABA 2: indicadores mensais =================
 const chavesMes=Object.keys(FUNIL.mensal).sort();
-const rotulo=k=>{const[a,m]=k.split("-");return MESES_PT[+m-1]+"/"+a.slice(2);};
+const rotulo=k=>{if(!k)return"—";const[a,m]=k.split("-");return MESES_PT[+m-1]+"/"+a.slice(2);};
 const atualK=chavesMes[chavesMes.length-1],antK=chavesMes[chavesMes.length-2];
-const atual=FUNIL.mensal[atualK]||{},ant=FUNIL.mensal[antK]||{};
+const atual=(atualK&&FUNIL.mensal[atualK])||{},ant=(antK&&FUNIL.mensal[antK])||{};
+// blindagem: se um arquivo de dados falhar (cache/rede), os demais blocos continuam
+window.addEventListener("error",e=>console.warn("painel:",e.message));
+function tenta(fn){try{fn();}catch(e){console.warn("painel bloco falhou:",e.message);}}
 function deltaHtml(a,b,invert){if(!b)return"";const d=100*(a-b)/b;const good=invert?d<0:d>=0;
   return`<span class="kpi-delta" style="color:${good?C.green:C.red}">${d>=0?"▲":"▼"} ${Math.abs(d).toLocaleString("pt-BR",{maximumFractionDigits:1})}%</span>`;}
 document.getElementById("kpisMensais").innerHTML=`
@@ -548,51 +551,68 @@ function irParaFunil(slug){
 }
 renderFunil();
 
-// ================= ABA 5: instagram =================
+// ================= ABA 5: instagram (multi-conta) =================
 (function(){
   const alvo=document.getElementById("instaConteudo");
   const I=window.INSTA||null;
-  if(!I){
+  const contas=(I&&(I.contas||[Object.assign({},I)]))||null; // aceita formato antigo e novo
+  if(!I||!contas||!contas.length||!contas[0].perfil){
     alvo.innerHTML=`<div class="panel">
-      <div class="panel-head"><div><div class="panel-title">Instagram @solugyoficial — aguardando conexão</div>
-      <div class="panel-sub">A aba conecta na API oficial da Meta e atualiza de hora em hora</div></div></div>
+      <div class="panel-head"><div><div class="panel-title">Instagram — aguardando conexão</div>
+      <div class="panel-sub">Gestão de @solugyoficial e @edimariosolugy · API oficial da Meta · atualização de hora em hora</div></div></div>
       <div style="font-size:12.5px;color:var(--txt2);line-height:1.7;padding:6px 2px">
         Para ativar, siga a <b style="color:var(--txt)">Etapa 5 do GUIA-PUBLICACAO.md</b>: gere o token na plataforma
         Meta for Developers e cadastre os secrets <span class="mono" style="color:var(--orange)">IG_TOKEN</span> e
-        <span class="mono" style="color:var(--orange)">IG_USER_ID</span> no GitHub.
-        Na primeira rodada do robô, esta aba passa a mostrar seguidores, alcance diário, visitas ao perfil e o
-        engajamento dos últimos posts — tudo automático. O restante do painel funciona normalmente enquanto isso.
+        <span class="mono" style="color:var(--orange)">IG_USER_ID</span> no GitHub
+        (e <span class="mono" style="color:var(--orange)">IG_USER_ID2</span> para a segunda conta).
+        Na primeira rodada do robô, esta aba mostra seguidores, alcance diário, visitas ao perfil e engajamento
+        de cada conta, com um seletor para alternar entre elas.
       </div></div>`;
     return;
   }
-  const eng=I.posts.length?Math.round(I.posts.reduce((s,p)=>s+p.likes+p.comentarios,0)/I.posts.length):0;
-  const alcTotal=I.alcance30d.reduce((s,x)=>s+x.valor,0);
+  let chartInsta=null;
+  function renderConta(ix){
+    const c=contas[ix];
+    const eng=c.posts.length?Math.round(c.posts.reduce((s,p)=>s+p.likes+p.comentarios,0)/c.posts.length):0;
+    const alcTotal=c.alcance30d.reduce((s,x)=>s+x.valor,0);
+    document.getElementById("instaCorpo").innerHTML=`
+      <div class="kpi-grid g4" style="margin-bottom:14px">
+        <div class="kpi"><div class="kpi-lab">Seguidores</div><div class="kpi-val" style="color:var(--orange)">${c.perfil.seguidores.toLocaleString("pt-BR")}</div><div class="kpi-sub">@${c.perfil.username} · ${c.perfil.totalPosts.toLocaleString("pt-BR")} posts</div></div>
+        <div class="kpi"><div class="kpi-lab">Alcance · 30 dias</div><div class="kpi-val">${alcTotal.toLocaleString("pt-BR")}</div><div class="kpi-sub">contas alcançadas</div></div>
+        <div class="kpi"><div class="kpi-lab">Visitas ao perfil · 30d</div><div class="kpi-val">${c.visitasPerfil30d!=null?c.visitasPerfil30d.toLocaleString("pt-BR"):"—"}</div></div>
+        <div class="kpi"><div class="kpi-lab">Engajamento médio</div><div class="kpi-val">${eng.toLocaleString("pt-BR")}</div><div class="kpi-sub">curtidas+comentários por post (últimos ${c.posts.length})</div></div>
+      </div>
+      <div class="panel" style="margin-bottom:14px">
+        <div class="panel-head"><div><div class="panel-title">Alcance diário — últimos 30 dias</div>
+        <div class="panel-sub">@${c.perfil.username} · atualizado ${fmtData(I.atualizadoEm)} · API oficial Meta</div></div></div>
+        <div class="chart-box"><canvas id="chartInsta"></canvas></div>
+      </div>
+      <div class="panel">
+        <div class="panel-head"><div><div class="panel-title">Últimos posts — engajamento</div>
+        <div class="panel-sub">Clique para abrir no Instagram</div></div></div>
+        <table><thead><tr><th>Data</th><th>Post</th><th>Tipo</th><th>Curtidas</th><th>Coment.</th></tr></thead>
+        <tbody>${[...c.posts].sort((a,b)=>(b.likes+b.comentarios)-(a.likes+a.comentarios)).map(p=>
+          `<tr class="main" onclick="window.open('${p.link}','_blank')"><td>${fmtData(p.data)}</td>
+           <td class="nm">${p.legenda||"(sem legenda)"}</td><td>${p.tipo.replace("CAROUSEL_ALBUM","CARROSSEL")}</td>
+           <td>${p.likes.toLocaleString("pt-BR")}</td><td>${p.comentarios.toLocaleString("pt-BR")}</td></tr>`).join("")}
+        </tbody></table>
+      </div>`;
+    if(chartInsta)chartInsta.destroy();
+    if(c.alcance30d.length)
+      chartInsta=new Chart(document.getElementById("chartInsta"),{type:"line",
+        data:{labels:c.alcance30d.map(x=>fmtData(x.data).slice(0,5)),datasets:[{label:"Alcance",data:c.alcance30d.map(x=>x.valor),borderColor:C.orange,backgroundColor:"#F65D0022",fill:true,tension:.3,pointRadius:0}]},
+        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false}}}}});
+  }
   alvo.innerHTML=`
-    <div class="kpi-grid g4" style="margin-bottom:14px">
-      <div class="kpi"><div class="kpi-lab">Seguidores</div><div class="kpi-val" style="color:var(--orange)">${I.perfil.seguidores.toLocaleString("pt-BR")}</div><div class="kpi-sub">@${I.perfil.username}</div></div>
-      <div class="kpi"><div class="kpi-lab">Alcance · 30 dias</div><div class="kpi-val">${alcTotal.toLocaleString("pt-BR")}</div><div class="kpi-sub">contas alcançadas</div></div>
-      <div class="kpi"><div class="kpi-lab">Visitas ao perfil · 30d</div><div class="kpi-val">${I.visitasPerfil30d!=null?I.visitasPerfil30d.toLocaleString("pt-BR"):"—"}</div></div>
-      <div class="kpi"><div class="kpi-lab">Engajamento médio</div><div class="kpi-val">${eng.toLocaleString("pt-BR")}</div><div class="kpi-sub">curtidas+comentários por post (últimos ${I.posts.length})</div></div>
+    <div class="controls" id="instaContas" style="margin-bottom:14px">
+      ${contas.map((c,i)=>`<button class="chip${i===0?" on":""}" data-ix="${i}">@${c.perfil.username}</button>`).join("")}
     </div>
-    <div class="panel" style="margin-bottom:14px">
-      <div class="panel-head"><div><div class="panel-title">Alcance diário — últimos 30 dias</div>
-      <div class="panel-sub">Atualizado ${fmtData(I.atualizadoEm)} · API oficial Meta</div></div></div>
-      <div class="chart-box"><canvas id="chartInsta"></canvas></div>
-    </div>
-    <div class="panel">
-      <div class="panel-head"><div><div class="panel-title">Últimos posts — engajamento</div>
-      <div class="panel-sub">Clique para abrir no Instagram</div></div></div>
-      <table><thead><tr><th>Data</th><th>Post</th><th>Tipo</th><th>Curtidas</th><th>Coment.</th></tr></thead>
-      <tbody>${[...I.posts].sort((a,b)=>(b.likes+b.comentarios)-(a.likes+a.comentarios)).map(p=>
-        `<tr class="main" onclick="window.open('${p.link}','_blank')"><td>${fmtData(p.data)}</td>
-         <td class="nm">${p.legenda||"(sem legenda)"}</td><td>${p.tipo.replace("CAROUSEL_ALBUM","CARROSSEL")}</td>
-         <td>${p.likes.toLocaleString("pt-BR")}</td><td>${p.comentarios.toLocaleString("pt-BR")}</td></tr>`).join("")}
-      </tbody></table>
-    </div>`;
-  if(I.alcance30d.length)
-    new Chart(document.getElementById("chartInsta"),{type:"line",
-      data:{labels:I.alcance30d.map(x=>fmtData(x.data).slice(0,5)),datasets:[{label:"Alcance",data:I.alcance30d.map(x=>x.valor),borderColor:C.orange,backgroundColor:"#F65D0022",fill:true,tension:.3,pointRadius:0}]},
-      options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false}}}}});
+    <div id="instaCorpo"></div>`;
+  alvo.querySelectorAll("#instaContas .chip").forEach(b=>b.addEventListener("click",()=>{
+    alvo.querySelectorAll("#instaContas .chip").forEach(x=>x.classList.remove("on"));
+    b.classList.add("on");renderConta(+b.dataset.ix);
+  }));
+  renderConta(0);
 })();
 </script>
 </body>
