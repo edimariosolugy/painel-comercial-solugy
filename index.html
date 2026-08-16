@@ -107,6 +107,20 @@
   .prio{font-size:10px;font-weight:700;padding:2px 8px;border-radius:4px;border:1px solid;font-family:'JetBrains Mono',monospace}
   .prio.A{color:var(--red);border-color:var(--red)} .prio.B{color:var(--amber);border-color:var(--amber)} .prio.C{color:var(--txt3);border-color:var(--txt3)}
   .foot{font-size:10px;color:var(--txt3);line-height:1.5;padding:14px 20px;border-top:1px solid var(--border);text-align:center}
+  /* heatmap (padrão DashboardExec) */
+  .heat{overflow-x:auto}
+  .heat-row{display:flex;align-items:center;gap:2px;margin-bottom:2px}
+  .heat-dl{width:34px;flex-shrink:0;font-size:10px;color:var(--txt2)}
+  .heat-hh{flex:1;min-width:18px;text-align:center;font-size:8.5px;color:var(--txt3);font-family:'JetBrains Mono',monospace}
+  .heat-cell{flex:1;min-width:18px;height:20px;border-radius:3px;background:var(--panel2)}
+  .mini-kpi{background:var(--panel2);border:1px solid var(--border);border-radius:9px;padding:8px 12px;flex:1;min-width:110px}
+  .mini-kpi .v{font-family:'JetBrains Mono',monospace;font-weight:700;font-size:15px}
+  .mini-kpi .l{font-size:9.5px;color:var(--txt2);text-transform:uppercase;letter-spacing:.4px;margin-top:1px}
+  .demo-row{display:flex;align-items:center;gap:8px;margin-bottom:6px}
+  .demo-n{font-size:11px;width:150px;color:var(--txt);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .demo-track{flex:1;height:6px;background:var(--panel2);border-radius:3px;overflow:hidden}
+  .demo-fill{height:100%;background:var(--orange);border-radius:3px}
+  .demo-v{font-size:10px;color:var(--txt2);font-family:'JetBrains Mono',monospace;width:52px;text-align:right}
   @media(max-width:900px){.kpi-grid,.kpi-grid.g4{grid-template-columns:repeat(2,1fr)}.row2{grid-template-columns:1fr}.tabs{top:auto}}
 </style>
 </head>
@@ -551,11 +565,11 @@ function irParaFunil(slug){
 }
 renderFunil();
 
-// ================= ABA 5: instagram (multi-conta) =================
+// ================= ABA 5: instagram (gestão completa) =================
 (function(){
   const alvo=document.getElementById("instaConteudo");
   const I=window.INSTA||null;
-  const contas=(I&&(I.contas||[Object.assign({},I)]))||null; // aceita formato antigo e novo
+  const contas=(I&&(I.contas||[Object.assign({},I)]))||null;
   if(!I||!contas||!contas.length||!contas[0].perfil){
     alvo.innerHTML=`<div class="panel">
       <div class="panel-head"><div><div class="panel-title">Instagram @edimariosolugy — aguardando a primeira rodada do robô</div>
@@ -564,47 +578,172 @@ renderFunil();
         Conexão com a Meta configurada. Com os secrets <span class="mono" style="color:var(--orange)">IG_TOKEN</span> e
         <span class="mono" style="color:var(--orange)">IG_USER_ID</span> cadastrados no GitHub, rode o workflow
         <b style="color:var(--txt)">"Atualizar Instagram (de hora em hora)"</b> na aba Actions (Run workflow).
-        Na primeira rodada, esta aba mostra seguidores, alcance diário, visitas ao perfil e engajamento dos posts —
-        e depois atualiza sozinha a cada hora. Para somar outra conta no futuro, basta o secret
-        <span class="mono" style="color:var(--orange)">IG_USER_ID2</span>.
       </div></div>`;
     return;
   }
-  let chartInsta=null;
-  function renderConta(ix){
-    const c=contas[ix];
-    const eng=c.posts.length?Math.round(c.posts.reduce((s,p)=>s+p.likes+p.comentarios,0)/c.posts.length):0;
-    const alcTotal=c.alcance30d.reduce((s,x)=>s+x.valor,0);
-    document.getElementById("instaCorpo").innerHTML=`
-      <div class="kpi-grid g4" style="margin-bottom:14px">
-        <div class="kpi"><div class="kpi-lab">Seguidores</div><div class="kpi-val" style="color:var(--orange)">${c.perfil.seguidores.toLocaleString("pt-BR")}</div><div class="kpi-sub">@${c.perfil.username} · ${c.perfil.totalPosts.toLocaleString("pt-BR")} posts</div></div>
-        <div class="kpi"><div class="kpi-lab">Alcance · 30 dias</div><div class="kpi-val">${alcTotal.toLocaleString("pt-BR")}</div><div class="kpi-sub">contas alcançadas</div></div>
-        <div class="kpi"><div class="kpi-lab">Visitas ao perfil · 30d</div><div class="kpi-val">${c.visitasPerfil30d!=null?c.visitasPerfil30d.toLocaleString("pt-BR"):"—"}</div></div>
-        <div class="kpi"><div class="kpi-lab">Engajamento médio</div><div class="kpi-val">${eng.toLocaleString("pt-BR")}</div><div class="kpi-sub">curtidas+comentários por post (últimos ${c.posts.length})</div></div>
-      </div>
-      <div class="panel" style="margin-bottom:14px">
-        <div class="panel-head"><div><div class="panel-title">Alcance diário — últimos 30 dias</div>
-        <div class="panel-sub">@${c.perfil.username} · atualizado ${fmtData(I.atualizadoEm)} · API oficial Meta</div></div></div>
-        <div class="chart-box"><canvas id="chartInsta"></canvas></div>
-      </div>
-      <div class="panel">
-        <div class="panel-head"><div><div class="panel-title">Últimos posts — engajamento</div>
-        <div class="panel-sub">Clique para abrir no Instagram</div></div></div>
-        <table><thead><tr><th>Data</th><th>Post</th><th>Tipo</th><th>Curtidas</th><th>Coment.</th></tr></thead>
-        <tbody>${[...c.posts].sort((a,b)=>(b.likes+b.comentarios)-(a.likes+a.comentarios)).map(p=>
-          `<tr class="main" onclick="window.open('${p.link}','_blank')"><td>${fmtData(p.data)}</td>
-           <td class="nm">${p.legenda||"(sem legenda)"}</td><td>${p.tipo.replace("CAROUSEL_ALBUM","CARROSSEL")}</td>
-           <td>${p.likes.toLocaleString("pt-BR")}</td><td>${p.comentarios.toLocaleString("pt-BR")}</td></tr>`).join("")}
-        </tbody></table>
-      </div>`;
-    if(chartInsta)chartInsta.destroy();
-    if(c.alcance30d.length)
-      chartInsta=new Chart(document.getElementById("chartInsta"),{type:"line",
-        data:{labels:c.alcance30d.map(x=>fmtData(x.data).slice(0,5)),datasets:[{label:"Alcance",data:c.alcance30d.map(x=>x.valor),borderColor:C.orange,backgroundColor:"#F65D0022",fill:true,tension:.3,pointRadius:0}]},
-        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false}}}}});
+  const DIAS=["seg","ter","qua","qui","sex","sáb","dom"];
+  const fmtN=v=>v==null?"—":Number(v).toLocaleString("pt-BR");
+  let charts=[];
+  function limpaCharts(){charts.forEach(c=>c&&c.destroy());charts=[];}
+
+  function motorInsta(c){
+    const out=[];
+    const m=c.metricas30d||{};
+    const novos=(c.seguidores30d||[]).reduce((s,x)=>s+x.valor,0);
+    if(novos>0){
+      const pct=c.perfil.seguidores?(100*novos/Math.max(c.perfil.seguidores-novos,1)):0;
+      out.push({sev:"ok",cat:"Crescimento",t:`+${fmtN(novos)} seguidores nos últimos 30 dias (${pct.toFixed(1)}% de crescimento). Mantendo o ritmo, são ~${fmtN(Math.round(novos*12))} novos por ano.`});
+    }else if(c.seguidores30d&&c.seguidores30d.length){
+      out.push({sev:"warn",cat:"Crescimento",t:`Sem crescimento líquido de seguidores nos últimos 30 dias. Aumente a frequência de Reels e poste nos horários de pico do mapa de calor abaixo.`});
+    }
+    const alc=(c.alcance30d||[]).reduce((s,x)=>s+x.valor,0);
+    if(m.interacoes!=null&&alc>0){
+      const eng=100*m.interacoes/alc;
+      out.push({sev:eng>=5?"ok":"warn",cat:"Engajamento",t:`Taxa de engajamento de ${eng.toFixed(1)}% sobre o alcance (${fmtN(m.interacoes)} interações / ${fmtN(alc)} alcançados). ${eng>=5?"Acima da média do mercado (3–5%).":"Referência de mercado: 3–5% — conteúdos com pergunta na legenda e CTA elevam esse número."}`});
+    }
+    if(m.salvos!=null&&m.compartilhamentos!=null&&(m.salvos+m.compartilhamentos)>0)
+      out.push({sev:"ok",cat:"Conteúdo",t:`${fmtN(m.salvos)} salvamentos e ${fmtN(m.compartilhamentos)} compartilhamentos em 30 dias — sinais de conteúdo útil. Produza mais do formato dos posts mais salvos (tabela abaixo).`});
+    // formato campeão
+    const porTipo={};
+    (c.posts||[]).forEach(p=>{const t=p.tipo==="VIDEO"?"Reel":p.tipo==="CAROUSEL_ALBUM"?"Carrossel":"Imagem";
+      (porTipo[t]=porTipo[t]||[]).push(p.alcance!=null?p.alcance:(p.likes+p.comentarios));});
+    const medias=Object.entries(porTipo).map(([t,arr])=>({t,m:arr.reduce((s,x)=>s+x,0)/arr.length})).sort((a,b)=>b.m-a.m);
+    if(medias.length>1&&medias[1].m>0)
+      out.push({sev:"ok",cat:"Formato",t:`${medias[0].t} é seu formato campeão: alcance médio ${(medias[0].m/medias[1].m).toFixed(1)}× maior que ${medias[1].t.toLowerCase()}. Priorize-o no planejamento da semana.`});
+    // melhor horário
+    if(c.online&&c.online.length){
+      const top=[...c.online].sort((a,b)=>b.n-a.n)[0];
+      out.push({sev:"ok",cat:"Melhor horário",t:`Seu público está mais online ${DIAS[top.d]} às ${top.h}h. Programe os posts principais para essa janela (mapa de calor abaixo).`});
+    }
+    if(m.cliquesLink!=null&&m.cliquesLink>0)
+      out.push({sev:"ok",cat:"Tráfego",t:`${fmtN(m.cliquesLink)} toques no link do perfil em 30 dias — Instagram gerando contato real. Confira se o link aponta para o WhatsApp/site certo.`});
+    const rank={crit:0,warn:1,ok:2};out.sort((a,b)=>rank[a.sev]-rank[b.sev]);
+    return out;
   }
+
+  function renderConta(ix){
+    limpaCharts();
+    const c=contas[ix];
+    const m=c.metricas30d||{};
+    const alcTotal=(c.alcance30d||[]).reduce((s,x)=>s+x.valor,0);
+    const novos=(c.seguidores30d||[]).reduce((s,x)=>s+x.valor,0);
+    const engPct=(m.interacoes!=null&&alcTotal>0)?(100*m.interacoes/alcTotal).toFixed(1)+"%":"—";
+    const insights=motorInsta(c);
+    const temPostMetricas=(c.posts||[]).some(p=>p.alcance!=null);
+
+    document.getElementById("instaCorpo").innerHTML=`
+      <div class="kpi-grid" style="margin-bottom:12px">
+        <div class="kpi"><div class="kpi-lab">Seguidores</div><div class="kpi-val" style="color:var(--orange)">${fmtN(c.perfil.seguidores)}</div>
+          <div class="kpi-foot"><span class="kpi-sub">@${c.perfil.username}</span>${novos?`<span class="kpi-delta" style="color:var(--green)">▲ ${fmtN(novos)} em 30d</span>`:""}</div></div>
+        <div class="kpi"><div class="kpi-lab">Alcance · 30d</div><div class="kpi-val">${fmtN(alcTotal)}</div><div class="kpi-sub">contas alcançadas</div></div>
+        <div class="kpi"><div class="kpi-lab">Contas engajadas · 30d</div><div class="kpi-val">${fmtN(m.contasEngajadas)}</div></div>
+        <div class="kpi"><div class="kpi-lab">Interações · 30d</div><div class="kpi-val">${fmtN(m.interacoes)}</div><div class="kpi-sub">curtidas+coment.+salvos+compart.</div></div>
+        <div class="kpi"><div class="kpi-lab">Engajamento / alcance</div><div class="kpi-val" style="color:${parseFloat(engPct)>=5?"var(--green)":"var(--txt)"}">${engPct}</div><div class="kpi-sub">referência: 3–5%</div></div>
+      </div>
+      <div class="controls" style="margin-bottom:12px">
+        <div class="mini-kpi"><div class="v">${fmtN(m.curtidas)}</div><div class="l">curtidas 30d</div></div>
+        <div class="mini-kpi"><div class="v">${fmtN(m.comentarios)}</div><div class="l">comentários</div></div>
+        <div class="mini-kpi"><div class="v">${fmtN(m.salvos)}</div><div class="l">salvamentos</div></div>
+        <div class="mini-kpi"><div class="v">${fmtN(m.compartilhamentos)}</div><div class="l">compartilh.</div></div>
+        <div class="mini-kpi"><div class="v">${fmtN(m.views)}</div><div class="l">views</div></div>
+        <div class="mini-kpi"><div class="v">${fmtN(m.cliquesLink)}</div><div class="l">cliques no link</div></div>
+        <div class="mini-kpi"><div class="v">${fmtN(c.visitasPerfil30d)}</div><div class="l">visitas perfil</div></div>
+      </div>
+      ${insights.length?`<div class="panel" style="margin-bottom:12px">
+        <div class="panel-head"><div><div class="panel-title">Leituras da conta</div>
+        <div class="panel-sub">Geradas automaticamente dos últimos 30 dias · atualizado ${fmtData(I.atualizadoEm)}</div></div></div>
+        <div class="ins-wrap">${insights.map(i=>{const s=SEV[i.sev];
+          return`<div class="ins" style="border-left-color:${s.c}"><div class="ins-top"><span style="color:${s.c};font-size:9px">●</span><span class="ins-cat">${i.cat}</span><span class="ins-sev" style="color:${s.c}">${s.l}</span></div><div class="ins-txt">${i.t}</div></div>`;}).join("")}</div>
+      </div>`:""}
+      <div class="row2" style="margin-bottom:12px">
+        <div class="panel">
+          <div class="panel-head"><div><div class="panel-title">Alcance diário — 30 dias</div></div></div>
+          <div class="chart-box"><canvas id="chAlc"></canvas></div>
+        </div>
+        <div class="panel">
+          <div class="panel-head"><div><div class="panel-title">Novos seguidores por dia</div></div></div>
+          <div class="chart-box">${(c.seguidores30d||[]).length?'<canvas id="chSeg"></canvas>':'<div style="color:var(--txt3);font-size:12px;padding:20px">Métrica ainda não liberada pela Meta para esta conta.</div>'}</div>
+        </div>
+      </div>
+      <div class="row2" style="margin-bottom:12px">
+        <div class="panel">
+          <div class="panel-head"><div><div class="panel-title">Quando seu público está online</div>
+          <div class="panel-sub">Média de seguidores online por dia × hora (Brasília) — poste nas células mais quentes</div></div></div>
+          ${(c.online||[]).length?'<div class="heat" id="heatOnline"></div>':'<div style="color:var(--txt3);font-size:12px;padding:20px">Métrica ainda não liberada pela Meta para esta conta.</div>'}
+        </div>
+        <div class="panel">
+          <div class="panel-head"><div><div class="panel-title">Desempenho médio por formato</div>
+          <div class="panel-sub">${temPostMetricas?"Alcance médio por post":"Interações médias por post"} · últimos ${(c.posts||[]).length} posts</div></div></div>
+          <div class="chart-box"><canvas id="chTipo"></canvas></div>
+        </div>
+      </div>
+      ${c.demografia?`<div class="panel" style="margin-bottom:12px">
+        <div class="panel-head"><div><div class="panel-title">Quem é a sua audiência</div>
+        <div class="panel-sub">Demografia dos seguidores · fonte Meta</div></div></div>
+        <div class="row2">
+          <div>${(c.demografia.cidades||[]).length?'<div style="font-size:11px;color:var(--txt2);font-weight:600;margin-bottom:8px">PRINCIPAIS CIDADES</div>'+renderDemo(c.demografia.cidades):""}</div>
+          <div>${(c.demografia.idades||[]).length?'<div style="font-size:11px;color:var(--txt2);font-weight:600;margin-bottom:8px">FAIXA ETÁRIA</div>'+renderDemo(c.demografia.idades):""}
+          ${(c.demografia.genero||[]).length?'<div style="font-size:11px;color:var(--txt2);font-weight:600;margin:12px 0 8px">GÊNERO</div>'+renderDemo(c.demografia.genero):""}</div>
+        </div>
+      </div>`:""}
+      <div class="panel">
+        <div class="panel-head"><div><div class="panel-title">Últimos posts — desempenho completo</div>
+        <div class="panel-sub">Ordenado por ${temPostMetricas?"alcance":"engajamento"} · clique para abrir no Instagram</div></div></div>
+        <div class="scroll"><table><thead><tr><th>Data</th><th>Post</th><th>Tipo</th>${temPostMetricas?"<th>Alcance</th><th>Views</th>":""}<th>Curtidas</th><th>Coment.</th>${temPostMetricas?"<th>Salvos</th><th>Compart.</th>":""}</tr></thead>
+        <tbody>${[...(c.posts||[])].sort((a,b)=>((b.alcance??(b.likes+b.comentarios))-(a.alcance??(a.likes+a.comentarios)))).map(p=>
+          `<tr class="main" onclick="window.open('${p.link}','_blank')"><td>${fmtData(p.data)}</td>
+           <td class="nm">${p.legenda||"(sem legenda)"}</td><td>${p.tipo==="CAROUSEL_ALBUM"?"CARROSSEL":p.tipo==="VIDEO"?"REEL":p.tipo}</td>
+           ${temPostMetricas?`<td>${fmtN(p.alcance)}</td><td>${fmtN(p.views)}</td>`:""}
+           <td>${fmtN(p.likes)}</td><td>${fmtN(p.comentarios)}</td>
+           ${temPostMetricas?`<td>${fmtN(p.salvos)}</td><td>${fmtN(p.compart)}</td>`:""}</tr>`).join("")}
+        </tbody></table></div>
+      </div>`;
+
+    // gráficos
+    if((c.alcance30d||[]).length)
+      charts.push(new Chart(document.getElementById("chAlc"),{type:"line",
+        data:{labels:c.alcance30d.map(x=>fmtData(x.data).slice(0,5)),datasets:[{data:c.alcance30d.map(x=>x.valor),borderColor:C.orange,backgroundColor:"#F65D0022",fill:true,tension:.3,pointRadius:0}]},
+        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false}}}}}));
+    if((c.seguidores30d||[]).length)
+      charts.push(new Chart(document.getElementById("chSeg"),{type:"bar",
+        data:{labels:c.seguidores30d.map(x=>fmtData(x.data).slice(0,5)),datasets:[{data:c.seguidores30d.map(x=>x.valor),backgroundColor:c.seguidores30d.map(x=>x.valor>=0?C.green:C.red),borderRadius:2}]},
+        options:{responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}},scales:{x:{grid:{display:false}}}}}));
+    // heatmap
+    if((c.online||[]).length){
+      const wrap=document.getElementById("heatOnline");
+      const mapa={};let max=1;
+      c.online.forEach(x=>{mapa[x.d+"-"+x.h]=x.n;if(x.n>max)max=x.n;});
+      const horas=[...Array(18).keys()].map(h=>h+6); // 6h às 23h
+      let html='<div class="heat-row"><div class="heat-dl"></div>'+horas.map(h=>`<div class="heat-hh">${h}</div>`).join("")+"</div>";
+      for(let d=0;d<7;d++){
+        html+=`<div class="heat-row"><div class="heat-dl">${DIAS[d]}</div>`+horas.map(h=>{
+          const n=mapa[d+"-"+h]||0;const op=(n/max);
+          return`<div class="heat-cell" title="${DIAS[d]} ${h}h · ${fmtN(n)} online" style="background:${op>0?`rgba(246,93,0,${(0.12+op*0.88).toFixed(2)})`:"var(--panel2)"}"></div>`;}).join("")+"</div>";
+      }
+      wrap.innerHTML=html;
+    }
+    // formato
+    const porTipo={};
+    (c.posts||[]).forEach(p=>{const t=p.tipo==="VIDEO"?"Reel":p.tipo==="CAROUSEL_ALBUM"?"Carrossel":"Imagem";
+      (porTipo[t]=porTipo[t]||[]).push(temPostMetricas?(p.alcance||0):(p.likes+p.comentarios));});
+    const tipos=Object.entries(porTipo).map(([t,arr])=>({t,m:Math.round(arr.reduce((s,x)=>s+x,0)/arr.length),n:arr.length}));
+    if(tipos.length)
+      charts.push(new Chart(document.getElementById("chTipo"),{type:"bar",
+        data:{labels:tipos.map(x=>x.t+" ("+x.n+")"),datasets:[{data:tipos.map(x=>x.m),backgroundColor:[C.orange,C.blue,C.green],borderRadius:4}]},
+        options:{indexAxis:"y",responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false}}}}));
+  }
+
+  function renderDemo(itens){
+    const max=Math.max(...itens.map(x=>x.valor),1);
+    const tot=itens.reduce((s,x)=>s+x.valor,0)||1;
+    const nomes={"male":"Masculino","female":"Feminino","unknown":"Não informado","M":"Masculino","F":"Feminino","U":"Não informado"};
+    return itens.map(x=>`<div class="demo-row"><div class="demo-n">${nomes[x.nome]||x.nome}</div>
+      <div class="demo-track"><div class="demo-fill" style="width:${Math.round(100*x.valor/max)}%"></div></div>
+      <div class="demo-v">${(100*x.valor/tot).toFixed(0)}%</div></div>`).join("");
+  }
+
   alvo.innerHTML=`
-    <div class="controls" id="instaContas" style="margin-bottom:14px">
+    <div class="controls" id="instaContas" style="margin-bottom:12px">
       ${contas.map((c,i)=>`<button class="chip${i===0?" on":""}" data-ix="${i}">@${c.perfil.username}</button>`).join("")}
     </div>
     <div id="instaCorpo"></div>`;
