@@ -16,6 +16,7 @@ o que a Meta não liberar para a conta vem como nulo e o painel se adapta.
 """
 import json
 import os
+import time
 import urllib.parse
 import urllib.request
 from collections import defaultdict
@@ -25,14 +26,24 @@ from pathlib import Path
 RAIZ = Path(__file__).resolve().parent.parent
 SAIDA = RAIZ / "data" / "instagram.js"
 G = "https://graph.facebook.com/v21.0"
-FUSO_BRT = -3  # deslocamento simples UTC -> Brasília
+FUSO_BRT = -3   # deslocamento simples UTC -> Brasília
+JANELA_DIAS = 28  # limite da Meta é 30 exatos; 28 evita rejeições na fronteira
 
 
-def get(caminho, token, **params):
+def get(caminho, token, tentativas=3, **params):
+    """Chamada à Graph API com tentativas automáticas (a Meta dá 400 transitório)."""
     params["access_token"] = token
     url = f"{G}/{caminho}?" + urllib.parse.urlencode(params)
-    with urllib.request.urlopen(url, timeout=60) as r:
-        return json.loads(r.read())
+    ultimo_erro = None
+    for i in range(tentativas):
+        try:
+            with urllib.request.urlopen(url, timeout=60) as r:
+                return json.loads(r.read())
+        except Exception as e:
+            ultimo_erro = e
+            if i < tentativas - 1:
+                time.sleep(4 * (i + 1))
+    raise ultimo_erro
 
 
 def serie_diaria(ig, token, metrica, desde):
@@ -100,7 +111,7 @@ def insights_post(media_id, tipo, token):
 
 def coleta_conta(ig, token):
     agora = datetime.now(timezone.utc)
-    desde = int((agora - timedelta(days=30)).timestamp())
+    desde = int((agora - timedelta(days=JANELA_DIAS)).timestamp())
     ate = int(agora.timestamp())
 
     perfil = get(ig, token, fields="username,name,followers_count,media_count")
@@ -181,6 +192,33 @@ def main():
 
     if not contas:
         raise SystemExit("Nenhuma conta coletada — verifique IG_TOKEN/IG_USER_ID.")
+
+    # Resiliência: se a Meta falhar numa métrica nesta rodada (erro 400 transitório),
+    # mantém o último valor bom da rodada anterior em vez de o dado "sumir" do painel.
+    antigas = {}
+    if SAIDA.exists():
+        try:
+            raw = json.loads(SAIDA.read_text(encoding="utf-8").split("window.INSTA = ", 1)[1].rstrip().rstrip(";"))
+            for c in raw.get("contas", []):
+                antigas[c.get("perfil", {}).get("username", "")] = c
+        except Exception:
+            pass
+    for c in contas:
+        ant = antigas.get(c["perfil"]["username"])
+        if not ant:
+            continue
+        for chave in ("alcance30d", "seguidores30d", "online", "posts"):
+            if not c.get(chave) and ant.get(chave):
+                c[chave] = ant[chave]
+                print(f"[mantido] @{c['perfil']['username']} {chave}: usando última coleta boa")
+        if c.get("visitasPerfil30d") is None and ant.get("visitasPerfil30d") is not None:
+            c["visitasPerfil30d"] = ant["visitasPerfil30d"]
+        if not c.get("demografia") and ant.get("demografia"):
+            c["demografia"] = ant["demografia"]
+        m_ant = ant.get("metricas30d") or {}
+        for k, v in list((c.get("metricas30d") or {}).items()):
+            if v is None and m_ant.get(k) is not None:
+                c["metricas30d"][k] = m_ant[k]
 
     payload = {"atualizadoEm": datetime.now(timezone.utc).isoformat(timespec="seconds"), "contas": contas}
 
