@@ -52,4 +52,4 @@ jobs:
           git config user.email "actions@github.com"
           git add data/instagram.js
           git diff --cached --quiet || git commit -m "chore: instagram $(date -u '+%F %H:%M')"
-          git pull --rebase && git push
+          git pull --rebase -X theirs && git push
