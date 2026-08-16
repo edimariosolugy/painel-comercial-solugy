@@ -558,15 +558,15 @@ renderFunil();
   const contas=(I&&(I.contas||[Object.assign({},I)]))||null; // aceita formato antigo e novo
   if(!I||!contas||!contas.length||!contas[0].perfil){
     alvo.innerHTML=`<div class="panel">
-      <div class="panel-head"><div><div class="panel-title">Instagram — aguardando conexão</div>
-      <div class="panel-sub">Gestão de @solugyoficial e @edimariosolugy · API oficial da Meta · atualização de hora em hora</div></div></div>
+      <div class="panel-head"><div><div class="panel-title">Instagram @edimariosolugy — aguardando a primeira rodada do robô</div>
+      <div class="panel-sub">API oficial da Meta · atualização de hora em hora</div></div></div>
       <div style="font-size:12.5px;color:var(--txt2);line-height:1.7;padding:6px 2px">
-        Para ativar, siga a <b style="color:var(--txt)">Etapa 5 do GUIA-PUBLICACAO.md</b>: gere o token na plataforma
-        Meta for Developers e cadastre os secrets <span class="mono" style="color:var(--orange)">IG_TOKEN</span> e
-        <span class="mono" style="color:var(--orange)">IG_USER_ID</span> no GitHub
-        (e <span class="mono" style="color:var(--orange)">IG_USER_ID2</span> para a segunda conta).
-        Na primeira rodada do robô, esta aba mostra seguidores, alcance diário, visitas ao perfil e engajamento
-        de cada conta, com um seletor para alternar entre elas.
+        Conexão com a Meta configurada. Com os secrets <span class="mono" style="color:var(--orange)">IG_TOKEN</span> e
+        <span class="mono" style="color:var(--orange)">IG_USER_ID</span> cadastrados no GitHub, rode o workflow
+        <b style="color:var(--txt)">"Atualizar Instagram (de hora em hora)"</b> na aba Actions (Run workflow).
+        Na primeira rodada, esta aba mostra seguidores, alcance diário, visitas ao perfil e engajamento dos posts —
+        e depois atualiza sozinha a cada hora. Para somar outra conta no futuro, basta o secret
+        <span class="mono" style="color:var(--orange)">IG_USER_ID2</span>.
       </div></div>`;
     return;
   }
