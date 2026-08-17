@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T19:30:37+00:00",
+  "atualizadoEm": "2026-08-17T20:30:40+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola pede ao Brasil ajuda para deixar de importar alimentos",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHVnLThXc2pBeE4xMTJPTUVpX1VFY09taHR1Skp5NTh4eGI5V2VqU05uYWdrYUw4bWxidXY1TzdHeFBZOWRUQWExV1MzUEJuV1Q5bGZqU0k4MGd4U2xPNm5xU0llYmw4Y2VUM3FNZ0xFSF9uX0ZnZ3ZGSWdmUkV4RFFlMDExSktfRGd6Wm9VUTF4SUh2ZlB6UGtMdVA?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-12"
       },
       {
@@ -72,13 +72,13 @@ window.NEWS = {
       {
         "titulo": "Etanol de milho: Brasil supera EUA em rentabilidade",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHBGT3BJR05hWW9ZTjNIVENCNmkwSW1BbWJuSm10dmZ4WXplSENsYk1GLXh5NFlMVnVtcjhLMUM3a05sYXIwX3h3NzI3TThGMzF2ci1XRVRXRDVycXpWSDlRUTZWd0VjRGFJU1Uya2ZpaUhCN2JhSWl3ODlkeGpmQ0RIeXVscE1XdGdhS25KRnNHbzFQclg1WXpVWXAzdFB1V01zVVhSWEJjTjl0ejJ6MFpB0gGyAUFVX3lxTE5rRkdUQTB2Qnc0M1VlQW9VdWVaVWh2VGkzZXpNRjNpTmxyMkw2Y0dNcnVvSENsV1RnY3B3SEZJX3hxaENtamI0OEpUeVZGSFdxUjZSM3BtMEx0MWp6TFZnYTJFNEdBSWMtRWpfNGptMmduc0o2cHNmcW9VaFBwOXFLbGUzb0w0YVNydWlWME0zUzhYY2l3WXZ0cDJaTWk1WGpCX2Vmb25hY29VU0xDSTFnUHc?oc=5",
-        "fonte": "Campo Grande News",
+        "fonte": "campograndenews.com.br",
         "data": "2026-08-14"
       },
       {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-14"
       }
     ],
@@ -144,12 +144,6 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
-        "fonte": "Senado",
-        "data": "2026-08-10"
-      },
-      {
         "titulo": "Brasil é o país que mais busca por energia solar residencial nas Américas; confira ranking",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EVUx0cl9nMWVTQXdyV05QSWJTWEFnbEVZcGVpZE9obFNuNXlkUXUtb0F5ZHB5WHlmTWNreEJDaWsweVBhSnJrU0g2RXBSTmtCczd3cGxpWW5WLU1fRVhLNTlBZWdkYlBmTjV4R0dueGMwcVplT3dv?oc=5",
         "fonte": "Canal Solar",
@@ -160,6 +154,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVVkS3JlV09QREltNnR0TmRlZnZLM0xIR0l6RDBtZDQ4QktCcTVBa1lBQk5jUjZtV2syNEgxT0l1eUtiSW1nOEI0cDBBa0pzLXV1cW9EXzNHQkNkbTYyR0hEWl9uLWlyNXpwdUx0U2w0OVo5MnFHMFRoaFcyT1dFeHg1SHBVQ0d1UU1ZRmZzWno0ZXBSQ3E3Ng?oc=5",
         "fonte": "Fiis",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "Debate no Plenário aponta gargalos para expansão de energias renováveis",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHFkRlhPTEZQQnlOdUtxQ2pWN1ZWc2Q2TXV2dC15dlI2NGc3VkxpTWJydTJXVFhLRllhTkV6ME82dnFfSDdXWGczTXpqYkt5cEJVTVZDS3c3cTkyOE9IQmNOSUg1X01jLUttSE9CWjh3UEdaa0pNcHZxXzZ4clUtaTFPaU5Wb0FlbU5ndE5oOHVmZTlyaWNqcEt6cmN5VS1tSTlfNy1rN2FEYm90SFNQZWlPZHBsSXhDbnE3b01jRW1ULU8xX0dj?oc=5",
+        "fonte": "Senado",
+        "data": "2026-08-11"
       }
     ],
     "epc": [],
@@ -173,7 +173,7 @@ window.NEWS = {
       {
         "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
-        "fonte": "O GLOBO",
+        "fonte": "oglobo.globo.com",
         "data": "2026-08-17"
       },
       {
@@ -194,7 +194,7 @@ window.NEWS = {
       {
         "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
-        "fonte": "O GLOBO",
+        "fonte": "oglobo.globo.com",
         "data": "2026-08-17"
       },
       {
@@ -280,7 +280,7 @@ window.NEWS = {
       {
         "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-15"
       }
     ],
@@ -295,7 +295,7 @@ window.NEWS = {
       {
         "titulo": "Brasil prepara licitações de mais de R$3 bilhões para projetos de infraestrutura hídrica",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3hmTlo4VFExTFNIVjlERGtqUUtONUluLWsweXpwanJEek9sSEtndUFMTEZhV2lUclU1dVB2QjMtQUJEWXRJVlBIczB4WkY3aEp1OTE3S2laSVR4N1c3SGk0elQybnotQ3liTFdvM20tOUdHbFhIZUlIaUpiN0tCanpXaE9qN05OZW5fcW16ODRGWWR3R194NUJjQ2RoNktGdExUMlROU2l3NlpKZy05N0pUYkVRNlU2SExQTi10RXpnaW9F?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-08-17"
       }
     ],
