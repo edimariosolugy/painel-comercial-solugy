@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T16:30:29+00:00",
+  "atualizadoEm": "2026-08-17T17:29:20+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
-        "fonte": "brasildefato.com.br",
+        "fonte": "Brasil de Fato",
         "data": "2026-08-11"
       },
       {
@@ -98,7 +98,7 @@ window.NEWS = {
       {
         "titulo": "A conclusão 83 abre caminho para a transformação da indústria de materiais de construção.",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX0dId1dKXzVkOGV3S3JzdWZ3Njg0enp4TGpacURNdlhZRENjemJqZ3hrZ21jYTRpbENoRFo5WWJmT0lTVHI1QjJscG5HRjZZWmxMMFM2Z0NBSWUtRE5yd2VyZFJaY1Vrdk5XclU3WmdDVS1jal93cnJFS0k0dDYzMW5yZmwzWjM5?oc=5",
-        "fonte": "Vietnam.vn",
+        "fonte": "vietnam.vn",
         "data": "2026-08-16"
       }
     ],
@@ -110,10 +110,10 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU2VOQVZ6ZWwwVnI1TDlFX09tU2o0c2g4QWVmd1E5WFNHTlNta0g2bGtWQzZsTHUwMEJnRmNtWFlVU0Y5Z1J1Qm16ZzlwcDhjOHdMdzdxcEc4Tjc2OWVobUFvWkxqeW9yX0xneWpqcWQtN1Q2RGRmTy0zTGFRQmVyUTl5SUJ0UTRsLXBVMlZzclYtMTJTSUp4U2FBZWFRYnZQOVBCUUVGR3lRRndwT1N3cHhIRk9iUnhDazhuUl9xZ0wzMU1ybHNOLXQ3SHFxV1lzcTVyX3dlUE9RbE1leTBTUDRNSmdtWnFnWkhyZA?oc=5",
-        "fonte": "Diário Indústria & Comércio",
-        "data": "2026-08-13"
+        "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
+        "fonte": "SuperVarejo",
+        "data": "2026-08-17"
       },
       {
         "titulo": "Guimarães projeta expansão nos canais de varejo e exportações em 2023",
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
-        "fonte": "eixos.com.br",
+        "fonte": "Agência eixos",
         "data": "2026-08-11"
       },
       {
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "mundologistica.com.br",
+        "fonte": "MundoLogística",
         "data": "2026-08-12"
       },
       {
@@ -291,6 +291,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
         "fonte": "XP Investimentos",
         "data": "2026-08-12"
+      },
+      {
+        "titulo": "Brasil prepara licitações de mais de R$3 bilhões para projetos de infraestrutura hídrica",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3hmTlo4VFExTFNIVjlERGtqUUtONUluLWsweXpwanJEek9sSEtndUFMTEZhV2lUclU1dVB2QjMtQUJEWXRJVlBIczB4WkY3aEp1OTE3S2laSVR4N1c3SGk0elQybnotQ3liTFdvM20tOUdHbFhIZUlIaUpiN0tCanpXaE9qN05OZW5fcW16ODRGWWR3R194NUJjQ2RoNktGdExUMlROU2l3NlpKZy05N0pUYkVRNlU2SExQTi10RXpnaW9F?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-08-17"
       }
     ],
     "siderurgia": [
