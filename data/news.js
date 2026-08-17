@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T09:45:14+00:00",
+  "atualizadoEm": "2026-08-17T10:34:47+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "Crise atual do agro pode ser “igual ou maior” que as do passado, diz Aprosoja Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUNoMDFPU0cyZHJzMk1vV3FTQWVNZndTSGdRSzdMQ3BEZFJrcDBublBNSkYxT3lNQ1NHMy0tUWpEQ2dBWllva0E5MkRhT1M0Z0ZhcExPWHFNRm9vcGxqRTVQd0lvSXozQ0FTODdjaWRuMkwxTWh5U0NTZ1dTVHVmVmt3TUJZcmRWcjlQTDZPUmMxcUJrWVFwbDk2d2h0T3BaaWZDS0llX1BxR3BNYkZ2VkFVMA?oc=5",
-        "fonte": "agfeed.com.br",
-        "data": "2026-08-10"
-      },
-      {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
+        "fonte": "bloomberglinea.com.br",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "Crise atual do agro pode ser “igual ou maior” que as do passado, diz Aprosoja Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUNoMDFPU0cyZHJzMk1vV3FTQWVNZndTSGdRSzdMQ3BEZFJrcDBublBNSkYxT3lNQ1NHMy0tUWpEQ2dBWllva0E5MkRhT1M0Z0ZhcExPWHFNRm9vcGxqRTVQd0lvSXozQ0FTODdjaWRuMkwxTWh5U0NTZ1dTVHVmVmt3TUJZcmRWcjlQTDZPUmMxcUJrWVFwbDk2d2h0T3BaaWZDS0llX1BxR3BNYkZ2VkFVMA?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-08-10"
       }
     ],
     "alimentos-bebidas": [
@@ -106,20 +106,20 @@ window.NEWS = {
       {
         "titulo": "Com FedEx fora da rota e Correios em crise, DHL \"entrega\" R$ 270 milhões em investimentos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTVpTkJuYlZfRFh5LVFEN1lwRHFlV3pncXpJeHNEQi1yRlFSMXBVbWJ0Mkg2MG9QaE91TnFJdk45aWI4RGthY2Y1NFBjLWF5cDZHYk9peHljR2c0bGsySDhEbUZJRXNVZ3pJVHo2dkFnTl85bHktWFU4MURLMDV4cXB4M2prUk1ZQXh2ZEJmLXN3eVlUeWw2MkZyY29WcHh0T0JkaU8wVE1iUVRFcFVOcDFkcm81dHM2NkpPNjJHZzRoN3lGN1U4?oc=5",
-        "fonte": "neofeed.com.br",
+        "fonte": "NeoFeed",
         "data": "2026-08-13"
-      },
-      {
-        "titulo": "ICL, de fertilizantes, investe R$ 90 milhões no ano e abre novo centro logístico em Goiás",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUW9nM1o0VjR4U1JLeVFrZkxCZXRNZDBfNXdfN1JmYlJSTF9JOHRESk9Ra0toZFlQc1pJcGpXdXMyaHpoYVRCSGs0MHdWUjdkMnBZcDM0d1hxcUc5Q1cwREVGS3lWa0EtTlQ4bW9mUi1NQ2NneGdwMG1lMjYzdmp6d2YtbjFzWXVfSGlVZHdJbWNaNUJVVG1Jd0pIOEwzNVFUakhQdWZiR2lBTUhfTS1hMF96WHZrSWdjYkE?oc=5",
-        "fonte": "agfeed.com.br",
-        "data": "2026-08-10"
       },
       {
         "titulo": "Guimarães projeta expansão nos canais de varejo e exportações em 2023",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXk5cy1TbzA0Z0R3MXV5eXExcFNVMWtWLTUzcjlpanpkVF9YUTJBdnlyV05sdi1pQUxjeUphUXBOVmlOb0lHTHJDMG9sY0tQb2YzdkE3c056Xy1XZk4zTWkwZHRYaFVVWmFnd0EzZDY2cDFtRHhJbG9WelB4bExVT2tjcVUtR0d3MzRvWEMxTTlHNHNHOVhhckhwanFEbURKcU41NUU2RmZWUTdFZzBEMXNWQQ?oc=5",
         "fonte": "noticenter.com.br",
         "data": "2026-08-12"
+      },
+      {
+        "titulo": "ICL investe R$ 90 milhões e abre novo centro de distribuição em Goiás",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVdJX0JxSjZQTmtVSUZlU3lLUUlUcVU4TUk2a3pRYVltQlZ2c3dnSGJldHN6RzNiSTdGYkZWMjVyNEVfQVlZcGE5aVliNDl4eVlZdUpCN3pWUnJmNFlYcFIyd19kU05CdWp2TlAxVjA4QzFyMkJpT0RXZTI0em93UzA1V2JwRkRtVmRFSkpqQV9xcEF0eHItT0w2c0NpYjVmMDFFQTRkM1ZaRXhJYXZoZHc4U3M0Zw?oc=5",
+        "fonte": "bra1.com.br",
+        "data": "2026-08-10"
       }
     ],
     "energia-gt": [
@@ -152,7 +152,7 @@ window.NEWS = {
       {
         "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
-        "fonte": "Senado",
+        "fonte": "senado.leg.br",
         "data": "2026-08-10"
       },
       {
@@ -268,7 +268,7 @@ window.NEWS = {
       {
         "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
-        "fonte": "InfoMoney",
+        "fonte": "infomoney.com.br",
         "data": "2026-08-13"
       },
       {
@@ -289,7 +289,7 @@ window.NEWS = {
       {
         "titulo": "Brasil conta com 23 projetos de saneamento em estruturação, totalizando pipeline de pelo menos R$ 30,4 bi",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYWVMa0V6UHRBeHYtYXhsbTVvX1EtOXF2YlJ6YUtETDlTZ2NSU3NsRURwUzM2RWZ1R3ZRT1JkQkh5bEl6TlpwUDhfQmkzODl2ckpoZnVheW11akVHWVR2Y0dHZUhuSVJ5T1RXZmlyazZuVUpJUkdWVmJ4d3pnYlFsOU11blp0ak9FMzdlOU51WENCVjU0VFVvTlBvNDZ0WUtkcERNaHZ5UjBFWmtybk8yYWw2Z3NfMVJWVFkwQlIwSVNCRVVmMHBiZDQxUTVCZlM3TDRzaVd6WQ?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-08-10"
       },
       {
