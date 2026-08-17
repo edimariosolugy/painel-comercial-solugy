@@ -1,9 +1,47 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T18:43:48+00:00",
+  "atualizadoEm": "2026-08-17T19:30:37+00:00",
   "itens": {
-    "agronegocio": [],
-    "alimentos-bebidas": [],
+    "agronegocio": [
+      {
+        "titulo": "Angola pede ao Brasil ajuda para deixar de importar alimentos",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHVnLThXc2pBeE4xMTJPTUVpX1VFY09taHR1Skp5NTh4eGI5V2VqU05uYWdrYUw4bWxidXY1TzdHeFBZOWRUQWExV1MzUEJuV1Q5bGZqU0k4MGd4U2xPNm5xU0llYmw4Y2VUM3FNZ0xFSF9uX0ZnZ3ZGSWdmUkV4RFFlMDExSktfRGd6Wm9VUTF4SUh2ZlB6UGtMdVA?oc=5",
+        "fonte": "cnnbrasil.com.br",
+        "data": "2026-08-12"
+      },
+      {
+        "titulo": "Crise atual do agro pode ser “igual ou maior” que as do passado, diz Aprosoja Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUNoMDFPU0cyZHJzMk1vV3FTQWVNZndTSGdRSzdMQ3BEZFJrcDBublBNSkYxT3lNQ1NHMy0tUWpEQ2dBWllva0E5MkRhT1M0Z0ZhcExPWHFNRm9vcGxqRTVQd0lvSXozQ0FTODdjaWRuMkwxTWh5U0NTZ1dTVHVmVmt3TUJZcmRWcjlQTDZPUmMxcUJrWVFwbDk2d2h0T3BaaWZDS0llX1BxR3BNYkZ2VkFVMA?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-08-10"
+      },
+      {
+        "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
+        "fonte": "Bloomberg Línea Brasil",
+        "data": "2026-08-13"
+      }
+    ],
+    "alimentos-bebidas": [
+      {
+        "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
+        "fonte": "Brasil de Fato",
+        "data": "2026-08-11"
+      },
+      {
+        "titulo": "Brasil Sensorial Summit 2026 reúne especialistas para impulsionar indústria de alimentos e bebidas",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3VyZ3M1UEZBUmNsNXhwd3BWLUlTNUFrVnlrUV83Znh0dGhqNmNHQlNfb29hQWdzWFFZbkdmYWctOHBxNXFucDU3LTRTekFtS1pqb01yM2Y1eUdvc2RaNk0wakRhSEZwYzBnYVVrcHcyNHhYd1N0dVh0ODFSTG83V2pBeHhzSW5idHFHRVR3U29OUmNzNk9fLWZUOFdzWk5CNFUyUG5TbzNuTVJ6TmZkRFdTck9FdVZwWERZMEFWVV9iRFJJRUJraA?oc=5",
+        "fonte": "Brasil Inovador",
+        "data": "2026-08-16"
+      },
+      {
+        "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
+        "fonte": "Times Brasil | CNBC",
+        "data": "2026-08-13"
+      }
+    ],
     "automotivo": [
       {
         "titulo": "Avanço das montadoras chinesas reconfigura o mercado de financiamento automotivo no Brasil",
@@ -40,7 +78,7 @@ window.NEWS = {
       {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-14"
       }
     ],
@@ -135,7 +173,7 @@ window.NEWS = {
       {
         "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
-        "fonte": "oglobo.globo.com",
+        "fonte": "O GLOBO",
         "data": "2026-08-17"
       },
       {
@@ -156,7 +194,7 @@ window.NEWS = {
       {
         "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
-        "fonte": "oglobo.globo.com",
+        "fonte": "O GLOBO",
         "data": "2026-08-17"
       },
       {
@@ -190,7 +228,7 @@ window.NEWS = {
       {
         "titulo": "Trans Obra apresenta modelo Plus para mercados competitivos",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1k4XzFDTmxGSnJoRWMtemdNbEVnNlF0U2wtVUk0anFFS3YzUklkdWxTckJhSW1EZ0xDRjExd3lCOEp2WG02WnNrVGVIbF9IaVNhVzBCbEYxOHJtRHhXN2RLLWw3aTl6c2w1TjJDbjVzcU9DX0czdmpzeTE5SlFueENvUFhqdGN2MkxiQjZodFM2WDdseWxLZEJQYktKUkFZcy1Zd2pNdUpKOHVZeWJYWmoycjlfUlBoSzVMLXAtU0pkM1VDMUJoTnAxZGw2bEZmQ2F3Q9IB1AFBVV95cUxPZ1k4XzFDTmxGSnJoRWMtemdNbEVnNlF0U2wtVUk0anFFS3YzUklkdWxTckJhSW1EZ0xDRjExd3lCOEp2WG02WnNrVGVIbF9IaVNhVzBCbEYxOHJtRHhXN2RLLWw3aTl6c2w1TjJDbjVzcU9DX0czdmpzeTE5SlFueENvUFhqdGN2MkxiQjZodFM2WDdseWxLZEJQYktKUkFZcy1Zd2pNdUpKOHVZeWJYWmoycjlfUlBoSzVMLXAtU0pkM1VDMUJoTnAxZGw2bEZmQ2F3Qw?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-17"
       },
       {
@@ -222,7 +260,7 @@ window.NEWS = {
       {
         "titulo": "Câmara França-Brasil cria comissão para aproveitar oportunidades em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkpzM2d2Z1NRNDBkSnNnY2pSU1k5bzBBTTVYeVBndUQ0cUZMVVVhSEVLeDUzYTM0b1g0Ql9TNGZuLVV6SGpxZ3ItWkNnZlNxSzNHbUhVOW1laEVJTFNEdENPQURhUGFhZEJOZ2RGUjZtR0ZxaGp2blRQeG9yUU9xOFZwc0N5QUZaQ1hKZ0IwekNVRFFIN24wRFNDZ0pkYk96VTBHeGtzRGNMbkJ1Z3RnbkZaZHM1Zk9waEdwaEZocUVBZS1fVjJXS0txU05BQi01WWFFUjFGVy3SAecBQVVfeXFMTnQxUnA4TzgxWW9VMVVhLVBDOFlQVzFlVXVVcktqMUtWbHRmVWxJRldkcDdBcF83di1VbDBHTlNuMS01ZzJDVXRma1hxN05xVjJwZ3hSN1M2Y3ZpelNiNTFsOF83cUJ6ZU1WZmdxWkdfTFVhOThwS2wxa3dXYjNtc3J1dDUzUDE2ZHVPVkdWc3k5SHhtT2J4ZGQ1WEdaajNVd3NGS0xhZlVBSUEyTTh4c2lEajlGOXo2c1pIWkt4VWFmYjhCNW95WEN0QXFxNFgtRDkySXQ4NU9DaFNzTGhYQktOWFdLTHhz?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-15"
       }
     ],
@@ -242,7 +280,7 @@ window.NEWS = {
       {
         "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-15"
       }
     ],
