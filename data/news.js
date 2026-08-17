@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T15:28:06+00:00",
+  "atualizadoEm": "2026-08-17T16:30:29+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
-        "fonte": "Brasil de Fato",
+        "fonte": "brasildefato.com.br",
         "data": "2026-08-11"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
-        "fonte": "Agência eixos",
+        "fonte": "eixos.com.br",
         "data": "2026-08-11"
       },
       {
@@ -177,10 +177,10 @@ window.NEWS = {
         "data": "2026-08-10"
       },
       {
-        "titulo": "Conheça os tipos de repelentes para se proteger dos mosquitos (Dengue)",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFBqd2JZcHJwbEZLcno2dTBQZFNqRkZRQlItajZ2YnRYU1ZnSFpTa3hoUGVrSXN6MHVQM0NUSC0zcFJpQ1kyckZYWlFVWGlEanllcXRMcDBnVkhUc3ZIS1VSOXE4QjVZbkgyZFJUajV4QnZ3aEp5UHA3dThaWnBQSWQ1U2JXSWFxOUdLRnRjZExKSWE2SjVybTdmQnZpbEJvbGd2U2FVS3g4alcwTWxDTkhoTjQyR3VrbktRazV6bmJwaEpTdmJYTmVHUFJFVHFG?oc=5",
-        "fonte": "PFARMA.com.br",
-        "data": "2026-08-14"
+        "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-17"
       }
     ],
     "fertilizantes": [],
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "MundoLogística",
+        "fonte": "mundologistica.com.br",
         "data": "2026-08-12"
       },
       {
@@ -226,10 +226,10 @@ window.NEWS = {
     ],
     "maquinas": [
       {
-        "titulo": "Trans Obra apresenta opções de entrada para empreendedores",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTBmRkFVSWVVRGx4Ym1PS2VIWGJadUdQbmZTSUdiLVVSdm5SMjA2UWRaN0RYRUdBeldkWHRNV3J4eTlWU1RQbDktNzJBVEI3TVRRQ2t5c1JpU2NtY3lqM0hjVDcycGU1bUVyOFVDcHZDMVpETTc4MHpJaVR5Mll4X0pwaWhZSl9HdnF3YTlGTzhuamNWZnc?oc=5",
-        "fonte": "REDE BRASIL DE TELEVISÃO",
-        "data": "2026-08-10"
+        "titulo": "Trans Obra apresenta modelo Plus para mercados competitivos",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1k4XzFDTmxGSnJoRWMtemdNbEVnNlF0U2wtVUk0anFFS3YzUklkdWxTckJhSW1EZ0xDRjExd3lCOEp2WG02WnNrVGVIbF9IaVNhVzBCbEYxOHJtRHhXN2RLLWw3aTl6c2w1TjJDbjVzcU9DX0czdmpzeTE5SlFueENvUFhqdGN2MkxiQjZodFM2WDdseWxLZEJQYktKUkFZcy1Zd2pNdUpKOHVZeWJYWmoycjlfUlBoSzVMLXAtU0pkM1VDMUJoTnAxZGw2bEZmQ2F3Q9IB1AFBVV95cUxPZ1k4XzFDTmxGSnJoRWMtemdNbEVnNlF0U2wtVUk0anFFS3YzUklkdWxTckJhSW1EZ0xDRjExd3lCOEp2WG02WnNrVGVIbF9IaVNhVzBCbEYxOHJtRHhXN2RLLWw3aTl6c2w1TjJDbjVzcU9DX0czdmpzeTE5SlFueENvUFhqdGN2MkxiQjZodFM2WDdseWxLZEJQYktKUkFZcy1Zd2pNdUpKOHVZeWJYWmoycjlfUlBoSzVMLXAtU0pkM1VDMUJoTnAxZGw2bEZmQ2F3Qw?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-17"
       },
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
@@ -278,10 +278,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-12"
+        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-15"
       }
     ],
     "quimica": [],
@@ -297,7 +297,7 @@ window.NEWS = {
       {
         "titulo": "Incentivos ao aço somam R$ 14,6 bi e ampliam pressão ambiental",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWdoRDlGbVFUMXM3VHhGRWhUYXJkMGFsNXFXS0Jic3NXeldMby02MjVEQmc3QXYtX0EteXhJME1lTmc0dFN6aC00ajJ1blR5a1FydGhnenhLYkFqbThaOV9FS0tSZnFMb0pNWkFSSUZ3cEdodTNrTmRCYkt3eDRnenBTOVhQczY0MmNHY0U1NTVFQnNkRmFZ?oc=5",
-        "fonte": "revistaamazonia.com.br",
+        "fonte": "Revista Amazônia",
         "data": "2026-08-12"
       }
     ],
