@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T22:28:20+00:00",
+  "atualizadoEm": "2026-08-17T23:25:53+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola pede ao Brasil ajuda para deixar de importar alimentos",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHVnLThXc2pBeE4xMTJPTUVpX1VFY09taHR1Skp5NTh4eGI5V2VqU05uYWdrYUw4bWxidXY1TzdHeFBZOWRUQWExV1MzUEJuV1Q5bGZqU0k4MGd4U2xPNm5xU0llYmw4Y2VUM3FNZ0xFSF9uX0ZnZ3ZGSWdmUkV4RFFlMDExSktfRGd6Wm9VUTF4SUh2ZlB6UGtMdVA?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-12"
       },
       {
@@ -72,13 +72,13 @@ window.NEWS = {
       {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-14"
       },
       {
         "titulo": "JornalCana 360: Etanol de milho, mobilidade híbrida e eficiência industrial",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
-        "fonte": "jornalcana.com.br",
+        "fonte": "JornalCana",
         "data": "2026-08-13"
       }
     ],
@@ -86,7 +86,7 @@ window.NEWS = {
       {
         "titulo": "Cimento Apodi destaca inovação na ExpoConstruir 2026",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnVPamFYN3plaTRXWnk5T2hpa2I1dzRSdnViNFI2b2lOVWFLMG0yMUhrUVloM1RvNGdiR1RCRS1IbS1Ic1o3ekhaQVVXNHp6dGttcFlVSGxPZVhjTXdaVDBGTXVBOG1fdzVEUW5WUVc2TWtmQUtLVzVROXM3blUybU53elMyYjEwa0VOemFCdTBvQnFod1F4bng1eDItV1J4VUkzUFh0OVJfRXhRa3I0SDl3?oc=5",
-        "fonte": "portalterradaluz.com.br",
+        "fonte": "Portal Terra da Luz",
         "data": "2026-08-13"
       },
       {
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-14"
       },
       {
@@ -214,7 +214,7 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
-        "fonte": "ES Brasil",
+        "fonte": "esbrasil.com.br",
         "data": "2026-08-12"
       },
       {
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-14"
       },
       {
@@ -274,13 +274,13 @@ window.NEWS = {
       {
         "titulo": "Eneva já se prepara para chamada de duas usinas no LRCap após revés da EPP | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-14"
       },
       {
         "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-15"
       }
     ],
@@ -289,13 +289,13 @@ window.NEWS = {
       {
         "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-12"
       },
       {
         "titulo": "Brasil prepara licitações de mais de R$3 bilhões para projetos de infraestrutura hídrica",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3hmTlo4VFExTFNIVjlERGtqUUtONUluLWsweXpwanJEek9sSEtndUFMTEZhV2lUclU1dVB2QjMtQUJEWXRJVlBIczB4WkY3aEp1OTE3S2laSVR4N1c3SGk0elQybnotQ3liTFdvM20tOUdHbFhIZUlIaUpiN0tCanpXaE9qN05OZW5fcW16ODRGWWR3R194NUJjQ2RoNktGdExUMlROU2l3NlpKZy05N0pUYkVRNlU2SExQTi10RXpnaW9F?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-08-17"
       }
     ],
