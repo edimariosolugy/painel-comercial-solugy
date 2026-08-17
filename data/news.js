@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T10:34:47+00:00",
+  "atualizadoEm": "2026-08-17T11:29:30+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
-        "fonte": "bloomberglinea.com.br",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "Crise atual do agro pode ser “igual ou maior” que as do passado, diz Aprosoja Brasil",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUUNoMDFPU0cyZHJzMk1vV3FTQWVNZndTSGdRSzdMQ3BEZFJrcDBublBNSkYxT3lNQ1NHMy0tUWpEQ2dBWllva0E5MkRhT1M0Z0ZhcExPWHFNRm9vcGxqRTVQd0lvSXozQ0FTODdjaWRuMkwxTWh5U0NTZ1dTVHVmVmt3TUJZcmRWcjlQTDZPUmMxcUJrWVFwbDk2d2h0T3BaaWZDS0llX1BxR3BNYkZ2VkFVMA?oc=5",
         "fonte": "AgFeed",
         "data": "2026-08-10"
+      },
+      {
+        "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
+        "fonte": "Bloomberg Línea Brasil",
+        "data": "2026-08-13"
       }
     ],
     "alimentos-bebidas": [
@@ -58,7 +58,7 @@ window.NEWS = {
       {
         "titulo": "Montadoras chinesas ocupam fábricas de rivais e produzem carros no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXNPLVJpM0lXUlEzNThQSUIzQUJwdENZdWRWYkhVNldCVng2MzNMcmk0b2ZtaS1ma2IzNHQtQmtsdExudEZsOXU0dWhoMlk1bldFc1BsUFNxWmtDLVRzWTdaR3RiVGJtcmZhYTFNTDRUeDdZNDllZHh3OE92STIzLVg0YXdzYWl3R29fem5DWU1rS3daX3pFaEZEU0xNUjVFaDRrZVdzUTV3Skk3N3RMZTNQcUM1OUt5bUJ2dGhiNjJPMUnSAcMBQVVfeXFMUDlzTy1SaTNJV1JRMzU4UElCM0FCcHRDWXVkVmJIVTZXQlZ4NjMzTHJpNG9mbWktZmtiMzR0LUJrbHRMbnRGbDl1NHVoaDJZNW5XRXNQbFBTcVprQy1Uc1k3Wkd0YlRibXJmYWExTUw0VHg3WTQ5ZWR4dzhPdkkyMy1YNGF3c2Fpd0dvX3puQ1lNa0t3Wl96RWhGRFNMTVI1RWg0a2VXc1E1d0pJNzd0TGUzUHFDNTlLeW1CdnRoYjYyTzFJ?oc=5",
-        "fonte": "Tribuna do Paraná",
+        "fonte": "tribunapr.com.br",
         "data": "2026-08-16"
       }
     ],
@@ -116,17 +116,17 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "ICL investe R$ 90 milhões e abre novo centro de distribuição em Goiás",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONVdJX0JxSjZQTmtVSUZlU3lLUUlUcVU4TUk2a3pRYVltQlZ2c3dnSGJldHN6RzNiSTdGYkZWMjVyNEVfQVlZcGE5aVliNDl4eVlZdUpCN3pWUnJmNFlYcFIyd19kU05CdWp2TlAxVjA4QzFyMkJpT0RXZTI0em93UzA1V2JwRkRtVmRFSkpqQV9xcEF0eHItT0w2c0NpYjVmMDFFQTRkM1ZaRXhJYXZoZHc4U3M0Zw?oc=5",
-        "fonte": "bra1.com.br",
-        "data": "2026-08-10"
+        "titulo": "H&M confirma abertura de quatro novas lojas no Brasil com foco no Nordeste",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45dVRGRzhkeWhldWl4dXBMeUttOERtWllqOFJqVzZ2MlJXWHdSbmxESXZkOEZkbXNPeFUxTnRyZVFnQ0ZCclYzQjVZMUZzRG9OakhaZnpIVGlxMVpMeUgzeWlZNGk5WS1QY1RUc1FNUW5jUEhPaVljREZ5elhtdw?oc=5",
+        "fonte": "Portal N1N",
+        "data": "2026-08-13"
       }
     ],
     "energia-gt": [
       {
         "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
-        "fonte": "Agência eixos",
+        "fonte": "eixos.com.br",
         "data": "2026-08-11"
       },
       {
@@ -198,10 +198,10 @@ window.NEWS = {
         "data": "2026-08-15"
       },
       {
-        "titulo": "LG inaugura fábrica de R$ 1,5 bilhão no Paraná com capacidade para produzir 600 mil geladeiras por ano",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRlB6QUhyam5SZW9PV2hyVFBqM2djakU5by1sZ1dqdVBzSFZLalo4RlhaZy1VZ3p4ZEJNYkV5cEpXQl95LTJkUjJMbnlxMTFXR1c0d1k5UUhFcWRnVU0xbTZqa3lucER3S1FLbm1TQUxLOWJKN0xmY0pDOXU3N0tvVHE1N1ZrQ1FuM1RGc2lTYkFSeUxqR1Q0bGtoWVljY2ZtX2ZOTWplUlJ5SndvZTdreTNfOUM1dkt2Wi13NXRPZjRaM0hrTzk5bmhxZkItMm9oTEwzckhnVVZjQU8tck9JN196M2hxcGREclE?oc=5",
-        "fonte": "Marcas pelo Mundo",
-        "data": "2026-08-15"
+        "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-17"
       }
     ],
     "logistica": [
@@ -268,7 +268,7 @@ window.NEWS = {
       {
         "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
-        "fonte": "infomoney.com.br",
+        "fonte": "InfoMoney",
         "data": "2026-08-13"
       },
       {
@@ -286,12 +286,6 @@ window.NEWS = {
     ],
     "quimica": [],
     "saneamento": [
-      {
-        "titulo": "Brasil conta com 23 projetos de saneamento em estruturação, totalizando pipeline de pelo menos R$ 30,4 bi",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYWVMa0V6UHRBeHYtYXhsbTVvX1EtOXF2YlJ6YUtETDlTZ2NSU3NsRURwUzM2RWZ1R3ZRT1JkQkh5bEl6TlpwUDhfQmkzODl2ckpoZnVheW11akVHWVR2Y0dHZUhuSVJ5T1RXZmlyazZuVUpJUkdWVmJ4d3pnYlFsOU11blp0ak9FMzdlOU51WENCVjU0VFVvTlBvNDZ0WUtkcERNaHZ5UjBFWmtybk8yYWw2Z3NfMVJWVFkwQlIwSVNCRVVmMHBiZDQxUTVCZlM3TDRzaVd6WQ?oc=5",
-        "fonte": "bnamericas.com",
-        "data": "2026-08-10"
-      },
       {
         "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
