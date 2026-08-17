@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T13:41:51+00:00",
+  "atualizadoEm": "2026-08-17T14:31:34+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -18,17 +18,11 @@ window.NEWS = {
       {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
-        "fonte": "bloomberglinea.com.br",
+        "fonte": "Bloomberg Línea Brasil",
         "data": "2026-08-13"
       }
     ],
     "alimentos-bebidas": [
-      {
-        "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
-        "fonte": "Times Brasil | CNBC",
-        "data": "2026-08-13"
-      },
       {
         "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
@@ -40,6 +34,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3VyZ3M1UEZBUmNsNXhwd3BWLUlTNUFrVnlrUV83Znh0dGhqNmNHQlNfb29hQWdzWFFZbkdmYWctOHBxNXFucDU3LTRTekFtS1pqb01yM2Y1eUdvc2RaNk0wakRhSEZwYzBnYVVrcHcyNHhYd1N0dVh0ODFSTG83V2pBeHhzSW5idHFHRVR3U29OUmNzNk9fLWZUOFdzWk5CNFUyUG5TbzNuTVJ6TmZkRFdTck9FdVZwWERZMEFWVV9iRFJJRUJraA?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-08-16"
+      },
+      {
+        "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
+        "fonte": "Times Brasil | CNBC",
+        "data": "2026-08-13"
       }
     ],
     "automotivo": [
@@ -110,16 +110,16 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
+        "titulo": "Corrida do e-commerce por novos galpões impulsiona demanda por tecnologias ESG na infraestrutura logística",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOU2VOQVZ6ZWwwVnI1TDlFX09tU2o0c2g4QWVmd1E5WFNHTlNta0g2bGtWQzZsTHUwMEJnRmNtWFlVU0Y5Z1J1Qm16ZzlwcDhjOHdMdzdxcEc4Tjc2OWVobUFvWkxqeW9yX0xneWpqcWQtN1Q2RGRmTy0zTGFRQmVyUTl5SUJ0UTRsLXBVMlZzclYtMTJTSUp4U2FBZWFRYnZQOVBCUUVGR3lRRndwT1N3cHhIRk9iUnhDazhuUl9xZ0wzMU1ybHNOLXQ3SHFxV1lzcTVyX3dlUE9RbE1leTBTUDRNSmdtWnFnWkhyZA?oc=5",
+        "fonte": "Diário Indústria & Comércio",
+        "data": "2026-08-13"
+      },
+      {
         "titulo": "Guimarães projeta expansão nos canais de varejo e exportações em 2023",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXk5cy1TbzA0Z0R3MXV5eXExcFNVMWtWLTUzcjlpanpkVF9YUTJBdnlyV05sdi1pQUxjeUphUXBOVmlOb0lHTHJDMG9sY0tQb2YzdkE3c056Xy1XZk4zTWkwZHRYaFVVWmFnd0EzZDY2cDFtRHhJbG9WelB4bExVT2tjcVUtR0d3MzRvWEMxTTlHNHNHOVhhckhwanFEbURKcU41NUU2RmZWUTdFZzBEMXNWQQ?oc=5",
         "fonte": "noticenter.com.br",
         "data": "2026-08-12"
-      },
-      {
-        "titulo": "H&M confirma abertura de quatro novas lojas no Brasil com foco no Nordeste",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45dVRGRzhkeWhldWl4dXBMeUttOERtWllqOFJqVzZ2MlJXWHdSbmxESXZkOEZkbXNPeFUxTnRyZVFnQ0ZCclYzQjVZMUZzRG9OakhaZnpIVGlxMVpMeUgzeWlZNGk5WS1QY1RUc1FNUW5jUEhPaVljREZ5elhtdw?oc=5",
-        "fonte": "Portal N1N",
-        "data": "2026-08-13"
       }
     ],
     "energia-gt": [
@@ -152,7 +152,7 @@ window.NEWS = {
       {
         "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
-        "fonte": "Senado",
+        "fonte": "senado.leg.br",
         "data": "2026-08-10"
       },
       {
@@ -220,7 +220,7 @@ window.NEWS = {
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "Alagoas Alerta",
+        "fonte": "alagoasalerta.com.br",
         "data": "2026-08-14"
       }
     ],
@@ -232,16 +232,16 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
+        "titulo": "Trans Obra apresenta modelo Plus para mercados competitivos",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGhOclpWanVQTlUxdWZPdXVldUNJRExGa3NXbmUxVExVRWpGcXpWa2hRNHBTSlJ5eGZVMHUzdjRMVHNMQ0s2ZUJrZXdNQS1WMHJUOHFfcFQ5eWM2OU1zdW1rVml2M25SRHhoUlVfWEhueEdLQlI5Y2NTQmtQMnJRVk9IbEl3YmhaTHBZLXlBMWNYSk5jeklUWmhFRkNZV19QaDJKMA?oc=5",
+        "fonte": "Portal Comunique-se",
+        "data": "2026-08-17"
+      },
+      {
         "titulo": "Após dez anos sem campanha institucional, Algar volta a investir",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXpOQW1PSkl1U1RMY2tWMkJLZGJFbUh1ZVhiQ1ZEaUlMV0FYRTNFbFgybVdLUjhndmNKcHd2NExKclNDa012Zk53c0JWRG1hLWZxSGs4Z1hMekRnUy1wVGFTSmU5NFkyVTU2UDN5bW80OENjVmEzNFN0YkIxZ0hEV3lPakxqWUZGVFpJQnJyTlVsbTVXR1pTaml5ZWNkS3FWb2dUaENNR1hxUS1Jemd6R2MzZkgxWVkzX3Jxdl9WU0liSVFhaEYwVDhoTdIB2gFBVV95cUxQcUpCazFYbzZfWTd4aGY1M3lTTzNNc2FLS1BnM19oS0ViVkcyMlhJTG9wbTJpZWxEOGdHR3RRWHFpX2NFVHcyV0xQRk1EUzVDbkZNbjl0S1luZUt0TkNPRDNqNW1nd0FFTlh4QlBUMTgzd1FkOTRWRUx3Zy00M0hPR3g2MHFodFhzY21EbjBWQy1VUGVqTHItbENqUllXT3dxdnUzMjZSWnJkNEx0dUtqX3gxeGdTemlCLV9NQXo5LXI3OFNGUE5Zdko4QWJMX2FyZ3h3ZVloNEQxdw?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-11"
-      },
-      {
-        "titulo": "Cazaquistão acelera produção de máquinas agrícolas com expansão dos investimentos internacionais",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVFmS1NXNldBZnAxTG9HZ1BLSkZ5Y0Q5S3kta291bnhvRS12WjA0Rlc3a2tJN005OG9GVG96YkptQnNLOFFkSm41UXdfNl9mTG1FY1VtZUJScGdKSU9VU2JVM1dfYW9PMDBPSmlSTzNFOGV0cjFCVm5EZm1hc2FickZPR0ZJZjZTVDBsV0pYODVPRWpxUVk1LWRsR2o5VW9xQkFoMU81SWlkOWdRVE54X2JaVWVKaUNRRU91NkZn?oc=5",
-        "fonte": "maquinac.com",
-        "data": "2026-08-15"
       }
     ],
     "mineracao": [
