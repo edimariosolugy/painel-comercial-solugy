@@ -1,11 +1,11 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T14:31:34+00:00",
+  "atualizadoEm": "2026-08-17T15:28:06+00:00",
   "itens": {
     "agronegocio": [
       {
-        "titulo": "Angola é nova fronteira para a expansão do agronegócio brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdWdSLW5ydVJXUGFpMmZmOEx4Qm1ITTJJRC0xOE1ybm5hZFhzWWZ1ZDVfMnhnbG5zWF9wLUJuZGQ1QnVaR3RPYXZ3UkdzQm10S0JqS0ROdXJWaXhRUWI1cFA2c0FVY1g4Y05pMUw4UXZLS2VWMkVCQWVQdWpDRHR6SzhiZ2RwR2FlNmxUV0FaUW5OVGtEaXZ2aVgzaEtZbWpqdkE?oc=5",
+        "titulo": "Angola pede ao Brasil ajuda para deixar de importar alimentos",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHVnLThXc2pBeE4xMTJPTUVpX1VFY09taHR1Skp5NTh4eGI5V2VqU05uYWdrYUw4bWxidXY1TzdHeFBZOWRUQWExV1MzUEJuV1Q5bGZqU0k4MGd4U2xPNm5xU0llYmw4Y2VUM3FNZ0xFSF9uX0ZnZ3ZGSWdmUkV4RFFlMDExSktfRGd6Wm9VUTF4SUh2ZlB6UGtMdVA?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-08-12"
       },
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
-        "fonte": "brasildefato.com.br",
+        "fonte": "Brasil de Fato",
         "data": "2026-08-11"
       },
       {
@@ -86,7 +86,7 @@ window.NEWS = {
       {
         "titulo": "Cimento Apodi destaca inovação na ExpoConstruir 2026",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnVPamFYN3plaTRXWnk5T2hpa2I1dzRSdnViNFI2b2lOVWFLMG0yMUhrUVloM1RvNGdiR1RCRS1IbS1Ic1o3ekhaQVVXNHp6dGttcFlVSGxPZVhjTXdaVDBGTXVBOG1fdzVEUW5WUVc2TWtmQUtLVzVROXM3blUybU53elMyYjEwa0VOemFCdTBvQnFod1F4bng1eDItV1J4VUkzUFh0OVJfRXhRa3I0SDl3?oc=5",
-        "fonte": "Portal Terra da Luz",
+        "fonte": "portalterradaluz.com.br",
         "data": "2026-08-13"
       },
       {
@@ -144,16 +144,16 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "Itaipu destina R$ 5,2 milhões para usina solar em universidade de MS",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE8zdktKMGpIWUxLX1Ayc0ZYVWlrczVFelA1djNEYTN5M2xyWW5kQmFlS2NzalVfeFFGdmhJcm9feGk1MG1EMF9odFZVUTFFSkp1dFY3VzNuVkRDWnpqaEw1ckxmUHU1Y21TVnhZV3BR?oc=5",
-        "fonte": "Canal Solar",
+        "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
+        "fonte": "Senado",
         "data": "2026-08-10"
       },
       {
-        "titulo": "Produção de energias renováveis no Brasil será discutida em Plenário",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWTNDUmVPSUlUOHlwSWc3aVJnOUh4enJ2U3dOSGROMERJUHdqNEtURFl4SVRuNDd1MlNPWGgzYjNCTFhfeWtuZEpoeU9aRHQyMC1xZVFIR2txWkJvVXY3WEM3UkYwN1JnZTN6U3dqZ3JyNE96RHZfa25iV1lEMV9IbHM1VHFrbUpPSG4zRkE4THVMZFVVcXh1UE9ZeEh5ZzlkdjBObHV3VTBBVnZMbXhwOXZGdmhZc3pTQnpwSFMwUmw?oc=5",
-        "fonte": "senado.leg.br",
-        "data": "2026-08-10"
+        "titulo": "Brasil é o país que mais busca por energia solar residencial nas Américas; confira ranking",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EVUx0cl9nMWVTQXdyV05QSWJTWEFnbEVZcGVpZE9obFNuNXlkUXUtb0F5ZHB5WHlmTWNreEJDaWsweVBhSnJrU0g2RXBSTmtCczd3cGxpWW5WLU1fRVhLNTlBZWdkYlBmTjV4R0dueGMwcVplT3dv?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-08-13"
       },
       {
         "titulo": "Brasil lidera buscas por energia solar residencial; veja o que isso sinaliza para o SNEL11",
@@ -220,11 +220,17 @@ window.NEWS = {
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "alagoasalerta.com.br",
+        "fonte": "Alagoas Alerta",
         "data": "2026-08-14"
       }
     ],
     "maquinas": [
+      {
+        "titulo": "Trans Obra apresenta opções de entrada para empreendedores",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSTBmRkFVSWVVRGx4Ym1PS2VIWGJadUdQbmZTSUdiLVVSdm5SMjA2UWRaN0RYRUdBeldkWHRNV3J4eTlWU1RQbDktNzJBVEI3TVRRQ2t5c1JpU2NtY3lqM0hjVDcycGU1bUVyOFVDcHZDMVpETTc4MHpJaVR5Mll4X0pwaWhZSl9HdnF3YTlGTzhuamNWZnc?oc=5",
+        "fonte": "REDE BRASIL DE TELEVISÃO",
+        "data": "2026-08-10"
+      },
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
@@ -232,16 +238,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Trans Obra apresenta modelo Plus para mercados competitivos",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcGhOclpWanVQTlUxdWZPdXVldUNJRExGa3NXbmUxVExVRWpGcXpWa2hRNHBTSlJ5eGZVMHUzdjRMVHNMQ0s2ZUJrZXdNQS1WMHJUOHFfcFQ5eWM2OU1zdW1rVml2M25SRHhoUlVfWEhueEdLQlI5Y2NTQmtQMnJRVk9IbEl3YmhaTHBZLXlBMWNYSk5jeklUWmhFRkNZV19QaDJKMA?oc=5",
-        "fonte": "Portal Comunique-se",
-        "data": "2026-08-17"
-      },
-      {
-        "titulo": "Após dez anos sem campanha institucional, Algar volta a investir",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNXpOQW1PSkl1U1RMY2tWMkJLZGJFbUh1ZVhiQ1ZEaUlMV0FYRTNFbFgybVdLUjhndmNKcHd2NExKclNDa012Zk53c0JWRG1hLWZxSGs4Z1hMekRnUy1wVGFTSmU5NFkyVTU2UDN5bW80OENjVmEzNFN0YkIxZ0hEV3lPakxqWUZGVFpJQnJyTlVsbTVXR1pTaml5ZWNkS3FWb2dUaENNR1hxUS1Jemd6R2MzZkgxWVkzX3Jxdl9WU0liSVFhaEYwVDhoTdIB2gFBVV95cUxQcUpCazFYbzZfWTd4aGY1M3lTTzNNc2FLS1BnM19oS0ViVkcyMlhJTG9wbTJpZWxEOGdHR3RRWHFpX2NFVHcyV0xQRk1EUzVDbkZNbjl0S1luZUt0TkNPRDNqNW1nd0FFTlh4QlBUMTgzd1FkOTRWRUx3Zy00M0hPR3g2MHFodFhzY21EbjBWQy1VUGVqTHItbENqUllXT3dxdnUzMjZSWnJkNEx0dUtqX3gxeGdTemlCLV9NQXo5LXI3OFNGUE5Zdko4QWJMX2FyZ3h3ZVloNEQxdw?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-08-11"
+        "titulo": "Cazaquistão acelera produção de máquinas agrícolas com expansão dos investimentos internacionais",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVFmS1NXNldBZnAxTG9HZ1BLSkZ5Y0Q5S3kta291bnhvRS12WjA0Rlc3a2tJN005OG9GVG96YkptQnNLOFFkSm41UXdfNl9mTG1FY1VtZUJScGdKSU9VU2JVM1dfYW9PMDBPSmlSTzNFOGV0cjFCVm5EZm1hc2FickZPR0ZJZjZTVDBsV0pYODVPRWpxUVk1LWRsR2o5VW9xQkFoMU81SWlkOWdRVE54X2JaVWVKaUNRRU91NkZn?oc=5",
+        "fonte": "Maquinac",
+        "data": "2026-08-15"
       }
     ],
     "mineracao": [
@@ -252,16 +252,16 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
+        "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
+        "fonte": "IBRAM - Mineração do Brasil",
+        "data": "2026-08-12"
+      },
+      {
         "titulo": "Câmara França-Brasil cria comissão para aproveitar oportunidades em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkpzM2d2Z1NRNDBkSnNnY2pSU1k5bzBBTTVYeVBndUQ0cUZMVVVhSEVLeDUzYTM0b1g0Ql9TNGZuLVV6SGpxZ3ItWkNnZlNxSzNHbUhVOW1laEVJTFNEdENPQURhUGFhZEJOZ2RGUjZtR0ZxaGp2blRQeG9yUU9xOFZwc0N5QUZaQ1hKZ0IwekNVRFFIN24wRFNDZ0pkYk96VTBHeGtzRGNMbkJ1Z3RnbkZaZHM1Zk9waEdwaEZocUVBZS1fVjJXS0txU05BQi01WWFFUjFGVy3SAecBQVVfeXFMTnQxUnA4TzgxWW9VMVVhLVBDOFlQVzFlVXVVcktqMUtWbHRmVWxJRldkcDdBcF83di1VbDBHTlNuMS01ZzJDVXRma1hxN05xVjJwZ3hSN1M2Y3ZpelNiNTFsOF83cUJ6ZU1WZmdxWkdfTFVhOThwS2wxa3dXYjNtc3J1dDUzUDE2ZHVPVkdWc3k5SHhtT2J4ZGQ1WEdaajNVd3NGS0xhZlVBSUEyTTh4c2lEajlGOXo2c1pIWkt4VWFmYjhCNW95WEN0QXFxNFgtRDkySXQ4NU9DaFNzTGhYQktOWFdLTHhz?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-15"
-      },
-      {
-        "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
-        "fonte": "ibram.org.br",
-        "data": "2026-08-12"
       }
     ],
     "papel-celulose": [
@@ -297,7 +297,7 @@ window.NEWS = {
       {
         "titulo": "Incentivos ao aço somam R$ 14,6 bi e ampliam pressão ambiental",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWdoRDlGbVFUMXM3VHhGRWhUYXJkMGFsNXFXS0Jic3NXeldMby02MjVEQmc3QXYtX0EteXhJME1lTmc0dFN6aC00ajJ1blR5a1FydGhnenhLYkFqbThaOV9FS0tSZnFMb0pNWkFSSUZ3cEdodTNrTmRCYkt3eDRnenBTOVhQczY0MmNHY0U1NTVFQnNkRmFZ?oc=5",
-        "fonte": "Revista Amazônia",
+        "fonte": "revistaamazonia.com.br",
         "data": "2026-08-12"
       }
     ],
