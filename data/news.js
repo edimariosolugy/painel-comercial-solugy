@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T14:36:24+00:00",
+  "atualizadoEm": "2026-08-18T15:34:58+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,10 +24,10 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Brasil e Coreia do Sul ampliam comércio e investimentos em nova fase da parceria",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbkd3ci1EYmdVS21RWEh3NkF6bmk0cml3clZFSnVOYmdVR1VNUFplY1JQVlVDaExKQzY0NTVSRHRvTDE1S1FJQ1prWDRERjhmTnV3VTVpY3JRSTVoRkEtaXpES0FhX1JlZTZQTFhTNlRaNEhMYnRaUGczM1p2aFVVOEtUYzJETUppSVdDSGRUWkVwQXY5YWt6cFhCMlVzRWlOUENHeVlEMFo4c1h2d3lMaGJKQkFsZVBUcUJkOXpKd2RVQQ?oc=5",
-        "fonte": "Brasil de Fato",
-        "data": "2026-08-11"
+        "titulo": "A Polpanorte chega ao segundo semestre de 2026 com conquistas e estratégias voltadas à expansão geográfica, aceleração de inovações e fortalecimento da parceria com o varejo. Tudo isso acompanhado pela chegada do executivo Nelson Marin à direto",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44RFhBYjBBUnpzLVBLTkE0RHFBVFl0OVFoc1FXbldkcDY4T2RiWEpyR0t1d0JweWQtY005QWpnSXlJc0JFUEFVS1hYTEFWd2JnYnc?oc=5",
+        "fonte": "instagram.com",
+        "data": "2026-08-18"
       },
       {
         "titulo": "Brasil Sensorial Summit 2026 reúne especialistas para impulsionar indústria de alimentos e bebidas",
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-08-16"
       },
       {
-        "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
-        "fonte": "Times Brasil | CNBC",
-        "data": "2026-08-13"
+        "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUNaUFFFbGtVOXJjMDdnOV9iRzl4T2F5c3MwSGpTQ1VtY0dzanlvYWpaYzRJd2haQmZOS1hQck1jX1ZNM09lWm5HTWNMb2tjSmRZU3dWY2ZPeVl5aGMxVi1sZGl1N0RXXzVrZnpmZHVuR0tNUXlVYVFBN2h5eVIxX1RhRkFSa19VX0wtejZHUUxqaWVpZEthVGxybGtROWd0N2ZhMTBZNXI3WUhYdWVZNklUdUtrSFBRVEh1YzBaWENxUlhzUFFKeTB3SGJ1empGMzZsN3pEcXVPc3c5WGVCdjZpbw?oc=5",
+        "fonte": "UOL Notícias",
+        "data": "2026-08-18"
       }
     ],
     "automotivo": [
@@ -104,6 +104,12 @@ window.NEWS = {
     ],
     "comercio": [
       {
+        "titulo": "Casas Bahia entra com pedido de recuperação judicial, com dívida de R$ 17,3 bi",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNM0RCeDFsN3FHcVBNcG1TWW0tSHo1bjg5OG92RGhVNENUcGh6R0RlSXdvYTJtRlNIZVpLeHRkM0lyVFVPWjI5amM2TzlDc3JGTVBDenV0YUNscGRMcmR4Z3huT283YXhyX3gyUVlGeEZnWVJHU2tpNE43LWQ4bHlBLWZibloxLXVoQS1sZmlNNUlZLTBwakZUYkVsYzVZT3FVZG55ekpLVnYxMHd1YmZsTTVIWUUtOTR2Y1VkdU0xY1ZNSElpWWfSAdQBQVVfeXFMUGFNZnNBX0VJc1ZJM0NhbXNmY2Z5eHd3akY4Rzhaa2FSTjFIdnp2MndHQzZGUERadWtRclZONGdrd2dRdVhFczRseGp1eDZqLURkbjdOTGN6aHNCVEZQVjNneHgyazFUekV3NE5qVEdDcTFVQUEtbm9DQ1hUUlBJNW9WLWtfY1pSM2J4eHJWa1FycHhfOF80UjFfV19jTUplcTNqRHAwV2ZBUHg4Rmd1R0J3TmgwUGgxOG9HY21BM01tRTd2SmJpOXMteEtzUWFkTzJIVnA?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-17"
+      },
+      {
         "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
         "fonte": "SuperVarejo",
@@ -114,12 +120,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXk5cy1TbzA0Z0R3MXV5eXExcFNVMWtWLTUzcjlpanpkVF9YUTJBdnlyV05sdi1pQUxjeUphUXBOVmlOb0lHTHJDMG9sY0tQb2YzdkE3c056Xy1XZk4zTWkwZHRYaFVVWmFnd0EzZDY2cDFtRHhJbG9WelB4bExVT2tjcVUtR0d3MzRvWEMxTTlHNHNHOVhhckhwanFEbURKcU41NUU2RmZWUTdFZzBEMXNWQQ?oc=5",
         "fonte": "noticenter.com.br",
         "data": "2026-08-12"
-      },
-      {
-        "titulo": "Casas Bahia demitiu 3 mil funcionários e fechou quase 300 lojas em agosto",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDVrR1BCUFRYMkFFcWd1U2cyQld6UzJKSFdBQ2VEODNMcXNyWEczQXFfVlhaSUQyRXRWeFBfXzM0dnpMWXNnclEyOXhpMUZIUGo0Z1BIbUxwZWdtbWNsamJwRUZKa2F1RmR1MWU0ZUFIdXliazFqaWhGUjUxbzl4ZjZMREwtai1TdlZLekctemJiYlJxSWo1V1dGWXZpTUVFZHZzMmZwTjJMamlYUXRPSG5QbkdsOGxKVlctQlRmMmpIMEhvQThkeTRFZHZjMzZTTEd4V2xxbXrSAecBQVVfeXFMUDFkSXc2Z0lHZkxTRU1vTERYRi1aQnB1dGg0OVU0eGEweG9jc2hxQXRoNlVsaGtLcVAzRlpnd2pIOTFMTEpuOVNEbS1EWjlKaW9vMW9tY2ZYTGNWY1o2MGgxM0VXblV1dzdTRHl5cGhmcjA2cUU2dk9YZXdRS2p5S25xSnBUQnZYNXV5VUVWaTQ3YUUzd194RnFDTXd1VzN2QWdwNjRoa045bUU1bTN6amE5TXZ0Nkc3aFNTSjRvMXRXMlNYUFY4d252aGxsbXU0eUJfYmtpeko5cGhweEVMOW41cENBMmdz?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-17"
       }
     ],
     "energia-gt": [
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Brasil é o país que mais busca por energia solar residencial nas Américas; confira ranking",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EVUx0cl9nMWVTQXdyV05QSWJTWEFnbEVZcGVpZE9obFNuNXlkUXUtb0F5ZHB5WHlmTWNreEJDaWsweVBhSnJrU0g2RXBSTmtCczd3cGxpWW5WLU1fRVhLNTlBZWdkYlBmTjV4R0dueGMwcVplT3dv?oc=5",
-        "fonte": "Canal Solar",
+        "fonte": "canalsolar.com.br",
         "data": "2026-08-13"
       },
       {
@@ -179,7 +179,7 @@ window.NEWS = {
       {
         "titulo": "ENSCEIS e o futuro da indústria da saúde",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RvZTNNNExvcm56WnVSYlFTQnR2NUR6REdBbWUtZENGRXRNV0N3dl9GR0duNndLY194RzByYm9PcmRxUWlCR1NvZjRtN21DZUNqM0szVXhER0NPZXRReFdfZ3JrdVp3REg4OGczTEowOTFteHZzUXV5dGdaeVRhbkFtNkVnNDAtTHFCRDdHNVM0T192aWN1M1UxbF9UbHlz?oc=5",
-        "fonte": "panoramafarmaceutico.com.br",
+        "fonte": "Panorama Farmacêutico",
         "data": "2026-08-18"
       }
     ],
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "mundologistica.com.br",
+        "fonte": "MundoLogística",
         "data": "2026-08-12"
       },
       {
@@ -240,7 +240,7 @@ window.NEWS = {
       {
         "titulo": "Por que o mercado da caixa de velocidades industrial está transformando operações industriais através da transmissão de energia de alto desempenho, eficiência energética, automação inteligente e tecnologia de engrenagem de próxima geração",
         "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNQ1ZWcUVjX3dzellHa19jaXdObGUwY3RVczdtcWlrWl9uSGlTRmttWERrUnlXdDl5aldkeGRBUXZCWmRpOFIzZWozUjFkb1ZPQkR6TGwyYlJZRmV5SmxZcG9IMTYxRW8wNmp0X2lIVFVLN2tucHd2R0RGVnF2MGtJZEpNOXFBRUhzbnhpSmItMjF6dE1CNUYwODM2ZE1WZE9faGhrMDJJS1NDbzZGdUk4eFBYejBFbUhWXzZkRmxEZ2FxbVBONjVJbjlyZzFxQXNvSXdKdjN0MlNKYTJTWTVuNlE0eUFsTk51RVE1TDRDcFZGUWJQZFU0UmRQLW92cnVxUVZsdFFmWEt0N2JFazVIcVlVVTJSOVpRNGd2eDFhZndxS18xY0J3Ui1xQmY3dkRkcV82YkRNOGlOS2trSDdhZldteF8xeEJIVFp0ZktR?oc=5",
-        "fonte": "Spherical Insights",
+        "fonte": "sphericalinsights.com",
         "data": "2026-08-17"
       }
     ],
