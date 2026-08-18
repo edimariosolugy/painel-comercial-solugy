@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T17:30:02+00:00",
+  "atualizadoEm": "2026-08-18T18:41:45+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -18,7 +18,7 @@ window.NEWS = {
       {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
-        "fonte": "bloomberglinea.com.br",
+        "fonte": "Bloomberg Línea Brasil",
         "data": "2026-08-13"
       }
     ],
@@ -64,12 +64,6 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
-        "titulo": "Etanol de milho: Brasil supera EUA em rentabilidade",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHBGT3BJR05hWW9ZTjNIVENCNmkwSW1BbWJuSm10dmZ4WXplSENsYk1GLXh5NFlMVnVtcjhLMUM3a05sYXIwX3h3NzI3TThGMzF2ci1XRVRXRDVycXpWSDlRUTZWd0VjRGFJU1Uya2ZpaUhCN2JhSWl3ODlkeGpmQ0RIeXVscE1XdGdhS25KRnNHbzFQclg1WXpVWXAzdFB1V01zVVhSWEJjTjl0ejJ6MFpB0gGyAUFVX3lxTE5rRkdUQTB2Qnc0M1VlQW9VdWVaVWh2VGkzZXpNRjNpTmxyMkw2Y0dNcnVvSENsV1RnY3B3SEZJX3hxaENtamI0OEpUeVZGSFdxUjZSM3BtMEx0MWp6TFZnYTJFNEdBSWMtRWpfNGptMmduc0o2cHNmcW9VaFBwOXFLbGUzb0w0YVNydWlWME0zUzhYY2l3WXZ0cDJaTWk1WGpCX2Vmb25hY29VU0xDSTFnUHc?oc=5",
-        "fonte": "Campo Grande News",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
         "fonte": "CNN Brasil",
@@ -80,6 +74,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
         "fonte": "JornalCana",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "Exclusivo: Usina de Otaviano Pivetta recebeu dinheiro de fundo investigado pela PF",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0QyX1pxbWRxLVdjTWRQM3FnSzlKdHJDbXVDeDV1R25JQ19jYTFRcW1qaV9KbnRpWlVMVDJUcVFlMWlhN1VHSFVTVmYwYlNTdERFeUZGRmo5X2tWczBYeUg3TFJLNUhVVnpxTGQ5bmZIRzhCNTZxNzcxbmNTelpSTkJycHgyNnVjNkZjOVYzOHZJX0RRemRaMk4zc2Y4NnNCa1NCbGkyTUNJVFE?oc=5",
+        "fonte": "pnbonline.com.br",
+        "data": "2026-08-12"
       }
     ],
     "cimento": [
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "Carta de Conjuntura",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZURnQno4RndnZmJOT3NydjRtWkZRa1ZqZmN3WFNnRUFnMW1VTGxNWHFYREtnVGVwQm5VbHdiamxIQ3FhR2JzMk91QjZqSjk4bElKRA?oc=5",
-        "fonte": "Ipea",
+        "fonte": "ipea.gov.br",
         "data": "2026-08-14"
       },
       {
@@ -290,6 +290,12 @@ window.NEWS = {
         "titulo": "BNDES apresenta concessão de saneamento de RO, com R$ 4 bi de investimento",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGJGYlZhRmpfLTBvSFBvMUY5X19TZGhka1hSRWxfSjNvb0J6djJwYlkzS2tid1N4bktUd1o4LXdXaXNIZ2w4VG5jOTZaaW5mU1pFdUc1U2QzT1JvaENpd2JqY2VEbGZ0T2w1alpTYnJIaGctbjRwR2xMSW9EcEkwXzAwNzRXN0VDRThFWHBSWWxhOWNIbHJ0VWdtSThDQTAwYlZIa2Z3?oc=5",
         "fonte": "Agência iNFRA",
+        "data": "2026-08-18"
+      },
+      {
+        "titulo": "Rondônia prepara concessão de saneamento com R$ 4,2 bilhões em investimentos em 40 municípios",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWFZqR0UyZTMzWGhKc1hWcGdXTkpqQ1ZvX2ZLc0xjb1hVSlRsd2xFTkdUX2hJaFdmeEpKTVY5U0pDc2RYcXFqTWpQUVZnbHZCWWE0WGNHX1JvQnYzekYyVHRyNVVFSlBTd0pUWGxZUXFRYW1VejB6dUp0Z1hqTDhsSnZCZ1lvTktiaEhHVnN5dUxzVUgta05qb0xCWkJDdTJoclEzUlF1LXpQV0pIb0RXY0twLW01Z3JNbXZtWkd2Q1dvSjAwZjNLdVl6cWVyVTRZZTlsTw?oc=5",
+        "fonte": "Ariquemes Online",
         "data": "2026-08-18"
       },
       {
