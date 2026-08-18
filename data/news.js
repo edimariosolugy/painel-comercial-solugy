@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T16:35:18+00:00",
+  "atualizadoEm": "2026-08-18T17:30:02+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -18,7 +18,7 @@ window.NEWS = {
       {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
+        "fonte": "bloomberglinea.com.br",
         "data": "2026-08-13"
       }
     ],
@@ -58,11 +58,17 @@ window.NEWS = {
       {
         "titulo": "Montadoras chinesas ocupam fábricas de rivais e produzem carros no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXNPLVJpM0lXUlEzNThQSUIzQUJwdENZdWRWYkhVNldCVng2MzNMcmk0b2ZtaS1ma2IzNHQtQmtsdExudEZsOXU0dWhoMlk1bldFc1BsUFNxWmtDLVRzWTdaR3RiVGJtcmZhYTFNTDRUeDdZNDllZHh3OE92STIzLVg0YXdzYWl3R29fem5DWU1rS3daX3pFaEZEU0xNUjVFaDRrZVdzUTV3Skk3N3RMZTNQcUM1OUt5bUJ2dGhiNjJPMUnSAcMBQVVfeXFMUDlzTy1SaTNJV1JRMzU4UElCM0FCcHRDWXVkVmJIVTZXQlZ4NjMzTHJpNG9mbWktZmtiMzR0LUJrbHRMbnRGbDl1NHVoaDJZNW5XRXNQbFBTcVprQy1Uc1k3Wkd0YlRibXJmYWExTUw0VHg3WTQ5ZWR4dzhPdkkyMy1YNGF3c2Fpd0dvX3puQ1lNa0t3Wl96RWhGRFNMTVI1RWg0a2VXc1E1d0pJNzd0TGUzUHFDNTlLeW1CdnRoYjYyTzFJ?oc=5",
-        "fonte": "tribunapr.com.br",
+        "fonte": "Tribuna do Paraná",
         "data": "2026-08-16"
       }
     ],
     "bioenergia": [
+      {
+        "titulo": "Etanol de milho: Brasil supera EUA em rentabilidade",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHBGT3BJR05hWW9ZTjNIVENCNmkwSW1BbWJuSm10dmZ4WXplSENsYk1GLXh5NFlMVnVtcjhLMUM3a05sYXIwX3h3NzI3TThGMzF2ci1XRVRXRDVycXpWSDlRUTZWd0VjRGFJU1Uya2ZpaUhCN2JhSWl3ODlkeGpmQ0RIeXVscE1XdGdhS25KRnNHbzFQclg1WXpVWXAzdFB1V01zVVhSWEJjTjl0ejJ6MFpB0gGyAUFVX3lxTE5rRkdUQTB2Qnc0M1VlQW9VdWVaVWh2VGkzZXpNRjNpTmxyMkw2Y0dNcnVvSENsV1RnY3B3SEZJX3hxaENtamI0OEpUeVZGSFdxUjZSM3BtMEx0MWp6TFZnYTJFNEdBSWMtRWpfNGptMmduc0o2cHNmcW9VaFBwOXFLbGUzb0w0YVNydWlWME0zUzhYY2l3WXZ0cDJaTWk1WGpCX2Vmb25hY29VU0xDSTFnUHc?oc=5",
+        "fonte": "Campo Grande News",
+        "data": "2026-08-14"
+      },
       {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
@@ -74,19 +80,13 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
         "fonte": "JornalCana",
         "data": "2026-08-13"
-      },
-      {
-        "titulo": "Exclusivo: Usina de Otaviano Pivetta recebeu dinheiro de fundo investigado pela PF",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0QyX1pxbWRxLVdjTWRQM3FnSzlKdHJDbXVDeDV1R25JQ19jYTFRcW1qaV9KbnRpWlVMVDJUcVFlMWlhN1VHSFVTVmYwYlNTdERFeUZGRmo5X2tWczBYeUg3TFJLNUhVVnpxTGQ5bmZIRzhCNTZxNzcxbmNTelpSTkJycHgyNnVjNkZjOVYzOHZJX0RRemRaMk4zc2Y4NnNCa1NCbGkyTUNJVFE?oc=5",
-        "fonte": "pnbonline.com.br",
-        "data": "2026-08-12"
       }
     ],
     "cimento": [
       {
         "titulo": "Líderes de materiais de construção buscam criações sólidas",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmJhYlRpcWdDSDlMYm93Y3E3amR0Q0tCMTNybXJnaDNPcHFLSlNRRXVERkxsV2pYbnRvQzdzNlFNWWlfOWtDSEY0WU1sc2daS243bnBTYlFFY1hQNGY5XzV2TmxhN3o1M3RsM2ktaHRTYS1Ma0dnN0ZSd3JUNkNXTnRDWWNhTmd0MndSSUZ0Q2U3Q0VMUW4xNzFlYnVxSmEtbEp4VnVxX2o3M3FHS1hjMlo1ak94NjdvN1lZdmlpREdvejdKOWfSAcYBQVVfeXFMT3ZiYWJUaXFnQ0g5TGJvd2NxN2pkdENLQjEzcm1yZ2gzT3BxS0pTUUV1REZMbFdqWG50b0M3czZRTVlpXzlrQ0hGNFlNbHNnWktuN25wU2JRRWNYUDRmOV81dk5sYTd6NTN0bDNpLWh0U2EtTGtHZzdGUndyVDZDV050Q1ljYU5ndDJ3UklGdENlN0NFTFFuMTcxZWJ1cUphLWxKeFZ1cV9qNzNxR0tYYzJaNWpPeDY3bzdZWXZpaURHb3o3Sjln?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-18"
       },
       {
@@ -104,6 +104,12 @@ window.NEWS = {
     ],
     "comercio": [
       {
+        "titulo": "Casas Bahia, Marabraz, Mobly e Tok&Stok: por que tantas empresas de varejo estão pedindo recuperação judicial?",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbWZ3VlJuWFRhSXFKbk9HV0Z3YkxzNVZ1aHdCcHo5eVZBdm5nQS0xUGVPZmVhS3lnaktJZHNsUUxab2Nja3c5aXNpM1FWM21wbmttVFlUc0gwejc2UTBNbXVxTHFiUzhmNVZrVm5qeU82RV9yWGUxOXFtUkNJMnBtQ08zOG1MSDAzakJxR1BQYWNsT2hBY0FsQTQycngyTnhvdzRGcXZycEhPV2dhRUVVbHdLOXdFZm1HN3hxbjNqMHZGZlMzS0liZjJsMTI5bUtycEd5UE4yeHBrTWhndjlFNWhreVpudlpTQTl5R3FUblNhZ3owZk55ZS1aYlljS09oMXRPWVlfY9IBlgJBVV95cUxNaTd5cGtJcy1hZUlmcXh6N3l0RXBSUktsNUdLQldUblJrNEFEbTExRkZPX3J2NzgwQlBmZEJlNlZ2T3BZVGltR0ZPYlpIcVVPVWRpRVJZZnREYlBfclFURUtUNTA0ZThScUp0aUFjZ1lXLUd0cVBhZWxWMTNKR2dGdzNKNXhaZGF2QU1wVHhEVHNZYTQ2aWdMSFBDQzZHWnpqc3ZMX2RnOHRwdlVQZXdkSkNjMmtnWVpRdlpzRVh4RW5UVTlnRGlLb0RJLWtrempIdThLMk1zQVpURHZCR2RjRWRtNGNmNDk3dl9wYXZJaXVteHUyQ0g3OWgzbEJyMEhaOW5FTUltbnJpejMwTXJmUW5HZUdUdw?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-17"
+      },
+      {
         "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
         "fonte": "SuperVarejo",
@@ -114,12 +120,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXk5cy1TbzA0Z0R3MXV5eXExcFNVMWtWLTUzcjlpanpkVF9YUTJBdnlyV05sdi1pQUxjeUphUXBOVmlOb0lHTHJDMG9sY0tQb2YzdkE3c056Xy1XZk4zTWkwZHRYaFVVWmFnd0EzZDY2cDFtRHhJbG9WelB4bExVT2tjcVUtR0d3MzRvWEMxTTlHNHNHOVhhckhwanFEbURKcU41NUU2RmZWUTdFZzBEMXNWQQ?oc=5",
         "fonte": "noticenter.com.br",
         "data": "2026-08-12"
-      },
-      {
-        "titulo": "Casas Bahia demitiu 3 mil funcionários e fechou quase 300 lojas em agosto",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDVrR1BCUFRYMkFFcWd1U2cyQld6UzJKSFdBQ2VEODNMcXNyWEczQXFfVlhaSUQyRXRWeFBfXzM0dnpMWXNnclEyOXhpMUZIUGo0Z1BIbUxwZWdtbWNsamJwRUZKa2F1RmR1MWU0ZUFIdXliazFqaWhGUjUxbzl4ZjZMREwtai1TdlZLekctemJiYlJxSWo1V1dGWXZpTUVFZHZzMmZwTjJMamlYUXRPSG5QbkdsOGxKVlctQlRmMmpIMEhvQThkeTRFZHZjMzZTTEd4V2xxbXrSAecBQVVfeXFMUDFkSXc2Z0lHZkxTRU1vTERYRi1aQnB1dGg0OVU0eGEweG9jc2hxQXRoNlVsaGtLcVAzRlpnd2pIOTFMTEpuOVNEbS1EWjlKaW9vMW9tY2ZYTGNWY1o2MGgxM0VXblV1dzdTRHl5cGhmcjA2cUU2dk9YZXdRS2p5S25xSnBUQnZYNXV5VUVWaTQ3YUUzd194RnFDTXd1VzN2QWdwNjRoa045bUU1bTN6amE5TXZ0Nkc3aFNTSjRvMXRXMlNYUFY4d252aGxsbXU0eUJfYmtpeko5cGhweEVMOW41cENBMmdz?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-17"
       }
     ],
     "energia-gt": [
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Brasil é o país que mais busca por energia solar residencial nas Américas; confira ranking",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EVUx0cl9nMWVTQXdyV05QSWJTWEFnbEVZcGVpZE9obFNuNXlkUXUtb0F5ZHB5WHlmTWNreEJDaWsweVBhSnJrU0g2RXBSTmtCczd3cGxpWW5WLU1fRVhLNTlBZWdkYlBmTjV4R0dueGMwcVplT3dv?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-13"
       },
       {
@@ -228,7 +228,7 @@ window.NEWS = {
       {
         "titulo": "Trans Obra apresenta modelo Plus para mercados competitivos",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1k4XzFDTmxGSnJoRWMtemdNbEVnNlF0U2wtVUk0anFFS3YzUklkdWxTckJhSW1EZ0xDRjExd3lCOEp2WG02WnNrVGVIbF9IaVNhVzBCbEYxOHJtRHhXN2RLLWw3aTl6c2w1TjJDbjVzcU9DX0czdmpzeTE5SlFueENvUFhqdGN2MkxiQjZodFM2WDdseWxLZEJQYktKUkFZcy1Zd2pNdUpKOHVZeWJYWmoycjlfUlBoSzVMLXAtU0pkM1VDMUJoTnAxZGw2bEZmQ2F3Q9IB1AFBVV95cUxPZ1k4XzFDTmxGSnJoRWMtemdNbEVnNlF0U2wtVUk0anFFS3YzUklkdWxTckJhSW1EZ0xDRjExd3lCOEp2WG02WnNrVGVIbF9IaVNhVzBCbEYxOHJtRHhXN2RLLWw3aTl6c2w1TjJDbjVzcU9DX0czdmpzeTE5SlFueENvUFhqdGN2MkxiQjZodFM2WDdseWxLZEJQYktKUkFZcy1Zd2pNdUpKOHVZeWJYWmoycjlfUlBoSzVMLXAtU0pkM1VDMUJoTnAxZGw2bEZmQ2F3Qw?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-17"
       },
       {
@@ -238,10 +238,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Por que o mercado da caixa de velocidades industrial está transformando operações industriais através da transmissão de energia de alto desempenho, eficiência energética, automação inteligente e tecnologia de engrenagem de próxima geração",
-        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNQ1ZWcUVjX3dzellHa19jaXdObGUwY3RVczdtcWlrWl9uSGlTRmttWERrUnlXdDl5aldkeGRBUXZCWmRpOFIzZWozUjFkb1ZPQkR6TGwyYlJZRmV5SmxZcG9IMTYxRW8wNmp0X2lIVFVLN2tucHd2R0RGVnF2MGtJZEpNOXFBRUhzbnhpSmItMjF6dE1CNUYwODM2ZE1WZE9faGhrMDJJS1NDbzZGdUk4eFBYejBFbUhWXzZkRmxEZ2FxbVBONjVJbjlyZzFxQXNvSXdKdjN0MlNKYTJTWTVuNlE0eUFsTk51RVE1TDRDcFZGUWJQZFU0UmRQLW92cnVxUVZsdFFmWEt0N2JFazVIcVlVVTJSOVpRNGd2eDFhZndxS18xY0J3Ui1xQmY3dkRkcV82YkRNOGlOS2trSDdhZldteF8xeEJIVFp0ZktR?oc=5",
-        "fonte": "Spherical Insights",
-        "data": "2026-08-17"
+        "titulo": "Máquinas agrícolas chinesas estão assustando as gigantes tradicionais no Brasil?",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXAwanIwN3lLaWVtNXZ4MWxySDdqWUxTeXVhQmJjLW1hMVNhQVdSVUdlblRGTnpsZi00LXNPWEpKWDRsMnIzaEJ0QTBReVF5LUNJSG5kejRTak5JeHo3NFdBZTl3Y19fMUdydV9WSUZJUlRtalA1UEtzZEhvWkJvaGJ2d1BUcXVHVm5hUjZCTkVyaDlENUJNb012MkpYZTJ4VEQxOWtnSml4Qklp?oc=5",
+        "fonte": "CompreRural",
+        "data": "2026-08-18"
       }
     ],
     "mineracao": [
@@ -260,22 +260,22 @@ window.NEWS = {
       {
         "titulo": "Câmara França-Brasil cria comissão para aproveitar oportunidades em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkpzM2d2Z1NRNDBkSnNnY2pSU1k5bzBBTTVYeVBndUQ0cUZMVVVhSEVLeDUzYTM0b1g0Ql9TNGZuLVV6SGpxZ3ItWkNnZlNxSzNHbUhVOW1laEVJTFNEdENPQURhUGFhZEJOZ2RGUjZtR0ZxaGp2blRQeG9yUU9xOFZwc0N5QUZaQ1hKZ0IwekNVRFFIN24wRFNDZ0pkYk96VTBHeGtzRGNMbkJ1Z3RnbkZaZHM1Zk9waEdwaEZocUVBZS1fVjJXS0txU05BQi01WWFFUjFGVy3SAecBQVVfeXFMTnQxUnA4TzgxWW9VMVVhLVBDOFlQVzFlVXVVcktqMUtWbHRmVWxJRldkcDdBcF83di1VbDBHTlNuMS01ZzJDVXRma1hxN05xVjJwZ3hSN1M2Y3ZpelNiNTFsOF83cUJ6ZU1WZmdxWkdfTFVhOThwS2wxa3dXYjNtc3J1dDUzUDE2ZHVPVkdWc3k5SHhtT2J4ZGQ1WEdaajNVd3NGS0xhZlVBSUEyTTh4c2lEajlGOXo2c1pIWkt4VWFmYjhCNW95WEN0QXFxNFgtRDkySXQ4NU9DaFNzTGhYQktOWFdLTHhz?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-08-15"
       }
     ],
     "papel-celulose": [
       {
+        "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
+        "fonte": "InfoMoney",
+        "data": "2026-08-13"
+      },
+      {
         "titulo": "Eneva já se prepara para chamada de duas usinas no LRCap após revés da EPP | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
         "fonte": "XP Investimentos",
         "data": "2026-08-14"
-      },
-      {
-        "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
-        "fonte": "infomoney.com.br",
-        "data": "2026-08-13"
       },
       {
         "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
@@ -289,7 +289,7 @@ window.NEWS = {
       {
         "titulo": "BNDES apresenta concessão de saneamento de RO, com R$ 4 bi de investimento",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGJGYlZhRmpfLTBvSFBvMUY5X19TZGhka1hSRWxfSjNvb0J6djJwYlkzS2tid1N4bktUd1o4LXdXaXNIZ2w4VG5jOTZaaW5mU1pFdUc1U2QzT1JvaENpd2JqY2VEbGZ0T2w1alpTYnJIaGctbjRwR2xMSW9EcEkwXzAwNzRXN0VDRThFWHBSWWxhOWNIbHJ0VWdtSThDQTAwYlZIa2Z3?oc=5",
-        "fonte": "agenciainfra.com",
+        "fonte": "Agência iNFRA",
         "data": "2026-08-18"
       },
       {
