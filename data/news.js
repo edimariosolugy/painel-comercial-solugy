@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T10:31:52+00:00",
+  "atualizadoEm": "2026-08-18T11:27:45+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -106,7 +106,7 @@ window.NEWS = {
       {
         "titulo": "Com FedEx fora da rota e Correios em crise, DHL \"entrega\" R$ 270 milhões em investimentos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTVpTkJuYlZfRFh5LVFEN1lwRHFlV3pncXpJeHNEQi1yRlFSMXBVbWJ0Mkg2MG9QaE91TnFJdk45aWI4RGthY2Y1NFBjLWF5cDZHYk9peHljR2c0bGsySDhEbUZJRXNVZ3pJVHo2dkFnTl85bHktWFU4MURLMDV4cXB4M2prUk1ZQXh2ZEJmLXN3eVlUeWw2MkZyY29WcHh0T0JkaU8wVE1iUVRFcFVOcDFkcm81dHM2NkpPNjJHZzRoN3lGN1U4?oc=5",
-        "fonte": "neofeed.com.br",
+        "fonte": "NeoFeed",
         "data": "2026-08-13"
       },
       {
@@ -124,9 +124,9 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
-        "titulo": "Aneel homologa resultado da 2ª etapa do leilão de transmissão, com R$ 1,8 bi em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUc3RTlocElQdzFuUXQ5c2VyMUpCNlBCcDBXYm9qWVZKOUMtZjZPSWI4Y204WXJEZzZhdVhXRE5OdXFERFFFMk9HeVBOczZ6Z3dhM1l4UTN2NFhKUVkyMVNyY2JYTFl2b1F1Rk92bWdwRzlVeDJmZmZEclM3RjZUbTVXRWM5VDlYeDJEcHFtV2M0RVRGZzR5aUR4aHlqV09IczVLeV9hRWZ1NV9SV1NacnR2VHg2ckJuVjBDa3JWMGtnQzU3M2NFVHJ2bW9XcFR0T3NGclF2bkVDU05RaFlBLXdn?oc=5",
-        "fonte": "MegaWhat",
+        "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
+        "fonte": "Agência eixos",
         "data": "2026-08-11"
       },
       {
@@ -136,9 +136,9 @@ window.NEWS = {
         "data": "2026-08-11"
       },
       {
-        "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
-        "fonte": "Agência eixos",
+        "titulo": "Aneel homologa resultado da 2ª etapa do leilão de transmissão, com R$ 1,8 bi em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNUc3RTlocElQdzFuUXQ5c2VyMUpCNlBCcDBXYm9qWVZKOUMtZjZPSWI4Y204WXJEZzZhdVhXRE5OdXFERFFFMk9HeVBOczZ6Z3dhM1l4UTN2NFhKUVkyMVNyY2JYTFl2b1F1Rk92bWdwRzlVeDJmZmZEclM3RjZUbTVXRWM5VDlYeDJEcHFtV2M0RVRGZzR5aUR4aHlqV09IczVLeV9hRWZ1NV9SV1NacnR2VHg2ckJuVjBDa3JWMGtnQzU3M2NFVHJ2bW9XcFR0T3NGclF2bkVDU05RaFlBLXdn?oc=5",
+        "fonte": "MegaWhat",
         "data": "2026-08-11"
       }
     ],
@@ -214,7 +214,7 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
-        "fonte": "esbrasil.com.br",
+        "fonte": "ES Brasil",
         "data": "2026-08-12"
       },
       {
@@ -238,10 +238,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Cazaquistão acelera produção de máquinas agrícolas com expansão dos investimentos internacionais",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVFmS1NXNldBZnAxTG9HZ1BLSkZ5Y0Q5S3kta291bnhvRS12WjA0Rlc3a2tJN005OG9GVG96YkptQnNLOFFkSm41UXdfNl9mTG1FY1VtZUJScGdKSU9VU2JVM1dfYW9PMDBPSmlSTzNFOGV0cjFCVm5EZm1hc2FickZPR0ZJZjZTVDBsV0pYODVPRWpxUVk1LWRsR2o5VW9xQkFoMU81SWlkOWdRVE54X2JaVWVKaUNRRU91NkZn?oc=5",
-        "fonte": "Maquinac",
-        "data": "2026-08-15"
+        "titulo": "Carta de Conjuntura",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZURnQno4RndnZmJOT3NydjRtWkZRa1ZqZmN3WFNnRUFnMW1VTGxNWHFYREtnVGVwQm5VbHdiamxIQ3FhR2JzMk91QjZqSjk4bElKRA?oc=5",
+        "fonte": "Ipea",
+        "data": "2026-08-14"
       }
     ],
     "mineracao": [
