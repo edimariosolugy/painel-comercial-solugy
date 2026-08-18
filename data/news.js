@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T20:27:59+00:00",
+  "atualizadoEm": "2026-08-18T21:27:31+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,22 +24,22 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
+        "titulo": "A Polpanorte chega ao segundo semestre de 2026 com conquistas e estratégias voltadas à expansão geográfica, aceleração de inovações e fortalecimento da parceria com o varejo. Tudo isso acompanhado pela chegada do executivo Nelson Marin à direto",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44RFhBYjBBUnpzLVBLTkE0RHFBVFl0OVFoc1FXbldkcDY4T2RiWEpyR0t1d0JweWQtY005QWpnSXlJc0JFUEFVS1hYTEFWd2JnYnc?oc=5",
+        "fonte": "instagram.com",
+        "data": "2026-08-18"
+      },
+      {
+        "titulo": "MBRF (MBRF3) amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBISXhOeTNJRFpIVUo2SHA5ZDZ0dC1ZUHZsREcwM1VzaWVmeGxMYUJ4bGlYaTZ1NEZmQndFeXlCbXFYVjYtOWJFUWJVOG0tMzNmODF0MmxkbzlpUTRIQklDTWZuY0pKRzBuc1BzLURHWHRySlBxR2RwZ3J0WTVsb25tdjByVElNTm81MlBLVm9sRF9EdFFaV3JfLVNGVFhpYnhkOHdGZnU5RzNKVDBubm0zUS1LUE0?oc=5",
+        "fonte": "Money Times",
+        "data": "2026-08-18"
+      },
+      {
         "titulo": "Brasil Sensorial Summit 2026 reúne especialistas para impulsionar indústria de alimentos e bebidas",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3VyZ3M1UEZBUmNsNXhwd3BWLUlTNUFrVnlrUV83Znh0dGhqNmNHQlNfb29hQWdzWFFZbkdmYWctOHBxNXFucDU3LTRTekFtS1pqb01yM2Y1eUdvc2RaNk0wakRhSEZwYzBnYVVrcHcyNHhYd1N0dVh0ODFSTG83V2pBeHhzSW5idHFHRVR3U29OUmNzNk9fLWZUOFdzWk5CNFUyUG5TbzNuTVJ6TmZkRFdTck9FdVZwWERZMEFWVV9iRFJJRUJraA?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-08-16"
-      },
-      {
-        "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUNaUFFFbGtVOXJjMDdnOV9iRzl4T2F5c3MwSGpTQ1VtY0dzanlvYWpaYzRJd2haQmZOS1hQck1jX1ZNM09lWm5HTWNMb2tjSmRZU3dWY2ZPeVl5aGMxVi1sZGl1N0RXXzVrZnpmZHVuR0tNUXlVYVFBN2h5eVIxX1RhRkFSa19VX0wtejZHUUxqaWVpZEthVGxybGtROWd0N2ZhMTBZNXI3WUhYdWVZNklUdUtrSFBRVEh1YzBaWENxUlhzUFFKeTB3SGJ1empGMzZsN3pEcXVPc3c5WGVCdjZpbw?oc=5",
-        "fonte": "UOL Notícias",
-        "data": "2026-08-18"
-      },
-      {
-        "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
-        "fonte": "Times Brasil | CNBC",
-        "data": "2026-08-13"
       }
     ],
     "automotivo": [
@@ -130,16 +130,16 @@ window.NEWS = {
         "data": "2026-08-11"
       },
       {
-        "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
-        "fonte": "Times Brasil | CNBC",
-        "data": "2026-08-11"
-      },
-      {
         "titulo": "Taesa mantém estudos para disputar leilão de baterias, mas aguarda definição da regulação",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYTJ6cERRZ0pqaWRXdl9jci1yTHFOS3hmcG56d196azZoSlJBa28tT05KY29GLWVVMF94WmZUeUJ3cm9sWTFlbnlVbm03U1RCZ21aSTgzY1RqQzN3OEZiV3dzclpGdF9KRnkxaGptaldPTS1p?oc=5",
         "fonte": "Canal Solar",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-08-12"
       }
     ],
     "solar": [
@@ -156,10 +156,10 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "Debate no Plenário aponta gargalos para expansão de energias renováveis",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMHFkRlhPTEZQQnlOdUtxQ2pWN1ZWc2Q2TXV2dC15dlI2NGc3VkxpTWJydTJXVFhLRllhTkV6ME82dnFfSDdXWGczTXpqYkt5cEJVTVZDS3c3cTkyOE9IQmNOSUg1X01jLUttSE9CWjh3UEdaa0pNcHZxXzZ4clUtaTFPaU5Wb0FlbU5ndE5oOHVmZTlyaWNqcEt6cmN5VS1tSTlfNy1rN2FEYm90SFNQZWlPZHBsSXhDbnE3b01jRW1ULU8xX0dj?oc=5",
-        "fonte": "Senado",
-        "data": "2026-08-11"
+        "titulo": "Campo Grande recebe quatro dias de debates sobre bioenergia e geração distribuída",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDBYaWhDZWJNVmxRalZkb2NfOWk0aEVnbmVMNW41ZWVESUlLWjBYY2p0TTRKQzh1SFdaMlYyandFRW82bjF6SHh0SVNiYnFlUmRnamRWdHFGRFlrYTczZm1McnhKcFpoR2QxcFY2Um16RFotMUhJWFN3cFF6Y3lLTFJuOXlSSld0RWxHdWlldjMyMWd5OGlhbHJwV1pkeHF3M2pEaUlFdzRGRkY2RkVCUHdXbGVLejYtZ2c?oc=5",
+        "fonte": "TN Petróleo",
+        "data": "2026-08-12"
       }
     ],
     "epc": [],
@@ -200,7 +200,7 @@ window.NEWS = {
       {
         "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
-        "fonte": "folha.uol.com.br",
+        "fonte": "Folha de S.Paulo",
         "data": "2026-08-15"
       }
     ],
@@ -214,13 +214,13 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
-        "fonte": "ES Brasil",
+        "fonte": "esbrasil.com.br",
         "data": "2026-08-12"
       },
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "alagoasalerta.com.br",
+        "fonte": "Alagoas Alerta",
         "data": "2026-08-14"
       }
     ],
@@ -254,7 +254,7 @@ window.NEWS = {
       {
         "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
-        "fonte": "ibram.org.br",
+        "fonte": "IBRAM - Mineração do Brasil",
         "data": "2026-08-12"
       },
       {
@@ -293,9 +293,9 @@ window.NEWS = {
         "data": "2026-08-18"
       },
       {
-        "titulo": "Rondônia prepara concessão de saneamento com R$ 4,2 bilhões em investimentos em 40 municípios",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWFZqR0UyZTMzWGhKc1hWcGdXTkpqQ1ZvX2ZLc0xjb1hVSlRsd2xFTkdUX2hJaFdmeEpKTVY5U0pDc2RYcXFqTWpQUVZnbHZCWWE0WGNHX1JvQnYzekYyVHRyNVVFSlBTd0pUWGxZUXFRYW1VejB6dUp0Z1hqTDhsSnZCZ1lvTktiaEhHVnN5dUxzVUgta05qb0xCWkJDdTJoclEzUlF1LXpQV0pIb0RXY0twLW01Z3JNbXZtWkd2Q1dvSjAwZjNLdVl6cWVyVTRZZTlsTw?oc=5",
-        "fonte": "Ariquemes Online",
+        "titulo": "Concessão do saneamento de Rondônia prevê R$ 4,2 bilhões em investimentos e atendimento a 40 municípios",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzRjQTcwQUhYTVNRZW5kTTJHa0NrNWFRbGh5LTlRTDB2LVBNYS0yN01ETlplR0t5M3V5bUwzZUlTWkVnbnNwNWEtLXUteWJpOFNJaTRxNXFueV9XdTFmby1rZHRKQjZnMDJoOWxHYWx3aGZqY3k5VHFIUy1XdGJJZ0RFNllGVGh4Q0lmMi1heDVJUlhoVC1rUE5YY1Zta1hPV2lCTjZHU3g2dHphSWk0YzNqZFJQeVVfbzdFNzBqWk1hWFEwVm9KTy1wblAwQ1AxaTFLZC13?oc=5",
+        "fonte": "Em Rondônia",
         "data": "2026-08-18"
       },
       {
