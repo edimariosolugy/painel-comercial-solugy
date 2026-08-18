@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T21:27:31+00:00",
+  "atualizadoEm": "2026-08-18T22:27:10+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola pede ao Brasil ajuda para deixar de importar alimentos",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHVnLThXc2pBeE4xMTJPTUVpX1VFY09taHR1Skp5NTh4eGI5V2VqU05uYWdrYUw4bWxidXY1TzdHeFBZOWRUQWExV1MzUEJuV1Q5bGZqU0k4MGd4U2xPNm5xU0llYmw4Y2VUM3FNZ0xFSF9uX0ZnZ3ZGSWdmUkV4RFFlMDExSktfRGd6Wm9VUTF4SUh2ZlB6UGtMdVA?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-12"
       },
       {
@@ -24,22 +24,22 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "A Polpanorte chega ao segundo semestre de 2026 com conquistas e estratégias voltadas à expansão geográfica, aceleração de inovações e fortalecimento da parceria com o varejo. Tudo isso acompanhado pela chegada do executivo Nelson Marin à direto",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44RFhBYjBBUnpzLVBLTkE0RHFBVFl0OVFoc1FXbldkcDY4T2RiWEpyR0t1d0JweWQtY005QWpnSXlJc0JFUEFVS1hYTEFWd2JnYnc?oc=5",
-        "fonte": "instagram.com",
-        "data": "2026-08-18"
-      },
-      {
         "titulo": "MBRF (MBRF3) amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBISXhOeTNJRFpIVUo2SHA5ZDZ0dC1ZUHZsREcwM1VzaWVmeGxMYUJ4bGlYaTZ1NEZmQndFeXlCbXFYVjYtOWJFUWJVOG0tMzNmODF0MmxkbzlpUTRIQklDTWZuY0pKRzBuc1BzLURHWHRySlBxR2RwZ3J0WTVsb25tdjByVElNTm81MlBLVm9sRF9EdFFaV3JfLVNGVFhpYnhkOHdGZnU5RzNKVDBubm0zUS1LUE0?oc=5",
         "fonte": "Money Times",
         "data": "2026-08-18"
       },
       {
-        "titulo": "Brasil Sensorial Summit 2026 reúne especialistas para impulsionar indústria de alimentos e bebidas",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3VyZ3M1UEZBUmNsNXhwd3BWLUlTNUFrVnlrUV83Znh0dGhqNmNHQlNfb29hQWdzWFFZbkdmYWctOHBxNXFucDU3LTRTekFtS1pqb01yM2Y1eUdvc2RaNk0wakRhSEZwYzBnYVVrcHcyNHhYd1N0dVh0ODFSTG83V2pBeHhzSW5idHFHRVR3U29OUmNzNk9fLWZUOFdzWk5CNFUyUG5TbzNuTVJ6TmZkRFdTck9FdVZwWERZMEFWVV9iRFJJRUJraA?oc=5",
-        "fonte": "Brasil Inovador",
-        "data": "2026-08-16"
+        "titulo": "A Polpanorte chega ao segundo semestre de 2026 com conquistas e estratégias voltadas à expansão geográfica, aceleração de inovações e fortalecimento da parceria com o varejo. Tudo isso acompanhado pela chegada do executivo Nelson Marin à direto",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44RFhBYjBBUnpzLVBLTkE0RHFBVFl0OVFoc1FXbldkcDY4T2RiWEpyR0t1d0JweWQtY005QWpnSXlJc0JFUEFVS1hYTEFWd2JnYnc?oc=5",
+        "fonte": "instagram.com",
+        "data": "2026-08-18"
+      },
+      {
+        "titulo": "EXCLUSIVO: fabricação terceirizada de bebidas prontas para consumo dispara e chega a 45% do mercado no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVDBpRGZyQlV6R2JKUkpuT1BHeVEtbkM4RFo5UTNSMlp6ZmRhTzFHZDJHSVRoUE0yWWhnSXpab19iR0hEcUUyRFJvVENuMTducFFwSWMxcG5xU1p5aFdrb0h2MDh3UGpoZjZOdEhWNTJtZDg0Qm1NRWFDU3phU2l1RzItVWhfaU90S2tyNGNrNGRmdU9TRE4zR3RzNjhWUy1VaFRIdGxqYU80Z3dNZkp2bjByckhEVkFEZEZfWTdaZG0?oc=5",
+        "fonte": "Times Brasil | CNBC",
+        "data": "2026-08-13"
       }
     ],
     "automotivo": [
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-14"
       },
       {
@@ -78,7 +78,7 @@ window.NEWS = {
       {
         "titulo": "José Fernando Mazuca Filho assume Bioind MT em momento de expansão da bioenergia em Mato Grosso",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTVA5TS1aVU1oWUw5S2tsemtTUHdJZklyRkh0YmVCTF9EVjQyVHdEUU9pNFhYamVIOTlCakZXRFpMT0w3bnFyRlRNV2liMEdKWWJmY1hLcjJQX1p5cGM5OU5rbWxwR0xIY1JrejZ0dVVXMXVNbERORUVITkMwc1BBTzlBWVAweEhrc2daZGIyeHdiRWg2SC1kMU9zcDl3Y2VIbWRYTF9jWk9zbkkydmlRZlk0cExNRlZOVXc?oc=5",
-        "fonte": "JornalCana",
+        "fonte": "jornalcana.com.br",
         "data": "2026-08-12"
       }
     ],
@@ -112,7 +112,7 @@ window.NEWS = {
       {
         "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
-        "fonte": "SuperVarejo",
+        "fonte": "supervarejo.com.br",
         "data": "2026-08-17"
       },
       {
@@ -124,12 +124,6 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
-        "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-08-11"
-      },
-      {
         "titulo": "Taesa mantém estudos para disputar leilão de baterias, mas aguarda definição da regulação",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYTJ6cERRZ0pqaWRXdl9jci1yTHFOS3hmcG56d196azZoSlJBa28tT05KY29GLWVVMF94WmZUeUJ3cm9sWTFlbnlVbm03U1RCZ21aSTgzY1RqQzN3OEZiV3dzclpGdF9KRnkxaGptaldPTS1p?oc=5",
         "fonte": "Canal Solar",
@@ -139,6 +133,12 @@ window.NEWS = {
         "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
         "fonte": "XP Investimentos",
+        "data": "2026-08-12"
+      },
+      {
+        "titulo": "Taesa mira baterias e considera baixa chance de disputar leilão de transmissão em outubro",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGF1MlZtS09TRjQyUlJIZmZVdTkwQVQ5Yi1ubm83NHFwamVGcFVXSzdoSHZYWnZ1Y1dDeFpSUnBXalFuR185cXMxQ1ZwRDFkLWdvMC0yT3lXNHpKT1NfczRQVldvNnhPQlJIYk9fMHhBSEItLVVuYjBpLWQ2RFd4UjRUM1FtY2tVWmgxWmFtaUNUSHZJX3FMaGtrRlI2TXpHN1F3aFFab25WX2VueFJhcVZFTjJpU2FRUFZWOXFQYjVfYWJtbnEyMFZxTXRKdnVyVWhUNUJnZTl6cURkcS11Tg?oc=5",
+        "fonte": "MegaWhat",
         "data": "2026-08-12"
       }
     ],
@@ -179,7 +179,7 @@ window.NEWS = {
       {
         "titulo": "ENSCEIS e o futuro da indústria da saúde",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RvZTNNNExvcm56WnVSYlFTQnR2NUR6REdBbWUtZENGRXRNV0N3dl9GR0duNndLY194RzByYm9PcmRxUWlCR1NvZjRtN21DZUNqM0szVXhER0NPZXRReFdfZ3JrdVp3REg4OGczTEowOTFteHZzUXV5dGdaeVRhbkFtNkVnNDAtTHFCRDdHNVM0T192aWN1M1UxbF9UbHlz?oc=5",
-        "fonte": "Panorama Farmacêutico",
+        "fonte": "panoramafarmaceutico.com.br",
         "data": "2026-08-18"
       }
     ],
@@ -280,7 +280,7 @@ window.NEWS = {
       {
         "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-15"
       }
     ],
