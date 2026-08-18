@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T11:27:45+00:00",
+  "atualizadoEm": "2026-08-18T12:51:32+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -220,7 +220,7 @@ window.NEWS = {
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "alagoasalerta.com.br",
+        "fonte": "Alagoas Alerta",
         "data": "2026-08-14"
       }
     ],
@@ -238,10 +238,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Carta de Conjuntura",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZURnQno4RndnZmJOT3NydjRtWkZRa1ZqZmN3WFNnRUFnMW1VTGxNWHFYREtnVGVwQm5VbHdiamxIQ3FhR2JzMk91QjZqSjk4bElKRA?oc=5",
-        "fonte": "Ipea",
-        "data": "2026-08-14"
+        "titulo": "Cazaquistão acelera produção de máquinas agrícolas com expansão dos investimentos internacionais",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVFmS1NXNldBZnAxTG9HZ1BLSkZ5Y0Q5S3kta291bnhvRS12WjA0Rlc3a2tJN005OG9GVG96YkptQnNLOFFkSm41UXdfNl9mTG1FY1VtZUJScGdKSU9VU2JVM1dfYW9PMDBPSmlSTzNFOGV0cjFCVm5EZm1hc2FickZPR0ZJZjZTVDBsV0pYODVPRWpxUVk1LWRsR2o5VW9xQkFoMU81SWlkOWdRVE54X2JaVWVKaUNRRU91NkZn?oc=5",
+        "fonte": "Maquinac",
+        "data": "2026-08-15"
       }
     ],
     "mineracao": [
@@ -286,6 +286,12 @@ window.NEWS = {
     ],
     "quimica": [],
     "saneamento": [
+      {
+        "titulo": "BNDES apresenta concessão de saneamento de RO, com R$ 4 bi de investimento",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGJGYlZhRmpfLTBvSFBvMUY5X19TZGhka1hSRWxfSjNvb0J6djJwYlkzS2tid1N4bktUd1o4LXdXaXNIZ2w4VG5jOTZaaW5mU1pFdUc1U2QzT1JvaENpd2JqY2VEbGZ0T2w1alpTYnJIaGctbjRwR2xMSW9EcEkwXzAwNzRXN0VDRThFWHBSWWxhOWNIbHJ0VWdtSThDQTAwYlZIa2Z3?oc=5",
+        "fonte": "Agência iNFRA",
+        "data": "2026-08-18"
+      },
       {
         "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
