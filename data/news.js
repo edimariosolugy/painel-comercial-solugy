@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-17T23:25:53+00:00",
+  "atualizadoEm": "2026-08-18T09:36:56+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -110,23 +110,23 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
+        "titulo": "Casas Bahia demitiu 3 mil funcionários e fechou quase 300 lojas em agosto",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDVrR1BCUFRYMkFFcWd1U2cyQld6UzJKSFdBQ2VEODNMcXNyWEczQXFfVlhaSUQyRXRWeFBfXzM0dnpMWXNnclEyOXhpMUZIUGo0Z1BIbUxwZWdtbWNsamJwRUZKa2F1RmR1MWU0ZUFIdXliazFqaWhGUjUxbzl4ZjZMREwtai1TdlZLekctemJiYlJxSWo1V1dGWXZpTUVFZHZzMmZwTjJMamlYUXRPSG5QbkdsOGxKVlctQlRmMmpIMEhvQThkeTRFZHZjMzZTTEd4V2xxbXrSAecBQVVfeXFMUDFkSXc2Z0lHZkxTRU1vTERYRi1aQnB1dGg0OVU0eGEweG9jc2hxQXRoNlVsaGtLcVAzRlpnd2pIOTFMTEpuOVNEbS1EWjlKaW9vMW9tY2ZYTGNWY1o2MGgxM0VXblV1dzdTRHl5cGhmcjA2cUU2dk9YZXdRS2p5S25xSnBUQnZYNXV5VUVWaTQ3YUUzd194RnFDTXd1VzN2QWdwNjRoa045bUU1bTN6amE5TXZ0Nkc3aFNTSjRvMXRXMlNYUFY4d252aGxsbXU0eUJfYmtpeko5cGhweEVMOW41cENBMmdz?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-17"
+      },
+      {
         "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
         "fonte": "SuperVarejo",
         "data": "2026-08-17"
-      },
-      {
-        "titulo": "Guimarães projeta expansão nos canais de varejo e exportações em 2023",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXk5cy1TbzA0Z0R3MXV5eXExcFNVMWtWLTUzcjlpanpkVF9YUTJBdnlyV05sdi1pQUxjeUphUXBOVmlOb0lHTHJDMG9sY0tQb2YzdkE3c056Xy1XZk4zTWkwZHRYaFVVWmFnd0EzZDY2cDFtRHhJbG9WelB4bExVT2tjcVUtR0d3MzRvWEMxTTlHNHNHOVhhckhwanFEbURKcU41NUU2RmZWUTdFZzBEMXNWQQ?oc=5",
-        "fonte": "noticenter.com.br",
-        "data": "2026-08-12"
       }
     ],
     "energia-gt": [
       {
         "titulo": "Aneel aprova homologação resultado da segunda etapa de leilão de transmissão",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMThYamF2REtMZUJ4WklYUHB1clRIN0xneW9Yb0hBakI5OC1yaEozMmVVeDdPRTR6TjA0Z29IRHBCNkFMbm1PWjB1VjZFNzBDYndhSWJTSVR1d3g3S0tzTGlFcVF4MVRoNmdjdXdLakRmUjA2Y05WazBnaC1pcGpjaEJrNlhQa2FpZGFLaFVmNDdTWXBiLUdWRDR3QXB6ellvX014MllydzdOYXZRU252UDNMZTlkZw?oc=5",
-        "fonte": "Agência eixos",
+        "fonte": "eixos.com.br",
         "data": "2026-08-11"
       },
       {
@@ -171,16 +171,16 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
+        "titulo": "Interfarma apresenta 10 prioridades para a saúde no próximo governo",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaejNFUGRQcjFwTnNfMEVLOTBfa3lvYzA2VExNNklDRm5tLWFwWFJzVEhPWWNqQ2laREtzMUxVcHo3RktDdnNnYkc5N3ZTV1BpZ2h6dEhfVWtoY0hmYXJ6LURR?oc=5",
+        "fonte": "Medicina S/A",
+        "data": "2026-08-18"
+      },
+      {
         "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
         "fonte": "O GLOBO",
         "data": "2026-08-17"
-      },
-      {
-        "titulo": "Conheça os tipos de repelentes para se proteger dos mosquitos (Dengue)",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZFBqd2JZcHJwbEZLcno2dTBQZFNqRkZRQlItajZ2YnRYU1ZnSFpTa3hoUGVrSXN6MHVQM0NUSC0zcFJpQ1kyckZYWlFVWGlEanllcXRMcDBnVkhUc3ZIS1VSOXE4QjVZbkgyZFJUajV4QnZ3aEp5UHA3dThaWnBQSWQ1U2JXSWFxOUdLRnRjZExKSWE2SjVybTdmQnZpbEJvbGd2U2FVS3g4alcwTWxDTkhoTjQyR3VrbktRazV6bmJwaEpTdmJYTmVHUFJFVHFG?oc=5",
-        "fonte": "PFARMA.com.br",
-        "data": "2026-08-14"
       }
     ],
     "fertilizantes": [],
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "gauchazh.clicrbs.com.br",
+        "fonte": "GZH",
         "data": "2026-08-14"
       },
       {
@@ -214,13 +214,13 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
-        "fonte": "esbrasil.com.br",
+        "fonte": "ES Brasil",
         "data": "2026-08-12"
       },
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "Alagoas Alerta",
+        "fonte": "alagoasalerta.com.br",
         "data": "2026-08-14"
       }
     ],
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "gauchazh.clicrbs.com.br",
+        "fonte": "GZH",
         "data": "2026-08-14"
       },
       {
@@ -291,12 +291,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
         "fonte": "XP Investimentos",
         "data": "2026-08-12"
-      },
-      {
-        "titulo": "Brasil prepara licitações de mais de R$3 bilhões para projetos de infraestrutura hídrica",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3hmTlo4VFExTFNIVjlERGtqUUtONUluLWsweXpwanJEek9sSEtndUFMTEZhV2lUclU1dVB2QjMtQUJEWXRJVlBIczB4WkY3aEp1OTE3S2laSVR4N1c3SGk0elQybnotQ3liTFdvM20tOUdHbFhIZUlIaUpiN0tCanpXaE9qN05OZW5fcW16ODRGWWR3R194NUJjQ2RoNktGdExUMlROU2l3NlpKZy05N0pUYkVRNlU2SExQTi10RXpnaW9F?oc=5",
-        "fonte": "bnamericas.com",
-        "data": "2026-08-17"
       }
     ],
     "siderurgia": [
