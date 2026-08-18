@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T18:41:45+00:00",
+  "atualizadoEm": "2026-08-18T19:30:20+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola pede ao Brasil ajuda para deixar de importar alimentos",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHVnLThXc2pBeE4xMTJPTUVpX1VFY09taHR1Skp5NTh4eGI5V2VqU05uYWdrYUw4bWxidXY1TzdHeFBZOWRUQWExV1MzUEJuV1Q5bGZqU0k4MGd4U2xPNm5xU0llYmw4Y2VUM3FNZ0xFSF9uX0ZnZ3ZGSWdmUkV4RFFlMDExSktfRGd6Wm9VUTF4SUh2ZlB6UGtMdVA?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-12"
       },
       {
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-14"
       },
       {
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-14"
       },
       {
@@ -232,16 +232,16 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "Carta de Conjuntura",
-        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZURnQno4RndnZmJOT3NydjRtWkZRa1ZqZmN3WFNnRUFnMW1VTGxNWHFYREtnVGVwQm5VbHdiamxIQ3FhR2JzMk91QjZqSjk4bElKRA?oc=5",
-        "fonte": "ipea.gov.br",
-        "data": "2026-08-14"
+        "titulo": "De Fábrica de Data Centers a Fábrica de Chips: Governo Lula Já Investiu R$ 8,4 Bilhões em Tecnologia de Ponta no RS",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXp2VnFGdlpZQ0xtNWRFRUc4WFVpY19heUxxQjVGeDhKWnJONmlGQlppT1JaaU9nekpsaFc4aV83RUxPUjhUV0hpM1lQdWxoc3FOTmxXZFpaMkpHbkdwazljWmdDbG5sbno0WWdleW4zeTdmbkd1dnBhLU9hX2RlU2hjeGpkQVFOMnFxTlliUGNBOFpHeWdLaWZ0Z3F1N3EtLTJ5MHNtMkUwT05GYlY3RDV4bjdYWmZUY0lqX2J1Z09YY3NSdENMd1VZbWFMN1VJU1NITURscWlGblk2ay1DUQ?oc=5",
+        "fonte": "luizmuller.com",
+        "data": "2026-08-18"
       },
       {
-        "titulo": "Máquinas agrícolas chinesas estão assustando as gigantes tradicionais no Brasil?",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdXAwanIwN3lLaWVtNXZ4MWxySDdqWUxTeXVhQmJjLW1hMVNhQVdSVUdlblRGTnpsZi00LXNPWEpKWDRsMnIzaEJ0QTBReVF5LUNJSG5kejRTak5JeHo3NFdBZTl3Y19fMUdydV9WSUZJUlRtalA1UEtzZEhvWkJvaGJ2d1BUcXVHVm5hUjZCTkVyaDlENUJNb012MkpYZTJ4VEQxOWtnSml4Qklp?oc=5",
-        "fonte": "CompreRural",
-        "data": "2026-08-18"
+        "titulo": "Carta de Conjuntura",
+        "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZURnQno4RndnZmJOT3NydjRtWkZRa1ZqZmN3WFNnRUFnMW1VTGxNWHFYREtnVGVwQm5VbHdiamxIQ3FhR2JzMk91QjZqSjk4bElKRA?oc=5",
+        "fonte": "Ipea",
+        "data": "2026-08-14"
       }
     ],
     "mineracao": [
@@ -280,7 +280,7 @@ window.NEWS = {
       {
         "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-15"
       }
     ],
