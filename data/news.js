@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T13:44:40+00:00",
+  "atualizadoEm": "2026-08-18T14:36:24+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -58,17 +58,11 @@ window.NEWS = {
       {
         "titulo": "Montadoras chinesas ocupam fábricas de rivais e produzem carros no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOXNPLVJpM0lXUlEzNThQSUIzQUJwdENZdWRWYkhVNldCVng2MzNMcmk0b2ZtaS1ma2IzNHQtQmtsdExudEZsOXU0dWhoMlk1bldFc1BsUFNxWmtDLVRzWTdaR3RiVGJtcmZhYTFNTDRUeDdZNDllZHh3OE92STIzLVg0YXdzYWl3R29fem5DWU1rS3daX3pFaEZEU0xNUjVFaDRrZVdzUTV3Skk3N3RMZTNQcUM1OUt5bUJ2dGhiNjJPMUnSAcMBQVVfeXFMUDlzTy1SaTNJV1JRMzU4UElCM0FCcHRDWXVkVmJIVTZXQlZ4NjMzTHJpNG9mbWktZmtiMzR0LUJrbHRMbnRGbDl1NHVoaDJZNW5XRXNQbFBTcVprQy1Uc1k3Wkd0YlRibXJmYWExTUw0VHg3WTQ5ZWR4dzhPdkkyMy1YNGF3c2Fpd0dvX3puQ1lNa0t3Wl96RWhGRFNMTVI1RWg0a2VXc1E1d0pJNzd0TGUzUHFDNTlLeW1CdnRoYjYyTzFJ?oc=5",
-        "fonte": "tribunapr.com.br",
+        "fonte": "Tribuna do Paraná",
         "data": "2026-08-16"
       }
     ],
     "bioenergia": [
-      {
-        "titulo": "Etanol de milho: Brasil supera EUA em rentabilidade",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRHBGT3BJR05hWW9ZTjNIVENCNmkwSW1BbWJuSm10dmZ4WXplSENsYk1GLXh5NFlMVnVtcjhLMUM3a05sYXIwX3h3NzI3TThGMzF2ci1XRVRXRDVycXpWSDlRUTZWd0VjRGFJU1Uya2ZpaUhCN2JhSWl3ODlkeGpmQ0RIeXVscE1XdGdhS25KRnNHbzFQclg1WXpVWXAzdFB1V01zVVhSWEJjTjl0ejJ6MFpB0gGyAUFVX3lxTE5rRkdUQTB2Qnc0M1VlQW9VdWVaVWh2VGkzZXpNRjNpTmxyMkw2Y0dNcnVvSENsV1RnY3B3SEZJX3hxaENtamI0OEpUeVZGSFdxUjZSM3BtMEx0MWp6TFZnYTJFNEdBSWMtRWpfNGptMmduc0o2cHNmcW9VaFBwOXFLbGUzb0w0YVNydWlWME0zUzhYY2l3WXZ0cDJaTWk1WGpCX2Vmb25hY29VU0xDSTFnUHc?oc=5",
-        "fonte": "Campo Grande News",
-        "data": "2026-08-14"
-      },
       {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
@@ -80,6 +74,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNd1hjMXdJd19Xb1Mya0NyX1VGd2VKdlJZejZTQmhJVVFyR3BwYUJuS3VOWEpRbW8wcXZfVnBnT3NLTG1YbVF2SnRFdEhzNU53Ui1fMUJxRTE5UTA2SDN5SmFxeDNyYnhFOVYxcm1SbEU4Z2ZELWdaR0x5YTdtczFEenBfN0V4S1pUcFpFZXVPWDZRRDhUaEpNUEpqWEFRbUhPWGMwM2xtNW91LU5rbm4zTkh4N1NJMWRUNDZQOUlkZjhSM1lBSGF3VGZrYkRWSjktTkRHR1VlQWx0UQ?oc=5",
         "fonte": "JornalCana",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "Exclusivo: Usina de Otaviano Pivetta recebeu dinheiro de fundo investigado pela PF",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0QyX1pxbWRxLVdjTWRQM3FnSzlKdHJDbXVDeDV1R25JQ19jYTFRcW1qaV9KbnRpWlVMVDJUcVFlMWlhN1VHSFVTVmYwYlNTdERFeUZGRmo5X2tWczBYeUg3TFJLNUhVVnpxTGQ5bmZIRzhCNTZxNzcxbmNTelpSTkJycHgyNnVjNkZjOVYzOHZJX0RRemRaMk4zc2Y4NnNCa1NCbGkyTUNJVFE?oc=5",
+        "fonte": "pnbonline.com.br",
+        "data": "2026-08-12"
       }
     ],
     "cimento": [
@@ -104,12 +104,6 @@ window.NEWS = {
     ],
     "comercio": [
       {
-        "titulo": "Casas Bahia demitiu 3 mil funcionários e fechou quase 300 lojas em agosto",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDVrR1BCUFRYMkFFcWd1U2cyQld6UzJKSFdBQ2VEODNMcXNyWEczQXFfVlhaSUQyRXRWeFBfXzM0dnpMWXNnclEyOXhpMUZIUGo0Z1BIbUxwZWdtbWNsamJwRUZKa2F1RmR1MWU0ZUFIdXliazFqaWhGUjUxbzl4ZjZMREwtai1TdlZLekctemJiYlJxSWo1V1dGWXZpTUVFZHZzMmZwTjJMamlYUXRPSG5QbkdsOGxKVlctQlRmMmpIMEhvQThkeTRFZHZjMzZTTEd4V2xxbXrSAecBQVVfeXFMUDFkSXc2Z0lHZkxTRU1vTERYRi1aQnB1dGg0OVU0eGEweG9jc2hxQXRoNlVsaGtLcVAzRlpnd2pIOTFMTEpuOVNEbS1EWjlKaW9vMW9tY2ZYTGNWY1o2MGgxM0VXblV1dzdTRHl5cGhmcjA2cUU2dk9YZXdRS2p5S25xSnBUQnZYNXV5VUVWaTQ3YUUzd194RnFDTXd1VzN2QWdwNjRoa045bUU1bTN6amE5TXZ0Nkc3aFNTSjRvMXRXMlNYUFY4d252aGxsbXU0eUJfYmtpeko5cGhweEVMOW41cENBMmdz?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-17"
-      },
-      {
         "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
         "fonte": "SuperVarejo",
@@ -120,6 +114,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXk5cy1TbzA0Z0R3MXV5eXExcFNVMWtWLTUzcjlpanpkVF9YUTJBdnlyV05sdi1pQUxjeUphUXBOVmlOb0lHTHJDMG9sY0tQb2YzdkE3c056Xy1XZk4zTWkwZHRYaFVVWmFnd0EzZDY2cDFtRHhJbG9WelB4bExVT2tjcVUtR0d3MzRvWEMxTTlHNHNHOVhhckhwanFEbURKcU41NUU2RmZWUTdFZzBEMXNWQQ?oc=5",
         "fonte": "noticenter.com.br",
         "data": "2026-08-12"
+      },
+      {
+        "titulo": "Casas Bahia demitiu 3 mil funcionários e fechou quase 300 lojas em agosto",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNRDVrR1BCUFRYMkFFcWd1U2cyQld6UzJKSFdBQ2VEODNMcXNyWEczQXFfVlhaSUQyRXRWeFBfXzM0dnpMWXNnclEyOXhpMUZIUGo0Z1BIbUxwZWdtbWNsamJwRUZKa2F1RmR1MWU0ZUFIdXliazFqaWhGUjUxbzl4ZjZMREwtai1TdlZLekctemJiYlJxSWo1V1dGWXZpTUVFZHZzMmZwTjJMamlYUXRPSG5QbkdsOGxKVlctQlRmMmpIMEhvQThkeTRFZHZjMzZTTEd4V2xxbXrSAecBQVVfeXFMUDFkSXc2Z0lHZkxTRU1vTERYRi1aQnB1dGg0OVU0eGEweG9jc2hxQXRoNlVsaGtLcVAzRlpnd2pIOTFMTEpuOVNEbS1EWjlKaW9vMW9tY2ZYTGNWY1o2MGgxM0VXblV1dzdTRHl5cGhmcjA2cUU2dk9YZXdRS2p5S25xSnBUQnZYNXV5VUVWaTQ3YUUzd194RnFDTXd1VzN2QWdwNjRoa045bUU1bTN6amE5TXZ0Nkc3aFNTSjRvMXRXMlNYUFY4d252aGxsbXU0eUJfYmtpeko5cGhweEVMOW41cENBMmdz?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-17"
       }
     ],
     "energia-gt": [
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Brasil é o país que mais busca por energia solar residencial nas Américas; confira ranking",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EVUx0cl9nMWVTQXdyV05QSWJTWEFnbEVZcGVpZE9obFNuNXlkUXUtb0F5ZHB5WHlmTWNreEJDaWsweVBhSnJrU0g2RXBSTmtCczd3cGxpWW5WLU1fRVhLNTlBZWdkYlBmTjV4R0dueGMwcVplT3dv?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-13"
       },
       {
@@ -167,7 +167,7 @@ window.NEWS = {
       {
         "titulo": "Desindustrialização compromete soberania em saúde",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHV5bnowT1ZLdUotY05XOXNKald0Z2p3TGE0YndaRC1NcFRYWjhoa21kMndCa0wxTVIzZzhJb1RZSEthd3EzLU1TbG1jYUZQQWJFSzhlZ2xleTltNEllM3BLbEx4OUhUWjBKRFQwNVFFYzFaSmI4YUFLcWI5MlFqSTBvZzcyZ2VJSWdYb08wQndWa3NZMVI0eVZ2TTZ1dw?oc=5",
-        "fonte": "jota.info",
+        "fonte": "JOTA Info",
         "data": "2026-08-17"
       },
       {
@@ -179,7 +179,7 @@ window.NEWS = {
       {
         "titulo": "ENSCEIS e o futuro da indústria da saúde",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RvZTNNNExvcm56WnVSYlFTQnR2NUR6REdBbWUtZENGRXRNV0N3dl9GR0duNndLY194RzByYm9PcmRxUWlCR1NvZjRtN21DZUNqM0szVXhER0NPZXRReFdfZ3JrdVp3REg4OGczTEowOTFteHZzUXV5dGdaeVRhbkFtNkVnNDAtTHFCRDdHNVM0T192aWN1M1UxbF9UbHlz?oc=5",
-        "fonte": "Panorama Farmacêutico",
+        "fonte": "panoramafarmaceutico.com.br",
         "data": "2026-08-18"
       }
     ],
@@ -232,16 +232,16 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Carta de Conjuntura",
         "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wZURnQno4RndnZmJOT3NydjRtWkZRa1ZqZmN3WFNnRUFnMW1VTGxNWHFYREtnVGVwQm5VbHdiamxIQ3FhR2JzMk91QjZqSjk4bElKRA?oc=5",
         "fonte": "Ipea",
         "data": "2026-08-14"
+      },
+      {
+        "titulo": "Por que o mercado da caixa de velocidades industrial está transformando operações industriais através da transmissão de energia de alto desempenho, eficiência energética, automação inteligente e tecnologia de engrenagem de próxima geração",
+        "link": "https://news.google.com/rss/articles/CBMizgJBVV95cUxNQ1ZWcUVjX3dzellHa19jaXdObGUwY3RVczdtcWlrWl9uSGlTRmttWERrUnlXdDl5aldkeGRBUXZCWmRpOFIzZWozUjFkb1ZPQkR6TGwyYlJZRmV5SmxZcG9IMTYxRW8wNmp0X2lIVFVLN2tucHd2R0RGVnF2MGtJZEpNOXFBRUhzbnhpSmItMjF6dE1CNUYwODM2ZE1WZE9faGhrMDJJS1NDbzZGdUk4eFBYejBFbUhWXzZkRmxEZ2FxbVBONjVJbjlyZzFxQXNvSXdKdjN0MlNKYTJTWTVuNlE0eUFsTk51RVE1TDRDcFZGUWJQZFU0UmRQLW92cnVxUVZsdFFmWEt0N2JFazVIcVlVVTJSOVpRNGd2eDFhZndxS18xY0J3Ui1xQmY3dkRkcV82YkRNOGlOS2trSDdhZldteF8xeEJIVFp0ZktR?oc=5",
+        "fonte": "Spherical Insights",
+        "data": "2026-08-17"
       }
     ],
     "mineracao": [
