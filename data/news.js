@@ -1,19 +1,19 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T16:34:37+00:00",
+  "atualizadoEm": "2026-08-19T17:29:06+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-08-17"
-      },
       {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
         "fonte": "Bloomberg Línea Brasil",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-08-17"
       },
       {
         "titulo": "Opinião - Papo de Responsa: Proteger as florestas é investir no agronegócio",
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Avanço dos importados acende alerta no setor automotivo",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlR6XzB2eE8zcEpiWmNjSHFoM3RqX3NETzQ3eXZpR3NrSGd6TF9lblNEVmVNeWRBb3NjcWtKY0pLSVR2M1hBY21JMzJWYkc2ZHpCMlRpUDVkX29XbGtnVzVXcFI0aUF1Rkt3TUh4V3VILV82WWVreTEzWG9YOXhMb3RZa3pEelBYVEJHM25oWUQtazl1QzVlZWFsVFFtYmNUOFE?oc=5",
-        "fonte": "transportemoderno.com.br",
+        "fonte": "Transporte Moderno",
         "data": "2026-08-18"
       },
       {
@@ -92,7 +92,7 @@ window.NEWS = {
       {
         "titulo": "Cimento Apodi destaca inovação na ExpoConstruir 2026",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnVPamFYN3plaTRXWnk5T2hpa2I1dzRSdnViNFI2b2lOVWFLMG0yMUhrUVloM1RvNGdiR1RCRS1IbS1Ic1o3ekhaQVVXNHp6dGttcFlVSGxPZVhjTXdaVDBGTXVBOG1fdzVEUW5WUVc2TWtmQUtLVzVROXM3blUybU53elMyYjEwa0VOemFCdTBvQnFod1F4bng1eDItV1J4VUkzUFh0OVJfRXhRa3I0SDl3?oc=5",
-        "fonte": "portalterradaluz.com.br",
+        "fonte": "Portal Terra da Luz",
         "data": "2026-08-13"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Taesa mantém estudos para disputar leilão de baterias, mas aguarda definição da regulação",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYTJ6cERRZ0pqaWRXdl9jci1yTHFOS3hmcG56d196azZoSlJBa28tT05KY29GLWVVMF94WmZUeUJ3cm9sWTFlbnlVbm03U1RCZ21aSTgzY1RqQzN3OEZiV3dzclpGdF9KRnkxaGptaldPTS1p?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-13"
       },
       {
@@ -136,17 +136,17 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Taesa mira baterias e considera baixa chance de disputar leilão de transmissão em outubro",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGF1MlZtS09TRjQyUlJIZmZVdTkwQVQ5Yi1ubm83NHFwamVGcFVXSzdoSHZYWnZ1Y1dDeFpSUnBXalFuR185cXMxQ1ZwRDFkLWdvMC0yT3lXNHpKT1NfczRQVldvNnhPQlJIYk9fMHhBSEItLVVuYjBpLWQ2RFd4UjRUM1FtY2tVWmgxWmFtaUNUSHZJX3FMaGtrRlI2TXpHN1F3aFFab25WX2VueFJhcVZFTjJpU2FRUFZWOXFQYjVfYWJtbnEyMFZxTXRKdnVyVWhUNUJnZTl6cURkcS11Tg?oc=5",
-        "fonte": "MegaWhat",
-        "data": "2026-08-12"
+        "titulo": "Térmica Azulão II adiciona R$ 2 bi de receita fixa anual à Eneva, calcula comando; veja o Radar Energia XP | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTnhIT1UwLXQxMlVOcDAzVTVHYUdkQmpDNWpIaUxibUY0SHMzbVoyQk9TU1dkMFl0WE5OSzg4djVNR1Y1T2lWMGR4UkFqOWI1aTV1Vi1fcGk2R3RMbUEwV0ozaS0zT1Nwak5IeW9weDhKYWVRNVNfSmN0NVNacGRtN2dpcTRhdEFiUVVvZXNvVExoNm41eXF1ZUl4cUNpdDBWYmFScy1tUFZqcjZOZXRNRG1DVFFNZHJMdFBldFpTVG1ZbWVDNW9NWmJaUDhRcGF5OHhYcFRFanhhWjJMR0hncmltYlZXTW5WaU9GMVZR?oc=5",
+        "fonte": "conteudos.xpi.com.br",
+        "data": "2026-08-14"
       }
     ],
     "solar": [
       {
         "titulo": "Fórum Brasil-China reunirá especialistas sobre futuro da energia solar e de armazenamento",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtTzgwSTRwRDFIbzdpNjRlYjVQR09ITkxvendJWWV2bTBBWDhFYm5mSVF4RG85ZTZjYnJqRDYzSHZfTU9fdVJjNTVxczlrTUtsZGZrZkJsWHVWaGY2LVpaNEFDZHF0eFhpT09kQ1F1Y1A3Y01kZHMtWWgwcHQ?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-14"
       },
       {
@@ -156,9 +156,9 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Brasil é o país da América que mais busca por energia solar residencial; confira ranking",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2JtT0k2U3VhUlhyYk9YUmdaYkpoY01fd2M3Q2lDUVhId1I5U2ZMbzZ5QkU1TDJtNlFwOVFJYUc3cXg3ajhraVM4RjhBcjdDLVFNZWREcC05WDhhZnV3Vk5IY2M2cUNSdlF3S0J5cFB2SldaTHN1RFM2eGR4eWFYejNqMENnZXRIOW9KUlZKWENram4zamc2dFpiRWpyOFNfVUppbzRpcFhYX2ZXM182aHBrWjVaRFpBakZxQjlDZGthQ09jZExoa0o2VdIB0AFBVV95cUxQNVZKMEpUSDZyMGZrX3NLV0paTGFIWGdhZFRQRjN0Q0s1MjBpanhDWGQ5azViYTdCR1lmVEVaanZWdVRULUtpdXNWZm5hUGN4TmF6SDJvRUtGUUZsRlltbllTdnR4b3ZRSmw2VUdNRkFvblJtdXZsZ3RTUFlVaUhRRVd5NU5EVXRZcm5DTF82d2pBb3Jib3JPb1dFTU1lRGpmV3ZSYUZ2SGxzdjE3anZqTm5ydlVqejM5cmplZGJ6d1NXVWlGZWVvcXdYMEdxQXhI?oc=5",
-        "fonte": "ContilNet Notícias",
+        "titulo": "Elera aponta baterias como próximo grande investimento no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXZBX1BLM3dXTVF4Z1hYRzllLVlOU09oaFowcFZXVE9wSU4zMmFSUE5MZEJWbU1CWU5aZlMyQ3NUcHhpRmpVVmJ6VnRPakY0dzVmbC1pYzUxZDExdDN2aFZjcnpIby1WcTZvS0E3ckpTeUNSUXdBZ0xqdm55Yk93VEppdlZ6OTVybm5FbDV3OEwzSGNFaERrWEtndmJaMm8?oc=5",
+        "fonte": "CNN Brasil",
         "data": "2026-08-18"
       }
     ],
@@ -179,7 +179,7 @@ window.NEWS = {
       {
         "titulo": "ENSCEIS e o futuro da indústria da saúde",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RvZTNNNExvcm56WnVSYlFTQnR2NUR6REdBbWUtZENGRXRNV0N3dl9GR0duNndLY194RzByYm9PcmRxUWlCR1NvZjRtN21DZUNqM0szVXhER0NPZXRReFdfZ3JrdVp3REg4OGczTEowOTFteHZzUXV5dGdaeVRhbkFtNkVnNDAtTHFCRDdHNVM0T192aWN1M1UxbF9UbHlz?oc=5",
-        "fonte": "panoramafarmaceutico.com.br",
+        "fonte": "Panorama Farmacêutico",
         "data": "2026-08-18"
       }
     ],
@@ -198,10 +198,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-17"
+        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-08-15"
       }
     ],
     "logistica": [
@@ -214,7 +214,7 @@ window.NEWS = {
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "alagoasalerta.com.br",
+        "fonte": "Alagoas Alerta",
         "data": "2026-08-14"
       },
       {
@@ -246,8 +246,8 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Funding é o que fará o Brasil liderar a corrida por minerais estratégicos",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY1J0MXI5RGlFQm1jbmFNUm8xRXNhZ3p0T1hLSXp4OGpPZnBJQzRSbnpVZVFMUFgzUG54TzNRS2ZRSFhyWE1DQ2xzVktkaVNLbTlmOE1yMmd3VXNHY2VvRjFpRFFZalg4NXVqS1h5Y2Zmb3FSMGdrRW91dFRGZm5mNm81THBSSU1IalRKRkdJZnFmVF85Tjd2b093dG1aYkZDdDFYWURRWmxkZXpHM3FFN2ZydHJGVTBWUGx6YTVrTjZEemQzZjZycGVITTlGOVNyNUlndlpiRWkwWVBibHNBa3RPWW5qLVFoQW5DT3F1RWkwZndIQk5ENtIB-AFBVV95cUxQY1J0MXI5RGlFQm1jbmFNUm8xRXNhZ3p0T1hLSXp4OGpPZnBJQzRSbnpVZVFMUFgzUG54TzNRS2ZRSFhyWE1DQ2xzVktkaVNLbTlmOE1yMmd3VXNHY2VvRjFpRFFZalg4NXVqS1h5Y2Zmb3FSMGdrRW91dFRGZm5mNm81THBSSU1IalRKRkdJZnFmVF85Tjd2b093dG1aYkZDdDFYWURRWmxkZXpHM3FFN2ZydHJGVTBWUGx6YTVrTjZEemQzZjZycGVITTlGOVNyNUlndlpiRWkwWVBibHNBa3RPWW5qLVFoQW5DT3F1RWkwZndIQk5ENg?oc=5",
+        "titulo": "Bate-papo sobre o momento ímpar do Brasil no setor de exploração de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZWaVR2bHpzSER1YWU1UXNwaFdCbkNUY3JCVkRGZDFWS2Y0c2pQZjNTckNEd1lUN2ZWUG9Dakc4V0tXVlA4VTJQbmVmRVpjVHVobk4zWHBVWEJKY25NbE5rcWFJbDZQMk5LNXM0N2VqZEdwT1YzMkdEMXJoM3NFUFlsOVo0T3ktdGhGSFBQRWZQc2J6ZnFPNG9lWWc5MEgtY0NNTFhGQnRBZTJ0SGl3Nk1jdXpPeGltQlNiWldpNEtHbFR3QUlTODJ0emdaajNxT1hlcWxHdWpOZmtTLUd4RHFrUWlRbG4tM0xLcGotTEVmdm9CTjVuX1c5ZGFHa3A4emxoVXZFOXbSAYgCQVVfeXFMT002VmlUdmx6c0hEdWFlNVFzcGhXQm5DVGNyQlZERmQxVktmNHNqUGYzU3JDRHdZVDdmVlBvQ2pHOFdLV1ZQOFUyUG5lZkVaY1R1aG5OM1hwVVhCSmNuTWxOa3FhSWw2UDJOSzVzNDdlamRHcE9WMzJHRDFyaDNzRVBZbDlaNE95LXRoRkhQUEVmUHNiemZxTzRvZVlnOTBILWNDTUxYRkJ0QWUydEhpdzZNY3V6T3hpbUJTYlpXaTRLR2xUd0FJUzgydHpnWmozcU9YZXFsR3VqTmZrUy1HeERxa1FpUWxuLTNMS3BqLUxFZnZvQk41bl9XOWRhR2twOHpsaFV2RTl2?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-19"
       },
@@ -260,7 +260,7 @@ window.NEWS = {
       {
         "titulo": "FIEMG debate minerais críticos e cooperação global",
         "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
-        "fonte": "FIEMG",
+        "fonte": "fiemg.com.br",
         "data": "2026-08-19"
       }
     ],
@@ -274,7 +274,7 @@ window.NEWS = {
       {
         "titulo": "Eneva já se prepara para chamada de duas usinas no LRCap após revés da EPP | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
-        "fonte": "XP Investimentos",
+        "fonte": "conteudos.xpi.com.br",
         "data": "2026-08-14"
       },
       {
