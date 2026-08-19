@@ -1,8 +1,14 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T18:39:07+00:00",
+  "atualizadoEm": "2026-08-19T19:28:22+00:00",
   "itens": {
     "agronegocio": [
+      {
+        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-08-17"
+      },
       {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
@@ -14,12 +20,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmd5Z1N6NURyVlJ3RUR6YS1RWnYyVnNacW4zclZQUEF4YlpFRnRhN3ZMV0dhOWs4eHRqM2VwZmFtNWprRFVqUWF6S09SVzd5UlFjdGt4SDVVbGpSa2hTRVRnSTFvdnczMEotLWFTazJHN2ZsTHJiRDZOMlZYTkJqWnI0ZG95SUVZWjBQcXIxLXpDMU50V0plWjJqa193dTkwLTZhaHNxQVhqTm5HZmF1MmhoUWZfYXo4cUtkaEJtaG5EMFlreTB0T09rSVNXbWtqbDJHekdkS2NEdmxkYS040gHuAUFVX3lxTE1YLTFsQjZ5UjdyRVQwS3dUSDBOdXFBTlhPeWMtTnBiZjFSSTZtWkhNV2Z3TzVMUjE3S1o0bWJGUVJzSXYyeUFzTG9idVRwcjFYaHFHLTFEc2VwZjgzaXpPM2swbVNUVW5GZEZLTlMyRzVHV1BfRE90ODRVT1hHcjk0dG1HcGVfMFVIT2xNTnFBRl9XUXpPU21IeWVBc3VFclFYTFhVTWtDNUEwYm9aVThoQmZWSHRsSXQ3RDRhOWlZQVRUSDFNZnpUTWlBWVhQWGRWSWpkaFdISmFIVkFJbS1lSkFHWi1wdWw3dGpDRnc?oc=5",
         "fonte": "Globo Rural",
         "data": "2026-08-19"
-      },
-      {
-        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-08-17"
       }
     ],
     "alimentos-bebidas": [
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-14"
       },
       {
@@ -136,10 +136,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Lula assina decreto que regulamenta mercado livre de energia; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejl3bWFaMzZzWUZGTzFic2lBWTRrbFA0QWJHaVZXSC1XelJSakZJQnl2eEMzdWRra0ZfYkR1Q3dwZTFrVlpXdWdwamFTVjQwUkZTRXNidVU3LU15TXEyaDU1U2MzVXZ3NTAycEdSd2FaaHJSREVfRjUwbkZ6RHptSHY3LTB5X19aSjVQSFZ5VE5kTzBhT2RZYXg0R2xKTUZfdWFwSGlFeUxXT1h5OFJKb2FkcVRqa2kxbmtDeDltTzNERXYxWEQxd3JCYjdMNkRXSDNQWQ?oc=5",
-        "fonte": "conteudos.xpi.com.br",
-        "data": "2026-08-13"
+        "titulo": "Carga acima de 4 GW para hidrogênio no Nordeste demanda investimentos em geração, afirma EPE",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0syUUY2QU5CdWoxSWdGSE1FMHZ4T2h4bUgwUndqNzVQNFNMX20wczJuZDNZU0RsMnVFY25mYzBoRkNsbjFCemlqU0ViN0hweEJDcW9pei1mdlNKTklZWUV5ek5MRUxfekZCNmpFcjJ3eFRFVlRwYkgtbVdnX2t0dnNqclFKODFlZm5VU2w4X1Z2dGxBVmJYMG1Wby00Nkl5elQ3U3JrOFpweUUyVW1pbV91UGhPalJjdHVJREQ3VGRIUmtrdVNwRmVxNzVRZw?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-08-19"
       }
     ],
     "solar": [
@@ -158,7 +158,7 @@ window.NEWS = {
       {
         "titulo": "Elera aponta baterias como próximo grande investimento no Brasil",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXZBX1BLM3dXTVF4Z1hYRzllLVlOU09oaFowcFZXVE9wSU4zMmFSUE5MZEJWbU1CWU5aZlMyQ3NUcHhpRmpVVmJ6VnRPakY0dzVmbC1pYzUxZDExdDN2aFZjcnpIby1WcTZvS0E3ckpTeUNSUXdBZ0xqdm55Yk93VEppdlZ6OTVybm5FbDV3OEwzSGNFaERrWEtndmJaMm8?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-18"
       }
     ],
@@ -186,16 +186,16 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Quando a metrópole troca a fábrica pelo fundo de investimento",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2hUOUpMNW9HVFJodkRqRXZ2OUNYVlpQU21Xa0wzM2w0UHoyRGhSdlBReDdmaTFqS3lDRURIZUdKb1lPRlhaQWlQd1htSkg1d2FLOERMUW1SaHAtdWl2R0RIandPa0RPYW5DdDA4OWxEaEFyNHBnMTIyaThyQ0VjZW5qdXdqeEs0RnY0eVNEeGdxc25X?oc=5",
         "fonte": "Diplomatique",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
+        "fonte": "GZH",
+        "data": "2026-08-14"
       },
       {
         "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
@@ -212,16 +212,16 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHZiQUZCRU9Ga2ZETXVqVUFkbnlIQ0R5Q3dHZDNIa2lhTzN0TmxkejFET2c5QlJPdE15NS13WGhXZUwzRGN3OXVjdktnYWhDV3ZUNTV4dXQ4R1liTUVSQTlsX2s0blVvRHZGNVV3TER1YnpBbGpySy0xU2xKemE3VVpxRFhzWUZJZGprUmF5YmtRRFRYZEdZdTBnYi0?oc=5",
-        "fonte": "Setcesp",
-        "data": "2026-08-12"
-      },
-      {
         "titulo": "Plano de logística prevê R$ 1,2 trilhão em investimentos até 2050",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU1IemVnMlBENFY1ekZBVnRsUG1fblJCLUs2QTE0RDBTeV9IQ3poNFpOUzJid1RGZmhSSGRxeEo4Q3pWa1pNRk54UmFsMFlfRHA0cVgtT2dsT21UZTducnQ4d1QxWkpjNnJ2dHYyLVpYNjNOUFFyQkl0MGtuSW5EcVhrRHRYQWQwaWcwa3JmOFhYSXZCenlFc3Rn?oc=5",
         "fonte": "O Presente Rural",
         "data": "2026-08-15"
+      },
+      {
+        "titulo": "Novas ferrovias e hidrovias reduzem o custo logístico das mineradoras, ampliando a competitividade",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNUVpNRUVwWWlWV2NlV093SElPUlpBellEOU13eWpkUGZLN3Z6NXBlZ0VNU2xBeS1FUFRZc21TRVVuOW5UTVBuemhKYk5LOHBOYlUwVjVhd203Sld5Wjg1ZlNITnlwT3Uwd3Rxcl9HRnRVUzFhVms0bTJkd0p1MjBEbzJ4dGgtblRSNHFUM0p5T0o3a040bmpyN21mQUZZQXppdnZTU2ZaWFQzTENjY0Z3UTlndnVqS09sUEk1OFVjVU9KT2FfT2g2RTE0ZXRZVDhfS3ZuWndnUkNCN0ROT0VKTnNsZVNfSmVmaGRFRmtwRzdWRkJUaUVUMURhZVNySEo0ajJHdDZ1dkltTmpBRmdyR2V2UjRfblVB0gGYAkFVX3lxTE1RWk1FRXBZaVZXY2VXT3dISU9SWkF6WUQ5TXd5amRQZks3dno1cGVnRU1TbEF5LUVQVFlzbVNFVW45blRNUG56aEpiTks4cE5iVTBWNWF3bTdKV3laODVmU0hOeXBPdTB3dHFyX0dGdFVTMWFWazRtMmR3SnUyMERvMnh0aC1uVFI0cVQzSnlPSjdrTjRuanI3bWZBRllBeml2dlNTZlpYVDNMQ2NjRndROWd2dWpLT2xQSTU4VWNVT0pPYV9PaDZFMTRldFlUOF9Ldm5ad2dSQ0I3RE5PRUpOc2xlU19KZWZoZEVGa3BHN1ZGQlRpRVQxRGFlU3JISjRqMkd0NnV2SW1OakFGZ3JHZXZSNF9uVUE?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-19"
       }
     ],
     "maquinas": [
@@ -238,10 +238,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "De Fábrica de Data Centers a Fábrica de Chips: Governo Lula Já Investiu R$ 8,4 Bilhões em Tecnologia de Ponta no RS",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXp2VnFGdlpZQ0xtNWRFRUc4WFVpY19heUxxQjVGeDhKWnJONmlGQlppT1JaaU9nekpsaFc4aV83RUxPUjhUV0hpM1lQdWxoc3FOTmxXZFpaMkpHbkdwazljWmdDbG5sbno0WWdleW4zeTdmbkd1dnBhLU9hX2RlU2hjeGpkQVFOMnFxTlliUGNBOFpHeWdLaWZ0Z3F1N3EtLTJ5MHNtMkUwT05GYlY3RDV4bjdYWmZUY0lqX2J1Z09YY3NSdENMd1VZbWFMN1VJU1NITURscWlGblk2ay1DUQ?oc=5",
-        "fonte": "luizmuller.com",
-        "data": "2026-08-19"
+        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
+        "fonte": "GZH",
+        "data": "2026-08-14"
       }
     ],
     "mineracao": [
@@ -274,13 +274,13 @@ window.NEWS = {
       {
         "titulo": "Eneva já se prepara para chamada de duas usinas no LRCap após revés da EPP | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-14"
       },
       {
         "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-15"
       }
     ],
