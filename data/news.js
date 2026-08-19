@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T13:46:45+00:00",
+  "atualizadoEm": "2026-08-19T14:37:01+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-08-17"
-      },
-      {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
         "fonte": "Bloomberg Línea Brasil",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-08-17"
       }
     ],
     "alimentos-bebidas": [
@@ -104,7 +104,7 @@ window.NEWS = {
     ],
     "comercio": [
       {
-        "titulo": "Crise do varejo? Por que algumas gigantes estão em crise e outras seguem crescendo",
+        "titulo": "Crise do varejo? Por que algumas gigantes enfrentam dificuldades e outras seguem crescendo",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSGtGOExURGRNVGJOSjRBUkZtSzRCd0R6TEZ0eVBZQ0tWd000cTY5d09zMzFRTHpoY21OelJfcExkSTVheGFTOE5pbFFsYlMycThKM25ETXhKTXJYcGgzaHlGREM1ZkdBdTNpQXEyRjlVc3VIR2ZCZEtlUFMtTk83SnBjelB1RGt4STJwX2QwOHR1MWVBc0U2NXB6R1ctOTlzaFRFeGlJd21kTnZlVThaQ2tPeHljQXBlZklDWkd2VTE0aTROMjdCQkVMNmlkQVhnN1HSAeABQVVfeXFMTWdlTlRMdHJQYmRTZk5TX2Q3M2UtSWVscXdZUzJjTkZMMWt1TzVpZy04Y1hwMlUzbmRiVC1tN2xpdWRMcFJ3VGZvczhxVXdFZDJzZkRTdUdnN1p4dVJ0d0RqZG9ORGl3aWItT0pXUzJyckI5UG03N0Y0WEg5d3E2SUJ3cTdPMnE2VE05UXZaU055QWNtaVhmMVJ2NTVXNE84TmtqUjVOSXVZN2EySURob2xGcEluSnc1MFRPVTBURTR5RVhOOE4xYTRZTHBDWl85YVVjelZ1OFVEdUlCTExtVzg?oc=5",
         "fonte": "G1",
         "data": "2026-08-19"
@@ -173,7 +173,7 @@ window.NEWS = {
       {
         "titulo": "Interfarma apresenta 10 prioridades para a saúde no próximo governo",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaejNFUGRQcjFwTnNfMEVLOTBfa3lvYzA2VExNNklDRm5tLWFwWFJzVEhPWWNqQ2laREtzMUxVcHo3RktDdnNnYkc5N3ZTV1BpZ2h6dEhfVWtoY0hmYXJ6LURR?oc=5",
-        "fonte": "Medicina S/A",
+        "fonte": "medicinasa.com.br",
         "data": "2026-08-18"
       },
       {
