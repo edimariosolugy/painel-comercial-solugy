@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T11:28:07+00:00",
+  "atualizadoEm": "2026-08-19T12:52:44+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -104,22 +104,22 @@ window.NEWS = {
     ],
     "comercio": [
       {
-        "titulo": "Casas Bahia, Marabraz, Mobly e Tok&Stok: por que tantas empresas de varejo estão pedindo recuperação judicial?",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbWZ3VlJuWFRhSXFKbk9HV0Z3YkxzNVZ1aHdCcHo5eVZBdm5nQS0xUGVPZmVhS3lnaktJZHNsUUxab2Nja3c5aXNpM1FWM21wbmttVFlUc0gwejc2UTBNbXVxTHFiUzhmNVZrVm5qeU82RV9yWGUxOXFtUkNJMnBtQ08zOG1MSDAzakJxR1BQYWNsT2hBY0FsQTQycngyTnhvdzRGcXZycEhPV2dhRUVVbHdLOXdFZm1HN3hxbjNqMHZGZlMzS0liZjJsMTI5bUtycEd5UE4yeHBrTWhndjlFNWhreVpudlpTQTl5R3FUblNhZ3owZk55ZS1aYlljS09oMXRPWVlfY9IBlgJBVV95cUxNaTd5cGtJcy1hZUlmcXh6N3l0RXBSUktsNUdLQldUblJrNEFEbTExRkZPX3J2NzgwQlBmZEJlNlZ2T3BZVGltR0ZPYlpIcVVPVWRpRVJZZnREYlBfclFURUtUNTA0ZThScUp0aUFjZ1lXLUd0cVBhZWxWMTNKR2dGdzNKNXhaZGF2QU1wVHhEVHNZYTQ2aWdMSFBDQzZHWnpqc3ZMX2RnOHRwdlVQZXdkSkNjMmtnWVpRdlpzRVh4RW5UVTlnRGlLb0RJLWtrempIdThLMk1zQVpURHZCR2RjRWRtNGNmNDk3dl9wYXZJaXVteHUyQ0g3OWgzbEJyMEhaOW5FTUltbnJpejMwTXJmUW5HZUdUdw?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-17"
+        "titulo": "Crise do varejo? Por que algumas gigantes estão em crise e outras seguem crescendo",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSGtGOExURGRNVGJOSjRBUkZtSzRCd0R6TEZ0eVBZQ0tWd000cTY5d09zMzFRTHpoY21OelJfcExkSTVheGFTOE5pbFFsYlMycThKM25ETXhKTXJYcGgzaHlGREM1ZkdBdTNpQXEyRjlVc3VIR2ZCZEtlUFMtTk83SnBjelB1RGt4STJwX2QwOHR1MWVBc0U2NXB6R1ctOTlzaFRFeGlJd21kTnZlVThaQ2tPeHljQXBlZklDWkd2VTE0aTROMjdCQkVMNmlkQVhnN1HSAeABQVVfeXFMTWdlTlRMdHJQYmRTZk5TX2Q3M2UtSWVscXdZUzJjTkZMMWt1TzVpZy04Y1hwMlUzbmRiVC1tN2xpdWRMcFJ3VGZvczhxVXdFZDJzZkRTdUdnN1p4dVJ0d0RqZG9ORGl3aWItT0pXUzJyckI5UG03N0Y0WEg5d3E2SUJ3cTdPMnE2VE05UXZaU055QWNtaVhmMVJ2NTVXNE84TmtqUjVOSXVZN2EySURob2xGcEluSnc1MFRPVTBURTR5RVhOOE4xYTRZTHBDWl85YVVjelZ1OFVEdUlCTExtVzg?oc=5",
+        "fonte": "G1",
+        "data": "2026-08-19"
       },
       {
         "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
-        "fonte": "supervarejo.com.br",
+        "fonte": "SuperVarejo",
         "data": "2026-08-17"
       },
       {
-        "titulo": "Crise do varejo? Por que algumas gigantes estão em crise e outras seguem crescendo",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjdJcTJLS3lLN1BXcUxITnQ3YlVyNTdNdkhrbml1V1ZiS19nRmtnZ1IzNUctQmoyQU90UGpwYUYwbEJHN0lFUnNiTGQ5Tjk4em55a2ZpVmFLdWVfMHdXSk9JX0Z3SWZaWFNwdEpZY3lLZ05IYlJYTkxCUHBzNHU4RFlaSWEzR3RGdFp6NHpjbXg2U0NtREI1VHNtTl8ybkVxUXFfem90YjV6VXA2Slh3?oc=5",
-        "fonte": "O Potiguar",
-        "data": "2026-08-19"
+        "titulo": "TikTok investe R$ 111 mi para estruturar logística do TikTok Shop em SP",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTE5ISVR0b2lQTkdKR2UzOUZmXzl3dlJ1SGhwamZpWFgyYWltTUVab0VwZ0V3MHJ3cEcyNFNVZmQ2eVNjRFFyR1FqWWFkVWlLYWNrcHJLck0xM2hIZ3JDSVNjYnFyLVVIOWJuQzZMZmY0MHRudmNIdWkwZG5lM19hR2xzSQ?oc=5",
+        "fonte": "tmc.com.br",
+        "data": "2026-08-18"
       }
     ],
     "energia-gt": [
@@ -179,7 +179,7 @@ window.NEWS = {
       {
         "titulo": "ENSCEIS e o futuro da indústria da saúde",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RvZTNNNExvcm56WnVSYlFTQnR2NUR6REdBbWUtZENGRXRNV0N3dl9GR0duNndLY194RzByYm9PcmRxUWlCR1NvZjRtN21DZUNqM0szVXhER0NPZXRReFdfZ3JrdVp3REg4OGczTEowOTFteHZzUXV5dGdaeVRhbkFtNkVnNDAtTHFCRDdHNVM0T192aWN1M1UxbF9UbHlz?oc=5",
-        "fonte": "panoramafarmaceutico.com.br",
+        "fonte": "Panorama Farmacêutico",
         "data": "2026-08-18"
       }
     ],
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "gauchazh.clicrbs.com.br",
+        "fonte": "GZH",
         "data": "2026-08-14"
       },
       {
@@ -232,22 +232,22 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "gauchazh.clicrbs.com.br",
-        "data": "2026-08-14"
+        "titulo": "Fiems e BNDES firmam parceria para ampliar crédito industrial",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDBJdUowSUIyaWtmWVdsZ3psS0tGdm5mZkNEUVpzdTROMVVSSGd3c0JaTGFtV0N5RHhkMVhYM0xZNFVpSXFWRHZxYnlNNmJOMlRUZi1zNEtqbGRrOTZJYjVBM3FESzE3UFk2RXNUYkllbEhhQzZ1ZWg5OU8wakdhcGNpanpfYmplSmdQVHdTSzFtSjZWbktkM1JEX1IyLXAzR2Z3ejE2dUp5ZG5OTWRiOHRzaFhtc3FvbVZlUTln0gG-AUFVX3lxTE1MVUFyaTIwR0g0MEh4Qk9BYkEzOC1yVEFxVlhtRHk5ZkRPY3ZSTnhYa0tsU25YVTV6a3JxWGlsRlZQVjFPcHhOOW1JNTUwT3VsS2Q1Y3RsVGRQSVVCUGNkcnBNTTZaenVlbG43bnVTQ3VYTVJOYWZzQml1WG5MQjU0UU91Vk1jRDJHR1J4OTFGRFhyY0IyUzZ2ZnR6NG1neV9rM3FhazJ6U2VnVFlXMFlKODR2Qms4bkYzRVFDUEE?oc=5",
+        "fonte": "Campo Grande News",
+        "data": "2026-08-19"
       },
       {
-        "titulo": "De Fábrica de Data Centers a Fábrica de Chips: Governo Lula Já Investiu R$ 8,4 Bilhões em Tecnologia de Ponta no RS",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXp2VnFGdlpZQ0xtNWRFRUc4WFVpY19heUxxQjVGeDhKWnJONmlGQlppT1JaaU9nekpsaFc4aV83RUxPUjhUV0hpM1lQdWxoc3FOTmxXZFpaMkpHbkdwazljWmdDbG5sbno0WWdleW4zeTdmbkd1dnBhLU9hX2RlU2hjeGpkQVFOMnFxTlliUGNBOFpHeWdLaWZ0Z3F1N3EtLTJ5MHNtMkUwT05GYlY3RDV4bjdYWmZUY0lqX2J1Z09YY3NSdENMd1VZbWFMN1VJU1NITURscWlGblk2ay1DUQ?oc=5",
-        "fonte": "luizmuller.com",
-        "data": "2026-08-19"
+        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
+        "fonte": "GZH",
+        "data": "2026-08-14"
       }
     ],
     "mineracao": [
       {
-        "titulo": "Bate-papo sobre o momento ímpar do Brasil no setor de exploração de minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZWaVR2bHpzSER1YWU1UXNwaFdCbkNUY3JCVkRGZDFWS2Y0c2pQZjNTckNEd1lUN2ZWUG9Dakc4V0tXVlA4VTJQbmVmRVpjVHVobk4zWHBVWEJKY25NbE5rcWFJbDZQMk5LNXM0N2VqZEdwT1YzMkdEMXJoM3NFUFlsOVo0T3ktdGhGSFBQRWZQc2J6ZnFPNG9lWWc5MEgtY0NNTFhGQnRBZTJ0SGl3Nk1jdXpPeGltQlNiWldpNEtHbFR3QUlTODJ0emdaajNxT1hlcWxHdWpOZmtTLUd4RHFrUWlRbG4tM0xLcGotTEVmdm9CTjVuX1c5ZGFHa3A4emxoVXZFOXbSAYgCQVVfeXFMT002VmlUdmx6c0hEdWFlNVFzcGhXQm5DVGNyQlZERmQxVktmNHNqUGYzU3JDRHdZVDdmVlBvQ2pHOFdLV1ZQOFUyUG5lZkVaY1R1aG5OM1hwVVhCSmNuTWxOa3FhSWw2UDJOSzVzNDdlamRHcE9WMzJHRDFyaDNzRVBZbDlaNE95LXRoRkhQUEVmUHNiemZxTzRvZVlnOTBILWNDTUxYRkJ0QWUydEhpdzZNY3V6T3hpbUJTYlpXaTRLR2xUd0FJUzgydHpnWmozcU9YZXFsR3VqTmZrUy1HeERxa1FpUWxuLTNMS3BqLUxFZnZvQk41bl9XOWRhR2twOHpsaFV2RTl2?oc=5",
+        "titulo": "Funding é o que fará o Brasil liderar a corrida por minerais estratégicos",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQY1J0MXI5RGlFQm1jbmFNUm8xRXNhZ3p0T1hLSXp4OGpPZnBJQzRSbnpVZVFMUFgzUG54TzNRS2ZRSFhyWE1DQ2xzVktkaVNLbTlmOE1yMmd3VXNHY2VvRjFpRFFZalg4NXVqS1h5Y2Zmb3FSMGdrRW91dFRGZm5mNm81THBSSU1IalRKRkdJZnFmVF85Tjd2b093dG1aYkZDdDFYWURRWmxkZXpHM3FFN2ZydHJGVTBWUGx6YTVrTjZEemQzZjZycGVITTlGOVNyNUlndlpiRWkwWVBibHNBa3RPWW5qLVFoQW5DT3F1RWkwZndIQk5ENtIB-AFBVV95cUxQY1J0MXI5RGlFQm1jbmFNUm8xRXNhZ3p0T1hLSXp4OGpPZnBJQzRSbnpVZVFMUFgzUG54TzNRS2ZRSFhyWE1DQ2xzVktkaVNLbTlmOE1yMmd3VXNHY2VvRjFpRFFZalg4NXVqS1h5Y2Zmb3FSMGdrRW91dFRGZm5mNm81THBSSU1IalRKRkdJZnFmVF85Tjd2b093dG1aYkZDdDFYWURRWmxkZXpHM3FFN2ZydHJGVTBWUGx6YTVrTjZEemQzZjZycGVITTlGOVNyNUlndlpiRWkwWVBibHNBa3RPWW5qLVFoQW5DT3F1RWkwZndIQk5ENg?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-19"
       },
@@ -258,10 +258,10 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "França cria comissão no Brasil para ampliar negócios em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkJOdG0wR09abmVuZEtVbWVjS0dfWkUxcnlPTDljRE5MT3pKN0xSZUNYcnN4WEJmV0F1ZGtPSUlEU0N4NGV5V3pzcDlyUkVYYi1YZlVOc2twREdQNGlwaWwxa2cwNkpJV0NjdkktbmZqTURYejZnWGFWc1JubUo3RWhuSTRlRWJUaTVqbnpYa1RLVVVrN1dIcGZwOFIwUXRkMGV4R3FQOE94RG5PM0E?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-13"
+        "titulo": "FIEMG debate minerais críticos e cooperação global",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
+        "fonte": "FIEMG",
+        "data": "2026-08-19"
       }
     ],
     "papel-celulose": [
@@ -280,7 +280,7 @@ window.NEWS = {
       {
         "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
-        "fonte": "gauchazh.clicrbs.com.br",
+        "fonte": "GZH",
         "data": "2026-08-12"
       }
     ],
@@ -299,14 +299,7 @@ window.NEWS = {
         "data": "2026-08-18"
       }
     ],
-    "siderurgia": [
-      {
-        "titulo": "Incentivos ao aço somam R$ 14,6 bi e ampliam pressão ambiental",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYWdoRDlGbVFUMXM3VHhGRWhUYXJkMGFsNXFXS0Jic3NXeldMby02MjVEQmc3QXYtX0EteXhJME1lTmc0dFN6aC00ajJ1blR5a1FydGhnenhLYkFqbThaOV9FS0tSZnFMb0pNWkFSSUZ3cEdodTNrTmRCYkt3eDRnenBTOVhQczY0MmNHY0U1NTVFQnNkRmFZ?oc=5",
-        "fonte": "Revista Amazônia",
-        "data": "2026-08-12"
-      }
-    ],
+    "siderurgia": [],
     "odontologia": []
   }
 };
