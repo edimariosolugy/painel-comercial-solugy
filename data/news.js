@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T12:52:44+00:00",
+  "atualizadoEm": "2026-08-19T13:46:45+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -70,16 +70,16 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Exclusivo: Usina de Otaviano Pivetta recebeu dinheiro de fundo investigado pela PF",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQ0QyX1pxbWRxLVdjTWRQM3FnSzlKdHJDbXVDeDV1R25JQ19jYTFRcW1qaV9KbnRpWlVMVDJUcVFlMWlhN1VHSFVTVmYwYlNTdERFeUZGRmo5X2tWczBYeUg3TFJLNUhVVnpxTGQ5bmZIRzhCNTZxNzcxbmNTelpSTkJycHgyNnVjNkZjOVYzOHZJX0RRemRaMk4zc2Y4NnNCa1NCbGkyTUNJVFE?oc=5",
-        "fonte": "pnbonline.com.br",
-        "data": "2026-08-12"
-      },
-      {
         "titulo": "Nova tecnologia de irrigação e usina de bioenergia recebem aporte milionário do Fundo Clima no semiárido",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXUzRnBLTmRnb2VTQ1ZoZzNYQlc4WGlndTdaUzdUTmtjMDNXZU93c1ZuRktrRmxvYkNhbDQ1LV9jdzktMG9Ra3dkOGRJanpnbjU0dlo3NFlybms1bFBRUGFBeVdwSE1EX0lEUGtkeWdYV1V4QTlCZEhwRE5NS1NrUkFIYTBLVkxUcXlhLWROVERnNmFneVdISDVvV2dwRENoVnNrTUpDRHdrZmV2RmwwZVJRYTJEZVJjb1FsOG1KQjh0cHJxaGFDQ19HRFd4dlJEMWxCMWVrQ21JZw?oc=5",
         "fonte": "Gazeta de São Paulo",
         "data": "2026-08-15"
+      },
+      {
+        "titulo": "Agrovale investe R$ 54 milhões para modernizar irrigação e geração de energia no semiárido",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYXNIcXBESGFRYVJ4Ykp6S0dsczJaZUFoTlNwekNnbDFKRFRMSm5hNDFoSXdTU2lmTVBTOG8zTWlNOFV3WXZfbmNSLUQxV1pSTjNDUkdROFZNQ2lUVmxTRmRJMnhWUzl2bDkta2kwRUllNHdnQUVDa3hmSjJXZWtMQ0FHd2wzWE40RmJiQS1makNKbXAxTkVJdzVSR1VzYTVaZFF3Ukx4bEo5bnBxVDBySm5ETlpDbGVnMzd0NXVWNTZHbzVOM1B4Q2M4Nlc0SG1NeE5mSEQxcUNBNVdRcnBwbG8zcFpUcEhVQlkxLS00My1iak1tS1B1RW1VdTNBenMyV3lB?oc=5",
+        "fonte": "Portal do Agronegócio",
+        "data": "2026-08-18"
       }
     ],
     "cimento": [
@@ -116,10 +116,10 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "TikTok investe R$ 111 mi para estruturar logística do TikTok Shop em SP",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTE5ISVR0b2lQTkdKR2UzOUZmXzl3dlJ1SGhwamZpWFgyYWltTUVab0VwZ0V3MHJ3cEcyNFNVZmQ2eVNjRFFyR1FqWWFkVWlLYWNrcHJLck0xM2hIZ3JDSVNjYnFyLVVIOWJuQzZMZmY0MHRudmNIdWkwZG5lM19hR2xzSQ?oc=5",
-        "fonte": "tmc.com.br",
-        "data": "2026-08-18"
+        "titulo": "Guimarães projeta expansão nos canais de varejo e exportações em 2023",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXk5cy1TbzA0Z0R3MXV5eXExcFNVMWtWLTUzcjlpanpkVF9YUTJBdnlyV05sdi1pQUxjeUphUXBOVmlOb0lHTHJDMG9sY0tQb2YzdkE3c056Xy1XZk4zTWkwZHRYaFVVWmFnd0EzZDY2cDFtRHhJbG9WelB4bExVT2tjcVUtR0d3MzRvWEMxTTlHNHNHOVhhckhwanFEbURKcU41NUU2RmZWUTdFZzBEMXNWQQ?oc=5",
+        "fonte": "noticenter.com.br",
+        "data": "2026-08-12"
       }
     ],
     "energia-gt": [
@@ -150,16 +150,16 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "Brasil lidera buscas por energia solar residencial; veja o que isso sinaliza para o SNEL11",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVVkS3JlV09QREltNnR0TmRlZnZLM0xIR0l6RDBtZDQ4QktCcTVBa1lBQk5jUjZtV2syNEgxT0l1eUtiSW1nOEI0cDBBa0pzLXV1cW9EXzNHQkNkbTYyR0hEWl9uLWlyNXpwdUx0U2w0OVo5MnFHMFRoaFcyT1dFeHg1SHBVQ0d1UU1ZRmZzWno0ZXBSQ3E3Ng?oc=5",
-        "fonte": "Fiis",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "Crédito impulsiona instalação energia solar em casas, empresas e propriedades rurais no Espírito Santo",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkZKVFJwaVVWb2FCZk5FaVJaeTRxNFptcGpaWlRQZHJHdUtzUUxRajhLTW9sWWltLWdzU21DRXVsY1F4eEFkWERWU3BhR0I4UWsxUG00ZHoyNmw5OEJYZ2prektNZHo2d3RZbjFiWHI2UUpUcmp3V0tBZVV6MXhKUW5TVXhrWFctVWd1bjVNd1FhLU1Bck9kOWZjQTRGdFpxZ3N3NVdfTXBnSkRpbVB3UGI3RVpBUEd1VDV1RmNuUmFZUWhaeEl5ZXZaVm1UQQ?oc=5",
         "fonte": "Conexão Safra",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "Brasil é o país da América que mais busca por energia solar residencial; confira ranking",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQV2JtT0k2U3VhUlhyYk9YUmdaYkpoY01fd2M3Q2lDUVhId1I5U2ZMbzZ5QkU1TDJtNlFwOVFJYUc3cXg3ajhraVM4RjhBcjdDLVFNZWREcC05WDhhZnV3Vk5IY2M2cUNSdlF3S0J5cFB2SldaTHN1RFM2eGR4eWFYejNqMENnZXRIOW9KUlZKWENram4zamc2dFpiRWpyOFNfVUppbzRpcFhYX2ZXM182aHBrWjVaRFpBakZxQjlDZGthQ09jZExoa0o2VdIB0AFBVV95cUxQNVZKMEpUSDZyMGZrX3NLV0paTGFIWGdhZFRQRjN0Q0s1MjBpanhDWGQ5azViYTdCR1lmVEVaanZWdVRULUtpdXNWZm5hUGN4TmF6SDJvRUtGUUZsRlltbllTdnR4b3ZRSmw2VUdNRkFvblJtdXZsZ3RTUFlVaUhRRVd5NU5EVXRZcm5DTF82d2pBb3Jib3JPb1dFTU1lRGpmV3ZSYUZ2SGxzdjE3anZqTm5ydlVqejM5cmplZGJ6d1NXVWlGZWVvcXdYMEdxQXhI?oc=5",
+        "fonte": "ContilNet Notícias",
+        "data": "2026-08-18"
       }
     ],
     "epc": [],
@@ -192,16 +192,16 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
+        "titulo": "Quando a metrópole troca a fábrica pelo fundo de investimento",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2hUOUpMNW9HVFJodkRqRXZ2OUNYVlpQU21Xa0wzM2w0UHoyRGhSdlBReDdmaTFqS3lDRURIZUdKb1lPRlhaQWlQd1htSkg1d2FLOERMUW1SaHAtdWl2R0RIandPa0RPYW5DdDA4OWxEaEFyNHBnMTIyaThyQ0VjZW5qdXdqeEs0RnY0eVNEeGdxc25X?oc=5",
+        "fonte": "Diplomatique",
+        "data": "2026-08-19"
+      },
+      {
         "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
         "fonte": "O GLOBO",
         "data": "2026-08-17"
-      },
-      {
-        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-08-15"
       }
     ],
     "logistica": [
@@ -238,10 +238,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-14"
+        "titulo": "De Fábrica de Data Centers a Fábrica de Chips: Governo Lula Já Investiu R$ 8,4 Bilhões em Tecnologia de Ponta no RS",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXp2VnFGdlpZQ0xtNWRFRUc4WFVpY19heUxxQjVGeDhKWnJONmlGQlppT1JaaU9nekpsaFc4aV83RUxPUjhUV0hpM1lQdWxoc3FOTmxXZFpaMkpHbkdwazljWmdDbG5sbno0WWdleW4zeTdmbkd1dnBhLU9hX2RlU2hjeGpkQVFOMnFxTlliUGNBOFpHeWdLaWZ0Z3F1N3EtLTJ5MHNtMkUwT05GYlY3RDV4bjdYWmZUY0lqX2J1Z09YY3NSdENMd1VZbWFMN1VJU1NITURscWlGblk2ay1DUQ?oc=5",
+        "fonte": "luizmuller.com",
+        "data": "2026-08-19"
       }
     ],
     "mineracao": [
@@ -295,7 +295,7 @@ window.NEWS = {
       {
         "titulo": "Concessão do saneamento de Rondônia prevê R$ 4,2 bilhões em investimentos e atendimento a 40 municípios",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzRjQTcwQUhYTVNRZW5kTTJHa0NrNWFRbGh5LTlRTDB2LVBNYS0yN01ETlplR0t5M3V5bUwzZUlTWkVnbnNwNWEtLXUteWJpOFNJaTRxNXFueV9XdTFmby1rZHRKQjZnMDJoOWxHYWx3aGZqY3k5VHFIUy1XdGJJZ0RFNllGVGh4Q0lmMi1heDVJUlhoVC1rUE5YY1Zta1hPV2lCTjZHU3g2dHphSWk0YzNqZFJQeVVfbzdFNzBqWk1hWFEwVm9KTy1wblAwQ1AxaTFLZC13?oc=5",
-        "fonte": "emrondonia.com",
+        "fonte": "Em Rondônia",
         "data": "2026-08-18"
       }
     ],
