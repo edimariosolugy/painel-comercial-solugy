@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T22:27:53+00:00",
+  "atualizadoEm": "2026-08-19T23:25:38+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Avanço dos importados acende alerta no setor automotivo",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlR6XzB2eE8zcEpiWmNjSHFoM3RqX3NETzQ3eXZpR3NrSGd6TF9lblNEVmVNeWRBb3NjcWtKY0pLSVR2M1hBY21JMzJWYkc2ZHpCMlRpUDVkX29XbGtnVzVXcFI0aUF1Rkt3TUh4V3VILV82WWVreTEzWG9YOXhMb3RZa3pEelBYVEJHM25oWUQtazl1QzVlZWFsVFFtYmNUOFE?oc=5",
-        "fonte": "transportemoderno.com.br",
+        "fonte": "Transporte Moderno",
         "data": "2026-08-18"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Taesa mantém estudos para disputar leilão de baterias, mas aguarda definição da regulação",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYTJ6cERRZ0pqaWRXdl9jci1yTHFOS3hmcG56d196azZoSlJBa28tT05KY29GLWVVMF94WmZUeUJ3cm9sWTFlbnlVbm03U1RCZ21aSTgzY1RqQzN3OEZiV3dzclpGdF9KRnkxaGptaldPTS1p?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-13"
       },
       {
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Fórum Brasil-China reunirá especialistas sobre futuro da energia solar e de armazenamento",
         "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtTzgwSTRwRDFIbzdpNjRlYjVQR09ITkxvendJWWV2bTBBWDhFYm5mSVF4RG85ZTZjYnJqRDYzSHZfTU9fdVJjNTVxczlrTUtsZGZrZkJsWHVWaGY2LVpaNEFDZHF0eFhpT09kQ1F1Y1A3Y01kZHMtWWgwcHQ?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-14"
       },
       {
@@ -167,13 +167,13 @@ window.NEWS = {
       {
         "titulo": "Desindustrialização compromete soberania em saúde",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHV5bnowT1ZLdUotY05XOXNKald0Z2p3TGE0YndaRC1NcFRYWjhoa21kMndCa0wxTVIzZzhJb1RZSEthd3EzLU1TbG1jYUZQQWJFSzhlZ2xleTltNEllM3BLbEx4OUhUWjBKRFQwNVFFYzFaSmI4YUFLcWI5MlFqSTBvZzcyZ2VJSWdYb08wQndWa3NZMVI0eVZ2TTZ1dw?oc=5",
-        "fonte": "jota.info",
+        "fonte": "JOTA Info",
         "data": "2026-08-17"
       },
       {
         "titulo": "Interfarma apresenta 10 prioridades para a saúde no próximo governo",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaejNFUGRQcjFwTnNfMEVLOTBfa3lvYzA2VExNNklDRm5tLWFwWFJzVEhPWWNqQ2laREtzMUxVcHo3RktDdnNnYkc5N3ZTV1BpZ2h6dEhfVWtoY0hmYXJ6LURR?oc=5",
-        "fonte": "medicinasa.com.br",
+        "fonte": "Medicina S/A",
         "data": "2026-08-18"
       },
       {
@@ -232,15 +232,15 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Fiems e BNDES firmam parceria para ampliar crédito industrial",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDBJdUowSUIyaWtmWVdsZ3psS0tGdm5mZkNEUVpzdTROMVVSSGd3c0JaTGFtV0N5RHhkMVhYM0xZNFVpSXFWRHZxYnlNNmJOMlRUZi1zNEtqbGRrOTZJYjVBM3FESzE3UFk2RXNUYkllbEhhQzZ1ZWg5OU8wakdhcGNpanpfYmplSmdQVHdTSzFtSjZWbktkM1JEX1IyLXAzR2Z3ejE2dUp5ZG5OTWRiOHRzaFhtc3FvbVZlUTln0gG-AUFVX3lxTE1MVUFyaTIwR0g0MEh4Qk9BYkEzOC1yVEFxVlhtRHk5ZkRPY3ZSTnhYa0tsU25YVTV6a3JxWGlsRlZQVjFPcHhOOW1JNTUwT3VsS2Q1Y3RsVGRQSVVCUGNkcnBNTTZaenVlbG43bnVTQ3VYTVJOYWZzQml1WG5MQjU0UU91Vk1jRDJHR1J4OTFGRFhyY0IyUzZ2ZnR6NG1neV9rM3FhazJ6U2VnVFlXMFlKODR2Qms4bkYzRVFDUEE?oc=5",
         "fonte": "Campo Grande News",
+        "data": "2026-08-19"
+      },
+      {
+        "titulo": "De Fábrica de Data Centers a Fábrica de Chips: Governo Lula Já Investiu R$ 8,4 Bilhões em Tecnologia de Ponta no RS",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXp2VnFGdlpZQ0xtNWRFRUc4WFVpY19heUxxQjVGeDhKWnJONmlGQlppT1JaaU9nekpsaFc4aV83RUxPUjhUV0hpM1lQdWxoc3FOTmxXZFpaMkpHbkdwazljWmdDbG5sbno0WWdleW4zeTdmbkd1dnBhLU9hX2RlU2hjeGpkQVFOMnFxTlliUGNBOFpHeWdLaWZ0Z3F1N3EtLTJ5MHNtMkUwT05GYlY3RDV4bjdYWmZUY0lqX2J1Z09YY3NSdENMd1VZbWFMN1VJU1NITURscWlGblk2ay1DUQ?oc=5",
+        "fonte": "luizmuller.com",
         "data": "2026-08-19"
       }
     ],
@@ -274,7 +274,7 @@ window.NEWS = {
       {
         "titulo": "Eneva já se prepara para chamada de duas usinas no LRCap após revés da EPP | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
-        "fonte": "XP Investimentos",
+        "fonte": "conteudos.xpi.com.br",
         "data": "2026-08-14"
       },
       {
@@ -289,7 +289,7 @@ window.NEWS = {
       {
         "titulo": "BNDES apresenta concessão de saneamento de RO, com R$ 4 bi de investimento",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGJGYlZhRmpfLTBvSFBvMUY5X19TZGhka1hSRWxfSjNvb0J6djJwYlkzS2tid1N4bktUd1o4LXdXaXNIZ2w4VG5jOTZaaW5mU1pFdUc1U2QzT1JvaENpd2JqY2VEbGZ0T2w1alpTYnJIaGctbjRwR2xMSW9EcEkwXzAwNzRXN0VDRThFWHBSWWxhOWNIbHJ0VWdtSThDQTAwYlZIa2Z3?oc=5",
-        "fonte": "agenciainfra.com",
+        "fonte": "Agência iNFRA",
         "data": "2026-08-18"
       },
       {
