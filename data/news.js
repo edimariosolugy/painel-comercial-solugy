@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-18T23:25:03+00:00",
+  "atualizadoEm": "2026-08-19T09:37:27+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,12 +24,6 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "MBRF (MBRF3) amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBISXhOeTNJRFpIVUo2SHA5ZDZ0dC1ZUHZsREcwM1VzaWVmeGxMYUJ4bGlYaTZ1NEZmQndFeXlCbXFYVjYtOWJFUWJVOG0tMzNmODF0MmxkbzlpUTRIQklDTWZuY0pKRzBuc1BzLURHWHRySlBxR2RwZ3J0WTVsb25tdjByVElNTm81MlBLVm9sRF9EdFFaV3JfLVNGVFhpYnhkOHdGZnU5RzNKVDBubm0zUS1LUE0?oc=5",
-        "fonte": "Money Times",
-        "data": "2026-08-18"
-      },
-      {
         "titulo": "A Polpanorte chega ao segundo semestre de 2026 com conquistas e estratégias voltadas à expansão geográfica, aceleração de inovações e fortalecimento da parceria com o varejo. Tudo isso acompanhado pela chegada do executivo Nelson Marin à direto",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44RFhBYjBBUnpzLVBLTkE0RHFBVFl0OVFoc1FXbldkcDY4T2RiWEpyR0t1d0JweWQtY005QWpnSXlJc0JFUEFVS1hYTEFWd2JnYnc?oc=5",
         "fonte": "instagram.com",
@@ -38,8 +32,14 @@ window.NEWS = {
       {
         "titulo": "Brasil Sensorial Summit 2026 reúne especialistas para impulsionar indústria de alimentos e bebidas",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3VyZ3M1UEZBUmNsNXhwd3BWLUlTNUFrVnlrUV83Znh0dGhqNmNHQlNfb29hQWdzWFFZbkdmYWctOHBxNXFucDU3LTRTekFtS1pqb01yM2Y1eUdvc2RaNk0wakRhSEZwYzBnYVVrcHcyNHhYd1N0dVh0ODFSTG83V2pBeHhzSW5idHFHRVR3U29OUmNzNk9fLWZUOFdzWk5CNFUyUG5TbzNuTVJ6TmZkRFdTck9FdVZwWERZMEFWVV9iRFJJRUJraA?oc=5",
-        "fonte": "brasilinovador.com.br",
+        "fonte": "Brasil Inovador",
         "data": "2026-08-16"
+      },
+      {
+        "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSHVTZHhrYVA2cnJEekl6SmRLajJzeFRtTmExQzRFOHpFVkNJOFFDeDdHR0RGcFlCWnZjZTVpQ2lwN3RUakpOWV9PaXlKcDlsYXFnSUs5UmN5RXlmWVVSTkFUSWZ3anJLOTBsajlTV0Z2UElXOWtTMElKcGV4RFNFM2U5NkZlVGxma2pDVmllSjQ2a2IxbWdxc3JXVjJTaWVEUU1fUGdSdFJPREQ5Ykk5ODNsaDFVcHp5RU9uci02X0hiMVIxVGfSAcsBQVVfeXFMTnppZ3hqemdMbUZjQkFRekZZQUZ5VDRFbzhXQWh2b1d5RHBrTElRWW9VQ2FCc2Exa1VRc0FrUjVvZlA3NnoxZmFpb3dfTElfUVZwZFhablBaTE5aRS13Tk1QakpaVWxoaUhUMVU4MXZWUUs3MFEzRDUwTlFOODlHSEN5R0FzQWNUa3lQQTBCaW9oY1NZOGZqTHpsTW5FTy16SVlyc0c4aWVGTHN2Qk5mX2drQWdCNFpfTEE0TnBUNHU2cWZjNWlWbW1pZDA?oc=5",
+        "fonte": "Mercado&Consumo",
+        "data": "2026-08-18"
       }
     ],
     "automotivo": [
@@ -112,7 +112,7 @@ window.NEWS = {
       {
         "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
-        "fonte": "SuperVarejo",
+        "fonte": "supervarejo.com.br",
         "data": "2026-08-17"
       },
       {
@@ -132,13 +132,13 @@ window.NEWS = {
       {
         "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-12"
       },
       {
         "titulo": "Taesa mira baterias e considera baixa chance de disputar leilão de transmissão em outubro",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGF1MlZtS09TRjQyUlJIZmZVdTkwQVQ5Yi1ubm83NHFwamVGcFVXSzdoSHZYWnZ1Y1dDeFpSUnBXalFuR185cXMxQ1ZwRDFkLWdvMC0yT3lXNHpKT1NfczRQVldvNnhPQlJIYk9fMHhBSEItLVVuYjBpLWQ2RFd4UjRUM1FtY2tVWmgxWmFtaUNUSHZJX3FMaGtrRlI2TXpHN1F3aFFab25WX2VueFJhcVZFTjJpU2FRUFZWOXFQYjVfYWJtbnEyMFZxTXRKdnVyVWhUNUJnZTl6cURkcS11Tg?oc=5",
-        "fonte": "MegaWhat",
+        "fonte": "megawhat.uol.com.br",
         "data": "2026-08-12"
       }
     ],
@@ -156,10 +156,10 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "Campo Grande recebe quatro dias de debates sobre bioenergia e geração distribuída",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWDBYaWhDZWJNVmxRalZkb2NfOWk0aEVnbmVMNW41ZWVESUlLWjBYY2p0TTRKQzh1SFdaMlYyandFRW82bjF6SHh0SVNiYnFlUmRnamRWdHFGRFlrYTczZm1McnhKcFpoR2QxcFY2Um16RFotMUhJWFN3cFF6Y3lLTFJuOXlSSld0RWxHdWlldjMyMWd5OGlhbHJwV1pkeHF3M2pEaUlFdzRGRkY2RkVCUHdXbGVLejYtZ2c?oc=5",
-        "fonte": "TN Petróleo",
-        "data": "2026-08-12"
+        "titulo": "Crédito impulsiona instalação energia solar em casas, empresas e propriedades rurais no Espírito Santo",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkZKVFJwaVVWb2FCZk5FaVJaeTRxNFptcGpaWlRQZHJHdUtzUUxRajhLTW9sWWltLWdzU21DRXVsY1F4eEFkWERWU3BhR0I4UWsxUG00ZHoyNmw5OEJYZ2prektNZHo2d3RZbjFiWHI2UUpUcmp3V0tBZVV6MXhKUW5TVXhrWFctVWd1bjVNd1FhLU1Bck9kOWZjQTRGdFpxZ3N3NVdfTXBnSkRpbVB3UGI3RVpBUEd1VDV1RmNuUmFZUWhaeEl5ZXZaVm1UQQ?oc=5",
+        "fonte": "Conexão Safra",
+        "data": "2026-08-19"
       }
     ],
     "epc": [],
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "mundologistica.com.br",
+        "fonte": "MundoLogística",
         "data": "2026-08-12"
       },
       {
@@ -220,7 +220,7 @@ window.NEWS = {
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "Alagoas Alerta",
+        "fonte": "alagoasalerta.com.br",
         "data": "2026-08-14"
       }
     ],
@@ -235,7 +235,7 @@ window.NEWS = {
         "titulo": "De Fábrica de Data Centers a Fábrica de Chips: Governo Lula Já Investiu R$ 8,4 Bilhões em Tecnologia de Ponta no RS",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXp2VnFGdlpZQ0xtNWRFRUc4WFVpY19heUxxQjVGeDhKWnJONmlGQlppT1JaaU9nekpsaFc4aV83RUxPUjhUV0hpM1lQdWxoc3FOTmxXZFpaMkpHbkdwazljWmdDbG5sbno0WWdleW4zeTdmbkd1dnBhLU9hX2RlU2hjeGpkQVFOMnFxTlliUGNBOFpHeWdLaWZ0Z3F1N3EtLTJ5MHNtMkUwT05GYlY3RDV4bjdYWmZUY0lqX2J1Z09YY3NSdENMd1VZbWFMN1VJU1NITURscWlGblk2ay1DUQ?oc=5",
         "fonte": "luizmuller.com",
-        "data": "2026-08-18"
+        "data": "2026-08-19"
       },
       {
         "titulo": "Carta de Conjuntura",
@@ -252,16 +252,16 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "IBRAM contribui para debate sobre o futuro dos minerais críticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBJRGhzdklJdTNpWkRKMnFJWmZrQ2tCX2tyWWIyMUFOeVJDUFdHaWM5WjAtc2x2LVJabjlka3pqYlM1dDNmUlp2Z2Jmc3l0UEV0SkNkSUFpLVJNOXZmWW1Za215QTN2MHBzbXdRSUFWRFIyb0IwcVVWbU8tSjRDeXM?oc=5",
-        "fonte": "IBRAM - Mineração do Brasil",
-        "data": "2026-08-12"
+        "titulo": "Funding é o que fará o Brasil liderar a corrida por minerais estratégicos",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSy1UT3pFUDlSMlJqZ19lalJIYnZIbGlxWlBPa0EyN2xvRmczRzFZWjhHdmpVLW1JOWZKUnNrZl9nXzVGZVJlX1dkUWVUU0syeGEtM251VlpWa1UxcnBRQXR0ZjI2bVRjdFVLUE9idDVKUmY0dG90NE1MSEJPNzlfRmd2N0VhQVR6blJuS1E3dXp4ZUtIZ0pFbkVFVmNZTG93NThXeENCY21sazhsbjZWX1JXbElJZHlJQVRYT3JIM1RkR2JsWXZGWkNtRk8weEtWNkp3UVVuZVZxS2pjcWpTMjlnOV9nbGdRc2fSAfgBQVVfeXFMUGNSdDFyOURpRUJtY25hTVJvMUVzYWd6dE9YS0l6eDhqT2ZwSUM0Um56VWVRTFBYM1BueE8zUUtmUUhYclhNQ0Nsc1ZLZGlTS205ZjhNcjJnd1VzR2Nlb0YxaURRWWpYODV1aktYeWNmZm9xUjBna0VvdXRURmZuZjZvNUxwUklNSGpUSkZHSWZxZlRfOU43dm9Pd3RtWmJGQ3QxWFlEUVpsZGV6RzNxRTdmcnRyRlUwVlBsemE1a042RHpkM2Y2cnBlSE05RjlTcjVJZ3ZaYkVpMFlQYmxzQWt0T1luai1RaEFuQ09xdUVpMGZ3SEJORDY?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-19"
       },
       {
-        "titulo": "Câmara França-Brasil cria comissão para aproveitar oportunidades em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbkpzM2d2Z1NRNDBkSnNnY2pSU1k5bzBBTTVYeVBndUQ0cUZMVVVhSEVLeDUzYTM0b1g0Ql9TNGZuLVV6SGpxZ3ItWkNnZlNxSzNHbUhVOW1laEVJTFNEdENPQURhUGFhZEJOZ2RGUjZtR0ZxaGp2blRQeG9yUU9xOFZwc0N5QUZaQ1hKZ0IwekNVRFFIN24wRFNDZ0pkYk96VTBHeGtzRGNMbkJ1Z3RnbkZaZHM1Zk9waEdwaEZocUVBZS1fVjJXS0txU05BQi01WWFFUjFGVy3SAecBQVVfeXFMTnQxUnA4TzgxWW9VMVVhLVBDOFlQVzFlVXVVcktqMUtWbHRmVWxJRldkcDdBcF83di1VbDBHTlNuMS01ZzJDVXRma1hxN05xVjJwZ3hSN1M2Y3ZpelNiNTFsOF83cUJ6ZU1WZmdxWkdfTFVhOThwS2wxa3dXYjNtc3J1dDUzUDE2ZHVPVkdWc3k5SHhtT2J4ZGQ1WEdaajNVd3NGS0xhZlVBSUEyTTh4c2lEajlGOXo2c1pIWkt4VWFmYjhCNW95WEN0QXFxNFgtRDkySXQ4NU9DaFNzTGhYQktOWFdLTHhz?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-08-15"
+        "titulo": "França cria comissão no Brasil para ampliar negócios em minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkJOdG0wR09abmVuZEtVbWVjS0dfWkUxcnlPTDljRE5MT3pKN0xSZUNYcnN4WEJmV0F1ZGtPSUlEU0N4NGV5V3pzcDlyUkVYYi1YZlVOc2twREdQNGlwaWwxa2cwNkpJV0NjdkktbmZqTURYejZnWGFWc1JubUo3RWhuSTRlRWJUaTVqbnpYa1RLVVVrN1dIcGZwOFIwUXRkMGV4R3FQOE94RG5PM0E?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-13"
       }
     ],
     "papel-celulose": [
@@ -274,14 +274,14 @@ window.NEWS = {
       {
         "titulo": "Eneva já se prepara para chamada de duas usinas no LRCap após revés da EPP | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-14"
       },
       {
-        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-15"
+        "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
+        "fonte": "GZH",
+        "data": "2026-08-12"
       }
     ],
     "quimica": [],
@@ -301,7 +301,7 @@ window.NEWS = {
       {
         "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-12"
       }
     ],
