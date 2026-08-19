@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T15:34:20+00:00",
+  "atualizadoEm": "2026-08-19T16:34:37+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Avanço dos importados acende alerta no setor automotivo",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlR6XzB2eE8zcEpiWmNjSHFoM3RqX3NETzQ3eXZpR3NrSGd6TF9lblNEVmVNeWRBb3NjcWtKY0pLSVR2M1hBY21JMzJWYkc2ZHpCMlRpUDVkX29XbGtnVzVXcFI0aUF1Rkt3TUh4V3VILV82WWVreTEzWG9YOXhMb3RZa3pEelBYVEJHM25oWUQtazl1QzVlZWFsVFFtYmNUOFE?oc=5",
-        "fonte": "Transporte Moderno",
+        "fonte": "transportemoderno.com.br",
         "data": "2026-08-18"
       },
       {
@@ -136,10 +136,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Térmica Azulão II adiciona R$ 2 bi de receita fixa anual à Eneva, calcula comando; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTnhIT1UwLXQxMlVOcDAzVTVHYUdkQmpDNWpIaUxibUY0SHMzbVoyQk9TU1dkMFl0WE5OSzg4djVNR1Y1T2lWMGR4UkFqOWI1aTV1Vi1fcGk2R3RMbUEwV0ozaS0zT1Nwak5IeW9weDhKYWVRNVNfSmN0NVNacGRtN2dpcTRhdEFiUVVvZXNvVExoNm41eXF1ZUl4cUNpdDBWYmFScy1tUFZqcjZOZXRNRG1DVFFNZHJMdFBldFpTVG1ZbWVDNW9NWmJaUDhRcGF5OHhYcFRFanhhWjJMR0hncmltYlZXTW5WaU9GMVZR?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-08-14"
+        "titulo": "Taesa mira baterias e considera baixa chance de disputar leilão de transmissão em outubro",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTGF1MlZtS09TRjQyUlJIZmZVdTkwQVQ5Yi1ubm83NHFwamVGcFVXSzdoSHZYWnZ1Y1dDeFpSUnBXalFuR185cXMxQ1ZwRDFkLWdvMC0yT3lXNHpKT1NfczRQVldvNnhPQlJIYk9fMHhBSEItLVVuYjBpLWQ2RFd4UjRUM1FtY2tVWmgxWmFtaUNUSHZJX3FMaGtrRlI2TXpHN1F3aFFab25WX2VueFJhcVZFTjJpU2FRUFZWOXFQYjVfYWJtbnEyMFZxTXRKdnVyVWhUNUJnZTl6cURkcS11Tg?oc=5",
+        "fonte": "MegaWhat",
+        "data": "2026-08-12"
       }
     ],
     "solar": [
@@ -173,7 +173,7 @@ window.NEWS = {
       {
         "titulo": "Interfarma apresenta 10 prioridades para a saúde no próximo governo",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaejNFUGRQcjFwTnNfMEVLOTBfa3lvYzA2VExNNklDRm5tLWFwWFJzVEhPWWNqQ2laREtzMUxVcHo3RktDdnNnYkc5N3ZTV1BpZ2h6dEhfVWtoY0hmYXJ6LURR?oc=5",
-        "fonte": "medicinasa.com.br",
+        "fonte": "Medicina S/A",
         "data": "2026-08-18"
       },
       {
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "gauchazh.clicrbs.com.br",
+        "fonte": "GZH",
         "data": "2026-08-14"
       },
       {
@@ -278,10 +278,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
-        "fonte": "gauchazh.clicrbs.com.br",
-        "data": "2026-08-12"
+        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-15"
       }
     ],
     "quimica": [],
