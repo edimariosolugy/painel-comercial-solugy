@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T17:29:06+00:00",
+  "atualizadoEm": "2026-08-19T18:39:07+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,15 +10,15 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
+        "titulo": "Estoque de títulos privados do agronegócio somou R$ 1,409 trilhão em julho",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmd5Z1N6NURyVlJ3RUR6YS1RWnYyVnNacW4zclZQUEF4YlpFRnRhN3ZMV0dhOWs4eHRqM2VwZmFtNWprRFVqUWF6S09SVzd5UlFjdGt4SDVVbGpSa2hTRVRnSTFvdnczMEotLWFTazJHN2ZsTHJiRDZOMlZYTkJqWnI0ZG95SUVZWjBQcXIxLXpDMU50V0plWjJqa193dTkwLTZhaHNxQVhqTm5HZmF1MmhoUWZfYXo4cUtkaEJtaG5EMFlreTB0T09rSVNXbWtqbDJHekdkS2NEdmxkYS040gHuAUFVX3lxTE1YLTFsQjZ5UjdyRVQwS3dUSDBOdXFBTlhPeWMtTnBiZjFSSTZtWkhNV2Z3TzVMUjE3S1o0bWJGUVJzSXYyeUFzTG9idVRwcjFYaHFHLTFEc2VwZjgzaXpPM2swbVNUVW5GZEZLTlMyRzVHV1BfRE90ODRVT1hHcjk0dG1HcGVfMFVIT2xNTnFBRl9XUXpPU21IeWVBc3VFclFYTFhVTWtDNUEwYm9aVThoQmZWSHRsSXQ3RDRhOWlZQVRUSDFNZnpUTWlBWVhQWGRWSWpkaFdISmFIVkFJbS1lSkFHWi1wdWw3dGpDRnc?oc=5",
+        "fonte": "Globo Rural",
+        "data": "2026-08-19"
+      },
+      {
         "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
         "fonte": "brasilagro.com.br",
-        "data": "2026-08-17"
-      },
-      {
-        "titulo": "Opinião - Papo de Responsa: Proteger as florestas é investir no agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXdmMTZzdWg1YnVkRkZHc0h6VWxXVEtGcm5CWlVOUk1yei0xelJZVlNuODFqNDVOX2llQUpKWmNWV01GaGRhQm83X05sLU5XNjdTMjNoS1Jqa3QtY0VyZGFRZHlBVXZzbXc3WmtRWFdkXzFMUlBKaGVueUloWGs5b25uY19wTzBkeGRJeG4teEVDcmFJRjQ0aWw2TDFSREtuTHloUWdxZHl5TmQxNkJPMm9JNVRORTg?oc=5",
-        "fonte": "Folha de S.Paulo",
         "data": "2026-08-17"
       }
     ],
@@ -136,10 +136,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Térmica Azulão II adiciona R$ 2 bi de receita fixa anual à Eneva, calcula comando; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTnhIT1UwLXQxMlVOcDAzVTVHYUdkQmpDNWpIaUxibUY0SHMzbVoyQk9TU1dkMFl0WE5OSzg4djVNR1Y1T2lWMGR4UkFqOWI1aTV1Vi1fcGk2R3RMbUEwV0ozaS0zT1Nwak5IeW9weDhKYWVRNVNfSmN0NVNacGRtN2dpcTRhdEFiUVVvZXNvVExoNm41eXF1ZUl4cUNpdDBWYmFScy1tUFZqcjZOZXRNRG1DVFFNZHJMdFBldFpTVG1ZbWVDNW9NWmJaUDhRcGF5OHhYcFRFanhhWjJMR0hncmltYlZXTW5WaU9GMVZR?oc=5",
+        "titulo": "Lula assina decreto que regulamenta mercado livre de energia; veja o Radar Energia XP | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejl3bWFaMzZzWUZGTzFic2lBWTRrbFA0QWJHaVZXSC1XelJSakZJQnl2eEMzdWRra0ZfYkR1Q3dwZTFrVlpXdWdwamFTVjQwUkZTRXNidVU3LU15TXEyaDU1U2MzVXZ3NTAycEdSd2FaaHJSREVfRjUwbkZ6RHptSHY3LTB5X19aSjVQSFZ5VE5kTzBhT2RZYXg0R2xKTUZfdWFwSGlFeUxXT1h5OFJKb2FkcVRqa2kxbmtDeDltTzNERXYxWEQxd3JCYjdMNkRXSDNQWQ?oc=5",
         "fonte": "conteudos.xpi.com.br",
-        "data": "2026-08-14"
+        "data": "2026-08-13"
       }
     ],
     "solar": [
@@ -173,7 +173,7 @@ window.NEWS = {
       {
         "titulo": "Interfarma apresenta 10 prioridades para a saúde no próximo governo",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaejNFUGRQcjFwTnNfMEVLOTBfa3lvYzA2VExNNklDRm5tLWFwWFJzVEhPWWNqQ2laREtzMUxVcHo3RktDdnNnYkc5N3ZTV1BpZ2h6dEhfVWtoY0hmYXJ6LURR?oc=5",
-        "fonte": "Medicina S/A",
+        "fonte": "medicinasa.com.br",
         "data": "2026-08-18"
       },
       {
@@ -198,24 +198,24 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-08-15"
+        "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-17"
       }
     ],
     "logistica": [
-      {
-        "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
-        "fonte": "ES Brasil",
-        "data": "2026-08-12"
-      },
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
         "fonte": "Alagoas Alerta",
         "data": "2026-08-14"
+      },
+      {
+        "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSHZiQUZCRU9Ga2ZETXVqVUFkbnlIQ0R5Q3dHZDNIa2lhTzN0TmxkejFET2c5QlJPdE15NS13WGhXZUwzRGN3OXVjdktnYWhDV3ZUNTV4dXQ4R1liTUVSQTlsX2s0blVvRHZGNVV3TER1YnpBbGpySy0xU2xKemE3VVpxRFhzWUZJZGprUmF5YmtRRFRYZEdZdTBnYi0?oc=5",
+        "fonte": "Setcesp",
+        "data": "2026-08-12"
       },
       {
         "titulo": "Plano de logística prevê R$ 1,2 trilhão em investimentos até 2050",
@@ -260,7 +260,7 @@ window.NEWS = {
       {
         "titulo": "FIEMG debate minerais críticos e cooperação global",
         "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
-        "fonte": "fiemg.com.br",
+        "fonte": "FIEMG",
         "data": "2026-08-19"
       }
     ],
