@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T10:31:50+00:00",
+  "atualizadoEm": "2026-08-19T11:28:07+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -76,10 +76,10 @@ window.NEWS = {
         "data": "2026-08-12"
       },
       {
-        "titulo": "José Fernando Mazuca Filho assume Bioind MT em momento de expansão da bioenergia em Mato Grosso",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTVA5TS1aVU1oWUw5S2tsemtTUHdJZklyRkh0YmVCTF9EVjQyVHdEUU9pNFhYamVIOTlCakZXRFpMT0w3bnFyRlRNV2liMEdKWWJmY1hLcjJQX1p5cGM5OU5rbWxwR0xIY1JrejZ0dVVXMXVNbERORUVITkMwc1BBTzlBWVAweEhrc2daZGIyeHdiRWg2SC1kMU9zcDl3Y2VIbWRYTF9jWk9zbkkydmlRZlk0cExNRlZOVXc?oc=5",
-        "fonte": "jornalcana.com.br",
-        "data": "2026-08-12"
+        "titulo": "Nova tecnologia de irrigação e usina de bioenergia recebem aporte milionário do Fundo Clima no semiárido",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXUzRnBLTmRnb2VTQ1ZoZzNYQlc4WGlndTdaUzdUTmtjMDNXZU93c1ZuRktrRmxvYkNhbDQ1LV9jdzktMG9Ra3dkOGRJanpnbjU0dlo3NFlybms1bFBRUGFBeVdwSE1EX0lEUGtkeWdYV1V4QTlCZEhwRE5NS1NrUkFIYTBLVkxUcXlhLWROVERnNmFneVdISDVvV2dwRENoVnNrTUpDRHdrZmV2RmwwZVJRYTJEZVJjb1FsOG1KQjh0cHJxaGFDQ19HRFd4dlJEMWxCMWVrQ21JZw?oc=5",
+        "fonte": "Gazeta de São Paulo",
+        "data": "2026-08-15"
       }
     ],
     "cimento": [
@@ -112,41 +112,41 @@ window.NEWS = {
       {
         "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
-        "fonte": "SuperVarejo",
+        "fonte": "supervarejo.com.br",
         "data": "2026-08-17"
       },
       {
-        "titulo": "Guimarães projeta expansão nos canais de varejo e exportações em 2023",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaXk5cy1TbzA0Z0R3MXV5eXExcFNVMWtWLTUzcjlpanpkVF9YUTJBdnlyV05sdi1pQUxjeUphUXBOVmlOb0lHTHJDMG9sY0tQb2YzdkE3c056Xy1XZk4zTWkwZHRYaFVVWmFnd0EzZDY2cDFtRHhJbG9WelB4bExVT2tjcVUtR0d3MzRvWEMxTTlHNHNHOVhhckhwanFEbURKcU41NUU2RmZWUTdFZzBEMXNWQQ?oc=5",
-        "fonte": "noticenter.com.br",
-        "data": "2026-08-12"
+        "titulo": "Crise do varejo? Por que algumas gigantes estão em crise e outras seguem crescendo",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbjdJcTJLS3lLN1BXcUxITnQ3YlVyNTdNdkhrbml1V1ZiS19nRmtnZ1IzNUctQmoyQU90UGpwYUYwbEJHN0lFUnNiTGQ5Tjk4em55a2ZpVmFLdWVfMHdXSk9JX0Z3SWZaWFNwdEpZY3lLZ05IYlJYTkxCUHBzNHU4RFlaSWEzR3RGdFp6NHpjbXg2U0NtREI1VHNtTl8ybkVxUXFfem90YjV6VXA2Slh3?oc=5",
+        "fonte": "O Potiguar",
+        "data": "2026-08-19"
       }
     ],
     "energia-gt": [
       {
         "titulo": "Taesa mantém estudos para disputar leilão de baterias, mas aguarda definição da regulação",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYTJ6cERRZ0pqaWRXdl9jci1yTHFOS3hmcG56d196azZoSlJBa28tT05KY29GLWVVMF94WmZUeUJ3cm9sWTFlbnlVbm03U1RCZ21aSTgzY1RqQzN3OEZiV3dzclpGdF9KRnkxaGptaldPTS1p?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-13"
       },
       {
         "titulo": "Com 12 projetos de transmissão, Axia Energia prevê R$ 8,7 bi em investimentos somente neste sistema",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Fdlo0UnJTVkJ5WWF2cmZCTVpTbEQxV24zXzFBRkhwOGR5MlFWYjVkWTUxUTBJbEYyMjdhT0FINTNlQkNqUDhTb2lNUWc1OHdBdUVaRDJDb0Ytdkc2M3ZPbXZxbm5rSTh3OUNaY3drcWQ?oc=5",
-        "fonte": "revistaoe.com.br",
+        "fonte": "Revista O Empreiteiro",
         "data": "2026-08-14"
       },
       {
-        "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
+        "titulo": "Térmica Azulão II adiciona R$ 2 bi de receita fixa anual à Eneva, calcula comando; veja o Radar Energia XP | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQTnhIT1UwLXQxMlVOcDAzVTVHYUdkQmpDNWpIaUxibUY0SHMzbVoyQk9TU1dkMFl0WE5OSzg4djVNR1Y1T2lWMGR4UkFqOWI1aTV1Vi1fcGk2R3RMbUEwV0ozaS0zT1Nwak5IeW9weDhKYWVRNVNfSmN0NVNacGRtN2dpcTRhdEFiUVVvZXNvVExoNm41eXF1ZUl4cUNpdDBWYmFScy1tUFZqcjZOZXRNRG1DVFFNZHJMdFBldFpTVG1ZbWVDNW9NWmJaUDhRcGF5OHhYcFRFanhhWjJMR0hncmltYlZXTW5WaU9GMVZR?oc=5",
         "fonte": "XP Investimentos",
-        "data": "2026-08-12"
+        "data": "2026-08-14"
       }
     ],
     "solar": [
       {
         "titulo": "Brasil é o país que mais busca por energia solar residencial nas Américas; confira ranking",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EVUx0cl9nMWVTQXdyV05QSWJTWEFnbEVZcGVpZE9obFNuNXlkUXUtb0F5ZHB5WHlmTWNreEJDaWsweVBhSnJrU0g2RXBSTmtCczd3cGxpWW5WLU1fRVhLNTlBZWdkYlBmTjV4R0dueGMwcVplT3dv?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-08-13"
       },
       {
@@ -179,7 +179,7 @@ window.NEWS = {
       {
         "titulo": "ENSCEIS e o futuro da indústria da saúde",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RvZTNNNExvcm56WnVSYlFTQnR2NUR6REdBbWUtZENGRXRNV0N3dl9GR0duNndLY194RzByYm9PcmRxUWlCR1NvZjRtN21DZUNqM0szVXhER0NPZXRReFdfZ3JrdVp3REg4OGczTEowOTFteHZzUXV5dGdaeVRhbkFtNkVnNDAtTHFCRDdHNVM0T192aWN1M1UxbF9UbHlz?oc=5",
-        "fonte": "Panorama Farmacêutico",
+        "fonte": "panoramafarmaceutico.com.br",
         "data": "2026-08-18"
       }
     ],
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-14"
       },
       {
@@ -234,7 +234,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-14"
       },
       {
@@ -246,16 +246,16 @@ window.NEWS = {
     ],
     "mineracao": [
       {
+        "titulo": "Bate-papo sobre o momento ímpar do Brasil no setor de exploração de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZWaVR2bHpzSER1YWU1UXNwaFdCbkNUY3JCVkRGZDFWS2Y0c2pQZjNTckNEd1lUN2ZWUG9Dakc4V0tXVlA4VTJQbmVmRVpjVHVobk4zWHBVWEJKY25NbE5rcWFJbDZQMk5LNXM0N2VqZEdwT1YzMkdEMXJoM3NFUFlsOVo0T3ktdGhGSFBQRWZQc2J6ZnFPNG9lWWc5MEgtY0NNTFhGQnRBZTJ0SGl3Nk1jdXpPeGltQlNiWldpNEtHbFR3QUlTODJ0emdaajNxT1hlcWxHdWpOZmtTLUd4RHFrUWlRbG4tM0xLcGotTEVmdm9CTjVuX1c5ZGFHa3A4emxoVXZFOXbSAYgCQVVfeXFMT002VmlUdmx6c0hEdWFlNVFzcGhXQm5DVGNyQlZERmQxVktmNHNqUGYzU3JDRHdZVDdmVlBvQ2pHOFdLV1ZQOFUyUG5lZkVaY1R1aG5OM1hwVVhCSmNuTWxOa3FhSWw2UDJOSzVzNDdlamRHcE9WMzJHRDFyaDNzRVBZbDlaNE95LXRoRkhQUEVmUHNiemZxTzRvZVlnOTBILWNDTUxYRkJ0QWUydEhpdzZNY3V6T3hpbUJTYlpXaTRLR2xUd0FJUzgydHpnWmozcU9YZXFsR3VqTmZrUy1HeERxa1FpUWxuLTNMS3BqLUxFZnZvQk41bl9XOWRhR2twOHpsaFV2RTl2?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-19"
+      },
+      {
         "titulo": "INDÚSTRIA | O Estadão promove na quinta-feira, 20, o Fórum Minério Verde, em São Paulo. Especialistas e executivos vão discutir a mineração em áreas de biodiversidade sensível, a corrida pelos minerais críticos e a automatização e o uso de inteligência",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVlNkRE5RUlRpM1VTNEQ1RG43LXlSV1I3dlAtWmg5WDUtVFhLd1ZZTjYxN1lWTWtkQklYd2RyYkxyUzE4bVhVNTJwbXR3NnBHM0E?oc=5",
         "fonte": "instagram.com",
         "data": "2026-08-13"
-      },
-      {
-        "titulo": "Funding é o que fará o Brasil liderar a corrida por minerais estratégicos",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSy1UT3pFUDlSMlJqZ19lalJIYnZIbGlxWlBPa0EyN2xvRmczRzFZWjhHdmpVLW1JOWZKUnNrZl9nXzVGZVJlX1dkUWVUU0syeGEtM251VlpWa1UxcnBRQXR0ZjI2bVRjdFVLUE9idDVKUmY0dG90NE1MSEJPNzlfRmd2N0VhQVR6blJuS1E3dXp4ZUtIZ0pFbkVFVmNZTG93NThXeENCY21sazhsbjZWX1JXbElJZHlJQVRYT3JIM1RkR2JsWXZGWkNtRk8weEtWNkp3UVVuZVZxS2pjcWpTMjlnOV9nbGdRc2fSAfgBQVVfeXFMUGNSdDFyOURpRUJtY25hTVJvMUVzYWd6dE9YS0l6eDhqT2ZwSUM0Um56VWVRTFBYM1BueE8zUUtmUUhYclhNQ0Nsc1ZLZGlTS205ZjhNcjJnd1VzR2Nlb0YxaURRWWpYODV1aktYeWNmZm9xUjBna0VvdXRURmZuZjZvNUxwUklNSGpUSkZHSWZxZlRfOU43dm9Pd3RtWmJGQ3QxWFlEUVpsZGV6RzNxRTdmcnRyRlUwVlBsemE1a042RHpkM2Y2cnBlSE05RjlTcjVJZ3ZaYkVpMFlQYmxzQWt0T1luai1RaEFuQ09xdUVpMGZ3SEJORDY?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-08-19"
       },
       {
         "titulo": "França cria comissão no Brasil para ampliar negócios em minerais críticos",
@@ -280,7 +280,7 @@ window.NEWS = {
       {
         "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-12"
       }
     ],
@@ -295,14 +295,8 @@ window.NEWS = {
       {
         "titulo": "Concessão do saneamento de Rondônia prevê R$ 4,2 bilhões em investimentos e atendimento a 40 municípios",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzRjQTcwQUhYTVNRZW5kTTJHa0NrNWFRbGh5LTlRTDB2LVBNYS0yN01ETlplR0t5M3V5bUwzZUlTWkVnbnNwNWEtLXUteWJpOFNJaTRxNXFueV9XdTFmby1rZHRKQjZnMDJoOWxHYWx3aGZqY3k5VHFIUy1XdGJJZ0RFNllGVGh4Q0lmMi1heDVJUlhoVC1rUE5YY1Zta1hPV2lCTjZHU3g2dHphSWk0YzNqZFJQeVVfbzdFNzBqWk1hWFEwVm9KTy1wblAwQ1AxaTFLZC13?oc=5",
-        "fonte": "Em Rondônia",
+        "fonte": "emrondonia.com",
         "data": "2026-08-18"
-      },
-      {
-        "titulo": "Enel fracassa em barrar decisão que pode encerrar concessão em São Paulo; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNZ2pGSkxKN0ljaWp5cUV5ZkMxUHBTVy1CUV9ITG82UXBxQmZXMjBFUVBuSjFjNXFWSDVvVzNJcDRWckxzRzE3a05mRktsOEFwM0FYZ1NpSk9vdzVWYlpqajVtMUlfeUFkalJpU25sNmRaV1htVk1INm0ycUl3RUZGWDFLaUE3SWVKVnUyYXA0bGVvZnBZX0NvMlIzWHBfOXJLbG1HQjNIQlVoTkUxNE9CYi1qaXZJQUFnRlVFZjByLU81cTk5SzRZVWFkOGszLWpCdEFMczF1VkJ5ZmhfSkhuRjY5MWI?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-08-12"
       }
     ],
     "siderurgia": [
