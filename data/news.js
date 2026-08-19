@@ -1,13 +1,13 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T14:37:01+00:00",
+  "atualizadoEm": "2026-08-19T15:34:20+00:00",
   "itens": {
     "agronegocio": [
       {
-        "titulo": "Angola pede ao Brasil ajuda para deixar de importar alimentos",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHVnLThXc2pBeE4xMTJPTUVpX1VFY09taHR1Skp5NTh4eGI5V2VqU05uYWdrYUw4bWxidXY1TzdHeFBZOWRUQWExV1MzUEJuV1Q5bGZqU0k4MGd4U2xPNm5xU0llYmw4Y2VUM3FNZ0xFSF9uX0ZnZ3ZGSWdmUkV4RFFlMDExSktfRGd6Wm9VUTF4SUh2ZlB6UGtMdVA?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-12"
+        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-08-17"
       },
       {
         "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
@@ -16,9 +16,9 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
-        "fonte": "brasilagro.com.br",
+        "titulo": "Opinião - Papo de Responsa: Proteger as florestas é investir no agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXdmMTZzdWg1YnVkRkZHc0h6VWxXVEtGcm5CWlVOUk1yei0xelJZVlNuODFqNDVOX2llQUpKWmNWV01GaGRhQm83X05sLU5XNjdTMjNoS1Jqa3QtY0VyZGFRZHlBVXZzbXc3WmtRWFdkXzFMUlBKaGVueUloWGs5b25uY19wTzBkeGRJeG4teEVDcmFJRjQ0aWw2TDFSREtuTHloUWdxZHl5TmQxNkJPMm9JNVRORTg?oc=5",
+        "fonte": "Folha de S.Paulo",
         "data": "2026-08-17"
       }
     ],
@@ -92,7 +92,7 @@ window.NEWS = {
       {
         "titulo": "Cimento Apodi destaca inovação na ExpoConstruir 2026",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnVPamFYN3plaTRXWnk5T2hpa2I1dzRSdnViNFI2b2lOVWFLMG0yMUhrUVloM1RvNGdiR1RCRS1IbS1Ic1o3ekhaQVVXNHp6dGttcFlVSGxPZVhjTXdaVDBGTXVBOG1fdzVEUW5WUVc2TWtmQUtLVzVROXM3blUybU53elMyYjEwa0VOemFCdTBvQnFod1F4bng1eDItV1J4VUkzUFh0OVJfRXhRa3I0SDl3?oc=5",
-        "fonte": "Portal Terra da Luz",
+        "fonte": "portalterradaluz.com.br",
         "data": "2026-08-13"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Taesa mantém estudos para disputar leilão de baterias, mas aguarda definição da regulação",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mYTJ6cERRZ0pqaWRXdl9jci1yTHFOS3hmcG56d196azZoSlJBa28tT05KY29GLWVVMF94WmZUeUJ3cm9sWTFlbnlVbm03U1RCZ21aSTgzY1RqQzN3OEZiV3dzclpGdF9KRnkxaGptaldPTS1p?oc=5",
-        "fonte": "Canal Solar",
+        "fonte": "canalsolar.com.br",
         "data": "2026-08-13"
       },
       {
@@ -144,10 +144,10 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "Brasil é o país que mais busca por energia solar residencial nas Américas; confira ranking",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1EVUx0cl9nMWVTQXdyV05QSWJTWEFnbEVZcGVpZE9obFNuNXlkUXUtb0F5ZHB5WHlmTWNreEJDaWsweVBhSnJrU0g2RXBSTmtCczd3cGxpWW5WLU1fRVhLNTlBZWdkYlBmTjV4R0dueGMwcVplT3dv?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-08-13"
+        "titulo": "Fórum Brasil-China reunirá especialistas sobre futuro da energia solar e de armazenamento",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtTzgwSTRwRDFIbzdpNjRlYjVQR09ITkxvendJWWV2bTBBWDhFYm5mSVF4RG85ZTZjYnJqRDYzSHZfTU9fdVJjNTVxczlrTUtsZGZrZkJsWHVWaGY2LVpaNEFDZHF0eFhpT09kQ1F1Y1A3Y01kZHMtWWgwcHQ?oc=5",
+        "fonte": "canalsolar.com.br",
+        "data": "2026-08-14"
       },
       {
         "titulo": "Crédito impulsiona instalação energia solar em casas, empresas e propriedades rurais no Espírito Santo",
@@ -179,7 +179,7 @@ window.NEWS = {
       {
         "titulo": "ENSCEIS e o futuro da indústria da saúde",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RvZTNNNExvcm56WnVSYlFTQnR2NUR6REdBbWUtZENGRXRNV0N3dl9GR0duNndLY194RzByYm9PcmRxUWlCR1NvZjRtN21DZUNqM0szVXhER0NPZXRReFdfZ3JrdVp3REg4OGczTEowOTFteHZzUXV5dGdaeVRhbkFtNkVnNDAtTHFCRDdHNVM0T192aWN1M1UxbF9UbHlz?oc=5",
-        "fonte": "Panorama Farmacêutico",
+        "fonte": "panoramafarmaceutico.com.br",
         "data": "2026-08-18"
       }
     ],
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-14"
       },
       {
@@ -206,12 +206,6 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "Ferrovias lideram investimentos previstos pelo Plano CNT",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS0ZRZHlhVmJ1ZGoyQ0RwWm9OQ0Q4OVA3NGpNcDVCUVNQRlk3NjRaTDA1R1NObWU3THFQSDdzOE0xSkVudDB6QjlTT0U3cVp6el8xS01BLVY4SFZsOENWOWFBYm9NRkpNblpiWmVEcXBCT0h6TnFWTkR0bzZxMDNjQXdwbEZac0lTRVZWWXc4Z0hSNk02bmxlckpKUFF6VkhmTVFxTDlQc0ZKbDN4cWZLalJjaWZBdXBZQnU0Ug?oc=5",
-        "fonte": "MundoLogística",
-        "data": "2026-08-12"
-      },
-      {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1wQmZsZWpwY2I2VlZuTXdMcTJXNHlqQWQyOGRCZXRhREFaaWlsb3pwb0ZXZlUxZGZ3Q3I4Zk9rV055bXl2TDZFdHRoOGUzNEJhdE9HTkVpc24xcXk2Z1ZpOXF4cEJkOE8tYmRYWHFaMkxLV0NB?oc=5",
         "fonte": "ES Brasil",
@@ -220,8 +214,14 @@ window.NEWS = {
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "Alagoas Alerta",
+        "fonte": "alagoasalerta.com.br",
         "data": "2026-08-14"
+      },
+      {
+        "titulo": "Plano de logística prevê R$ 1,2 trilhão em investimentos até 2050",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU1IemVnMlBENFY1ekZBVnRsUG1fblJCLUs2QTE0RDBTeV9IQ3poNFpOUzJid1RGZmhSSGRxeEo4Q3pWa1pNRk54UmFsMFlfRHA0cVgtT2dsT21UZTducnQ4d1QxWkpjNnJ2dHYyLVpYNjNOUFFyQkl0MGtuSW5EcVhrRHRYQWQwaWcwa3JmOFhYSXZCenlFc3Rn?oc=5",
+        "fonte": "O Presente Rural",
+        "data": "2026-08-15"
       }
     ],
     "maquinas": [
@@ -280,7 +280,7 @@ window.NEWS = {
       {
         "titulo": "\"Liderança em Sala\": o desafio de liderar um investimento bilionário em meio à pressão ambiental",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPQ1R4V1pNZ2RFX1lDSkhCRlhRdmJOU1VBeVVpS1lJaVI2UjVQalNEUl9iSjY1QWxtbHZDdzBRbmYtalRvaEFEeVo0MDZ6UGR4ckNDRHVGQ0dZVDBGNllJYVhRT0VMQ1VZQ2cyYlZEZVpITGdrRGpfRkZSUlpiNTloNlpaZVpfSUlaQWdkNlItbEwxUno2cjFGMmFNTUJHeEJxZ0FnWWNsQmwwV0tHMXJlSDVsTHBIRUFGeEg2ZE05aFFKSzUxNmEtbW96VnRxSlhSRG53UjIxaERMeUo2MTFUQ2I3T0JMU1dLZ0ozMXV3V1VUTjhLUWNXM3hOdGdUb1NsNUpYTks2dWF2Tm44aU5RSg?oc=5",
-        "fonte": "GZH",
+        "fonte": "gauchazh.clicrbs.com.br",
         "data": "2026-08-12"
       }
     ],
