@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-19T20:31:24+00:00",
+  "atualizadoEm": "2026-08-19T21:28:18+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-14"
       },
       {
@@ -90,16 +90,16 @@ window.NEWS = {
         "data": "2026-08-18"
       },
       {
-        "titulo": "Plano de investimentos da Votorantim Cimentos de R$ 5 bilhões no Brasil até 2028 segue em execução, com R$ 3,1 bilhões em projetos já anunciados",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV1VvMW1Xb0JSekNpTlZsRWJxMWhyUzBxM3MtWm0yWG1HYk5ONy1vNk5GU0tPdm9aWEpDYUZmMk5lRGRzUEh0SjZ4ZTJvTm0wRFdsdHE0b0JvcWlPb2dfRVdudFZ6U1lDSzhzYmtTTGpITFRYRUhqSGxQUHhyWV84RkFTVTJyU1RFcVpxSTh4WDdvM01KNFAtT0wtbGs4TDVsOFBpeUtBNDllUGRpbFZ6ZENwX1RZT2Fha195VzktZUFUY2FnR3VyQ3hBQ0Z6bHZ4Ql9pclRmUlJ0cC00cXdmTUhBWjloa05PM01CTl92THJGMnFjRzFZMjFTTWM?oc=5",
-        "fonte": "jornaldaregiao.com",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Cimento Apodi destaca inovação na ExpoConstruir 2026",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnVPamFYN3plaTRXWnk5T2hpa2I1dzRSdnViNFI2b2lOVWFLMG0yMUhrUVloM1RvNGdiR1RCRS1IbS1Ic1o3ekhaQVVXNHp6dGttcFlVSGxPZVhjTXdaVDBGTXVBOG1fdzVEUW5WUVc2TWtmQUtLVzVROXM3blUybU53elMyYjEwa0VOemFCdTBvQnFod1F4bng1eDItV1J4VUkzUFh0OVJfRXhRa3I0SDl3?oc=5",
         "fonte": "Portal Terra da Luz",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "Plano de investimentos da Votorantim Cimentos de R$ 5 bilhões no Brasil até 2028 segue em execução, com R$ 3,1 bilhões em projetos já anunciados",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV1VvMW1Xb0JSekNpTlZsRWJxMWhyUzBxM3MtWm0yWG1HYk5ONy1vNk5GU0tPdm9aWEpDYUZmMk5lRGRzUEh0SjZ4ZTJvTm0wRFdsdHE0b0JvcWlPb2dfRVdudFZ6U1lDSzhzYmtTTGpITFRYRUhqSGxQUHhyWV84RkFTVTJyU1RFcVpxSTh4WDdvM01KNFAtT0wtbGs4TDVsOFBpeUtBNDllUGRpbFZ6ZENwX1RZT2Fha195VzktZUFUY2FnR3VyQ3hBQ0Z6bHZ4Ql9pclRmUlJ0cC00cXdmTUhBWjloa05PM01CTl92THJGMnFjRzFZMjFTTWM?oc=5",
+        "fonte": "jornaldaregiao.com",
+        "data": "2026-08-14"
       }
     ],
     "comercio": [
@@ -156,10 +156,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Elera aponta baterias como próximo grande investimento no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXZBX1BLM3dXTVF4Z1hYRzllLVlOU09oaFowcFZXVE9wSU4zMmFSUE5MZEJWbU1CWU5aZlMyQ3NUcHhpRmpVVmJ6VnRPakY0dzVmbC1pYzUxZDExdDN2aFZjcnpIby1WcTZvS0E3ckpTeUNSUXdBZ0xqdm55Yk93VEppdlZ6OTVybm5FbDV3OEwzSGNFaERrWEtndmJaMm8?oc=5",
-        "fonte": "cnnbrasil.com.br",
-        "data": "2026-08-18"
+        "titulo": "BYD passa a vender kits de energia solar em suas concessionárias no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0M2X0xnV0xPakswckdFYnZtNTJDSld6emJIdmlNazRFUW8wWTMyaEdMYmpWbHh3WnZ6Z1FicTgxT3dWSUZyMGdrcUZmSXlQQnBqVnFYeEUzS1ZmNTNkMVQxNUVwXzY1ajFEdExNVG42NGc0OG11RWJNckhRNjRHTnpYbXNxVlViRXk4Y29PUjVlMTd1OWQ5QmtiLVBuYmZFNmVOOTFNaUFCbVJXeTMyNF8zMzZaWVZyRkVfTDN4aDlMQVE2OG1OVUNUTQ?oc=5",
+        "fonte": "Portal Solar",
+        "data": "2026-08-19"
       }
     ],
     "epc": [],
@@ -167,13 +167,13 @@ window.NEWS = {
       {
         "titulo": "Desindustrialização compromete soberania em saúde",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUHV5bnowT1ZLdUotY05XOXNKald0Z2p3TGE0YndaRC1NcFRYWjhoa21kMndCa0wxTVIzZzhJb1RZSEthd3EzLU1TbG1jYUZQQWJFSzhlZ2xleTltNEllM3BLbEx4OUhUWjBKRFQwNVFFYzFaSmI4YUFLcWI5MlFqSTBvZzcyZ2VJSWdYb08wQndWa3NZMVI0eVZ2TTZ1dw?oc=5",
-        "fonte": "JOTA Info",
+        "fonte": "jota.info",
         "data": "2026-08-17"
       },
       {
         "titulo": "Interfarma apresenta 10 prioridades para a saúde no próximo governo",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaejNFUGRQcjFwTnNfMEVLOTBfa3lvYzA2VExNNklDRm5tLWFwWFJzVEhPWWNqQ2laREtzMUxVcHo3RktDdnNnYkc5N3ZTV1BpZ2h6dEhfVWtoY0hmYXJ6LURR?oc=5",
-        "fonte": "medicinasa.com.br",
+        "fonte": "Medicina S/A",
         "data": "2026-08-18"
       },
       {
@@ -200,7 +200,7 @@ window.NEWS = {
       {
         "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
-        "fonte": "folha.uol.com.br",
+        "fonte": "Folha de S.Paulo",
         "data": "2026-08-15"
       }
     ],
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "alagoasalerta.com.br",
+        "fonte": "Alagoas Alerta",
         "data": "2026-08-14"
       },
       {
@@ -232,25 +232,19 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Fiems e BNDES firmam parceria para ampliar crédito industrial",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDBJdUowSUIyaWtmWVdsZ3psS0tGdm5mZkNEUVpzdTROMVVSSGd3c0JaTGFtV0N5RHhkMVhYM0xZNFVpSXFWRHZxYnlNNmJOMlRUZi1zNEtqbGRrOTZJYjVBM3FESzE3UFk2RXNUYkllbEhhQzZ1ZWg5OU8wakdhcGNpanpfYmplSmdQVHdTSzFtSjZWbktkM1JEX1IyLXAzR2Z3ejE2dUp5ZG5OTWRiOHRzaFhtc3FvbVZlUTln0gG-AUFVX3lxTE1MVUFyaTIwR0g0MEh4Qk9BYkEzOC1yVEFxVlhtRHk5ZkRPY3ZSTnhYa0tsU25YVTV6a3JxWGlsRlZQVjFPcHhOOW1JNTUwT3VsS2Q1Y3RsVGRQSVVCUGNkcnBNTTZaenVlbG43bnVTQ3VYTVJOYWZzQml1WG5MQjU0UU91Vk1jRDJHR1J4OTFGRFhyY0IyUzZ2ZnR6NG1neV9rM3FhazJ6U2VnVFlXMFlKODR2Qms4bkYzRVFDUEE?oc=5",
         "fonte": "Campo Grande News",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "De Fábrica de Data Centers a Fábrica de Chips: Governo Lula Já Investiu R$ 8,4 Bilhões em Tecnologia de Ponta no RS",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPdXp2VnFGdlpZQ0xtNWRFRUc4WFVpY19heUxxQjVGeDhKWnJONmlGQlppT1JaaU9nekpsaFc4aV83RUxPUjhUV0hpM1lQdWxoc3FOTmxXZFpaMkpHbkdwazljWmdDbG5sbno0WWdleW4zeTdmbkd1dnBhLU9hX2RlU2hjeGpkQVFOMnFxTlliUGNBOFpHeWdLaWZ0Z3F1N3EtLTJ5MHNtMkUwT05GYlY3RDV4bjdYWmZUY0lqX2J1Z09YY3NSdENMd1VZbWFMN1VJU1NITURscWlGblk2ay1DUQ?oc=5",
+        "fonte": "luizmuller.com",
+        "data": "2026-08-19"
       }
     ],
     "mineracao": [
-      {
-        "titulo": "O plano da Vale para fazer a mineração explodir no Brasil e gerar milhões de empregos",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3ROQWktYUhoaEZpMENXZjhoYm9vVzBZZGk0Mnd0SkJoeTBrczNOa2FlZHhQdnpKVGlkRUx1eUU0NVRYMEZOS2l4SHZiekFzUGZlM3c1eUZVTWoteDBsM0xFUmtIR013LURoZFNJTWZNTVN4ZVhXWXVVZUVhZFJOY19CRDNjbTRLM2ZNMlByeFRRZ3lSSXdxQUdnZlhBOFktR2tPSlNHM2tiSFl6Z2RWaGFIMHg5R0t3SklHRGR3?oc=5",
-        "fonte": "veja.abril.com.br",
-        "data": "2026-08-18"
-      },
       {
         "titulo": "Bate-papo sobre o momento ímpar do Brasil no setor de exploração de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZWaVR2bHpzSER1YWU1UXNwaFdCbkNUY3JCVkRGZDFWS2Y0c2pQZjNTckNEd1lUN2ZWUG9Dakc4V0tXVlA4VTJQbmVmRVpjVHVobk4zWHBVWEJKY25NbE5rcWFJbDZQMk5LNXM0N2VqZEdwT1YzMkdEMXJoM3NFUFlsOVo0T3ktdGhGSFBQRWZQc2J6ZnFPNG9lWWc5MEgtY0NNTFhGQnRBZTJ0SGl3Nk1jdXpPeGltQlNiWldpNEtHbFR3QUlTODJ0emdaajNxT1hlcWxHdWpOZmtTLUd4RHFrUWlRbG4tM0xLcGotTEVmdm9CTjVuX1c5ZGFHa3A4emxoVXZFOXbSAYgCQVVfeXFMT002VmlUdmx6c0hEdWFlNVFzcGhXQm5DVGNyQlZERmQxVktmNHNqUGYzU3JDRHdZVDdmVlBvQ2pHOFdLV1ZQOFUyUG5lZkVaY1R1aG5OM1hwVVhCSmNuTWxOa3FhSWw2UDJOSzVzNDdlamRHcE9WMzJHRDFyaDNzRVBZbDlaNE95LXRoRkhQUEVmUHNiemZxTzRvZVlnOTBILWNDTUxYRkJ0QWUydEhpdzZNY3V6T3hpbUJTYlpXaTRLR2xUd0FJUzgydHpnWmozcU9YZXFsR3VqTmZrUy1HeERxa1FpUWxuLTNMS3BqLUxFZnZvQk41bl9XOWRhR2twOHpsaFV2RTl2?oc=5",
@@ -258,17 +252,23 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "França cria comissão no Brasil para ampliar negócios em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkJOdG0wR09abmVuZEtVbWVjS0dfWkUxcnlPTDljRE5MT3pKN0xSZUNYcnN4WEJmV0F1ZGtPSUlEU0N4NGV5V3pzcDlyUkVYYi1YZlVOc2twREdQNGlwaWwxa2cwNkpJV0NjdkktbmZqTURYejZnWGFWc1JubUo3RWhuSTRlRWJUaTVqbnpYa1RLVVVrN1dIcGZwOFIwUXRkMGV4R3FQOE94RG5PM0E?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "titulo": "INDÚSTRIA | O Estadão promove na quinta-feira, 20, o Fórum Minério Verde, em São Paulo. Especialistas e executivos vão discutir a mineração em áreas de biodiversidade sensível, a corrida pelos minerais críticos e a automatização e o uso de inteligência",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVlNkRE5RUlRpM1VTNEQ1RG43LXlSV1I3dlAtWmg5WDUtVFhLd1ZZTjYxN1lWTWtkQklYd2RyYkxyUzE4bVhVNTJwbXR3NnBHM0E?oc=5",
+        "fonte": "instagram.com",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "FIEMG debate minerais críticos e cooperação global",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
+        "fonte": "FIEMG",
+        "data": "2026-08-19"
       }
     ],
     "papel-celulose": [
       {
         "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
-        "fonte": "infomoney.com.br",
+        "fonte": "InfoMoney",
         "data": "2026-08-13"
       },
       {
@@ -280,7 +280,7 @@ window.NEWS = {
       {
         "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-15"
       }
     ],
@@ -295,7 +295,7 @@ window.NEWS = {
       {
         "titulo": "Concessão do saneamento de Rondônia prevê R$ 4,2 bilhões em investimentos e atendimento a 40 municípios",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzRjQTcwQUhYTVNRZW5kTTJHa0NrNWFRbGh5LTlRTDB2LVBNYS0yN01ETlplR0t5M3V5bUwzZUlTWkVnbnNwNWEtLXUteWJpOFNJaTRxNXFueV9XdTFmby1rZHRKQjZnMDJoOWxHYWx3aGZqY3k5VHFIUy1XdGJJZ0RFNllGVGh4Q0lmMi1heDVJUlhoVC1rUE5YY1Zta1hPV2lCTjZHU3g2dHphSWk0YzNqZFJQeVVfbzdFNzBqWk1hWFEwVm9KTy1wblAwQ1AxaTFLZC13?oc=5",
-        "fonte": "Em Rondônia",
+        "fonte": "emrondonia.com",
         "data": "2026-08-18"
       }
     ],
