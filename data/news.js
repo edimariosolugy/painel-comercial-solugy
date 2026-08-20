@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T11:29:52+00:00",
+  "atualizadoEm": "2026-08-20T12:54:27+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -136,24 +136,24 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Lula assina decreto que regulamenta mercado livre de energia; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPejl3bWFaMzZzWUZGTzFic2lBWTRrbFA0QWJHaVZXSC1XelJSakZJQnl2eEMzdWRra0ZfYkR1Q3dwZTFrVlpXdWdwamFTVjQwUkZTRXNidVU3LU15TXEyaDU1U2MzVXZ3NTAycEdSd2FaaHJSREVfRjUwbkZ6RHptSHY3LTB5X19aSjVQSFZ5VE5kTzBhT2RZYXg0R2xKTUZfdWFwSGlFeUxXT1h5OFJKb2FkcVRqa2kxbmtDeDltTzNERXYxWEQxd3JCYjdMNkRXSDNQWQ?oc=5",
+        "titulo": "Ludimila Lima volta à diretoria da Aneel com tarifa branca e prorrogação de hidrelétricas; veja o Radar Energia XP | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdG95UDNfOE5FNDFoYllHYjV3cjJCWmJNWFlzRlNTZ2o2OFJRT0l6dDZiWi15OEVjVUgwWGFjRFREN2tEemdyUDRlbVR3aHl1TFF5dU5WR0NUbmg3SnZ5X1VsN09aT2hHWEdHczdqdEZUbHRVM0c5OFRGcUl6NmpDWjJ3V2JISWkydTFSQ1QtRDZreTBaSE5EMFJjb1lqZTJpNDFPVEpHUDBHV0o0UGtrT1hWeWdWUlNyX0V0cDFlUnpmd2xzZFlOU3dkYWxQYW9kRWFSUFl6OFpybG5CeFFEcEs5cEFhT1pXclUtUEdPUzRSWUdsRUxkTG1Pcw?oc=5",
         "fonte": "XP Investimentos",
-        "data": "2026-08-13"
+        "data": "2026-08-18"
       }
     ],
     "solar": [
+      {
+        "titulo": "Fórum Brasil-China reunirá especialistas sobre futuro da energia solar e de armazenamento",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtTzgwSTRwRDFIbzdpNjRlYjVQR09ITkxvendJWWV2bTBBWDhFYm5mSVF4RG85ZTZjYnJqRDYzSHZfTU9fdVJjNTVxczlrTUtsZGZrZkJsWHVWaGY2LVpaNEFDZHF0eFhpT09kQ1F1Y1A3Y01kZHMtWWgwcHQ?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-08-14"
+      },
       {
         "titulo": "Brasil lidera buscas por energia solar residencial; veja o que isso sinaliza para o SNEL11",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVVkS3JlV09QREltNnR0TmRlZnZLM0xIR0l6RDBtZDQ4QktCcTVBa1lBQk5jUjZtV2syNEgxT0l1eUtiSW1nOEI0cDBBa0pzLXV1cW9EXzNHQkNkbTYyR0hEWl9uLWlyNXpwdUx0U2w0OVo5MnFHMFRoaFcyT1dFeHg1SHBVQ0d1UU1ZRmZzWno0ZXBSQ3E3Ng?oc=5",
         "fonte": "Fiis",
         "data": "2026-08-13"
-      },
-      {
-        "titulo": "Cooperativa de flores terá usina solar de 1,2 MW em centro de cultivo",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Zdy1LNlBGMUsxRjlZU0MxbE1VbGREQkx5bGZVQnJQOXVoVGFRV1lPTWF1d2dNSVIxR3lJMkc2WXZ2dUNRTXJfeklTUlF6S0ZYNWtaM3VaNVhaSUFNNWs3WVoyUWVseTdfU2ZNel9xZUpQTk5wR2pnOFJBVFk?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-08-19"
       },
       {
         "titulo": "Crédito impulsiona instalação energia solar em casas, empresas e propriedades rurais no Espírito Santo",
@@ -192,16 +192,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-08-15"
-      },
-      {
         "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
         "fonte": "O GLOBO",
         "data": "2026-08-17"
+      },
+      {
+        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-08-15"
       }
     ],
     "logistica": [
@@ -246,21 +246,21 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "França cria comissão no Brasil para ampliar negócios em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkJOdG0wR09abmVuZEtVbWVjS0dfWkUxcnlPTDljRE5MT3pKN0xSZUNYcnN4WEJmV0F1ZGtPSUlEU0N4NGV5V3pzcDlyUkVYYi1YZlVOc2twREdQNGlwaWwxa2cwNkpJV0NjdkktbmZqTURYejZnWGFWc1JubUo3RWhuSTRlRWJUaTVqbnpYa1RLVVVrN1dIcGZwOFIwUXRkMGV4R3FQOE94RG5PM0E?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "Bate-papo sobre o momento ímpar do Brasil no setor de exploração de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZWaVR2bHpzSER1YWU1UXNwaFdCbkNUY3JCVkRGZDFWS2Y0c2pQZjNTckNEd1lUN2ZWUG9Dakc4V0tXVlA4VTJQbmVmRVpjVHVobk4zWHBVWEJKY25NbE5rcWFJbDZQMk5LNXM0N2VqZEdwT1YzMkdEMXJoM3NFUFlsOVo0T3ktdGhGSFBQRWZQc2J6ZnFPNG9lWWc5MEgtY0NNTFhGQnRBZTJ0SGl3Nk1jdXpPeGltQlNiWldpNEtHbFR3QUlTODJ0emdaajNxT1hlcWxHdWpOZmtTLUd4RHFrUWlRbG4tM0xLcGotTEVmdm9CTjVuX1c5ZGFHa3A4emxoVXZFOXbSAYgCQVVfeXFMT002VmlUdmx6c0hEdWFlNVFzcGhXQm5DVGNyQlZERmQxVktmNHNqUGYzU3JDRHdZVDdmVlBvQ2pHOFdLV1ZQOFUyUG5lZkVaY1R1aG5OM1hwVVhCSmNuTWxOa3FhSWw2UDJOSzVzNDdlamRHcE9WMzJHRDFyaDNzRVBZbDlaNE95LXRoRkhQUEVmUHNiemZxTzRvZVlnOTBILWNDTUxYRkJ0QWUydEhpdzZNY3V6T3hpbUJTYlpXaTRLR2xUd0FJUzgydHpnWmozcU9YZXFsR3VqTmZrUy1HeERxa1FpUWxuLTNMS3BqLUxFZnZvQk41bl9XOWRhR2twOHpsaFV2RTl2?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-19"
       },
       {
-        "titulo": "Congresso destranca incentivos para minerais críticos e fertilizantes",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGlILVREbUJsTERYWllJQ0ltUDJtZlJKalVSOUJSU1dnaFgxZXBkdHVoOUcwUlNkYWExWUNHTXJ6STZIVlZJb21jSHVRYVRpSi1sWVJiZEJ3ak44NlNiZGZBRklpZU1HM0EyUER0QmJJUEhqMnItaWtQQVhJOHAzNTA0S2Y4V0FjNVFDYjFxZ2lUaDFvS0QzODBuenZqbk1HeDI3WDJHNjZZa00?oc=5",
-        "fonte": "Brasil Mineral",
+        "titulo": "INDÚSTRIA | O Estadão promove na quinta-feira, 20, o Fórum Minério Verde, em São Paulo. Especialistas e executivos vão discutir a mineração em áreas de biodiversidade sensível, a corrida pelos minerais críticos e a automatização e o uso de inteligência",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVlNkRE5RUlRpM1VTNEQ1RG43LXlSV1I3dlAtWmg5WDUtVFhLd1ZZTjYxN1lWTWtkQklYd2RyYkxyUzE4bVhVNTJwbXR3NnBHM0E?oc=5",
+        "fonte": "instagram.com",
+        "data": "2026-08-13"
+      },
+      {
+        "titulo": "FIEMG debate minerais críticos e cooperação global",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
+        "fonte": "FIEMG",
         "data": "2026-08-19"
       }
     ],
