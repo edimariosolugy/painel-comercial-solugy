@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T10:34:30+00:00",
+  "atualizadoEm": "2026-08-20T11:29:52+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,16 +24,16 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
+        "titulo": "Investimento em tecnologia e sustentabilidade impulsiona indústria de alimentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOU1DeGNlQldtSDNrMXFlZHVRd1FBeGZRcE4tS0VHYXZIX19TRlVFYUFNUmlxX2ExWUR0M0RNLVVCWlN3YzZULTRLRlJpUHRjZFhBSERNYWt4RGRfZ0RZMlhoSVE0cHNWRDlYQnR3Tml2cFpzWmN3VnFpNGEzSjUwSWRiWWU2bjZ1UGk1NXFYcXgzMVZqOFNTVFpRNk1NV2MwRGpfTjF4ejJXZm5wN0pLZVRrQjZIWFZtRFhtRw?oc=5",
+        "fonte": "Brasil Inovador",
+        "data": "2026-08-20"
+      },
+      {
         "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUNaUFFFbGtVOXJjMDdnOV9iRzl4T2F5c3MwSGpTQ1VtY0dzanlvYWpaYzRJd2haQmZOS1hQck1jX1ZNM09lWm5HTWNMb2tjSmRZU3dWY2ZPeVl5aGMxVi1sZGl1N0RXXzVrZnpmZHVuR0tNUXlVYVFBN2h5eVIxX1RhRkFSa19VX0wtejZHUUxqaWVpZEthVGxybGtROWd0N2ZhMTBZNXI3WUhYdWVZNklUdUtrSFBRVEh1YzBaWENxUlhzUFFKeTB3SGJ1empGMzZsN3pEcXVPc3c5WGVCdjZpbw?oc=5",
         "fonte": "UOL Notícias",
         "data": "2026-08-18"
-      },
-      {
-        "titulo": "Brasil Sensorial Summit 2026 reúne especialistas para impulsionar indústria de alimentos e bebidas",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZ3VyZ3M1UEZBUmNsNXhwd3BWLUlTNUFrVnlrUV83Znh0dGhqNmNHQlNfb29hQWdzWFFZbkdmYWctOHBxNXFucDU3LTRTekFtS1pqb01yM2Y1eUdvc2RaNk0wakRhSEZwYzBnYVVrcHcyNHhYd1N0dVh0ODFSTG83V2pBeHhzSW5idHFHRVR3U29OUmNzNk9fLWZUOFdzWk5CNFUyUG5TbzNuTVJ6TmZkRFdTck9FdVZwWERZMEFWVV9iRFJJRUJraA?oc=5",
-        "fonte": "Brasil Inovador",
-        "data": "2026-08-16"
       },
       {
         "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas com novas aplicações",
@@ -246,21 +246,21 @@ window.NEWS = {
     ],
     "mineracao": [
       {
+        "titulo": "França cria comissão no Brasil para ampliar negócios em minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkJOdG0wR09abmVuZEtVbWVjS0dfWkUxcnlPTDljRE5MT3pKN0xSZUNYcnN4WEJmV0F1ZGtPSUlEU0N4NGV5V3pzcDlyUkVYYi1YZlVOc2twREdQNGlwaWwxa2cwNkpJV0NjdkktbmZqTURYejZnWGFWc1JubUo3RWhuSTRlRWJUaTVqbnpYa1RLVVVrN1dIcGZwOFIwUXRkMGV4R3FQOE94RG5PM0E?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-13"
+      },
+      {
         "titulo": "Bate-papo sobre o momento ímpar do Brasil no setor de exploração de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZWaVR2bHpzSER1YWU1UXNwaFdCbkNUY3JCVkRGZDFWS2Y0c2pQZjNTckNEd1lUN2ZWUG9Dakc4V0tXVlA4VTJQbmVmRVpjVHVobk4zWHBVWEJKY25NbE5rcWFJbDZQMk5LNXM0N2VqZEdwT1YzMkdEMXJoM3NFUFlsOVo0T3ktdGhGSFBQRWZQc2J6ZnFPNG9lWWc5MEgtY0NNTFhGQnRBZTJ0SGl3Nk1jdXpPeGltQlNiWldpNEtHbFR3QUlTODJ0emdaajNxT1hlcWxHdWpOZmtTLUd4RHFrUWlRbG4tM0xLcGotTEVmdm9CTjVuX1c5ZGFHa3A4emxoVXZFOXbSAYgCQVVfeXFMT002VmlUdmx6c0hEdWFlNVFzcGhXQm5DVGNyQlZERmQxVktmNHNqUGYzU3JDRHdZVDdmVlBvQ2pHOFdLV1ZQOFUyUG5lZkVaY1R1aG5OM1hwVVhCSmNuTWxOa3FhSWw2UDJOSzVzNDdlamRHcE9WMzJHRDFyaDNzRVBZbDlaNE95LXRoRkhQUEVmUHNiemZxTzRvZVlnOTBILWNDTUxYRkJ0QWUydEhpdzZNY3V6T3hpbUJTYlpXaTRLR2xUd0FJUzgydHpnWmozcU9YZXFsR3VqTmZrUy1HeERxa1FpUWxuLTNMS3BqLUxFZnZvQk41bl9XOWRhR2twOHpsaFV2RTl2?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-19"
       },
       {
-        "titulo": "INDÚSTRIA | O Estadão promove na quinta-feira, 20, o Fórum Minério Verde, em São Paulo. Especialistas e executivos vão discutir a mineração em áreas de biodiversidade sensível, a corrida pelos minerais críticos e a automatização e o uso de inteligência",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVlNkRE5RUlRpM1VTNEQ1RG43LXlSV1I3dlAtWmg5WDUtVFhLd1ZZTjYxN1lWTWtkQklYd2RyYkxyUzE4bVhVNTJwbXR3NnBHM0E?oc=5",
-        "fonte": "instagram.com",
-        "data": "2026-08-13"
-      },
-      {
-        "titulo": "FIEMG debate minerais críticos e cooperação global",
-        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
-        "fonte": "FIEMG",
+        "titulo": "Congresso destranca incentivos para minerais críticos e fertilizantes",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObGlILVREbUJsTERYWllJQ0ltUDJtZlJKalVSOUJSU1dnaFgxZXBkdHVoOUcwUlNkYWExWUNHTXJ6STZIVlZJb21jSHVRYVRpSi1sWVJiZEJ3ak44NlNiZGZBRklpZU1HM0EyUER0QmJJUEhqMnItaWtQQVhJOHAzNTA0S2Y4V0FjNVFDYjFxZ2lUaDFvS0QzODBuenZqbk1HeDI3WDJHNjZZa00?oc=5",
+        "fonte": "Brasil Mineral",
         "data": "2026-08-19"
       }
     ],
