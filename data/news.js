@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T21:31:02+00:00",
+  "atualizadoEm": "2026-08-20T22:30:41+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -98,16 +98,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Grupo Zaffari amplia aposta em São Paulo com Cestto, hipermercado e shopping",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPellXbmVXeXhsQnMyU3B5eXp2eGVPMjZCV3ZpckRwNXRaRVBmUVF4RllFeWNGRmllbkRjLWplRzZiVGRFRGduZE01RlZJblJOMWYyN3dwWk1Ycnl5RFE0SWZHWU9qVGlxYUJPYnlfTzVWajNZWHdyS2NmSm9zY1c0TldwSXJGWnNJVUxUZkY2UXZMYjdJSVhUWWd5bHk4ZnVmOEFPN2VIalVPS1lvTGNNcTlXRQ?oc=5",
-        "fonte": "SuperVarejo",
-        "data": "2026-08-17"
-      },
-      {
         "titulo": "TikTok investe R$ 111 mi para estruturar logística do TikTok Shop em SP",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTE5ISVR0b2lQTkdKR2UzOUZmXzl3dlJ1SGhwamZpWFgyYWltTUVab0VwZ0V3MHJ3cEcyNFNVZmQ2eVNjRFFyR1FqWWFkVWlLYWNrcHJLck0xM2hIZ3JDSVNjYnFyLVVIOWJuQzZMZmY0MHRudmNIdWkwZG5lM19hR2xzSQ?oc=5",
         "fonte": "tmc.com.br",
         "data": "2026-08-18"
+      },
+      {
+        "titulo": "Casas Bahia, Marabraz, Mobly e Tok&Stok: por que tantas empresas de varejo estão pedindo recuperação judicial?",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbWZ3VlJuWFRhSXFKbk9HV0Z3YkxzNVZ1aHdCcHo5eVZBdm5nQS0xUGVPZmVhS3lnaktJZHNsUUxab2Nja3c5aXNpM1FWM21wbmttVFlUc0gwejc2UTBNbXVxTHFiUzhmNVZrVm5qeU82RV9yWGUxOXFtUkNJMnBtQ08zOG1MSDAzakJxR1BQYWNsT2hBY0FsQTQycngyTnhvdzRGcXZycEhPV2dhRUVVbHdLOXdFZm1HN3hxbjNqMHZGZlMzS0liZjJsMTI5bUtycEd5UE4yeHBrTWhndjlFNWhreVpudlpTQTl5R3FUblNhZ3owZk55ZS1aYlljS09oMXRPWVlfY9IBlgJBVV95cUxNaTd5cGtJcy1hZUlmcXh6N3l0RXBSUktsNUdLQldUblJrNEFEbTExRkZPX3J2NzgwQlBmZEJlNlZ2T3BZVGltR0ZPYlpIcVVPVWRpRVJZZnREYlBfclFURUtUNTA0ZThScUp0aUFjZ1lXLUd0cVBhZWxWMTNKR2dGdzNKNXhaZGF2QU1wVHhEVHNZYTQ2aWdMSFBDQzZHWnpqc3ZMX2RnOHRwdlVQZXdkSkNjMmtnWVpRdlpzRVh4RW5UVTlnRGlLb0RJLWtrempIdThLMk1zQVpURHZCR2RjRWRtNGNmNDk3dl9wYXZJaXVteHUyQ0g3OWgzbEJyMEhaOW5FTUltbnJpejMwTXJmUW5HZUdUdw?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-17"
       }
     ],
     "energia-gt": [
@@ -240,16 +240,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "INDÚSTRIA | O Estadão promove na quinta-feira, 20, o Fórum Minério Verde, em São Paulo. Especialistas e executivos vão discutir a mineração em áreas de biodiversidade sensível, a corrida pelos minerais críticos e a automatização e o uso de inteligência",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IVlNkRE5RUlRpM1VTNEQ1RG43LXlSV1I3dlAtWmg5WDUtVFhLd1ZZTjYxN1lWTWtkQklYd2RyYkxyUzE4bVhVNTJwbXR3NnBHM0E?oc=5",
-        "fonte": "instagram.com",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "O plano da Vale para fazer a mineração explodir no Brasil e gerar milhões de empregos",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3ROQWktYUhoaEZpMENXZjhoYm9vVzBZZGk0Mnd0SkJoeTBrczNOa2FlZHhQdnpKVGlkRUx1eUU0NVRYMEZOS2l4SHZiekFzUGZlM3c1eUZVTWoteDBsM0xFUmtIR013LURoZFNJTWZNTVN4ZVhXWXVVZUVhZFJOY19CRDNjbTRLM2ZNMlByeFRRZ3lSSXdxQUdnZlhBOFktR2tPSlNHM2tiSFl6Z2RWaGFIMHg5R0t3SklHRGR3?oc=5",
         "fonte": "VEJA",
         "data": "2026-08-18"
+      },
+      {
+        "titulo": "FIEMG debate minerais críticos e cooperação global",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
+        "fonte": "FIEMG",
+        "data": "2026-08-19"
       }
     ],
     "papel-celulose": [
@@ -266,10 +266,10 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "RANI3 - Irani - Resultados, Dividendos, Cotação e Indicadores",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12YnpDWkhnMHBGeEQxXzZvUFIyaDg3NDNiMTRuR0FqUEhpRWhkdFVyUG9uVVczZ0xjWXdfMVRtQnpveVF3aTY4OGdwMzI0elN1bkE?oc=5",
-        "fonte": "Investidor10",
-        "data": "2026-08-20"
+        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-15"
       }
     ],
     "quimica": [],
