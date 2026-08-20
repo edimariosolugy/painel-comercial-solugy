@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T22:30:41+00:00",
+  "atualizadoEm": "2026-08-20T23:28:11+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -147,7 +147,7 @@ window.NEWS = {
         "titulo": "Elera aponta baterias como próximo grande investimento no Brasil",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXZBX1BLM3dXTVF4Z1hYRzllLVlOU09oaFowcFZXVE9wSU4zMmFSUE5MZEJWbU1CWU5aZlMyQ3NUcHhpRmpVVmJ6VnRPakY0dzVmbC1pYzUxZDExdDN2aFZjcnpIby1WcTZvS0E3ckpTeUNSUXdBZ0xqdm55Yk93VEppdlZ6OTVybm5FbDV3OEwzSGNFaERrWEtndmJaMm8?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-08-18"
+        "data": "2026-08-20"
       }
     ],
     "epc": [],
