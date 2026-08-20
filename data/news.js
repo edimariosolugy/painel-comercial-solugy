@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T15:36:40+00:00",
+  "atualizadoEm": "2026-08-20T16:38:08+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Opinião - Papo de Responsa: Proteger as florestas é investir no agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXdmMTZzdWg1YnVkRkZHc0h6VWxXVEtGcm5CWlVOUk1yei0xelJZVlNuODFqNDVOX2llQUpKWmNWV01GaGRhQm83X05sLU5XNjdTMjNoS1Jqa3QtY0VyZGFRZHlBVXZzbXc3WmtRWFdkXzFMUlBKaGVueUloWGs5b25uY19wTzBkeGRJeG4teEVDcmFJRjQ0aWw2TDFSREtuTHloUWdxZHl5TmQxNkJPMm9JNVRORTg?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-08-17"
+        "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS2NQcTdCeWxZZ2lzdHBNMkltNWU0ZWk3d3lOQnMwT0lCVEE3Z09WaUZScndlbEU5Ni1FTWZRUV85UTlRbjRrX205Z2lTLWZreFotZF9XZ0lqejQxQ2xkSVhxbzhqeGEyb2tyUW1mNW5iSmpiOF9sdHA3WXhfckV6bW9sQ3ZTM1Y0Qm5kRHRUby1lUHZfWFVEbE9TbnJhQzM1OFF6VEp6SEFYZENLcWxmS0tvckZOd192S1g0YkdpS21rWklWd2pwelFpNEE4a29HNTMzRWhSNUpoZnBma0h4dDIxelQ0cFZCMGFhajJ6eWdZLU5YMWJpTkhCN1dJWDlKekE?oc=5",
+        "fonte": "Bora Investir",
+        "data": "2026-08-20"
       }
     ],
     "alimentos-bebidas": [
@@ -58,16 +58,16 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
+        "titulo": "Especialistas debatem estratégias de marketing para fornecedores no setor de bioenergia",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUdjWjQxT3llTllnQm45NUszbU9SRVBUSXllVjVZemNZc2dtUmJOSk1nVjZQVlN5Y3gxQzR6dnBrQWZIUGRSNHY3LTUya0hmblo5QmVXZTNSWXdScE05WnhWRXU4YlBSRG11VENrX3NyQ2RXSGFnQ2t5bDl2VHJYVTBXSTdRSGI3TThxcGt3dUpDTHc?oc=5",
+        "fonte": "JornalCana",
+        "data": "2026-08-20"
+      },
+      {
         "titulo": "Nova tecnologia de irrigação e usina de bioenergia recebem aporte milionário do Fundo Clima no semiárido",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXUzRnBLTmRnb2VTQ1ZoZzNYQlc4WGlndTdaUzdUTmtjMDNXZU93c1ZuRktrRmxvYkNhbDQ1LV9jdzktMG9Ra3dkOGRJanpnbjU0dlo3NFlybms1bFBRUGFBeVdwSE1EX0lEUGtkeWdYV1V4QTlCZEhwRE5NS1NrUkFIYTBLVkxUcXlhLWROVERnNmFneVdISDVvV2dwRENoVnNrTUpDRHdrZmV2RmwwZVJRYTJEZVJjb1FsOG1KQjh0cHJxaGFDQ19HRFd4dlJEMWxCMWVrQ21JZw?oc=5",
         "fonte": "Gazeta de São Paulo",
         "data": "2026-08-15"
-      },
-      {
-        "titulo": "Agrovale investe R$ 54 milhões para modernizar irrigação e geração de energia no semiárido",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYXNIcXBESGFRYVJ4Ykp6S0dsczJaZUFoTlNwekNnbDFKRFRMSm5hNDFoSXdTU2lmTVBTOG8zTWlNOFV3WXZfbmNSLUQxV1pSTjNDUkdROFZNQ2lUVmxTRmRJMnhWUzl2bDkta2kwRUllNHdnQUVDa3hmSjJXZWtMQ0FHd2wzWE40RmJiQS1makNKbXAxTkVJdzVSR1VzYTVaZFF3Ukx4bEo5bnBxVDBySm5ETlpDbGVnMzd0NXVWNTZHbzVOM1B4Q2M4Nlc0SG1NeE5mSEQxcUNBNVdRcnBwbG8zcFpUcEhVQlkxLS00My1iak1tS1B1RW1VdTNBenMyV3lB?oc=5",
-        "fonte": "Portal do Agronegócio",
-        "data": "2026-08-18"
       }
     ],
     "cimento": [
@@ -214,10 +214,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Trans Obra apresenta modelo Plus para mercados competitivos",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUVyN3hLT1o5Y0RmNDQ5NTVTUHFaMER1bDVKMDJTWkhjZ0xQaXZVLTFLMVZBQjdYTElHcmtRWGFhUmFpQjJfb1ZIaF9FSDhaNkZJcGxkMnNOUm9aMHpGLXZERlhLZzdvUG9WLXUzV1k2SzJYMldoT0FvN3NzVlV6QTNFa2VjblBRV3IyU1NBRXEteXBYM2lKS25JRDhfaVNmSmVKeUdXOWJCZnZocnc?oc=5",
-        "fonte": "Sistema Província de Comunicação",
-        "data": "2026-08-17"
+        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
+        "fonte": "GZH",
+        "data": "2026-08-14"
       }
     ],
     "mineracao": [
