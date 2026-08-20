@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T14:39:01+00:00",
+  "atualizadoEm": "2026-08-20T15:36:40+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -71,12 +71,6 @@ window.NEWS = {
       }
     ],
     "cimento": [
-      {
-        "titulo": "Líderes de materiais de construção buscam criações sólidas",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmJhYlRpcWdDSDlMYm93Y3E3amR0Q0tCMTNybXJnaDNPcHFLSlNRRXVERkxsV2pYbnRvQzdzNlFNWWlfOWtDSEY0WU1sc2daS243bnBTYlFFY1hQNGY5XzV2TmxhN3o1M3RsM2ktaHRTYS1Ma0dnN0ZSd3JUNkNXTnRDWWNhTmd0MndSSUZ0Q2U3Q0VMUW4xNzFlYnVxSmEtbEp4VnVxX2o3M3FHS1hjMlo1ak94NjdvN1lZdmlpREdvejdKOWfSAcYBQVVfeXFMT3ZiYWJUaXFnQ0g5TGJvd2NxN2pkdENLQjEzcm1yZ2gzT3BxS0pTUUV1REZMbFdqWG50b0M3czZRTVlpXzlrQ0hGNFlNbHNnWktuN25wU2JRRWNYUDRmOV81dk5sYTd6NTN0bDNpLWh0U2EtTGtHZzdGUndyVDZDV050Q1ljYU5ndDJ3UklGdENlN0NFTFFuMTcxZWJ1cUphLWxKeFZ1cV9qNzNxR0tYYzJaNWpPeDY3bzdZWXZpaURHb3o3Sjln?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-08-18"
-      },
       {
         "titulo": "Plano de investimentos da Votorantim Cimentos de R$ 5 bilhões no Brasil até 2028 segue em execução, com R$ 3,1 bilhões em projetos já anunciados",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV1VvMW1Xb0JSekNpTlZsRWJxMWhyUzBxM3MtWm0yWG1HYk5ONy1vNk5GU0tPdm9aWEpDYUZmMk5lRGRzUEh0SjZ4ZTJvTm0wRFdsdHE0b0JvcWlPb2dfRVdudFZ6U1lDSzhzYmtTTGpITFRYRUhqSGxQUHhyWV84RkFTVTJyU1RFcVpxSTh4WDdvM01KNFAtT0wtbGs4TDVsOFBpeUtBNDllUGRpbFZ6ZENwX1RZT2Fha195VzktZUFUY2FnR3VyQ3hBQ0Z6bHZ4Ql9pclRmUlJ0cC00cXdmTUhBWjloa05PM01CTl92THJGMnFjRzFZMjFTTWM?oc=5",
@@ -174,16 +168,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
+        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
+        "fonte": "GZH",
+        "data": "2026-08-14"
+      },
+      {
         "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
         "fonte": "O GLOBO",
         "data": "2026-08-17"
-      },
-      {
-        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-08-15"
       }
     ],
     "logistica": [
@@ -194,16 +188,16 @@ window.NEWS = {
         "data": "2026-08-18"
       },
       {
-        "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUZSdDVPSHViQlZ4RW5IeHRRajEyOWNtekRkTmdfZWtubTFvUFNNaU1fX19ZV1BBVkVaVmRZeF92VFI0NmJkTWQweVpkbFpBZGJpdUlPcjhMUkxBQ2MwRjB4VGVKNEhmMnZxUGROZ0dMaFlvZy1FdXNwb1gwRHdNdHdTRGJPVUUyVnAxSW51ZGlBSjZmbUQwSTZBbFd6OGZDRFQwSzhjMFQ0Tm5Sa3pz?oc=5",
-        "fonte": "Revista Cultivar",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
         "fonte": "Alagoas Alerta",
         "data": "2026-08-14"
+      },
+      {
+        "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUZSdDVPSHViQlZ4RW5IeHRRajEyOWNtekRkTmdfZWtubTFvUFNNaU1fX19ZV1BBVkVaVmRZeF92VFI0NmJkTWQweVpkbFpBZGJpdUlPcjhMUkxBQ2MwRjB4VGVKNEhmMnZxUGROZ0dMaFlvZy1FdXNwb1gwRHdNdHdTRGJPVUUyVnAxSW51ZGlBSjZmbUQwSTZBbFd6OGZDRFQwSzhjMFQ0Tm5Sa3pz?oc=5",
+        "fonte": "Revista Cultivar",
+        "data": "2026-08-13"
       }
     ],
     "maquinas": [
