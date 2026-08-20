@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T17:32:45+00:00",
+  "atualizadoEm": "2026-08-20T19:33:52+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "Estoque de títulos privados do agronegócio somou R$ 1,409 trilhão em julho",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmd5Z1N6NURyVlJ3RUR6YS1RWnYyVnNacW4zclZQUEF4YlpFRnRhN3ZMV0dhOWs4eHRqM2VwZmFtNWprRFVqUWF6S09SVzd5UlFjdGt4SDVVbGpSa2hTRVRnSTFvdnczMEotLWFTazJHN2ZsTHJiRDZOMlZYTkJqWnI0ZG95SUVZWjBQcXIxLXpDMU50V0plWjJqa193dTkwLTZhaHNxQVhqTm5HZmF1MmhoUWZfYXo4cUtkaEJtaG5EMFlreTB0T09rSVNXbWtqbDJHekdkS2NEdmxkYS040gHuAUFVX3lxTE1YLTFsQjZ5UjdyRVQwS3dUSDBOdXFBTlhPeWMtTnBiZjFSSTZtWkhNV2Z3TzVMUjE3S1o0bWJGUVJzSXYyeUFzTG9idVRwcjFYaHFHLTFEc2VwZjgzaXpPM2swbVNUVW5GZEZLTlMyRzVHV1BfRE90ODRVT1hHcjk0dG1HcGVfMFVIT2xNTnFBRl9XUXpPU21IeWVBc3VFclFYTFhVTWtDNUEwYm9aVThoQmZWSHRsSXQ3RDRhOWlZQVRUSDFNZnpUTWlBWVhQWGRWSWpkaFdISmFIVkFJbS1lSkFHWi1wdWw3dGpDRnc?oc=5",
-        "fonte": "Globo Rural",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS2NQcTdCeWxZZ2lzdHBNMkltNWU0ZWk3d3lOQnMwT0lCVEE3Z09WaUZScndlbEU5Ni1FTWZRUV85UTlRbjRrX205Z2lTLWZreFotZF9XZ0lqejQxQ2xkSVhxbzhqeGEyb2tyUW1mNW5iSmpiOF9sdHA3WXhfckV6bW9sQ3ZTM1Y0Qm5kRHRUby1lUHZfWFVEbE9TbnJhQzM1OFF6VEp6SEFYZENLcWxmS0tvckZOd192S1g0YkdpS21rWklWd2pwelFpNEE4a29HNTMzRWhSNUpoZnBma0h4dDIxelQ0cFZCMGFhajJ6eWdZLU5YMWJpTkhCN1dJWDlKekE?oc=5",
         "fonte": "Bora Investir",
         "data": "2026-08-20"
+      },
+      {
+        "titulo": "Estoque de títulos privados do agronegócio somou R$ 1,409 trilhão em julho",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmd5Z1N6NURyVlJ3RUR6YS1RWnYyVnNacW4zclZQUEF4YlpFRnRhN3ZMV0dhOWs4eHRqM2VwZmFtNWprRFVqUWF6S09SVzd5UlFjdGt4SDVVbGpSa2hTRVRnSTFvdnczMEotLWFTazJHN2ZsTHJiRDZOMlZYTkJqWnI0ZG95SUVZWjBQcXIxLXpDMU50V0plWjJqa193dTkwLTZhaHNxQVhqTm5HZmF1MmhoUWZfYXo4cUtkaEJtaG5EMFlreTB0T09rSVNXbWtqbDJHekdkS2NEdmxkYS040gHuAUFVX3lxTE1YLTFsQjZ5UjdyRVQwS3dUSDBOdXFBTlhPeWMtTnBiZjFSSTZtWkhNV2Z3TzVMUjE3S1o0bWJGUVJzSXYyeUFzTG9idVRwcjFYaHFHLTFEc2VwZjgzaXpPM2swbVNUVW5GZEZLTlMyRzVHV1BfRE90ODRVT1hHcjk0dG1HcGVfMFVIT2xNTnFBRl9XUXpPU21IeWVBc3VFclFYTFhVTWtDNUEwYm9aVThoQmZWSHRsSXQ3RDRhOWlZQVRUSDFNZnpUTWlBWVhQWGRWSWpkaFdISmFIVkFJbS1lSkFHWi1wdWw3dGpDRnc?oc=5",
+        "fonte": "Globo Rural",
+        "data": "2026-08-19"
       }
     ],
     "alimentos-bebidas": [
@@ -30,9 +30,9 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUNaUFFFbGtVOXJjMDdnOV9iRzl4T2F5c3MwSGpTQ1VtY0dzanlvYWpaYzRJd2haQmZOS1hQck1jX1ZNM09lWm5HTWNMb2tjSmRZU3dWY2ZPeVl5aGMxVi1sZGl1N0RXXzVrZnpmZHVuR0tNUXlVYVFBN2h5eVIxX1RhRkFSa19VX0wtejZHUUxqaWVpZEthVGxybGtROWd0N2ZhMTBZNXI3WUhYdWVZNklUdUtrSFBRVEh1YzBaWENxUlhzUFFKeTB3SGJ1empGMzZsN3pEcXVPc3c5WGVCdjZpbw?oc=5",
-        "fonte": "UOL Notícias",
+        "titulo": "MBRF (MBRF3) amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBISXhOeTNJRFpIVUo2SHA5ZDZ0dC1ZUHZsREcwM1VzaWVmeGxMYUJ4bGlYaTZ1NEZmQndFeXlCbXFYVjYtOWJFUWJVOG0tMzNmODF0MmxkbzlpUTRIQklDTWZuY0pKRzBuc1BzLURHWHRySlBxR2RwZ3J0WTVsb25tdjByVElNTm81MlBLVm9sRF9EdFFaV3JfLVNGVFhpYnhkOHdGZnU5RzNKVDBubm0zUS1LUE0?oc=5",
+        "fonte": "Money Times",
         "data": "2026-08-18"
       },
       {
@@ -43,6 +43,12 @@ window.NEWS = {
       }
     ],
     "automotivo": [
+      {
+        "titulo": "Avanço dos importados acende alerta no setor automotivo",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlR6XzB2eE8zcEpiWmNjSHFoM3RqX3NETzQ3eXZpR3NrSGd6TF9lblNEVmVNeWRBb3NjcWtKY0pLSVR2M1hBY21JMzJWYkc2ZHpCMlRpUDVkX29XbGtnVzVXcFI0aUF1Rkt3TUh4V3VILV82WWVreTEzWG9YOXhMb3RZa3pEelBYVEJHM25oWUQtazl1QzVlZWFsVFFtYmNUOFE?oc=5",
+        "fonte": "Transporte Moderno",
+        "data": "2026-08-18"
+      },
       {
         "titulo": "Frasle Mobility Exibe Recorde de EBITDA e Crescimento Sólido",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXBhTU91ZG9GR0RETmh0N1lHNG1obnFJR0hKTG1KNmJqZWl2RGt4TW5wZmZDTXVEYy11Wm5McWxDVHJZNmJwNEFYNlVDR3FZVUsyN2dOMjhKZl9MZWJfS1FBOGU4WG1GbkptMy1EeC1DbUZqQU1NMGY4VF81WndOS0hUMU82M2MzM0MwclFycnZqZzNzeDNEdUV2WUtGZFBDUXlBd3pZNEliZW5ZenJ6RWlLRFdURnduWXp2Qg?oc=5",
@@ -118,9 +124,9 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "MME vê necessidade 'imediata' de interligação Brasil–Bolívia",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTENGXzFaZnpKeGkwQVNremxzSE5yQllHU0R0QmVSbDg4QmloS1c2WHFyYk9tUmFNRmtNUHZvUW5VX0xIZVd1OElXcEJFNzlLUFVBZ1BpWXREZEVacWFLdXZPeWVOemROczFzRnM3ZVBLY2luYW1uR0FKZDE4ajRMcEJHZVFqQ2VjZE1LcEw5SUV5LXBqWjJXNUt4MDZ4R1hzZkpkOHdfNm93OGM?oc=5",
-        "fonte": "MegaWhat",
+        "titulo": "Abrate anuncia R$ 5 milhões para resiliência climática",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmFaa2Z2Z2VYM3NqUTR6VWRvRW9rbFZSajQxNXRPUnd2OHJldkwtaEh0VDh5SXZLY0x6S0FYbDFRV0Zrc2FxX0RhdjlEMFhpdjZRb2VXbE1VeFc1MzZ2cjdlRGhzT2xqenhLSV9fTHdaN1c3V1lxQ0NGME9IUUFKNzdVd3JHUFBsMlMtdw?oc=5",
+        "fonte": "Agência iNFRA",
         "data": "2026-08-20"
       }
     ],
@@ -132,16 +138,16 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Brasil lidera buscas por energia solar residencial; veja o que isso sinaliza para o SNEL11",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdVVkS3JlV09QREltNnR0TmRlZnZLM0xIR0l6RDBtZDQ4QktCcTVBa1lBQk5jUjZtV2syNEgxT0l1eUtiSW1nOEI0cDBBa0pzLXV1cW9EXzNHQkNkbTYyR0hEWl9uLWlyNXpwdUx0U2w0OVo5MnFHMFRoaFcyT1dFeHg1SHBVQ0d1UU1ZRmZzWno0ZXBSQ3E3Ng?oc=5",
-        "fonte": "Fiis",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "Crédito impulsiona instalação energia solar em casas, empresas e propriedades rurais no Espírito Santo",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkZKVFJwaVVWb2FCZk5FaVJaeTRxNFptcGpaWlRQZHJHdUtzUUxRajhLTW9sWWltLWdzU21DRXVsY1F4eEFkWERWU3BhR0I4UWsxUG00ZHoyNmw5OEJYZ2prektNZHo2d3RZbjFiWHI2UUpUcmp3V0tBZVV6MXhKUW5TVXhrWFctVWd1bjVNd1FhLU1Bck9kOWZjQTRGdFpxZ3N3NVdfTXBnSkRpbVB3UGI3RVpBUEd1VDV1RmNuUmFZUWhaeEl5ZXZaVm1UQQ?oc=5",
         "fonte": "Conexão Safra",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "Elera aponta baterias como próximo grande investimento no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXZBX1BLM3dXTVF4Z1hYRzllLVlOU09oaFowcFZXVE9wSU4zMmFSUE5MZEJWbU1CWU5aZlMyQ3NUcHhpRmpVVmJ6VnRPakY0dzVmbC1pYzUxZDExdDN2aFZjcnpIby1WcTZvS0E3ckpTeUNSUXdBZ0xqdm55Yk93VEppdlZ6OTVybm5FbDV3OEwzSGNFaERrWEtndmJaMm8?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-18"
       }
     ],
     "epc": [],
@@ -240,13 +246,19 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "FIEMG debate minerais críticos e cooperação global",
-        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
-        "fonte": "FIEMG",
-        "data": "2026-08-19"
+        "titulo": "O plano da Vale para fazer a mineração explodir no Brasil e gerar milhões de empregos",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3ROQWktYUhoaEZpMENXZjhoYm9vVzBZZGk0Mnd0SkJoeTBrczNOa2FlZHhQdnpKVGlkRUx1eUU0NVRYMEZOS2l4SHZiekFzUGZlM3c1eUZVTWoteDBsM0xFUmtIR013LURoZFNJTWZNTVN4ZVhXWXVVZUVhZFJOY19CRDNjbTRLM2ZNMlByeFRRZ3lSSXdxQUdnZlhBOFktR2tPSlNHM2tiSFl6Z2RWaGFIMHg5R0t3SklHRGR3?oc=5",
+        "fonte": "VEJA",
+        "data": "2026-08-18"
       }
     ],
     "papel-celulose": [
+      {
+        "titulo": "Brasil construiu maior fábrica de celulose em linha única do mundo após investimento de R$ 22,2 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdzdyenNLQVc2aWoweFA2WnpGVmk5ODE1MkdkbWd4OXk1Q29TOFJ0cnB4UjhfN1RPbW5ZUnB3RTdfakkybENLWURVZWI1RXA4QXE3NVhfaDFfSktKbzhvbENCMzdNWG5iWlZiMVllcE9OenFnX0hhREVIYktHVXA1aVNUS05YVGp5VnBfRDJndlBJcXFYV0ZwVWlWZXoyTU9TMWM0bWdBcXdWMU8xSVF4V3RvcDNieFhjeUw4ay1PWGRKNVZCbHhIM19FZHJLdw?oc=5",
+        "fonte": "abcmais.com",
+        "data": "2026-08-20"
+      },
       {
         "titulo": "Uma cidade de 8 mil habitantes virou um dos polos da construção no Brasil. Por quê?",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNV1VDNXdVbkllZTBHcUhKYkNqc1VkVHBtOHBiNGZKcUxLMXEyN0VDRElTeC1OdEE4akFEVTNRY0ZZck5KamhNbkFVTVlUY1RFQURpbk5uUW90Q3VKQ3lCZ1FCX2lZYWpuVUZQWUFpdnJzZmlSM0RzODlfeXBwZFN2MURqSW5WNmNEWkNGQ1M4SWZRLXo5QWZjcng2SE03cDhfcFlhMDlBWVR5cndHZmhLRjlCbDluTmRkeEpzedIBwgFBVV95cUxNcjFOZFZLNlFmcnVQelhwdFYwZXk4SUdFWWk3UU8zcjN5OWZwY1VyUzNGWDE2SXk4T0U1ZXVNVGdsNHNUNjZ5S0pSa29pNU5JZVppZlhtZ2hSUy1Oekc3eGJ1ZElDT2lXWWdOeUdtMmpaeGJSTFcxSzdDSmIxZ2lxQmhublJyd3hFMnI1U1lrVzB6NTJWdUN0NUFmS0tselF0RE1MSDZsNm5kSXlqT0d3MDZIQ2Mzd3RITW1uemVfeHZ5UQ?oc=5",
@@ -258,12 +270,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
         "fonte": "XP Investimentos",
         "data": "2026-08-20"
-      },
-      {
-        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-15"
       }
     ],
     "quimica": [],
