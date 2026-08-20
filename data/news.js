@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T12:54:27+00:00",
+  "atualizadoEm": "2026-08-20T13:50:13+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "Angola pressiona Brasil por investimentos após abrir terras para projetos agrícolas",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQzRSdUlPbmhoZ3pDb3FxeE5FdXY1VG1TbnNpLVh0WTd2V19VenBVVVFuTjRTN3VHNHdQc20xVmgyOVhHTXBReUlFM2c3NEh0U0M1elFFeG53VnZjMGFsYzBJYmV5OHVFUlBseDczOFM0LWpkajBYM0hXaTRfa1NnYmMtNm9QeFRZQmtMWFdlQW53WUtPQnhXQ1AweXlYc1N2Mmd1TDhrQmx6OENvTlJuZWFXUU1JWlBxTERDazluamvSAdQBQVVfeXFMT3o0SE1KRUpHWTlMNU90SjZPbURVX0lVeURkSHdrdVhhUTFqM3NTSnJDS1VTYmYtZG9YQkpIV0VVYUhmRmRMQ2xqS1VvVVJJSUVUWU1jRnhhXzkzdjZIUXlWeWRYODJMWlNYM0RpbE56Zl9VbWdOZVlETm1XS2tzWnRPVk5aNWZnTDNrZkdYOUVGdVRPTkpNQ3hnNy1yMmR3SDBnVE9FUVF3Nm54NldOc1I3TnpuMWl6VWRXZGRyVkJaalR4cFR4Nzc0dEdJeG9LaVAyd1o?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "Estoque de títulos privados do agronegócio somou R$ 1,409 trilhão em julho",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmd5Z1N6NURyVlJ3RUR6YS1RWnYyVnNacW4zclZQUEF4YlpFRnRhN3ZMV0dhOWs4eHRqM2VwZmFtNWprRFVqUWF6S09SVzd5UlFjdGt4SDVVbGpSa2hTRVRnSTFvdnczMEotLWFTazJHN2ZsTHJiRDZOMlZYTkJqWnI0ZG95SUVZWjBQcXIxLXpDMU50V0plWjJqa193dTkwLTZhaHNxQVhqTm5HZmF1MmhoUWZfYXo4cUtkaEJtaG5EMFlreTB0T09rSVNXbWtqbDJHekdkS2NEdmxkYS040gHuAUFVX3lxTE1YLTFsQjZ5UjdyRVQwS3dUSDBOdXFBTlhPeWMtTnBiZjFSSTZtWkhNV2Z3TzVMUjE3S1o0bWJGUVJzSXYyeUFzTG9idVRwcjFYaHFHLTFEc2VwZjgzaXpPM2swbVNUVW5GZEZLTlMyRzVHV1BfRE90ODRVT1hHcjk0dG1HcGVfMFVIT2xNTnFBRl9XUXpPU21IeWVBc3VFclFYTFhVTWtDNUEwYm9aVThoQmZWSHRsSXQ3RDRhOWlZQVRUSDFNZnpUTWlBWVhQWGRWSWpkaFdISmFIVkFJbS1lSkFHWi1wdWw3dGpDRnc?oc=5",
         "fonte": "Globo Rural",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "Opinião - Papo de Responsa: Proteger as florestas é investir no agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaXdmMTZzdWg1YnVkRkZHc0h6VWxXVEtGcm5CWlVOUk1yei0xelJZVlNuODFqNDVOX2llQUpKWmNWV01GaGRhQm83X05sLU5XNjdTMjNoS1Jqa3QtY0VyZGFRZHlBVXZzbXc3WmtRWFdkXzFMUlBKaGVueUloWGs5b25uY19wTzBkeGRJeG4teEVDcmFJRjQ0aWw2TDFSREtuTHloUWdxZHl5TmQxNkJPMm9JNVRORTg?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-08-17"
       }
     ],
     "alimentos-bebidas": [
@@ -43,12 +43,6 @@ window.NEWS = {
       }
     ],
     "automotivo": [
-      {
-        "titulo": "Avanço dos importados acende alerta no setor automotivo",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlR6XzB2eE8zcEpiWmNjSHFoM3RqX3NETzQ3eXZpR3NrSGd6TF9lblNEVmVNeWRBb3NjcWtKY0pLSVR2M1hBY21JMzJWYkc2ZHpCMlRpUDVkX29XbGtnVzVXcFI0aUF1Rkt3TUh4V3VILV82WWVreTEzWG9YOXhMb3RZa3pEelBYVEJHM25oWUQtazl1QzVlZWFsVFFtYmNUOFE?oc=5",
-        "fonte": "Transporte Moderno",
-        "data": "2026-08-18"
-      },
       {
         "titulo": "Avanço das montadoras chinesas reconfigura o mercado de financiamento automotivo no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVBHenVTN0xfWnhuUmpsejZkZGNKemtOVC1MWDFBRUJqX3Y1M09CUUhBeUtyTjNqem5idFNSd1VjbmhYWXZ1RU8wMUNlQ19KYnlieFM0RmZCNHhQbXFiaDByTjE2d0FvVFVFTVRzelhUV2I0X3lKOXhJNTRJYlBXazQ4VVpHZGVNeHJsTVhNMW10QnZ4bHhJVUVpd0sya250UkFRdHlDdWpYaG1mejRYV1cxendYVHo1?oc=5",
@@ -218,13 +212,19 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Plano de logística prevê R$ 1,2 trilhão em investimentos até 2050",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU1IemVnMlBENFY1ekZBVnRsUG1fblJCLUs2QTE0RDBTeV9IQ3poNFpOUzJid1RGZmhSSGRxeEo4Q3pWa1pNRk54UmFsMFlfRHA0cVgtT2dsT21UZTducnQ4d1QxWkpjNnJ2dHYyLVpYNjNOUFFyQkl0MGtuSW5EcVhrRHRYQWQwaWcwa3JmOFhYSXZCenlFc3Rn?oc=5",
-        "fonte": "O Presente Rural",
-        "data": "2026-08-15"
+        "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUZSdDVPSHViQlZ4RW5IeHRRajEyOWNtekRkTmdfZWtubTFvUFNNaU1fX19ZV1BBVkVaVmRZeF92VFI0NmJkTWQweVpkbFpBZGJpdUlPcjhMUkxBQ2MwRjB4VGVKNEhmMnZxUGROZ0dMaFlvZy1FdXNwb1gwRHdNdHdTRGJPVUUyVnAxSW51ZGlBSjZmbUQwSTZBbFd6OGZDRFQwSzhjMFQ0Tm5Sa3pz?oc=5",
+        "fonte": "Revista Cultivar",
+        "data": "2026-08-13"
       }
     ],
     "maquinas": [
+      {
+        "titulo": "Intenção de investimento da indústria cai ao pior patamar em 2026, revela CNI",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORkVqU0ZVN25WZVhzakZCOGM3c3hnRGFfVDFjV1h5SUhNWjZYUUpWd01VWFduOTlqZHZFUEV2djV1SG9jZUM2eGFzU21YMXdjN05YSWtFNnVxUmthVW9XRkFXRUxua2VoYnM1UWcwUGplZmpvVUpaaVF1LXIxb0w5WHZ5aTZQNnBkdmRreUE4ZTdudklsQkhldUQ4OFdHOG1LeDY1c0tVRXgyUHdnWV9rVmJXUm5zRGE3TnZwZkI4MmdEcFpzdXFRNHk2aUc1WnhpRU9N?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
+        "data": "2026-08-20"
+      },
       {
         "titulo": "Crescem os investimentos em equipamentos que modernizam e automatizam a extração mineral",
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYnp2bzlIb1VSNGQ0dEJqTnp3TkNBN2pVdERWenJEdXBsZDBfU2U0TTlWQ1lQeXBuZzNEUVV6OVJXYU15M2ltYV85cG5GR3YzTzU3NFE5eXI3UG1rZktNbklIWkxaWUJ6WXFYc2kwWEdiajVlb1pjdkQ2ZXg3YV9iS3hjWVotZWhncmUxQ00zRVp4a0V1MVBubmhGY28tNEJSQ1RuSjBEbzFOSWx1bF94S2s2S3JfYVJUQkRwbG1NRFcwYlNOeGQyc0RvRXlVaHVzUmxxTUEyS3hSUDhra3N3SHhuby1aUTMyU3huSWpHY0p0ckdDYmFwcnZRWXdfQdIBjAJBVV95cUxPamxEVDVzME85TzRnZUItaF9hNS00Z2pmN1A2TFdGMmhEVW1sQ1BqWmRiV2ZqV0VrS1ZGMUd4dmFTTEFhemtSaVM4OTJQYXpISDZONlBjV0FvWnMxNXo5XzZPMG1vSE5kTGdJZ2ozWFN0Z3U2aDNJbmlPNV8wOGxIM1dnRmdSNjlLcGlJcy1Ya3FxcGRTaHMydlZfUFYzRVB4Tm9ZcVk4S1NLRWZsbkdsQ1M5VC0ySlAzbTdHRUhLcEZlejI2WnN2XzNPUVJLVHI3Qm5JMTZhN3hqRFNSR1ZTUGdLQ0JmYzYtSXZOMTJubTZkLWczSkJkY3pwMWlaSzlCLWVDOEs3SXNDd3FN?oc=5",
@@ -236,12 +236,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOUVyN3hLT1o5Y0RmNDQ5NTVTUHFaMER1bDVKMDJTWkhjZ0xQaXZVLTFLMVZBQjdYTElHcmtRWGFhUmFpQjJfb1ZIaF9FSDhaNkZJcGxkMnNOUm9aMHpGLXZERlhLZzdvUG9WLXUzV1k2SzJYMldoT0FvN3NzVlV6QTNFa2VjblBRV3IyU1NBRXEteXBYM2lKS25JRDhfaVNmSmVKeUdXOWJCZnZocnc?oc=5",
         "fonte": "Sistema Província de Comunicação",
         "data": "2026-08-17"
-      },
-      {
-        "titulo": "Fiems e BNDES firmam parceria para ampliar crédito industrial",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDBJdUowSUIyaWtmWVdsZ3psS0tGdm5mZkNEUVpzdTROMVVSSGd3c0JaTGFtV0N5RHhkMVhYM0xZNFVpSXFWRHZxYnlNNmJOMlRUZi1zNEtqbGRrOTZJYjVBM3FESzE3UFk2RXNUYkllbEhhQzZ1ZWg5OU8wakdhcGNpanpfYmplSmdQVHdTSzFtSjZWbktkM1JEX1IyLXAzR2Z3ejE2dUp5ZG5OTWRiOHRzaFhtc3FvbVZlUTln0gG-AUFVX3lxTE1MVUFyaTIwR0g0MEh4Qk9BYkEzOC1yVEFxVlhtRHk5ZkRPY3ZSTnhYa0tsU25YVTV6a3JxWGlsRlZQVjFPcHhOOW1JNTUwT3VsS2Q1Y3RsVGRQSVVCUGNkcnBNTTZaenVlbG43bnVTQ3VYTVJOYWZzQml1WG5MQjU0UU91Vk1jRDJHR1J4OTFGRFhyY0IyUzZ2ZnR6NG1neV9rM3FhazJ6U2VnVFlXMFlKODR2Qms4bkYzRVFDUEE?oc=5",
-        "fonte": "Campo Grande News",
-        "data": "2026-08-19"
       }
     ],
     "mineracao": [
