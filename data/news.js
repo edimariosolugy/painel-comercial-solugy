@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T19:33:52+00:00",
+  "atualizadoEm": "2026-08-20T20:32:55+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -118,10 +118,10 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Carga acima de 4 GW para hidrogênio no Nordeste demanda investimentos em geração, afirma EPE",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0syUUY2QU5CdWoxSWdGSE1FMHZ4T2h4bUgwUndqNzVQNFNMX20wczJuZDNZU0RsMnVFY25mYzBoRkNsbjFCemlqU0ViN0hweEJDcW9pei1mdlNKTklZWUV5ek5MRUxfekZCNmpFcjJ3eFRFVlRwYkgtbVdnX2t0dnNqclFKODFlZm5VU2w4X1Z2dGxBVmJYMG1Wby00Nkl5elQ3U3JrOFpweUUyVW1pbV91UGhPalJjdHVJREQ3VGRIUmtrdVNwRmVxNzVRZw?oc=5",
+        "titulo": "Abrate destina R$ 5 milhões para pesquisas de resiliência climática na transmissão",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTItZ2lXRjFQOFNONmNoS1pTWThZVS01Znl1a2hrbFFMU2VxRGVabzFEa0toMUV1bVMwTGVFZ3dQNHhtdFowYzZSNEpobXNBd2FXQXR2ZTRubkJzenp4Qlp5aDFZQ0ljVUJOU2R6OXZQZjNKUzBvOXFxRUZWLVB3bUtFYnQ5V2tHMkJxMzJaZ2VYM0o0Tno1VnBTSnlRX2xVTU1BRDVnU2lJR1FYNTRHOUxxLXlxa0NhZF8zQg?oc=5",
         "fonte": "Agência eixos",
-        "data": "2026-08-19"
+        "data": "2026-08-20"
       },
       {
         "titulo": "Abrate anuncia R$ 5 milhões para resiliência climática",
@@ -200,16 +200,16 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
+        "titulo": "LOGÍSTICA | VLI vai transportar ferro-gusa até o Espírito Santo",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWRFZHVBbEkyNEVyaVZRdWE0MzZvUUE2Y2M1RXd5U3VCb2tRVS1rZGJXZzhZYzFZU2p6S0FSSXJwbDRmMmNwbGlDTDRMaFRLVXB1TGtLU25GR0lLVUtFRnhXRXkyM08ycGYtQUIzZUhWTVplZ2xDNTFoM2h2ZTVaM1VEcjJXc3EzZE10TFdMdklnYlBpVExmYQ?oc=5",
+        "fonte": "Brasil Mineral",
+        "data": "2026-08-20"
+      },
+      {
         "titulo": "Plano de logística prevê R$ 1,2 trilhão em investimentos até 2050",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU1IemVnMlBENFY1ekZBVnRsUG1fblJCLUs2QTE0RDBTeV9IQ3poNFpOUzJid1RGZmhSSGRxeEo4Q3pWa1pNRk54UmFsMFlfRHA0cVgtT2dsT21UZTducnQ4d1QxWkpjNnJ2dHYyLVpYNjNOUFFyQkl0MGtuSW5EcVhrRHRYQWQwaWcwa3JmOFhYSXZCenlFc3Rn?oc=5",
         "fonte": "O Presente Rural",
         "data": "2026-08-15"
-      },
-      {
-        "titulo": "Presidenciáveis miram aumento de investimentos para a infraestrutura",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUpLWmMzT2R5eEphVFFXRTV3blZleURBQ094YlAzTnkwdVZ0ZWZMQnVlNWRsVXFUT0tHSDU1LTVGeHFyNVJQQWgzOHFveGtXY0dnbFFIUnNkdFJNZmQ1b3ZqTDhQOXgyenVJZ3hMYVlPMHFzejhqUVZxel9TZzY4RU9GbHVrUWJiLUFhaFFUY2dlaDlpcmZVMHA1VEVTd0UwMVAzT2NNWjZTMU1IOFJDVC1UQWlOOE0wWlVhQnRGRVB0MUs4?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-17"
       }
     ],
     "maquinas": [
