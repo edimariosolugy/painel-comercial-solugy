@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T13:50:13+00:00",
+  "atualizadoEm": "2026-08-20T14:39:01+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -44,12 +44,6 @@ window.NEWS = {
     ],
     "automotivo": [
       {
-        "titulo": "Avanço das montadoras chinesas reconfigura o mercado de financiamento automotivo no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWVBHenVTN0xfWnhuUmpsejZkZGNKemtOVC1MWDFBRUJqX3Y1M09CUUhBeUtyTjNqem5idFNSd1VjbmhYWXZ1RU8wMUNlQ19KYnlieFM0RmZCNHhQbXFiaDByTjE2d0FvVFVFTVRzelhUV2I0X3lKOXhJNTRJYlBXazQ4VVpHZGVNeHJsTVhNMW10QnZ4bHhJVUVpd0sya250UkFRdHlDdWpYaG1mejRYV1cxendYVHo1?oc=5",
-        "fonte": "adnews.com.br",
-        "data": "2026-08-13"
-      },
-      {
         "titulo": "Frasle Mobility Exibe Recorde de EBITDA e Crescimento Sólido",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXBhTU91ZG9GR0RETmh0N1lHNG1obnFJR0hKTG1KNmJqZWl2RGt4TW5wZmZDTXVEYy11Wm5McWxDVHJZNmJwNEFYNlVDR3FZVUsyN2dOMjhKZl9MZWJfS1FBOGU4WG1GbkptMy1EeC1DbUZqQU1NMGY4VF81WndOS0hUMU82M2MzM0MwclFycnZqZzNzeDNEdUV2WUtGZFBDUXlBd3pZNEliZW5ZenJ6RWlLRFdURnduWXp2Qg?oc=5",
         "fonte": "Portal Hortolândia",
@@ -82,12 +76,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdmJhYlRpcWdDSDlMYm93Y3E3amR0Q0tCMTNybXJnaDNPcHFLSlNRRXVERkxsV2pYbnRvQzdzNlFNWWlfOWtDSEY0WU1sc2daS243bnBTYlFFY1hQNGY5XzV2TmxhN3o1M3RsM2ktaHRTYS1Ma0dnN0ZSd3JUNkNXTnRDWWNhTmd0MndSSUZ0Q2U3Q0VMUW4xNzFlYnVxSmEtbEp4VnVxX2o3M3FHS1hjMlo1ak94NjdvN1lZdmlpREdvejdKOWfSAcYBQVVfeXFMT3ZiYWJUaXFnQ0g5TGJvd2NxN2pkdENLQjEzcm1yZ2gzT3BxS0pTUUV1REZMbFdqWG50b0M3czZRTVlpXzlrQ0hGNFlNbHNnWktuN25wU2JRRWNYUDRmOV81dk5sYTd6NTN0bDNpLWh0U2EtTGtHZzdGUndyVDZDV050Q1ljYU5ndDJ3UklGdENlN0NFTFFuMTcxZWJ1cUphLWxKeFZ1cV9qNzNxR0tYYzJaNWpPeDY3bzdZWXZpaURHb3o3Sjln?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-18"
-      },
-      {
-        "titulo": "Cimento Apodi destaca inovação na ExpoConstruir 2026",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUnVPamFYN3plaTRXWnk5T2hpa2I1dzRSdnViNFI2b2lOVWFLMG0yMUhrUVloM1RvNGdiR1RCRS1IbS1Ic1o3ekhaQVVXNHp6dGttcFlVSGxPZVhjTXdaVDBGTXVBOG1fdzVEUW5WUVc2TWtmQUtLVzVROXM3blUybU53elMyYjEwa0VOemFCdTBvQnFod1F4bng1eDItV1J4VUkzUFh0OVJfRXhRa3I0SDl3?oc=5",
-        "fonte": "Portal Terra da Luz",
-        "data": "2026-08-13"
       },
       {
         "titulo": "Plano de investimentos da Votorantim Cimentos de R$ 5 bilhões no Brasil até 2028 segue em execução, com R$ 3,1 bilhões em projetos já anunciados",
@@ -206,16 +194,16 @@ window.NEWS = {
         "data": "2026-08-18"
       },
       {
-        "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "Alagoas Alerta",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUZSdDVPSHViQlZ4RW5IeHRRajEyOWNtekRkTmdfZWtubTFvUFNNaU1fX19ZV1BBVkVaVmRZeF92VFI0NmJkTWQweVpkbFpBZGJpdUlPcjhMUkxBQ2MwRjB4VGVKNEhmMnZxUGROZ0dMaFlvZy1FdXNwb1gwRHdNdHdTRGJPVUUyVnAxSW51ZGlBSjZmbUQwSTZBbFd6OGZDRFQwSzhjMFQ0Tm5Sa3pz?oc=5",
         "fonte": "Revista Cultivar",
         "data": "2026-08-13"
+      },
+      {
+        "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
+        "fonte": "Alagoas Alerta",
+        "data": "2026-08-14"
       }
     ],
     "maquinas": [
