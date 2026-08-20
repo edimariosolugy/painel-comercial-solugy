@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T16:38:08+00:00",
+  "atualizadoEm": "2026-08-20T17:32:45+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -76,6 +76,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV1VvMW1Xb0JSekNpTlZsRWJxMWhyUzBxM3MtWm0yWG1HYk5ONy1vNk5GU0tPdm9aWEpDYUZmMk5lRGRzUEh0SjZ4ZTJvTm0wRFdsdHE0b0JvcWlPb2dfRVdudFZ6U1lDSzhzYmtTTGpITFRYRUhqSGxQUHhyWV84RkFTVTJyU1RFcVpxSTh4WDdvM01KNFAtT0wtbGs4TDVsOFBpeUtBNDllUGRpbFZ6ZENwX1RZT2Fha195VzktZUFUY2FnR3VyQ3hBQ0Z6bHZ4Ql9pclRmUlJ0cC00cXdmTUhBWjloa05PM01CTl92THJGMnFjRzFZMjFTTWM?oc=5",
         "fonte": "jornaldaregiao.com",
         "data": "2026-08-14"
+      },
+      {
+        "titulo": "Incorporadora DEWA e cimenteira Cruz Azul vão investir US$920mi em Hidalgo, México",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXRJUHpWdkV3SU9yMGdZVWZVLUJhOEw1ZDVFQnIyUElzMnBSQng4QXBaVzZpWVFkRkZHTUd3d3Y0cnN4enpSUllqd0FMSDdybTQ3azRmZkRhZUVUMWh5b3lUVFVDN3pQQWhFYThxUV95YmIwVkNCbTVkX29ZX1V5MEdMTkN5OTFrVHJ4STJHdWVEYjVOdllrajdYUFdYQmx6cmJ5QTZZT2pSNFVNbUFtdkdScEdYOTQ2bzhR?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-08-20"
       }
     ],
     "comercio": [
@@ -112,10 +118,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Ludimila Lima volta à diretoria da Aneel com tarifa branca e prorrogação de hidrelétricas; veja o Radar Energia XP | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPdG95UDNfOE5FNDFoYllHYjV3cjJCWmJNWFlzRlNTZ2o2OFJRT0l6dDZiWi15OEVjVUgwWGFjRFREN2tEemdyUDRlbVR3aHl1TFF5dU5WR0NUbmg3SnZ5X1VsN09aT2hHWEdHczdqdEZUbHRVM0c5OFRGcUl6NmpDWjJ3V2JISWkydTFSQ1QtRDZreTBaSE5EMFJjb1lqZTJpNDFPVEpHUDBHV0o0UGtrT1hWeWdWUlNyX0V0cDFlUnpmd2xzZFlOU3dkYWxQYW9kRWFSUFl6OFpybG5CeFFEcEs5cEFhT1pXclUtUEdPUzRSWUdsRUxkTG1Pcw?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-08-18"
+        "titulo": "MME vê necessidade 'imediata' de interligação Brasil–Bolívia",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTENGXzFaZnpKeGkwQVNremxzSE5yQllHU0R0QmVSbDg4QmloS1c2WHFyYk9tUmFNRmtNUHZvUW5VX0xIZVd1OElXcEJFNzlLUFVBZ1BpWXREZEVacWFLdXZPeWVOemROczFzRnM3ZVBLY2luYW1uR0FKZDE4ajRMcEJHZVFqQ2VjZE1LcEw5SUV5LXBqWjJXNUt4MDZ4R1hzZkpkOHdfNm93OGM?oc=5",
+        "fonte": "MegaWhat",
+        "data": "2026-08-20"
       }
     ],
     "solar": [
@@ -182,22 +188,22 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "Líderes da logística investem em caminhos mais inteligentes",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdldnMEVfamtBSWREX0E4X1R5c0xCblpvQmI3cjZHdkFKQjZieTV1aXd5R2phU21IOGVkQ1M4c0ZqM0VITEN1V3BTMUgzc0N3X1FvODFJSHV0ZXNobXJrb1dXYnFnQXpFdFUtaER1VG8zMlFjdmZuVm1MMFpOWnpGUDBqT3Zzb012YjBSOENsMW5qUUxuX0lSWTRoT3M4ejdiUmpIOWExeTkxeWdHY25aNXZubWdXanUwN1M4S2dWNFNfN3NONkxj0gHHAUFVX3lxTE92V2cwRV9qa0FJZERfQThfVHlzTEJuWm9CYjdyNkd2QUpCNmJ5NXVpd3lHamFTbUg4ZWRDUzhzRmozRUhMQ3VXcFMxSDNzQ3dfUW84MUlIdXRlc2htcmtvV1dicWdBekV0VS1oRHVUbzMyUWN2Zm5WbUwwWk5aekZQMGpPdnNvTXZiMFI4Q2wxbmpRTG5fSVJZNGhPczh6N2JSakg5YTF5OTF5Z0djblo1dm5tZ1dqdTA3UzhLZ1Y0U183c042TGM?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-08-18"
-      },
-      {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
         "fonte": "Alagoas Alerta",
         "data": "2026-08-14"
       },
       {
-        "titulo": "Plano Nacional de Logística prevê R$ 1,2 trilhão em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONUZSdDVPSHViQlZ4RW5IeHRRajEyOWNtekRkTmdfZWtubTFvUFNNaU1fX19ZV1BBVkVaVmRZeF92VFI0NmJkTWQweVpkbFpBZGJpdUlPcjhMUkxBQ2MwRjB4VGVKNEhmMnZxUGROZ0dMaFlvZy1FdXNwb1gwRHdNdHdTRGJPVUUyVnAxSW51ZGlBSjZmbUQwSTZBbFd6OGZDRFQwSzhjMFQ0Tm5Sa3pz?oc=5",
-        "fonte": "Revista Cultivar",
-        "data": "2026-08-13"
+        "titulo": "Plano de logística prevê R$ 1,2 trilhão em investimentos até 2050",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYU1IemVnMlBENFY1ekZBVnRsUG1fblJCLUs2QTE0RDBTeV9IQ3poNFpOUzJid1RGZmhSSGRxeEo4Q3pWa1pNRk54UmFsMFlfRHA0cVgtT2dsT21UZTducnQ4d1QxWkpjNnJ2dHYyLVpYNjNOUFFyQkl0MGtuSW5EcVhrRHRYQWQwaWcwa3JmOFhYSXZCenlFc3Rn?oc=5",
+        "fonte": "O Presente Rural",
+        "data": "2026-08-15"
+      },
+      {
+        "titulo": "Presidenciáveis miram aumento de investimentos para a infraestrutura",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUpLWmMzT2R5eEphVFFXRTV3blZleURBQ094YlAzTnkwdVZ0ZWZMQnVlNWRsVXFUT0tHSDU1LTVGeHFyNVJQQWgzOHFveGtXY0dnbFFIUnNkdFJNZmQ1b3ZqTDhQOXgyenVJZ3hMYVlPMHFzejhqUVZxel9TZzY4RU9GbHVrUWJiLUFhaFFUY2dlaDlpcmZVMHA1VEVTd0UwMVAzT2NNWjZTMU1IOFJDVC1UQWlOOE0wWlVhQnRGRVB0MUs4?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-17"
       }
     ],
     "maquinas": [
