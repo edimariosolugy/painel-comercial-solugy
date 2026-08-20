@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T09:37:45+00:00",
+  "atualizadoEm": "2026-08-20T10:34:30+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -238,9 +238,9 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "Robótica e IA mudam a indústria e atraem investidores",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHV0h3Q1Z4dDZwRWRtbnJfSHVISXo4eGFfWWtTRFdzWG9tNXhwXzk0VlNEdEFxbDllNWFLblp6MGRZdTN6Y18yd3VjYjJZYUVjaTdCNHpYZGJsNVgxeWZqdGdXWTBTalZubXBTTjFNX25zZjNhalBXMUpfbTU?oc=5",
-        "fonte": "Safra",
+        "titulo": "Fiems e BNDES firmam parceria para ampliar crédito industrial",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZDBJdUowSUIyaWtmWVdsZ3psS0tGdm5mZkNEUVpzdTROMVVSSGd3c0JaTGFtV0N5RHhkMVhYM0xZNFVpSXFWRHZxYnlNNmJOMlRUZi1zNEtqbGRrOTZJYjVBM3FESzE3UFk2RXNUYkllbEhhQzZ1ZWg5OU8wakdhcGNpanpfYmplSmdQVHdTSzFtSjZWbktkM1JEX1IyLXAzR2Z3ejE2dUp5ZG5OTWRiOHRzaFhtc3FvbVZlUTln0gG-AUFVX3lxTE1MVUFyaTIwR0g0MEh4Qk9BYkEzOC1yVEFxVlhtRHk5ZkRPY3ZSTnhYa0tsU25YVTV6a3JxWGlsRlZQVjFPcHhOOW1JNTUwT3VsS2Q1Y3RsVGRQSVVCUGNkcnBNTTZaenVlbG43bnVTQ3VYTVJOYWZzQml1WG5MQjU0UU91Vk1jRDJHR1J4OTFGRFhyY0IyUzZ2ZnR6NG1neV9rM3FhazJ6U2VnVFlXMFlKODR2Qms4bkYzRVFDUEE?oc=5",
+        "fonte": "Campo Grande News",
         "data": "2026-08-19"
       }
     ],
@@ -272,10 +272,10 @@ window.NEWS = {
         "data": "2026-08-13"
       },
       {
-        "titulo": "Eneva já se prepara para chamada de duas usinas no LRCap após revés da EPP | Agosto 2026",
+        "titulo": "Bancos negociam teto de juros do novo crédito imobiliário | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
         "fonte": "XP Investimentos",
-        "data": "2026-08-14"
+        "data": "2026-08-20"
       },
       {
         "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
