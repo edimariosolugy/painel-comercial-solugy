@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T17:31:49+00:00",
+  "atualizadoEm": "2026-08-21T18:39:56+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -120,8 +120,8 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "Brasil já emitiu mais I-RECs em 2026 do que em todo o ano passado",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92VTNpZjNSYjk5SWNkMnRvRGdFeW9sT01MZUx2NW1OelV4aXRsVzZpNlo4cWdrRWt6ZE93TmFkS3ZzT3NjN0lBMWNyalJqd3JLdlZZekNVM25jaUVsbUFmVGwwT0VndlZpLUpQaQ?oc=5",
+        "titulo": "Armazenamento de energia ganha espaço na expansão renovável do Brasil",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAyS1lrN1UwUU5mZEZPU2FXc3RPeUNsSzJvVjU5NmR4WXI2TkZva1JLb196Z1JOUWZVQVFGZ2Vkczc3dTk2dEZnYzJRb2dHcW05R01pVEZuUy1adW9YZElZQk44YjZYX0I0dndTeGNYSkdXNTRLQmQ1YTFGdw?oc=5",
         "fonte": "Canal Solar",
         "data": "2026-08-21"
       },
