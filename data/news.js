@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-20T23:28:11+00:00",
+  "atualizadoEm": "2026-08-21T09:39:55+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -98,16 +98,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
+        "titulo": "Covabra Supermercados dobra capacidade do Centro de Distribuição em Sumaré (SP)",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkVmVmdhMXFBTFNDUC1mYkREYTRuR1Brd2RpTUE4bXRtZXRRcFc5bXl1TFNtRTFjeklUUllRNmxVU2h3VnE3WWQ5bUNGMHNjSWNwX0xxS3k5QjJnejZQVkRna3U2clNXRzl4UlhST0J4bGdJazB2SW9YS3JWaTV6ZDlCWm0wSFhNZldZRm1sZk91V0ptZFQ5ZDViUWg0VS1pa1poRHVWRDlRc1FvV2RUSkhZeVdZUQ?oc=5",
+        "fonte": "SuperVarejo",
+        "data": "2026-08-20"
+      },
+      {
         "titulo": "TikTok investe R$ 111 mi para estruturar logística do TikTok Shop em SP",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTE5ISVR0b2lQTkdKR2UzOUZmXzl3dlJ1SGhwamZpWFgyYWltTUVab0VwZ0V3MHJ3cEcyNFNVZmQ2eVNjRFFyR1FqWWFkVWlLYWNrcHJLck0xM2hIZ3JDSVNjYnFyLVVIOWJuQzZMZmY0MHRudmNIdWkwZG5lM19hR2xzSQ?oc=5",
         "fonte": "tmc.com.br",
         "data": "2026-08-18"
-      },
-      {
-        "titulo": "Casas Bahia, Marabraz, Mobly e Tok&Stok: por que tantas empresas de varejo estão pedindo recuperação judicial?",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbWZ3VlJuWFRhSXFKbk9HV0Z3YkxzNVZ1aHdCcHo5eVZBdm5nQS0xUGVPZmVhS3lnaktJZHNsUUxab2Nja3c5aXNpM1FWM21wbmttVFlUc0gwejc2UTBNbXVxTHFiUzhmNVZrVm5qeU82RV9yWGUxOXFtUkNJMnBtQ08zOG1MSDAzakJxR1BQYWNsT2hBY0FsQTQycngyTnhvdzRGcXZycEhPV2dhRUVVbHdLOXdFZm1HN3hxbjNqMHZGZlMzS0liZjJsMTI5bUtycEd5UE4yeHBrTWhndjlFNWhreVpudlpTQTl5R3FUblNhZ3owZk55ZS1aYlljS09oMXRPWVlfY9IBlgJBVV95cUxNaTd5cGtJcy1hZUlmcXh6N3l0RXBSUktsNUdLQldUblJrNEFEbTExRkZPX3J2NzgwQlBmZEJlNlZ2T3BZVGltR0ZPYlpIcVVPVWRpRVJZZnREYlBfclFURUtUNTA0ZThScUp0aUFjZ1lXLUd0cVBhZWxWMTNKR2dGdzNKNXhaZGF2QU1wVHhEVHNZYTQ2aWdMSFBDQzZHWnpqc3ZMX2RnOHRwdlVQZXdkSkNjMmtnWVpRdlpzRVh4RW5UVTlnRGlLb0RJLWtrempIdThLMk1zQVpURHZCR2RjRWRtNGNmNDk3dl9wYXZJaXVteHUyQ0g3OWgzbEJyMEhaOW5FTUltbnJpejMwTXJmUW5HZUdUdw?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-17"
       }
     ],
     "energia-gt": [
@@ -186,24 +186,24 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Brasil terá primeira fábrica do mundo de pele de tilápia para tratar queimaduras; entenda tecnologia",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQUUlJSTd4ZnVnUjFhOVg2eHJTaVhISlJ2RVk1YnhPNnNROW1xTnc5aDh3LTlhbFRJQ05YWFBVLVNlSlRsOVpkMV9KVnEzZ0ZDdHB4dG5RUVlTbE5WaGhEdmQwbnBZRVd0S2Vfd3ktdWVnbWhEaHN3NjROQm0xaXdJdENYbW8wRElGeGo1VHhMRVZLdUgwNTVxT2FveS12TkNza1JIU1htaXhaa0JFTW9Qam5GbVplNEJMUENQSi1HelhDMFlEa0hMMzh5UTZJYnVZQTgzN1FUWkVJQ19BTGhtLUNHQnBUTEwyNEhV0gH6AUFVX3lxTE9pMGE3a2lvZVVzYVBqeS1icDFBQlNzdXZXbjh3NzU2bGZQV29oXzBSX3gyemtXSjJzWldtS3c4aXlrbEVXSWFfQmlBSzAzS0F5OWN6ajkzZUtldV9NQ2JQMVluWDh2aEJXb01QQWxCVHNLRDlDRnFRZjFEc29WVENyWlVBOHg4dF9nZkJHanp5RVV0VHc0VW1lZmp2UmFuQjg5R1JaWkR5SFV0R1JJcHpZclBka2JMdWhReTVCampOM3VMb2JRYTJhWHA2OXR6ZGtSQ0RsYnNmckRNdDd6WjZ2RzYxT0dYY0lmTk92VkpRSTZmcEtUVjB6Nnc?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-17"
+        "titulo": "Intenção de investimento da indústria cai em agosto ao pior patamar em 2026, aponta CNI",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMHNvWEJ2OXdDUFRrMTlLTDd2b2M1VUpwYktSaWJUYmw2Y2s3VmJKXzA4ZEEwZHlaVlA4QnpTX3hYNzlIMENvaEhpSE5HZUxzeml6dFlpeFB5LXZlV0l5elIyeE1lQkJNcmVBVk1YRzQ2amVuMzBmMG5yUjBqbVRTbVFVUGp2cHlscTctTmlsa1NkbldMZkplQzBCN3YzSzZxLWYxMHJwOTRRcFJuQkYwUndxTmlFeXlqRlgzeFdRSl94MllrSjNPU0hGZXZfUlNFQlRyU2Jn0gHkAUFVX3lxTE1zQXBNNDJlU25IbnFiZXFlbWpvRkVvLXl5N1VVY3Z0aHFyRmdTMEN1YVlPMXpzMGhPUE90aU81ejZ5RngxU1kxYkVWb2l1eS1fRlpWRHEwaTVyc0dvQlBZYkVLYk9CRGJZSndiLW15ZzkxWHZveENWQTVfbXJUZFV6TDBMNEVfVndMNVo3XzQtOUx6dkJjTHRtU19KOUlpSFRZUUhRUTJlblNDS2NMWXJCT0UxLWFuUVJ3a2xOcmZBcGVvQ21iako5VGcwUlVvT0hHMUxGMHUxcjdMU0pQT25PWmY1Zw?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-20"
       }
     ],
     "logistica": [
-      {
-        "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "Alagoas Alerta",
-        "data": "2026-08-14"
-      },
       {
         "titulo": "LOGÍSTICA | VLI vai transportar ferro-gusa até o Espírito Santo",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWRFZHVBbEkyNEVyaVZRdWE0MzZvUUE2Y2M1RXd5U3VCb2tRVS1rZGJXZzhZYzFZU2p6S0FSSXJwbDRmMmNwbGlDTDRMaFRLVXB1TGtLU25GR0lLVUtFRnhXRXkyM08ycGYtQUIzZUhWTVplZ2xDNTFoM2h2ZTVaM1VEcjJXc3EzZE10TFdMdklnYlBpVExmYQ?oc=5",
         "fonte": "Brasil Mineral",
         "data": "2026-08-20"
+      },
+      {
+        "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
+        "fonte": "Alagoas Alerta",
+        "data": "2026-08-14"
       },
       {
         "titulo": "Presidenciáveis miram aumento de investimentos para a infraestrutura",
