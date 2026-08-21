@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T12:53:19+00:00",
+  "atualizadoEm": "2026-08-21T13:48:45+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -58,12 +58,6 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
-        "titulo": "Raízen gera R$ 3,6 bilhões em caixa no trimestre",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONmRaM0lJQnpsNkJYcmFrTlljVXRxR3hMMHd5ZXlWRE85SG9ITU04aGI5WVFKM1pyQUtHdHVseE91a2tpN2xOT0FzTmU3eG00U0UwYUx0WEVFUVRnaV9SQXc4U3lZOWtnQjdkanpaSTZCYXhjSTlGdy1FZjdIa1Q3N3NmSzU3ajMz?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Especialistas debatem estratégias de marketing para fornecedores no setor de bioenergia",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUdjWjQxT3llTllnQm45NUszbU9SRVBUSXllVjVZemNZc2dtUmJOSk1nVjZQVlN5Y3gxQzR6dnBrQWZIUGRSNHY3LTUya0hmblo5QmVXZTNSWXdScE05WnhWRXU4YlBSRG11VENrX3NyQ2RXSGFnQ2t5bDl2VHJYVTBXSTdRSGI3TThxcGt3dUpDTHc?oc=5",
         "fonte": "JornalCana",
@@ -74,6 +68,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRXUzRnBLTmRnb2VTQ1ZoZzNYQlc4WGlndTdaUzdUTmtjMDNXZU93c1ZuRktrRmxvYkNhbDQ1LV9jdzktMG9Ra3dkOGRJanpnbjU0dlo3NFlybms1bFBRUGFBeVdwSE1EX0lEUGtkeWdYV1V4QTlCZEhwRE5NS1NrUkFIYTBLVkxUcXlhLWROVERnNmFneVdISDVvV2dwRENoVnNrTUpDRHdrZmV2RmwwZVJRYTJEZVJjb1FsOG1KQjh0cHJxaGFDQ19HRFd4dlJEMWxCMWVrQ21JZw?oc=5",
         "fonte": "Gazeta de São Paulo",
         "data": "2026-08-15"
+      },
+      {
+        "titulo": "Agrovale investe R$ 54 milhões para modernizar irrigação e geração de energia no semiárido",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOYXNIcXBESGFRYVJ4Ykp6S0dsczJaZUFoTlNwekNnbDFKRFRMSm5hNDFoSXdTU2lmTVBTOG8zTWlNOFV3WXZfbmNSLUQxV1pSTjNDUkdROFZNQ2lUVmxTRmRJMnhWUzl2bDkta2kwRUllNHdnQUVDa3hmSjJXZWtMQ0FHd2wzWE40RmJiQS1makNKbXAxTkVJdzVSR1VzYTVaZFF3Ukx4bEo5bnBxVDBySm5ETlpDbGVnMzd0NXVWNTZHbzVOM1B4Q2M4Nlc0SG1NeE5mSEQxcUNBNVdRcnBwbG8zcFpUcEhVQlkxLS00My1iak1tS1B1RW1VdTNBenMyV3lB?oc=5",
+        "fonte": "Portal do Agronegócio",
+        "data": "2026-08-18"
       }
     ],
     "cimento": [
