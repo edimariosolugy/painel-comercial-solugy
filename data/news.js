@@ -1,25 +1,25 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T19:28:05+00:00",
+  "atualizadoEm": "2026-08-21T20:28:42+00:00",
   "itens": {
     "agronegocio": [
       {
-        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-08-17"
-      },
-      {
-        "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS2NQcTdCeWxZZ2lzdHBNMkltNWU0ZWk3d3lOQnMwT0lCVEE3Z09WaUZScndlbEU5Ni1FTWZRUV85UTlRbjRrX205Z2lTLWZreFotZF9XZ0lqejQxQ2xkSVhxbzhqeGEyb2tyUW1mNW5iSmpiOF9sdHA3WXhfckV6bW9sQ3ZTM1Y0Qm5kRHRUby1lUHZfWFVEbE9TbnJhQzM1OFF6VEp6SEFYZENLcWxmS0tvckZOd192S1g0YkdpS21rWklWd2pwelFpNEE4a29HNTMzRWhSNUpoZnBma0h4dDIxelQ0cFZCMGFhajJ6eWdZLU5YMWJpTkhCN1dJWDlKekE?oc=5",
-        "fonte": "Bora Investir",
-        "data": "2026-08-20"
+        "titulo": "21 de Agosto Dia da Semente: Semente certificada é um investimento estratégico para a soja brasileira",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVXU4cDhsbzVtVWpEVkplVWlRU2M5eDZvLVVYbjRXNm00NjgtcnhFTWJFckxsWFlmTzZLQk5ma1NpVnJObEctRUx5U1lITk1rRjZuVDZLSk92N3NnZ2xseXBpNDJzYUxqU2RmdkRGYThVSTdDTXhCV2s5Q3hkWlZyOFFvY1k4OXJOYlU3Tk1jdExkMEw5Q3dwdC1IaEd1aEdoelJoQ05hS2o4Wnl6bDFnZnE0OTMyLTZFWU9WS1ROcDVsa3E4bHgtY2tiTXlNN0lZRDFFVldYNTdmVVAxc19mSzZuQmNnUWNxN1RZd2NaOGYyVTNuX2NqV2N6Qk05eG_SAYQCQVVfeXFMUHdzQXFmemx0OVZmWEUzbVg5RHZhR0xkNzRvSEVBeGtXdFpSMGU2T1BGNW5kY1VLd1BIeHVuMWxyU044Mnk1SEZ0ZzdaSDRSWTBLRExMdDZzU0RXX3p3clRRdklkdzVjWVFGOXJrZG5OQkNhazllVDIzWHZ2bGl0YkZ3cWtNVnZrbkxTWDJEa1pKOEFSMFVQRm1hNHktOW1qcC1iS0E2RjI3cmZTWmJmWm5TSjhjTWphSV90eUtZQmZSWjI2d1pueFZlVjB5eVlaZkRRckZvZkZRVDMycWppZmpJRnIxcU1HVkJKeHlLazhDRWptcUNlYXBuUXY5SEF5SkhHZ0s?oc=5",
+        "fonte": "Notícias Agrícolas",
+        "data": "2026-08-21"
       },
       {
         "titulo": "Estoque de títulos privados do agronegócio somou R$ 1,409 trilhão em julho",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmd5Z1N6NURyVlJ3RUR6YS1RWnYyVnNacW4zclZQUEF4YlpFRnRhN3ZMV0dhOWs4eHRqM2VwZmFtNWprRFVqUWF6S09SVzd5UlFjdGt4SDVVbGpSa2hTRVRnSTFvdnczMEotLWFTazJHN2ZsTHJiRDZOMlZYTkJqWnI0ZG95SUVZWjBQcXIxLXpDMU50V0plWjJqa193dTkwLTZhaHNxQVhqTm5HZmF1MmhoUWZfYXo4cUtkaEJtaG5EMFlreTB0T09rSVNXbWtqbDJHekdkS2NEdmxkYS040gHuAUFVX3lxTE1YLTFsQjZ5UjdyRVQwS3dUSDBOdXFBTlhPeWMtTnBiZjFSSTZtWkhNV2Z3TzVMUjE3S1o0bWJGUVJzSXYyeUFzTG9idVRwcjFYaHFHLTFEc2VwZjgzaXpPM2swbVNUVW5GZEZLTlMyRzVHV1BfRE90ODRVT1hHcjk0dG1HcGVfMFVIT2xNTnFBRl9XUXpPU21IeWVBc3VFclFYTFhVTWtDNUEwYm9aVThoQmZWSHRsSXQ3RDRhOWlZQVRUSDFNZnpUTWlBWVhQWGRWSWpkaFdISmFIVkFJbS1lSkFHWi1wdWw3dGpDRnc?oc=5",
         "fonte": "Globo Rural",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS2NQcTdCeWxZZ2lzdHBNMkltNWU0ZWk3d3lOQnMwT0lCVEE3Z09WaUZScndlbEU5Ni1FTWZRUV85UTlRbjRrX205Z2lTLWZreFotZF9XZ0lqejQxQ2xkSVhxbzhqeGEyb2tyUW1mNW5iSmpiOF9sdHA3WXhfckV6bW9sQ3ZTM1Y0Qm5kRHRUby1lUHZfWFVEbE9TbnJhQzM1OFF6VEp6SEFYZENLcWxmS0tvckZOd192S1g0YkdpS21rWklWd2pwelFpNEE4a29HNTMzRWhSNUpoZnBma0h4dDIxelQ0cFZCMGFhajJ6eWdZLU5YMWJpTkhCN1dJWDlKekE?oc=5",
+        "fonte": "Bora Investir",
+        "data": "2026-08-20"
       }
     ],
     "alimentos-bebidas": [
@@ -106,15 +106,15 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Abrate anuncia R$ 5 milhões para resiliência climática",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmFaa2Z2Z2VYM3NqUTR6VWRvRW9rbFZSajQxNXRPUnd2OHJldkwtaEh0VDh5SXZLY0x6S0FYbDFRV0Zrc2FxX0RhdjlEMFhpdjZRb2VXbE1VeFc1MzZ2cjdlRGhzT2xqenhLSV9fTHdaN1c3V1lxQ0NGME9IUUFKNzdVd3JHUFBsMlMtdw?oc=5",
-        "fonte": "Agência iNFRA",
-        "data": "2026-08-20"
-      },
-      {
         "titulo": "MME vê necessidade 'imediata' de interligação Brasil–Bolívia",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTENGXzFaZnpKeGkwQVNremxzSE5yQllHU0R0QmVSbDg4QmloS1c2WHFyYk9tUmFNRmtNUHZvUW5VX0xIZVd1OElXcEJFNzlLUFVBZ1BpWXREZEVacWFLdXZPeWVOemROczFzRnM3ZVBLY2luYW1uR0FKZDE4ajRMcEJHZVFqQ2VjZE1LcEw5SUV5LXBqWjJXNUt4MDZ4R1hzZkpkOHdfNm93OGM?oc=5",
         "fonte": "MegaWhat",
+        "data": "2026-08-20"
+      },
+      {
+        "titulo": "Abrate anuncia R$ 5 milhões para resiliência climática",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmFaa2Z2Z2VYM3NqUTR6VWRvRW9rbFZSajQxNXRPUnd2OHJldkwtaEh0VDh5SXZLY0x6S0FYbDFRV0Zrc2FxX0RhdjlEMFhpdjZRb2VXbE1VeFc1MzZ2cjdlRGhzT2xqenhLSV9fTHdaN1c3V1lxQ0NGME9IUUFKNzdVd3JHUFBsMlMtdw?oc=5",
+        "fonte": "Agência iNFRA",
         "data": "2026-08-20"
       }
     ],
@@ -132,9 +132,9 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Clima pressiona PIB e exige avanço imediato de geração distribuída",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXJqazVuVWQ0X1FMSDZzSWlZQml3b205V25pc3RITXY0dVFTZGI4Z3JrMkwyNkFocDk0NlgydUVmX09mcE5NS3lRWTUwbUhqY1I5blhqQkM4dUU5dkNJWGY5VEZXZmFRaDN2dTFra0dkMHhEM3EzZU9OWlJpN2Y3Q29kOGJIaFZmSEpJcHVNbkZyaE5Za1NpMTJHLWs2MjIxMGhWZg?oc=5",
-        "fonte": "CNN Brasil",
+        "titulo": "BYD passa a vender kits de energia solar em suas concessionárias no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU0M2X0xnV0xPakswckdFYnZtNTJDSld6emJIdmlNazRFUW8wWTMyaEdMYmpWbHh3WnZ6Z1FicTgxT3dWSUZyMGdrcUZmSXlQQnBqVnFYeEUzS1ZmNTNkMVQxNUVwXzY1ajFEdExNVG42NGc0OG11RWJNckhRNjRHTnpYbXNxVlViRXk4Y29PUjVlMTd1OWQ5QmtiLVBuYmZFNmVOOTFNaUFCbVJXeTMyNF8zMzZaWVZyRkVfTDN4aDlMQVE2OG1OVUNUTQ?oc=5",
+        "fonte": "Portal Solar",
         "data": "2026-08-19"
       }
     ],
@@ -168,15 +168,15 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
+        "titulo": "Indústria de pneus vive maior crise da história com perda para importados, diz CEO da Bridgestone",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPOTEyNHdwc0p4dEtYaE9Ld0lGTG5GV25YOEs0NnFiazBZb1hlR3BvLVZHYnhDdmVQQVNSYjRZSnYxUlZobDJwa3Jaei12MlNiUnE4SkdLYmdXWEM1R19BNGtRX1ZudlFPRjFJVzZlbEVZek9Mc1IzQmpHc0Fpak85djh0aFdHeG9WbkRYR3hXb1lITnF4T3VlTVBjWVkyZnhLVElUdkVfVVJqbk1nQ0hvSzdFWS10TF9TNndXbzRnblNqNnBLbnAxUHd6aHR4MUNkWjY3RWZ1Q2ZFTDB5SGZTYmhDMEk4SG9Xenc?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-08-15"
+      },
+      {
         "titulo": "Intenção de investimento da indústria cai em agosto ao pior patamar em 2026, aponta CNI",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMHNvWEJ2OXdDUFRrMTlLTDd2b2M1VUpwYktSaWJUYmw2Y2s3VmJKXzA4ZEEwZHlaVlA4QnpTX3hYNzlIMENvaEhpSE5HZUxzeml6dFlpeFB5LXZlV0l5elIyeE1lQkJNcmVBVk1YRzQ2amVuMzBmMG5yUjBqbVRTbVFVUGp2cHlscTctTmlsa1NkbldMZkplQzBCN3YzSzZxLWYxMHJwOTRRcFJuQkYwUndxTmlFeXlqRlgzeFdRSl94MllrSjNPU0hGZXZfUlNFQlRyU2Jn0gHkAUFVX3lxTE1zQXBNNDJlU25IbnFiZXFlbWpvRkVvLXl5N1VVY3Z0aHFyRmdTMEN1YVlPMXpzMGhPUE90aU81ejZ5RngxU1kxYkVWb2l1eS1fRlpWRHEwaTVyc0dvQlBZYkVLYk9CRGJZSndiLW15ZzkxWHZveENWQTVfbXJUZFV6TDBMNEVfVndMNVo3XzQtOUx6dkJjTHRtU19KOUlpSFRZUUhRUTJlblNDS2NMWXJCT0UxLWFuUVJ3a2xOcmZBcGVvQ21iako5VGcwUlVvT0hHMUxGMHUxcjdMU0pQT25PWmY1Zw?oc=5",
         "fonte": "Valor Econômico",
-        "data": "2026-08-20"
-      },
-      {
-        "titulo": "A indústria está perdendo o interesse em investir, aponta pesquisa da CNI",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSk1NdldOZm1oaXlxMklOSjhiQy1XbnlTNi1UTXpuOGNzRnRSdTR3bFJ6YzBoMXEwMUNCLU1USldHLXVsMExqMGdZWG5IT3Q4RUozc1lGRjJUVW9mX01FYXBEZGVSZ0ptREhaN2M1RXZWZ2RxUlN0Q1ZkR1pGX096b0xLTV9tOGdDcTJhNmRHQkdBd3dBR25KOWVtYlhqUURaNnUwMWNXdnhkNjNy?oc=5",
-        "fonte": "VEJA",
         "data": "2026-08-20"
       }
     ],
@@ -254,10 +254,10 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "SUZB3 - Suzano - Resultados, Dividendos, Cotação e Indicadores",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTG1odkhVUVZ2ckhlc1NaMzhPZGlsNlJZS1MxVEJoQlU3Y2tJU2drbHJOQUVTNngyemc4UW90X3FWUXZPd3N6RXpEU0dYWHVlaHc?oc=5",
-        "fonte": "Investidor10",
-        "data": "2026-08-21"
+        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-15"
       }
     ],
     "quimica": [],
