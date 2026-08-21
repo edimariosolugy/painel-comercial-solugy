@@ -1,8 +1,14 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T20:28:42+00:00",
+  "atualizadoEm": "2026-08-21T21:27:43+00:00",
   "itens": {
     "agronegocio": [
+      {
+        "titulo": "A agenda estratégica da ABAG e o distanciamento de Lula ao agro brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSFBjS1NhTllmY2d4M0ZIVWhrY2ZobWxneXhreWg0X1c3NHFCWmZOZ2pUQWlJbkZMdGh5OGQyaGZaWjRCSEh4S0p1UFhSdk8wc1dMYUY5cFhHRHRHTXR3UHJiV19JbWgtU1lsMUlMc2tqMWZZNXNjWVprelI4bjF0eklpNTk5RGZJVV93UGVfRjhBVEkxNnNzOTVMM0dvODBHSkR3bnUwLWVJSnZOSEVtRlJkNF9IWjI0bWc?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-08-17"
+      },
       {
         "titulo": "21 de Agosto Dia da Semente: Semente certificada é um investimento estratégico para a soja brasileira",
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVXU4cDhsbzVtVWpEVkplVWlRU2M5eDZvLVVYbjRXNm00NjgtcnhFTWJFckxsWFlmTzZLQk5ma1NpVnJObEctRUx5U1lITk1rRjZuVDZLSk92N3NnZ2xseXBpNDJzYUxqU2RmdkRGYThVSTdDTXhCV2s5Q3hkWlZyOFFvY1k4OXJOYlU3Tk1jdExkMEw5Q3dwdC1IaEd1aEdoelJoQ05hS2o4Wnl6bDFnZnE0OTMyLTZFWU9WS1ROcDVsa3E4bHgtY2tiTXlNN0lZRDFFVldYNTdmVVAxc19mSzZuQmNnUWNxN1RZd2NaOGYyVTNuX2NqV2N6Qk05eG_SAYQCQVVfeXFMUHdzQXFmemx0OVZmWEUzbVg5RHZhR0xkNzRvSEVBeGtXdFpSMGU2T1BGNW5kY1VLd1BIeHVuMWxyU044Mnk1SEZ0ZzdaSDRSWTBLRExMdDZzU0RXX3p3clRRdklkdzVjWVFGOXJrZG5OQkNhazllVDIzWHZ2bGl0YkZ3cWtNVnZrbkxTWDJEa1pKOEFSMFVQRm1hNHktOW1qcC1iS0E2RjI3cmZTWmJmWm5TSjhjTWphSV90eUtZQmZSWjI2d1pueFZlVjB5eVlaZkRRckZvZkZRVDMycWppZmpJRnIxcU1HVkJKeHlLazhDRWptcUNlYXBuUXY5SEF5SkhHZ0s?oc=5",
@@ -14,12 +20,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmd5Z1N6NURyVlJ3RUR6YS1RWnYyVnNacW4zclZQUEF4YlpFRnRhN3ZMV0dhOWs4eHRqM2VwZmFtNWprRFVqUWF6S09SVzd5UlFjdGt4SDVVbGpSa2hTRVRnSTFvdnczMEotLWFTazJHN2ZsTHJiRDZOMlZYTkJqWnI0ZG95SUVZWjBQcXIxLXpDMU50V0plWjJqa193dTkwLTZhaHNxQVhqTm5HZmF1MmhoUWZfYXo4cUtkaEJtaG5EMFlreTB0T09rSVNXbWtqbDJHekdkS2NEdmxkYS040gHuAUFVX3lxTE1YLTFsQjZ5UjdyRVQwS3dUSDBOdXFBTlhPeWMtTnBiZjFSSTZtWkhNV2Z3TzVMUjE3S1o0bWJGUVJzSXYyeUFzTG9idVRwcjFYaHFHLTFEc2VwZjgzaXpPM2swbVNUVW5GZEZLTlMyRzVHV1BfRE90ODRVT1hHcjk0dG1HcGVfMFVIT2xNTnFBRl9XUXpPU21IeWVBc3VFclFYTFhVTWtDNUEwYm9aVThoQmZWSHRsSXQ3RDRhOWlZQVRUSDFNZnpUTWlBWVhQWGRWSWpkaFdISmFIVkFJbS1lSkFHWi1wdWw3dGpDRnc?oc=5",
         "fonte": "Globo Rural",
         "data": "2026-08-19"
-      },
-      {
-        "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS2NQcTdCeWxZZ2lzdHBNMkltNWU0ZWk3d3lOQnMwT0lCVEE3Z09WaUZScndlbEU5Ni1FTWZRUV85UTlRbjRrX205Z2lTLWZreFotZF9XZ0lqejQxQ2xkSVhxbzhqeGEyb2tyUW1mNW5iSmpiOF9sdHA3WXhfckV6bW9sQ3ZTM1Y0Qm5kRHRUby1lUHZfWFVEbE9TbnJhQzM1OFF6VEp6SEFYZENLcWxmS0tvckZOd192S1g0YkdpS21rWklWd2pwelFpNEE4a29HNTMzRWhSNUpoZnBma0h4dDIxelQ0cFZCMGFhajJ6eWdZLU5YMWJpTkhCN1dJWDlKekE?oc=5",
-        "fonte": "Bora Investir",
-        "data": "2026-08-20"
       }
     ],
     "alimentos-bebidas": [
@@ -248,16 +248,16 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
+        "titulo": "SUZB3 - Suzano - Resultados, Dividendos, Cotação e Indicadores",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTG1odkhVUVZ2ckhlc1NaMzhPZGlsNlJZS1MxVEJoQlU3Y2tJU2drbHJOQUVTNngyemc4UW90X3FWUXZPd3N6RXpEU0dYWHVlaHc?oc=5",
+        "fonte": "Investidor10",
+        "data": "2026-08-21"
+      },
+      {
         "titulo": "Bancos negociam teto de juros do novo crédito imobiliário | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
         "fonte": "XP Investimentos",
         "data": "2026-08-20"
-      },
-      {
-        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-15"
       }
     ],
     "quimica": [],
