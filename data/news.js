@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T15:36:38+00:00",
+  "atualizadoEm": "2026-08-21T16:38:07+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -48,6 +48,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlR6XzB2eE8zcEpiWmNjSHFoM3RqX3NETzQ3eXZpR3NrSGd6TF9lblNEVmVNeWRBb3NjcWtKY0pLSVR2M1hBY21JMzJWYkc2ZHpCMlRpUDVkX29XbGtnVzVXcFI0aUF1Rkt3TUh4V3VILV82WWVreTEzWG9YOXhMb3RZa3pEelBYVEJHM25oWUQtazl1QzVlZWFsVFFtYmNUOFE?oc=5",
         "fonte": "Transporte Moderno",
         "data": "2026-08-18"
+      },
+      {
+        "titulo": "Frasle Mobility Exibe Recorde de EBITDA e Crescimento Sólido",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXBhTU91ZG9GR0RETmh0N1lHNG1obnFJR0hKTG1KNmJqZWl2RGt4TW5wZmZDTXVEYy11Wm5McWxDVHJZNmJwNEFYNlVDR3FZVUsyN2dOMjhKZl9MZWJfS1FBOGU4WG1GbkptMy1EeC1DbUZqQU1NMGY4VF81WndOS0hUMU82M2MzM0MwclFycnZqZzNzeDNEdUV2WUtGZFBDUXlBd3pZNEliZW5ZenJ6RWlLRFdURnduWXp2Qg?oc=5",
+        "fonte": "Portal Hortolândia",
+        "data": "2026-08-14"
       }
     ],
     "bioenergia": [
@@ -214,10 +220,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Robótica e IA mudam a indústria e atraem investidores",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHV0h3Q1Z4dDZwRWRtbnJfSHVISXo4eGFfWWtTRFdzWG9tNXhwXzk0VlNEdEFxbDllNWFLblp6MGRZdTN6Y18yd3VjYjJZYUVjaTdCNHpYZGJsNVgxeWZqdGdXWTBTalZubXBTTjFNX25zZjNhalBXMUpfbTU?oc=5",
-        "fonte": "Safra",
-        "data": "2026-08-19"
+        "titulo": "Stellantis amplia projeto de digitalização e reduz perdas",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT185VTE1ZzhQcndpTWdqMmdHQ1ZzY09Wekd5X0pMWWQ0UXRIMV8yeHJoM0JyOFk2c2s3V3pOWmZoRVRrNGRKLThBZ0I4eFJMaExZQkJTOG1pUEhFa2hWUUhlbjV0bEhidndUWHpVcUMyZXdWc1ljc3N1TjRMSUxLeVo4M1o2YWd2UjJnczVacm1QNWJKajh3WUJnZXNGMDdzMWQwTFp0djVsRlVjNXFHemJkbw?oc=5",
+        "fonte": "autodata.com.br",
+        "data": "2026-08-21"
       }
     ],
     "mineracao": [
