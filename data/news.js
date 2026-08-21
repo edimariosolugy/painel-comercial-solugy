@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T18:39:56+00:00",
+  "atualizadoEm": "2026-08-21T19:28:05+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -100,12 +100,6 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
-        "titulo": "Com 12 projetos de transmissão, Axia Energia prevê R$ 8,7 bi em investimentos somente neste sistema",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Fdlo0UnJTVkJ5WWF2cmZCTVpTbEQxV24zXzFBRkhwOGR5MlFWYjVkWTUxUTBJbEYyMjdhT0FINTNlQkNqUDhTb2lNUWc1OHdBdUVaRDJDb0Ytdkc2M3ZPbXZxbm5rSTh3OUNaY3drcWQ?oc=5",
-        "fonte": "Revista O Empreiteiro",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Abrate destina R$ 5 milhões para pesquisas de resiliência climática na transmissão",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTItZ2lXRjFQOFNONmNoS1pTWThZVS01Znl1a2hrbFFMU2VxRGVabzFEa0toMUV1bVMwTGVFZ3dQNHhtdFowYzZSNEpobXNBd2FXQXR2ZTRubkJzenp4Qlp5aDFZQ0ljVUJOU2R6OXZQZjNKUzBvOXFxRUZWLVB3bUtFYnQ5V2tHMkJxMzJaZ2VYM0o0Tno1VnBTSnlRX2xVTU1BRDVnU2lJR1FYNTRHOUxxLXlxa0NhZF8zQg?oc=5",
         "fonte": "Agência eixos",
@@ -115,6 +109,12 @@ window.NEWS = {
         "titulo": "Abrate anuncia R$ 5 milhões para resiliência climática",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmFaa2Z2Z2VYM3NqUTR6VWRvRW9rbFZSajQxNXRPUnd2OHJldkwtaEh0VDh5SXZLY0x6S0FYbDFRV0Zrc2FxX0RhdjlEMFhpdjZRb2VXbE1VeFc1MzZ2cjdlRGhzT2xqenhLSV9fTHdaN1c3V1lxQ0NGME9IUUFKNzdVd3JHUFBsMlMtdw?oc=5",
         "fonte": "Agência iNFRA",
+        "data": "2026-08-20"
+      },
+      {
+        "titulo": "MME vê necessidade 'imediata' de interligação Brasil–Bolívia",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTENGXzFaZnpKeGkwQVNremxzSE5yQllHU0R0QmVSbDg4QmloS1c2WHFyYk9tUmFNRmtNUHZvUW5VX0xIZVd1OElXcEJFNzlLUFVBZ1BpWXREZEVacWFLdXZPeWVOemROczFzRnM3ZVBLY2luYW1uR0FKZDE4ajRMcEJHZVFqQ2VjZE1LcEw5SUV5LXBqWjJXNUt4MDZ4R1hzZkpkOHdfNm93OGM?oc=5",
+        "fonte": "MegaWhat",
         "data": "2026-08-20"
       }
     ],
@@ -254,10 +254,10 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Suzano: Queda no lucro não reflete necessariamente uma piora estrutural",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlNOTFSUUNoYUhsUGZGLTdtamhfdlBKdXJ4WTdwVmVhX0g3aU0tcmdqNElSUlp4c2FEMDFaLXlvX3dUWHhiVFlhWkhMeUN6SGk5UXFFSWVXeFZlZmdMcFJDdURMS0dKY19TSUJNR091cmhNNmo5WjdKV1RBWG54bkpmNlZLT2NGYVVrUXl2RHE3X0tsNWZSelBZX2RUWkkyVElManBobDV5VzlQdngyMU1BUjFSVUhCSk5UX0ctRkRaUQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-15"
+        "titulo": "SUZB3 - Suzano - Resultados, Dividendos, Cotação e Indicadores",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTG1odkhVUVZ2ckhlc1NaMzhPZGlsNlJZS1MxVEJoQlU3Y2tJU2drbHJOQUVTNngyemc4UW90X3FWUXZPd3N6RXpEU0dYWHVlaHc?oc=5",
+        "fonte": "Investidor10",
+        "data": "2026-08-21"
       }
     ],
     "quimica": [],
