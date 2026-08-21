@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T10:33:47+00:00",
+  "atualizadoEm": "2026-08-21T11:29:13+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -206,10 +206,10 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Presidenciáveis miram aumento de investimentos para a infraestrutura",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUpLWmMzT2R5eEphVFFXRTV3blZleURBQ094YlAzTnkwdVZ0ZWZMQnVlNWRsVXFUT0tHSDU1LTVGeHFyNVJQQWgzOHFveGtXY0dnbFFIUnNkdFJNZmQ1b3ZqTDhQOXgyenVJZ3hMYVlPMHFzejhqUVZxel9TZzY4RU9GbHVrUWJiLUFhaFFUY2dlaDlpcmZVMHA1VEVTd0UwMVAzT2NNWjZTMU1IOFJDVC1UQWlOOE0wWlVhQnRGRVB0MUs4?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-08-17"
+        "titulo": "Entenda como o Nordeste pode ganhar uma ferrovia pelo litoral",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX240TnJTRTVGOV9DZjF5aEtkT1k1TmVXNlBaNlJmd2tLcTJ2c2xod0tLOUx3RmxmOUdGNXYtUlR0akFjRDZtRU44NFVEQW1ZWWFrWWN2YXlmY0dGUm9MV2p3RnlaNXRWVkx1VS0xdXd0MlMxYW1tQ0NMVjR1WUtPcHk4WHZuUTR1UDQ4WndCQ3ZHSWhoYXpUTlVZOXBDbkR3Vmh0MWpWMkhHOTlTZ3BDc2p0VkgtX0dRLWc?oc=5",
+        "fonte": "sergipenoticias.com",
+        "data": "2026-08-14"
       }
     ],
     "maquinas": [
