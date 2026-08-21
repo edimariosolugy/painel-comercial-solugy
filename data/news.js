@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T09:39:55+00:00",
+  "atualizadoEm": "2026-08-21T10:33:47+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -118,15 +118,15 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
+        "titulo": "Sarandi terá ampliação da capacidade de transmissão de energia elétrica com novas obras da CPFL",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdm9hOGxkRHBDa3duS1VwbkE3QmN5UTY1ZDdfXzM3TjNGRXZlbEpVRUQ2ZUZGb2FiQXg3Ti1LQWJhbWdWMU9YaTdSZUJzenFvNzFvd0U0azdBV2dLSGNlb3pzN2pwTGI0ZktRMzN4YUxPVF84MlZpcTkxY0FxMUN4cFZzVjR6UmdyWWN4bzFINFdDY3A3amJHRmF5Z0Q0dkc3VWpfOHl1NG9pUG1OdUdMRFFoeFVrQkJrZ3JURU40SUwyVmRNX1ZzUzE5UlRUWDNxYmExb3hVSDB1cEdaUmEydWJIVDBOLVU5MEpualpRUUs?oc=5",
+        "fonte": "Sarandi-Pr",
+        "data": "2026-08-19"
+      },
+      {
         "titulo": "Abrate destina R$ 5 milhões para pesquisas de resiliência climática na transmissão",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTItZ2lXRjFQOFNONmNoS1pTWThZVS01Znl1a2hrbFFMU2VxRGVabzFEa0toMUV1bVMwTGVFZ3dQNHhtdFowYzZSNEpobXNBd2FXQXR2ZTRubkJzenp4Qlp5aDFZQ0ljVUJOU2R6OXZQZjNKUzBvOXFxRUZWLVB3bUtFYnQ5V2tHMkJxMzJaZ2VYM0o0Tno1VnBTSnlRX2xVTU1BRDVnU2lJR1FYNTRHOUxxLXlxa0NhZF8zQg?oc=5",
         "fonte": "Agência eixos",
-        "data": "2026-08-20"
-      },
-      {
-        "titulo": "Abrate anuncia R$ 5 milhões para resiliência climática",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmFaa2Z2Z2VYM3NqUTR6VWRvRW9rbFZSajQxNXRPUnd2OHJldkwtaEh0VDh5SXZLY0x6S0FYbDFRV0Zrc2FxX0RhdjlEMFhpdjZRb2VXbE1VeFc1MzZ2cjdlRGhzT2xqenhLSV9fTHdaN1c3V1lxQ0NGME9IUUFKNzdVd3JHUFBsMlMtdw?oc=5",
-        "fonte": "Agência iNFRA",
         "data": "2026-08-20"
       }
     ],
@@ -194,16 +194,16 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "LOGÍSTICA | VLI vai transportar ferro-gusa até o Espírito Santo",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWRFZHVBbEkyNEVyaVZRdWE0MzZvUUE2Y2M1RXd5U3VCb2tRVS1rZGJXZzhZYzFZU2p6S0FSSXJwbDRmMmNwbGlDTDRMaFRLVXB1TGtLU25GR0lLVUtFRnhXRXkyM08ycGYtQUIzZUhWTVplZ2xDNTFoM2h2ZTVaM1VEcjJXc3EzZE10TFdMdklnYlBpVExmYQ?oc=5",
-        "fonte": "Brasil Mineral",
-        "data": "2026-08-20"
-      },
-      {
         "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
         "fonte": "Alagoas Alerta",
         "data": "2026-08-14"
+      },
+      {
+        "titulo": "LOGÍSTICA | VLI vai transportar ferro-gusa até o Espírito Santo",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWRFZHVBbEkyNEVyaVZRdWE0MzZvUUE2Y2M1RXd5U3VCb2tRVS1rZGJXZzhZYzFZU2p6S0FSSXJwbDRmMmNwbGlDTDRMaFRLVXB1TGtLU25GR0lLVUtFRnhXRXkyM08ycGYtQUIzZUhWTVplZ2xDNTFoM2h2ZTVaM1VEcjJXc3EzZE10TFdMdklnYlBpVExmYQ?oc=5",
+        "fonte": "Brasil Mineral",
+        "data": "2026-08-20"
       },
       {
         "titulo": "Presidenciáveis miram aumento de investimentos para a infraestrutura",
