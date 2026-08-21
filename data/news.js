@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T13:48:45+00:00",
+  "atualizadoEm": "2026-08-21T14:38:25+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -78,12 +78,6 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "Votorantim Cimentos entrega forte crescimento operacional e expansão de dois dígitos em receita e EBITDA no segundo trimestre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOT2NvS1JBRy16QXhJSHRlUUs5bDdKSklmdkN1Z3ZMZlYxTUpneUhWNWtjVU9qNi01MVc2d1VIMVduODFRTHFYemhleVloTnJHdjFFVHk0THVLTjJWbDc5YW1KR0x0Sy1MYUJKQkhrSnBTRm11MWl5OU4zMHhRZnh0c2QxYjNaVV9aekNPRGZsVzd6T0V2MEdpaDJBXzkzcEZ5aGJMem1mZWhUcVFnRFFhWVhWSFVZZG9GbFBmY2hEbTcycU5FS2FJc0xPRDVZSmh2dE1jVVdCeWlNeUVzUklRZlEtU1JMR0pRUkxyNzFCTjNieHhsb1RTSnpNbkZvSjdqTm1EQllRUjRkOUZL?oc=5",
-        "fonte": "folharegionaljornal.com.br",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Incorporadora DEWA e cimenteira Cruz Azul vão investir US$920mi em Hidalgo, México",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXRJUHpWdkV3SU9yMGdZVWZVLUJhOEw1ZDVFQnIyUElzMnBSQng4QXBaVzZpWVFkRkZHTUd3d3Y0cnN4enpSUllqd0FMSDdybTQ3azRmZkRhZUVUMWh5b3lUVFVDN3pQQWhFYThxUV95YmIwVkNCbTVkX29ZX1V5MEdMTkN5OTFrVHJ4STJHdWVEYjVOdllrajdYUFdYQmx6cmJ5QTZZT2pSNFVNbUFtdkdScEdYOTQ2bzhR?oc=5",
         "fonte": "BNamericas",
@@ -118,15 +112,15 @@ window.NEWS = {
         "data": "2026-08-14"
       },
       {
-        "titulo": "Sarandi terá ampliação da capacidade de transmissão de energia elétrica com novas obras da CPFL",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdm9hOGxkRHBDa3duS1VwbkE3QmN5UTY1ZDdfXzM3TjNGRXZlbEpVRUQ2ZUZGb2FiQXg3Ti1LQWJhbWdWMU9YaTdSZUJzenFvNzFvd0U0azdBV2dLSGNlb3pzN2pwTGI0ZktRMzN4YUxPVF84MlZpcTkxY0FxMUN4cFZzVjR6UmdyWWN4bzFINFdDY3A3amJHRmF5Z0Q0dkc3VWpfOHl1NG9pUG1OdUdMRFFoeFVrQkJrZ3JURU40SUwyVmRNX1ZzUzE5UlRUWDNxYmExb3hVSDB1cEdaUmEydWJIVDBOLVU5MEpualpRUUs?oc=5",
-        "fonte": "Sarandi-Pr",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "Abrate destina R$ 5 milhões para pesquisas de resiliência climática na transmissão",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQTItZ2lXRjFQOFNONmNoS1pTWThZVS01Znl1a2hrbFFMU2VxRGVabzFEa0toMUV1bVMwTGVFZ3dQNHhtdFowYzZSNEpobXNBd2FXQXR2ZTRubkJzenp4Qlp5aDFZQ0ljVUJOU2R6OXZQZjNKUzBvOXFxRUZWLVB3bUtFYnQ5V2tHMkJxMzJaZ2VYM0o0Tno1VnBTSnlRX2xVTU1BRDVnU2lJR1FYNTRHOUxxLXlxa0NhZF8zQg?oc=5",
         "fonte": "Agência eixos",
+        "data": "2026-08-20"
+      },
+      {
+        "titulo": "Abrate anuncia R$ 5 milhões para resiliência climática",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmFaa2Z2Z2VYM3NqUTR6VWRvRW9rbFZSajQxNXRPUnd2OHJldkwtaEh0VDh5SXZLY0x6S0FYbDFRV0Zrc2FxX0RhdjlEMFhpdjZRb2VXbE1VeFc1MzZ2cjdlRGhzT2xqenhLSV9fTHdaN1c3V1lxQ0NGME9IUUFKNzdVd3JHUFBsMlMtdw?oc=5",
+        "fonte": "Agência iNFRA",
         "data": "2026-08-20"
       }
     ],
@@ -194,12 +188,6 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "Novo plano de logística prevê R$ 1,2 trilhão em investimentos e pode ampliar integração de Alagoas com o Nordeste",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUHRleFkxbUd4WWN0a1RmcGVRQ1ZQQ3dCaHg4dHJMbGFmYm5OLWxUM2NGZ3F6TVJ2blZZck9jOGdSYnFJT09sdERtcHZhUE9jeElxc2doX0gxYU04LVUtQmtFRHJSWFYtVFJKVUtJdmtlQWJTYlQ3ZUFGZThQdkVEQ0xsUGVEZ0RXSWFnYTMySVdkNF9CQ1RPZGRKVzFtV3k0UDFBV1BORkxKdFdxMmdrNzl4ZzVIZkFUYlNYTW1oaWE5VU5CYjlWZ0R3cFlrZw?oc=5",
-        "fonte": "Alagoas Alerta",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "LOGÍSTICA | VLI vai transportar ferro-gusa até o Espírito Santo",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWRFZHVBbEkyNEVyaVZRdWE0MzZvUUE2Y2M1RXd5U3VCb2tRVS1rZGJXZzhZYzFZU2p6S0FSSXJwbDRmMmNwbGlDTDRMaFRLVXB1TGtLU25GR0lLVUtFRnhXRXkyM08ycGYtQUIzZUhWTVplZ2xDNTFoM2h2ZTVaM1VEcjJXc3EzZE10TFdMdklnYlBpVExmYQ?oc=5",
         "fonte": "Brasil Mineral",
@@ -210,6 +198,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUpLWmMzT2R5eEphVFFXRTV3blZleURBQ094YlAzTnkwdVZ0ZWZMQnVlNWRsVXFUT0tHSDU1LTVGeHFyNVJQQWgzOHFveGtXY0dnbFFIUnNkdFJNZmQ1b3ZqTDhQOXgyenVJZ3hMYVlPMHFzejhqUVZxel9TZzY4RU9GbHVrUWJiLUFhaFFUY2dlaDlpcmZVMHA1VEVTd0UwMVAzT2NNWjZTMU1IOFJDVC1UQWlOOE0wWlVhQnRGRVB0MUs4?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-08-17"
+      },
+      {
+        "titulo": "Com PNL 2050, Transportes tem proposta para investidores de longo prazo",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejlzTGNSdnVMNHhLOXBsQTBMTVFjM011MzlkdWx5bXdoYTBSTnlsRzA0SEhQRVRLRlJmcms3Vjg2LW9tUjN4VG93TFhzZkExTGV6TFVVbDZNS1EtMVdRdnZvZGZMRGhHZjBWeFJSeWFVRUUwQW40M2l2cjgwOTQ1aE5LWG5fWk9TYjVtVUR3Y0szSW9yRUxOcnRKX1FlYkJ4Vkxz?oc=5",
+        "fonte": "Agência iNFRA",
+        "data": "2026-08-20"
       }
     ],
     "maquinas": [
