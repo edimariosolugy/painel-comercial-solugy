@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T16:38:07+00:00",
+  "atualizadoEm": "2026-08-21T17:31:49+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -48,12 +48,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlR6XzB2eE8zcEpiWmNjSHFoM3RqX3NETzQ3eXZpR3NrSGd6TF9lblNEVmVNeWRBb3NjcWtKY0pLSVR2M1hBY21JMzJWYkc2ZHpCMlRpUDVkX29XbGtnVzVXcFI0aUF1Rkt3TUh4V3VILV82WWVreTEzWG9YOXhMb3RZa3pEelBYVEJHM25oWUQtazl1QzVlZWFsVFFtYmNUOFE?oc=5",
         "fonte": "Transporte Moderno",
         "data": "2026-08-18"
-      },
-      {
-        "titulo": "Frasle Mobility Exibe Recorde de EBITDA e Crescimento Sólido",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXBhTU91ZG9GR0RETmh0N1lHNG1obnFJR0hKTG1KNmJqZWl2RGt4TW5wZmZDTXVEYy11Wm5McWxDVHJZNmJwNEFYNlVDR3FZVUsyN2dOMjhKZl9MZWJfS1FBOGU4WG1GbkptMy1EeC1DbUZqQU1NMGY4VF81WndOS0hUMU82M2MzM0MwclFycnZqZzNzeDNEdUV2WUtGZFBDUXlBd3pZNEliZW5ZenJ6RWlLRFdURnduWXp2Qg?oc=5",
-        "fonte": "Portal Hortolândia",
-        "data": "2026-08-14"
       }
     ],
     "bioenergia": [
@@ -126,10 +120,10 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "Fórum Brasil-China reunirá especialistas sobre futuro da energia solar e de armazenamento",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAtTzgwSTRwRDFIbzdpNjRlYjVQR09ITkxvendJWWV2bTBBWDhFYm5mSVF4RG85ZTZjYnJqRDYzSHZfTU9fdVJjNTVxczlrTUtsZGZrZkJsWHVWaGY2LVpaNEFDZHF0eFhpT09kQ1F1Y1A3Y01kZHMtWWgwcHQ?oc=5",
+        "titulo": "Brasil já emitiu mais I-RECs em 2026 do que em todo o ano passado",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE92VTNpZjNSYjk5SWNkMnRvRGdFeW9sT01MZUx2NW1OelV4aXRsVzZpNlo4cWdrRWt6ZE93TmFkS3ZzT3NjN0lBMWNyalJqd3JLdlZZekNVM25jaUVsbUFmVGwwT0VndlZpLUpQaQ?oc=5",
         "fonte": "Canal Solar",
-        "data": "2026-08-14"
+        "data": "2026-08-21"
       },
       {
         "titulo": "Crédito impulsiona instalação energia solar em casas, empresas e propriedades rurais no Espírito Santo",
