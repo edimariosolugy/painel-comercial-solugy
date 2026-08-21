@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T14:38:25+00:00",
+  "atualizadoEm": "2026-08-21T15:36:38+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -48,12 +48,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlR6XzB2eE8zcEpiWmNjSHFoM3RqX3NETzQ3eXZpR3NrSGd6TF9lblNEVmVNeWRBb3NjcWtKY0pLSVR2M1hBY21JMzJWYkc2ZHpCMlRpUDVkX29XbGtnVzVXcFI0aUF1Rkt3TUh4V3VILV82WWVreTEzWG9YOXhMb3RZa3pEelBYVEJHM25oWUQtazl1QzVlZWFsVFFtYmNUOFE?oc=5",
         "fonte": "Transporte Moderno",
         "data": "2026-08-18"
-      },
-      {
-        "titulo": "Frasle Mobility Exibe Recorde de EBITDA e Crescimento Sólido",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcXBhTU91ZG9GR0RETmh0N1lHNG1obnFJR0hKTG1KNmJqZWl2RGt4TW5wZmZDTXVEYy11Wm5McWxDVHJZNmJwNEFYNlVDR3FZVUsyN2dOMjhKZl9MZWJfS1FBOGU4WG1GbkptMy1EeC1DbUZqQU1NMGY4VF81WndOS0hUMU82M2MzM0MwclFycnZqZzNzeDNEdUV2WUtGZFBDUXlBd3pZNEliZW5ZenJ6RWlLRFdURnduWXp2Qg?oc=5",
-        "fonte": "Portal Hortolândia",
-        "data": "2026-08-14"
       }
     ],
     "bioenergia": [
@@ -174,15 +168,15 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-14"
-      },
-      {
         "titulo": "Intenção de investimento da indústria cai em agosto ao pior patamar em 2026, aponta CNI",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMHNvWEJ2OXdDUFRrMTlLTDd2b2M1VUpwYktSaWJUYmw2Y2s3VmJKXzA4ZEEwZHlaVlA4QnpTX3hYNzlIMENvaEhpSE5HZUxzeml6dFlpeFB5LXZlV0l5elIyeE1lQkJNcmVBVk1YRzQ2amVuMzBmMG5yUjBqbVRTbVFVUGp2cHlscTctTmlsa1NkbldMZkplQzBCN3YzSzZxLWYxMHJwOTRRcFJuQkYwUndxTmlFeXlqRlgzeFdRSl94MllrSjNPU0hGZXZfUlNFQlRyU2Jn0gHkAUFVX3lxTE1zQXBNNDJlU25IbnFiZXFlbWpvRkVvLXl5N1VVY3Z0aHFyRmdTMEN1YVlPMXpzMGhPUE90aU81ejZ5RngxU1kxYkVWb2l1eS1fRlpWRHEwaTVyc0dvQlBZYkVLYk9CRGJZSndiLW15ZzkxWHZveENWQTVfbXJUZFV6TDBMNEVfVndMNVo3XzQtOUx6dkJjTHRtU19KOUlpSFRZUUhRUTJlblNDS2NMWXJCT0UxLWFuUVJ3a2xOcmZBcGVvQ21iako5VGcwUlVvT0hHMUxGMHUxcjdMU0pQT25PWmY1Zw?oc=5",
         "fonte": "Valor Econômico",
+        "data": "2026-08-20"
+      },
+      {
+        "titulo": "A indústria está perdendo o interesse em investir, aponta pesquisa da CNI",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSk1NdldOZm1oaXlxMklOSjhiQy1XbnlTNi1UTXpuOGNzRnRSdTR3bFJ6YzBoMXEwMUNCLU1USldHLXVsMExqMGdZWG5IT3Q4RUozc1lGRjJUVW9mX01FYXBEZGVSZ0ptREhaN2M1RXZWZ2RxUlN0Q1ZkR1pGX096b0xLTV9tOGdDcTJhNmRHQkdBd3dBR25KOWVtYlhqUURaNnUwMWNXdnhkNjNy?oc=5",
+        "fonte": "VEJA",
         "data": "2026-08-20"
       }
     ],
@@ -220,10 +214,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Stellantis amplia projeto de digitalização e reduz perdas",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT185VTE1ZzhQcndpTWdqMmdHQ1ZzY09Wekd5X0pMWWQ0UXRIMV8yeHJoM0JyOFk2c2s3V3pOWmZoRVRrNGRKLThBZ0I4eFJMaExZQkJTOG1pUEhFa2hWUUhlbjV0bEhidndUWHpVcUMyZXdWc1ljc3N1TjRMSUxLeVo4M1o2YWd2UjJnczVacm1QNWJKajh3WUJnZXNGMDdzMWQwTFp0djVsRlVjNXFHemJkbw?oc=5",
-        "fonte": "autodata.com.br",
-        "data": "2026-08-21"
+        "titulo": "Robótica e IA mudam a indústria e atraem investidores",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBHV0h3Q1Z4dDZwRWRtbnJfSHVISXo4eGFfWWtTRFdzWG9tNXhwXzk0VlNEdEFxbDllNWFLblp6MGRZdTN6Y18yd3VjYjJZYUVjaTdCNHpYZGJsNVgxeWZqdGdXWTBTalZubXBTTjFNX25zZjNhalBXMUpfbTU?oc=5",
+        "fonte": "Safra",
+        "data": "2026-08-19"
       }
     ],
     "mineracao": [
