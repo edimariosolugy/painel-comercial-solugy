@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T11:29:13+00:00",
+  "atualizadoEm": "2026-08-21T12:53:19+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -78,9 +78,9 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "Plano de investimentos da Votorantim Cimentos de R$ 5 bilhões no Brasil até 2028 segue em execução, com R$ 3,1 bilhões em projetos já anunciados",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNV1VvMW1Xb0JSekNpTlZsRWJxMWhyUzBxM3MtWm0yWG1HYk5ONy1vNk5GU0tPdm9aWEpDYUZmMk5lRGRzUEh0SjZ4ZTJvTm0wRFdsdHE0b0JvcWlPb2dfRVdudFZ6U1lDSzhzYmtTTGpITFRYRUhqSGxQUHhyWV84RkFTVTJyU1RFcVpxSTh4WDdvM01KNFAtT0wtbGs4TDVsOFBpeUtBNDllUGRpbFZ6ZENwX1RZT2Fha195VzktZUFUY2FnR3VyQ3hBQ0Z6bHZ4Ql9pclRmUlJ0cC00cXdmTUhBWjloa05PM01CTl92THJGMnFjRzFZMjFTTWM?oc=5",
-        "fonte": "jornaldaregiao.com",
+        "titulo": "Votorantim Cimentos entrega forte crescimento operacional e expansão de dois dígitos em receita e EBITDA no segundo trimestre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxOT2NvS1JBRy16QXhJSHRlUUs5bDdKSklmdkN1Z3ZMZlYxTUpneUhWNWtjVU9qNi01MVc2d1VIMVduODFRTHFYemhleVloTnJHdjFFVHk0THVLTjJWbDc5YW1KR0x0Sy1MYUJKQkhrSnBTRm11MWl5OU4zMHhRZnh0c2QxYjNaVV9aekNPRGZsVzd6T0V2MEdpaDJBXzkzcEZ5aGJMem1mZWhUcVFnRFFhWVhWSFVZZG9GbFBmY2hEbTcycU5FS2FJc0xPRDVZSmh2dE1jVVdCeWlNeUVzUklRZlEtU1JMR0pRUkxyNzFCTjNieHhsb1RTSnpNbkZvSjdqTm1EQllRUjRkOUZL?oc=5",
+        "fonte": "folharegionaljornal.com.br",
         "data": "2026-08-14"
       },
       {
@@ -104,10 +104,10 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "TikTok investe R$ 111 mi para estruturar logística do TikTok Shop em SP",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQTE5ISVR0b2lQTkdKR2UzOUZmXzl3dlJ1SGhwamZpWFgyYWltTUVab0VwZ0V3MHJ3cEcyNFNVZmQ2eVNjRFFyR1FqWWFkVWlLYWNrcHJLck0xM2hIZ3JDSVNjYnFyLVVIOWJuQzZMZmY0MHRudmNIdWkwZG5lM19hR2xzSQ?oc=5",
-        "fonte": "tmc.com.br",
-        "data": "2026-08-18"
+        "titulo": "Casas Bahia, Marabraz, Mobly e Tok&Stok: por que tantas empresas de varejo estão pedindo recuperação judicial?",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbWZ3VlJuWFRhSXFKbk9HV0Z3YkxzNVZ1aHdCcHo5eVZBdm5nQS0xUGVPZmVhS3lnaktJZHNsUUxab2Nja3c5aXNpM1FWM21wbmttVFlUc0gwejc2UTBNbXVxTHFiUzhmNVZrVm5qeU82RV9yWGUxOXFtUkNJMnBtQ08zOG1MSDAzakJxR1BQYWNsT2hBY0FsQTQycngyTnhvdzRGcXZycEhPV2dhRUVVbHdLOXdFZm1HN3hxbjNqMHZGZlMzS0liZjJsMTI5bUtycEd5UE4yeHBrTWhndjlFNWhreVpudlpTQTl5R3FUblNhZ3owZk55ZS1aYlljS09oMXRPWVlfY9IBlgJBVV95cUxNaTd5cGtJcy1hZUlmcXh6N3l0RXBSUktsNUdLQldUblJrNEFEbTExRkZPX3J2NzgwQlBmZEJlNlZ2T3BZVGltR0ZPYlpIcVVPVWRpRVJZZnREYlBfclFURUtUNTA0ZThScUp0aUFjZ1lXLUd0cVBhZWxWMTNKR2dGdzNKNXhaZGF2QU1wVHhEVHNZYTQ2aWdMSFBDQzZHWnpqc3ZMX2RnOHRwdlVQZXdkSkNjMmtnWVpRdlpzRVh4RW5UVTlnRGlLb0RJLWtrempIdThLMk1zQVpURHZCR2RjRWRtNGNmNDk3dl9wYXZJaXVteHUyQ0g3OWgzbEJyMEhaOW5FTUltbnJpejMwTXJmUW5HZUdUdw?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-17"
       }
     ],
     "energia-gt": [
@@ -144,10 +144,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Elera aponta baterias como próximo grande investimento no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYXZBX1BLM3dXTVF4Z1hYRzllLVlOU09oaFowcFZXVE9wSU4zMmFSUE5MZEJWbU1CWU5aZlMyQ3NUcHhpRmpVVmJ6VnRPakY0dzVmbC1pYzUxZDExdDN2aFZjcnpIby1WcTZvS0E3ckpTeUNSUXdBZ0xqdm55Yk93VEppdlZ6OTVybm5FbDV3OEwzSGNFaERrWEtndmJaMm8?oc=5",
+        "titulo": "Clima pressiona PIB e exige avanço imediato de geração distribuída",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQdXJqazVuVWQ0X1FMSDZzSWlZQml3b205V25pc3RITXY0dVFTZGI4Z3JrMkwyNkFocDk0NlgydUVmX09mcE5NS3lRWTUwbUhqY1I5blhqQkM4dUU5dkNJWGY5VEZXZmFRaDN2dTFra0dkMHhEM3EzZU9OWlJpN2Y3Q29kOGJIaFZmSEpJcHVNbkZyaE5Za1NpMTJHLWs2MjIxMGhWZg?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-08-20"
+        "data": "2026-08-19"
       }
     ],
     "epc": [],
@@ -159,15 +159,15 @@ window.NEWS = {
         "data": "2026-08-17"
       },
       {
-        "titulo": "Interfarma apresenta 10 prioridades para a saúde no próximo governo",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaejNFUGRQcjFwTnNfMEVLOTBfa3lvYzA2VExNNklDRm5tLWFwWFJzVEhPWWNqQ2laREtzMUxVcHo3RktDdnNnYkc5N3ZTV1BpZ2h6dEhfVWtoY0hmYXJ6LURR?oc=5",
-        "fonte": "Medicina S/A",
-        "data": "2026-08-18"
-      },
-      {
         "titulo": "ENSCEIS e o futuro da indústria da saúde",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RvZTNNNExvcm56WnVSYlFTQnR2NUR6REdBbWUtZENGRXRNV0N3dl9GR0duNndLY194RzByYm9PcmRxUWlCR1NvZjRtN21DZUNqM0szVXhER0NPZXRReFdfZ3JrdVp3REg4OGczTEowOTFteHZzUXV5dGdaeVRhbkFtNkVnNDAtTHFCRDdHNVM0T192aWN1M1UxbF9UbHlz?oc=5",
         "fonte": "Panorama Farmacêutico",
+        "data": "2026-08-18"
+      },
+      {
+        "titulo": "Interfarma apresenta 10 prioridades para a saúde no próximo governo",
+        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaejNFUGRQcjFwTnNfMEVLOTBfa3lvYzA2VExNNklDRm5tLWFwWFJzVEhPWWNqQ2laREtzMUxVcHo3RktDdnNnYkc5N3ZTV1BpZ2h6dEhfVWtoY0hmYXJ6LURR?oc=5",
+        "fonte": "Medicina S/A",
         "data": "2026-08-18"
       }
     ],
@@ -206,10 +206,10 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Entenda como o Nordeste pode ganhar uma ferrovia pelo litoral",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOX240TnJTRTVGOV9DZjF5aEtkT1k1TmVXNlBaNlJmd2tLcTJ2c2xod0tLOUx3RmxmOUdGNXYtUlR0akFjRDZtRU44NFVEQW1ZWWFrWWN2YXlmY0dGUm9MV2p3RnlaNXRWVkx1VS0xdXd0MlMxYW1tQ0NMVjR1WUtPcHk4WHZuUTR1UDQ4WndCQ3ZHSWhoYXpUTlVZOXBDbkR3Vmh0MWpWMkhHOTlTZ3BDc2p0VkgtX0dRLWc?oc=5",
-        "fonte": "sergipenoticias.com",
-        "data": "2026-08-14"
+        "titulo": "Presidenciáveis miram aumento de investimentos para a infraestrutura",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSUpLWmMzT2R5eEphVFFXRTV3blZleURBQ094YlAzTnkwdVZ0ZWZMQnVlNWRsVXFUT0tHSDU1LTVGeHFyNVJQQWgzOHFveGtXY0dnbFFIUnNkdFJNZmQ1b3ZqTDhQOXgyenVJZ3hMYVlPMHFzejhqUVZxel9TZzY4RU9GbHVrUWJiLUFhaFFUY2dlaDlpcmZVMHA1VEVTd0UwMVAzT2NNWjZTMU1IOFJDVC1UQWlOOE0wWlVhQnRGRVB0MUs4?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-17"
       }
     ],
     "maquinas": [
@@ -226,10 +226,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Indústria austríaca investirá R$ 68 milhões em fábrica na serra gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQejRVVnJiNWx1NGJzT2pZbW9IYXd6ZGpsZ1ZVUmMwMERCVktFU3k3UVNXZFNpU2huVllSWmFIeGpLdjN0RWZDVHpjaVdkVXNYZlVFN1J6Q3hDZ1pjSUV2ejNpZW1sWkc5UVN4R3diVlE2Q1hKVDFudkJ3YjUxTjd2Ynk3YURDWXBEWkxqTlQtUXhFY1JGSUpuUjhia0RDc19TUEh2NFVFUjJqSE9KZ29zME9yTjRHekZhQnBJUkpWa3ZTR1NCOXN3WGtkMXc3VEJIVjJ2OVhWRlpDZVlzQ042MUR2T25uWXZYTmJWTURnN2tFMERhWkhXcVZoX0daVEVfbEE?oc=5",
-        "fonte": "GZH",
-        "data": "2026-08-14"
+        "titulo": "Stellantis amplia projeto de digitalização e reduz perdas",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT185VTE1ZzhQcndpTWdqMmdHQ1ZzY09Wekd5X0pMWWQ0UXRIMV8yeHJoM0JyOFk2c2s3V3pOWmZoRVRrNGRKLThBZ0I4eFJMaExZQkJTOG1pUEhFa2hWUUhlbjV0bEhidndUWHpVcUMyZXdWc1ljc3N1TjRMSUxLeVo4M1o2YWd2UjJnczVacm1QNWJKajh3WUJnZXNGMDdzMWQwTFp0djVsRlVjNXFHemJkbw?oc=5",
+        "fonte": "autodata.com.br",
+        "data": "2026-08-21"
       }
     ],
     "mineracao": [
