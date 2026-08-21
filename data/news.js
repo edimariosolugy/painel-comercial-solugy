@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-21T22:27:59+00:00",
+  "atualizadoEm": "2026-08-21T23:27:16+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -229,8 +229,8 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Funding é o que fará o Brasil liderar a corrida por minerais estratégicos",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSy1UT3pFUDlSMlJqZ19lalJIYnZIbGlxWlBPa0EyN2xvRmczRzFZWjhHdmpVLW1JOWZKUnNrZl9nXzVGZVJlX1dkUWVUU0syeGEtM251VlpWa1UxcnBRQXR0ZjI2bVRjdFVLUE9idDVKUmY0dG90NE1MSEJPNzlfRmd2N0VhQVR6blJuS1E3dXp4ZUtIZ0pFbkVFVmNZTG93NThXeENCY21sazhsbjZWX1JXbElJZHlJQVRYT3JIM1RkR2JsWXZGWkNtRk8weEtWNkp3UVVuZVZxS2pjcWpTMjlnOV9nbGdRc2fSAfgBQVVfeXFMUGNSdDFyOURpRUJtY25hTVJvMUVzYWd6dE9YS0l6eDhqT2ZwSUM0Um56VWVRTFBYM1BueE8zUUtmUUhYclhNQ0Nsc1ZLZGlTS205ZjhNcjJnd1VzR2Nlb0YxaURRWWpYODV1aktYeWNmZm9xUjBna0VvdXRURmZuZjZvNUxwUklNSGpUSkZHSWZxZlRfOU43dm9Pd3RtWmJGQ3QxWFlEUVpsZGV6RzNxRTdmcnRyRlUwVlBsemE1a042RHpkM2Y2cnBlSE05RjlTcjVJZ3ZaYkVpMFlQYmxzQWt0T1luai1RaEFuQ09xdUVpMGZ3SEJORDY?oc=5",
+        "titulo": "Bate-papo sobre o momento ímpar do Brasil no setor de exploração de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPTTZWaVR2bHpzSER1YWU1UXNwaFdCbkNUY3JCVkRGZDFWS2Y0c2pQZjNTckNEd1lUN2ZWUG9Dakc4V0tXVlA4VTJQbmVmRVpjVHVobk4zWHBVWEJKY25NbE5rcWFJbDZQMk5LNXM0N2VqZEdwT1YzMkdEMXJoM3NFUFlsOVo0T3ktdGhGSFBQRWZQc2J6ZnFPNG9lWWc5MEgtY0NNTFhGQnRBZTJ0SGl3Nk1jdXpPeGltQlNiWldpNEtHbFR3QUlTODJ0emdaajNxT1hlcWxHdWpOZmtTLUd4RHFrUWlRbG4tM0xLcGotTEVmdm9CTjVuX1c5ZGFHa3A4emxoVXZFOXbSAYgCQVVfeXFMT002VmlUdmx6c0hEdWFlNVFzcGhXQm5DVGNyQlZERmQxVktmNHNqUGYzU3JDRHdZVDdmVlBvQ2pHOFdLV1ZQOFUyUG5lZkVaY1R1aG5OM1hwVVhCSmNuTWxOa3FhSWw2UDJOSzVzNDdlamRHcE9WMzJHRDFyaDNzRVBZbDlaNE95LXRoRkhQUEVmUHNiemZxTzRvZVlnOTBILWNDTUxYRkJ0QWUydEhpdzZNY3V6T3hpbUJTYlpXaTRLR2xUd0FJUzgydHpnWmozcU9YZXFsR3VqTmZrUy1HeERxa1FpUWxuLTNMS3BqLUxFZnZvQk41bl9XOWRhR2twOHpsaFV2RTl2?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-19"
       },
