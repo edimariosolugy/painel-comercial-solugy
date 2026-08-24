@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-24T17:33:39+00:00",
+  "atualizadoEm": "2026-08-24T18:43:47+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-08-21"
       },
       {
+        "titulo": "Agri Summit Brazil 2027 reunirá mil startups e 50 fundos de investimento",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFQxbVlrbnVYXzNYaHlZejRvaEcxOXJ4WXZPT1hCQjRRWjhSUUd4eDg0YklYbTk3bldPUmJkV3ZJbVg1Q05sTHhoMFNmc3puWE5NNjFKTWFBUFNubWNnLWZlN2w5ejFCb2J3NjFJX05vZ3ZHeGdiVmFIbW5WdnpWQW1veHZsSnJrcU1LNVB5eXl3MHUwSU5ZZW9QR3EwT2EzYUF2OFl1QmQxb2l1Tk80?oc=5",
+        "fonte": "Canal Rural",
+        "data": "2026-08-24"
+      },
+      {
         "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS2NQcTdCeWxZZ2lzdHBNMkltNWU0ZWk3d3lOQnMwT0lCVEE3Z09WaUZScndlbEU5Ni1FTWZRUV85UTlRbjRrX205Z2lTLWZreFotZF9XZ0lqejQxQ2xkSVhxbzhqeGEyb2tyUW1mNW5iSmpiOF9sdHA3WXhfckV6bW9sQ3ZTM1Y0Qm5kRHRUby1lUHZfWFVEbE9TbnJhQzM1OFF6VEp6SEFYZENLcWxmS0tvckZOd192S1g0YkdpS21rWklWd2pwelFpNEE4a29HNTMzRWhSNUpoZnBma0h4dDIxelQ0cFZCMGFhajJ6eWdZLU5YMWJpTkhCN1dJWDlKekE?oc=5",
         "fonte": "Bora Investir",
         "data": "2026-08-20"
-      },
-      {
-        "titulo": "Badesul vai apresentar linhas e condições de financiamento para o agronegócio, empresas e municípios na 49ª Expointer",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUFpXVWZPYWduLWZyUnR1RmFPdEJSUWZaMVpKZzJOcjM5M2JBTjdqNnFnY3h6ZDVndmlmS1lhd3JBZUtnRURaTVBubFdJVktza1IxQXZzYks1Rm1ZMF9ENzUtUUEtYW4yMjZTMVkzSkt0eVJFR3JsN3hNZjFoVlNRSk9mTndWTkZDaUJwQWZyeC1xMGpVQjc4RTZ0d0RlamlpMVFoRXZYLXRwWVZCTU5VV2tVTVdaUEVqMVk4bzVaVDdBbDA5THVIWnpXdEtfUE9CMndKbUFpeDlLZDFNemdvLQ?oc=5",
-        "fonte": "Expointer",
-        "data": "2026-08-19"
       }
     ],
     "alimentos-bebidas": [
@@ -82,15 +82,15 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVngxMnVLbzIxQWtiVEhvNHU0ZzhYNFdsVVJMNjIwbGZ5MEkwMDRvOC1oYm9Td3hNME5YaVRtMExkLW8tRDFJWTZBS1hnZGtDU1ZqSlhMNnAyTk1jZjB6b0xiTElEVFdfaWdETkFjX2ZwZEQwSS1OUmpNQ3Z4cG1qUDNGd3VobTFnOFVmSnlLUHN0cFdrSXBOd0hmY2VKQ1BHeXNJRnltR2ZUNWM?oc=5",
         "fonte": "Paraíba Business",
         "data": "2026-08-21"
-      },
-      {
-        "titulo": "O lado bom e o lado ruim da indústria de materiais de construção.",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uOGt4MmU5ckdyNHp1Tlc5emtxdERNRkxjTThaTlFDd2MxcFFhQmx3QnVDeUpQX1h6b1BsNTJlak1FYTM3Z1ZhRVdjc3ZqcnBIbll3MGJWLU5nbkp3QnQzX1pyZldOWUxZakZFdFV4VklNOERmcGZV?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-08-24"
       }
     ],
     "comercio": [
+      {
+        "titulo": "Crise do varejo chega aos FIIs de logística. Veja os mais afetados – e os menos",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVzFFVV9ld1VJR2lkR1Vnako4OHlvZXFTQWxTNmg4bEliZ0QwZHRIV1pHSjJGb3NmZHJfSHZwTjlwWExzRkFqbjRpMDZOaE5zWFhrNUROb1J2MEFJa3Rlek5KcmFTS1FxSnhVdG9la2d6clpLdUdLdVNNN1hiUFptLUNXZEp5aGNGdElSOFg2dnVmSy1zaDNkSl9XSS1pOWVOQ3Vpd0NQNXFEdUdoLXRyc3lwSmQwSmND0gG-AUFVX3lxTFBlb200S21IM2NQU0JwcDFYYUJlWEtwaE11SWxwb3BSOGxJWXlNdVoyYWc5YWt0aDBzaWtGV0duQnBQWDJPRzJodERGTVB6cUpUM1Yzd2dvbTNNTmpZeURlRzBkbTJ2OWlhR3prRWc5eExoV3dwX1hmNU5WRzZoTXdheHgybGxYU0dlMmxaWEt2dFdsYWI3OHRBWUVhaVAzOFQxMmIxRGo2NUktSE1ZNDl1TDA4ZkFGSzVFMWh0QUE?oc=5",
+        "fonte": "InvestNews",
+        "data": "2026-08-24"
+      },
       {
         "titulo": "Crise do varejo? Por que algumas gigantes enfrentam dificuldades e outras seguem crescendo",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSGtGOExURGRNVGJOSjRBUkZtSzRCd0R6TEZ0eVBZQ0tWd000cTY5d09zMzFRTHpoY21OelJfcExkSTVheGFTOE5pbFFsYlMycThKM25ETXhKTXJYcGgzaHlGREM1ZkdBdTNpQXEyRjlVc3VIR2ZCZEtlUFMtTk83SnBjelB1RGt4STJwX2QwOHR1MWVBc0U2NXB6R1ctOTlzaFRFeGlJd21kTnZlVThaQ2tPeHljQXBlZklDWkd2VTE0aTROMjdCQkVMNmlkQVhnN1HSAeABQVVfeXFMTWdlTlRMdHJQYmRTZk5TX2Q3M2UtSWVscXdZUzJjTkZMMWt1TzVpZy04Y1hwMlUzbmRiVC1tN2xpdWRMcFJ3VGZvczhxVXdFZDJzZkRTdUdnN1p4dVJ0d0RqZG9ORGl3aWItT0pXUzJyckI5UG03N0Y0WEg5d3E2SUJ3cTdPMnE2VE05UXZaU055QWNtaVhmMVJ2NTVXNE84TmtqUjVOSXVZN2EySURob2xGcEluSnc1MFRPVTBURTR5RVhOOE4xYTRZTHBDWl85YVVjelZ1OFVEdUlCTExtVzg?oc=5",
@@ -102,12 +102,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sQnN6Y3lvc01nQVloSUhRQnU3NzFaUVVDbS12MFQtRndVSk0ybmVYVG8wdGZvbnlfaTBNcWZENjJmeVh4dlE2NGdkM2dSRVdmV1R1d0dR?oc=5",
         "fonte": "instagram.com",
         "data": "2026-08-20"
-      },
-      {
-        "titulo": "Casas Bahia, Marabraz, Mobly e Tok&Stok: por que tantas empresas de varejo estão pedindo recuperação judicial?",
-        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNbWZ3VlJuWFRhSXFKbk9HV0Z3YkxzNVZ1aHdCcHo5eVZBdm5nQS0xUGVPZmVhS3lnaktJZHNsUUxab2Nja3c5aXNpM1FWM21wbmttVFlUc0gwejc2UTBNbXVxTHFiUzhmNVZrVm5qeU82RV9yWGUxOXFtUkNJMnBtQ08zOG1MSDAzakJxR1BQYWNsT2hBY0FsQTQycngyTnhvdzRGcXZycEhPV2dhRUVVbHdLOXdFZm1HN3hxbjNqMHZGZlMzS0liZjJsMTI5bUtycEd5UE4yeHBrTWhndjlFNWhreVpudlpTQTl5R3FUblNhZ3owZk55ZS1aYlljS09oMXRPWVlfY9IBlgJBVV95cUxNaTd5cGtJcy1hZUlmcXh6N3l0RXBSUktsNUdLQldUblJrNEFEbTExRkZPX3J2NzgwQlBmZEJlNlZ2T3BZVGltR0ZPYlpIcVVPVWRpRVJZZnREYlBfclFURUtUNTA0ZThScUp0aUFjZ1lXLUd0cVBhZWxWMTNKR2dGdzNKNXhaZGF2QU1wVHhEVHNZYTQ2aWdMSFBDQzZHWnpqc3ZMX2RnOHRwdlVQZXdkSkNjMmtnWVpRdlpzRVh4RW5UVTlnRGlLb0RJLWtrempIdThLMk1zQVpURHZCR2RjRWRtNGNmNDk3dl9wYXZJaXVteHUyQ0g3OWgzbEJyMEhaOW5FTUltbnJpejMwTXJmUW5HZUdUdw?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-17"
       }
     ],
     "energia-gt": [
