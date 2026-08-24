@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-24T21:32:37+00:00",
+  "atualizadoEm": "2026-08-24T22:29:56+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -104,9 +104,9 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Covabra Supermercados dobra capacidade do Centro de Distribuição em Sumaré (SP)",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkVmVmdhMXFBTFNDUC1mYkREYTRuR1Brd2RpTUE4bXRtZXRRcFc5bXl1TFNtRTFjeklUUllRNmxVU2h3VnE3WWQ5bUNGMHNjSWNwX0xxS3k5QjJnejZQVkRna3U2clNXRzl4UlhST0J4bGdJazB2SW9YS3JWaTV6ZDlCWm0wSFhNZldZRm1sZk91V0ptZFQ5ZDViUWg0VS1pa1poRHVWRDlRc1FvV2RUSkhZeVdZUQ?oc=5",
-        "fonte": "SuperVarejo",
+        "titulo": "FALA, DUQUESA! O que o poder de escolha do consumidor revela sobre a crise da Casas Bahia: colunista Maria Carolina Gontijo discute os motivos que levaram a rede de varejo a pedir recuperação judicial com uma dívida de R$ 17 bilhões. Assista a mais",
+        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sQnN6Y3lvc01nQVloSUhRQnU3NzFaUVVDbS12MFQtRndVSk0ybmVYVG8wdGZvbnlfaTBNcWZENjJmeVh4dlE2NGdkM2dSRVdmV1R1d0dR?oc=5",
+        "fonte": "instagram.com",
         "data": "2026-08-20"
       }
     ],
@@ -150,14 +150,7 @@ window.NEWS = {
         "data": "2026-08-24"
       }
     ],
-    "epc": [
-      {
-        "titulo": "Manchetes do dia: Ascenty busca US$1bi",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2hlNUZnVDBBXzN2dV9QRDcwTE4ta2ZXTWYwck44SUZodHZoVUJ6cXRKVWhXRlAyakswamQ3LUlXMHhtWG9SQkNPLXl6dWNiVUpjcERFbFR0ck5lalpLcm9aUk9pRmhYb2N3OUtWT01XZE1RcWxlb1JRLUpncU1NSA?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-08-24"
-      }
-    ],
+    "epc": [],
     "farma": [
       {
         "titulo": "ENSCEIS e o futuro da indústria da saúde",
@@ -207,15 +200,15 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Transporte de ferro-gusa começa em novo corredor no ES",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TczlsOGFEUDE0M0x5dzBvRU5GWVNZNEFCaGU1OU5JdXhiNDU5RlpQelFySG5VcUlHdE1CUTQ5YjdnSUpZdEZhUU5kaXk3ekJsWmFXdHlFbUFvdzBvcGxtdVlpQVdLekViSmIzWW9jUHE?oc=5",
-        "fonte": "ES Brasil",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "Novas ferrovias e hidrovias reduzem o custo logístico das mineradoras, ampliando a competitividade",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeFU0UnI3a1dsVjhTVEU4VkRPVzJNMGNyMkNCclF2NjVDRldzOExhTW50UnFJLVJTdUUzZTM2aDV1eTd3WTVYTTBkdFpoZG5QQ216LTBPMDdvNU5yckg1RTA1akd3bXRrandZT0o0b3R4b2FqeHNId2NVTXdNYjJabjIzbUhKTUNyRVh5QkJ3M2hqWDZGU3hSQjZNTXZkbmh6OEtwX19TQ2d1bHhFYktUX1dHdkJ5VzN3VTFjU3VBZENTd2NCQUNveGpDRl9mV0Ntb280WEdPZ0dERFJmTVZPNm83QTFiTHJla1RxWTY2a0trVjlsbHNyTS1fUnctclNyRy1jaUpBRExOZ9IBmAJBVV95cUxNUVpNRUVwWWlWV2NlV093SElPUlpBellEOU13eWpkUGZLN3Z6NXBlZ0VNU2xBeS1FUFRZc21TRVVuOW5UTVBuemhKYk5LOHBOYlUwVjVhd203Sld5Wjg1ZlNITnlwT3Uwd3Rxcl9HRnRVUzFhVms0bTJkd0p1MjBEbzJ4dGgtblRSNHFUM0p5T0o3a040bmpyN21mQUZZQXppdnZTU2ZaWFQzTENjY0Z3UTlndnVqS09sUEk1OFVjVU9KT2FfT2g2RTE0ZXRZVDhfS3ZuWndnUkNCN0ROT0VKTnNsZVNfSmVmaGRFRmtwRzdWRkJUaUVUMURhZVNySEo0ajJHdDZ1dkltTmpBRmdyR2V2UjRfblVB?oc=5",
         "fonte": "Valor Econômico",
+        "data": "2026-08-19"
+      },
+      {
+        "titulo": "[COLUNA OPINIÃO] Precisamos desenhar e consolidar a nova logística do Rio Grande do Norte",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazhMejYzVldUcldkMjlwT29mbjZ4WWwxNHh1MTg2SjAwMS1ydmhSWXFNamdzYzJPQUFWNkd6QjgxcG5JcExkaDZvdVl5eUNCVzFPbWhLOXRsbUt4aWdoZlZIbGxnQXNpUjlBNHRTZkxCbW5SMV9BS00tWFZiSG5SZVlLbUduLU56cjE3T1lqWkgycGttZmxIWUtESVIwYjQ5N3RZN0FocFhFODRmWEY0dFU5R2EzLWxZdU5vNDZ6QzdRSzlpSUt4cw?oc=5",
+        "fonte": "Mossoró Hoje",
         "data": "2026-08-19"
       }
     ],
