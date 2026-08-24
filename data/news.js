@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-24T19:32:07+00:00",
+  "atualizadoEm": "2026-08-24T20:33:12+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -187,19 +187,25 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
+        "titulo": "China avança na indústria e exportará 21 vezes mais carros que o Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODV0Y3pWZGVpbnh3RUR5Vjg3R21ySGcwSkVNUGVfR2Ztamtjd19zVllGcktmWDl0b1EyOFR6d19PUHJxZDR5b1d6ZVotZXdoazNMeU9Ka2lFVXdBbFczeTBKZG03dzhGQmswR3JMc0ZOa2hIVXBqVnlJcmZrRmxEcUllS2dQeE91ZjMxZktuLVY5OHBRODdBX01BajAtTHRONnY1akJ2OTBwdWM?oc=5",
+        "fonte": "vermelho.org.br",
+        "data": "2026-08-24"
+      },
+      {
         "titulo": "RFK inaugura fábrica no Paraná com investimento de 400 milhões de reais",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnA1dlRkMTFvVXZXRk1zTG1sTnVyVU9PZTI4QXJyakk3aTNKQmR1T3V6dmwzczVIak5DRHNITTBOZU4xLUpJTE55ODRESElZYnRMcklXbEc1YjM1T29FTV8yT1dwcDF2bWFZSnRRUTNUZy1mM2Yxbk13eUgtdndfV09Eb0c4MTF3a19Nd2VxSEVyZ0pGcUJoOWI3MHRDTEhoQnVjX3k5clZWcGNjSldYbmgtRENTQQ?oc=5",
         "fonte": "Engarrafador Moderno",
         "data": "2026-08-19"
-      },
-      {
-        "titulo": "Um ano após inauguração, fábrica da GWM em Iracemápolis consolida operação industrial e impulsiona crescimento da marca no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQQ05EVXZBMDFvdzhhTkpyV1ZBNGhueW9aQXduRmZGLVk2eEZjQlhQREVRLXJKaG82bHJTUDZNSUNMQkJtX043dmJRejZZcnNDUDB1dTdMQkFEOUxac1Y4WGUtdHN1bV9mbFI4Sll4bm9weUttOEd5dy1QS2xkbTFkVTRmYVJZbTdPaEgzSHhoczRXMkQyY1B6OVZnU2hKVTZocmtsTUtVNW9OcHNZT3UyZW5USEp3OVFFeXBRWFZiYVNXSmg1b3RpbWVCZzBReHlQeTZYSHgxeVZidjFNVFA5ZWZPbk1kRXlRX215N1Z2b00tMUhabnVaWVlEZHdoRzVkVTJIXzJtbWVyMGlaNWJpMw?oc=5",
-        "fonte": "GWM",
-        "data": "2026-08-18"
       }
     ],
     "logistica": [
+      {
+        "titulo": "Com PNL 2050, Transportes tem proposta para investidores de longo prazo",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejlzTGNSdnVMNHhLOXBsQTBMTVFjM011MzlkdWx5bXdoYTBSTnlsRzA0SEhQRVRLRlJmcms3Vjg2LW9tUjN4VG93TFhzZkExTGV6TFVVbDZNS1EtMVdRdnZvZGZMRGhHZjBWeFJSeWFVRUUwQW40M2l2cjgwOTQ1aE5LWG5fWk9TYjVtVUR3Y0szSW9yRUxOcnRKX1FlYkJ4Vkxz?oc=5",
+        "fonte": "Agência iNFRA",
+        "data": "2026-08-20"
+      },
       {
         "titulo": "Novas ferrovias e hidrovias reduzem o custo logístico das mineradoras, ampliando a competitividade",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeFU0UnI3a1dsVjhTVEU4VkRPVzJNMGNyMkNCclF2NjVDRldzOExhTW50UnFJLVJTdUUzZTM2aDV1eTd3WTVYTTBkdFpoZG5QQ216LTBPMDdvNU5yckg1RTA1akd3bXRrandZT0o0b3R4b2FqeHNId2NVTXdNYjJabjIzbUhKTUNyRVh5QkJ3M2hqWDZGU3hSQjZNTXZkbmh6OEtwX19TQ2d1bHhFYktUX1dHdkJ5VzN3VTFjU3VBZENTd2NCQUNveGpDRl9mV0Ntb280WEdPZ0dERFJmTVZPNm83QTFiTHJla1RxWTY2a0trVjlsbHNyTS1fUnctclNyRy1jaUpBRExOZ9IBmAJBVV95cUxNUVpNRUVwWWlWV2NlV093SElPUlpBellEOU13eWpkUGZLN3Z6NXBlZ0VNU2xBeS1FUFRZc21TRVVuOW5UTVBuemhKYk5LOHBOYlUwVjVhd203Sld5Wjg1ZlNITnlwT3Uwd3Rxcl9HRnRVUzFhVms0bTJkd0p1MjBEbzJ4dGgtblRSNHFUM0p5T0o3a040bmpyN21mQUZZQXppdnZTU2ZaWFQzTENjY0Z3UTlndnVqS09sUEk1OFVjVU9KT2FfT2g2RTE0ZXRZVDhfS3ZuWndnUkNCN0ROT0VKTnNsZVNfSmVmaGRFRmtwRzdWRkJUaUVUMURhZVNySEo0ajJHdDZ1dkltTmpBRmdyR2V2UjRfblVB?oc=5",
@@ -211,12 +217,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazhMejYzVldUcldkMjlwT29mbjZ4WWwxNHh1MTg2SjAwMS1ydmhSWXFNamdzYzJPQUFWNkd6QjgxcG5JcExkaDZvdVl5eUNCVzFPbWhLOXRsbUt4aWdoZlZIbGxnQXNpUjlBNHRTZkxCbW5SMV9BS00tWFZiSG5SZVlLbUduLU56cjE3T1lqWkgycGttZmxIWUtESVIwYjQ5N3RZN0FocFhFODRmWEY0dFU5R2EzLWxZdU5vNDZ6QzdRSzlpSUt4cw?oc=5",
         "fonte": "Mossoró Hoje",
         "data": "2026-08-19"
-      },
-      {
-        "titulo": "Com PNL 2050, Transportes tem proposta para investidores de longo prazo",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejlzTGNSdnVMNHhLOXBsQTBMTVFjM011MzlkdWx5bXdoYTBSTnlsRzA0SEhQRVRLRlJmcms3Vjg2LW9tUjN4VG93TFhzZkExTGV6TFVVbDZNS1EtMVdRdnZvZGZMRGhHZjBWeFJSeWFVRUUwQW40M2l2cjgwOTQ1aE5LWG5fWk9TYjVtVUR3Y0szSW9yRUxOcnRKX1FlYkJ4Vkxz?oc=5",
-        "fonte": "Agência iNFRA",
-        "data": "2026-08-20"
       }
     ],
     "maquinas": [
