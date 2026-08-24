@@ -1,19 +1,19 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-24T18:43:47+00:00",
+  "atualizadoEm": "2026-08-24T19:32:07+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "21 de Agosto Dia da Semente: Semente certificada é um investimento estratégico para a soja brasileira",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVXU4cDhsbzVtVWpEVkplVWlRU2M5eDZvLVVYbjRXNm00NjgtcnhFTWJFckxsWFlmTzZLQk5ma1NpVnJObEctRUx5U1lITk1rRjZuVDZLSk92N3NnZ2xseXBpNDJzYUxqU2RmdkRGYThVSTdDTXhCV2s5Q3hkWlZyOFFvY1k4OXJOYlU3Tk1jdExkMEw5Q3dwdC1IaEd1aEdoelJoQ05hS2o4Wnl6bDFnZnE0OTMyLTZFWU9WS1ROcDVsa3E4bHgtY2tiTXlNN0lZRDFFVldYNTdmVVAxc19mSzZuQmNnUWNxN1RZd2NaOGYyVTNuX2NqV2N6Qk05eG_SAYQCQVVfeXFMUHdzQXFmemx0OVZmWEUzbVg5RHZhR0xkNzRvSEVBeGtXdFpSMGU2T1BGNW5kY1VLd1BIeHVuMWxyU044Mnk1SEZ0ZzdaSDRSWTBLRExMdDZzU0RXX3p3clRRdklkdzVjWVFGOXJrZG5OQkNhazllVDIzWHZ2bGl0YkZ3cWtNVnZrbkxTWDJEa1pKOEFSMFVQRm1hNHktOW1qcC1iS0E2RjI3cmZTWmJmWm5TSjhjTWphSV90eUtZQmZSWjI2d1pueFZlVjB5eVlaZkRRckZvZkZRVDMycWppZmpJRnIxcU1HVkJKeHlLazhDRWptcUNlYXBuUXY5SEF5SkhHZ0s?oc=5",
-        "fonte": "Notícias Agrícolas",
-        "data": "2026-08-21"
-      },
       {
         "titulo": "Agri Summit Brazil 2027 reunirá mil startups e 50 fundos de investimento",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFQxbVlrbnVYXzNYaHlZejRvaEcxOXJ4WXZPT1hCQjRRWjhSUUd4eDg0YklYbTk3bldPUmJkV3ZJbVg1Q05sTHhoMFNmc3puWE5NNjFKTWFBUFNubWNnLWZlN2w5ejFCb2J3NjFJX05vZ3ZHeGdiVmFIbW5WdnpWQW1veHZsSnJrcU1LNVB5eXl3MHUwSU5ZZW9QR3EwT2EzYUF2OFl1QmQxb2l1Tk80?oc=5",
         "fonte": "Canal Rural",
         "data": "2026-08-24"
+      },
+      {
+        "titulo": "21 de Agosto Dia da Semente: Semente certificada é um investimento estratégico para a soja brasileira",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVXU4cDhsbzVtVWpEVkplVWlRU2M5eDZvLVVYbjRXNm00NjgtcnhFTWJFckxsWFlmTzZLQk5ma1NpVnJObEctRUx5U1lITk1rRjZuVDZLSk92N3NnZ2xseXBpNDJzYUxqU2RmdkRGYThVSTdDTXhCV2s5Q3hkWlZyOFFvY1k4OXJOYlU3Tk1jdExkMEw5Q3dwdC1IaEd1aEdoelJoQ05hS2o4Wnl6bDFnZnE0OTMyLTZFWU9WS1ROcDVsa3E4bHgtY2tiTXlNN0lZRDFFVldYNTdmVVAxc19mSzZuQmNnUWNxN1RZd2NaOGYyVTNuX2NqV2N6Qk05eG_SAYQCQVVfeXFMUHdzQXFmemx0OVZmWEUzbVg5RHZhR0xkNzRvSEVBeGtXdFpSMGU2T1BGNW5kY1VLd1BIeHVuMWxyU044Mnk1SEZ0ZzdaSDRSWTBLRExMdDZzU0RXX3p3clRRdklkdzVjWVFGOXJrZG5OQkNhazllVDIzWHZ2bGl0YkZ3cWtNVnZrbkxTWDJEa1pKOEFSMFVQRm1hNHktOW1qcC1iS0E2RjI3cmZTWmJmWm5TSjhjTWphSV90eUtZQmZSWjI2d1pueFZlVjB5eVlaZkRRckZvZkZRVDMycWppZmpJRnIxcU1HVkJKeHlLazhDRWptcUNlYXBuUXY5SEF5SkhHZ0s?oc=5",
+        "fonte": "Notícias Agrícolas",
+        "data": "2026-08-21"
       },
       {
         "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
@@ -82,6 +82,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVngxMnVLbzIxQWtiVEhvNHU0ZzhYNFdsVVJMNjIwbGZ5MEkwMDRvOC1oYm9Td3hNME5YaVRtMExkLW8tRDFJWTZBS1hnZGtDU1ZqSlhMNnAyTk1jZjB6b0xiTElEVFdfaWdETkFjX2ZwZEQwSS1OUmpNQ3Z4cG1qUDNGd3VobTFnOFVmSnlLUHN0cFdrSXBOd0hmY2VKQ1BHeXNJRnltR2ZUNWM?oc=5",
         "fonte": "Paraíba Business",
         "data": "2026-08-21"
+      },
+      {
+        "titulo": "O lado bom e o lado ruim da indústria de materiais de construção.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uOGt4MmU5ckdyNHp1Tlc5emtxdERNRkxjTThaTlFDd2MxcFFhQmx3QnVDeUpQX1h6b1BsNTJlak1FYTM3Z1ZhRVdjc3ZqcnBIbll3MGJWLU5nbkp3QnQzX1pyZldOWUxZakZFdFV4VklNOERmcGZV?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-08-24"
       }
     ],
     "comercio": [
@@ -195,12 +201,6 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "Com PNL 2050, Transportes tem proposta para investidores de longo prazo",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejlzTGNSdnVMNHhLOXBsQTBMTVFjM011MzlkdWx5bXdoYTBSTnlsRzA0SEhQRVRLRlJmcms3Vjg2LW9tUjN4VG93TFhzZkExTGV6TFVVbDZNS1EtMVdRdnZvZGZMRGhHZjBWeFJSeWFVRUUwQW40M2l2cjgwOTQ1aE5LWG5fWk9TYjVtVUR3Y0szSW9yRUxOcnRKX1FlYkJ4Vkxz?oc=5",
-        "fonte": "Agência iNFRA",
-        "data": "2026-08-20"
-      },
-      {
         "titulo": "Novas ferrovias e hidrovias reduzem o custo logístico das mineradoras, ampliando a competitividade",
         "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeFU0UnI3a1dsVjhTVEU4VkRPVzJNMGNyMkNCclF2NjVDRldzOExhTW50UnFJLVJTdUUzZTM2aDV1eTd3WTVYTTBkdFpoZG5QQ216LTBPMDdvNU5yckg1RTA1akd3bXRrandZT0o0b3R4b2FqeHNId2NVTXdNYjJabjIzbUhKTUNyRVh5QkJ3M2hqWDZGU3hSQjZNTXZkbmh6OEtwX19TQ2d1bHhFYktUX1dHdkJ5VzN3VTFjU3VBZENTd2NCQUNveGpDRl9mV0Ntb280WEdPZ0dERFJmTVZPNm83QTFiTHJla1RxWTY2a0trVjlsbHNyTS1fUnctclNyRy1jaUpBRExOZ9IBmAJBVV95cUxNUVpNRUVwWWlWV2NlV093SElPUlpBellEOU13eWpkUGZLN3Z6NXBlZ0VNU2xBeS1FUFRZc21TRVVuOW5UTVBuemhKYk5LOHBOYlUwVjVhd203Sld5Wjg1ZlNITnlwT3Uwd3Rxcl9HRnRVUzFhVms0bTJkd0p1MjBEbzJ4dGgtblRSNHFUM0p5T0o3a040bmpyN21mQUZZQXppdnZTU2ZaWFQzTENjY0Z3UTlndnVqS09sUEk1OFVjVU9KT2FfT2g2RTE0ZXRZVDhfS3ZuWndnUkNCN0ROT0VKTnNsZVNfSmVmaGRFRmtwRzdWRkJUaUVUMURhZVNySEo0ajJHdDZ1dkltTmpBRmdyR2V2UjRfblVB?oc=5",
         "fonte": "Valor Econômico",
@@ -211,6 +211,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazhMejYzVldUcldkMjlwT29mbjZ4WWwxNHh1MTg2SjAwMS1ydmhSWXFNamdzYzJPQUFWNkd6QjgxcG5JcExkaDZvdVl5eUNCVzFPbWhLOXRsbUt4aWdoZlZIbGxnQXNpUjlBNHRTZkxCbW5SMV9BS00tWFZiSG5SZVlLbUduLU56cjE3T1lqWkgycGttZmxIWUtESVIwYjQ5N3RZN0FocFhFODRmWEY0dFU5R2EzLWxZdU5vNDZ6QzdRSzlpSUt4cw?oc=5",
         "fonte": "Mossoró Hoje",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "Com PNL 2050, Transportes tem proposta para investidores de longo prazo",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejlzTGNSdnVMNHhLOXBsQTBMTVFjM011MzlkdWx5bXdoYTBSTnlsRzA0SEhQRVRLRlJmcms3Vjg2LW9tUjN4VG93TFhzZkExTGV6TFVVbDZNS1EtMVdRdnZvZGZMRGhHZjBWeFJSeWFVRUUwQW40M2l2cjgwOTQ1aE5LWG5fWk9TYjVtVUR3Y0szSW9yRUxOcnRKX1FlYkJ4Vkxz?oc=5",
+        "fonte": "Agência iNFRA",
+        "data": "2026-08-20"
       }
     ],
     "maquinas": [
