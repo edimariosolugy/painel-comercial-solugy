@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-24T16:40:52+00:00",
+  "atualizadoEm": "2026-08-24T17:33:39+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,6 +24,12 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
+        "titulo": "Investimento em tecnologia e sustentabilidade impulsiona indústria de alimentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPOU1DeGNlQldtSDNrMXFlZHVRd1FBeGZRcE4tS0VHYXZIX19TRlVFYUFNUmlxX2ExWUR0M0RNLVVCWlN3YzZULTRLRlJpUHRjZFhBSERNYWt4RGRfZ0RZMlhoSVE0cHNWRDlYQnR3Tml2cFpzWmN3VnFpNGEzSjUwSWRiWWU2bjZ1UGk1NXFYcXgzMVZqOFNTVFpRNk1NV2MwRGpfTjF4ejJXZm5wN0pLZVRrQjZIWFZtRFhtRw?oc=5",
+        "fonte": "Brasil Inovador",
+        "data": "2026-08-20"
+      },
+      {
         "titulo": "Panorama dos setores de Agro, Alimentos e Bebidas - Agosto 26",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZjlZWVBScndmSVNaRFMwRE1uRUZpSVNDVDl4Y1FsUm5sVzJFQlU2X0NYeUUyZzl1cUE2czg4d3ZPTlQ2NFBhVkNldVFfb2NuY1dOaThaOWM1RjV1bmVEaEF2TVNwSVRlMVVwZTdNUERTU2pNMEU0ZHRoYzgtTHdBZWhiRHhQMXU4TzBrV2FFYnVkOVdnRHp0MGlFZkxxLUZ4?oc=5",
         "fonte": "InvesTalk",
@@ -33,12 +39,6 @@ window.NEWS = {
         "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUNaUFFFbGtVOXJjMDdnOV9iRzl4T2F5c3MwSGpTQ1VtY0dzanlvYWpaYzRJd2haQmZOS1hQck1jX1ZNM09lWm5HTWNMb2tjSmRZU3dWY2ZPeVl5aGMxVi1sZGl1N0RXXzVrZnpmZHVuR0tNUXlVYVFBN2h5eVIxX1RhRkFSa19VX0wtejZHUUxqaWVpZEthVGxybGtROWd0N2ZhMTBZNXI3WUhYdWVZNklUdUtrSFBRVEh1YzBaWENxUlhzUFFKeTB3SGJ1empGMzZsN3pEcXVPc3c5WGVCdjZpbw?oc=5",
         "fonte": "UOL Notícias",
-        "data": "2026-08-18"
-      },
-      {
-        "titulo": "A Polpanorte chega ao segundo semestre de 2026 com conquistas e estratégias voltadas à expansão geográfica, aceleração de inovações e fortalecimento da parceria com o varejo. Tudo isso acompanhado pela chegada do executivo Nelson Marin à direto",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44RFhBYjBBUnpzLVBLTkE0RHFBVFl0OVFoc1FXbldkcDY4T2RiWEpyR0t1d0JweWQtY005QWpnSXlJc0JFUEFVS1hYTEFWd2JnYnc?oc=5",
-        "fonte": "instagram.com",
         "data": "2026-08-18"
       }
     ],
@@ -82,6 +82,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVngxMnVLbzIxQWtiVEhvNHU0ZzhYNFdsVVJMNjIwbGZ5MEkwMDRvOC1oYm9Td3hNME5YaVRtMExkLW8tRDFJWTZBS1hnZGtDU1ZqSlhMNnAyTk1jZjB6b0xiTElEVFdfaWdETkFjX2ZwZEQwSS1OUmpNQ3Z4cG1qUDNGd3VobTFnOFVmSnlLUHN0cFdrSXBOd0hmY2VKQ1BHeXNJRnltR2ZUNWM?oc=5",
         "fonte": "Paraíba Business",
         "data": "2026-08-21"
+      },
+      {
+        "titulo": "O lado bom e o lado ruim da indústria de materiais de construção.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uOGt4MmU5ckdyNHp1Tlc5emtxdERNRkxjTThaTlFDd2MxcFFhQmx3QnVDeUpQX1h6b1BsNTJlak1FYTM3Z1ZhRVdjc3ZqcnBIbll3MGJWLU5nbkp3QnQzX1pyZldOWUxZakZFdFV4VklNOERmcGZV?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-08-24"
       }
     ],
     "comercio": [
@@ -145,12 +151,6 @@ window.NEWS = {
       }
     ],
     "epc": [
-      {
-        "titulo": "Mercado de PPPs escolares cresce no Brasil, com Joinville mirando contrato de R$4 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOFh4VXF3SkhTaFMwUk1WOHQ5RDFBTngxR0lNS01MSWhwREhOM0JqcElvSkV5RFUzaG05eFEwUVFlcXVDQ2ZPb3Bsc3BHbnBGMk5lVi13UVJad1Vzc0Q2QzRXX1c3TTZ3aVVibFRCM2tWV0hpVUxHRkNWdnFxbmN2NkpBUTQ5MnE3dWVtVGpabXBINnBLUmxkZ1lUc1hOZFE0Q2pwekc2YVQtSVRpSThKeFJCbnd2SzhFOElXeGhXZnBpQ3Zm?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-08-24"
-      },
       {
         "titulo": "Manchetes do dia: Ascenty busca US$1bi",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb2hlNUZnVDBBXzN2dV9QRDcwTE4ta2ZXTWYwck44SUZodHZoVUJ6cXRKVWhXRlAyakswamQ3LUlXMHhtWG9SQkNPLXl6dWNiVUpjcERFbFR0ck5lalpLcm9aUk9pRmhYb2N3OUtWT01XZE1RcWxlb1JRLUpncU1NSA?oc=5",
