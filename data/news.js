@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-24T23:25:05+00:00",
+  "atualizadoEm": "2026-08-25T09:38:22+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -72,16 +72,16 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "Incorporadora DEWA e cimenteira Cruz Azul vão investir US$920mi em Hidalgo, México",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXRJUHpWdkV3SU9yMGdZVWZVLUJhOEw1ZDVFQnIyUElzMnBSQng4QXBaVzZpWVFkRkZHTUd3d3Y0cnN4enpSUllqd0FMSDdybTQ3azRmZkRhZUVUMWh5b3lUVFVDN3pQQWhFYThxUV95YmIwVkNCbTVkX29ZX1V5MEdMTkN5OTFrVHJ4STJHdWVEYjVOdllrajdYUFdYQmx6cmJ5QTZZT2pSNFVNbUFtdkdScEdYOTQ2bzhR?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-08-20"
-      },
-      {
         "titulo": "Vendas de imóveis sobem 16% na Paraíba enquanto China vive crise imobiliária",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVngxMnVLbzIxQWtiVEhvNHU0ZzhYNFdsVVJMNjIwbGZ5MEkwMDRvOC1oYm9Td3hNME5YaVRtMExkLW8tRDFJWTZBS1hnZGtDU1ZqSlhMNnAyTk1jZjB6b0xiTElEVFdfaWdETkFjX2ZwZEQwSS1OUmpNQ3Z4cG1qUDNGd3VobTFnOFVmSnlLUHN0cFdrSXBOd0hmY2VKQ1BHeXNJRnltR2ZUNWM?oc=5",
         "fonte": "Paraíba Business",
         "data": "2026-08-21"
+      },
+      {
+        "titulo": "O lado bom e o lado ruim da indústria de materiais de construção.",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uOGt4MmU5ckdyNHp1Tlc5emtxdERNRkxjTThaTlFDd2MxcFFhQmx3QnVDeUpQX1h6b1BsNTJlak1FYTM3Z1ZhRVdjc3ZqcnBIbll3MGJWLU5nbkp3QnQzX1pyZldOWUxZakZFdFV4VklNOERmcGZV?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-08-24"
       }
     ],
     "comercio": [
@@ -98,19 +98,13 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "FALA, DUQUESA! O que o poder de escolha do consumidor revela sobre a crise da Casas Bahia: colunista Maria Carolina Gontijo discute os motivos que levaram a rede de varejo a pedir recuperação judicial com uma dívida de R$ 17 bilhões. Assista a mais",
-        "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1sQnN6Y3lvc01nQVloSUhRQnU3NzFaUVVDbS12MFQtRndVSk0ybmVYVG8wdGZvbnlfaTBNcWZENjJmeVh4dlE2NGdkM2dSRVdmV1R1d0dR?oc=5",
-        "fonte": "instagram.com",
+        "titulo": "Covabra Supermercados dobra capacidade do Centro de Distribuição em Sumaré (SP)",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkVmVmdhMXFBTFNDUC1mYkREYTRuR1Brd2RpTUE4bXRtZXRRcFc5bXl1TFNtRTFjeklUUllRNmxVU2h3VnE3WWQ5bUNGMHNjSWNwX0xxS3k5QjJnejZQVkRna3U2clNXRzl4UlhST0J4bGdJazB2SW9YS3JWaTV6ZDlCWm0wSFhNZldZRm1sZk91V0ptZFQ5ZDViUWg0VS1pa1poRHVWRDlRc1FvV2RUSkhZeVdZUQ?oc=5",
+        "fonte": "SuperVarejo",
         "data": "2026-08-20"
       }
     ],
     "energia-gt": [
-      {
-        "titulo": "Sarandi terá ampliação da capacidade de transmissão de energia elétrica com novas obras da CPFL",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdm9hOGxkRHBDa3duS1VwbkE3QmN5UTY1ZDdfXzM3TjNGRXZlbEpVRUQ2ZUZGb2FiQXg3Ti1LQWJhbWdWMU9YaTdSZUJzenFvNzFvd0U0azdBV2dLSGNlb3pzN2pwTGI0ZktRMzN4YUxPVF84MlZpcTkxY0FxMUN4cFZzVjR6UmdyWWN4bzFINFdDY3A3amJHRmF5Z0Q0dkc3VWpfOHl1NG9pUG1OdUdMRFFoeFVrQkJrZ3JURU40SUwyVmRNX1ZzUzE5UlRUWDNxYmExb3hVSDB1cEdaUmEydWJIVDBOLVU5MEpualpRUUs?oc=5",
-        "fonte": "Sarandi-Pr",
-        "data": "2026-08-19"
-      },
       {
         "titulo": "Carga acima de 4 GW para hidrogênio no Nordeste demanda investimentos em geração, afirma EPE",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0syUUY2QU5CdWoxSWdGSE1FMHZ4T2h4bUgwUndqNzVQNFNMX20wczJuZDNZU0RsMnVFY25mYzBoRkNsbjFCemlqU0ViN0hweEJDcW9pei1mdlNKTklZWUV5ek5MRUxfekZCNmpFcjJ3eFRFVlRwYkgtbVdnX2t0dnNqclFKODFlZm5VU2w4X1Z2dGxBVmJYMG1Wby00Nkl5elQ3U3JrOFpweUUyVW1pbV91UGhPalJjdHVJREQ3VGRIUmtrdVNwRmVxNzVRZw?oc=5",
@@ -122,6 +116,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmsxQTZMVzhBRWpqSTZSWHBhYzBxcVpXR0xrS1ZtWEI1ZEF1bHhCMXgxY0ZKeGdnaDZ0bnNFRnM2a3hFMjRqcGFyX3hzZUk3QW5TWVFEUlpydkY2X2NWY3RKSDRSWF9jZV9PQVVfaTlIa0lvWG1JNk1FZ1N4ejA4cmNnVjY?oc=5",
         "fonte": "Canal Solar",
         "data": "2026-08-21"
+      },
+      {
+        "titulo": "Abrate anuncia R$ 5 milhões para resiliência climática",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmFaa2Z2Z2VYM3NqUTR6VWRvRW9rbFZSajQxNXRPUnd2OHJldkwtaEh0VDh5SXZLY0x6S0FYbDFRV0Zrc2FxX0RhdjlEMFhpdjZRb2VXbE1VeFc1MzZ2cjdlRGhzT2xqenhLSV9fTHdaN1c3V1lxQ0NGME9IUUFKNzdVd3JHUFBsMlMtdw?oc=5",
+        "fonte": "Agência iNFRA",
+        "data": "2026-08-20"
       }
     ],
     "solar": [
@@ -147,12 +147,6 @@ window.NEWS = {
     "epc": [],
     "farma": [
       {
-        "titulo": "ENSCEIS e o futuro da indústria da saúde",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxON1RvZTNNNExvcm56WnVSYlFTQnR2NUR6REdBbWUtZENGRXRNV0N3dl9GR0duNndLY194RzByYm9PcmRxUWlCR1NvZjRtN21DZUNqM0szVXhER0NPZXRReFdfZ3JrdVp3REg4OGczTEowOTFteHZzUXV5dGdaeVRhbkFtNkVnNDAtTHFCRDdHNVM0T192aWN1M1UxbF9UbHlz?oc=5",
-        "fonte": "Panorama Farmacêutico",
-        "data": "2026-08-18"
-      },
-      {
         "titulo": "Alckmin defende aumento de exportação de medicamentos produzidos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkRRNUhUeE5qQUszZHFhTlVCT1RtaTJtaGZoc0V3bld5cS1lTUtaYU5DRlhVQWVOWDAtemliVGhETE5CUDFKdXJSb0RJSlg5aE9lOHZXSVg2QXUwU2x5NWdYdUJwWG5vSHRsY3J3dlJjdlFkejluS19rWndZSDNMaTJ2OWhLN0laQXFzNjdMQkR4ZUREUW5FbDY0SU5OaVViQTlhQ0MzNzZfQlMyVkZCOUhQcWJvWUl2MExuaHlmbw?oc=5",
         "fonte": "blogs.correiobraziliense.com.br",
@@ -163,6 +157,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT2R5WEZad1dyUExrT3dGcXJhQ2JmblRBVmVkYnllVGNCRTdXNmptWWVucjczc2I3YmlYUXo0aE5NOEJkSEoyWTNJSWVuRm5kVjctV3lMSmlzUGx2empzaDhoZEdiTVFWOXpubWtuU2JDTmxIZTlkc0diZFVMbUJRdGRRNXpHME52Z1piUUY4clBXUDFrSkg0bzEzTXBiVkpER3MzRXlNdVdDQWdnX0JQMkZ3NnRtSllSX2d6UHBGNWNlb0pYNjJteTloUTUwcFdGQlF2bE5nbXB5bVU?oc=5",
         "fonte": "Folha de S.Paulo",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "Governo quer elevar para 70% produção nacional de medicamentos até 2033, diz Alckmin no Fórum Saúde, de Esfera Brasil e EMS",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZktZSWtkYzR3bTRCbnQyZWhQVzk3c1ZnTWs2bTd0R1NUWmpOc2thS0tsbWtfdkJIQzlyb1RiLVNtM3NwRjRKaHpueGcyY3NGMVE3bHRwTkFBOVg2ZUtEeWJiVFEwdnh0U2lIa055Y1dySkRFR050NnlEekZqX1VUVTh4Y1pLWWFRaFBWaldEbG9jem11ZmgxRkRpYTF2ZlN4T3d2VWxQanpSUkdrdG9MVjdjVjM1RTdlMVZqTW9iWUNnblJKcnN3Sm8wYTNXLVhWeGczVmhjUW13Z3liR0FzZ1dPVGRwZ0ZRZkZUSHplWkJkREZYbjRF?oc=5",
+        "fonte": "Saúde Digital News",
+        "data": "2026-08-21"
       }
     ],
     "fertilizantes": [],
@@ -174,16 +174,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
+        "titulo": "Nestlé avança com corte de 16 mil vagas e fecha fábricas na Europa; Brasil mantém investimentos",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1FRMFViT0RKTjMtdDNZVDA5RVgzdWFqTERWZG1RamF0OVNXaXdhcVlqUGlhLV9XUExqV0tJbklTUDN4RzhoWUFZUFp0bWVxaFl6d28xV1ZBTWdKWmVaZUkwMWJmSTRuYzNtdmNvWEFXSVJ0R2M1d3I5TXYyTGpoOVpPZ3RfWndKbnMzRnJaOFlZMTlpb2hEVEtrcGQ2bGJxQ1cwdkp1ODhmVGJCR1BNUDlrOVRKc1dYYXVhNmtYRWczbzJSLTFaeWREQQ?oc=5",
+        "fonte": "Gazeta do Paraná",
+        "data": "2026-08-20"
+      },
+      {
         "titulo": "China avança na indústria e exportará 21 vezes mais carros que o Brasil",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODV0Y3pWZGVpbnh3RUR5Vjg3R21ySGcwSkVNUGVfR2Ztamtjd19zVllGcktmWDl0b1EyOFR6d19PUHJxZDR5b1d6ZVotZXdoazNMeU9Ka2lFVXdBbFczeTBKZG03dzhGQmswR3JMc0ZOa2hIVXBqVnlJcmZrRmxEcUllS2dQeE91ZjMxZktuLVY5OHBRODdBX01BajAtTHRONnY1akJ2OTBwdWM?oc=5",
         "fonte": "vermelho.org.br",
         "data": "2026-08-24"
-      },
-      {
-        "titulo": "RFK inaugura fábrica no Paraná com investimento de 400 milhões de reais",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnA1dlRkMTFvVXZXRk1zTG1sTnVyVU9PZTI4QXJyakk3aTNKQmR1T3V6dmwzczVIak5DRHNITTBOZU4xLUpJTE55ODRESElZYnRMcklXbEc1YjM1T29FTV8yT1dwcDF2bWFZSnRRUTNUZy1mM2Yxbk13eUgtdndfV09Eb0c4MTF3a19Nd2VxSEVyZ0pGcUJoOWI3MHRDTEhoQnVjX3k5clZWcGNjSldYbmgtRENTQQ?oc=5",
-        "fonte": "Engarrafador Moderno",
-        "data": "2026-08-19"
       }
     ],
     "logistica": [
@@ -254,16 +254,16 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
+        "titulo": "SUZB3 - Suzano - Resultados, Dividendos, Cotação e Indicadores",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTG1odkhVUVZ2ckhlc1NaMzhPZGlsNlJZS1MxVEJoQlU3Y2tJU2drbHJOQUVTNngyemc4UW90X3FWUXZPd3N6RXpEU0dYWHVlaHc?oc=5",
+        "fonte": "Investidor10",
+        "data": "2026-08-25"
+      },
+      {
         "titulo": "ANEEL deve votar pedido de perícia sobre caducidade da Enel SP na terça | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
         "fonte": "XP Investimentos",
         "data": "2026-08-21"
-      },
-      {
-        "titulo": "A maior fábrica de celulose em linha única do mundo fica no Brasil, custou R$ 22,2 bilhões e produz mais de 2,5 milhões de toneladas por ano",
-        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWtMbkJKZUNoR0lFU3FxdGNkYmVyVHRka242UGNlamctQmppSkxiVXZNejVGWHVfa3dQSlpSTDFXeEV5bXI1YVhTZTB6aXhsdjdRTngyUy1MWDVlLXRjNjBsaTZKc3hwUURtbG80RWtabkN5X3JySkRSMG9pVHFPRUxJUWJoR25WQXpMTHpmbWJGS0VpekltdXNBNzM5SGRmam9TVzFETDczVUpPVENkZWd0Wng1NXZwTkZpbUxlVU9jZ1BGYlJpM0hxM1hXWFBOVGFHRGtJZWtCSHdfRVRscTFKbUdjdFg5aEJPck83TVUxMnhfYnBYN1Y0T1kyV2dCdHVraF9rTDRFeTc2UEpwRG8zcGhqZ3hranF1NXZvYm5XWWJfdWEyMkZQZTdnQUdv?oc=5",
-        "fonte": "Diario de Pernambuco",
-        "data": "2026-08-23"
       }
     ],
     "quimica": [
