@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T13:52:58+00:00",
+  "atualizadoEm": "2026-08-25T14:49:19+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,9 +36,9 @@ window.NEWS = {
         "data": "2026-08-21"
       },
       {
-        "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORUNaUFFFbGtVOXJjMDdnOV9iRzl4T2F5c3MwSGpTQ1VtY0dzanlvYWpaYzRJd2haQmZOS1hQck1jX1ZNM09lWm5HTWNMb2tjSmRZU3dWY2ZPeVl5aGMxVi1sZGl1N0RXXzVrZnpmZHVuR0tNUXlVYVFBN2h5eVIxX1RhRkFSa19VX0wtejZHUUxqaWVpZEthVGxybGtROWd0N2ZhMTBZNXI3WUhYdWVZNklUdUtrSFBRVEh1YzBaWENxUlhzUFFKeTB3SGJ1empGMzZsN3pEcXVPc3c5WGVCdjZpbw?oc=5",
-        "fonte": "UOL Notícias",
+        "titulo": "MBRF (MBRF3) amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBISXhOeTNJRFpIVUo2SHA5ZDZ0dC1ZUHZsREcwM1VzaWVmeGxMYUJ4bGlYaTZ1NEZmQndFeXlCbXFYVjYtOWJFUWJVOG0tMzNmODF0MmxkbzlpUTRIQklDTWZuY0pKRzBuc1BzLURHWHRySlBxR2RwZ3J0WTVsb25tdjByVElNTm81MlBLVm9sRF9EdFFaV3JfLVNGVFhpYnhkOHdGZnU5RzNKVDBubm0zUS1LUE0?oc=5",
+        "fonte": "Money Times",
         "data": "2026-08-18"
       }
     ],
@@ -144,10 +144,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Energia solar: um aliado na descarbonização",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGdjMXI0UFlSTFB4ek9NMEVvdk5fY0wwUUhNcmxIaVRZMnkxQ3RyUFZXek1Zel9LU0Z3S1hiZ3RBUUo4SWs5d2lrZU5WODdEcmJjVVk2eTZjNnZGQ2tKaDRVRnR4RTBJWUx6eVJNNDNfTkVCeHRScXVvWXlPQ01pQTBPYXBnWnJZcmliTTF6eEdGS0HSAZMBQVVfeXFMTlBnYzFyNFBZUkxQeHpPTTBFb3ZOX2NMMFFITXJsSGlUWTJ5MUN0clBWV3pNWXpfS1NGd0tYYmd0QVFKOElrOXdpa2VOVjg3RHJiY1VZNnk2YzZ2RkNrSmg0VUZ0eEUwSVlMenlSTTQzX05FQnh0UnF1b1l5T0NNaUEwT2FwZ1pyWXJpYk0xenhHRktB?oc=5",
-        "fonte": "Folha PE",
-        "data": "2026-08-24"
+        "titulo": "Aeroporto de Natal conquista autossuficiência com usina solar",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZ4WWlFVFVWSUptVEIwbGNDV1puSGVhTVlsRHFwZEtCWksxaklCajVQeGtmb0lnTnMzNi1IOWp1YlRHZG9tVlYxMDgwb09PZVZkbGlpNE83cmNEaHJKWHZjdDhyX2EyUmJOaDVrTlZjdlR6ekMwNmRWLW5waENZR1ZzNVNIM3pIZXBxX3JidjMzSUQwVXpwaXp1aUgya21tSnFxRkpfRVQ2N0NqWW0yUmhCVlRmWUYyVVctZFdsTnRNTWRHX1ZieEMzU0phdFJq?oc=5",
+        "fonte": "CanalEnergia",
+        "data": "2026-08-25"
       }
     ],
     "epc": [],
@@ -186,10 +186,10 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
-        "titulo": "Nestlé avança com corte de 16 mil vagas e fecha fábricas na Europa; Brasil mantém investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1FRMFViT0RKTjMtdDNZVDA5RVgzdWFqTERWZG1RamF0OVNXaXdhcVlqUGlhLV9XUExqV0tJbklTUDN4RzhoWUFZUFp0bWVxaFl6d28xV1ZBTWdKWmVaZUkwMWJmSTRuYzNtdmNvWEFXSVJ0R2M1d3I5TXYyTGpoOVpPZ3RfWndKbnMzRnJaOFlZMTlpb2hEVEtrcGQ2bGJxQ1cwdkp1ODhmVGJCR1BNUDlrOVRKc1dYYXVhNmtYRWczbzJSLTFaeWREQQ?oc=5",
-        "fonte": "Gazeta do Paraná",
-        "data": "2026-08-20"
+        "titulo": "RFK inaugura fábrica no Paraná com investimento de 400 milhões de reais",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnA1dlRkMTFvVXZXRk1zTG1sTnVyVU9PZTI4QXJyakk3aTNKQmR1T3V6dmwzczVIak5DRHNITTBOZU4xLUpJTE55ODRESElZYnRMcklXbEc1YjM1T29FTV8yT1dwcDF2bWFZSnRRUTNUZy1mM2Yxbk13eUgtdndfV09Eb0c4MTF3a19Nd2VxSEVyZ0pGcUJoOWI3MHRDTEhoQnVjX3k5clZWcGNjSldYbmgtRENTQQ?oc=5",
+        "fonte": "Engarrafador Moderno",
+        "data": "2026-08-19"
       }
     ],
     "logistica": [
@@ -268,7 +268,7 @@ window.NEWS = {
       {
         "titulo": "A maior fábrica de celulose em linha única do mundo fica no Brasil, custou R$ 22,2 bilhões e produz mais de 2,5 milhões de toneladas por ano",
         "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWtMbkJKZUNoR0lFU3FxdGNkYmVyVHRka242UGNlamctQmppSkxiVXZNejVGWHVfa3dQSlpSTDFXeEV5bXI1YVhTZTB6aXhsdjdRTngyUy1MWDVlLXRjNjBsaTZKc3hwUURtbG80RWtabkN5X3JySkRSMG9pVHFPRUxJUWJoR25WQXpMTHpmbWJGS0VpekltdXNBNzM5SGRmam9TVzFETDczVUpPVENkZWd0Wng1NXZwTkZpbUxlVU9jZ1BGYlJpM0hxM1hXWFBOVGFHRGtJZWtCSHdfRVRscTFKbUdjdFg5aEJPck83TVUxMnhfYnBYN1Y0T1kyV2dCdHVraF9rTDRFeTc2UEpwRG8zcGhqZ3hranF1NXZvYm5XWWJfdWEyMkZQZTdnQUdv?oc=5",
-        "fonte": "Diario de Pernambuco",
+        "fonte": "diariodepernambuco.com.br",
         "data": "2026-08-23"
       }
     ],
@@ -281,12 +281,6 @@ window.NEWS = {
       }
     ],
     "saneamento": [
-      {
-        "titulo": "BNDES apresenta concessão de saneamento de RO, com R$ 4 bi de investimento",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMGJGYlZhRmpfLTBvSFBvMUY5X19TZGhka1hSRWxfSjNvb0J6djJwYlkzS2tid1N4bktUd1o4LXdXaXNIZ2w4VG5jOTZaaW5mU1pFdUc1U2QzT1JvaENpd2JqY2VEbGZ0T2w1alpTYnJIaGctbjRwR2xMSW9EcEkwXzAwNzRXN0VDRThFWHBSWWxhOWNIbHJ0VWdtSThDQTAwYlZIa2Z3?oc=5",
-        "fonte": "Agência iNFRA",
-        "data": "2026-08-18"
-      },
       {
         "titulo": "Concessão do saneamento de Rondônia prevê R$ 4,2 bilhões em investimentos e atendimento a 40 municípios",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzRjQTcwQUhYTVNRZW5kTTJHa0NrNWFRbGh5LTlRTDB2LVBNYS0yN01ETlplR0t5M3V5bUwzZUlTWkVnbnNwNWEtLXUteWJpOFNJaTRxNXFueV9XdTFmby1rZHRKQjZnMDJoOWxHYWx3aGZqY3k5VHFIUy1XdGJJZ0RFNllGVGh4Q0lmMi1heDVJUlhoVC1rUE5YY1Zta1hPV2lCTjZHU3g2dHphSWk0YzNqZFJQeVVfbzdFNzBqWk1hWFEwVm9KTy1wblAwQ1AxaTFLZC13?oc=5",
