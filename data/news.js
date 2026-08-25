@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T15:44:38+00:00",
+  "atualizadoEm": "2026-08-25T16:40:30+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
+        "titulo": "Brasil e Angola avançam em acordo para o agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3kzQ3pEMmlKT0dCeUQtTkNQTWo2aWpRTXBaaU1Mb3hKdUdrWnF6Ynp6Y0s0NzlFWnNtWFluMkFfUEY5blJySV8zU3NwUVZ6NzV3aFFFMEFtLTZxbnFwQ0VFSGFKb0FRUFFFWEp5b2NjWUNzNE91bC12RXIzTk1rOTFrd2NDcnlkNHZRbVoyaFhyZWp5ZUkzek1XRUc2TXNWcFM4?oc=5",
+        "fonte": "Agrolink",
+        "data": "2026-08-25"
+      },
+      {
         "titulo": "21 de Agosto Dia da Semente: Semente certificada é um investimento estratégico para a soja brasileira",
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVXU4cDhsbzVtVWpEVkplVWlRU2M5eDZvLVVYbjRXNm00NjgtcnhFTWJFckxsWFlmTzZLQk5ma1NpVnJObEctRUx5U1lITk1rRjZuVDZLSk92N3NnZ2xseXBpNDJzYUxqU2RmdkRGYThVSTdDTXhCV2s5Q3hkWlZyOFFvY1k4OXJOYlU3Tk1jdExkMEw5Q3dwdC1IaEd1aEdoelJoQ05hS2o4Wnl6bDFnZnE0OTMyLTZFWU9WS1ROcDVsa3E4bHgtY2tiTXlNN0lZRDFFVldYNTdmVVAxc19mSzZuQmNnUWNxN1RZd2NaOGYyVTNuX2NqV2N6Qk05eG_SAYQCQVVfeXFMUHdzQXFmemx0OVZmWEUzbVg5RHZhR0xkNzRvSEVBeGtXdFpSMGU2T1BGNW5kY1VLd1BIeHVuMWxyU044Mnk1SEZ0ZzdaSDRSWTBLRExMdDZzU0RXX3p3clRRdklkdzVjWVFGOXJrZG5OQkNhazllVDIzWHZ2bGl0YkZ3cWtNVnZrbkxTWDJEa1pKOEFSMFVQRm1hNHktOW1qcC1iS0E2RjI3cmZTWmJmWm5TSjhjTWphSV90eUtZQmZSWjI2d1pueFZlVjB5eVlaZkRRckZvZkZRVDMycWppZmpJRnIxcU1HVkJKeHlLazhDRWptcUNlYXBuUXY5SEF5SkhHZ0s?oc=5",
         "fonte": "Notícias Agrícolas",
         "data": "2026-08-21"
-      },
-      {
-        "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS2NQcTdCeWxZZ2lzdHBNMkltNWU0ZWk3d3lOQnMwT0lCVEE3Z09WaUZScndlbEU5Ni1FTWZRUV85UTlRbjRrX205Z2lTLWZreFotZF9XZ0lqejQxQ2xkSVhxbzhqeGEyb2tyUW1mNW5iSmpiOF9sdHA3WXhfckV6bW9sQ3ZTM1Y0Qm5kRHRUby1lUHZfWFVEbE9TbnJhQzM1OFF6VEp6SEFYZENLcWxmS0tvckZOd192S1g0YkdpS21rWklWd2pwelFpNEE4a29HNTMzRWhSNUpoZnBma0h4dDIxelQ0cFZCMGFhajJ6eWdZLU5YMWJpTkhCN1dJWDlKekE?oc=5",
-        "fonte": "Bora Investir",
-        "data": "2026-08-20"
       }
     ],
     "alimentos-bebidas": [
@@ -144,10 +144,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Energia solar: um aliado na descarbonização",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGdjMXI0UFlSTFB4ek9NMEVvdk5fY0wwUUhNcmxIaVRZMnkxQ3RyUFZXek1Zel9LU0Z3S1hiZ3RBUUo4SWs5d2lrZU5WODdEcmJjVVk2eTZjNnZGQ2tKaDRVRnR4RTBJWUx6eVJNNDNfTkVCeHRScXVvWXlPQ01pQTBPYXBnWnJZcmliTTF6eEdGS0HSAZMBQVVfeXFMTlBnYzFyNFBZUkxQeHpPTTBFb3ZOX2NMMFFITXJsSGlUWTJ5MUN0clBWV3pNWXpfS1NGd0tYYmd0QVFKOElrOXdpa2VOVjg3RHJiY1VZNnk2YzZ2RkNrSmg0VUZ0eEUwSVlMenlSTTQzX05FQnh0UnF1b1l5T0NNaUEwT2FwZ1pyWXJpYk0xenhHRktB?oc=5",
-        "fonte": "Folha PE",
-        "data": "2026-08-24"
+        "titulo": "Aeroporto de Natal conquista autossuficiência energética com conclusão de usina solar",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZ4WWlFVFVWSUptVEIwbGNDV1puSGVhTVlsRHFwZEtCWksxaklCajVQeGtmb0lnTnMzNi1IOWp1YlRHZG9tVlYxMDgwb09PZVZkbGlpNE83cmNEaHJKWHZjdDhyX2EyUmJOaDVrTlZjdlR6ekMwNmRWLW5waENZR1ZzNVNIM3pIZXBxX3JidjMzSUQwVXpwaXp1aUgya21tSnFxRkpfRVQ2N0NqWW0yUmhCVlRmWUYyVVctZFdsTnRNTWRHX1ZieEMzU0phdFJq?oc=5",
+        "fonte": "CanalEnergia",
+        "data": "2026-08-25"
       }
     ],
     "epc": [],
@@ -165,10 +165,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Governo quer elevar para 70% produção nacional de medicamentos até 2033, diz Alckmin no Fórum Saúde, de Esfera Brasil e EMS",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZktZSWtkYzR3bTRCbnQyZWhQVzk3c1ZnTWs2bTd0R1NUWmpOc2thS0tsbWtfdkJIQzlyb1RiLVNtM3NwRjRKaHpueGcyY3NGMVE3bHRwTkFBOVg2ZUtEeWJiVFEwdnh0U2lIa055Y1dySkRFR050NnlEekZqX1VUVTh4Y1pLWWFRaFBWaldEbG9jem11ZmgxRkRpYTF2ZlN4T3d2VWxQanpSUkdrdG9MVjdjVjM1RTdlMVZqTW9iWUNnblJKcnN3Sm8wYTNXLVhWeGczVmhjUW13Z3liR0FzZ1dPVGRwZ0ZRZkZUSHplWkJkREZYbjRF?oc=5",
-        "fonte": "Saúde Digital News",
-        "data": "2026-08-21"
+        "titulo": "Brasil mira autossuficiência e protagonismo internacional na indústria farmacêutica",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXd3V21ORDlMa3ZmV0kwYzVJUWVOYXd4S2Q0QkJqM3k3MjZYOE1ITDU3SGFSZU1kbUJST0ZCdVgtZFlOWVpnVlY2RXR1bzZXTFpoSEhNVmdBZVUzUHNleTluampaMEVTUFN1dVNaZXBTaVowSmNvTDlEUndlSGRIS2x3Mm9jQTc0WWZIY1VZZVM4Q2pCeERCeTg5aWFHbGk1cWQwSU4zWWotNVRjYmllRDc3enJ3UEdq?oc=5",
+        "fonte": "Brasil 247",
+        "data": "2026-08-19"
       }
     ],
     "fertilizantes": [],
