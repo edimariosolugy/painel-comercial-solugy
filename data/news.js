@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T16:40:30+00:00",
+  "atualizadoEm": "2026-08-25T17:34:18+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -43,12 +43,6 @@ window.NEWS = {
       }
     ],
     "automotivo": [
-      {
-        "titulo": "Avanço dos importados acende alerta no setor automotivo",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOZlR6XzB2eE8zcEpiWmNjSHFoM3RqX3NETzQ3eXZpR3NrSGd6TF9lblNEVmVNeWRBb3NjcWtKY0pLSVR2M1hBY21JMzJWYkc2ZHpCMlRpUDVkX29XbGtnVzVXcFI0aUF1Rkt3TUh4V3VILV82WWVreTEzWG9YOXhMb3RZa3pEelBYVEJHM25oWUQtazl1QzVlZWFsVFFtYmNUOFE?oc=5",
-        "fonte": "Transporte Moderno",
-        "data": "2026-08-18"
-      },
       {
         "titulo": "Volkswagen pode cortar até 50 mil empregos no mundo; Brasil não prevê fechar fábricas",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3ZITzVnTW9TVV9GRG1xY3ZmNnNQSmFaaUE4MHNWdlI3Ri04LTJqMkNybEpXX2laamY2bVdzTm5pLXlRcU1XTG8yay1GeU5BR0xnb2hkSUVJem5GV2x5RWxDOWZPNFZuUHU1dEthQXk2STczVXgycmw0N280REpoaDdVZkQwaEszTnNrMEhCRmVuNHBnajNObTBCQ2YyTDR5WUZ4dUI4dGs3RWI0bkpjNUFIOXRfZTg?oc=5",
@@ -268,7 +262,7 @@ window.NEWS = {
       {
         "titulo": "A maior fábrica de celulose em linha única do mundo fica no Brasil, custou R$ 22,2 bilhões e produz mais de 2,5 milhões de toneladas por ano",
         "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWtMbkJKZUNoR0lFU3FxdGNkYmVyVHRka242UGNlamctQmppSkxiVXZNejVGWHVfa3dQSlpSTDFXeEV5bXI1YVhTZTB6aXhsdjdRTngyUy1MWDVlLXRjNjBsaTZKc3hwUURtbG80RWtabkN5X3JySkRSMG9pVHFPRUxJUWJoR25WQXpMTHpmbWJGS0VpekltdXNBNzM5SGRmam9TVzFETDczVUpPVENkZWd0Wng1NXZwTkZpbUxlVU9jZ1BGYlJpM0hxM1hXWFBOVGFHRGtJZWtCSHdfRVRscTFKbUdjdFg5aEJPck83TVUxMnhfYnBYN1Y0T1kyV2dCdHVraF9rTDRFeTc2UEpwRG8zcGhqZ3hranF1NXZvYm5XWWJfdWEyMkZQZTdnQUdv?oc=5",
-        "fonte": "diariodepernambuco.com.br",
+        "fonte": "Diario de Pernambuco",
         "data": "2026-08-23"
       }
     ],
@@ -280,14 +274,7 @@ window.NEWS = {
         "data": "2026-08-23"
       }
     ],
-    "saneamento": [
-      {
-        "titulo": "Concessão do saneamento de Rondônia prevê R$ 4,2 bilhões em investimentos e atendimento a 40 municípios",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdzRjQTcwQUhYTVNRZW5kTTJHa0NrNWFRbGh5LTlRTDB2LVBNYS0yN01ETlplR0t5M3V5bUwzZUlTWkVnbnNwNWEtLXUteWJpOFNJaTRxNXFueV9XdTFmby1rZHRKQjZnMDJoOWxHYWx3aGZqY3k5VHFIUy1XdGJJZ0RFNllGVGh4Q0lmMi1heDVJUlhoVC1rUE5YY1Zta1hPV2lCTjZHU3g2dHphSWk0YzNqZFJQeVVfbzdFNzBqWk1hWFEwVm9KTy1wblAwQ1AxaTFLZC13?oc=5",
-        "fonte": "Em Rondônia",
-        "data": "2026-08-18"
-      }
-    ],
+    "saneamento": [],
     "siderurgia": [],
     "odontologia": []
   }
