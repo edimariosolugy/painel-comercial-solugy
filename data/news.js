@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T17:34:18+00:00",
+  "atualizadoEm": "2026-08-25T18:42:33+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-08-21"
       },
       {
-        "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSHVTZHhrYVA2cnJEekl6SmRLajJzeFRtTmExQzRFOHpFVkNJOFFDeDdHR0RGcFlCWnZjZTVpQ2lwN3RUakpOWV9PaXlKcDlsYXFnSUs5UmN5RXlmWVVSTkFUSWZ3anJLOTBsajlTV0Z2UElXOWtTMElKcGV4RFNFM2U5NkZlVGxma2pDVmllSjQ2a2IxbWdxc3JXVjJTaWVEUU1fUGdSdFJPREQ5Ykk5ODNsaDFVcHp5RU9uci02X0hiMVIxVGfSAcsBQVVfeXFMTnppZ3hqemdMbUZjQkFRekZZQUZ5VDRFbzhXQWh2b1d5RHBrTElRWW9VQ2FCc2Exa1VRc0FrUjVvZlA3NnoxZmFpb3dfTElfUVZwZFhablBaTE5aRS13Tk1QakpaVWxoaUhUMVU4MXZWUUs3MFEzRDUwTlFOODlHSEN5R0FzQWNUa3lQQTBCaW9oY1NZOGZqTHpsTW5FTy16SVlyc0c4aWVGTHN2Qk5mX2drQWdCNFpfTEE0TnBUNHU2cWZjNWlWbW1pZDA?oc=5",
-        "fonte": "Mercado&Consumo",
-        "data": "2026-08-18"
+        "titulo": "Mercados abrem a semana de olho em sanções dos EUA contra o Irã e eleições no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdXMwMjlrTXJTb01yRFF5UGRCNWlpVmJISm5FbHhNYWRva2FMZ3Frb1VwOGQ4NWhfcmVjMHYxckZNR3Fhb0hQdkl5UzNsZ1U3cVpFVHQ5UUxkNEl3d1M2ZGJCVk1wRS1BVjhKTmcxSkh0YVJJNTRBUGxMRDNWamhUZ0tsb0VNdlJsMGE1UWlxUG1EQjZiUm9HWEEyNW9qTkIxRzVObUVqYm56c2owRjVJeGxQTjY2c2ZsaE41YThkazc3MXZCUXc?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-08-24"
       }
     ],
     "automotivo": [
@@ -147,16 +147,16 @@ window.NEWS = {
     "epc": [],
     "farma": [
       {
-        "titulo": "Alckmin defende aumento de exportação de medicamentos produzidos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkRRNUhUeE5qQUszZHFhTlVCT1RtaTJtaGZoc0V3bld5cS1lTUtaYU5DRlhVQWVOWDAtemliVGhETE5CUDFKdXJSb0RJSlg5aE9lOHZXSVg2QXUwU2x5NWdYdUJwWG5vSHRsY3J3dlJjdlFkejluS19rWndZSDNMaTJ2OWhLN0laQXFzNjdMQkR4ZUREUW5FbDY0SU5OaVViQTlhQ0MzNzZfQlMyVkZCOUhQcWJvWUl2MExuaHlmbw?oc=5",
-        "fonte": "blogs.correiobraziliense.com.br",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "Governo quer elevar para 70% produção nacional de medicamentos até 2033, diz Alckmin",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT2R5WEZad1dyUExrT3dGcXJhQ2JmblRBVmVkYnllVGNCRTdXNmptWWVucjczc2I3YmlYUXo0aE5NOEJkSEoyWTNJSWVuRm5kVjctV3lMSmlzUGx2empzaDhoZEdiTVFWOXpubWtuU2JDTmxIZTlkc0diZFVMbUJRdGRRNXpHME52Z1piUUY4clBXUDFrSkg0bzEzTXBiVkpER3MzRXlNdVdDQWdnX0JQMkZ3NnRtSllSX2d6UHBGNWNlb0pYNjJteTloUTUwcFdGQlF2bE5nbXB5bVU?oc=5",
         "fonte": "Folha de S.Paulo",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "O tempo da ciência e os riscos da pressa",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHZHcVV2dUEwcnFfUDlRLWs3RlhBVU5DcE44OVFIUTR5eWFKRGtmOVpfaXNrOU5QWDVUcXNDWFBEWDE2WmhXNDE5Mk5yaUc3ZWk5dWNaTTFiUi1TazdlMTlFbGloOXpZLWZkcVFhVlE0elVTVExvS2NoRU9TamdvR1F4VQ?oc=5",
+        "fonte": "Futuro da Saúde",
+        "data": "2026-08-25"
       },
       {
         "titulo": "Brasil mira autossuficiência e protagonismo internacional na indústria farmacêutica",
@@ -174,16 +174,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
+        "titulo": "Intenção de investimento da indústria cai em agosto ao pior patamar em 2026, aponta CNI",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMHNvWEJ2OXdDUFRrMTlLTDd2b2M1VUpwYktSaWJUYmw2Y2s3VmJKXzA4ZEEwZHlaVlA4QnpTX3hYNzlIMENvaEhpSE5HZUxzeml6dFlpeFB5LXZlV0l5elIyeE1lQkJNcmVBVk1YRzQ2amVuMzBmMG5yUjBqbVRTbVFVUGp2cHlscTctTmlsa1NkbldMZkplQzBCN3YzSzZxLWYxMHJwOTRRcFJuQkYwUndxTmlFeXlqRlgzeFdRSl94MllrSjNPU0hGZXZfUlNFQlRyU2Jn0gHkAUFVX3lxTE1zQXBNNDJlU25IbnFiZXFlbWpvRkVvLXl5N1VVY3Z0aHFyRmdTMEN1YVlPMXpzMGhPUE90aU81ejZ5RngxU1kxYkVWb2l1eS1fRlpWRHEwaTVyc0dvQlBZYkVLYk9CRGJZSndiLW15ZzkxWHZveENWQTVfbXJUZFV6TDBMNEVfVndMNVo3XzQtOUx6dkJjTHRtU19KOUlpSFRZUUhRUTJlblNDS2NMWXJCT0UxLWFuUVJ3a2xOcmZBcGVvQ21iako5VGcwUlVvT0hHMUxGMHUxcjdMU0pQT25PWmY1Zw?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-20"
+      },
+      {
         "titulo": "China avança na indústria e exportará 21 vezes mais carros que o Brasil",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODV0Y3pWZGVpbnh3RUR5Vjg3R21ySGcwSkVNUGVfR2Ztamtjd19zVllGcktmWDl0b1EyOFR6d19PUHJxZDR5b1d6ZVotZXdoazNMeU9Ka2lFVXdBbFczeTBKZG03dzhGQmswR3JMc0ZOa2hIVXBqVnlJcmZrRmxEcUllS2dQeE91ZjMxZktuLVY5OHBRODdBX01BajAtTHRONnY1akJ2OTBwdWM?oc=5",
         "fonte": "vermelho.org.br",
         "data": "2026-08-24"
-      },
-      {
-        "titulo": "Nestlé avança com corte de 16 mil vagas e fecha fábricas na Europa; Brasil mantém investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1FRMFViT0RKTjMtdDNZVDA5RVgzdWFqTERWZG1RamF0OVNXaXdhcVlqUGlhLV9XUExqV0tJbklTUDN4RzhoWUFZUFp0bWVxaFl6d28xV1ZBTWdKWmVaZUkwMWJmSTRuYzNtdmNvWEFXSVJ0R2M1d3I5TXYyTGpoOVpPZ3RfWndKbnMzRnJaOFlZMTlpb2hEVEtrcGQ2bGJxQ1cwdkp1ODhmVGJCR1BNUDlrOVRKc1dYYXVhNmtYRWczbzJSLTFaeWREQQ?oc=5",
-        "fonte": "Gazeta do Paraná",
-        "data": "2026-08-20"
       }
     ],
     "logistica": [
@@ -228,22 +228,22 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Funding é o que fará o Brasil liderar a corrida por minerais estratégicos",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSy1UT3pFUDlSMlJqZ19lalJIYnZIbGlxWlBPa0EyN2xvRmczRzFZWjhHdmpVLW1JOWZKUnNrZl9nXzVGZVJlX1dkUWVUU0syeGEtM251VlpWa1UxcnBRQXR0ZjI2bVRjdFVLUE9idDVKUmY0dG90NE1MSEJPNzlfRmd2N0VhQVR6blJuS1E3dXp4ZUtIZ0pFbkVFVmNZTG93NThXeENCY21sazhsbjZWX1JXbElJZHlJQVRYT3JIM1RkR2JsWXZGWkNtRk8weEtWNkp3UVVuZVZxS2pjcWpTMjlnOV9nbGdRc2fSAfgBQVVfeXFMUGNSdDFyOURpRUJtY25hTVJvMUVzYWd6dE9YS0l6eDhqT2ZwSUM0Um56VWVRTFBYM1BueE8zUUtmUUhYclhNQ0Nsc1ZLZGlTS205ZjhNcjJnd1VzR2Nlb0YxaURRWWpYODV1aktYeWNmZm9xUjBna0VvdXRURmZuZjZvNUxwUklNSGpUSkZHSWZxZlRfOU43dm9Pd3RtWmJGQ3QxWFlEUVpsZGV6RzNxRTdmcnRyRlUwVlBsemE1a042RHpkM2Y2cnBlSE05RjlTcjVJZ3ZaYkVpMFlQYmxzQWt0T1luai1RaEFuQ09xdUVpMGZ3SEJORDY?oc=5",
+        "titulo": "Bate-papo sobre o momento ímpar do Brasil no setor de exploração de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVllEZlFUTzV5TlVGRWVud2pMcEJHc21LQThJY05STVZHRHdoMU1HVEtmS3N6Q05XQVRpcHZLdUstVkNGZ2pkRWM3aHEyR0RvMUZMRjd1SzI4YnZiOTg5UnczLWE2bEhzTHNNR3FneFVsTWJRZnppZHpJcFFEM1B1Q0xkMnB2YmFuOU85VlI2bG9lT2RGOHRoNHljdU5WV2xuajJVaHcxeHBYRHFjT0VzS1pORUZnV3hsQ1hUc1I2UEx1elktNlFEeDRLS1ltRy12TVJ2Vm9Qd3dFNUt2dmo0b19McEktV2pPYVJlSjdLSFlZOUVtNkFfVldB0gGIAkFVX3lxTE9NNlZpVHZsenNIRHVhZTVRc3BoV0JuQ1RjckJWREZkMVZLZjRzalBmM1NyQ0R3WVQ3ZlZQb0NqRzhXS1dWUDhVMlBuZWZFWmNUdWhuTjNYcFVYQkpjbk1sTmtxYUlsNlAyTks1czQ3ZWpkR3BPVjMyR0Qxcmgzc0VQWWw5WjRPeS10aEZIUFBFZlBzYnpmcU80b2VZZzkwSC1jQ01MWEZCdEFlMnRIaXc2TWN1ek94aW1CU2JaV2k0S0dsVHdBSVM4MnR6Z1pqM3FPWGVxbEd1ak5ma1MtR3hEcWtRaVFsbi0zTEtwai1MRWZ2b0JONW5fVzlkYUdrcDh6bGhVdkU5dg?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-19"
-      },
-      {
-        "titulo": "O plano da Vale para fazer a mineração explodir no Brasil e gerar milhões de empregos",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNT3ROQWktYUhoaEZpMENXZjhoYm9vVzBZZGk0Mnd0SkJoeTBrczNOa2FlZHhQdnpKVGlkRUx1eUU0NVRYMEZOS2l4SHZiekFzUGZlM3c1eUZVTWoteDBsM0xFUmtIR013LURoZFNJTWZNTVN4ZVhXWXVVZUVhZFJOY19CRDNjbTRLM2ZNMlByeFRRZ3lSSXdxQUdnZlhBOFktR2tPSlNHM2tiSFl6Z2RWaGFIMHg5R0t3SklHRGR3?oc=5",
-        "fonte": "VEJA",
-        "data": "2026-08-18"
       },
       {
         "titulo": "EXPOSIBRAM 2026 | Geopolítica redefine estratégias da mineração e reforça Brasil na transição energética",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlhidlFpS01leV8tNnA5UnJzRTZjTXMwTVd2TDFac2c1MFVxZTVlbGFJSmpTZG9sM0lCUjRwTE1BcTIzSG5aQ3JJdnRRQ2ZNUFhydjRVYUUzcHduS2lXNWJZcXlaSGVnbUZWU2lwWkZDXzRIaHZudmdUeGZJY0pjaGk5YVk0cHA5Tzdyd1NjUFdvNklnb1NJUXhyLXgtbU9DQmZIaHkwUTdlcG1YUW5QeU5zN2pvZDhfS2ZxMUhIYTU3UQ?oc=5",
         "fonte": "Brasil Mineral",
         "data": "2026-08-25"
+      },
+      {
+        "titulo": "FIEMG debate minerais críticos e cooperação global",
+        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
+        "fonte": "FIEMG",
+        "data": "2026-08-19"
       }
     ],
     "papel-celulose": [
@@ -274,7 +274,14 @@ window.NEWS = {
         "data": "2026-08-23"
       }
     ],
-    "saneamento": [],
+    "saneamento": [
+      {
+        "titulo": "Norte Saneamento descarta entrar em leilões e prioriza aquisições",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXA3TFd5VTZiN2psNGYxUVMySzl2aU9VX3EzUGx6RVJodEFocEZ6RDBTZlVySk5kWDVSQXZfekZsUHRPdDFMYjFKVmhQbGJKVVl0bDlZSERWYWhwZWJjMVdNd0dpYmJPUWU4TVZ5enhEWVdETDhOVk9Vb3U3dmE2S0tfRGpsd09RbXZSUVdPNUFDZ2xZNjlmcEVGRTVkRkRpQ3Y0?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-08-25"
+      }
+    ],
     "siderurgia": [],
     "odontologia": []
   }
