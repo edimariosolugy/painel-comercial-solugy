@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T21:31:17+00:00",
+  "atualizadoEm": "2026-08-25T22:30:44+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-08-25"
       },
       {
-        "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS2NQcTdCeWxZZ2lzdHBNMkltNWU0ZWk3d3lOQnMwT0lCVEE3Z09WaUZScndlbEU5Ni1FTWZRUV85UTlRbjRrX205Z2lTLWZreFotZF9XZ0lqejQxQ2xkSVhxbzhqeGEyb2tyUW1mNW5iSmpiOF9sdHA3WXhfckV6bW9sQ3ZTM1Y0Qm5kRHRUby1lUHZfWFVEbE9TbnJhQzM1OFF6VEp6SEFYZENLcWxmS0tvckZOd192S1g0YkdpS21rWklWd2pwelFpNEE4a29HNTMzRWhSNUpoZnBma0h4dDIxelQ0cFZCMGFhajJ6eWdZLU5YMWJpTkhCN1dJWDlKekE?oc=5",
-        "fonte": "Bora Investir",
-        "data": "2026-08-20"
+        "titulo": "21 de Agosto Dia da Semente: Semente certificada é um investimento estratégico para a soja brasileira",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVXU4cDhsbzVtVWpEVkplVWlRU2M5eDZvLVVYbjRXNm00NjgtcnhFTWJFckxsWFlmTzZLQk5ma1NpVnJObEctRUx5U1lITk1rRjZuVDZLSk92N3NnZ2xseXBpNDJzYUxqU2RmdkRGYThVSTdDTXhCV2s5Q3hkWlZyOFFvY1k4OXJOYlU3Tk1jdExkMEw5Q3dwdC1IaEd1aEdoelJoQ05hS2o4Wnl6bDFnZnE0OTMyLTZFWU9WS1ROcDVsa3E4bHgtY2tiTXlNN0lZRDFFVldYNTdmVVAxc19mSzZuQmNnUWNxN1RZd2NaOGYyVTNuX2NqV2N6Qk05eG_SAYQCQVVfeXFMUHdzQXFmemx0OVZmWEUzbVg5RHZhR0xkNzRvSEVBeGtXdFpSMGU2T1BGNW5kY1VLd1BIeHVuMWxyU044Mnk1SEZ0ZzdaSDRSWTBLRExMdDZzU0RXX3p3clRRdklkdzVjWVFGOXJrZG5OQkNhazllVDIzWHZ2bGl0YkZ3cWtNVnZrbkxTWDJEa1pKOEFSMFVQRm1hNHktOW1qcC1iS0E2RjI3cmZTWmJmWm5TSjhjTWphSV90eUtZQmZSWjI2d1pueFZlVjB5eVlaZkRRckZvZkZRVDMycWppZmpJRnIxcU1HVkJKeHlLazhDRWptcUNlYXBuUXY5SEF5SkhHZ0s?oc=5",
+        "fonte": "Notícias Agrícolas",
+        "data": "2026-08-21"
       }
     ],
     "alimentos-bebidas": [
@@ -153,16 +153,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
+        "titulo": "Alckmin defende aumento de exportação de medicamentos produzidos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkRRNUhUeE5qQUszZHFhTlVCT1RtaTJtaGZoc0V3bld5cS1lTUtaYU5DRlhVQWVOWDAtemliVGhETE5CUDFKdXJSb0RJSlg5aE9lOHZXSVg2QXUwU2x5NWdYdUJwWG5vSHRsY3J3dlJjdlFkejluS19rWndZSDNMaTJ2OWhLN0laQXFzNjdMQkR4ZUREUW5FbDY0SU5OaVViQTlhQ0MzNzZfQlMyVkZCOUhQcWJvWUl2MExuaHlmbw?oc=5",
+        "fonte": "blogs.correiobraziliense.com.br",
+        "data": "2026-08-19"
+      },
+      {
         "titulo": "O tempo da ciência e os riscos da pressa",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHZHcVV2dUEwcnFfUDlRLWs3RlhBVU5DcE44OVFIUTR5eWFKRGtmOVpfaXNrOU5QWDVUcXNDWFBEWDE2WmhXNDE5Mk5yaUc3ZWk5dWNaTTFiUi1TazdlMTlFbGloOXpZLWZkcVFhVlE0elVTVExvS2NoRU9TamdvR1F4VQ?oc=5",
         "fonte": "Futuro da Saúde",
         "data": "2026-08-25"
-      },
-      {
-        "titulo": "Brasil mira autossuficiência e protagonismo internacional na indústria farmacêutica",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcXd3V21ORDlMa3ZmV0kwYzVJUWVOYXd4S2Q0QkJqM3k3MjZYOE1ITDU3SGFSZU1kbUJST0ZCdVgtZFlOWVpnVlY2RXR1bzZXTFpoSEhNVmdBZVUzUHNleTluampaMEVTUFN1dVNaZXBTaVowSmNvTDlEUndlSGRIS2x3Mm9jQTc0WWZIY1VZZVM4Q2pCeERCeTg5aWFHbGk1cWQwSU4zWWotNVRjYmllRDc3enJ3UEdq?oc=5",
-        "fonte": "Brasil 247",
-        "data": "2026-08-19"
       }
     ],
     "fertilizantes": [],
@@ -228,8 +228,8 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Bate-papo sobre o momento ímpar do Brasil no setor de exploração de minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNVllEZlFUTzV5TlVGRWVud2pMcEJHc21LQThJY05STVZHRHdoMU1HVEtmS3N6Q05XQVRpcHZLdUstVkNGZ2pkRWM3aHEyR0RvMUZMRjd1SzI4YnZiOTg5UnczLWE2bEhzTHNNR3FneFVsTWJRZnppZHpJcFFEM1B1Q0xkMnB2YmFuOU85VlI2bG9lT2RGOHRoNHljdU5WV2xuajJVaHcxeHBYRHFjT0VzS1pORUZnV3hsQ1hUc1I2UEx1elktNlFEeDRLS1ltRy12TVJ2Vm9Qd3dFNUt2dmo0b19McEktV2pPYVJlSjdLSFlZOUVtNkFfVldB0gGIAkFVX3lxTE9NNlZpVHZsenNIRHVhZTVRc3BoV0JuQ1RjckJWREZkMVZLZjRzalBmM1NyQ0R3WVQ3ZlZQb0NqRzhXS1dWUDhVMlBuZWZFWmNUdWhuTjNYcFVYQkpjbk1sTmtxYUlsNlAyTks1czQ3ZWpkR3BPVjMyR0Qxcmgzc0VQWWw5WjRPeS10aEZIUFBFZlBzYnpmcU80b2VZZzkwSC1jQ01MWEZCdEFlMnRIaXc2TWN1ek94aW1CU2JaV2k0S0dsVHdBSVM4MnR6Z1pqM3FPWGVxbEd1ak5ma1MtR3hEcWtRaVFsbi0zTEtwai1MRWZ2b0JONW5fVzlkYUdrcDh6bGhVdkU5dg?oc=5",
+        "titulo": "Funding é o que fará o Brasil liderar a corrida por minerais estratégicos",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSy1UT3pFUDlSMlJqZ19lalJIYnZIbGlxWlBPa0EyN2xvRmczRzFZWjhHdmpVLW1JOWZKUnNrZl9nXzVGZVJlX1dkUWVUU0syeGEtM251VlpWa1UxcnBRQXR0ZjI2bVRjdFVLUE9idDVKUmY0dG90NE1MSEJPNzlfRmd2N0VhQVR6blJuS1E3dXp4ZUtIZ0pFbkVFVmNZTG93NThXeENCY21sazhsbjZWX1JXbElJZHlJQVRYT3JIM1RkR2JsWXZGWkNtRk8weEtWNkp3UVVuZVZxS2pjcWpTMjlnOV9nbGdRc2fSAfgBQVVfeXFMUGNSdDFyOURpRUJtY25hTVJvMUVzYWd6dE9YS0l6eDhqT2ZwSUM0Um56VWVRTFBYM1BueE8zUUtmUUhYclhNQ0Nsc1ZLZGlTS205ZjhNcjJnd1VzR2Nlb0YxaURRWWpYODV1aktYeWNmZm9xUjBna0VvdXRURmZuZjZvNUxwUklNSGpUSkZHSWZxZlRfOU43dm9Pd3RtWmJGQ3QxWFlEUVpsZGV6RzNxRTdmcnRyRlUwVlBsemE1a042RHpkM2Y2cnBlSE05RjlTcjVJZ3ZaYkVpMFlQYmxzQWt0T1luai1RaEFuQ09xdUVpMGZ3SEJORDY?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-08-19"
       },
