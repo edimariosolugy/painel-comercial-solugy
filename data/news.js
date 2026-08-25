@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T14:49:19+00:00",
+  "atualizadoEm": "2026-08-25T15:44:38+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,9 +36,9 @@ window.NEWS = {
         "data": "2026-08-21"
       },
       {
-        "titulo": "MBRF (MBRF3) amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZzBISXhOeTNJRFpIVUo2SHA5ZDZ0dC1ZUHZsREcwM1VzaWVmeGxMYUJ4bGlYaTZ1NEZmQndFeXlCbXFYVjYtOWJFUWJVOG0tMzNmODF0MmxkbzlpUTRIQklDTWZuY0pKRzBuc1BzLURHWHRySlBxR2RwZ3J0WTVsb25tdjByVElNTm81MlBLVm9sRF9EdFFaV3JfLVNGVFhpYnhkOHdGZnU5RzNKVDBubm0zUS1LUE0?oc=5",
-        "fonte": "Money Times",
+        "titulo": "MBRF amplia uso de colágeno em alimentos e bebidas e mira novas aplicações",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSHVTZHhrYVA2cnJEekl6SmRLajJzeFRtTmExQzRFOHpFVkNJOFFDeDdHR0RGcFlCWnZjZTVpQ2lwN3RUakpOWV9PaXlKcDlsYXFnSUs5UmN5RXlmWVVSTkFUSWZ3anJLOTBsajlTV0Z2UElXOWtTMElKcGV4RFNFM2U5NkZlVGxma2pDVmllSjQ2a2IxbWdxc3JXVjJTaWVEUU1fUGdSdFJPREQ5Ykk5ODNsaDFVcHp5RU9uci02X0hiMVIxVGfSAcsBQVVfeXFMTnppZ3hqemdMbUZjQkFRekZZQUZ5VDRFbzhXQWh2b1d5RHBrTElRWW9VQ2FCc2Exa1VRc0FrUjVvZlA3NnoxZmFpb3dfTElfUVZwZFhablBaTE5aRS13Tk1QakpaVWxoaUhUMVU4MXZWUUs3MFEzRDUwTlFOODlHSEN5R0FzQWNUa3lQQTBCaW9oY1NZOGZqTHpsTW5FTy16SVlyc0c4aWVGTHN2Qk5mX2drQWdCNFpfTEE0TnBUNHU2cWZjNWlWbW1pZDA?oc=5",
+        "fonte": "Mercado&Consumo",
         "data": "2026-08-18"
       }
     ],
@@ -104,10 +104,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Covabra Supermercados dobra capacidade do Centro de Distribuição em Sumaré (SP)",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNkVmVmdhMXFBTFNDUC1mYkREYTRuR1Brd2RpTUE4bXRtZXRRcFc5bXl1TFNtRTFjeklUUllRNmxVU2h3VnE3WWQ5bUNGMHNjSWNwX0xxS3k5QjJnejZQVkRna3U2clNXRzl4UlhST0J4bGdJazB2SW9YS3JWaTV6ZDlCWm0wSFhNZldZRm1sZk91V0ptZFQ5ZDViUWg0VS1pa1poRHVWRDlRc1FvV2RUSkhZeVdZUQ?oc=5",
-        "fonte": "SuperVarejo",
-        "data": "2026-08-20"
+        "titulo": "Exportações, varejo e interior movimentam economia gaúcha",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzdtX3dMaHhRZFdHTDJIVnB3X2ZqWEsxWmJFZWVwTnpiOVBkYmRfUHBWR3dEeFJ0OVU4TlF3clFXVWNsWm9RWDctMVdla01oTWNtNXQydjJUQnNKZnozVmR0WWEwQVg5TTdCb3FiM3JsWGtyUDZCcHBQT0ljb3l4QUpYMF92WFNLNFB6LUhfSkdNTExFenc2MGZFX3pFWnhOdUxSYkV6TnB3aXhuTC11MEJuRnl6V1ZWaW1ZN2lES0l2Y3hrNGc?oc=5",
+        "fonte": "RADAR DIGITAL BRASÍLIA",
+        "data": "2026-08-24"
       }
     ],
     "energia-gt": [
@@ -144,10 +144,10 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Aeroporto de Natal conquista autossuficiência com usina solar",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZ4WWlFVFVWSUptVEIwbGNDV1puSGVhTVlsRHFwZEtCWksxaklCajVQeGtmb0lnTnMzNi1IOWp1YlRHZG9tVlYxMDgwb09PZVZkbGlpNE83cmNEaHJKWHZjdDhyX2EyUmJOaDVrTlZjdlR6ekMwNmRWLW5waENZR1ZzNVNIM3pIZXBxX3JidjMzSUQwVXpwaXp1aUgya21tSnFxRkpfRVQ2N0NqWW0yUmhCVlRmWUYyVVctZFdsTnRNTWRHX1ZieEMzU0phdFJq?oc=5",
-        "fonte": "CanalEnergia",
-        "data": "2026-08-25"
+        "titulo": "Energia solar: um aliado na descarbonização",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGdjMXI0UFlSTFB4ek9NMEVvdk5fY0wwUUhNcmxIaVRZMnkxQ3RyUFZXek1Zel9LU0Z3S1hiZ3RBUUo4SWs5d2lrZU5WODdEcmJjVVk2eTZjNnZGQ2tKaDRVRnR4RTBJWUx6eVJNNDNfTkVCeHRScXVvWXlPQ01pQTBPYXBnWnJZcmliTTF6eEdGS0HSAZMBQVVfeXFMTlBnYzFyNFBZUkxQeHpPTTBFb3ZOX2NMMFFITXJsSGlUWTJ5MUN0clBWV3pNWXpfS1NGd0tYYmd0QVFKOElrOXdpa2VOVjg3RHJiY1VZNnk2YzZ2RkNrSmg0VUZ0eEUwSVlMenlSTTQzX05FQnh0UnF1b1l5T0NNaUEwT2FwZ1pyWXJpYk0xenhHRktB?oc=5",
+        "fonte": "Folha PE",
+        "data": "2026-08-24"
       }
     ],
     "epc": [],
@@ -186,10 +186,10 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
-        "titulo": "RFK inaugura fábrica no Paraná com investimento de 400 milhões de reais",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNQnA1dlRkMTFvVXZXRk1zTG1sTnVyVU9PZTI4QXJyakk3aTNKQmR1T3V6dmwzczVIak5DRHNITTBOZU4xLUpJTE55ODRESElZYnRMcklXbEc1YjM1T29FTV8yT1dwcDF2bWFZSnRRUTNUZy1mM2Yxbk13eUgtdndfV09Eb0c4MTF3a19Nd2VxSEVyZ0pGcUJoOWI3MHRDTEhoQnVjX3k5clZWcGNjSldYbmgtRENTQQ?oc=5",
-        "fonte": "Engarrafador Moderno",
-        "data": "2026-08-19"
+        "titulo": "Nestlé avança com corte de 16 mil vagas e fecha fábricas na Europa; Brasil mantém investimentos",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1FRMFViT0RKTjMtdDNZVDA5RVgzdWFqTERWZG1RamF0OVNXaXdhcVlqUGlhLV9XUExqV0tJbklTUDN4RzhoWUFZUFp0bWVxaFl6d28xV1ZBTWdKWmVaZUkwMWJmSTRuYzNtdmNvWEFXSVJ0R2M1d3I5TXYyTGpoOVpPZ3RfWndKbnMzRnJaOFlZMTlpb2hEVEtrcGQ2bGJxQ1cwdkp1ODhmVGJCR1BNUDlrOVRKc1dYYXVhNmtYRWczbzJSLTFaeWREQQ?oc=5",
+        "fonte": "Gazeta do Paraná",
+        "data": "2026-08-20"
       }
     ],
     "logistica": [
@@ -246,10 +246,10 @@ window.NEWS = {
         "data": "2026-08-18"
       },
       {
-        "titulo": "FIEMG debate minerais críticos e cooperação global",
-        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
-        "fonte": "FIEMG",
-        "data": "2026-08-19"
+        "titulo": "EXPOSIBRAM 2026 | Geopolítica redefine estratégias da mineração e reforça Brasil na transição energética",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlhidlFpS01leV8tNnA5UnJzRTZjTXMwTVd2TDFac2c1MFVxZTVlbGFJSmpTZG9sM0lCUjRwTE1BcTIzSG5aQ3JJdnRRQ2ZNUFhydjRVYUUzcHduS2lXNWJZcXlaSGVnbUZWU2lwWkZDXzRIaHZudmdUeGZJY0pjaGk5YVk0cHA5Tzdyd1NjUFdvNklnb1NJUXhyLXgtbU9DQmZIaHkwUTdlcG1YUW5QeU5zN2pvZDhfS2ZxMUhIYTU3UQ?oc=5",
+        "fonte": "Brasil Mineral",
+        "data": "2026-08-25"
       }
     ],
     "papel-celulose": [
