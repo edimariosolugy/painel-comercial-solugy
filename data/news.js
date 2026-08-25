@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T10:36:41+00:00",
+  "atualizadoEm": "2026-08-25T11:31:19+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -57,6 +57,12 @@ window.NEWS = {
       }
     ],
     "bioenergia": [
+      {
+        "titulo": "Usinas de etanol podem formar arranjos coletivos para venda e armazenamento de CO₂",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNEI2VXZNekdxY1pxSmRnckxKcDh4QzlPRWJMZHBaT3R2aTE3eHprenpxVnJnd1l6VGxVYVpOYTNEUU1ZQVR0bl8yUHNmVUh1NlVCLTlvanNRRjZNQlBybVhRVHZHOXdOUUVUS1FQSFZxX0hvV2pDTEUtVXVqbXA5MUVrMmpPa25hdVctMnoxWXM3V0dGekpwUXltX2ZmS2ZBY1dfeXJrVktKbTFwSzlmYUFjV0VwMFl0Rm5zVnFR?oc=5",
+        "fonte": "revistarpanews.com.br",
+        "data": "2026-08-25"
+      },
       {
         "titulo": "Especialistas debatem estratégias de marketing para fornecedores no setor de bioenergia",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUdjWjQxT3llTllnQm45NUszbU9SRVBUSXllVjVZemNZc2dtUmJOSk1nVjZQVlN5Y3gxQzR6dnBrQWZIUGRSNHY3LTUya0hmblo5QmVXZTNSWXdScE05WnhWRXU4YlBSRG11VENrX3NyQ2RXSGFnQ2t5bDl2VHJYVTBXSTdRSGI3TThxcGt3dUpDTHc?oc=5",
