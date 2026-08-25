@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T22:30:44+00:00",
+  "atualizadoEm": "2026-08-25T23:27:30+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -153,16 +153,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Alckmin defende aumento de exportação de medicamentos produzidos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkRRNUhUeE5qQUszZHFhTlVCT1RtaTJtaGZoc0V3bld5cS1lTUtaYU5DRlhVQWVOWDAtemliVGhETE5CUDFKdXJSb0RJSlg5aE9lOHZXSVg2QXUwU2x5NWdYdUJwWG5vSHRsY3J3dlJjdlFkejluS19rWndZSDNMaTJ2OWhLN0laQXFzNjdMQkR4ZUREUW5FbDY0SU5OaVViQTlhQ0MzNzZfQlMyVkZCOUhQcWJvWUl2MExuaHlmbw?oc=5",
-        "fonte": "blogs.correiobraziliense.com.br",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "O tempo da ciência e os riscos da pressa",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHZHcVV2dUEwcnFfUDlRLWs3RlhBVU5DcE44OVFIUTR5eWFKRGtmOVpfaXNrOU5QWDVUcXNDWFBEWDE2WmhXNDE5Mk5yaUc3ZWk5dWNaTTFiUi1TazdlMTlFbGloOXpZLWZkcVFhVlE0elVTVExvS2NoRU9TamdvR1F4VQ?oc=5",
         "fonte": "Futuro da Saúde",
         "data": "2026-08-25"
+      },
+      {
+        "titulo": "Alckmin defende aumento de exportação de medicamentos produzidos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkRRNUhUeE5qQUszZHFhTlVCT1RtaTJtaGZoc0V3bld5cS1lTUtaYU5DRlhVQWVOWDAtemliVGhETE5CUDFKdXJSb0RJSlg5aE9lOHZXSVg2QXUwU2x5NWdYdUJwWG5vSHRsY3J3dlJjdlFkejluS19rWndZSDNMaTJ2OWhLN0laQXFzNjdMQkR4ZUREUW5FbDY0SU5OaVViQTlhQ0MzNzZfQlMyVkZCOUhQcWJvWUl2MExuaHlmbw?oc=5",
+        "fonte": "blogs.correiobraziliense.com.br",
+        "data": "2026-08-19"
       }
     ],
     "fertilizantes": [],
