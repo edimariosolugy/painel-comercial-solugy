@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T20:32:19+00:00",
+  "atualizadoEm": "2026-08-25T21:31:17+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -214,10 +214,10 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Crescem os investimentos em equipamentos que modernizam e automatizam a extração mineral",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYnp2bzlIb1VSNGQ0dEJqTnp3TkNBN2pVdERWenJEdXBsZDBfU2U0TTlWQ1lQeXBuZzNEUVV6OVJXYU15M2ltYV85cG5GR3YzTzU3NFE5eXI3UG1rZktNbklIWkxaWUJ6WXFYc2kwWEdiajVlb1pjdkQ2ZXg3YV9iS3hjWVotZWhncmUxQ00zRVp4a0V1MVBubmhGY28tNEJSQ1RuSjBEbzFOSWx1bF94S2s2S3JfYVJUQkRwbG1NRFcwYlNOeGQyc0RvRXlVaHVzUmxxTUEyS3hSUDhra3N3SHhuby1aUTMyU3huSWpHY0p0ckdDYmFwcnZRWXdfQdIBjAJBVV95cUxPamxEVDVzME85TzRnZUItaF9hNS00Z2pmN1A2TFdGMmhEVW1sQ1BqWmRiV2ZqV0VrS1ZGMUd4dmFTTEFhemtSaVM4OTJQYXpISDZONlBjV0FvWnMxNXo5XzZPMG1vSE5kTGdJZ2ozWFN0Z3U2aDNJbmlPNV8wOGxIM1dnRmdSNjlLcGlJcy1Ya3FxcGRTaHMydlZfUFYzRVB4Tm9ZcVk4S1NLRWZsbkdsQ1M5VC0ySlAzbTdHRUhLcEZlejI2WnN2XzNPUVJLVHI3Qm5JMTZhN3hqRFNSR1ZTUGdLQ0JmYzYtSXZOMTJubTZkLWczSkJkY3pwMWlaSzlCLWVDOEs3SXNDd3FN?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-08-19"
+        "titulo": "Secretário de Política Industrial diz que programas de crédito do governo elevam investimentos e nega contradição com juros",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPYVJRVFRtV2NzdHpCSFUyeENwMzNwNk1IbkJZVS00VWNPNk5rWnZqQmpQaWdfdzZ6ZWljQ3hGc1N0VTNkN2hqdFlHNHlTbzlTLW9PdHpyVEtXVnhlSlUyNmlnOGZfaHNLYjgxMW5tMU83eGNmYXFLTVRId3RsNXVoRHpRUVZtQUpWMzhPRHJVOEwxRUtncXYyVnZDQlpZYnVFbTZyMUh2anhONWlyQjF5emlNZ3BKZXA2RlIyMWQwWXY1TmNlbDFrV3ZkY2JGaEJhVndoZWdtWDhXWXJIamVISFBlNGlZYmpMeEUwSTM5M3QwY2U1djdrcVZHVWIxb09IN1hIQ1JERFRRVmVHWjdpQWkwcEFueVMz0gGnAkFVX3lxTE1WX21PSGJhNFQ2TTRaSDNnT0xfYVdNNWhHcEg5dmhJOUhzTUp0akNsdG51TEt5Z2Z6LUxGZGdMWFgyM0tDY0RqcWoxV01NRHhYNkZ1V0ZTSU8welVueHZBeWU4VzJvWS1BVmh0Nm5vcXFVX0xVa3k1NXJMUjFRLTBaOXkxZDZQMERGSmRFZ1hybWF6dmNrTGNUV2RIakpSWjdDYzc5N2V5MXctcm03Rmo1c0ZuOHJEWUZFd25FbzRBYzFUd1RjZHpTMDdlVkNWazk5OGE1dEdBYjlYYkRTWHpiNl9IRHM2SVIxTlIzbG11S3pKSjNiUDhwdFZ2TTBxdTE1MkZvNHFXU3BqMDZHWnhWMS03NVh6TjlrVWNEVVBCVmJlaktBeU0?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-20"
       },
       {
         "titulo": "Stellantis amplia projeto de digitalização e reduz perdas",
@@ -235,7 +235,7 @@ window.NEWS = {
       },
       {
         "titulo": "EXPOSIBRAM 2026 | Geopolítica redefine estratégias da mineração e reforça Brasil na transição energética",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQlhidlFpS01leV8tNnA5UnJzRTZjTXMwTVd2TDFac2c1MFVxZTVlbGFJSmpTZG9sM0lCUjRwTE1BcTIzSG5aQ3JJdnRRQ2ZNUFhydjRVYUUzcHduS2lXNWJZcXlaSGVnbUZWU2lwWkZDXzRIaHZudmdUeGZJY0pjaGk5YVk0cHA5Tzdyd1NjUFdvNklnb1NJUXhyLXgtbU9DQmZIaHkwUTdlcG1YUW5QeU5zN2pvZDhfS2ZxMUhIYTU3UQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGRoRlVLMmc0dXpYYXBXT2J2alNrOUJsVUY0WE44c2prMzc3dHc3Rk1oVGFEUzJ6NjI4djVwenZWdk5FRlhvV0luRHZlSmkxVGowSHJEUnNtTmJjMVhseTRvaE92MUNhUjJtYkRVN0c4VTdHenFtRkpybkQ2TmoyVVVaRXBTMFd4d04xOU9xT2RlQy13Z3VPMTR5M0d2dnFqVWFmeWRoSVF4aTNoeUdGU1lFbE5Pa3ZHV25YU3FVQXZmd2JkT19R?oc=5",
         "fonte": "Brasil Mineral",
         "data": "2026-08-25"
       },
