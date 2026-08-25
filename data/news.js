@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T18:42:33+00:00",
+  "atualizadoEm": "2026-08-25T19:34:17+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-08-25"
       },
       {
-        "titulo": "21 de Agosto Dia da Semente: Semente certificada é um investimento estratégico para a soja brasileira",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVXU4cDhsbzVtVWpEVkplVWlRU2M5eDZvLVVYbjRXNm00NjgtcnhFTWJFckxsWFlmTzZLQk5ma1NpVnJObEctRUx5U1lITk1rRjZuVDZLSk92N3NnZ2xseXBpNDJzYUxqU2RmdkRGYThVSTdDTXhCV2s5Q3hkWlZyOFFvY1k4OXJOYlU3Tk1jdExkMEw5Q3dwdC1IaEd1aEdoelJoQ05hS2o4Wnl6bDFnZnE0OTMyLTZFWU9WS1ROcDVsa3E4bHgtY2tiTXlNN0lZRDFFVldYNTdmVVAxc19mSzZuQmNnUWNxN1RZd2NaOGYyVTNuX2NqV2N6Qk05eG_SAYQCQVVfeXFMUHdzQXFmemx0OVZmWEUzbVg5RHZhR0xkNzRvSEVBeGtXdFpSMGU2T1BGNW5kY1VLd1BIeHVuMWxyU044Mnk1SEZ0ZzdaSDRSWTBLRExMdDZzU0RXX3p3clRRdklkdzVjWVFGOXJrZG5OQkNhazllVDIzWHZ2bGl0YkZ3cWtNVnZrbkxTWDJEa1pKOEFSMFVQRm1hNHktOW1qcC1iS0E2RjI3cmZTWmJmWm5TSjhjTWphSV90eUtZQmZSWjI2d1pueFZlVjB5eVlaZkRRckZvZkZRVDMycWppZmpJRnIxcU1HVkJKeHlLazhDRWptcUNlYXBuUXY5SEF5SkhHZ0s?oc=5",
-        "fonte": "Notícias Agrícolas",
-        "data": "2026-08-21"
+        "titulo": "Das lavouras à B3: As oportunidades de investimentos no agro e as perspectivas para o setor",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNS2NQcTdCeWxZZ2lzdHBNMkltNWU0ZWk3d3lOQnMwT0lCVEE3Z09WaUZScndlbEU5Ni1FTWZRUV85UTlRbjRrX205Z2lTLWZreFotZF9XZ0lqejQxQ2xkSVhxbzhqeGEyb2tyUW1mNW5iSmpiOF9sdHA3WXhfckV6bW9sQ3ZTM1Y0Qm5kRHRUby1lUHZfWFVEbE9TbnJhQzM1OFF6VEp6SEFYZENLcWxmS0tvckZOd192S1g0YkdpS21rWklWd2pwelFpNEE4a29HNTMzRWhSNUpoZnBma0h4dDIxelQ0cFZCMGFhajJ6eWdZLU5YMWJpTkhCN1dJWDlKekE?oc=5",
+        "fonte": "Bora Investir",
+        "data": "2026-08-20"
       }
     ],
     "alimentos-bebidas": [
