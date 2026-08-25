@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T09:38:22+00:00",
+  "atualizadoEm": "2026-08-25T10:36:41+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -174,16 +174,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
-        "titulo": "Nestlé avança com corte de 16 mil vagas e fecha fábricas na Europa; Brasil mantém investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1FRMFViT0RKTjMtdDNZVDA5RVgzdWFqTERWZG1RamF0OVNXaXdhcVlqUGlhLV9XUExqV0tJbklTUDN4RzhoWUFZUFp0bWVxaFl6d28xV1ZBTWdKWmVaZUkwMWJmSTRuYzNtdmNvWEFXSVJ0R2M1d3I5TXYyTGpoOVpPZ3RfWndKbnMzRnJaOFlZMTlpb2hEVEtrcGQ2bGJxQ1cwdkp1ODhmVGJCR1BNUDlrOVRKc1dYYXVhNmtYRWczbzJSLTFaeWREQQ?oc=5",
-        "fonte": "Gazeta do Paraná",
-        "data": "2026-08-20"
-      },
-      {
         "titulo": "China avança na indústria e exportará 21 vezes mais carros que o Brasil",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODV0Y3pWZGVpbnh3RUR5Vjg3R21ySGcwSkVNUGVfR2Ztamtjd19zVllGcktmWDl0b1EyOFR6d19PUHJxZDR5b1d6ZVotZXdoazNMeU9Ka2lFVXdBbFczeTBKZG03dzhGQmswR3JMc0ZOa2hIVXBqVnlJcmZrRmxEcUllS2dQeE91ZjMxZktuLVY5OHBRODdBX01BajAtTHRONnY1akJ2OTBwdWM?oc=5",
         "fonte": "vermelho.org.br",
         "data": "2026-08-24"
+      },
+      {
+        "titulo": "Nestlé avança com corte de 16 mil vagas e fecha fábricas na Europa; Brasil mantém investimentos",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa1FRMFViT0RKTjMtdDNZVDA5RVgzdWFqTERWZG1RamF0OVNXaXdhcVlqUGlhLV9XUExqV0tJbklTUDN4RzhoWUFZUFp0bWVxaFl6d28xV1ZBTWdKWmVaZUkwMWJmSTRuYzNtdmNvWEFXSVJ0R2M1d3I5TXYyTGpoOVpPZ3RfWndKbnMzRnJaOFlZMTlpb2hEVEtrcGQ2bGJxQ1cwdkp1ODhmVGJCR1BNUDlrOVRKc1dYYXVhNmtYRWczbzJSLTFaeWREQQ?oc=5",
+        "fonte": "Gazeta do Paraná",
+        "data": "2026-08-20"
       }
     ],
     "logistica": [
@@ -254,16 +254,16 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "SUZB3 - Suzano - Resultados, Dividendos, Cotação e Indicadores",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTG1odkhVUVZ2ckhlc1NaMzhPZGlsNlJZS1MxVEJoQlU3Y2tJU2drbHJOQUVTNngyemc4UW90X3FWUXZPd3N6RXpEU0dYWHVlaHc?oc=5",
-        "fonte": "Investidor10",
-        "data": "2026-08-25"
-      },
-      {
         "titulo": "ANEEL deve votar pedido de perícia sobre caducidade da Enel SP na terça | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
         "fonte": "XP Investimentos",
         "data": "2026-08-21"
+      },
+      {
+        "titulo": "A maior fábrica de celulose em linha única do mundo fica no Brasil, custou R$ 22,2 bilhões e produz mais de 2,5 milhões de toneladas por ano",
+        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWtMbkJKZUNoR0lFU3FxdGNkYmVyVHRka242UGNlamctQmppSkxiVXZNejVGWHVfa3dQSlpSTDFXeEV5bXI1YVhTZTB6aXhsdjdRTngyUy1MWDVlLXRjNjBsaTZKc3hwUURtbG80RWtabkN5X3JySkRSMG9pVHFPRUxJUWJoR25WQXpMTHpmbWJGS0VpekltdXNBNzM5SGRmam9TVzFETDczVUpPVENkZWd0Wng1NXZwTkZpbUxlVU9jZ1BGYlJpM0hxM1hXWFBOVGFHRGtJZWtCSHdfRVRscTFKbUdjdFg5aEJPck83TVUxMnhfYnBYN1Y0T1kyV2dCdHVraF9rTDRFeTc2UEpwRG8zcGhqZ3hranF1NXZvYm5XWWJfdWEyMkZQZTdnQUdv?oc=5",
+        "fonte": "Diario de Pernambuco",
+        "data": "2026-08-23"
       }
     ],
     "quimica": [
