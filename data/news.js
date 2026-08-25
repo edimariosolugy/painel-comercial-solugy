@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T11:31:19+00:00",
+  "atualizadoEm": "2026-08-25T12:52:22+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -118,16 +118,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
+        "titulo": "Aneel rejeita perícia e leva processo de caducidade da Enel SP à fase final | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXJSZld2THJSd2NXWG5jZExLQU9TRXJEUk9iSkE2aDY4QjlPYlVTLVRsZ1V5T2xxb1VJckxicEQ1VVVKUExYMDVsVTM3Z2RRZTZ0OTZCS1FSZURZTWEyTWthb1JwREFpaW9SUnE5UldBSGlDcHBrSFVNQUNzYVR6MFRxanFYckoxOXp2d3JrN0pwYjFKOC16Vl9ranRYR19ZSWJJd1F4VG5sMmNHQThVX3ZEZ3prNUpoVWo1ZFZRSHpvaUNrWFBKbQ?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-08-25"
+      },
+      {
         "titulo": "Transmissoras investirão R$ 5 mi para blindar redes elétricas contra o clima",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmsxQTZMVzhBRWpqSTZSWHBhYzBxcVpXR0xrS1ZtWEI1ZEF1bHhCMXgxY0ZKeGdnaDZ0bnNFRnM2a3hFMjRqcGFyX3hzZUk3QW5TWVFEUlpydkY2X2NWY3RKSDRSWF9jZV9PQVVfaTlIa0lvWG1JNk1FZ1N4ejA4cmNnVjY?oc=5",
         "fonte": "Canal Solar",
         "data": "2026-08-21"
-      },
-      {
-        "titulo": "Abrate anuncia R$ 5 milhões para resiliência climática",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYmFaa2Z2Z2VYM3NqUTR6VWRvRW9rbFZSajQxNXRPUnd2OHJldkwtaEh0VDh5SXZLY0x6S0FYbDFRV0Zrc2FxX0RhdjlEMFhpdjZRb2VXbE1VeFc1MzZ2cjdlRGhzT2xqenhLSV9fTHdaN1c3V1lxQ0NGME9IUUFKNzdVd3JHUFBsMlMtdw?oc=5",
-        "fonte": "Agência iNFRA",
-        "data": "2026-08-20"
       }
     ],
     "solar": [
@@ -220,10 +220,10 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Secretário de Política Industrial diz que programas de crédito do governo elevam investimentos e nega contradição com juros",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPYVJRVFRtV2NzdHpCSFUyeENwMzNwNk1IbkJZVS00VWNPNk5rWnZqQmpQaWdfdzZ6ZWljQ3hGc1N0VTNkN2hqdFlHNHlTbzlTLW9PdHpyVEtXVnhlSlUyNmlnOGZfaHNLYjgxMW5tMU83eGNmYXFLTVRId3RsNXVoRHpRUVZtQUpWMzhPRHJVOEwxRUtncXYyVnZDQlpZYnVFbTZyMUh2anhONWlyQjF5emlNZ3BKZXA2RlIyMWQwWXY1TmNlbDFrV3ZkY2JGaEJhVndoZWdtWDhXWXJIamVISFBlNGlZYmpMeEUwSTM5M3QwY2U1djdrcVZHVWIxb09IN1hIQ1JERFRRVmVHWjdpQWkwcEFueVMz0gGnAkFVX3lxTE1WX21PSGJhNFQ2TTRaSDNnT0xfYVdNNWhHcEg5dmhJOUhzTUp0akNsdG51TEt5Z2Z6LUxGZGdMWFgyM0tDY0RqcWoxV01NRHhYNkZ1V0ZTSU8welVueHZBeWU4VzJvWS1BVmh0Nm5vcXFVX0xVa3k1NXJMUjFRLTBaOXkxZDZQMERGSmRFZ1hybWF6dmNrTGNUV2RIakpSWjdDYzc5N2V5MXctcm03Rmo1c0ZuOHJEWUZFd25FbzRBYzFUd1RjZHpTMDdlVkNWazk5OGE1dEdBYjlYYkRTWHpiNl9IRHM2SVIxTlIzbG11S3pKSjNiUDhwdFZ2TTBxdTE1MkZvNHFXU3BqMDZHWnhWMS03NVh6TjlrVWNEVVBCVmJlaktBeU0?oc=5",
-        "fonte": "O GLOBO",
-        "data": "2026-08-20"
+        "titulo": "Crescem os investimentos em equipamentos que modernizam e automatizam a extração mineral",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOYnp2bzlIb1VSNGQ0dEJqTnp3TkNBN2pVdERWenJEdXBsZDBfU2U0TTlWQ1lQeXBuZzNEUVV6OVJXYU15M2ltYV85cG5GR3YzTzU3NFE5eXI3UG1rZktNbklIWkxaWUJ6WXFYc2kwWEdiajVlb1pjdkQ2ZXg3YV9iS3hjWVotZWhncmUxQ00zRVp4a0V1MVBubmhGY28tNEJSQ1RuSjBEbzFOSWx1bF94S2s2S3JfYVJUQkRwbG1NRFcwYlNOeGQyc0RvRXlVaHVzUmxxTUEyS3hSUDhra3N3SHhuby1aUTMyU3huSWpHY0p0ckdDYmFwcnZRWXdfQdIBjAJBVV95cUxPamxEVDVzME85TzRnZUItaF9hNS00Z2pmN1A2TFdGMmhEVW1sQ1BqWmRiV2ZqV0VrS1ZGMUd4dmFTTEFhemtSaVM4OTJQYXpISDZONlBjV0FvWnMxNXo5XzZPMG1vSE5kTGdJZ2ozWFN0Z3U2aDNJbmlPNV8wOGxIM1dnRmdSNjlLcGlJcy1Ya3FxcGRTaHMydlZfUFYzRVB4Tm9ZcVk4S1NLRWZsbkdsQ1M5VC0ySlAzbTdHRUhLcEZlejI2WnN2XzNPUVJLVHI3Qm5JMTZhN3hqRFNSR1ZTUGdLQ0JmYzYtSXZOMTJubTZkLWczSkJkY3pwMWlaSzlCLWVDOEs3SXNDd3FN?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-19"
       },
       {
         "titulo": "Stellantis amplia projeto de digitalização e reduz perdas",
