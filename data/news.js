@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-26T13:58:31+00:00",
+  "atualizadoEm": "2026-08-26T14:53:48+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -168,12 +168,6 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Quando a metrópole troca a fábrica pelo fundo de investimento",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM2hUOUpMNW9HVFJodkRqRXZ2OUNYVlpQU21Xa0wzM2w0UHoyRGhSdlBReDdmaTFqS3lDRURIZUdKb1lPRlhaQWlQd1htSkg1d2FLOERMUW1SaHAtdWl2R0RIandPa0RPYW5DdDA4OWxEaEFyNHBnMTIyaThyQ0VjZW5qdXdqeEs0RnY0eVNEeGdxc25X?oc=5",
-        "fonte": "Diplomatique",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "Intenção de investimento da indústria cai em agosto ao pior patamar em 2026, aponta CNI",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOMHNvWEJ2OXdDUFRrMTlLTDd2b2M1VUpwYktSaWJUYmw2Y2s3VmJKXzA4ZEEwZHlaVlA4QnpTX3hYNzlIMENvaEhpSE5HZUxzeml6dFlpeFB5LXZlV0l5elIyeE1lQkJNcmVBVk1YRzQ2amVuMzBmMG5yUjBqbVRTbVFVUGp2cHlscTctTmlsa1NkbldMZkplQzBCN3YzSzZxLWYxMHJwOTRRcFJuQkYwUndxTmlFeXlqRlgzeFdRSl94MllrSjNPU0hGZXZfUlNFQlRyU2Jn0gHkAUFVX3lxTE1zQXBNNDJlU25IbnFiZXFlbWpvRkVvLXl5N1VVY3Z0aHFyRmdTMEN1YVlPMXpzMGhPUE90aU81ejZ5RngxU1kxYkVWb2l1eS1fRlpWRHEwaTVyc0dvQlBZYkVLYk9CRGJZSndiLW15ZzkxWHZveENWQTVfbXJUZFV6TDBMNEVfVndMNVo3XzQtOUx6dkJjTHRtU19KOUlpSFRZUUhRUTJlblNDS2NMWXJCT0UxLWFuUVJ3a2xOcmZBcGVvQ21iako5VGcwUlVvT0hHMUxGMHUxcjdMU0pQT25PWmY1Zw?oc=5",
         "fonte": "Valor Econômico",
@@ -184,6 +178,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODV0Y3pWZGVpbnh3RUR5Vjg3R21ySGcwSkVNUGVfR2Ztamtjd19zVllGcktmWDl0b1EyOFR6d19PUHJxZDR5b1d6ZVotZXdoazNMeU9Ka2lFVXdBbFczeTBKZG03dzhGQmswR3JMc0ZOa2hIVXBqVnlJcmZrRmxEcUllS2dQeE91ZjMxZktuLVY5OHBRODdBX01BajAtTHRONnY1akJ2OTBwdWM?oc=5",
         "fonte": "vermelho.org.br",
         "data": "2026-08-24"
+      },
+      {
+        "titulo": "Intenção de investimento da indústria cai ao pior patamar no ano",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2c0b2hhWFJQN3Etamk0djkwV0k0RndXSXYzUkRqMmNqTXp3X1NrbVVnNGh5TUdCVkdacm5pOERQWTBWVVRFTlVZMXhRWlpGM1VjRnJOVzA5R09xaVBKUGlhQzdMb21SSFRraUFxS2tpYmczQ0wzLVdPbXB3STUxUldrUkw4MVBaZFdrQ2xuSkpTMXoxS0M5dXFObWs2d0psSlh0WklR?oc=5",
+        "fonte": "Grupo Amanhã",
+        "data": "2026-08-20"
       }
     ],
     "logistica": [
