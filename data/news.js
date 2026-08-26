@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-26T12:57:04+00:00",
+  "atualizadoEm": "2026-08-26T13:58:31+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -194,15 +194,15 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Com PNL 2050, Transportes tem proposta para investidores de longo prazo",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPejlzTGNSdnVMNHhLOXBsQTBMTVFjM011MzlkdWx5bXdoYTBSTnlsRzA0SEhQRVRLRlJmcms3Vjg2LW9tUjN4VG93TFhzZkExTGV6TFVVbDZNS1EtMVdRdnZvZGZMRGhHZjBWeFJSeWFVRUUwQW40M2l2cjgwOTQ1aE5LWG5fWk9TYjVtVUR3Y0szSW9yRUxOcnRKX1FlYkJ4Vkxz?oc=5",
-        "fonte": "Agência iNFRA",
-        "data": "2026-08-20"
-      },
-      {
         "titulo": "[COLUNA OPINIÃO] Precisamos desenhar e consolidar a nova logística do Rio Grande do Norte",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazhMejYzVldUcldkMjlwT29mbjZ4WWwxNHh1MTg2SjAwMS1ydmhSWXFNamdzYzJPQUFWNkd6QjgxcG5JcExkaDZvdVl5eUNCVzFPbWhLOXRsbUt4aWdoZlZIbGxnQXNpUjlBNHRTZkxCbW5SMV9BS00tWFZiSG5SZVlLbUduLU56cjE3T1lqWkgycGttZmxIWUtESVIwYjQ5N3RZN0FocFhFODRmWEY0dFU5R2EzLWxZdU5vNDZ6QzdRSzlpSUt4cw?oc=5",
         "fonte": "Mossoró Hoje",
+        "data": "2026-08-19"
+      },
+      {
+        "titulo": "Transporte de ferro-gusa começa em novo corredor no ES",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1TczlsOGFEUDE0M0x5dzBvRU5GWVNZNEFCaGU1OU5JdXhiNDU5RlpQelFySG5VcUlHdE1CUTQ5YjdnSUpZdEZhUU5kaXk3ekJsWmFXdHlFbUFvdzBvcGxtdVlpQVdLekViSmIzWW9jUHE?oc=5",
+        "fonte": "ES Brasil",
         "data": "2026-08-19"
       }
     ],
