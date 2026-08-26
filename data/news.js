@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-25T23:27:30+00:00",
+  "atualizadoEm": "2026-08-26T09:45:01+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -52,16 +52,16 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
-        "titulo": "Usinas de etanol podem formar arranjos coletivos para venda e armazenamento de CO₂",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNEI2VXZNekdxY1pxSmRnckxKcDh4QzlPRWJMZHBaT3R2aTE3eHprenpxVnJnd1l6VGxVYVpOYTNEUU1ZQVR0bl8yUHNmVUh1NlVCLTlvanNRRjZNQlBybVhRVHZHOXdOUUVUS1FQSFZxX0hvV2pDTEUtVXVqbXA5MUVrMmpPa25hdVctMnoxWXM3V0dGekpwUXltX2ZmS2ZBY1dfeXJrVktKbTFwSzlmYUFjV0VwMFl0Rm5zVnFR?oc=5",
-        "fonte": "revistarpanews.com.br",
-        "data": "2026-08-25"
-      },
-      {
         "titulo": "Especialistas debatem estratégias de marketing para fornecedores no setor de bioenergia",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeUdjWjQxT3llTllnQm45NUszbU9SRVBUSXllVjVZemNZc2dtUmJOSk1nVjZQVlN5Y3gxQzR6dnBrQWZIUGRSNHY3LTUya0hmblo5QmVXZTNSWXdScE05WnhWRXU4YlBSRG11VENrX3NyQ2RXSGFnQ2t5bDl2VHJYVTBXSTdRSGI3TThxcGt3dUpDTHc?oc=5",
         "fonte": "JornalCana",
         "data": "2026-08-20"
+      },
+      {
+        "titulo": "Usinas de etanol podem formar arranjos coletivos para venda e armazenamento de CO₂",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNEI2VXZNekdxY1pxSmRnckxKcDh4QzlPRWJMZHBaT3R2aTE3eHprenpxVnJnd1l6VGxVYVpOYTNEUU1ZQVR0bl8yUHNmVUh1NlVCLTlvanNRRjZNQlBybVhRVHZHOXdOUUVUS1FQSFZxX0hvV2pDTEUtVXVqbXA5MUVrMmpPa25hdVctMnoxWXM3V0dGekpwUXltX2ZmS2ZBY1dfeXJrVktKbTFwSzlmYUFjV0VwMFl0Rm5zVnFR?oc=5",
+        "fonte": "revistarpanews.com.br",
+        "data": "2026-08-25"
       },
       {
         "titulo": "Usina Caeté: integração entre ESG e eficiência",
@@ -92,16 +92,16 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
-        "titulo": "Crise do varejo? Por que algumas gigantes enfrentam dificuldades e outras seguem crescendo",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSGtGOExURGRNVGJOSjRBUkZtSzRCd0R6TEZ0eVBZQ0tWd000cTY5d09zMzFRTHpoY21OelJfcExkSTVheGFTOE5pbFFsYlMycThKM25ETXhKTXJYcGgzaHlGREM1ZkdBdTNpQXEyRjlVc3VIR2ZCZEtlUFMtTk83SnBjelB1RGt4STJwX2QwOHR1MWVBc0U2NXB6R1ctOTlzaFRFeGlJd21kTnZlVThaQ2tPeHljQXBlZklDWkd2VTE0aTROMjdCQkVMNmlkQVhnN1HSAeABQVVfeXFMTWdlTlRMdHJQYmRTZk5TX2Q3M2UtSWVscXdZUzJjTkZMMWt1TzVpZy04Y1hwMlUzbmRiVC1tN2xpdWRMcFJ3VGZvczhxVXdFZDJzZkRTdUdnN1p4dVJ0d0RqZG9ORGl3aWItT0pXUzJyckI5UG03N0Y0WEg5d3E2SUJ3cTdPMnE2VE05UXZaU055QWNtaVhmMVJ2NTVXNE84TmtqUjVOSXVZN2EySURob2xGcEluSnc1MFRPVTBURTR5RVhOOE4xYTRZTHBDWl85YVVjelZ1OFVEdUlCTExtVzg?oc=5",
-        "fonte": "G1",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "Exportações, varejo e interior movimentam economia gaúcha",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzdtX3dMaHhRZFdHTDJIVnB3X2ZqWEsxWmJFZWVwTnpiOVBkYmRfUHBWR3dEeFJ0OVU4TlF3clFXVWNsWm9RWDctMVdla01oTWNtNXQydjJUQnNKZnozVmR0WWEwQVg5TTdCb3FiM3JsWGtyUDZCcHBQT0ljb3l4QUpYMF92WFNLNFB6LUhfSkdNTExFenc2MGZFX3pFWnhOdUxSYkV6TnB3aXhuTC11MEJuRnl6V1ZWaW1ZN2lES0l2Y3hrNGc?oc=5",
         "fonte": "RADAR DIGITAL BRASÍLIA",
         "data": "2026-08-24"
+      },
+      {
+        "titulo": "Lupo passa a vender 1,4 mil itens pelo iFood em São Paulo, Rio de Janeiro e Belo Horizonte",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGFxYlVHSXRhRHp1NXBTQ085UGJzQk9sZGJmQTRiRXU4S0xsT2RlejZQV2FTZFR5N2hxZGxHcWVHc0Zuc2wydG5yWTNQS3pDVktqeU1qTW8xcHdHY19jQkRIMllhTVY2TTY4VU4yWi02OWlnLW5ya2t5b3JhUGszamhhSUxKWFpzX0stZjF5VGRfRFJBbFgzYThaTkFhMFdBdmZnXzl0REJYVUtCWU5EWExINE9EYkFobWkxdHhKSElIWVdlT29Td3k0MlV6UG9sVk9lOGJCNGHSAd4BQVVfeXFMUEc4bEM2R0NYU3pzUjR5M2F0ckt4ZkFZQm83cmt0OC1FMEoyZGtQUTZjVjFWZmdUaDkyZV82R2ZmNUU3T3ZkR1gtZF9zRWVzRUtqQVlEUWl3YVdDQ0R0ZFlyRlJ2YXlnbE4yS3dPMkRFVEo2a3Z6enI3eG5FdWVRVEtOUWl3b0pTYXdZS3NhanZjWFo1bnBvOXBVeHpnRTc0Y1ZoWEZQQkJYMFpFT2VhNm9xZlA5S1ZoUGRrWDE1Q1lYNDA0b3ZJN21DQkNKaEFFaFRjUURkblZfWXZOQmRB?oc=5",
+        "fonte": "Mercado&Consumo",
+        "data": "2026-08-25"
       }
     ],
     "energia-gt": [
@@ -112,16 +112,16 @@ window.NEWS = {
         "data": "2026-08-19"
       },
       {
+        "titulo": "O impacto das renováveis no novo ciclo de expansão",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTFiQkFkUXFnLUM5MDZINjhVU1dRaHBvdVR2eTNwOUZYWjdvYzJDZzY3Yk96cUhiQ0VLTkN1TEZaVW96bV9MRF9rZ2hnQjFJUk4tb1ltM19DZ2lNd3lqanUwR2ZhcDN1ZXVJb0VfbG1udlhrSjFJdTk0cTVsejZkeUdOVlNCQTh0NjVJN0NPZEZEd0VCVjBwUzUxcUkwRDlpdlFwSUxHZTM?oc=5",
+        "fonte": "Editora Brasil Energia",
+        "data": "2026-08-25"
+      },
+      {
         "titulo": "Aneel rejeita perícia e leva processo de caducidade da Enel SP à fase final | Agosto",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXJSZld2THJSd2NXWG5jZExLQU9TRXJEUk9iSkE2aDY4QjlPYlVTLVRsZ1V5T2xxb1VJckxicEQ1VVVKUExYMDVsVTM3Z2RRZTZ0OTZCS1FSZURZTWEyTWthb1JwREFpaW9SUnE5UldBSGlDcHBrSFVNQUNzYVR6MFRxanFYckoxOXp2d3JrN0pwYjFKOC16Vl9ranRYR19ZSWJJd1F4VG5sMmNHQThVX3ZEZ3prNUpoVWo1ZFZRSHpvaUNrWFBKbQ?oc=5",
         "fonte": "XP Investimentos",
         "data": "2026-08-25"
-      },
-      {
-        "titulo": "Transmissoras investirão R$ 5 mi para blindar redes elétricas contra o clima",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcmsxQTZMVzhBRWpqSTZSWHBhYzBxcVpXR0xrS1ZtWEI1ZEF1bHhCMXgxY0ZKeGdnaDZ0bnNFRnM2a3hFMjRqcGFyX3hzZUk3QW5TWVFEUlpydkY2X2NWY3RKSDRSWF9jZV9PQVVfaTlIa0lvWG1JNk1FZ1N4ejA4cmNnVjY?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-08-21"
       }
     ],
     "solar": [
@@ -132,16 +132,16 @@ window.NEWS = {
         "data": "2026-08-21"
       },
       {
-        "titulo": "Crédito impulsiona instalação energia solar em casas, empresas e propriedades rurais no Espírito Santo",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORkZKVFJwaVVWb2FCZk5FaVJaeTRxNFptcGpaWlRQZHJHdUtzUUxRajhLTW9sWWltLWdzU21DRXVsY1F4eEFkWERWU3BhR0I4UWsxUG00ZHoyNmw5OEJYZ2prektNZHo2d3RZbjFiWHI2UUpUcmp3V0tBZVV6MXhKUW5TVXhrWFctVWd1bjVNd1FhLU1Bck9kOWZjQTRGdFpxZ3N3NVdfTXBnSkRpbVB3UGI3RVpBUEd1VDV1RmNuUmFZUWhaeEl5ZXZaVm1UQQ?oc=5",
-        "fonte": "Conexão Safra",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "Aeroporto de Natal conquista autossuficiência energética com conclusão de usina solar",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVZ4WWlFVFVWSUptVEIwbGNDV1puSGVhTVlsRHFwZEtCWksxaklCajVQeGtmb0lnTnMzNi1IOWp1YlRHZG9tVlYxMDgwb09PZVZkbGlpNE83cmNEaHJKWHZjdDhyX2EyUmJOaDVrTlZjdlR6ekMwNmRWLW5waENZR1ZzNVNIM3pIZXBxX3JidjMzSUQwVXpwaXp1aUgya21tSnFxRkpfRVQ2N0NqWW0yUmhCVlRmWUYyVVctZFdsTnRNTWRHX1ZieEMzU0phdFJq?oc=5",
         "fonte": "CanalEnergia",
         "data": "2026-08-25"
+      },
+      {
+        "titulo": "Energia solar: um aliado na descarbonização",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUGdjMXI0UFlSTFB4ek9NMEVvdk5fY0wwUUhNcmxIaVRZMnkxQ3RyUFZXek1Zel9LU0Z3S1hiZ3RBUUo4SWs5d2lrZU5WODdEcmJjVVk2eTZjNnZGQ2tKaDRVRnR4RTBJWUx6eVJNNDNfTkVCeHRScXVvWXlPQ01pQTBPYXBnWnJZcmliTTF6eEdGS0HSAZMBQVVfeXFMTlBnYzFyNFBZUkxQeHpPTTBFb3ZOX2NMMFFITXJsSGlUWTJ5MUN0clBWV3pNWXpfS1NGd0tYYmd0QVFKOElrOXdpa2VOVjg3RHJiY1VZNnk2YzZ2RkNrSmg0VUZ0eEUwSVlMenlSTTQzX05FQnh0UnF1b1l5T0NNaUEwT2FwZ1pyWXJpYk0xenhHRktB?oc=5",
+        "fonte": "Folha PE",
+        "data": "2026-08-24"
       }
     ],
     "epc": [],
@@ -200,9 +200,9 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Novas ferrovias e hidrovias reduzem o custo logístico das mineradoras, ampliando a competitividade",
-        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQeFU0UnI3a1dsVjhTVEU4VkRPVzJNMGNyMkNCclF2NjVDRldzOExhTW50UnFJLVJTdUUzZTM2aDV1eTd3WTVYTTBkdFpoZG5QQ216LTBPMDdvNU5yckg1RTA1akd3bXRrandZT0o0b3R4b2FqeHNId2NVTXdNYjJabjIzbUhKTUNyRVh5QkJ3M2hqWDZGU3hSQjZNTXZkbmh6OEtwX19TQ2d1bHhFYktUX1dHdkJ5VzN3VTFjU3VBZENTd2NCQUNveGpDRl9mV0Ntb280WEdPZ0dERFJmTVZPNm83QTFiTHJla1RxWTY2a0trVjlsbHNyTS1fUnctclNyRy1jaUpBRExOZ9IBmAJBVV95cUxNUVpNRUVwWWlWV2NlV093SElPUlpBellEOU13eWpkUGZLN3Z6NXBlZ0VNU2xBeS1FUFRZc21TRVVuOW5UTVBuemhKYk5LOHBOYlUwVjVhd203Sld5Wjg1ZlNITnlwT3Uwd3Rxcl9HRnRVUzFhVms0bTJkd0p1MjBEbzJ4dGgtblRSNHFUM0p5T0o3a040bmpyN21mQUZZQXppdnZTU2ZaWFQzTENjY0Z3UTlndnVqS09sUEk1OFVjVU9KT2FfT2g2RTE0ZXRZVDhfS3ZuWndnUkNCN0ROT0VKTnNsZVNfSmVmaGRFRmtwRzdWRkJUaUVUMURhZVNySEo0ajJHdDZ1dkltTmpBRmdyR2V2UjRfblVB?oc=5",
-        "fonte": "Valor Econômico",
+        "titulo": "[COLUNA OPINIÃO] Precisamos desenhar e consolidar a nova logística do Rio Grande do Norte",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazhMejYzVldUcldkMjlwT29mbjZ4WWwxNHh1MTg2SjAwMS1ydmhSWXFNamdzYzJPQUFWNkd6QjgxcG5JcExkaDZvdVl5eUNCVzFPbWhLOXRsbUt4aWdoZlZIbGxnQXNpUjlBNHRTZkxCbW5SMV9BS00tWFZiSG5SZVlLbUduLU56cjE3T1lqWkgycGttZmxIWUtESVIwYjQ5N3RZN0FocFhFODRmWEY0dFU5R2EzLWxZdU5vNDZ6QzdRSzlpSUt4cw?oc=5",
+        "fonte": "Mossoró Hoje",
         "data": "2026-08-19"
       }
     ],
@@ -228,12 +228,6 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Funding é o que fará o Brasil liderar a corrida por minerais estratégicos",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSy1UT3pFUDlSMlJqZ19lalJIYnZIbGlxWlBPa0EyN2xvRmczRzFZWjhHdmpVLW1JOWZKUnNrZl9nXzVGZVJlX1dkUWVUU0syeGEtM251VlpWa1UxcnBRQXR0ZjI2bVRjdFVLUE9idDVKUmY0dG90NE1MSEJPNzlfRmd2N0VhQVR6blJuS1E3dXp4ZUtIZ0pFbkVFVmNZTG93NThXeENCY21sazhsbjZWX1JXbElJZHlJQVRYT3JIM1RkR2JsWXZGWkNtRk8weEtWNkp3UVVuZVZxS2pjcWpTMjlnOV9nbGdRc2fSAfgBQVVfeXFMUGNSdDFyOURpRUJtY25hTVJvMUVzYWd6dE9YS0l6eDhqT2ZwSUM0Um56VWVRTFBYM1BueE8zUUtmUUhYclhNQ0Nsc1ZLZGlTS205ZjhNcjJnd1VzR2Nlb0YxaURRWWpYODV1aktYeWNmZm9xUjBna0VvdXRURmZuZjZvNUxwUklNSGpUSkZHSWZxZlRfOU43dm9Pd3RtWmJGQ3QxWFlEUVpsZGV6RzNxRTdmcnRyRlUwVlBsemE1a042RHpkM2Y2cnBlSE05RjlTcjVJZ3ZaYkVpMFlQYmxzQWt0T1luai1RaEFuQ09xdUVpMGZ3SEJORDY?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "EXPOSIBRAM 2026 | Geopolítica redefine estratégias da mineração e reforça Brasil na transição energética",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOcGRoRlVLMmc0dXpYYXBXT2J2alNrOUJsVUY0WE44c2prMzc3dHc3Rk1oVGFEUzJ6NjI4djVwenZWdk5FRlhvV0luRHZlSmkxVGowSHJEUnNtTmJjMVhseTRvaE92MUNhUjJtYkRVN0c4VTdHenFtRkpybkQ2TmoyVVVaRXBTMFd4d04xOU9xT2RlQy13Z3VPMTR5M0d2dnFqVWFmeWRoSVF4aTNoeUdGU1lFbE5Pa3ZHV25YU3FVQXZmd2JkT19R?oc=5",
         "fonte": "Brasil Mineral",
@@ -244,6 +238,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
         "fonte": "FIEMG",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "Lula diz que Brasil está aberto a parcerias com diferentes países em minerais críticos - Portal IN - Pompeu Vasconcelos",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWNDa1RvS1Y4RDgwekJRYlVTeE1EWTVsQmZkRE1RdmFoVUFVUG5zMDZiVGJCc0ZkUEFQUXRZSzEzSy1Vc0pzOVh2UFRHbS02Z000RnlBeTJjWGM5MG1UNjdZQVpNZG83QVJRaGpsaW0ybWVmRk9haE8zUjVFY2NSOVRNMnhYYUFCdjBIY2dRQ3p5ZEhMb3lBajdhY2wzanBjZmczSUNvSDEzYndDUk5CVWZ3ZlNoNnk4cHcyOXpPa1p3dw?oc=5",
+        "fonte": "Balada IN",
+        "data": "2026-08-23"
       }
     ],
     "papel-celulose": [
