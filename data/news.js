@@ -1,8 +1,14 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-26T14:53:48+00:00",
+  "atualizadoEm": "2026-08-26T16:20:26+00:00",
   "itens": {
     "agronegocio": [
+      {
+        "titulo": "Como investir no agronegócio? Conheça as 7 melhores maneiras!",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQX1RuVVpEVDlfT1B6UGk2S3VYREhWT0tYSWNZa2hEd2t5ZElvNldkM216SkJIWWlKTlQtOUU3V0t3R21HYndmcXVvUXFUUmZGcVppSGcyV3YwLUhsb2dmYjJPTXdjMlI5a0pyWUkydzhXajhTRHJfOXQxT1lRay1za0VLMGZ0dXox?oc=5",
+        "fonte": "Toro Blog",
+        "data": "2026-08-24"
+      },
       {
         "titulo": "Agri Summit Brazil 2027 reunirá mil startups e 50 fundos de investimento",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbFQxbVlrbnVYXzNYaHlZejRvaEcxOXJ4WXZPT1hCQjRRWjhSUUd4eDg0YklYbTk3bldPUmJkV3ZJbVg1Q05sTHhoMFNmc3puWE5NNjFKTWFBUFNubWNnLWZlN2w5ejFCb2J3NjFJX05vZ3ZHeGdiVmFIbW5WdnpWQW1veHZsSnJrcU1LNVB5eXl3MHUwSU5ZZW9QR3EwT2EzYUF2OFl1QmQxb2l1Tk80?oc=5",
@@ -14,12 +20,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3kzQ3pEMmlKT0dCeUQtTkNQTWo2aWpRTXBaaU1Mb3hKdUdrWnF6Ynp6Y0s0NzlFWnNtWFluMkFfUEY5blJySV8zU3NwUVZ6NzV3aFFFMEFtLTZxbnFwQ0VFSGFKb0FRUFFFWEp5b2NjWUNzNE91bC12RXIzTk1rOTFrd2NDcnlkNHZRbVoyaFhyZWp5ZUkzek1XRUc2TXNWcFM4?oc=5",
         "fonte": "Agrolink",
         "data": "2026-08-25"
-      },
-      {
-        "titulo": "21 de Agosto Dia da Semente: Semente certificada é um investimento estratégico para a soja brasileira",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVXU4cDhsbzVtVWpEVkplVWlRU2M5eDZvLVVYbjRXNm00NjgtcnhFTWJFckxsWFlmTzZLQk5ma1NpVnJObEctRUx5U1lITk1rRjZuVDZLSk92N3NnZ2xseXBpNDJzYUxqU2RmdkRGYThVSTdDTXhCV2s5Q3hkWlZyOFFvY1k4OXJOYlU3Tk1jdExkMEw5Q3dwdC1IaEd1aEdoelJoQ05hS2o4Wnl6bDFnZnE0OTMyLTZFWU9WS1ROcDVsa3E4bHgtY2tiTXlNN0lZRDFFVldYNTdmVVAxc19mSzZuQmNnUWNxN1RZd2NaOGYyVTNuX2NqV2N6Qk05eG_SAYQCQVVfeXFMUHdzQXFmemx0OVZmWEUzbVg5RHZhR0xkNzRvSEVBeGtXdFpSMGU2T1BGNW5kY1VLd1BIeHVuMWxyU044Mnk1SEZ0ZzdaSDRSWTBLRExMdDZzU0RXX3p3clRRdklkdzVjWVFGOXJrZG5OQkNhazllVDIzWHZ2bGl0YkZ3cWtNVnZrbkxTWDJEa1pKOEFSMFVQRm1hNHktOW1qcC1iS0E2RjI3cmZTWmJmWm5TSjhjTWphSV90eUtZQmZSWjI2d1pueFZlVjB5eVlaZkRRckZvZkZRVDMycWppZmpJRnIxcU1HVkJKeHlLazhDRWptcUNlYXBuUXY5SEF5SkhHZ0s?oc=5",
-        "fonte": "Notícias Agrícolas",
-        "data": "2026-08-21"
       }
     ],
     "alimentos-bebidas": [
@@ -92,16 +92,16 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
+        "titulo": "C&A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzdTVzgtdXNLQklOSk1MdlFmcVlZLXNqODMzWkt5ODRWSmNMSEF5elNWN1JKMEp0YWZTWDdCM0RMeG42WVNwM1hwanNDeDFxRWdoTTR3T2VLLVNQSUlsZl9wNzk1THBwUHBOcVRLY2U0VU4xMjVsb2VVekdaSElpNzlQQk9PYndoaEJUa2tLdnFaU1pBd3AxRHBxUVdvMkkzZTJEUjIxV2g5bXUwREg4?oc=5",
+        "fonte": "DComercio",
+        "data": "2026-08-26"
+      },
+      {
         "titulo": "Casas Bahia tem mais R$ 11 bi em dívidas fora da recuperação judicial",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWw0MVl4dnhNdzg5bWlpVV9rNnR4YXduSGdQWks2V0ZDVlRDZlZ2aDZyZ0JLZ0l5dXA5aXkwTGRvX1BXU3JISm80NzBwNzVUSVI3S1BSc1FOYVhBenp4OXVnZFlzOEF1VGVqa3RYNm4zS2tneE9oV21wX3RZbUZWY1dYQWFpWjdNdlZEX2VEd3BNWDQyVEYzZjAwNkVOTmhrUnZIU2xDY1pOUXRhVjJnT1l0LW1FR1RqWTN5dXZVMU8zMFQ2QkVOR1djTUZMZ1RkX0HSAeABQVVfeXFMT2NXVnZZcGM0eG9jMUpKRWFhdWdhbGdOSm53c0dtUjlPaUI2UzVkTFkteFZQV1RpN3ItWEROUGxxYzl0OTh0eENQQy1jSktSZ2NvQnlCTEUtU3FiZGtHcFpHLW5IWExnNlRXRWJTd013cTlrWmpfRWY0cnVLTjhhMWp5WTIwQkh2T0Q0VDhWMEQ2Z0FpZGU2OXFnQmtlSk9KMU9mVXZFSnRUVENfbHpKYWZ5TFVvblM4b3dOSGwxMmV6YXdXSlFKRGg5UkpfX0RDai1lOUVqemdUTHFKNHZvdXE?oc=5",
         "fonte": "O GLOBO",
         "data": "2026-08-25"
-      },
-      {
-        "titulo": "Exportações, varejo e interior movimentam economia gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzdtX3dMaHhRZFdHTDJIVnB3X2ZqWEsxWmJFZWVwTnpiOVBkYmRfUHBWR3dEeFJ0OVU4TlF3clFXVWNsWm9RWDctMVdla01oTWNtNXQydjJUQnNKZnozVmR0WWEwQVg5TTdCb3FiM3JsWGtyUDZCcHBQT0ljb3l4QUpYMF92WFNLNFB6LUhfSkdNTExFenc2MGZFX3pFWnhOdUxSYkV6TnB3aXhuTC11MEJuRnl6V1ZWaW1ZN2lES0l2Y3hrNGc?oc=5",
-        "fonte": "RADAR DIGITAL BRASÍLIA",
-        "data": "2026-08-24"
       }
     ],
     "energia-gt": [
@@ -180,10 +180,10 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
-        "titulo": "Intenção de investimento da indústria cai ao pior patamar no ano",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOc2c0b2hhWFJQN3Etamk0djkwV0k0RndXSXYzUkRqMmNqTXp3X1NrbVVnNGh5TUdCVkdacm5pOERQWTBWVVRFTlVZMXhRWlpGM1VjRnJOVzA5R09xaVBKUGlhQzdMb21SSFRraUFxS2tpYmczQ0wzLVdPbXB3STUxUldrUkw4MVBaZFdrQ2xuSkpTMXoxS0M5dXFObWs2d0psSlh0WklR?oc=5",
-        "fonte": "Grupo Amanhã",
-        "data": "2026-08-20"
+        "titulo": "Enquanto investe pesado no Brasil e inaugura fábrica de R$ 2,5 bilhões, Nestlé corta 16 mil postos, fecha 2 fábricas na Europa e encerra produção de KitKat em unidade histórica",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeXh5MVZEeE9KTTU5X3FGMVFHcWplVHBQYkUwWmhIWXg3elZwS0lDVDBHTzFzMXZlVUtPWW1Fb0lZOEtrZTNOZ1ctbmZ5eUxlZWtFWXZmTndPejc2OFNZTEZ5YjBQZlhEbTZ4VUlwUks5QVBiM3hxQ2xUWHEyeXQ1WXU2cTc3N3VXREhIeEVLUTVYc0JBaU5QQ3BQLXZkMnoxMHRCYU9TMUJrU1BxYTcycTRXa3IzdlRtUFpB?oc=5",
+        "fonte": "CPG Click Petróleo e Gás",
+        "data": "2026-08-19"
       }
     ],
     "logistica": [
@@ -254,16 +254,16 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "Braskem divulga acordo em discussão com a Petrobras para crédito de R$ 2,35 bilhões | Agosto 2026",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-08-26"
-      },
-      {
         "titulo": "14ª Semana de Celulose e Papel debate futuro do setor em Três Lagoas",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzQ0WkNPYU9vMWNKcmNmR2tRckpwSmE1MVZJRTREdTRRbUdCV1ZoS1M1VFdZUDA5Sm05YWF6d2FEck8yVldmMTN0Rnl0VUVKWENWNFdhR3dNeXR2dFRXaHpVYVh6RE9CLUQtdTlRenZUSUZ3OU5qemVEM1lBYVIwUWxLMHRuZm1PclhZUkt1Y0J5dkRnQmNKYVdHUmFHakx2Y3B0c2tsdkhPN1lFM1I5ZzVfc1hrRXpMSWtMMXRKYWF3aWF2eGVYdFM3UDB6LURONDRCaXdB?oc=5",
         "fonte": "Hojemais",
         "data": "2026-08-25"
+      },
+      {
+        "titulo": "14ª Semana de Celulose e Papel de Três Lagoas debate caminhos para competitividade e sustentabilidade na região",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQVXZFcllLbWNwZHdBeDBxQlEwUUxRRG11MmowSXJUeEtieHRfOHVNR3RabXVoV2hTWGl3RlBjLXd0UEwzSTl0VVE5MWhzYnB1ZlQxVUhIdVVEUzdNbzZtYVctaEEwUGhwSGVxcXh5MEMzQTNoRFRVdDhqRGRJMzVvUFJvNzQwUjJGTzhuQ2ZtQXJOSFFBWGtra2Q3dVJoZUJJUGtVTnQtOEMyZzluYkRsSXpCRHI0ajZsZC1xb3doQnU2NV9BVDlURGtqTDVONmQxaGRFUWh5WWZxQ1pqbUtickdyZ3V0Zw?oc=5",
+        "fonte": "Notícias do Cerrado",
+        "data": "2026-08-24"
       }
     ],
     "quimica": [
