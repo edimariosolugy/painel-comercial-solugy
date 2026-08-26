@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-26T11:32:48+00:00",
+  "atualizadoEm": "2026-08-26T12:57:04+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -92,30 +92,30 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
+        "titulo": "Casas Bahia tem mais R$ 11 bi em dívidas fora da recuperação judicial",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMWw0MVl4dnhNdzg5bWlpVV9rNnR4YXduSGdQWks2V0ZDVlRDZlZ2aDZyZ0JLZ0l5dXA5aXkwTGRvX1BXU3JISm80NzBwNzVUSVI3S1BSc1FOYVhBenp4OXVnZFlzOEF1VGVqa3RYNm4zS2tneE9oV21wX3RZbUZWY1dYQWFpWjdNdlZEX2VEd3BNWDQyVEYzZjAwNkVOTmhrUnZIU2xDY1pOUXRhVjJnT1l0LW1FR1RqWTN5dXZVMU8zMFQ2QkVOR1djTUZMZ1RkX0HSAeABQVVfeXFMT2NXVnZZcGM0eG9jMUpKRWFhdWdhbGdOSm53c0dtUjlPaUI2UzVkTFkteFZQV1RpN3ItWEROUGxxYzl0OTh0eENQQy1jSktSZ2NvQnlCTEUtU3FiZGtHcFpHLW5IWExnNlRXRWJTd013cTlrWmpfRWY0cnVLTjhhMWp5WTIwQkh2T0Q0VDhWMEQ2Z0FpZGU2OXFnQmtlSk9KMU9mVXZFSnRUVENfbHpKYWZ5TFVvblM4b3dOSGwxMmV6YXdXSlFKRGg5UkpfX0RDai1lOUVqemdUTHFKNHZvdXE?oc=5",
+        "fonte": "O GLOBO",
+        "data": "2026-08-25"
+      },
+      {
         "titulo": "Exportações, varejo e interior movimentam economia gaúcha",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzdtX3dMaHhRZFdHTDJIVnB3X2ZqWEsxWmJFZWVwTnpiOVBkYmRfUHBWR3dEeFJ0OVU4TlF3clFXVWNsWm9RWDctMVdla01oTWNtNXQydjJUQnNKZnozVmR0WWEwQVg5TTdCb3FiM3JsWGtyUDZCcHBQT0ljb3l4QUpYMF92WFNLNFB6LUhfSkdNTExFenc2MGZFX3pFWnhOdUxSYkV6TnB3aXhuTC11MEJuRnl6V1ZWaW1ZN2lES0l2Y3hrNGc?oc=5",
         "fonte": "RADAR DIGITAL BRASÍLIA",
         "data": "2026-08-24"
-      },
-      {
-        "titulo": "Lupo passa a vender 1,4 mil itens pelo iFood em São Paulo, Rio de Janeiro e Belo Horizonte",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGFxYlVHSXRhRHp1NXBTQ085UGJzQk9sZGJmQTRiRXU4S0xsT2RlejZQV2FTZFR5N2hxZGxHcWVHc0Zuc2wydG5yWTNQS3pDVktqeU1qTW8xcHdHY19jQkRIMllhTVY2TTY4VU4yWi02OWlnLW5ya2t5b3JhUGszamhhSUxKWFpzX0stZjF5VGRfRFJBbFgzYThaTkFhMFdBdmZnXzl0REJYVUtCWU5EWExINE9EYkFobWkxdHhKSElIWVdlT29Td3k0MlV6UG9sVk9lOGJCNGHSAd4BQVVfeXFMUEc4bEM2R0NYU3pzUjR5M2F0ckt4ZkFZQm83cmt0OC1FMEoyZGtQUTZjVjFWZmdUaDkyZV82R2ZmNUU3T3ZkR1gtZF9zRWVzRUtqQVlEUWl3YVdDQ0R0ZFlyRlJ2YXlnbE4yS3dPMkRFVEo2a3Z6enI3eG5FdWVRVEtOUWl3b0pTYXdZS3NhanZjWFo1bnBvOXBVeHpnRTc0Y1ZoWEZQQkJYMFpFT2VhNm9xZlA5S1ZoUGRrWDE1Q1lYNDA0b3ZJN21DQkNKaEFFaFRjUURkblZfWXZOQmRB?oc=5",
-        "fonte": "Mercado&Consumo",
-        "data": "2026-08-25"
       }
     ],
     "energia-gt": [
-      {
-        "titulo": "Sarandi terá ampliação da capacidade de transmissão de energia elétrica com novas obras da CPFL",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdm9hOGxkRHBDa3duS1VwbkE3QmN5UTY1ZDdfXzM3TjNGRXZlbEpVRUQ2ZUZGb2FiQXg3Ti1LQWJhbWdWMU9YaTdSZUJzenFvNzFvd0U0azdBV2dLSGNlb3pzN2pwTGI0ZktRMzN4YUxPVF84MlZpcTkxY0FxMUN4cFZzVjR6UmdyWWN4bzFINFdDY3A3amJHRmF5Z0Q0dkc3VWpfOHl1NG9pUG1OdUdMRFFoeFVrQkJrZ3JURU40SUwyVmRNX1ZzUzE5UlRUWDNxYmExb3hVSDB1cEdaUmEydWJIVDBOLVU5MEpualpRUUs?oc=5",
-        "fonte": "Sarandi-Pr",
-        "data": "2026-08-19"
-      },
       {
         "titulo": "Carga acima de 4 GW para hidrogênio no Nordeste demanda investimentos em geração, afirma EPE",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0syUUY2QU5CdWoxSWdGSE1FMHZ4T2h4bUgwUndqNzVQNFNMX20wczJuZDNZU0RsMnVFY25mYzBoRkNsbjFCemlqU0ViN0hweEJDcW9pei1mdlNKTklZWUV5ek5MRUxfekZCNmpFcjJ3eFRFVlRwYkgtbVdnX2t0dnNqclFKODFlZm5VU2w4X1Z2dGxBVmJYMG1Wby00Nkl5elQ3U3JrOFpweUUyVW1pbV91UGhPalJjdHVJREQ3VGRIUmtrdVNwRmVxNzVRZw?oc=5",
         "fonte": "Agência eixos",
         "data": "2026-08-19"
+      },
+      {
+        "titulo": "Governo sinaliza \"consertar\" distorções no preço da energia | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0dXTmFmSU51V3pkSjdyU2xsNHBTRV83YW1Va0dpeGZOSS0xZkl6LTBfa2dXVzN3UXJ0a183MmRHVVMyWnhHbEdQb1ItZjZPenYtWldhbGxGYjhEN0FiVU1KSGxkaGxPbHp4UUJQWFpVeTE0Mmpld2tKWmZkVTlDX09CZWtuekMyb0NWcms5N3EtYXdvNmFBazEyVmR0ZHNraFFrOV9BRFVXaW5CZ01pcQ?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-08-26"
       },
       {
         "titulo": "O impacto das renováveis no novo ciclo de expansão",
@@ -240,10 +240,10 @@ window.NEWS = {
         "data": "2026-08-26"
       },
       {
-        "titulo": "FIEMG debate minerais críticos e cooperação global",
-        "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
-        "fonte": "FIEMG",
-        "data": "2026-08-19"
+        "titulo": "Lula diz que Brasil está aberto a parcerias com diferentes países em minerais críticos - Portal IN - Pompeu Vasconcelos",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWNDa1RvS1Y4RDgwekJRYlVTeE1EWTVsQmZkRE1RdmFoVUFVUG5zMDZiVGJCc0ZkUEFQUXRZSzEzSy1Vc0pzOVh2UFRHbS02Z000RnlBeTJjWGM5MG1UNjdZQVpNZG83QVJRaGpsaW0ybWVmRk9haE8zUjVFY2NSOVRNMnhYYUFCdjBIY2dRQ3p5ZEhMb3lBajdhY2wzanBjZmczSUNvSDEzYndDUk5CVWZ3ZlNoNnk4cHcyOXpPa1p3dw?oc=5",
+        "fonte": "Balada IN",
+        "data": "2026-08-23"
       }
     ],
     "papel-celulose": [
@@ -260,10 +260,10 @@ window.NEWS = {
         "data": "2026-08-26"
       },
       {
-        "titulo": "A maior fábrica de celulose em linha única do mundo fica no Brasil, custou R$ 22,2 bilhões e produz mais de 2,5 milhões de toneladas por ano",
-        "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxOQWtMbkJKZUNoR0lFU3FxdGNkYmVyVHRka242UGNlamctQmppSkxiVXZNejVGWHVfa3dQSlpSTDFXeEV5bXI1YVhTZTB6aXhsdjdRTngyUy1MWDVlLXRjNjBsaTZKc3hwUURtbG80RWtabkN5X3JySkRSMG9pVHFPRUxJUWJoR25WQXpMTHpmbWJGS0VpekltdXNBNzM5SGRmam9TVzFETDczVUpPVENkZWd0Wng1NXZwTkZpbUxlVU9jZ1BGYlJpM0hxM1hXWFBOVGFHRGtJZWtCSHdfRVRscTFKbUdjdFg5aEJPck83TVUxMnhfYnBYN1Y0T1kyV2dCdHVraF9rTDRFeTc2UEpwRG8zcGhqZ3hranF1NXZvYm5XWWJfdWEyMkZQZTdnQUdv?oc=5",
-        "fonte": "Diario de Pernambuco",
-        "data": "2026-08-23"
+        "titulo": "14ª Semana de Celulose e Papel debate futuro do setor em Três Lagoas",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYzQ0WkNPYU9vMWNKcmNmR2tRckpwSmE1MVZJRTREdTRRbUdCV1ZoS1M1VFdZUDA5Sm05YWF6d2FEck8yVldmMTN0Rnl0VUVKWENWNFdhR3dNeXR2dFRXaHpVYVh6RE9CLUQtdTlRenZUSUZ3OU5qemVEM1lBYVIwUWxLMHRuZm1PclhZUkt1Y0J5dkRnQmNKYVdHUmFHakx2Y3B0c2tsdkhPN1lFM1I5ZzVfc1hrRXpMSWtMMXRKYWF3aWF2eGVYdFM3UDB6LURONDRCaXdB?oc=5",
+        "fonte": "Hojemais",
+        "data": "2026-08-25"
       }
     ],
     "quimica": [
