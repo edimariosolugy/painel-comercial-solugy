@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-26T09:45:01+00:00",
+  "atualizadoEm": "2026-08-26T10:37:51+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -92,19 +92,25 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
-        "titulo": "Exportações, varejo e interior movimentam economia gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzdtX3dMaHhRZFdHTDJIVnB3X2ZqWEsxWmJFZWVwTnpiOVBkYmRfUHBWR3dEeFJ0OVU4TlF3clFXVWNsWm9RWDctMVdla01oTWNtNXQydjJUQnNKZnozVmR0WWEwQVg5TTdCb3FiM3JsWGtyUDZCcHBQT0ljb3l4QUpYMF92WFNLNFB6LUhfSkdNTExFenc2MGZFX3pFWnhOdUxSYkV6TnB3aXhuTC11MEJuRnl6V1ZWaW1ZN2lES0l2Y3hrNGc?oc=5",
-        "fonte": "RADAR DIGITAL BRASÍLIA",
-        "data": "2026-08-24"
-      },
-      {
         "titulo": "Lupo passa a vender 1,4 mil itens pelo iFood em São Paulo, Rio de Janeiro e Belo Horizonte",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGFxYlVHSXRhRHp1NXBTQ085UGJzQk9sZGJmQTRiRXU4S0xsT2RlejZQV2FTZFR5N2hxZGxHcWVHc0Zuc2wydG5yWTNQS3pDVktqeU1qTW8xcHdHY19jQkRIMllhTVY2TTY4VU4yWi02OWlnLW5ya2t5b3JhUGszamhhSUxKWFpzX0stZjF5VGRfRFJBbFgzYThaTkFhMFdBdmZnXzl0REJYVUtCWU5EWExINE9EYkFobWkxdHhKSElIWVdlT29Td3k0MlV6UG9sVk9lOGJCNGHSAd4BQVVfeXFMUEc4bEM2R0NYU3pzUjR5M2F0ckt4ZkFZQm83cmt0OC1FMEoyZGtQUTZjVjFWZmdUaDkyZV82R2ZmNUU3T3ZkR1gtZF9zRWVzRUtqQVlEUWl3YVdDQ0R0ZFlyRlJ2YXlnbE4yS3dPMkRFVEo2a3Z6enI3eG5FdWVRVEtOUWl3b0pTYXdZS3NhanZjWFo1bnBvOXBVeHpnRTc0Y1ZoWEZQQkJYMFpFT2VhNm9xZlA5S1ZoUGRrWDE1Q1lYNDA0b3ZJN21DQkNKaEFFaFRjUURkblZfWXZOQmRB?oc=5",
         "fonte": "Mercado&Consumo",
         "data": "2026-08-25"
+      },
+      {
+        "titulo": "Exportações, varejo e interior movimentam economia gaúcha",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzdtX3dMaHhRZFdHTDJIVnB3X2ZqWEsxWmJFZWVwTnpiOVBkYmRfUHBWR3dEeFJ0OVU4TlF3clFXVWNsWm9RWDctMVdla01oTWNtNXQydjJUQnNKZnozVmR0WWEwQVg5TTdCb3FiM3JsWGtyUDZCcHBQT0ljb3l4QUpYMF92WFNLNFB6LUhfSkdNTExFenc2MGZFX3pFWnhOdUxSYkV6TnB3aXhuTC11MEJuRnl6V1ZWaW1ZN2lES0l2Y3hrNGc?oc=5",
+        "fonte": "RADAR DIGITAL BRASÍLIA",
+        "data": "2026-08-24"
       }
     ],
     "energia-gt": [
+      {
+        "titulo": "Sarandi terá ampliação da capacidade de transmissão de energia elétrica com novas obras da CPFL",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQdm9hOGxkRHBDa3duS1VwbkE3QmN5UTY1ZDdfXzM3TjNGRXZlbEpVRUQ2ZUZGb2FiQXg3Ti1LQWJhbWdWMU9YaTdSZUJzenFvNzFvd0U0azdBV2dLSGNlb3pzN2pwTGI0ZktRMzN4YUxPVF84MlZpcTkxY0FxMUN4cFZzVjR6UmdyWWN4bzFINFdDY3A3amJHRmF5Z0Q0dkc3VWpfOHl1NG9pUG1OdUdMRFFoeFVrQkJrZ3JURU40SUwyVmRNX1ZzUzE5UlRUWDNxYmExb3hVSDB1cEdaUmEydWJIVDBOLVU5MEpualpRUUs?oc=5",
+        "fonte": "Sarandi-Pr",
+        "data": "2026-08-19"
+      },
       {
         "titulo": "Carga acima de 4 GW para hidrogênio no Nordeste demanda investimentos em geração, afirma EPE",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU0syUUY2QU5CdWoxSWdGSE1FMHZ4T2h4bUgwUndqNzVQNFNMX20wczJuZDNZU0RsMnVFY25mYzBoRkNsbjFCemlqU0ViN0hweEJDcW9pei1mdlNKTklZWUV5ek5MRUxfekZCNmpFcjJ3eFRFVlRwYkgtbVdnX2t0dnNqclFKODFlZm5VU2w4X1Z2dGxBVmJYMG1Wby00Nkl5elQ3U3JrOFpweUUyVW1pbV91UGhPalJjdHVJREQ3VGRIUmtrdVNwRmVxNzVRZw?oc=5",
@@ -115,12 +121,6 @@ window.NEWS = {
         "titulo": "O impacto das renováveis no novo ciclo de expansão",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTFiQkFkUXFnLUM5MDZINjhVU1dRaHBvdVR2eTNwOUZYWjdvYzJDZzY3Yk96cUhiQ0VLTkN1TEZaVW96bV9MRF9rZ2hnQjFJUk4tb1ltM19DZ2lNd3lqanUwR2ZhcDN1ZXVJb0VfbG1udlhrSjFJdTk0cTVsejZkeUdOVlNCQTh0NjVJN0NPZEZEd0VCVjBwUzUxcUkwRDlpdlFwSUxHZTM?oc=5",
         "fonte": "Editora Brasil Energia",
-        "data": "2026-08-25"
-      },
-      {
-        "titulo": "Aneel rejeita perícia e leva processo de caducidade da Enel SP à fase final | Agosto",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaXJSZld2THJSd2NXWG5jZExLQU9TRXJEUk9iSkE2aDY4QjlPYlVTLVRsZ1V5T2xxb1VJckxicEQ1VVVKUExYMDVsVTM3Z2RRZTZ0OTZCS1FSZURZTWEyTWthb1JwREFpaW9SUnE5UldBSGlDcHBrSFVNQUNzYVR6MFRxanFYckoxOXp2d3JrN0pwYjFKOC16Vl9ranRYR19ZSWJJd1F4VG5sMmNHQThVX3ZEZ3prNUpoVWo1ZFZRSHpvaUNrWFBKbQ?oc=5",
-        "fonte": "XP Investimentos",
         "data": "2026-08-25"
       }
     ],
