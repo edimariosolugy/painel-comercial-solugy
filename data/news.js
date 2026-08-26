@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-26T10:37:51+00:00",
+  "atualizadoEm": "2026-08-26T11:32:48+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -92,16 +92,16 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
-        "titulo": "Lupo passa a vender 1,4 mil itens pelo iFood em São Paulo, Rio de Janeiro e Belo Horizonte",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGFxYlVHSXRhRHp1NXBTQ085UGJzQk9sZGJmQTRiRXU4S0xsT2RlejZQV2FTZFR5N2hxZGxHcWVHc0Zuc2wydG5yWTNQS3pDVktqeU1qTW8xcHdHY19jQkRIMllhTVY2TTY4VU4yWi02OWlnLW5ya2t5b3JhUGszamhhSUxKWFpzX0stZjF5VGRfRFJBbFgzYThaTkFhMFdBdmZnXzl0REJYVUtCWU5EWExINE9EYkFobWkxdHhKSElIWVdlT29Td3k0MlV6UG9sVk9lOGJCNGHSAd4BQVVfeXFMUEc4bEM2R0NYU3pzUjR5M2F0ckt4ZkFZQm83cmt0OC1FMEoyZGtQUTZjVjFWZmdUaDkyZV82R2ZmNUU3T3ZkR1gtZF9zRWVzRUtqQVlEUWl3YVdDQ0R0ZFlyRlJ2YXlnbE4yS3dPMkRFVEo2a3Z6enI3eG5FdWVRVEtOUWl3b0pTYXdZS3NhanZjWFo1bnBvOXBVeHpnRTc0Y1ZoWEZQQkJYMFpFT2VhNm9xZlA5S1ZoUGRrWDE1Q1lYNDA0b3ZJN21DQkNKaEFFaFRjUURkblZfWXZOQmRB?oc=5",
-        "fonte": "Mercado&Consumo",
-        "data": "2026-08-25"
-      },
-      {
         "titulo": "Exportações, varejo e interior movimentam economia gaúcha",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzdtX3dMaHhRZFdHTDJIVnB3X2ZqWEsxWmJFZWVwTnpiOVBkYmRfUHBWR3dEeFJ0OVU4TlF3clFXVWNsWm9RWDctMVdla01oTWNtNXQydjJUQnNKZnozVmR0WWEwQVg5TTdCb3FiM3JsWGtyUDZCcHBQT0ljb3l4QUpYMF92WFNLNFB6LUhfSkdNTExFenc2MGZFX3pFWnhOdUxSYkV6TnB3aXhuTC11MEJuRnl6V1ZWaW1ZN2lES0l2Y3hrNGc?oc=5",
         "fonte": "RADAR DIGITAL BRASÍLIA",
         "data": "2026-08-24"
+      },
+      {
+        "titulo": "Lupo passa a vender 1,4 mil itens pelo iFood em São Paulo, Rio de Janeiro e Belo Horizonte",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPbGFxYlVHSXRhRHp1NXBTQ085UGJzQk9sZGJmQTRiRXU4S0xsT2RlejZQV2FTZFR5N2hxZGxHcWVHc0Zuc2wydG5yWTNQS3pDVktqeU1qTW8xcHdHY19jQkRIMllhTVY2TTY4VU4yWi02OWlnLW5ya2t5b3JhUGszamhhSUxKWFpzX0stZjF5VGRfRFJBbFgzYThaTkFhMFdBdmZnXzl0REJYVUtCWU5EWExINE9EYkFobWkxdHhKSElIWVdlT29Td3k0MlV6UG9sVk9lOGJCNGHSAd4BQVVfeXFMUEc4bEM2R0NYU3pzUjR5M2F0ckt4ZkFZQm83cmt0OC1FMEoyZGtQUTZjVjFWZmdUaDkyZV82R2ZmNUU3T3ZkR1gtZF9zRWVzRUtqQVlEUWl3YVdDQ0R0ZFlyRlJ2YXlnbE4yS3dPMkRFVEo2a3Z6enI3eG5FdWVRVEtOUWl3b0pTYXdZS3NhanZjWFo1bnBvOXBVeHpnRTc0Y1ZoWEZQQkJYMFpFT2VhNm9xZlA5S1ZoUGRrWDE1Q1lYNDA0b3ZJN21DQkNKaEFFaFRjUURkblZfWXZOQmRB?oc=5",
+        "fonte": "Mercado&Consumo",
+        "data": "2026-08-25"
       }
     ],
     "energia-gt": [
@@ -234,16 +234,16 @@ window.NEWS = {
         "data": "2026-08-25"
       },
       {
+        "titulo": "Minerais críticos podem abrir novo ciclo de investimentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWVAycFM1QjNDZ1dVc0Q0a0YwQmhfMFpWSGNtQTh6RFZWaGUyS2wtT2JBQVVaajJfNDQwVkw1a3VrUU94VGdrUW1rblluZi1fc0pQSDY5REdTYXlXZkJhOUgwTTZSU0c2UUNjR3AtTDg4a0MteWQ0X3ZwdzZLczM5MnFyUFFEWjA2eXI5eG5sU1Ata1VZUFlKVkxFOWhzbTJFZTZjcG01Z1Z4eHc?oc=5",
+        "fonte": "TrendsCE",
+        "data": "2026-08-26"
+      },
+      {
         "titulo": "FIEMG debate minerais críticos e cooperação global",
         "link": "https://news.google.com/rss/articles/CBMipgJBVV95cUxOMmk0MHpiMHRNTi1xa1pOWU5FOV92RktqOWVaUFpyVFJ6eTBWeERWZWpaY2RMaWZlOURDRlp6T1ZuZVlkQy0ydWwxU0NhOC1kak5LeTY1V2xTOWo1YS0tYlhNX0VvMEk0d3VESXhrcWsxTHlBTElWZkpZMG9TcWJBOElMRm9oY0FZcFlPLVJpaFZYMFZUeGRaSVV0TEJiVmJxNjV1S3pvRGlEcWo3WjlXTFZ2UGFqZl9VU240TDBmaldGRmc1clJXQmc4eEd3UHFjNWZRTllUYUIzTGFjWHpzamprbXlOOHlmSkdXalE0TWNMaWtFbDNWNElxWVAtM0VSSzdiQ01FcFhjbW5NWE5WUnphWHdQaVo2bksxY19UVWZlZzhsY2c?oc=5",
         "fonte": "FIEMG",
         "data": "2026-08-19"
-      },
-      {
-        "titulo": "Lula diz que Brasil está aberto a parcerias com diferentes países em minerais críticos - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWNDa1RvS1Y4RDgwekJRYlVTeE1EWTVsQmZkRE1RdmFoVUFVUG5zMDZiVGJCc0ZkUEFQUXRZSzEzSy1Vc0pzOVh2UFRHbS02Z000RnlBeTJjWGM5MG1UNjdZQVpNZG83QVJRaGpsaW0ybWVmRk9haE8zUjVFY2NSOVRNMnhYYUFCdjBIY2dRQ3p5ZEhMb3lBajdhY2wzanBjZmczSUNvSDEzYndDUk5CVWZ3ZlNoNnk4cHcyOXpPa1p3dw?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-08-23"
       }
     ],
     "papel-celulose": [
@@ -254,10 +254,10 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "ANEEL deve votar pedido de perícia sobre caducidade da Enel SP na terça | Agosto 2026",
+        "titulo": "Braskem divulga acordo em discussão com a Petrobras para crédito de R$ 2,35 bilhões | Agosto 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQ0tOVmFaRzg5QjBhQ2dyVW05X1pZQkItZlROTEFqeG5PNm1ZTXkwUVlkMk5Fa2RLeENmQ3M3WEd5NXVpMkRiTm5kVWtYNVYxcUhmdjdqVWxYV2oxemtiZ3c2c3RNYTBvZ2s1Rl9YUzMxY3YxdkQydUh5bDYxYnVqWF91M3RRYmxpVkgxRk9XQXJCR1VfOEE?oc=5",
         "fonte": "XP Investimentos",
-        "data": "2026-08-21"
+        "data": "2026-08-26"
       },
       {
         "titulo": "A maior fábrica de celulose em linha única do mundo fica no Brasil, custou R$ 22,2 bilhões e produz mais de 2,5 milhões de toneladas por ano",
