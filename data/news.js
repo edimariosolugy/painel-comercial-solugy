@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-26T19:04:55+00:00",
+  "atualizadoEm": "2026-08-26T22:52:52+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
-        "titulo": "Brasil e Angola avançam em acordo para o agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNM3kzQ3pEMmlKT0dCeUQtTkNQTWo2aWpRTXBaaU1Mb3hKdUdrWnF6Ynp6Y0s0NzlFWnNtWFluMkFfUEY5blJySV8zU3NwUVZ6NzV3aFFFMEFtLTZxbnFwQ0VFSGFKb0FRUFFFWEp5b2NjWUNzNE91bC12RXIzTk1rOTFrd2NDcnlkNHZRbVoyaFhyZWp5ZUkzek1XRUc2TXNWcFM4?oc=5",
-        "fonte": "Agrolink",
-        "data": "2026-08-25"
+        "titulo": "21 de Agosto Dia da Semente: Semente certificada é um investimento estratégico para a soja brasileira",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNVXU4cDhsbzVtVWpEVkplVWlRU2M5eDZvLVVYbjRXNm00NjgtcnhFTWJFckxsWFlmTzZLQk5ma1NpVnJObEctRUx5U1lITk1rRjZuVDZLSk92N3NnZ2xseXBpNDJzYUxqU2RmdkRGYThVSTdDTXhCV2s5Q3hkWlZyOFFvY1k4OXJOYlU3Tk1jdExkMEw5Q3dwdC1IaEd1aEdoelJoQ05hS2o4Wnl6bDFnZnE0OTMyLTZFWU9WS1ROcDVsa3E4bHgtY2tiTXlNN0lZRDFFVldYNTdmVVAxc19mSzZuQmNnUWNxN1RZd2NaOGYyVTNuX2NqV2N6Qk05eG_SAYQCQVVfeXFMUHdzQXFmemx0OVZmWEUzbVg5RHZhR0xkNzRvSEVBeGtXdFpSMGU2T1BGNW5kY1VLd1BIeHVuMWxyU044Mnk1SEZ0ZzdaSDRSWTBLRExMdDZzU0RXX3p3clRRdklkdzVjWVFGOXJrZG5OQkNhazllVDIzWHZ2bGl0YkZ3cWtNVnZrbkxTWDJEa1pKOEFSMFVQRm1hNHktOW1qcC1iS0E2RjI3cmZTWmJmWm5TSjhjTWphSV90eUtZQmZSWjI2d1pueFZlVjB5eVlaZkRRckZvZkZRVDMycWppZmpJRnIxcU1HVkJKeHlLazhDRWptcUNlYXBuUXY5SEF5SkhHZ0s?oc=5",
+        "fonte": "Notícias Agrícolas",
+        "data": "2026-08-21"
       }
     ],
     "alimentos-bebidas": [
@@ -104,10 +104,10 @@ window.NEWS = {
         "data": "2026-08-26"
       },
       {
-        "titulo": "Exportações, varejo e interior movimentam economia gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZzdtX3dMaHhRZFdHTDJIVnB3X2ZqWEsxWmJFZWVwTnpiOVBkYmRfUHBWR3dEeFJ0OVU4TlF3clFXVWNsWm9RWDctMVdla01oTWNtNXQydjJUQnNKZnozVmR0WWEwQVg5TTdCb3FiM3JsWGtyUDZCcHBQT0ljb3l4QUpYMF92WFNLNFB6LUhfSkdNTExFenc2MGZFX3pFWnhOdUxSYkV6TnB3aXhuTC11MEJuRnl6V1ZWaW1ZN2lES0l2Y3hrNGc?oc=5",
-        "fonte": "RADAR DIGITAL BRASÍLIA",
-        "data": "2026-08-24"
+        "titulo": "C&A (CEAB3) liga o modo “Full Power”: varejista planeja abrir até 80 lojas e acelerar investimentos até 2030",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUE5NkVPbVZvaGJ0MnZkMGJBQnRDbloxMTBURWVBWlNweUtDbEE2WWlkcGx3eWozanBaRUFVZU1MMHFyckp1UVZZbjU1MWVocUdnemdqTmNlTjU0T3VXek5JTE1JRDEwRXdGSkdNNWhGeE1XWS1uNWZhX0xqOGhWdDh5VERCbVBMLUNSV0NaMFFOVjhsU1ZvV1ZBUkFmX1RoLXJUZFJOYi1nWDhrNVVwVlBvTFJjMl9IeU4ySFMtMTRMR3VjMTFpd085SWNqdHVwbnBwUVZ2UEpWb05kNUZwcXRCWUk?oc=5",
+        "fonte": "Seu Dinheiro",
+        "data": "2026-08-26"
       }
     ],
     "energia-gt": [
@@ -153,16 +153,16 @@ window.NEWS = {
     "epc": [],
     "farma": [
       {
+        "titulo": "Ministério da Saúde participa de fórum internacional que debate produção de medicamentos e tecnologias na América Latina",
+        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaEF2QUVrdkxNX2lXS3NqUm5xUVM5U0M2dkRQZEdfRzFkUk9zd3hiVVlnMEJ1N0FmbmhEWXlGWGZ1NVYycmQ0ZlBIektVbTdKc0FvMW5tcGQ3WlFfd1lSb0RhamxSS1huTmh0bklrclVXcjM2VDBMZU1NZ20weVdlRlU1VkVielQtRW1RZm1DNTZ2SElHNHQxaWZFcUh6bEVlTVA5MVZwUTRrcUE3SVZ5NmVYMUZta3ZFYUxrdEVGaFZNWF9XWVF3NzZqeW5MTExkOUFYUUUxVXV0ZlF3S0F1QTJQSnp4Y2hiMjFkcVhWZEtzVGhDXzFkR1hSZHpqaWpzaXRTZUxVdXNTYTZzbURQeVhR?oc=5",
+        "fonte": "www.gov.br",
+        "data": "2026-08-26"
+      },
+      {
         "titulo": "O tempo da ciência e os riscos da pressa",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHZHcVV2dUEwcnFfUDlRLWs3RlhBVU5DcE44OVFIUTR5eWFKRGtmOVpfaXNrOU5QWDVUcXNDWFBEWDE2WmhXNDE5Mk5yaUc3ZWk5dWNaTTFiUi1TazdlMTlFbGloOXpZLWZkcVFhVlE0elVTVExvS2NoRU9TamdvR1F4VQ?oc=5",
         "fonte": "Futuro da Saúde",
         "data": "2026-08-25"
-      },
-      {
-        "titulo": "Alckmin defende aumento de exportação de medicamentos produzidos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQkRRNUhUeE5qQUszZHFhTlVCT1RtaTJtaGZoc0V3bld5cS1lTUtaYU5DRlhVQWVOWDAtemliVGhETE5CUDFKdXJSb0RJSlg5aE9lOHZXSVg2QXUwU2x5NWdYdUJwWG5vSHRsY3J3dlJjdlFkejluS19rWndZSDNMaTJ2OWhLN0laQXFzNjdMQkR4ZUREUW5FbDY0SU5OaVViQTlhQ0MzNzZfQlMyVkZCOUhQcWJvWUl2MExuaHlmbw?oc=5",
-        "fonte": "blogs.correiobraziliense.com.br",
-        "data": "2026-08-19"
       },
       {
         "titulo": "Indústria farmacêutica movimenta R$ 230 bilhões e projeta crescimento de até 14% no Brasil",
@@ -200,16 +200,16 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
-        "titulo": "[COLUNA OPINIÃO] Precisamos desenhar e consolidar a nova logística do Rio Grande do Norte",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOazhMejYzVldUcldkMjlwT29mbjZ4WWwxNHh1MTg2SjAwMS1ydmhSWXFNamdzYzJPQUFWNkd6QjgxcG5JcExkaDZvdVl5eUNCVzFPbWhLOXRsbUt4aWdoZlZIbGxnQXNpUjlBNHRTZkxCbW5SMV9BS00tWFZiSG5SZVlLbUduLU56cjE3T1lqWkgycGttZmxIWUtESVIwYjQ5N3RZN0FocFhFODRmWEY0dFU5R2EzLWxZdU5vNDZ6QzdRSzlpSUt4cw?oc=5",
-        "fonte": "Mossoró Hoje",
-        "data": "2026-08-19"
-      },
-      {
         "titulo": "Argentina licita 7,6 mil km de ferrovias de carga por 50 anos",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0RTZFFfeWF6QVpJVzA0akZydXowd05jNHV1V2lRSnN2ODV1d01MNkxUVGdwQ1JJN040T185d2EtTl8xQ2ZrdW5iNm05MUZGSXBkanBQTHZyeVpjQUtrd1hwaG43Z0piSzV1MHlPTk1mVU00U1RPZ0E4bGhUcm5OMmRnbVgyWVlwX29hZW91UENjekZOOE1NaEtOTzRzZzdSb1lvbE9IUms?oc=5",
         "fonte": "Transporte Moderno",
         "data": "2026-08-24"
+      },
+      {
+        "titulo": "Perto da Via Mar: proposta de ferrovia litorânea de 250 km para SC é mantida em Plano Nacional de Logística",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQci1Zck9kdWdQQ1JtczNGb0xNdmVSY2M4aGtQdGF0eXJHZlpwZ2lKRHh4dzA2M3Q1OW15NTVXdjJ5UmRiajMtSjRvMmNqclZ6RWZxMGt4c1RodE1weFptT3hjdWdKN1BKR05ZbzRBeG5LWHIxTGI1bzVNRFpGWm1LSkhOUHRIQzRTcjNBTGlmTjhoQkVoaUFOUVg2VEFtdUR5dzRkSmdybHJaQVNtaUVrZUpNNm54ZVJjczlEWTFNeXBZazRBeFplaXZiVm45ZkxydmNRMlhjU3JSeTdwdmJtSzE2MjR2UXJ0anc?oc=5",
+        "fonte": "NSC Total",
+        "data": "2026-08-23"
       }
     ],
     "maquinas": [
