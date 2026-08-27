@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-26T22:52:52+00:00",
+  "atualizadoEm": "2026-08-27T04:23:40+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -153,16 +153,16 @@ window.NEWS = {
     "epc": [],
     "farma": [
       {
-        "titulo": "Ministério da Saúde participa de fórum internacional que debate produção de medicamentos e tecnologias na América Latina",
-        "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQaEF2QUVrdkxNX2lXS3NqUm5xUVM5U0M2dkRQZEdfRzFkUk9zd3hiVVlnMEJ1N0FmbmhEWXlGWGZ1NVYycmQ0ZlBIektVbTdKc0FvMW5tcGQ3WlFfd1lSb0RhamxSS1huTmh0bklrclVXcjM2VDBMZU1NZ20weVdlRlU1VkVielQtRW1RZm1DNTZ2SElHNHQxaWZFcUh6bEVlTVA5MVZwUTRrcUE3SVZ5NmVYMUZta3ZFYUxrdEVGaFZNWF9XWVF3NzZqeW5MTExkOUFYUUUxVXV0ZlF3S0F1QTJQSnp4Y2hiMjFkcVhWZEtzVGhDXzFkR1hSZHpqaWpzaXRTZUxVdXNTYTZzbURQeVhR?oc=5",
-        "fonte": "www.gov.br",
-        "data": "2026-08-26"
-      },
-      {
         "titulo": "O tempo da ciência e os riscos da pressa",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHZHcVV2dUEwcnFfUDlRLWs3RlhBVU5DcE44OVFIUTR5eWFKRGtmOVpfaXNrOU5QWDVUcXNDWFBEWDE2WmhXNDE5Mk5yaUc3ZWk5dWNaTTFiUi1TazdlMTlFbGloOXpZLWZkcVFhVlE0elVTVExvS2NoRU9TamdvR1F4VQ?oc=5",
         "fonte": "Futuro da Saúde",
         "data": "2026-08-25"
+      },
+      {
+        "titulo": "Quais são as maiores empresas farmacêuticas do Brasil e do mundo?",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPY0FfSW54UVh3WHFpLVg1LTRBNTltOWFEeFU2LWIwVjF0Rm1hU244MWlsZUpacjhtU2RYbjNLU3EyZlUtaTdaLVpTakV1azRDd2g0LVlpQlZ1bGlOOXNKSzd6T3ZLWC1ZSzFRaU9ybzFPd3F1MzJLdzNScFNVY09XWEV3?oc=5",
+        "fonte": "Toro Blog",
+        "data": "2026-08-24"
       },
       {
         "titulo": "Indústria farmacêutica movimenta R$ 230 bilhões e projeta crescimento de até 14% no Brasil",
@@ -200,25 +200,19 @@ window.NEWS = {
         "data": "2026-08-20"
       },
       {
+        "titulo": "PLANO NACIONAL DE LOGÍSTICA 2050 PREVÊ PREVÊ 26 PROJETOS PARA A BAHIA",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHFONzRaRVZoWlVXVWlfVFZmUk1IZlo3RUVGN3daRy1RTnNSTi1lemFtVFBSQXBIdm9hTmFUcEhScDA4cURIZ0VtbF9XeFJMOWVwcXBCekF5blZLcnZ0aUdZVzFqbno3YlpSZkFVbUhjZE9uenZ1UEVXbmlfdm1MaG1VUWJHZXM0S05MYTRpRnVPX1pPQS1ac3g0bVNvaDFWdmJHOW9IN1EzV28zeWJUT1JGbVg?oc=5",
+        "fonte": "- Bahia Economica",
+        "data": "2026-08-26"
+      },
+      {
         "titulo": "Argentina licita 7,6 mil km de ferrovias de carga por 50 anos",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa0RTZFFfeWF6QVpJVzA0akZydXowd05jNHV1V2lRSnN2ODV1d01MNkxUVGdwQ1JJN040T185d2EtTl8xQ2ZrdW5iNm05MUZGSXBkanBQTHZyeVpjQUtrd1hwaG43Z0piSzV1MHlPTk1mVU00U1RPZ0E4bGhUcm5OMmRnbVgyWVlwX29hZW91UENjekZOOE1NaEtOTzRzZzdSb1lvbE9IUms?oc=5",
         "fonte": "Transporte Moderno",
         "data": "2026-08-24"
-      },
-      {
-        "titulo": "Perto da Via Mar: proposta de ferrovia litorânea de 250 km para SC é mantida em Plano Nacional de Logística",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQci1Zck9kdWdQQ1JtczNGb0xNdmVSY2M4aGtQdGF0eXJHZlpwZ2lKRHh4dzA2M3Q1OW15NTVXdjJ5UmRiajMtSjRvMmNqclZ6RWZxMGt4c1RodE1weFptT3hjdWdKN1BKR05ZbzRBeG5LWHIxTGI1bzVNRFpGWm1LSkhOUHRIQzRTcjNBTGlmTjhoQkVoaUFOUVg2VEFtdUR5dzRkSmdybHJaQVNtaUVrZUpNNm54ZVJjczlEWTFNeXBZazRBeFplaXZiVm45ZkxydmNRMlhjU3JSeTdwdmJtSzE2MjR2UXJ0anc?oc=5",
-        "fonte": "NSC Total",
-        "data": "2026-08-23"
       }
     ],
     "maquinas": [
-      {
-        "titulo": "Intenção de investimento da indústria cai ao pior patamar em 2026, revela CNI",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORkVqU0ZVN25WZVhzakZCOGM3c3hnRGFfVDFjV1h5SUhNWjZYUUpWd01VWFduOTlqZHZFUEV2djV1SG9jZUM2eGFzU21YMXdjN05YSWtFNnVxUmthVW9XRkFXRUxua2VoYnM1UWcwUGplZmpvVUpaaVF1LXIxb0w5WHZ5aTZQNnBkdmRreUE4ZTdudklsQkhldUQ4OFdHOG1LeDY1c0tVRXgyUHdnWV9rVmJXUm5zRGE3TnZwZkI4MmdEcFpzdXFRNHk2aUc1WnhpRU9N?oc=5",
-        "fonte": "Agência de Notícias da Indústria",
-        "data": "2026-08-20"
-      },
       {
         "titulo": "Secretário de Política Industrial diz que programas de crédito do governo elevam investimentos e nega contradição com juros",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPYVJRVFRtV2NzdHpCSFUyeENwMzNwNk1IbkJZVS00VWNPNk5rWnZqQmpQaWdfdzZ6ZWljQ3hGc1N0VTNkN2hqdFlHNHlTbzlTLW9PdHpyVEtXVnhlSlUyNmlnOGZfaHNLYjgxMW5tMU83eGNmYXFLTVRId3RsNXVoRHpRUVZtQUpWMzhPRHJVOEwxRUtncXYyVnZDQlpZYnVFbTZyMUh2anhONWlyQjF5emlNZ3BKZXA2RlIyMWQwWXY1TmNlbDFrV3ZkY2JGaEJhVndoZWdtWDhXWXJIamVISFBlNGlZYmpMeEUwSTM5M3QwY2U1djdrcVZHVWIxb09IN1hIQ1JERFRRVmVHWjdpQWkwcEFueVMz0gGnAkFVX3lxTE1WX21PSGJhNFQ2TTRaSDNnT0xfYVdNNWhHcEg5dmhJOUhzTUp0akNsdG51TEt5Z2Z6LUxGZGdMWFgyM0tDY0RqcWoxV01NRHhYNkZ1V0ZTSU8welVueHZBeWU4VzJvWS1BVmh0Nm5vcXFVX0xVa3k1NXJMUjFRLTBaOXkxZDZQMERGSmRFZ1hybWF6dmNrTGNUV2RIakpSWjdDYzc5N2V5MXctcm03Rmo1c0ZuOHJEWUZFd25FbzRBYzFUd1RjZHpTMDdlVkNWazk5OGE1dEdBYjlYYkRTWHpiNl9IRHM2SVIxTlIzbG11S3pKSjNiUDhwdFZ2TTBxdTE1MkZvNHFXU3BqMDZHWnhWMS03NVh6TjlrVWNEVVBCVmJlaktBeU0?oc=5",
@@ -230,6 +224,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQT185VTE1ZzhQcndpTWdqMmdHQ1ZzY09Wekd5X0pMWWQ0UXRIMV8yeHJoM0JyOFk2c2s3V3pOWmZoRVRrNGRKLThBZ0I4eFJMaExZQkJTOG1pUEhFa2hWUUhlbjV0bEhidndUWHpVcUMyZXdWc1ljc3N1TjRMSUxLeVo4M1o2YWd2UjJnczVacm1QNWJKajh3WUJnZXNGMDdzMWQwTFp0djVsRlVjNXFHemJkbw?oc=5",
         "fonte": "autodata.com.br",
         "data": "2026-08-21"
+      },
+      {
+        "titulo": "Brasil e Índia ampliam diálogo comercial em agronegócios e investimentos",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaUdRakpjaU9RS1NOUW9mYjZwdFlsc2h6N3dhWGJmTmJocDliN2xTUFhDWC11a0pLcS1lY1h2UjdLTnRjcGZ6RkUtV09GNkFYZi1lQkl1UXN3TTloZF9NZDdtZHBWTTF3SGdlb3VyWXpkVDRNcXZmOHZfMmpJWEx5dFE5MHd6QkRoMFoxRDFpZGc4VTlYaDZv?oc=5",
+        "fonte": "avinews.com",
+        "data": "2026-08-26"
       }
     ],
     "mineracao": [
@@ -246,10 +246,10 @@ window.NEWS = {
         "data": "2026-08-26"
       },
       {
-        "titulo": "Lula diz que Brasil está aberto a parcerias com diferentes países em minerais críticos - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdWNDa1RvS1Y4RDgwekJRYlVTeE1EWTVsQmZkRE1RdmFoVUFVUG5zMDZiVGJCc0ZkUEFQUXRZSzEzSy1Vc0pzOVh2UFRHbS02Z000RnlBeTJjWGM5MG1UNjdZQVpNZG83QVJRaGpsaW0ybWVmRk9haE8zUjVFY2NSOVRNMnhYYUFCdjBIY2dRQ3p5ZEhMb3lBajdhY2wzanBjZmczSUNvSDEzYndDUk5CVWZ3ZlNoNnk4cHcyOXpPa1p3dw?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-08-23"
+        "titulo": "Minerais críticos ganham espaço nas estratégias globais e ampliam protagonismo do Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPR2hITUpBVTRGd0hnUF9ybDBweDNBSDZvbldBSUVmZG9sbEFlUTVxdFFkRFl6d2Z0QnlxTUpMMkZXRUZJUHRyaFJtVzZnT3RmdmZlVmNEYzlvWFExR2o1UmZDMExSSlNfekZXNHcxUnFNbmd5OGd4b1NXVjhRQ0xmX1lJWVNpSkNQV251VEhnZERKM2JPYUZYSWp2Q281UTNSSUwzOG0yb2R2bXYtRV9JSGxyRjBXUk5TMXc?oc=5",
+        "fonte": "IBRAM - Mineração do Brasil",
+        "data": "2026-08-26"
       }
     ],
     "papel-celulose": [
