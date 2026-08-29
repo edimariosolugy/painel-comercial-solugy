@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-29T14:14:40+00:00",
+  "atualizadoEm": "2026-08-29T18:14:15+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -245,16 +245,16 @@ window.NEWS = {
         "data": "2026-08-27"
       },
       {
+        "titulo": "Brasil Soberano III: Conselho Monetário Nacional define condições de financiamento",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NMXlMWk9vOVFVSnBsaHVMQWNLTTczQXZzbWU1Mk5LZUdtVFRGM2tEOExnN1hONVYyLTlMVGlvNW9oTDJONXo5bjlHQXdsLUJrUllwVTB0OUlhQWxpYjZ5UTE5SEhxVGZRVDVmRG5ocnBPNUpWMi1SZk1B?oc=5",
+        "fonte": "TVT News",
+        "data": "2026-08-28"
+      },
+      {
         "titulo": "OVALE: A queda de investimento da indústria brasileira",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQU1mTGxRQy1feDIyQldEclEyNGZSNWhFYlFkajNSZ1RGQXI4NllTZUMwSVBJYkJvZzFlc0Z0UlhnNjh2MnRIWF9mUUNHOTZqVU03bWFxZXVBZVJwWXRLZ3EzVTRHNnNqWXRab01yNldlWGpmTjNfc2hEaGlXcUJKdXhxVHZrODl6R2VyT3VnUHI0emNacDRTMi1QaXJoMWtqUzYySU4tV3pJankzTVZpTg?oc=5",
         "fonte": "sampi.net.br",
         "data": "2026-08-25"
-      },
-      {
-        "titulo": "Carta aos presidenciáveis: Abimaq apela por estabilidade econômica e metas até 2034",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQXhiU1Y1N2lYMzVDUUFMTnpidnl0OWF3dHhPN2wwNzVCa21POVZVZlk0cjZONWhiZVk3N2Nvdlo0S3JiX1JsZlZoNEdQVUF3a3VDREpyX2tmNnNEOUNjSmtNU19oRW05c2JDeDM2cm14YmJwNzQ4MU4xR1RSOFZIX1RTVjVjNW5BX25nbFl6bU9OZlphZUZZeHc2RHl2ODlFMU50TzNIRTRZM1VmS2tDSVBSTVRRRGpZRm9LX2ZwdHZhSlBHZ1ZRR05GN1UyaFk1V1Bz0gHYAUFVX3lxTE5qZmpyN0YxUDZ2V0lEb002bVVWM0NkNlFCOUk0VC1mMS02UFY5cURQb3R2dlFyalNJWTVUVFBJN2JMbFpwUDhMZWxyS1gtWWc3cUJENFU4VHVRNkJyNWY0dVNnVkVwZmlOUVVBLUxTRFhVWFlReHZwQ0txNEx3aGktcWZ0OHY3MG9KS1ZGdDZpQThNbC1palFETXdGUVpyTHU2eTZOT2tWRF9hUWtnUGNXS2JtUmh5VXhsX3pFQWRkOUxxaUR2TV9ndGhRYkFqcU5YS1M1RUlJbg?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-08-26"
       }
     ],
     "mineracao": [
@@ -271,10 +271,10 @@ window.NEWS = {
         "data": "2026-08-28"
       },
       {
-        "titulo": "TERRAS RARAS | Vinte e um projetos, uma mina, nenhuma refinaria",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVFBuYmhuVHRMSE1sUURKMlVoc3c3di0yTTVwZlF5ektQLXhJZmFlVmhSSjBUbVFoak80Y2dTWTN0NG9qUTdUVnVuUXZJVTRhSm5XZ1FoeW1WQUhaYW5OamZxeFVCRnExVW9KeE1rV2F3YlpSdVROUU1fbFhUUWRkbjNhQ0tFQXVOMnNvOQ?oc=5",
-        "fonte": "Brasil Mineral",
-        "data": "2026-08-25"
+        "titulo": "Brasil tende a ganhar espaço no mercado de minerais críticos, mas precisa fazer ajustes",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNY3pCUTR2LUpFdXNURHNDdXh4YTZ4eFNnY0w4dDZqbllrV2tvM043WFowbk55Ty1ROWpCLXJ0TTlYVjBUZjBGcXI4X0xGXzBoQ25qdXYzOW5iTVV6cGVOcUwxeDVJanZEbTdQYmtLUnR0ZkZfSl9qRXNaWnN6VkN5X3p3d2RMczQwR0VrV1lJdjROSnhYaTM2Y3lWb2ljd1lJby1haW4yN3VZQmFCWnlVVi1jZFlvRU1LTVp1VFdXdGIyM0FJUWlYdlI1YWRseG45WFNsRjZSVEoxUDFL0gHrAUFVX3lxTFAydDZpbTFaWDhBMTlwX01jbXVaaVgzSmJVcWtIYXFoemZYeTMwV1lVRFNTQlVnenllazVVRHE1TUttRkxRcXVwWW92SGd0V2stenZWZTFTSGQ3N3U5LXRXS1I2UVkxUkNKYVVSNzA4VGo2VVN4a3ZBN1VkdktuSHlsd1pja25INkJ0Vkt5VlZMMW40VVk3Z3BseThIZTZINVA4QWdyUUNNV0t1UFdCUjRMOHhwRFEyRTlyNkdxS3F0MDEyUTNpOHlkNE9nTm9IQXpIWmtiNTFNRmd1cXdjSDhlNmFnZ25jRjNrRkU?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-08-27"
       }
     ],
     "papel-celulose": [
