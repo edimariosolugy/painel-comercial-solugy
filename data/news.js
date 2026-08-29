@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-29T18:14:15+00:00",
+  "atualizadoEm": "2026-08-29T21:33:16+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -76,9 +76,9 @@ window.NEWS = {
         "data": "2026-08-26"
       },
       {
-        "titulo": "Etanol paulista pode receber “hub” para captura de carbono",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOODdlNkQwLUQ3TEtjbkM2ZUpxT0xVMTZrZ1Yzb0k0TFNxX0NoV3pXZDRaUzVGN2RnZmRsaDl6ZDdyN0x6elpUa1ZzVEJ1Z21zZHVGQklCQ1N5NVUwbWlHdllEdjZHaktzM3BOWlNydWU3TDg3VXRiNFNGR21TWHZlWndCNEhNMUlab2c?oc=5",
-        "fonte": "Visão Agro",
+        "titulo": "De cana ou de milho: conheça as usinas flex que ampliam capacidade de produção de etanol com os dois insumos",
+        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxOVmJRQjFVMXFPYUU3ZjNsWGFoNFRGZFFVZk43aGl5V1U1TzZDVDE0MkNKTkhGVUt4VFRmRU1oUTltd0JLd1A4b3FxYkM2WmxiWUtOcFV1bVJOd3VNQy14alJZcG9hQ3B4R1VySXkwTUlfNGxnZlh1WGVkRnNLdkltN19MZUVVZ2kyNzlzUEtZVnMtWW5ib185YTlBOEdIR2RsNVJvVGZwS2dVRlZxeUlLQ2Q0QzgwSHlUVUFTaHd3VkRmWDVFVHVxOTNhdlBQcU4ycDdaQ2NEN1hwV21ZU1V3NEpuOGhMQVIzUGJvYm53R01qZW1TdGdXNWdMUjE5UGRLOWVuYmZQTjloM2xiWjlWaWNhUzl0d9IBpAJBVV95cUxOcEc1dlJQMDNrN2VROHJleEJVRXdEWldSZGhVajB5cjZ6WDJBWGt2a3NQMENmblY0SDhScjBab2YwNDdqWk9hRFJTOFlsQ3Z4eEluVjRRTVA2OE5MRlJHNzl2ampxdTA3SmF0eHY4OVNWdVFGZ0hKV2hRcV9weldodHpsRHRuc3JTMWg5TFJyN1JvS1VzaTZZZzU0NWR2YmVVbXEzTi1FaTR5QWJUTDBJb3pFOF9BZUJ5bExSSTk0N3cxWXljQ3FOLXF6UFZwd3JITEdTU2hhUi1zMUFSSWwtdVlaNlBRemZvWlJwQzV3VUlNZDNQQ3g1ekpxQzI3azR5djVJTkcxWXRkY0J0UnhfVG4zcGhOeU1HMUl0VW9lSDM5NEpt?oc=5",
+        "fonte": "O GLOBO",
         "data": "2026-08-27"
       }
     ],
@@ -104,15 +104,15 @@ window.NEWS = {
         "data": "2026-08-24"
       },
       {
-        "titulo": "C&A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzdTVzgtdXNLQklOSk1MdlFmcVlZLXNqODMzWkt5ODRWSmNMSEF5elNWN1JKMEp0YWZTWDdCM0RMeG42WVNwM1hwanNDeDFxRWdoTTR3T2VLLVNQSUlsZl9wNzk1THBwUHBOcVRLY2U0VU4xMjVsb2VVekdaSElpNzlQQk9PYndoaEJUa2tLdnFaU1pBd3AxRHBxUVdvMkkzZTJEUjIxV2g5bXUwREg4?oc=5",
-        "fonte": "DComercio",
-        "data": "2026-08-26"
-      },
-      {
         "titulo": "C&A (CEAB3) liga o modo “Full Power”: varejista planeja abrir até 80 lojas e acelerar investimentos até 2030",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQWUE5NkVPbVZvaGJ0MnZkMGJBQnRDbloxMTBURWVBWlNweUtDbEE2WWlkcGx3eWozanBaRUFVZU1MMHFyckp1UVZZbjU1MWVocUdnemdqTmNlTjU0T3VXek5JTE1JRDEwRXdGSkdNNWhGeE1XWS1uNWZhX0xqOGhWdDh5VERCbVBMLUNSV0NaMFFOVjhsU1ZvV1ZBUkFmX1RoLXJUZFJOYi1nWDhrNVVwVlBvTFJjMl9IeU4ySFMtMTRMR3VjMTFpd085SWNqdHVwbnBwUVZ2UEpWb05kNUZwcXRCWUk?oc=5",
         "fonte": "Seu Dinheiro",
+        "data": "2026-08-26"
+      },
+      {
+        "titulo": "C&A chega aos 50 e anuncia plano de expansão com 80 novas lojas até 2030",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUzdTVzgtdXNLQklOSk1MdlFmcVlZLXNqODMzWkt5ODRWSmNMSEF5elNWN1JKMEp0YWZTWDdCM0RMeG42WVNwM1hwanNDeDFxRWdoTTR3T2VLLVNQSUlsZl9wNzk1THBwUHBOcVRLY2U0VU4xMjVsb2VVekdaSElpNzlQQk9PYndoaEJUa2tLdnFaU1pBd3AxRHBxUVdvMkkzZTJEUjIxV2g5bXUwREg4?oc=5",
+        "fonte": "DComercio",
         "data": "2026-08-26"
       }
     ],
@@ -184,25 +184,25 @@ window.NEWS = {
         "data": "2026-08-26"
       },
       {
-        "titulo": "O tempo da ciência e os riscos da pressa",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHZHcVV2dUEwcnFfUDlRLWs3RlhBVU5DcE44OVFIUTR5eWFKRGtmOVpfaXNrOU5QWDVUcXNDWFBEWDE2WmhXNDE5Mk5yaUc3ZWk5dWNaTTFiUi1TazdlMTlFbGloOXpZLWZkcVFhVlE0elVTVExvS2NoRU9TamdvR1F4VQ?oc=5",
-        "fonte": "Futuro da Saúde",
-        "data": "2026-08-25"
-      },
-      {
         "titulo": "Indústria nacional responde por 79,2% das compras públicas de medicamentos",
         "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wVFJVUmxUX1M3T2xjOHphQ1NBN0R0OTQtQXV0ZWFVUXlGTFpNTGRMSTlMUjdVQkphTm1mOUZlR0VCVzIxWDBPMWVKQ2FVLTJFZ3B5VGx1d2lYN2xqYmtnT2ZIcUJwWGF0U0E?oc=5",
         "fonte": "Medicina S/A",
         "data": "2026-08-27"
+      },
+      {
+        "titulo": "O tempo da ciência e os riscos da pressa – por Luiz Magno",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZHZHcVV2dUEwcnFfUDlRLWs3RlhBVU5DcE44OVFIUTR5eWFKRGtmOVpfaXNrOU5QWDVUcXNDWFBEWDE2WmhXNDE5Mk5yaUc3ZWk5dWNaTTFiUi1TazdlMTlFbGloOXpZLWZkcVFhVlE0elVTVExvS2NoRU9TamdvR1F4VQ?oc=5",
+        "fonte": "Futuro da Saúde",
+        "data": "2026-08-25"
       }
     ],
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "China avança na indústria e exportará 21 vezes mais carros que o Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOODV0Y3pWZGVpbnh3RUR5Vjg3R21ySGcwSkVNUGVfR2Ztamtjd19zVllGcktmWDl0b1EyOFR6d19PUHJxZDR5b1d6ZVotZXdoazNMeU9Ka2lFVXdBbFczeTBKZG03dzhGQmswR3JMc0ZOa2hIVXBqVnlJcmZrRmxEcUllS2dQeE91ZjMxZktuLVY5OHBRODdBX01BajAtTHRONnY1akJ2OTBwdWM?oc=5",
-        "fonte": "vermelho.org.br",
-        "data": "2026-08-24"
+        "titulo": "Painel S.A.: Sabesp atrai fabricantes globais de hidrômetros inteligentes ao Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa3BPMU9Ya3NQeVVSc2xfMlRET3A3QXB5Q2ZVMUZsdnJlYXpWeTBpWFc1WUpyNzJKRVl4WmJDNkVMaDZUSjZ3aEhXaktXamtGRUM5WkFacjBYOUpNa2dGY2NUXzVyX3dYSHBDRUFkMXloUmhVNHV0T2gzXzBkMEFBOTlJWUlxUEMyNmRPZzdyc3dBZHRLakZNQ09QSi0xZ2d6bWJxZkd3VElDMENJZXBsUUxKQkVPVS0ydjNFSlpFbWV1bzNaQi1rYlFWaw?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-08-27"
       },
       {
         "titulo": "Americana recebe multinacional chinesa com investimento de R$ 140 milhões",
@@ -211,19 +211,13 @@ window.NEWS = {
         "data": "2026-08-25"
       },
       {
-        "titulo": "Painel S.A.: Sabesp atrai fabricantes globais de hidrômetros inteligentes ao Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPa3BPMU9Ya3NQeVVSc2xfMlRET3A3QXB5Q2ZVMUZsdnJlYXpWeTBpWFc1WUpyNzJKRVl4WmJDNkVMaDZUSjZ3aEhXaktXamtGRUM5WkFacjBYOUpNa2dGY2NUXzVyX3dYSHBDRUFkMXloUmhVNHV0T2gzXzBkMEFBOTlJWUlxUEMyNmRPZzdyc3dBZHRLakZNQ09QSi0xZ2d6bWJxZkd3VElDMENJZXBsUUxKQkVPVS0ydjNFSlpFbWV1bzNaQi1rYlFWaw?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-08-27"
+        "titulo": "Regulamentação do Brasil Soberano 3 é decisiva para mitigar impacto às indústrias atingidas pelo tarifaço, avalia CNI",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONmpkb2V2UFBJU2FXanRTTUNHTkhVUnRvN0JVeUdlaU1ueE01Zk1tdHpXUXMycWVfYl9nbGt2cFFydkZ0azNwUmJDOFdEUzlKYzVQRTFHYjVSbHQzaVNSZUFhRk9fZGdwd0FwTDN6cEI1S3lQREZLVTI1RzBoMTI5RjFLTGJlcmJiLTVPMi1OOUlycUxXVlBBdFNRc1NGbVdjeml6enBNOHliVlh2bFk5eGl1T01CcTRxOG9ENExiUHItZ3JaanFENzRpc21fZlRlZ0dBY3c3TVdPd2dkZHdhYk9kQTFTeUFZay1RYkZMeW1UVnFBVjVEbDN0aTVMWDQ2bTZaVlhR?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
+        "data": "2026-08-25"
       }
     ],
     "logistica": [
-      {
-        "titulo": "Bahia entra no PNL 2050 com 26 projetos e previsão de bilhões em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOHNQemJhN3NueHhUcnpnd2NGQk5pMV96Wm81MHE2ekNyalp0ektsRmliQ3ZqQUF1T25qQ1hZeE5zUExQOFl4Q3ZvTjhsWFJXczNnWW5OOThLRF9NZkt0Uk5ISUx5N3dLZVRNMG02MnpsWWRrTFkxSDM3RnJVM2x5dUNxLXVNZjlZd09QQXJJakg2X3hOU3BqemFyUEVMVDFhcUYta2JLeDBGMk5MbkFGWGVRZWtJeHo2amRHMEdRWlY?oc=5",
-        "fonte": "Acesse Política",
-        "data": "2026-08-27"
-      },
       {
         "titulo": "O que os candidatos à Presidência da República prometem para o transporte e logística",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQXzVZdWtHY3R6R19ObmtaOTFXdmdyTG9nRXJXencwQmRObGFRS2pfZUhLenRzOWFHR2hVeUE4QXNGbEYza1NJVkZ6SFI3bkk0aHF5RG10UWstaXNoMDFlcHFiMFpreUFreEJGamlweTFRY0pBRnBOX3M2SEdodU9JS1JBRzJBWE9waV84Sm5DOEVISVpjSTlROTBsQVpIa3Y1Z3lidg?oc=5",
@@ -235,6 +229,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdHFONzRaRVZoWlVXVWlfVFZmUk1IZlo3RUVGN3daRy1RTnNSTi1lemFtVFBSQXBIdm9hTmFUcEhScDA4cURIZ0VtbF9XeFJMOWVwcXBCekF5blZLcnZ0aUdZVzFqbno3YlpSZkFVbUhjZE9uenZ1UEVXbmlfdm1MaG1VUWJHZXM0S05MYTRpRnVPX1pPQS1ac3g0bVNvaDFWdmJHOW9IN1EzV28zeWJUT1JGbVg?oc=5",
         "fonte": "- Bahia Economica",
         "data": "2026-08-26"
+      },
+      {
+        "titulo": "Perto da Via Mar: proposta de ferrovia litorânea de 250 km para SC é mantida em Plano Nacional de Logística",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQci1Zck9kdWdQQ1JtczNGb0xNdmVSY2M4aGtQdGF0eXJHZlpwZ2lKRHh4dzA2M3Q1OW15NTVXdjJ5UmRiajMtSjRvMmNqclZ6RWZxMGt4c1RodE1weFptT3hjdWdKN1BKR05ZbzRBeG5LWHIxTGI1bzVNRFpGWm1LSkhOUHRIQzRTcjNBTGlmTjhoQkVoaUFOUVg2VEFtdUR5dzRkSmdybHJaQVNtaUVrZUpNNm54ZVJjczlEWTFNeXBZazRBeFplaXZiVm45ZkxydmNRMlhjU3JSeTdwdmJtSzE2MjR2UXJ0anc?oc=5",
+        "fonte": "NSC Total",
+        "data": "2026-08-23"
       }
     ],
     "maquinas": [
@@ -331,12 +331,6 @@ window.NEWS = {
         "titulo": "Quanto custa montar um consultório odontológico no Brasil, cadeira, equipamentos, licenças e reforma somados",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZmlmWjE1MjNsQU43ZENKWjJfallESHpLN0Nsei1GWjBKXzlhakF0WE9naElKd0gyOXpKQUlWb0p5cTQzWThINzFYdG56MHVEUTF4ZGF6bml1ZVRsaG44Z2RQQzQwcExrVWNZSFBrR29KdGdHa28wNm5NU0hpX2ZDQjdoRnNiT3cxaWZLaVBSMEdUbm5QaDBaT3ZfVEE3ZlVNdnF3ejlvZnJWVzhYMnp4V3lKYXVDckV4UkdYRjJkTVZOdGpiMGJUeXNWUjZ2c3FKeTd0Z0xxMkktZEc1dmg2Yk13?oc=5",
         "fonte": "Midiamax",
-        "data": "2026-08-27"
-      },
-      {
-        "titulo": "Ampliar a cooperação entre o Vietname e a Itália na área da saúde para o bem-estar da população.",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUERzVWJpS1NabUctVF9aZ3ZMZmgzelROT1AweC1paVdFbUJFMk1PWmJZeW83SDhKbEE5YkZDb0JpaHZOX25yTHNVX3lrcUU1LW5KbVMxbmdqOGtqMVl3NUl2SmNIek1iV29JR3lZZmNsZXZVVGR3Sk04ZkdlWWN0SUZDb0hMSXNaWmk3WlhkWQ?oc=5",
-        "fonte": "Vietnam.vn",
         "data": "2026-08-27"
       }
     ]
