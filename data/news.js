@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-29T21:33:16+00:00",
+  "atualizadoEm": "2026-08-29T23:57:09+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -251,10 +251,10 @@ window.NEWS = {
         "data": "2026-08-28"
       },
       {
-        "titulo": "OVALE: A queda de investimento da indústria brasileira",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQU1mTGxRQy1feDIyQldEclEyNGZSNWhFYlFkajNSZ1RGQXI4NllTZUMwSVBJYkJvZzFlc0Z0UlhnNjh2MnRIWF9mUUNHOTZqVU03bWFxZXVBZVJwWXRLZ3EzVTRHNnNqWXRab01yNldlWGpmTjNfc2hEaGlXcUJKdXhxVHZrODl6R2VyT3VnUHI0emNacDRTMi1QaXJoMWtqUzYySU4tV3pJankzTVZpTg?oc=5",
-        "fonte": "sampi.net.br",
-        "data": "2026-08-25"
+        "titulo": "ArcelorMittal Brasil confirma novo investimento entre R$ 4 bilhões e R$ 5 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTVRwZmpfd244S051cGN6ekx2d3cxSGxyOHFyY3Z5Z1RKTlNkZWNmd3Vjc2FGTHg2SnpnZjNIa1NUSGVsMWRENllrME43MzAzdU52LUM4dWpCeVdDemtfU2xzMkhqbHdCYnpqVWlBSzVHSW1LM3ZYTzJCS19kdDJUdE5raDR2TkxDTXB3N2ZXbURlUkZqUGVtUl9KMTh3VldXbXl3anpNU3ZQbExvOERYa3NYM2hnV3dOblhEODVvVjFrakY0ZWFJSA?oc=5",
+        "fonte": "Fator Brasil",
+        "data": "2026-08-29"
       }
     ],
     "mineracao": [
