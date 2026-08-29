@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-08-28T20:45:59+00:00",
+  "atualizadoEm": "2026-08-29T03:06:46+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -44,12 +44,6 @@ window.NEWS = {
     ],
     "automotivo": [
       {
-        "titulo": "Volkswagen pode cortar até 50 mil empregos no mundo; Brasil não prevê fechar fábricas",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU3ZITzVnTW9TVV9GRG1xY3ZmNnNQSmFaaUE4MHNWdlI3Ri04LTJqMkNybEpXX2laamY2bVdzTm5pLXlRcU1XTG8yay1GeU5BR0xnb2hkSUVJem5GV2x5RWxDOWZPNFZuUHU1dEthQXk2STczVXgycmw0N280REpoaDdVZkQwaEszTnNrMEhCRmVuNHBnajNObTBCQ2YyTDR5WUZ4dUI4dGs3RWI0bkpjNUFIOXRfZTg?oc=5",
-        "fonte": "Paraíba Business",
-        "data": "2026-08-21"
-      },
-      {
         "titulo": "Terceira onda chinesa acirra disputa no mercado automotivo e na publicidade",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNWU5aTFNZWZqaWpfVnB5Vjk5OEFVWTk2VU8wNUpLdzBMWDdFRGZBdVJYY0k1dFlQZXVSYzRGWWp3a01TQVUwVWVGS3d2VlFWNk1wZDEtWkkxTTZURGtpRHhDS3k0dGQ2WHNDSzhoc0V0Z0h3TV9Yak9sNlgwdGY4NWk1a1BNRUQwN2dfS0haNEpLVkxjeXlUa09jRUxld0RERVJiLQ?oc=5",
         "fonte": "Exame",
@@ -60,6 +54,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczJUUXFjZXBYUnNVUjRSNGlfVzkzdUJLSEJIVHZXbTl0UzhzNm00dG52aU1jUlNVY1dzM0tidTU2NG55Vm04YUo1QXZWY3Z3OEFLcmJlWjI2ZjU1RkxtMUxkX0NZeW9fdjNFY1lLOFBreXIta0ctdkdfMkRELXJ2cU9SblNrSmhtWTJCaFRn?oc=5",
         "fonte": "SpaceMoney",
         "data": "2026-08-26"
+      },
+      {
+        "titulo": "A Toyota fabricará carros híbridos no Vietnã.",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sekR1NU1tUlJ3d0ZOdDhKZHUta1hMdDVDNUNCMVA4QUJxTlQ4aWdfRXgxRkNRRDJFVUg3RmNOQ1lrZ3VFWXVNTV9MNlJVbkJnTWdLZmhCYXVJTFo1UXM1SDlIMTRtaWtqTFRqUUQyUEs3STF3Y1dBVw?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-08-28"
       }
     ],
     "bioenergia": [
@@ -70,16 +70,16 @@ window.NEWS = {
         "data": "2026-08-27"
       },
       {
-        "titulo": "Brasil aprova mistura E32 na gasolina e reforça liderança em biocombustíveis",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFNRWVA5ekdvcmxIQmtEV2hRckFUY2tfejZXUUpvNDRQUFNQQW82Q3JnNFRhMWZqZGVRTlhjU2l1RERoUmZCM0lXWGhseUU4ZThqem5IRlY5NkMxZmJzN19YU1RpVFlldEJ3dkgxYXNrU3lsR3J4WE9QeHA2M3ZiaEFBVDEtWVpsTXJoUUhWYUVvN0k?oc=5",
+        "titulo": "Inpasa Nova Mutum celebra 6 anos com ampliação e foco em etanol de milho",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVFh0Vk43M0JBSktJQWlYWjUzZkdtUlh5OVVuQUhtdEJ1WnpXQl9obTlsaWRrcEJTQ1JMclBzU3ZnTzB0SzNWMFJSSVE5M2oxQzJrckh0ay1panI1VU1UOV9DT0NnaHR3VG42ZjZVZGZ3R0xzQ2ZFODlyM1BVVmlKMmJ5T1d5dGxOUEQ4UURpOGJ1MXhUaTJEVm42WFIwdlczZV9jU1pRcVJQaGJOTlUtWWlnZjVJZzlLZWc?oc=5",
         "fonte": "JornalCana",
-        "data": "2026-08-28"
+        "data": "2026-08-26"
       },
       {
-        "titulo": "Usinas de etanol podem formar arranjos coletivos para venda e armazenamento de CO₂",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNEI2VXZNekdxY1pxSmRnckxKcDh4QzlPRWJMZHBaT3R2aTE3eHprenpxVnJnd1l6VGxVYVpOYTNEUU1ZQVR0bl8yUHNmVUh1NlVCLTlvanNRRjZNQlBybVhRVHZHOXdOUUVUS1FQSFZxX0hvV2pDTEUtVXVqbXA5MUVrMmpPa25hdVctMnoxWXM3V0dGekpwUXltX2ZmS2ZBY1dfeXJrVktKbTFwSzlmYUFjV0VwMFl0Rm5zVnFR?oc=5",
-        "fonte": "revistarpanews.com.br",
-        "data": "2026-08-25"
+        "titulo": "Etanol paulista pode receber “hub” para captura de carbono",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOODdlNkQwLUQ3TEtjbkM2ZUpxT0xVMTZrZ1Yzb0k0TFNxX0NoV3pXZDRaUzVGN2RnZmRsaDl6ZDdyN0x6elpUa1ZzVEJ1Z21zZHVGQklCQ1N5NVUwbWlHdllEdjZHaktzM3BOWlNydWU3TDg3VXRiNFNGR21TWHZlWndCNEhNMUlab2c?oc=5",
+        "fonte": "Visão Agro",
+        "data": "2026-08-27"
       }
     ],
     "cimento": [
@@ -124,10 +124,10 @@ window.NEWS = {
         "data": "2026-08-25"
       },
       {
-        "titulo": "O impacto das renováveis no novo ciclo de expansão",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYTFiQkFkUXFnLUM5MDZINjhVU1dRaHBvdVR2eTNwOUZYWjdvYzJDZzY3Yk96cUhiQ0VLTkN1TEZaVW96bV9MRF9rZ2hnQjFJUk4tb1ltM19DZ2lNd3lqanUwR2ZhcDN1ZXVJb0VfbG1udlhrSjFJdTk0cTVsejZkeUdOVlNCQTh0NjVJN0NPZEZEd0VCVjBwUzUxcUkwRDlpdlFwSUxHZTM?oc=5",
-        "fonte": "Editora Brasil Energia",
-        "data": "2026-08-25"
+        "titulo": "Governo sinaliza \"consertar\" distorções no preço da energia | Agosto",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0dXTmFmSU51V3pkSjdyU2xsNHBTRV83YW1Va0dpeGZOSS0xZkl6LTBfa2dXVzN3UXJ0a183MmRHVVMyWnhHbEdQb1ItZjZPenYtWldhbGxGYjhEN0FiVU1KSGxkaGxPbHp4UUJQWFpVeTE0Mmpld2tKWmZkVTlDX09CZWtuekMyb0NWcms5N3EtYXdvNmFBazEyVmR0ZHNraFFrOV9BRFVXaW5CZ01pcQ?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-08-26"
       }
     ],
     "solar": [
@@ -156,6 +156,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQX3VtZko1OTNaU0prNGpOOTFnZThSRklsOWNEN3otd25HbkxlbHYyUDJPTHhTMlFqZFd1V3Y0NDUwWmxfOXk4QnpSS05zVFdFYXFubElRNVozeU5XZDc3MWNWdUlySHg0ZGtMbGxwekVUN2szQjRXY21VX283MTNON3ZpYkxhQlg0eUpsY29ZOW5pSGUwYmNEcHpRenoxZ3NPeXlyakdjREM3QU1zVW0tc0RWazJBTFEzTFBaWU4tbmRQUQ?oc=5",
         "fonte": "BNamericas",
         "data": "2026-08-27"
+      },
+      {
+        "titulo": "Brasil prepara PPP inédita associada à infraestrutura de energia e telecomunicações",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPUFEwbkJNd2VqdmV4UFUtVU1LOW84V1R6WHBzUWhnQzFWcW5kQW9sMGRpWlNQYkYzLWNuY2k5UDBLeWJReE91eFBrSV9QUS1seGJGMEtVRlBOMWoxd2lPTEdsbEpGSWxvT2NHSXh3VkppUU5lNzVLVUVIVS0zamJLWHJBQ0NwbTI1TDlMOGZqRzBMVl9nYlk3eXgzYnlEV19BVVNIUkl5ZVJzT3hwU0lmT1JVWml2aE91ZG9kVzdmNA?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-08-28"
       }
     ],
     "farma": [
@@ -181,15 +187,15 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Haribo fecha fábrica no Brasil após décadas produzindo doces e aposta em investimento nos EUA",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPazVGQk9zVm9YUDlVVURxQUc5eUFpTW1KRTY1NF90WmtCNGxjU0c3T0xOeUxXeURhM09ETHBVR0ZZMWJFbVI3Z0ItWmI2R1pUMVJJbEFlUjdxWmpSQjZwOTRyRDc5eG1xYnowcDV2R0Z4QjIwbFhpOFNIdjlydEl2M2pTbHBranRnbWlBRXVjUnctTnhOd0EzTEd6eU53M3drVjNRYdIBqgFBVV95cUxPMFZsb3NyTFVhc1dTdURnVVEteG9wVm5rb2xqckFvVldMTHZpX292d0hPSjR6UkRSYXhuWVl5akZNT0JQMFJKRFlFMDJFLTRyeEtxRTMyV2tHTXJWUi1pQnJRVmhOUFdjTFkzT2xCUi10LU5hUmhENjZWeTR1NEFoaXYtZWl3blRxZS1OandjSFNCcWw2TENYYlhTbVZ3ZUxqeVQ2eHdBWDB1UQ?oc=5",
-        "fonte": "Banda B",
-        "data": "2026-08-28"
-      },
-      {
         "titulo": "Americana recebe multinacional chinesa com investimento de R$ 140 milhões",
         "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQNVJsYmZocXU2Q1A0cF9SSndLYUYtTS1NZWQ0MlpOVjM0TWw1RkFmdFAtT0xVUFpvMmV2cWJwMW0yMUFYYU1DUUhnNlRIUjRpWDZuN0tSRUZ3OVpMMkw1N1I2TTh2Qmp4NkR0akROcVpYNTdPZ054ZWdxaTFtYU05X21iSnBPc1FRNUlnanFkYU5xZW9WQUhnYkZHamV6WE9YaFU2YV9aVnk3cWFoTVE5N29QSWljeF9QUGl5bUdTRWpRUjh4ZmZHbEFqc2dTQ2xkNlRwY3E4SnZuekZoVnpoSUxiY0lTYmhncGRTOU9uSFRvckJudkY1bE9CZWpSM3ZaMHE0dzlzWGQ2NTdMWTB6SWZkSVJQNzh3aXVQZHFYcjFjc0NFNFh3dFhBTUdpZ3JHTVMxStIBwwJBVV95cUxQLTFMd0luWXo1SEs4eTZmeTROUTk1N2pDTVBURldOcVVPSXdPQ1UwQVVlbjBNM1hzSU5waHd6c2x5d254b25IM01FZElJdmltTE1iSGZUSW9VZ18tem9sNFFTcHk0VGhqNU5MdDc3RkxKYm5HVi14SV9LM2RWUGtCcGVUaWRMRTh6S040TGk3MTZ6c2FnTUx3ZXhhYnFKZE9NR0drZzhBTkVPcjRGVEFMWFliV3hCbTZsRk4zc0tUcVpJSV91aG5JWGdJSlNqVlFkVlBJR1c2TkU0alhOS1dtWEVXRGxHVnB1TkVCRG9OU3VZUDhUVjVMUE9zajdBSEJlcjVsZkt6VWs2YmRfV0FpSVY2aVctXzZ0SnFyNWNpNmJRSHRBdmhCcmRNSGxLX1pCa1MtODREMmdhVzE0MHVQMGMwNA?oc=5",
         "fonte": "G1",
+        "data": "2026-08-25"
+      },
+      {
+        "titulo": "Regulamentação do Brasil Soberano 3 é decisiva para mitigar impacto às indústrias atingidas pelo tarifaço, avalia CNI",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxONmpkb2V2UFBJU2FXanRTTUNHTkhVUnRvN0JVeUdlaU1ueE01Zk1tdHpXUXMycWVfYl9nbGt2cFFydkZ0azNwUmJDOFdEUzlKYzVQRTFHYjVSbHQzaVNSZUFhRk9fZGdwd0FwTDN6cEI1S3lQREZLVTI1RzBoMTI5RjFLTGJlcmJiLTVPMi1OOUlycUxXVlBBdFNRc1NGbVdjeml6enBNOHliVlh2bFk5eGl1T01CcTRxOG9ENExiUHItZ3JaanFENzRpc21fZlRlZ0dBY3c3TVdPd2dkZHdhYk9kQTFTeUFZay1RYkZMeW1UVnFBVjVEbDN0aTVMWDQ2bTZaVlhR?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
         "data": "2026-08-25"
       },
       {
@@ -227,16 +233,16 @@ window.NEWS = {
         "data": "2026-08-27"
       },
       {
-        "titulo": "Consórcio vira alternativa de crédito para empresas em meio a juros altos",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE92c3NMNzNDRlhrd09IMzlXdDIyV3gtOUw1aHZoNkpxTlhaZ2hFQ3g3M1VCU19HVU5XTW94Yk5NcWdxYWozejhRczRvV2pJUTJZUjd5R3I3cGZUZFFQZWhoMXBQQkdTbjZMZFpFVWQ3X3puaDdfcEFyR2otQnc5UHc?oc=5",
-        "fonte": "Diário do Comércio",
-        "data": "2026-08-25"
+        "titulo": "Brasil Soberano III: Conselho Monetário Nacional define condições de financiamento",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5NMXlMWk9vOVFVSnBsaHVMQWNLTTczQXZzbWU1Mk5LZUdtVFRGM2tEOExnN1hONVYyLTlMVGlvNW9oTDJONXo5bjlHQXdsLUJrUllwVTB0OUlhQWxpYjZ5UTE5SEhxVGZRVDVmRG5ocnBPNUpWMi1SZk1B?oc=5",
+        "fonte": "TVT News",
+        "data": "2026-08-28"
       },
       {
-        "titulo": "Carta aos presidenciáveis: Abimaq apela por estabilidade econômica e metas até 2034",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOamZqcjdGMVA2dldJRG9NNm1VVjNDZDZRQjlJNFQtZjEtNlBWOXFEUG90dnZRcmpTSVk1VFRQSTdiTGxacFA4TGVscktYLVlnN3FCRDRVOFR1UTZCcjVmNHVTZ1ZFcGZpTlFVQS1MU0RYVVhZUXh2cENLcTRMd2hpLXFmdDh2NzBvSktWRnQ2aUE4TWwtaWpRRE13RlFackx1Nnk2Tk9rVkRfYVFrZ1BjV0tibVJoeVV4bF96RUFkZDlMcWlEdk1fZ3RoUWJBanFOWEtTNUVJSW7SAdgBQVVfeXFMTmpmanI3RjFQNnZXSURvTTZtVVYzQ2Q2UUI5STRULWYxLTZQVjlxRFBvdHZ2UXJqU0lZNVRUUEk3YkxsWnBQOExlbHJLWC1ZZzdxQkQ0VThUdVE2QnI1ZjR1U2dWRXBmaU5RVUEtTFNEWFVYWVF4dnBDS3E0THdoaS1xZnQ4djcwb0pLVkZ0NmlBOE1sLWlqUURNd0ZRWnJMdTZ5Nk5Pa1ZEX2FRa2dQY1dLYm1SaHlVeGxfekVBZGQ5THFpRHZNX2d0aFFiQWpxTlhLUzVFSUlu?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-08-26"
+        "titulo": "OVALE: A queda de investimento da indústria brasileira",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQU1mTGxRQy1feDIyQldEclEyNGZSNWhFYlFkajNSZ1RGQXI4NllTZUMwSVBJYkJvZzFlc0Z0UlhnNjh2MnRIWF9mUUNHOTZqVU03bWFxZXVBZVJwWXRLZ3EzVTRHNnNqWXRab01yNldlWGpmTjNfc2hEaGlXcUJKdXhxVHZrODl6R2VyT3VnUHI0emNacDRTMi1QaXJoMWtqUzYySU4tV3pJankzTVZpTg?oc=5",
+        "fonte": "sampi.net.br",
+        "data": "2026-08-25"
       }
     ],
     "mineracao": [
@@ -261,16 +267,16 @@ window.NEWS = {
     ],
     "papel-celulose": [
       {
-        "titulo": "Protagonista do setor, Suzano inova com a maior fábrica de celulose do mundo e parcerias estratégicas",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnNtNEZhUXRxRTRfLXVmcUNDeTNhZHExRXZIb0tpZlFIam40MXpEdGx3RUE3VXBrdDJ5WTlaZHVHRjF5dXRLaFlOQ3NrT1hjVERYak9fbUt5S2ZKd0Z2NEJhZ21FOFVXMk5ZMHhSTjA1RGlWelhQNVV4QTVXM1Y5MnhKeEowYU50X0pkcXN5bndzcVZscFlVNHM3VzJzSnRDWFNrcHo1eXNBMUJ2aTlReWJFX1Y0enR6M2dhSnpkQ0xOLVdnTkxHT2NzZ2picG1TY3c?oc=5",
-        "fonte": "VEJA",
-        "data": "2026-08-28"
-      },
-      {
         "titulo": "Ações da Klabin (KLBN11): como investir e quais os riscos",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWEpKM19FUGdkN2VnQ1ZUeV8tQXFnMzBNUkk2bUN5MHZpRGRnVjBxYk5iU2tyU2RnSUl3cU9LVG9IU0xOWVlNVnBaZ2YwSGdqaUJQRnRfXzZLRV9qclg4QlJNUVJmQ0xfbTljM2tpY2UwemZwcXFmOGRsckhWNmhPenAycEJBV1FKRHd0SzhkQzF0MjNGQmZ2MTJyaERyTzZo0gGmAUFVX3lxTFBDTTdLX29mbWJtQU5XeUx3TEV0MEhMUDFleDBMZzNidHZmeERYOTNYbmhGVW5lRi1jRjd4NS1OY2FEN2I3NzB6a0tNS1c2Rk5hQncyMENwYWc0eGdnYlBnVjRRblhfMTdXZElZclRuRW05WEx4QUpBd1ZHbDdjTjBuZmhfMkpndk1YWndNdkR0YUZxd0FrQTJjWXNLM1lZRFNkdFhpRWc?oc=5",
         "fonte": "Investidor10",
         "data": "2026-08-27"
+      },
+      {
+        "titulo": "Protagonista do setor, Suzano inova com a maior fábrica de celulose do mundo e parcerias estratégicas",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxObnNtNEZhUXRxRTRfLXVmcUNDeTNhZHExRXZIb0tpZlFIam40MXpEdGx3RUE3VXBrdDJ5WTlaZHVHRjF5dXRLaFlOQ3NrT1hjVERYak9fbUt5S2ZKd0Z2NEJhZ21FOFVXMk5ZMHhSTjA1RGlWelhQNVV4QTVXM1Y5MnhKeEowYU50X0pkcXN5bndzcVZscFlVNHM3VzJzSnRDWFNrcHo1eXNBMUJ2aTlReWJFX1Y0enR6M2dhSnpkQ0xOLVdnTkxHT2NzZ2picG1TY3c?oc=5",
+        "fonte": "VEJA",
+        "data": "2026-08-28"
       },
       {
         "titulo": "Fábrica de celulose da Arauco em Inocência, MS, atinge 70% de obra",
@@ -288,6 +294,12 @@ window.NEWS = {
       }
     ],
     "saneamento": [
+      {
+        "titulo": "Setorial Setor Elétrico e Saneamento | Agosto de 2026",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbV80dE9vcGNZTy1rWVlzd3pOOUJOXzZ5Sno4a2xvVzJUZ21ad2ZtSHFsSTNBc0xuelFhQlJvdE5xb1U1MXI3M1VlZndlT2dXQnZYMWROeXhrTlhWRHBMVG9veUozc0ZxN1ZPM2FsOTdoekVqY2JoMEFLS0g5YU85bEdpLUFvcWx4dFpseE9BZlU?oc=5",
+        "fonte": "InvesTalk",
+        "data": "2026-08-25"
+      },
       {
         "titulo": "Norte Saneamento descarta entrar em leilões e prioriza aquisições",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYXA3TFd5VTZiN2psNGYxUVMySzl2aU9VX3EzUGx6RVJodEFocEZ6RDBTZlVySk5kWDVSQXZfekZsUHRPdDFMYjFKVmhQbGJKVVl0bDlZSERWYWhwZWJjMVdNd0dpYmJPUWU4TVZ5enhEWVdETDhOVk9Vb3U3dmE2S0tfRGpsd09RbXZSUVdPNUFDZ2xZNjlmcEVGRTVkRkRpQ3Y0?oc=5",
