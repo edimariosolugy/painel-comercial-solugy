@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-01T20:45:22+00:00",
+  "atualizadoEm": "2026-09-01T23:08:04+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Angola pede ao Brasil ajuda para deixar de importar alimentos",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcHVnLThXc2pBeE4xMTJPTUVpX1VFY09taHR1Skp5NTh4eGI5V2VqU05uYWdrYUw4bWxidXY1TzdHeFBZOWRUQWExV1MzUEJuV1Q5bGZqU0k4MGd4U2xPNm5xU0llYmw4Y2VUM3FNZ0xFSF9uX0ZnZ3ZGSWdmUkV4RFFlMDExSktfRGd6Wm9VUTF4SUh2ZlB6UGtMdVA?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-27"
       },
       {
@@ -16,17 +16,17 @@ window.NEWS = {
         "data": "2026-08-30"
       },
       {
-        "titulo": "Suíça do Agro? Fundo brasileiro inicia captação de R$ 100 milhões para comprar terra no Uruguai",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDFxVmpjQ3ByZWNjNGhBUWxKdGhKMkJPSlFzRzh5UE5FWHhXdHFNSTRfMmdkQklaMmQ1bzI2MUFCVjZybGZZLUVaaXdSUHhGZDZjVko2YVh5NnBKSTJGc1h4NDV2TklMTFFOQmx4UHROSFozSTYxcHRhd09Fdmlha1A5a2hwWmFub0R0Y2d2WlZ4YXRMM3BSX3E3VlRJWnp6elJ3TXphc1FMYWc5U2o1bDd3S3dJTGE5RjNHWHNpRjNqcXc?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-09-01"
+        "titulo": "Agro sul-americano amplia investimentos e exportações",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWmlNUlp5ZFRRb2pqak1DajRxeGpKMmsxMFhvcWt3VFlOeko4V3VjRl93Xy1UU0NkTkFZZUYzdG5PcnhQT1ZqWkxmOGdGcERZVXpoQzJUWW9mbktVSDdMSHNoQ0pxdUV6akstWi1wSVN3SlNic25kU1NYZTNQcUJuY2N5d2dXZkpLX2R4NnNfT29DbFFwR2dRcW9hZGoxOVpsNHFGdWNDVTR6cWdQZlBQcjJHMnotdzFJcnYyOFVfVXR5UQ?oc=5",
+        "fonte": "Agrolink",
+        "data": "2026-08-31"
       }
     ],
     "alimentos-bebidas": [
       {
         "titulo": "Canetas emagrecedoras desafiam indústria de alimentos, mostra estudo",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnRiQ29DZmMyQ010eU44dndRLU1wUjdUNkR4dGRDUmxpRHJUeWFBNUl0RzJmUUlKREhGVHNyZmJocFBBNWVabUxSQzV2anVmV1J5S3BNcUZ5RXd3YklMSW5Vc0ZBVDQyUlpXNDNwb2Mycm5RdFVKaVA0ZE9YWW9vWHBNMi04cXVJa3ZSM3kxSWR4QTNRc2RibzVIODJ5R2JhM0c5aDh4RU5BdlcyUmVDTURkUkhyYV9HcF9JTVRfTEZiLWVW?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-08-30"
       },
       {
@@ -52,13 +52,13 @@ window.NEWS = {
       {
         "titulo": "Rival da BYD confirma fábrica no Brasil e mira top 10",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOMGpOT3Z4aUIzc05oMENBNTZaZUNxZnAxYW5lRTN0VzJGUUhXSGxNanhVNFA2V3ZlX3pKMFZXbGlreFdQNDd4d1dTOHRnYWJYUTFJNEJSVURUYnp1UFdkRkFKRlVodTBrRVpOTEk1R3RKZk53WkRsTzQ1QVpsSjhuSldHVWdhMXhp?oc=5",
-        "fonte": "spacemoney.com.br",
+        "fonte": "SpaceMoney",
         "data": "2026-09-01"
       },
       {
         "titulo": "Hyundai acelera nos EUA com megainvestimento",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOczJUUXFjZXBYUnNVUjRSNGlfVzkzdUJLSEJIVHZXbTl0UzhzNm00dG52aU1jUlNVY1dzM0tidTU2NG55Vm04YUo1QXZWY3Z3OEFLcmJlWjI2ZjU1RkxtMUxkX0NZeW9fdjNFY1lLOFBreXIta0ctdkdfMkRELXJ2cU9SblNrSmhtWTJCaFRn?oc=5",
-        "fonte": "spacemoney.com.br",
+        "fonte": "SpaceMoney",
         "data": "2026-08-26"
       }
     ],
@@ -86,13 +86,13 @@ window.NEWS = {
       {
         "titulo": "Trajetória de multinacional brasileira une construção e sustentabilidade",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTRWbmNTTmw2RllCQjFOMGV6VTZBeV9FZEFGRUMxZFhyY2JkdlFMbEtMYzdqbU5hYUUweldjTE9vT0RObGhKUnAwZlpEQUItWUE0bm5qaWpkSExUbXNVeUdEVXZSNFp6dVc5YXpvVllEb1hObDdXclMwTzFlclNPTGNacEFVTzFTSzJHb0JLZFY1Y1JXOGNMeWtiWE4tX2xtdVk1NjVUYk85ajB1aks5WnNjc3RzTmF4dDhZZVF0NWNMbFN6SEE?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-01"
       },
       {
         "titulo": "Maiores mercados de crescimento rápido na produção e demanda de cimento",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRXdESjduX2I1UDVWbG03QjFPc0pYRlhrRVg2d0V3VlhhdmR1Rlpma1Z1UjVJSXBCUk8xZXZpendaSkFHd1JsWEkydXZ6RW1rdnVjTUYzWkNxdF9WWE5GSmNjRmVaVENNSUpDTzV5S0RIRFpFMWlONXA4SzlVLVVVekUxbnR4LTFpVHlRSVlxajM1V0JwTlVDT1ptRjhlemZmSkZ1aVZodFdtNC1NbGphVDEycUhmRjdsV2ZSR25VLXl0LXI1Y2JoUm1Pd29TYXpCYVBpdW1lX0F1dDZjaEplRVJFRGtfYjYwelU2RFJzODhYQV9ONklaZmVxV09Vc2NsY0E?oc=5",
-        "fonte": "sphericalinsights.com",
+        "fonte": "Spherical Insights",
         "data": "2026-09-01"
       },
       {
@@ -104,12 +104,6 @@ window.NEWS = {
     ],
     "comercio": [
       {
-        "titulo": "C&A vai na contramão do varejo e inaugura loja conceito na Avenida Paulista",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPM0dwWjNobEFaSWVpcWwtdlc0SGVTQ0hfdFVQSjlEWE9sLVVLV2hSWHd1Tk5PT1R3MkxqWWhyNFNUaU55R3pjWERDWml1QkY0d2NKMGN5MVdpbUVabENNTkUtYnR0a2cyWWhibTYxVHBaWXZNV0N6d0pjN2MwMkhlazdaYWNNc2RHZERKbnJaZ2YxeEVIT1BSSmxXMWhqcUhTVDR5a2YxQ2Jyc0RyOXVQeUY4dw?oc=5",
-        "fonte": "DComercio",
-        "data": "2026-08-27"
-      },
-      {
         "titulo": "Shopper investe R$ 25 milhões em primeiro centro de distribuição fora de SP",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaXZNeGl6WmRiRTFYYVJTWXRPWXBnMGVLbkhIOC1tSE00bHhpb0EyTFcteGkyR2t3UGtVQ3NnMm1EMUNGTW9mRkdKU3RRc1FxSDhpcDZrUGFNSDZBREpQUDdCalJDc3ZpRFVMeld6d0FvS3JIckNKSjB1U2hDWmtua01UX09OWnNEaDc1N0lIQmdOczl4OVRMaHRoTWlzU1lDanVNRDFEYTZmRVI4SVA2YzYzb9IBuAFBVV95cUxQRFJnSXJuVmJKNHpLY21kbG1YMUlidUw5VTNUWVVHZHJHMGVOc0VyRmo2ZlotNzJFZ3h5OF9BbWtUZXE3aHNjMWRKaGJaWXlrQVhyMk9yS1RvVjNoQzdEUGlmaXB2RlpSeVVXUUdfM2NWMVpZY3F5SHVvUTk2QUlvRFFDX2VjUkxYbS1DZzIzcUp5U3Q2UW9FOGk2M29aSkliU2VVMnFxWC0xZFNBVnpPYlgzZ21LZ0pW?oc=5",
         "fonte": "InfoMoney",
@@ -118,8 +112,14 @@ window.NEWS = {
       {
         "titulo": "C&A lança estratégia Full Power e prevê renovação de até 120 lojas até 2030",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUVFaa0otZHFGa1NWVG1kdDFaaU96T3NoZjNCaTNTZkRoYXQzbkJSWTE2Mm1mb3N2RjVuUEJyRW05VndpSXJrWmVIMG1XSThRanJ3dG5BRDd4R3B5bFlfZzlOakRLanc0OENCWUlhUnZOTmpmU3RqSkZ0TFNIcVJvM1BGUWVWNXhhMEJiSF9jOGxOVUpMLVJUVWljVFdDMkFiYzFyZC1uM3J2OTVCdEpRcUo3TklzcDVKaEttZmIwUdIBxAFBVV95cUxPM2VoR2FFNFplOFNsTTNiRFpDUWdoTGQtQ2hQZzAwZlptUHE5YVBQSWhSSFQ1NWZBVlVKRHgycm9XQUc0dVpfaFZtakpkTktxZkZ0eHc0THhvMkhGWndfV01BMTk1UU9yMDVzM2RxdEpEZW50SEFjQThZWXpZVnUzdTN2RURRYnlPZ0xYSENzSTBIUWwwaVZENTZFLWo2RHdzSVRHOEpWVVJITXh3NllmaExhM0toYVJMLXdkYUZwV1lWTmIw?oc=5",
-        "fonte": "mercadoeconsumo.com.br",
+        "fonte": "Mercado&Consumo",
         "data": "2026-08-26"
+      },
+      {
+        "titulo": "Estado brasileiro vai ganhar a primeira loja da Havan: investimento de R$ 110 milhões e 200 empregos gerados",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaUMwSmxVNXl5RDAzeTJwam10eUM4ZnBLM3ZiUHpVNlNFZFB2Tk9IQTNrcEpiS3l6WUlPbmFTZDlKWlVRWk5JcmtvS3IwRTVHem5jVGRDdGgxVU55cjdFaWNYb2VwZ0oxQklkYUZyRUpLOS1WbG5WZU1mSlhISWZrUDdRS0ZuU0hvZGRBTm03MkstLTlYMURLeEFtYjVZOXlrSXRHRkpWZDBpSjktLTM4eDVUTGxZOWNWVUhyUEFZSHJUTTllNGpuNUNqd0YzTV9tblp6aXBpZFMtZ3pNZGpYSy12R3VWN182TVMyaHNMVQ?oc=5",
+        "fonte": "A Crítica",
+        "data": "2026-09-01"
       }
     ],
     "energia-gt": [
@@ -132,7 +132,7 @@ window.NEWS = {
       {
         "titulo": "Governo sinaliza \"consertar\" distorções no preço da energia | Agosto",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ0dXTmFmSU51V3pkSjdyU2xsNHBTRV83YW1Va0dpeGZOSS0xZkl6LTBfa2dXVzN3UXJ0a183MmRHVVMyWnhHbEdQb1ItZjZPenYtWldhbGxGYjhEN0FiVU1KSGxkaGxPbHp4UUJQWFpVeTE0Mmpld2tKWmZkVTlDX09CZWtuekMyb0NWcms5N3EtYXdvNmFBazEyVmR0ZHNraFFrOV9BRFVXaW5CZ01pcQ?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-26"
       },
       {
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Curtailment pode cortar até 40% da geração solar em 2026",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBVaFdoSm9XcDZfUXJmX1ZkRFlueFJlLTA2Qi00ZVBmYjk4WVhyV3VPUWtxcG0wMDF2Rk54dHl2VUF0RkphUWlxY3hKVmllbS1admVYVWE5MTBkVDBoeFNvVWRadXl0ZENRRHpUalF5b195QQ?oc=5",
-        "fonte": "Canal Solar",
+        "fonte": "canalsolar.com.br",
         "data": "2026-08-26"
       },
       {
@@ -172,7 +172,7 @@ window.NEWS = {
       {
         "titulo": "PowerChina amplia presença estratégica no Brasil e consolida atuação global em energia e infraestrutura",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQUdZVTBnbEp4czBjNXRQMFo0Y0hTendsZ2dXWlZwM0hDNnk0eWt4bV9SYVctWm4tTWY5eU1pWkNmb0JDZDZGYlJkMGM1RW5vV3N2N2FEVHhJcUxlLXUtX1FQbjJwZk9vOFBKSkxOYmM2X3FKc29pWl93d2NPU0NPZ2dxVWw1M05rb1NmSk1pRS1tMTRnWm1ldktubzBLS3R4ZndoVWM2WllRMzRfc1paLW94a0xJYjVCUm5oa1BEVjZfZFNtXzJHd28xbmZFRnQ0QzdsX213?oc=5",
-        "fonte": "Brasil 247",
+        "fonte": "brasil247.com",
         "data": "2026-08-29"
       },
       {
@@ -192,7 +192,7 @@ window.NEWS = {
       {
         "titulo": "Indústria farmacêutica movimenta R$ 230 bilhões e projeta crescimento de até 14% no Brasil",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWlhzcDJTYUp3ODA2QUU1djNVR19ZemJ4OV82RXM0eFd0SXJIN2ZsaU11ckhSUVZtYmN2YzV1Tm53Nk1JM1pfTlEyMWdZLXoyeTBLaEZQVTFxby1zSXhBYS1WRk5pcThac1luSzNYUVBsdlRrWk9SOVVzRTRWYTdpQ1ktVWVUVFR2ZmZxT2pmRVltZkh0bk9QYkZfUmhkLWNMTElLemYxZzh5Vmswa0tLeEduVUdxN3h2VnNHNlpR?oc=5",
-        "fonte": "Brasil 247",
+        "fonte": "brasil247.com",
         "data": "2026-08-26"
       },
       {
@@ -207,13 +207,13 @@ window.NEWS = {
       {
         "titulo": "O protecionismo que vai encolher a indústria que diz defender",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZVp0Uk4tcmd1UmtrNlBIUF9ySlViZFBiQVBSc3Y5YmhIc3Y2aEZtOWZPSGRWWDV6dVBXMDkzZER4NjltdTk5X2x1ZnFZTTUyOGJrSUwwQUNrekU2LTctUS1MeWdkRHJLSEY5TXhfc1VoLVo2ajQzejBiVzV2UHZ1ZFY3UUp5a0dPc0ZhM253X3RYb0R1OXpKU1FPYXR0QQ?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-01"
       },
       {
         "titulo": "Haribo fecha fábrica no Brasil após décadas produzindo doces e aposta em investimento nos EUA",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPazVGQk9zVm9YUDlVVURxQUc5eUFpTW1KRTY1NF90WmtCNGxjU0c3T0xOeUxXeURhM09ETHBVR0ZZMWJFbVI3Z0ItWmI2R1pUMVJJbEFlUjdxWmpSQjZwOTRyRDc5eG1xYnowcDV2R0Z4QjIwbFhpOFNIdjlydEl2M2pTbHBranRnbWlBRXVjUnctTnhOd0EzTEd6eU53M3drVjNRYdIBqgFBVV95cUxPMFZsb3NyTFVhc1dTdURnVVEteG9wVm5rb2xqckFvVldMTHZpX292d0hPSjR6UkRSYXhuWVl5akZNT0JQMFJKRFlFMDJFLTRyeEtxRTMyV2tHTXJWUi1pQnJRVmhOUFdjTFkzT2xCUi10LU5hUmhENjZWeTR1NEFoaXYtZWl3blRxZS1OandjSFNCcWw2TENYYlhTbVZ3ZUxqeVQ2eHdBWDB1UQ?oc=5",
-        "fonte": "Banda B",
+        "fonte": "bandab.com.br",
         "data": "2026-08-28"
       },
       {
@@ -227,7 +227,7 @@ window.NEWS = {
       {
         "titulo": "O que os candidatos à Presidência da República prometem para o transporte e logística",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQXzVZdWtHY3R6R19ObmtaOTFXdmdyTG9nRXJXencwQmRObGFRS2pfZUhLenRzOWFHR2hVeUE4QXNGbEYza1NJVkZ6SFI3bkk0aHF5RG10UWstaXNoMDFlcHFiMFpreUFreEJGamlweTFRY0pBRnBOX3M2SEdodU9JS1JBRzJBWE9waV84Sm5DOEVISVpjSTlROTBsQVpIa3Y1Z3lidg?oc=5",
-        "fonte": "Transporte Moderno",
+        "fonte": "transportemoderno.com.br",
         "data": "2026-08-27"
       },
       {
@@ -247,7 +247,7 @@ window.NEWS = {
       {
         "titulo": "Investimentos chineses no Brasil e América Latina: implicações para a economia",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN29lc2M0c2RTTDc1SkM5ZTcyejFnSVdCQmJveDhaMUJDVVZUR2dhbWlEWEVaUWZYeEV6WW5veklhM3hhd1kxaE40WjVrdkppeHg0a0p4XzlNT1MydVlscEcwSEZaMFh4bFlVcmtxUVduNkVMNU9nR2lzZGtVZEpLRUtSZVJveElDXzF2MkdyYnVESkJlWVk2aDZ1TnVwVnV1Nk05VkswVFU?oc=5",
-        "fonte": "cnt.org.br",
+        "fonte": "Confederação Nacional do Transporte - CNT",
         "data": "2026-08-31"
       },
       {
@@ -287,7 +287,7 @@ window.NEWS = {
       {
         "titulo": "Papel e Celulose: Suzano anuncia aumento de preço para Set’26 à medida que o sentimento do mercado de celulose melhora",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZVMwdk9OWEdkVEFzOUNtNHFtdEUteHAxd3gyWHh2RzFiMEdEaXhxRDRlVXFqZXpLamhDVWNoYWFkV2J0bDZlV0U0ZGtOdGdFTnFmNXpQN0luYXhfOFdsQTJUbThuOFBKXzRXOFBHOHhMZkxEMHFZcW1QQUZ0a1h5THFfN0RqaExBNHFDSXRKQlpuNmd0TVRPN3BIMFI4ZlpnNlk4SmlZak5HQkNwazBGdWwtaWYxUXlyUFp5TE52R25EdW45ZnBaTWhyTTlfajRVNkNRUVhMU1hvM2o1cC1Ya0JFekJKVzhsUjRWckRGQzU1UkZXVWc?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-31"
       },
       {
