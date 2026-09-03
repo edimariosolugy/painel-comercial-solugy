@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-03T20:42:33+00:00",
+  "atualizadoEm": "2026-09-03T23:03:55+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Suíça do Agro? Fundo brasileiro inicia captação de R$ 100 milhões para comprar terra no Uruguai",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDFxVmpjQ3ByZWNjNGhBUWxKdGhKMkJPSlFzRzh5UE5FWHhXdHFNSTRfMmdkQklaMmQ1bzI2MUFCVjZybGZZLUVaaXdSUHhGZDZjVko2YVh5NnBKSTJGc1h4NDV2TklMTFFOQmx4UHROSFozSTYxcHRhd09Fdmlha1A5a2hwWmFub0R0Y2d2WlZ4YXRMM3BSX3E3VlRJWnp6elJ3TXphc1FMYWc5U2o1bDd3S3dJTGE5RjNHWHNpRjNqcXc?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-09-01"
       },
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-08-31"
       },
       {
-        "titulo": "Nestlé Anuncia Investimento de R$ 7 Bilhões no Brasil até 2028",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmEzRjV1VDlhbF9hMUpJU3dPRlNtQjQ5cUhxTGZOMG04MHVsV3hTaFhVWmhUSVNnUEo2NkhLOUtYS2hacXhrREpJNHBuQld1OHJXZ1VONFQ3SGNZLWVQZFk0UlFiZnRaOENkNUdmMFpKLTlvLUI2ckRxNXFfSUtTa283d3FncUJvMzZDMFJsYnd6c0tBbnNqa19faFVoUGpGVnJvbmVVaw?oc=5",
-        "fonte": "Forbes Brasil",
-        "data": "2026-09-03"
+        "titulo": "Banco do Brasil (BBAS3): por que nem a melhora do agro convence a XP a investir na ação?",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblNwUTB1V0gxMXZJbUlKTVlTcDFXOUJUOG5tU1NnM0w4UHVuTTduRnVjVjhsRnl3eFV1cENXS0JpdHhkLWN1ZkZzRl9lN3g0enVWMElZenZLMjNETWExSVJMSTF4NDlTbk1Dc3UxajlpamtsdUh4dTVzcDFPQlFXb2Vjb1dqR3NfM0lwbmtzWVFuLXgwdUxIS293Qm9yMFFVemtRbmhaS3lya29EM1FDYkJxWmVkZUozbUtzdXRPSmszYWZYM0ZrNW5vTnA?oc=5",
+        "fonte": "Seu Dinheiro",
+        "data": "2026-09-02"
       }
     ],
     "alimentos-bebidas": [
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-08-30"
       },
       {
-        "titulo": "Nestlé anuncia fábrica de R$ 600 milhões em Minas Gerais; saiba onde",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qYWV2VW1jUm9NUVVlYmpKbTc5OTZLX0hsLWNWdGZXd2xVOTZMOUZkTUJhQVJIZ2xvbVZkNHF4UkVlUHRSbTVCdW5uYlo5V211YkRYM044aXlCdVlBcER0SGtvbGJfcGk3LWdHQl9NcDR3VFBWNmI5Ug?oc=5",
-        "fonte": "Diário do Comércio",
-        "data": "2026-09-03"
+        "titulo": "CODAM: a indústria cresce, mas o desenvolvimento ainda precisa encontrar o interior",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORF83NzlQSDZPSDVQZ182MXVpekZYZzh0TDVTMHF0WDdmTHo0X1FRNVNBS2xlTnFaaDkxbHFQMWZic2JQcTFQMzZ2QzQ0Mmp1Y2IxYzdKRTQyNncyRktyNkZDTWdOR0VqMEhFb3ZGblpFbm9mMDJuei1IVElGbHUwZE5XbjdSaG9BajhqcUx6NmdXU2dGdzFXbmV3ZXhOMm9XekxENFlHV2tBTmNRVkE?oc=5",
+        "fonte": "SIMMMEM",
+        "data": "2026-09-02"
       }
     ],
     "automotivo": [
@@ -50,10 +50,10 @@ window.NEWS = {
         "data": "2026-09-01"
       },
       {
-        "titulo": "A Toyota fabricará carros híbridos no Vietnã.",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1sekR1NU1tUlJ3d0ZOdDhKZHUta1hMdDVDNUNCMVA4QUJxTlQ4aWdfRXgxRkNRRDJFVUg3RmNOQ1lrZ3VFWXVNTV9MNlJVbkJnTWdLZmhCYXVJTFo1UXM1SDlIMTRtaWtqTFRqUUQyUEs3STF3Y1dBVw?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-08-28"
+        "titulo": "Montadora chinesa recebe terreno público de 1,74 milhão de m² e planeja fábrica de R$ 4,6 bilhões no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTGE1a2YycjlMZVdidmwwd2R6T09mWXY0UWhmQjB4Y3dzdVF5blJyQ1BXVGxraHdid0R2MXZ4WnZuUnFXcDNLY3M5SlJSaFkxYm9ZTFUyemU1eVUzZVgwRWxXblFEM05Vc0FENkJpa1VWZUw1VWNjMUpIQnlWbkM2RFJkMVl6bGVpT0N3OUhBb3BPX1NuLWp1ZFUyVnJ6TTZpYktFNUZGelhjZG50QVhCYnptVWRqY0tmeXd2RFYxeXRHeUc0RzVRaHhUa2xCNy1NVEx0cjVlbUdZT01FVGFIc25oMmxBY0REenZV?oc=5",
+        "fonte": "O Antagonista",
+        "data": "2026-08-30"
       }
     ],
     "bioenergia": [
@@ -66,9 +66,9 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "Maiores mercados de crescimento rápido na produção e demanda de cimento",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRXdESjduX2I1UDVWbG03QjFPc0pYRlhrRVg2d0V3VlhhdmR1Rlpma1Z1UjVJSXBCUk8xZXZpendaSkFHd1JsWEkydXZ6RW1rdnVjTUYzWkNxdF9WWE5GSmNjRmVaVENNSUpDTzV5S0RIRFpFMWlONXA4SzlVLVVVekUxbnR4LTFpVHlRSVlxajM1V0JwTlVDT1ptRjhlemZmSkZ1aVZodFdtNC1NbGphVDEycUhmRjdsV2ZSR25VLXl0LXI1Y2JoUm1Pd29TYXpCYVBpdW1lX0F1dDZjaEplRVJFRGtfYjYwelU2RFJzODhYQV9ONklaZmVxV09Vc2NsY0E?oc=5",
-        "fonte": "Spherical Insights",
+        "titulo": "Trajetória de multinacional brasileira une construção e sustentabilidade",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTRWbmNTTmw2RllCQjFOMGV6VTZBeV9FZEFGRUMxZFhyY2JkdlFMbEtMYzdqbU5hYUUweldjTE9vT0RObGhKUnAwZlpEQUItWUE0bm5qaWpkSExUbXNVeUdEVXZSNFp6dVc5YXpvVllEb1hObDdXclMwTzFlclNPTGNacEFVTzFTSzJHb0JLZFY1Y1JXOGNMeWtiWE4tX2xtdVk1NjVUYk85ajB1aks5WnNjc3RzTmF4dDhZZVF0NWNMbFN6SEE?oc=5",
+        "fonte": "CNN Brasil",
         "data": "2026-09-01"
       },
       {
@@ -166,22 +166,22 @@ window.NEWS = {
     ],
     "farma": [
       {
+        "titulo": "Por que o Brasil afasta a inovação farmacêutica?",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91SXVGRmp5MzI4OGJhRXlxdGpsSXluTW9faWphTTlGWG9lM3REdjVFdFBSSGRmR2FEQllPTlRzRTBkb0NBR2dNeDZiQzgwRUk4M1hXM1BrZGRMWDBM?oc=5",
+        "fonte": "Medicina S/A",
+        "data": "2026-09-02"
+      },
+      {
         "titulo": "Como o governo Lula reconstruiu o SUS: da retomada da vacinação à produção nacional de insulina - Lula | Site oficial",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenRxbGVDd0d4U29kNm5hWW1WYncxLUFrbHNJbnN3V2lZZDEwS2NrLVlVRV9NaTNXRC1mUnVvMXJ0UVp1NkstTmpQNFUwb3Nvc0RqZzAxbzB2aEh1cDZhbFVNeU1SUE9CanVid2RHYzRPbWVES3hraEF0dGd0NUZtakNQbmhiTEVJRGNBSVRUWHdUWVVqZEhnaUFHX1Z4dWh6em5zWlZ1MUFpVXpzTlN6REdZdVR1QQ?oc=5",
         "fonte": "Lula | Site oficial",
         "data": "2026-09-01"
       },
       {
-        "titulo": "Parcerias com Sanofi movimentam negócios e ampliam produção de vacinas no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbGhSMmVGRlR4MlRIdkRsa1RzSWRQWWJIdDBVazZHaGFqWnFYVWEtQUtGQmlPWURwNm1DOVhlOUFPQ2p5UDBJSFlSZE5raWlNYktQWUVvSFBwRGJ3WUx2WnZuc0daTmtkNnVTbno4MEw5ZG42ZjFVUFNVcUJGTlF5WS1raW52MzNpV055R0xCVk9RRXNLUEpUcTBQaGlEenp0SzBYZUxqZG9ndTB2d3AtVWNHT2NuWHZyN3MzN0xvVV8wYzJUSGpjU3BPOXR4SGhOR1JrWWxYVUs5djFJSF92czRVeUIwYU02WUJQS1VqX1pNUQ?oc=5",
-        "fonte": "Terra",
-        "data": "2026-08-28"
-      },
-      {
-        "titulo": "Em 2 meses, Cristália anuncia pesquisas inovadoras contra alcoolismo, overdose e tabagismo",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZ0pZT1p4SkRzU3hjLVNMSURHWG9MY05ZSV9qVFpQQUkyUFZnclVtN0NXQU1hb1pRbUJHYWRvTjkxd01jQndPZUdnLVNlOGJTYnE1RmgwVEpheHJwWVFOdDdtWEJMaTB3NG80dV94Vlp5TWZmOGFfM3VNNUIyaTdRWHhLSWJDejY3bmhVNVdwWE0xVDNKMkxydWJCY1dYazJ3NkRwX2RiQzI0NThqZkJlTmI0SWJEOU9FNVVYMUlpV1l1b0k?oc=5",
-        "fonte": "Gazeta Itapirense",
-        "data": "2026-09-01"
+        "titulo": "Nestlé anuncia investimento de R$ 2 bilhões em nutrição e saúde no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQ01oSk0wZ2xXVjlWalJUMVota2twUlBmX001UE1ObWJRNVZUZFFHdmlhQUFjeDQzSFdfZ3U3RDR6UUVZLU83MTIzMHMtczZDdjFSZUVJR01OemJLcFQzMkt6NnlFWkZqNnZXb2o2TC1RUm5RSHFyTGNLQ25oTjd2RlMwTU1ZT0lWNkFBYlNrdFNabWdCWU94UEllRElwWFlXc3YyZ2JFQQ?oc=5",
+        "fonte": "Diário da Manhã",
+        "data": "2026-09-03"
       }
     ],
     "fertilizantes": [],
@@ -195,13 +195,13 @@ window.NEWS = {
       {
         "titulo": "Nestlé anuncia investimento de R$ 2 bilhões até 2028 no Brasil e nova fábrica em Minas Gerais",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUkVmajhENTVkSGgyMzdvVG9GUDRhRkNMVVFIdFE4ckdyM3lXbHdpZkVwX214S0FhV3BRT1UtTk1kTUpmZUZFT0d0VVlObm4yS3lMdHZCaWpoc1Zha3RnMC1HdW10eHpyUUtfdnhHam1uRWxTX2xYeXV6WDBid2E3b1hDeFJjYmFHUUg5RW1YRjZZTlRzMm5xTDNOeTZQTkRkTGVZWEdTQnptWXlGSDRjRTcxWmRzSXQwV0RDZ2g4dl9lQ2I0ZTNB?oc=5",
-        "fonte": "Brasil 247",
+        "fonte": "brasil247.com",
         "data": "2026-09-03"
       },
       {
         "titulo": "Nestlé investirá R$ 7 bilhões no Brasil até 2028 e prepara nova fábrica em Minas Gerais",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0RhcExDdVR5NVRha0ZKMnB2RVpLRlRJV2tVVUhiZExsenUyU3k1MFNxRjFJYlJYMFZHbWlQWEhEVmhVOEdjRFdzSURqWVVDLXVpck9sTlNzaTQ1SjRlb2g5SVpuLVFaYm02QVpnT2RlZDlIbkxtcTNhWERvaEU3NTVKb2NONFdBNDMzSW14ZGk1azhSTExfV1pDRUNyRDBsekllWTEydkhPa1dtN2V4LUlMc3VCRlI3Z2NCc0lUcEhpQQ?oc=5",
-        "fonte": "Balada IN",
+        "fonte": "portalin.com.br",
         "data": "2026-09-03"
       }
     ],
@@ -241,21 +241,21 @@ window.NEWS = {
       {
         "titulo": "Juros altos deixam produção de máquinas 'anêmica' e freiam indústria",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNUpUV1hyZ3ZWMjNVWjIxNEJ3UGxaUGZ6Z1VTZ2RvTmpEWHZPUWtidmhYY25jSElvdUtjRDBaY2tXdVNuTnVQMlBTYWpQV25EU3NURjViTlE1ZVJtUURDaWptdTgwNll6M3I5OURSY0thRkIwaDNzYzJ6TUs2M3IwNGhubnJVU3QxRE5mOFZ6WGZjUGwzWndLc0NONnBaUEU?oc=5",
-        "fonte": "UOL Economia",
+        "fonte": "economia.uol.com.br",
         "data": "2026-09-03"
       }
     ],
     "mineracao": [
       {
-        "titulo": "Senado analisa PL dos Minerais Críticos, que prevê R$ 7 bi em investimentos — Senado Notícias",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMC15Zlh5YjZud1hKNzlZUG5BRUdBQnNUQmQ3eFRBT21UOHYtVnl1cEpVN2FVdVRLelZCcGxZUUVTZHNBWHBCOGsydENUWXF0WlZkSFZWWmRaUjBuSXRVOFhMU0xaOFpiQ2FNcVpsaWNhY2NUSjVjYzlmb1JTMnNHX2tqcXJ4QkNOejBGZ1NDRzBkcTVqN04tNGUydnVPdnZsNXFSTjZiQXpoTV9YZjA3MGcxZWoyV19GWEU5V0gzOWlqaG9ESXZsNUN3?oc=5",
+        "titulo": "Senado aprova política nacional para minerais críticos e estratégicos — Senado Notícias",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYm9SazJQZVdrWmlsakFFMi1DWFYxeXF0c1hzOGw4Z3BJeGNPSXhSLTR5RmpUU1hNbDAzbUVLWEhHeFo1cTdhQXFsTXVnY2N5QmFiMnNGWExxaDZXRDdsMTg0Mk0xaS1KRkozem9HWGZya1hCR3hrV3QxcnEwWGMwZmp5QjVxNWd1enNrWmwxMklTb2Z2dmZzZ0hWNERRQ1c3WUZ5eDk5V2FWS0ZiRG5adHZ3Vy1XOXQ3WXNRcFg3UExTRE1X?oc=5",
         "fonte": "Senado Federal",
-        "data": "2026-08-27"
+        "data": "2026-09-02"
       },
       {
         "titulo": "MINERAIS CRÍTICOS | Setor pode adicionar até R$ 192 bilhões ao PIB até 2050",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDVfWUEtWlNCNE54akZTN1BOaEM5S3R6dE5rRlQ3ZWhXU0U5dVJyRDllZXBqeTFrUEJwTnVXQnVwMHpySEVvWVZ2dGpBSlBncDVMUmpiczdBRi0ybW5DdTZvREpsbTFqSjM2aTNkSy1zMnRlU1F5RE5kRkd2NlQ1M3JkU1RSWVd0bjZIN0RFeWI2Ym5xZENn?oc=5",
-        "fonte": "brasilmineral.com.br",
+        "fonte": "Brasil Mineral",
         "data": "2026-09-01"
       },
       {
@@ -275,13 +275,13 @@ window.NEWS = {
       {
         "titulo": "Fábrica de celulose da Arauco em Inocência, MS, atinge 70% de obra",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdVktUHNYeHNmLXpwbE8ybEhFTS1vcnhzNkNjcGdJOHVhQ2d4QVhQZFlfZ0ZBNl9qWUs5X1RZR0E0X2Nycl9wUF95YXFUWjRNR0ZJMVFnejJnWEhhM0ZCS1JJbjFzdkRTeGFtTlJNVVU3U2FBZHZLcDdXc09JM3ByczJZbjFLS0d0alVmZVRLMA?oc=5",
-        "fonte": "A Crítica de Campo Grande",
+        "fonte": "acritica.net",
         "data": "2026-08-28"
       },
       {
         "titulo": "Agência de Comunicação - Setor de papel e celulose prevê R$ 105 bilhões em investimentos até 2028",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQYmFhcXQ5a1dHT0FwS1A5SHpaZDRSNWxBbjZiQ01JVVhDQVRtR0ZvaVZHNndBWTVzTXBxcFphc1FFT3ZFMktkN1RGQmxOSjVQakEtTEVaeW93d2NXd0UyaG9sVXdLbXljR2k0aGhkTXJXZHNFcFg2UFF6YkJfdjBESE9OWUExcVNvMHEzYjlKcFhIOE1ocV9mZTNxNFhGZzd0cFd3dHc2cG5zUUcxMHJaREN5T1VQajE2QnRiVTFJekdXdVRmUVVmRG10ZUs1TkhIUkduVWozX3FabWQ0YnJPRElDYlFEVlRhLVVkZA?oc=5",
-        "fonte": "Estadão Blue Studio",
+        "fonte": "bluestudio.estadao.com.br",
         "data": "2026-08-31"
       }
     ],
