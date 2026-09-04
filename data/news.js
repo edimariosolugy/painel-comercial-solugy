@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-04T17:27:18+00:00",
+  "atualizadoEm": "2026-09-04T20:29:14+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Suíça do Agro? Fundo brasileiro inicia captação de R$ 100 milhões para comprar terra no Uruguai",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDFxVmpjQ3ByZWNjNGhBUWxKdGhKMkJPSlFzRzh5UE5FWHhXdHFNSTRfMmdkQklaMmQ1bzI2MUFCVjZybGZZLUVaaXdSUHhGZDZjVko2YVh5NnBKSTJGc1h4NDV2TklMTFFOQmx4UHROSFozSTYxcHRhd09Fdmlha1A5a2hwWmFub0R0Y2d2WlZ4YXRMM3BSX3E3VlRJWnp6elJ3TXphc1FMYWc5U2o1bDd3S3dJTGE5RjNHWHNpRjNqcXc?oc=5",
-        "fonte": "agfeed.com.br",
+        "fonte": "AgFeed",
         "data": "2026-09-01"
       },
       {
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "Canetas emagrecedoras desafiam indústria de alimentos, mostra estudo",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSnRiQ29DZmMyQ010eU44dndRLU1wUjdUNkR4dGRDUmxpRHJUeWFBNUl0RzJmUUlKREhGVHNyZmJocFBBNWVabUxSQzV2anVmV1J5S3BNcUZ5RXd3YklMSW5Vc0ZBVDQyUlpXNDNwb2Mycm5RdFVKaVA0ZE9YWW9vWHBNMi04cXVJa3ZSM3kxSWR4QTNRc2RibzVIODJ5R2JhM0c5aDh4RU5BdlcyUmVDTURkUkhyYV9HcF9JTVRfTEZiLWVW?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-08-30"
       },
       {
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "Testes para ampliação da mistura de etanol na gasolina podem iniciar em setembro",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR1JYU2NKS3EtZXpRa1FuZWZZTDg5aVlWRDZJLVhmXzJTRFhmRFpzcWlySE9PZkRrd1o2ejNFSERRd2N3ODFDQlE5RmJPT3BWWjNKUDJRT0lmRkZtRXVfbzN1Sk4zMC1IU29aVTBMVTRIQVdZQnFuUzhrcE1Pa1M5SFZLRnNqWmVraVZUTjNnQl84UzdGUklfVXJiZ3JTcjJTUWZIcnExZ0FWOWt4bmZCTk9ycGtMM05PcGVjTlp3ZXFXNjNKUEo5SjF3UEs4aFZXMEJhQlRid0U1SWRoaGc2eE1uUQ?oc=5",
-        "fonte": "jornalcana.com.br",
+        "fonte": "JornalCana",
         "data": "2026-09-03"
       },
       {
@@ -86,20 +86,20 @@ window.NEWS = {
       {
         "titulo": "Trajetória de multinacional brasileira une construção e sustentabilidade",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTRWbmNTTmw2RllCQjFOMGV6VTZBeV9FZEFGRUMxZFhyY2JkdlFMbEtMYzdqbU5hYUUweldjTE9vT0RObGhKUnAwZlpEQUItWUE0bm5qaWpkSExUbXNVeUdEVXZSNFp6dVc5YXpvVllEb1hObDdXclMwTzFlclNPTGNacEFVTzFTSzJHb0JLZFY1Y1JXOGNMeWtiWE4tX2xtdVk1NjVUYk85ajB1aks5WnNjc3RzTmF4dDhZZVF0NWNMbFN6SEE?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-01"
       },
       {
-        "titulo": "Ariquemes homologa licitação de R$ 1,06 milhão para compra de cimento",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWTd1amJyZXBkRTh1cmtWNkJ0V19tY1YwbUJ1OWo4bXRCbjFma3ZNQkQzSWhtWkliWmEyTFlUOUFfaDZqZllvMXIxNGRhZU9wbXlYcGJEbktxSklWbHdfTE14REpTWHZPRDlIb2RHOTNZczdJbk8wc001RG9SRFpxaXNQakpkdFdjS1VwaG9EYUE3Q1pkNk1JbGo2Z1pDcVFmTFByMTgyWEJaMTlqaFVDTTE2bHFud9IBtgFBVV95cUxNWTd1amJyZXBkRTh1cmtWNkJ0V19tY1YwbUJ1OWo4bXRCbjFma3ZNQkQzSWhtWkliWmEyTFlUOUFfaDZqZllvMXIxNGRhZU9wbXlYcGJEbktxSklWbHdfTE14REpTWHZPRDlIb2RHOTNZczdJbk8wc001RG9SRFpxaXNQakpkdFdjS1VwaG9EYUE3Q1pkNk1JbGo2Z1pDcVFmTFByMTgyWEJaMTlqaFVDTTE2bHFudw?oc=5",
+        "titulo": "Ariquemes homologa compra de R$ 1 milhão em cimento para secretarias municipais",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanp1U0dJaU1haExwajE0X2hxMG11eU1NZkNnVjEtanA2MjY0QzZYZGFYRVc4M1VzSk9UbGE2U0hYYTFYdGVoV0psaXgyc3Zpcy1DT3NtLWozNmQzWTRYTlBYVkV5SVd3cnpQcTJmQzE5eDUwNC1GZXducmgxY29GeGwwWDl4Tm1RRmNyeng5a05oazBoWFgyaU5UUVVEWDFqNEhsYVRGRzV0WlJCZ3ZEaHRINFZyMEdNVEN1Y3doTdIBxAFBVV95cUxNZkdrX0xWMkdVQy1Kb3AwN0x6ZUZXcWRaYjg3clVnYkx6SHJWbTFZNUI3amdoaHR6R3gtSmEyQ05jR0N6UTZ2X0NpQm1udDVLb1llY01iQXlVSVBSNFl5ME5oNjNNYmIwYTN6UV9Uem5lc3FMVFg3SEc4OWJSck4zQkUta1gwRGZBTHMteGk5ck1CVVBwUGlvVzd3VGFROGMyM09xRXNFQ0xnWkFNVkgwejRud3dPSjRIa20yWWlCVTUyZjdZ?oc=5",
         "fonte": "O TEMPO",
         "data": "2026-09-04"
       },
       {
-        "titulo": "A produção de cimento e aço atinge níveis recordes.",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1HZ3ZDdW5vWXJsNzdRT01haDVnUWZ0Uk03OHJUY1hweUY5NXhXVV9LUHpLTHNIdnphcHJYUGNRT2M4TmVZeUtsWTRoeHlMZE1rOFBPOUo0WUs4VmxfMndEMkNDSzAwZXJQZUM2cw?oc=5",
+        "titulo": "Aplicação da ciência e da tecnologia na produção de tijolos não queimados.",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTjQ3Q19TNVhIaWxRSXBraC03NUdBXzBIbkJqc0xGaXdPT3pTRXVMRUFEWF9lMS02cHBZUjRRcnJuVk9IYUc4SkZ0SDdTS0tfYXRZQ0lVYUdzOUw5VTV3Qm5mZmlWTm9ESjNEYjBsWkcwVnowTGhiZ3VaWEJUd3hJWjg3dkRmLUZZSWc?oc=5",
         "fonte": "Vietnam.vn",
-        "data": "2026-08-31"
+        "data": "2026-09-04"
       }
     ],
     "comercio": [
@@ -118,11 +118,17 @@ window.NEWS = {
       {
         "titulo": "Investimentos de pessoa física crescem 6,4% no 1º semestre, a R$ 9,141 tri",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2tuZ2VRNFdFTjQ1UUFMR0F6OW9ObkFRSnVfbVZDdnVWVURlaEV0WFR4ak9mWTNVVmVsTlYxLW9Gd0M5c2NScjNwdWhEbEYtRVVsQmhCWVVMaEJSSGxGOFQ2bF9vcTRQN0pVaFN6VFpDR1lYMXZHMnJOUkNfaU0wLWFkT0w1WkhaMDEwcGhWN1dwYVRHTUpkNUxCc2tLQWQyMVZub3luTHVtYmltT2FxNmV5LW9ENXdrSVZTTXBwZDhBTk01QXNB?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-03"
       }
     ],
     "energia-gt": [
+      {
+        "titulo": "Leilão de baterias vira campo minado para o setor elétrico",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFdzaDJKYTdmLUFfYjdteF9FMlhjMlpRbHdLNEEzdFM1VFVQekYyUUNBcWpvNE45OFhHa2M4UHJROVhkQUUzVzlxMG5HaS02TFVRWVVQNEQ5TXdVbkxFU0RuekJzRVZWeVhacEZDaldnU2pqNDJ6bVVGakVIQ0xNNDRiT2RWUkJpQjB4U2tHSFNTa1J6R0E?oc=5",
+        "fonte": "NeoFeed",
+        "data": "2026-09-04"
+      },
       {
         "titulo": "Cortes de geração solar aumentam 21% nos oito primeiros meses de 2026 | Setembro",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ09mM0R1cW9JbEZkeHFHdXJOWXQ5UGJzWTdOM2UyVVA0M1RJUEM2ckVwSGhaZ1lzSzRvMklCTFQ3TF9jU0t5eXN0TzBTWXFhVWhqYk5oYnhnd2x4Qi1TenhoTTExNWY2eUs2Ul9iZ2dldWdtTTRGSDZTbVlMNUxvTjRVRnlVM3R6cVZtODI1clAtWmNRU1RuZDdDQm5idTZ3TkxWTXhRV1JqMHNRanRYM1NEX0VMR00xQjFqTktKLVNHUQ?oc=5",
@@ -134,12 +140,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ISlZSaTBDM1I0aDFqZVE0cmhuQndqOGt6R1ZFTFJqWnZrVWVoVVRhd3VPSTV3ODU3aC1fWXFoUGpZVGhwczlMSXZKOHhJMXkzNmkzb0N6SUdBck9XcmRMQURDQkcxbjhyN3daTkR2QXNydXl2M1Y3RQ?oc=5",
         "fonte": "Canal Solar",
         "data": "2026-09-02"
-      },
-      {
-        "titulo": "‘Os americanos têm os chips, nós temos os elétrons’: o dilema do Brasil em data centers",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmUyWEUyQW5DalA1VW1IR3I0Y1VSRUtZd2xDdUJJUVlxQ0o1ODhfelVaeXpQOHd1V2s1UDJaeS1na0JZNmUtVXh0MWlwQ19tU2VMaWpPWUV5eFdZMjViVm84ZTlQVFhxUUJ3RWlWNFZzYWpvX29sSm1ucU1EdXRXdHlEMkpMZEc3RWZYcEFPN0dSdHd5X0wyQzZUaU5KSjFOc3VUMmdNZDRjNnB4ODRxVE1tZG5UN1JNTzJmY1RIcUJtWXZ3?oc=5",
-        "fonte": "Exame",
-        "data": "2026-09-01"
       }
     ],
     "solar": [
@@ -150,10 +150,10 @@ window.NEWS = {
         "data": "2026-09-03"
       },
       {
-        "titulo": "O que você precisa saber antes de gastar 15 mil reais em placas solares para fugir dos aumentos de energia",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEs5TTFMVFlhUnBfRTRpQVd0eHF6OTdXakc0T3M0Tm0tMEFvN2V6dHBJbWs2eWJVcjkwV0Y3U25Ucms4WlJXeVJGZDVLUHBsWmNEcm0ycUZTb1ZqOHVXUGxJcnZTQmYzenpqbU5hd2d3T2VMSkdqQ3AyUHJiaDc2N2dqWGtpVkhtOFRYRlRXaThBdWFfZldaenEzRkFMR0VXYlJBbGpJaXlSZkUwcFljbkJRRi05WUszcEU3eW54Tnd0cWlWaGVpQTRjQ2kyOWN2dmRYWlJaV1hGRDQ?oc=5",
-        "fonte": "NSC Total",
-        "data": "2026-09-02"
+        "titulo": "Energia solar ganha espaço no setor público e amplia oportunidades no mercado",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRnMEpnLTEtZHdNS2FJQUk0NXl6S1JiTzdPQVhEZkVvcHduT2JvQ0FQNVBuZG1PUXU4NWVJbzBXMGF4Vk96cGdLMHhwbzRSRjBYSWxFZm5IaXRUZXB6TEs1ZlJ6Q0t0MERTVlJWbXY4R2FldkRDeTFMLVNTQzdDMkV0OGRHMFBlSTRFOG00dWlJNGRGWTkwVzVQZWE0Q2Q4QWJVT3Q3LXJidw?oc=5",
+        "fonte": "Fiis",
+        "data": "2026-09-04"
       },
       {
         "titulo": "Hospital Dr. Lauro Reus passa a contar com sistema de energia solar",
@@ -190,30 +190,30 @@ window.NEWS = {
         "data": "2026-09-02"
       },
       {
-        "titulo": "Índia amplia indústria farmacêutica e fortalece exportações de medicamentos",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE9qRU1OUmRqTUx6RmRGZ1JoeDFiNDF5UFV1VjV4UTdfWnpGZTlhTWs0bWNIZVp3X0JZUUxZbkgzWmx6SlpQQlQ4eE84VjZkNnRGeG94WHk2ZlQtRnJRdXBnYTB6YnFmRjhXcWVjN1gwNjhJcnZLM01LTzZmZWxBU0tDcDdoNWY5bWFJUG0xdFFtQ3pyZC1zWmZHRDJjOTM0aEhxRHp3?oc=5",
-        "fonte": "Brasília in Foco",
-        "data": "2026-09-04"
-      },
-      {
         "titulo": "Desenvolvimento da indústria farmacêutica da Índia e exportação de medicamentos",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHhWZ3NjcHFleDQzMEFjOGxBQ0pBNjViQkxOUUN0aUdUaFExdzFxTWtUZVQ3WDhDbXc5bHl1TlowYUJMQlBSeFpxaXk4cWQwMkR1UGd3QzNkbjJHWjIwUHpkN2xhWnh2S0lpaVg1OENPS2lxNHl0a1l4NFo3V3E4X2xDTGtfV1RxdjVPN2VpWHcxbi1vOWFmTHNHTHZFY3VIZ0tOZkx4cUV6Y1Zk?oc=5",
         "fonte": "TV BRICS",
         "data": "2026-09-02"
+      },
+      {
+        "titulo": "Ex-diretora de Farmanguinhos, Eloan Pinheiro critica patentes na saúde e defende fortalecimento da produção pública de medicamentos",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPLS13T2FwUWJvdXFQdHN5RGRQOFVrSS1PeEFSMHYzak9XMWhIOTJBd2pRd25KUENTcFNvQ3hfMGx1QTM3dC1aNnVfYmZJdGZjcEpYM1dCQ3dZMWNDYm5aT194OE55R1VMY1RfaXFLNG9nZmZIN2lvajNmRmw0SjVXaGlSclZ1LXhhTVNGa19fcDVieWdKZjl1b3d5VzZoSnp1bEMtejFzVnZrdHU3QTRSNjV2aFhqZDZJSFFNYTJXY21DUmtoRS1WTGZIaXZRdFNIWjZST3g1dXpVeS1HMEVJaG1DbDMzWTRpMzEwaWE2RnFkWU9OTGlZbXd3NA?oc=5",
+        "fonte": "Agência Aids",
+        "data": "2026-09-04"
       }
     ],
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Nestlé vai abrir fábrica de fórmulas infantis em MG com investimento de R$ 600 milhões",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNEUHdzMFladXRpOVYzUVdndFBFb0JrMU9xd2FIWVZkUjU2akdueGI3cTF6c0xwZ0d0S3RrY1pQR3I2UzE1YmpxN3RYTmFtejVNd0drUks4VWU1dlFXb2VfdEs3b0cxbzFNSTktb1R2Nm9OWW82ZzhOejFLLTJQVTBOVXl2TUx0ZVZrMVdza1NfRGdZenJxNkVnY1UwZEsxT0NlQllrRGo4REp2SkFlOERIZWk3RU4xV0drY1lpeG1lc0QzQmhsOWtpM0tpVERDQUU1dkcxdmJOQ0dzQWVnaGRjcmExZ9IB9AFBVV95cUxNUXVOSWd6TElhZ0RKMzBkWUNvVkJacFJGdTdBb1JzcDJmS19LenJqQldDR2E1NlBmUWtlZEE4OW5tdTNac2ktWU9pcW1mdkQ1X1g5b3p5X09rVmVhdXFFUnA1aXNvLTNFTHdHOTNpTkJUWkZHVE5nVlB5anQxUENqdk9sZ2hsZ0VfQmpEQUd0NUR6UmFLZGx3bHRxMEVQWFdlMnJDTmNXZDV5WkdfMXJmUmdOZjFjajRLeWFoMDhCU21EQ2RnQm9tY1JwaGNDdXU3dXRkNzRQZU1tMUlGOEc3Sm9ETUtheGdaYWJFTFJzaWFWZ1RR?oc=5",
-        "fonte": "G1",
+        "titulo": "Nestlé anuncia nova fábrica de fórmulas infantis no Brasil com investimento de R$ 2 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2xOUFdSOU52aThtWHdzRWRlbkRxQTc2YkVjaGlILXo0OE13cUl1WjVlV0cySFNyQ3dZdXBJZU43ejhkYVhQSXE2VEhud0NCU1AwRndMSkpGaTE2TDRDSVdzQnNWLTQ1bVFIM1p3MWM5Z2dNaWpxMllEVjNkaFdJYzJxdkMtZUJSVC1pd0tpYUFBWk1GemtRVTE5SFZFeWNJVy02LXdsVEI3MElxV1BxZ2xsWFhzQi1JelZFMEFSQmNEdU1xWlNFcVNqbw?oc=5",
+        "fonte": "SuperVarejo",
         "data": "2026-09-03"
       },
       {
-        "titulo": "Nestlé anuncia nova fábrica de fórmulas infantis no Brasil com investimento de R$ 2 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2xOUFdSOU52aThtWHdzRWRlbkRxQTc2YkVjaGlILXo0OE13cUl1WjVlV0cySFNyQ3dZdXBJZU43ejhkYVhQSXE2VEhud0NCU1AwRndMSkpGaTE2TDRDSVdzQnNWLTQ1bVFIM1p3MWM5Z2dNaWpxMllEVjNkaFdJYzJxdkMtZUJSVC1pd0tpYUFBWk1GemtRVTE5SFZFeWNJVy02LXdsVEI3MElxV1BxZ2xsWFhzQi1JelZFMEFSQmNEdU1xWlNFcVNqbw?oc=5",
-        "fonte": "supervarejo.com.br",
+        "titulo": "Nestlé vai abrir fábrica de fórmulas infantis em MG com investimento de R$ 600 milhões",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNEUHdzMFladXRpOVYzUVdndFBFb0JrMU9xd2FIWVZkUjU2akdueGI3cTF6c0xwZ0d0S3RrY1pQR3I2UzE1YmpxN3RYTmFtejVNd0drUks4VWU1dlFXb2VfdEs3b0cxbzFNSTktb1R2Nm9OWW82ZzhOejFLLTJQVTBOVXl2TUx0ZVZrMVdza1NfRGdZenJxNkVnY1UwZEsxT0NlQllrRGo4REp2SkFlOERIZWk3RU4xV0drY1lpeG1lc0QzQmhsOWtpM0tpVERDQUU1dkcxdmJOQ0dzQWVnaGRjcmExZ9IB9AFBVV95cUxNUXVOSWd6TElhZ0RKMzBkWUNvVkJacFJGdTdBb1JzcDJmS19LenJqQldDR2E1NlBmUWtlZEE4OW5tdTNac2ktWU9pcW1mdkQ1X1g5b3p5X09rVmVhdXFFUnA1aXNvLTNFTHdHOTNpTkJUWkZHVE5nVlB5anQxUENqdk9sZ2hsZ0VfQmpEQUd0NUR6UmFLZGx3bHRxMEVQWFdlMnJDTmNXZDV5WkdfMXJmUmdOZjFjajRLeWFoMDhCU21EQ2RnQm9tY1JwaGNDdXU3dXRkNzRQZU1tMUlGOEc3Sm9ETUtheGdaYWJFTFJzaWFWZ1RR?oc=5",
+        "fonte": "G1",
         "data": "2026-09-03"
       },
       {
@@ -267,7 +267,7 @@ window.NEWS = {
       {
         "titulo": "Senado aprova política nacional para minerais críticos e estratégicos — Senado Notícias",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYm9SazJQZVdrWmlsakFFMi1DWFYxeXF0c1hzOGw4Z3BJeGNPSXhSLTR5RmpUU1hNbDAzbUVLWEhHeFo1cTdhQXFsTXVnY2N5QmFiMnNGWExxaDZXRDdsMTg0Mk0xaS1KRkozem9HWGZya1hCR3hrV3QxcnEwWGMwZmp5QjVxNWd1enNrWmwxMklTb2Z2dmZzZ0hWNERRQ1c3WUZ5eDk5V2FWS0ZiRG5adHZ3Vy1XOXQ3WXNRcFg3UExTRE1X?oc=5",
-        "fonte": "senado.leg.br",
+        "fonte": "Senado Federal",
         "data": "2026-09-02"
       },
       {
@@ -279,7 +279,7 @@ window.NEWS = {
       {
         "titulo": "Mineradoras elogiam, mas municípios criticam PL de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmJKN2lGdGlYYUdPNzdZMHFSclZBR1hmS193VXREMnhUcFhRWTBTWXJNcGdfZlQzNk8zRF9wdHpEc1hVVWNXSGMtY0V4VU1ob3ZtMDlNU1FMMm96WTNHaTh6allwQmQtTWxCemgtTXhmbGxDSEViYW5ZSkZ0TnNib2kyM2h0dHUtRW01NEtlVDBjTXZfa3RDem9IZ3VTUHdKYjFwZGRBZWVydWpnV0hsRmwtc09IMG5rakxPTWctUmtIRVctTE03a1JR?oc=5",
-        "fonte": "Agência Brasil",
+        "fonte": "agenciabrasil.ebc.com.br",
         "data": "2026-09-03"
       }
     ],
