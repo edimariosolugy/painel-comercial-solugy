@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-04T22:52:15+00:00",
+  "atualizadoEm": "2026-09-05T00:43:07+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Suíça do Agro? Fundo brasileiro inicia captação de R$ 100 milhões para comprar terra no Uruguai",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDFxVmpjQ3ByZWNjNGhBUWxKdGhKMkJPSlFzRzh5UE5FWHhXdHFNSTRfMmdkQklaMmQ1bzI2MUFCVjZybGZZLUVaaXdSUHhGZDZjVko2YVh5NnBKSTJGc1h4NDV2TklMTFFOQmx4UHROSFozSTYxcHRhd09Fdmlha1A5a2hwWmFub0R0Y2d2WlZ4YXRMM3BSX3E3VlRJWnp6elJ3TXphc1FMYWc5U2o1bDd3S3dJTGE5RjNHWHNpRjNqcXc?oc=5",
-        "fonte": "agfeed.com.br",
+        "fonte": "AgFeed",
         "data": "2026-09-01"
       },
       {
@@ -239,7 +239,7 @@ window.NEWS = {
       {
         "titulo": "Pecém e Transnordestina: uma nova fronteira para a logística nordestina",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPRjAwcjlqODZ6YUhIVDA2YjU5OUJyaGJqWFRRRGxTY2tmdGlGMkM3X2JSVHF6YWI1TGs2ckRoZ1VJM1BzRXNWcmdzMHJKOGxkaFJYem9yWXpQSW5IekVqYzktbFUxMGp2cVdRVG5XSHN0LThjc3paMlFVQ3Z0cmlTeDBVUU11S2V3cTVHUWI0a0hhd2VKc2NIcGg3MGZqb0Qtb0xGWFVZdVNNbUdublV5ZWlEZDVWdXdBOEcyMWRkX0RuLWRscjQ4dDc0b1JXU19hblJGNVpuaGtjcEdTTmJJ?oc=5",
-        "fonte": "diariodonordeste.verdesmares.com.br",
+        "fonte": "Diário do Nordeste",
         "data": "2026-09-03"
       }
     ],
