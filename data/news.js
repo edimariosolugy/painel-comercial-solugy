@@ -1,14 +1,8 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-05T12:28:58+00:00",
+  "atualizadoEm": "2026-09-05T15:51:35+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "CNA debate perspectivas do agronegócio e gargalos de investimento na Expointer",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFlNajBoV3pma1A1R1pEakItZk1OLV9hYlRpR1A0OEd5RjNTdXl6NkR2ZXU0c1RLRGU0cE8wREw4eGhmckVraEhkMTd6ekdaVnpCT1hFdVZoc3BmeExhcFotZDJOS0p3dm9oNTl6eTdTVlp3dDVranJ6elFheEg1aGtFMzdsTEhxejl6dy1kZlZ0SDRzTFpNWndLcmFyQmdFZnlTQTYtSHY2bXpkSHc?oc=5",
-        "fonte": "Brasil Inovador",
-        "data": "2026-09-03"
-      },
       {
         "titulo": "Suíça do Agro? Fundo brasileiro inicia captação de R$ 100 milhões para comprar terra no Uruguai",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDFxVmpjQ3ByZWNjNGhBUWxKdGhKMkJPSlFzRzh5UE5FWHhXdHFNSTRfMmdkQklaMmQ1bzI2MUFCVjZybGZZLUVaaXdSUHhGZDZjVko2YVh5NnBKSTJGc1h4NDV2TklMTFFOQmx4UHROSFozSTYxcHRhd09Fdmlha1A5a2hwWmFub0R0Y2d2WlZ4YXRMM3BSX3E3VlRJWnp6elJ3TXphc1FMYWc5U2o1bDd3S3dJTGE5RjNHWHNpRjNqcXc?oc=5",
@@ -20,6 +14,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblNwUTB1V0gxMXZJbUlKTVlTcDFXOUJUOG5tU1NnM0w4UHVuTTduRnVjVjhsRnl3eFV1cENXS0JpdHhkLWN1ZkZzRl9lN3g0enVWMElZenZLMjNETWExSVJMSTF4NDlTbk1Dc3UxajlpamtsdUh4dTVzcDFPQlFXb2Vjb1dqR3NfM0lwbmtzWVFuLXgwdUxIS293Qm9yMFFVemtRbmhaS3lya29EM1FDYkJxWmVkZUozbUtzdXRPSmszYWZYM0ZrNW5vTnA?oc=5",
         "fonte": "Seu Dinheiro",
         "data": "2026-09-02"
+      },
+      {
+        "titulo": "CNA debate perspectivas do agronegócio e gargalos de investimento na Expointer",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFlNajBoV3pma1A1R1pEakItZk1OLV9hYlRpR1A0OEd5RjNTdXl6NkR2ZXU0c1RLRGU0cE8wREw4eGhmckVraEhkMTd6ekdaVnpCT1hFdVZoc3BmeExhcFotZDJOS0p3dm9oNTl6eTdTVlp3dDVranJ6elFheEg1aGtFMzdsTEhxejl6dy1kZlZ0SDRzTFpNWndLcmFyQmdFZnlTQTYtSHY2bXpkSHc?oc=5",
+        "fonte": "Brasil Inovador",
+        "data": "2026-09-03"
       }
     ],
     "alimentos-bebidas": [
@@ -38,7 +38,7 @@ window.NEWS = {
       {
         "titulo": "CODAM: a indústria cresce, mas o desenvolvimento ainda precisa encontrar o interior",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORF83NzlQSDZPSDVQZ182MXVpekZYZzh0TDVTMHF0WDdmTHo0X1FRNVNBS2xlTnFaaDkxbHFQMWZic2JQcTFQMzZ2QzQ0Mmp1Y2IxYzdKRTQyNncyRktyNkZDTWdOR0VqMEhFb3ZGblpFbm9mMDJuei1IVElGbHUwZE5XbjdSaG9BajhqcUx6NmdXU2dGdzFXbmV3ZXhOMm9XekxENFlHV2tBTmNRVkE?oc=5",
-        "fonte": "SIMMMEM",
+        "fonte": "simmmem.org.br",
         "data": "2026-09-02"
       }
     ],
@@ -106,7 +106,7 @@ window.NEWS = {
       {
         "titulo": "Amazon e ID Logistics inauguram centro de distribuição no Paraná",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU82TGJVa0l2Mk5yUzFDY2hNNXJRaHVxTXcyQklUQjVteUhuOFFhSE9EREhLNm82eXVOa2RKeTJzUDZFRlUzSGNXclNlSUl0NGZvcnFDdUdxZXJTRGY0dWhIdEdISUNodDVIVmhNb3BqOWExTUg2cTBBeXZ1ZWtkZUxXLXZ2d0o5YzZnb0psTnBKdjllbzN0YUxub0g3aFZncFhLS25B?oc=5",
-        "fonte": "MundoLogística",
+        "fonte": "mundologistica.com.br",
         "data": "2026-09-04"
       },
       {
@@ -138,12 +138,6 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "Suframa prospecta novos investimentos em energia solar durante a Intersolar South America 2026",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTJDS09uWjQwZE9ZTC1XN1pJcEhLSFh1aWVRM25CemtXdWdYT2t0VkZUWWZSMVhBblVqcmFuLWN1bjZwZEQ4b2prelY0OW16RlBpbERmT0txMkRRVTdjLWk2Z1JhWExPeUxYY05zVUZuaDNTaWI0YXJXMU81X0FJa2RDdmlnNVVTdVFucXZFYnVwaXZFbzZhYjc4cGUwczRPVEQ3NGMwZzVSa3pqUGxqYnpDVlBFQVZ1djVqZ1V6ZGRNVUN2dTBKWl9pOEtvZjR1RUgxN1VGLW5zTEUwY1E?oc=5",
-        "fonte": "www.gov.br",
-        "data": "2026-09-03"
-      },
-      {
         "titulo": "Energia solar ganha espaço no setor público e amplia oportunidades no mercado",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRnMEpnLTEtZHdNS2FJQUk0NXl6S1JiTzdPQVhEZkVvcHduT2JvQ0FQNVBuZG1PUXU4NWVJbzBXMGF4Vk96cGdLMHhwbzRSRjBYSWxFZm5IaXRUZXB6TEs1ZlJ6Q0t0MERTVlJWbXY4R2FldkRDeTFMLVNTQzdDMkV0OGRHMFBlSTRFOG00dWlJNGRGWTkwVzVQZWE0Q2Q4QWJVT3Q3LXJidw?oc=5",
         "fonte": "Fiis",
@@ -154,6 +148,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEs5TTFMVFlhUnBfRTRpQVd0eHF6OTdXakc0T3M0Tm0tMEFvN2V6dHBJbWs2eWJVcjkwV0Y3U25Ucms4WlJXeVJGZDVLUHBsWmNEcm0ycUZTb1ZqOHVXUGxJcnZTQmYzenpqbU5hd2d3T2VMSkdqQ3AyUHJiaDc2N2dqWGtpVkhtOFRYRlRXaThBdWFfZldaenEzRkFMR0VXYlJBbGpJaXlSZkUwcFljbkJRRi05WUszcEU3eW54Tnd0cWlWaGVpQTRjQ2kyOWN2dmRYWlJaV1hGRDQ?oc=5",
         "fonte": "NSC Total",
         "data": "2026-09-02"
+      },
+      {
+        "titulo": "Hospital Dr. Lauro Reus passa a contar com sistema de energia solar",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGNUeHU4c3ZIeXFLXzhaMVFEMF9NaFdoVmQwTV94Qk9MeGpwczcyQW5jY0ZrcURpdnF2RGdFSXVxY2Q5cG1SOU12TGFXUHJ6OENVbEVhT0dDSGN5U29pWmphUXh1V1FYMkpCcVJ4ek1sbmg0SVg5dmVSTVV2bks2bnFZUE1xVEFtdlpRM3FBVXhwSkE0eDlJT0liVzk2Qzg?oc=5",
+        "fonte": "CAMPO BOM",
+        "data": "2026-09-01"
       }
     ],
     "epc": [
@@ -193,15 +193,15 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Nestlé vai abrir fábrica de fórmulas infantis em MG com investimento de R$ 600 milhões",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNEUHdzMFladXRpOVYzUVdndFBFb0JrMU9xd2FIWVZkUjU2akdueGI3cTF6c0xwZ0d0S3RrY1pQR3I2UzE1YmpxN3RYTmFtejVNd0drUks4VWU1dlFXb2VfdEs3b0cxbzFNSTktb1R2Nm9OWW82ZzhOejFLLTJQVTBOVXl2TUx0ZVZrMVdza1NfRGdZenJxNkVnY1UwZEsxT0NlQllrRGo4REp2SkFlOERIZWk3RU4xV0drY1lpeG1lc0QzQmhsOWtpM0tpVERDQUU1dkcxdmJOQ0dzQWVnaGRjcmExZ9IB9AFBVV95cUxNUXVOSWd6TElhZ0RKMzBkWUNvVkJacFJGdTdBb1JzcDJmS19LenJqQldDR2E1NlBmUWtlZEE4OW5tdTNac2ktWU9pcW1mdkQ1X1g5b3p5X09rVmVhdXFFUnA1aXNvLTNFTHdHOTNpTkJUWkZHVE5nVlB5anQxUENqdk9sZ2hsZ0VfQmpEQUd0NUR6UmFLZGx3bHRxMEVQWFdlMnJDTmNXZDV5WkdfMXJmUmdOZjFjajRLeWFoMDhCU21EQ2RnQm9tY1JwaGNDdXU3dXRkNzRQZU1tMUlGOEc3Sm9ETUtheGdaYWJFTFJzaWFWZ1RR?oc=5",
-        "fonte": "G1",
-        "data": "2026-09-03"
-      },
-      {
         "titulo": "Nestlé anuncia nova fábrica de fórmulas infantis no Brasil com investimento de R$ 2 bilhões",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2xOUFdSOU52aThtWHdzRWRlbkRxQTc2YkVjaGlILXo0OE13cUl1WjVlV0cySFNyQ3dZdXBJZU43ejhkYVhQSXE2VEhud0NCU1AwRndMSkpGaTE2TDRDSVdzQnNWLTQ1bVFIM1p3MWM5Z2dNaWpxMllEVjNkaFdJYzJxdkMtZUJSVC1pd0tpYUFBWk1GemtRVTE5SFZFeWNJVy02LXdsVEI3MElxV1BxZ2xsWFhzQi1JelZFMEFSQmNEdU1xWlNFcVNqbw?oc=5",
         "fonte": "SuperVarejo",
+        "data": "2026-09-03"
+      },
+      {
+        "titulo": "Nestlé vai abrir fábrica de fórmulas infantis em MG com investimento de R$ 600 milhões",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNEUHdzMFladXRpOVYzUVdndFBFb0JrMU9xd2FIWVZkUjU2akdueGI3cTF6c0xwZ0d0S3RrY1pQR3I2UzE1YmpxN3RYTmFtejVNd0drUks4VWU1dlFXb2VfdEs3b0cxbzFNSTktb1R2Nm9OWW82ZzhOejFLLTJQVTBOVXl2TUx0ZVZrMVdza1NfRGdZenJxNkVnY1UwZEsxT0NlQllrRGo4REp2SkFlOERIZWk3RU4xV0drY1lpeG1lc0QzQmhsOWtpM0tpVERDQUU1dkcxdmJOQ0dzQWVnaGRjcmExZ9IB9AFBVV95cUxNUXVOSWd6TElhZ0RKMzBkWUNvVkJacFJGdTdBb1JzcDJmS19LenJqQldDR2E1NlBmUWtlZEE4OW5tdTNac2ktWU9pcW1mdkQ1X1g5b3p5X09rVmVhdXFFUnA1aXNvLTNFTHdHOTNpTkJUWkZHVE5nVlB5anQxUENqdk9sZ2hsZ0VfQmpEQUd0NUR6UmFLZGx3bHRxMEVQWFdlMnJDTmNXZDV5WkdfMXJmUmdOZjFjajRLeWFoMDhCU21EQ2RnQm9tY1JwaGNDdXU3dXRkNzRQZU1tMUlGOEc3Sm9ETUtheGdaYWJFTFJzaWFWZ1RR?oc=5",
+        "fonte": "G1",
         "data": "2026-09-03"
       },
       {
@@ -233,6 +233,12 @@ window.NEWS = {
     ],
     "maquinas": [
       {
+        "titulo": "Abimaq: Investimentos em máquinas recuam 5,3% em julho ante mesmo mês de 2025",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHQxcDlXN2FBa0NoQV9KQVRteTQ5UkpTemlodkprQTZjVkFXREF2YzRtb1M3bGZsQVFUd3NCaUtqQWRxa3lDclNKMldOSDlCWTBLSkNDcnhSMHRWZUVBaEhWaEd6LWZQTmNabnZ5VU0zUEhQUDg2b0dweTVQVi1iTW9FYU5FaElkNjJvT1NGVjhrTGVXMEo2QzZ5TkRBSVJrRkN0UWFUM0YyQ0s1?oc=5",
+        "fonte": "InvesTalk",
+        "data": "2026-09-01"
+      },
+      {
         "titulo": "Investimentos chineses no Brasil e América Latina: implicações para a economia",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN29lc2M0c2RTTDc1SkM5ZTcyejFnSVdCQmJveDhaMUJDVVZUR2dhbWlEWEVaUWZYeEV6WW5veklhM3hhd1kxaE40WjVrdkppeHg0a0p4XzlNT1MydVlscEcwSEZaMFh4bFlVcmtxUVduNkVMNU9nR2lzZGtVZEpLRUtSZVJveElDXzF2MkdyYnVESkJlWVk2aDZ1TnVwVnV1Nk05VkswVFU?oc=5",
         "fonte": "Confederação Nacional do Transporte - CNT",
@@ -241,14 +247,8 @@ window.NEWS = {
       {
         "titulo": "Produção de máquinas industriais cai no Brasil e reacende debate: juros altos ou falta de demanda?",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3RoVXZ5R1prN0VsbGhiZy05QXExdi03ZFR3OThoaW9UUmJmd21jcXFMSWpRVW1zXzQtNG9pRjJFZmJHaGlTM3JHSFhsbUF6OGtEVl9kRFNOMjFGUFhONHRPV012VFUxRl8tNlZ2blc5UHRMQVVxd20tUG9SZkZYX1BJWWFKdVhZc1lYeS1sbXZ1cFRndjc3ZFBRZVU2U29ib1RxVkdkbTM2NFZ0VG1CMTFTbkxva1BoX1BjQ1hlS0wxa3hTemlqekd6dngweTdQOVE?oc=5",
-        "fonte": "maringapost.com.br",
+        "fonte": "Maringá Post",
         "data": "2026-09-03"
-      },
-      {
-        "titulo": "Investimentos em máquinas recuam 5,3% em julho e Abimaq alerta para juros altos",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2FIM0xHNlNpZDQ1aXlZNncyMzN2S0xURE9MMFZSY2hncnlGQ0t4WlJKQWlmMzJ2NzVPRVlOak5qRXJkNnVuM2JBbEtmbi0xTjFMYkJWWVpCeU0taHRBdUxiWUV3V2FOaUo1SGlPWGNWYkxRYmRkQjh2bGszUWN6QUEwRFNHOXUzUmlkVmVfSGFSTmtOUmlUbXZNYW1jYnVuRE9tNW9UOWFlYUZfSFRwLW13RTE?oc=5",
-        "fonte": "ADVFN",
-        "data": "2026-09-01"
       }
     ],
     "mineracao": [
@@ -265,10 +265,10 @@ window.NEWS = {
         "data": "2026-09-01"
       },
       {
-        "titulo": "Britânica Appian vê Brasil como peça-chave para avançar em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdW96XzNlRmgyYU4ycFhfSFNRbzFHZkoxcEs3X0dwN2pjZHhZdmI3R05kVmZjR0JCWmhkTnh1ZlVIYjZDMVpmTUZfWGVucjRtd2diVTJYVm9qNGotSlJXZS1FclFWSFFlaEpFWno5ZzFLcGhScTdjY0hjNW5UM2Z1TlBmZ1NpdHYycF9pY3dtdTVuQ0pZQlpoeDVpVzdrOEE2aXVHM09GejlOT1NnX2xLRi10Y0xoTTExZXV3N9IB0AFBVV95cUxNX2MycHdqOVl5Y01nVnZWcEh6ZVhaaGtXdzMwVzg3eU96UlR3NGNUS3Q0ZC1sRlg5eTBpbXF5blNkeDY4bHY5QVc4MVZEZTRRLVJrT1czbmM0TFNScG5WTTZ3VEpETTlfOUVKVXA5OUtReXota1RhZlZyYWZheGZvQVh4TlpoN3poMXpNcFBWa205bThHbmdieGltNDYtU3NNSlVnRGJpTFctbGxJV0NPOG9Ubjd2T1VPYUxYUWFGY1VISW5pRV9XWWh1bUVfb0hB?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
-        "data": "2026-08-31"
+        "titulo": "Brasil busca aproximar mineração e indústria para agregar valor a minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3FNZ05HX3duRWJrWHJGcWtST3doX0hJdHFLaFFObEFIYkp1LUpmN0JSTlZGSDRyNHNTSVItaUNIa250ZktPRE1GbDVlTk5ZSy13QmU3cEdKZFlqa3VZZXlDeE12YnNqRnRtcVJhTjRDNVBVZjRXa3BRWWpQd2plbnpTWTFJNXc5cE9wdGtmMHU2c2NLZlFRZkRnRlJoTDdYZkUtSFFaMWF0M1RySnJ1TGFn?oc=5",
+        "fonte": "Portal BE News",
+        "data": "2026-09-05"
       }
     ],
     "papel-celulose": [
