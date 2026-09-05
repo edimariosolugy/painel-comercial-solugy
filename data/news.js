@@ -1,19 +1,19 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-05T18:00:17+00:00",
+  "atualizadoEm": "2026-09-05T20:15:49+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "Suíça do Agro? Fundo brasileiro inicia captação de R$ 100 milhões para comprar terra no Uruguai",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDFxVmpjQ3ByZWNjNGhBUWxKdGhKMkJPSlFzRzh5UE5FWHhXdHFNSTRfMmdkQklaMmQ1bzI2MUFCVjZybGZZLUVaaXdSUHhGZDZjVko2YVh5NnBKSTJGc1h4NDV2TklMTFFOQmx4UHROSFozSTYxcHRhd09Fdmlha1A5a2hwWmFub0R0Y2d2WlZ4YXRMM3BSX3E3VlRJWnp6elJ3TXphc1FMYWc5U2o1bDd3S3dJTGE5RjNHWHNpRjNqcXc?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-09-01"
-      },
       {
         "titulo": "Banco do Brasil (BBAS3): por que nem a melhora do agro convence a XP a investir na ação?",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblNwUTB1V0gxMXZJbUlKTVlTcDFXOUJUOG5tU1NnM0w4UHVuTTduRnVjVjhsRnl3eFV1cENXS0JpdHhkLWN1ZkZzRl9lN3g0enVWMElZenZLMjNETWExSVJMSTF4NDlTbk1Dc3UxajlpamtsdUh4dTVzcDFPQlFXb2Vjb1dqR3NfM0lwbmtzWVFuLXgwdUxIS293Qm9yMFFVemtRbmhaS3lya29EM1FDYkJxWmVkZUozbUtzdXRPSmszYWZYM0ZrNW5vTnA?oc=5",
         "fonte": "Seu Dinheiro",
         "data": "2026-09-02"
+      },
+      {
+        "titulo": "Suíça do Agro? Fundo brasileiro inicia captação de R$ 100 milhões para comprar terra no Uruguai",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDFxVmpjQ3ByZWNjNGhBUWxKdGhKMkJPSlFzRzh5UE5FWHhXdHFNSTRfMmdkQklaMmQ1bzI2MUFCVjZybGZZLUVaaXdSUHhGZDZjVko2YVh5NnBKSTJGc1h4NDV2TklMTFFOQmx4UHROSFozSTYxcHRhd09Fdmlha1A5a2hwWmFub0R0Y2d2WlZ4YXRMM3BSX3E3VlRJWnp6elJ3TXphc1FMYWc5U2o1bDd3S3dJTGE5RjNHWHNpRjNqcXc?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-09-01"
       },
       {
         "titulo": "CNA debate perspectivas do agronegócio e gargalos de investimento na Expointer",
@@ -132,11 +132,17 @@ window.NEWS = {
       {
         "titulo": "ANEEL enfrenta impasse sobre encargos, mas mantém leilão de baterias para dezembro",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ISlZSaTBDM1I0aDFqZVE0cmhuQndqOGt6R1ZFTFJqWnZrVWVoVVRhd3VPSTV3ODU3aC1fWXFoUGpZVGhwczlMSXZKOHhJMXkzNmkzb0N6SUdBck9XcmRMQURDQkcxbjhyN3daTkR2QXNydXl2M1Y3RQ?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-09-02"
       }
     ],
     "solar": [
+      {
+        "titulo": "Solar avança na África mais rápido do que os governos conseguem medir",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOXFJZlJWZlNxQ2hVdVd3YjI2TjFkN1UzaHgxWk80Zl8tNlduSWpwSFFXVVdNY05VaEV4ZUxoMHk2OERITnVNOTJuc2YzTHVlOS1zajhVbDZYdFFfOWRIZGoyMWwtbVU5WW1LQzhCUElYakg5b1FxNTFudzV4cjlHNXBzWHE4Q3B2ZmtTT2l2VnlEZ1VCY0hVMW1TTUdMR2pWZ0ZUWk0zR0dGUWt2bFRXV1BnYjI1M1V0V2ptc2ZjYlVYZ0U?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-08-31"
+      },
       {
         "titulo": "Energia solar ganha espaço no setor público e amplia oportunidades no mercado",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPTGRnMEpnLTEtZHdNS2FJQUk0NXl6S1JiTzdPQVhEZkVvcHduT2JvQ0FQNVBuZG1PUXU4NWVJbzBXMGF4Vk96cGdLMHhwbzRSRjBYSWxFZm5IaXRUZXB6TEs1ZlJ6Q0t0MERTVlJWbXY4R2FldkRDeTFMLVNTQzdDMkV0OGRHMFBlSTRFOG00dWlJNGRGWTkwVzVQZWE0Q2Q4QWJVT3Q3LXJidw?oc=5",
@@ -144,29 +150,23 @@ window.NEWS = {
         "data": "2026-09-04"
       },
       {
-        "titulo": "O que você precisa saber antes de gastar 15 mil reais em placas solares para fugir dos aumentos de energia",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEs5TTFMVFlhUnBfRTRpQVd0eHF6OTdXakc0T3M0Tm0tMEFvN2V6dHBJbWs2eWJVcjkwV0Y3U25Ucms4WlJXeVJGZDVLUHBsWmNEcm0ycUZTb1ZqOHVXUGxJcnZTQmYzenpqbU5hd2d3T2VMSkdqQ3AyUHJiaDc2N2dqWGtpVkhtOFRYRlRXaThBdWFfZldaenEzRkFMR0VXYlJBbGpJaXlSZkUwcFljbkJRRi05WUszcEU3eW54Tnd0cWlWaGVpQTRjQ2kyOWN2dmRYWlJaV1hGRDQ?oc=5",
-        "fonte": "NSC Total",
-        "data": "2026-09-02"
-      },
-      {
-        "titulo": "Hospital Dr. Lauro Reus passa a contar com sistema de energia solar",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGNUeHU4c3ZIeXFLXzhaMVFEMF9NaFdoVmQwTV94Qk9MeGpwczcyQW5jY0ZrcURpdnF2RGdFSXVxY2Q5cG1SOU12TGFXUHJ6OENVbEVhT0dDSGN5U29pWmphUXh1V1FYMkpCcVJ4ek1sbmg0SVg5dmVSTVV2bks2bnFZUE1xVEFtdlpRM3FBVXhwSkE0eDlJT0liVzk2Qzg?oc=5",
-        "fonte": "CAMPO BOM",
-        "data": "2026-09-01"
+        "titulo": "Casa dos Ventos investe R$ 5,12 bi em energia solar no MS",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQllac2RJOVZaem9XSVFLLU1mdUQ1UUtPbzFYVmVxMUtDWU9VSWRfMmUwY2NyRFkwWWNXRXI2ZEZ6bUt5Q3ZoWUFxZ1NseFluSEFFMk9iR3JGdlhFZU4zNGZ2RUFWWmdlWmkwWTlDM0FNb21rS1B5dzlRcURGaWpUYkEwWEJjOVhfZ3Z2elU4RmdJc3I1U1ZSWlhQaTRvSUNrbG9rQUtBT0ZZcGtGRENnWjlXWTNmZXpnUVlxMtIBvAFBVV95cUxPWVUtWWtWT0NwZmFpTGdTX3lQOFVrMzBYNkY0Qmp1RThYNkYwUTAxV1JWVnY1bXhnaElYWkZkeW5BS0VrT0JJZ2hGRlVXZVY5ZlMyZ0RfU0poR1VKa20tZTAzUlhfQzFTTFhwQkxNN01TNFB2eVJRbHZPcFNtWnR6XzhVM1BMTkpIRW9Tc25aNjZnaGpoOFJuNTBzWlR3dmVOY2F5WVNDR2w3QU5halZidm5QRnJJY1AtMk9RWg?oc=5",
+        "fonte": "Campo Grande News",
+        "data": "2026-08-31"
       }
     ],
     "epc": [
       {
         "titulo": "Investimento público de SP mais que dobra em quatro anos e chega a R$ 15 bilhões no primeiro semestre",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNi04TS1ZakxhRlB0OUI5enNuNi1iUFhvaWpIVzROQ3VTVWJGRUl2N05YaGhmMXpNWmVFQUkzYkhYQ2N2NUtCZkVoUWNKODkwOTBrbnRJa00yT0xuOG92T2pKMlJlZTg5TzhnZGd0WncxU2oyemVhX0hpMFp0STNTbFRJY1g0Q1lNMVZtdkcxZHMtckw3YXhTRnNXMG94WURvd3JCd1QtUzF4b1BTSWtndFd3cFBkMjd3a3M0bnIyd2RCeXN4bWI4a051N0h3Mm1zTm1xa3R3?oc=5",
-        "fonte": "bnamericas.com",
+        "fonte": "BNamericas",
         "data": "2026-09-01"
       },
       {
         "titulo": "Brasil prepara novo leilão de rodovia com investimento planejado de R$21,5 bilhões",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWJDWE9DZmt2MjBGZTR3R2Y0NTE1OC1teEJnTWVERDFsYVhGeDJkck50V1lRS3hhUUVRRE9UQzFTNlI2SkJ0VUNfU0laY2R0N3dpcGdfSVlnY2x2RFR4Zm1XMEZTWUpUdlpTOHJQTl9UX2dDNUg3WkFtVDZWZ0JNM3g4QjhaX1JURncxYTlnMGlvRjRMRHJaYTJmOW5Ld2ZsT0tEdjV4Q3h6cEpXbjU2OG8tRzIza1d5M0U4?oc=5",
-        "fonte": "bnamericas.com",
+        "fonte": "BNamericas",
         "data": "2026-09-02"
       }
     ],
@@ -186,22 +186,22 @@ window.NEWS = {
       {
         "titulo": "Desenvolvimento da indústria farmacêutica da Índia e exportação de medicamentos",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHhWZ3NjcHFleDQzMEFjOGxBQ0pBNjViQkxOUUN0aUdUaFExdzFxTWtUZVQ3WDhDbXc5bHl1TlowYUJMQlBSeFpxaXk4cWQwMkR1UGd3QzNkbjJHWjIwUHpkN2xhWnh2S0lpaVg1OENPS2lxNHl0a1l4NFo3V3E4X2xDTGtfV1RxdjVPN2VpWHcxbi1vOWFmTHNHTHZFY3VIZ0tOZkx4cUV6Y1Zk?oc=5",
-        "fonte": "tvbrics.com",
+        "fonte": "TV BRICS",
         "data": "2026-09-02"
       }
     ],
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Nestlé anuncia nova fábrica de fórmulas infantis no Brasil com investimento de R$ 2 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2xOUFdSOU52aThtWHdzRWRlbkRxQTc2YkVjaGlILXo0OE13cUl1WjVlV0cySFNyQ3dZdXBJZU43ejhkYVhQSXE2VEhud0NCU1AwRndMSkpGaTE2TDRDSVdzQnNWLTQ1bVFIM1p3MWM5Z2dNaWpxMllEVjNkaFdJYzJxdkMtZUJSVC1pd0tpYUFBWk1GemtRVTE5SFZFeWNJVy02LXdsVEI3MElxV1BxZ2xsWFhzQi1JelZFMEFSQmNEdU1xWlNFcVNqbw?oc=5",
-        "fonte": "SuperVarejo",
-        "data": "2026-09-03"
-      },
-      {
         "titulo": "Nestlé vai abrir fábrica de fórmulas infantis em MG com investimento de R$ 600 milhões",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNEUHdzMFladXRpOVYzUVdndFBFb0JrMU9xd2FIWVZkUjU2akdueGI3cTF6c0xwZ0d0S3RrY1pQR3I2UzE1YmpxN3RYTmFtejVNd0drUks4VWU1dlFXb2VfdEs3b0cxbzFNSTktb1R2Nm9OWW82ZzhOejFLLTJQVTBOVXl2TUx0ZVZrMVdza1NfRGdZenJxNkVnY1UwZEsxT0NlQllrRGo4REp2SkFlOERIZWk3RU4xV0drY1lpeG1lc0QzQmhsOWtpM0tpVERDQUU1dkcxdmJOQ0dzQWVnaGRjcmExZ9IB9AFBVV95cUxNUXVOSWd6TElhZ0RKMzBkWUNvVkJacFJGdTdBb1JzcDJmS19LenJqQldDR2E1NlBmUWtlZEE4OW5tdTNac2ktWU9pcW1mdkQ1X1g5b3p5X09rVmVhdXFFUnA1aXNvLTNFTHdHOTNpTkJUWkZHVE5nVlB5anQxUENqdk9sZ2hsZ0VfQmpEQUd0NUR6UmFLZGx3bHRxMEVQWFdlMnJDTmNXZDV5WkdfMXJmUmdOZjFjajRLeWFoMDhCU21EQ2RnQm9tY1JwaGNDdXU3dXRkNzRQZU1tMUlGOEc3Sm9ETUtheGdaYWJFTFJzaWFWZ1RR?oc=5",
         "fonte": "G1",
+        "data": "2026-09-03"
+      },
+      {
+        "titulo": "Nestlé anuncia nova fábrica de fórmulas infantis no Brasil com investimento de R$ 2 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2xOUFdSOU52aThtWHdzRWRlbkRxQTc2YkVjaGlILXo0OE13cUl1WjVlV0cySFNyQ3dZdXBJZU43ejhkYVhQSXE2VEhud0NCU1AwRndMSkpGaTE2TDRDSVdzQnNWLTQ1bVFIM1p3MWM5Z2dNaWpxMllEVjNkaFdJYzJxdkMtZUJSVC1pd0tpYUFBWk1GemtRVTE5SFZFeWNJVy02LXdsVEI3MElxV1BxZ2xsWFhzQi1JelZFMEFSQmNEdU1xWlNFcVNqbw?oc=5",
+        "fonte": "SuperVarejo",
         "data": "2026-09-03"
       },
       {
@@ -233,16 +233,16 @@ window.NEWS = {
     ],
     "maquinas": [
       {
-        "titulo": "Abimaq: Investimentos em máquinas recuam 5,3% em julho ante mesmo mês de 2025",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHQxcDlXN2FBa0NoQV9KQVRteTQ5UkpTemlodkprQTZjVkFXREF2YzRtb1M3bGZsQVFUd3NCaUtqQWRxa3lDclNKMldOSDlCWTBLSkNDcnhSMHRWZUVBaEhWaEd6LWZQTmNabnZ5VU0zUEhQUDg2b0dweTVQVi1iTW9FYU5FaElkNjJvT1NGVjhrTGVXMEo2QzZ5TkRBSVJrRkN0UWFUM0YyQ0s1?oc=5",
-        "fonte": "InvesTalk",
-        "data": "2026-09-01"
-      },
-      {
         "titulo": "Investimentos chineses no Brasil e América Latina: implicações para a economia",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN29lc2M0c2RTTDc1SkM5ZTcyejFnSVdCQmJveDhaMUJDVVZUR2dhbWlEWEVaUWZYeEV6WW5veklhM3hhd1kxaE40WjVrdkppeHg0a0p4XzlNT1MydVlscEcwSEZaMFh4bFlVcmtxUVduNkVMNU9nR2lzZGtVZEpLRUtSZVJveElDXzF2MkdyYnVESkJlWVk2aDZ1TnVwVnV1Nk05VkswVFU?oc=5",
         "fonte": "Confederação Nacional do Transporte - CNT",
         "data": "2026-08-31"
+      },
+      {
+        "titulo": "Abimaq: Investimentos em máquinas recuam 5,3% em julho ante mesmo mês de 2025",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHQxcDlXN2FBa0NoQV9KQVRteTQ5UkpTemlodkprQTZjVkFXREF2YzRtb1M3bGZsQVFUd3NCaUtqQWRxa3lDclNKMldOSDlCWTBLSkNDcnhSMHRWZUVBaEhWaEd6LWZQTmNabnZ5VU0zUEhQUDg2b0dweTVQVi1iTW9FYU5FaElkNjJvT1NGVjhrTGVXMEo2QzZ5TkRBSVJrRkN0UWFUM0YyQ0s1?oc=5",
+        "fonte": "InvesTalk",
+        "data": "2026-09-01"
       },
       {
         "titulo": "Produção de máquinas industriais cai no Brasil e reacende debate: juros altos ou falta de demanda?",
@@ -287,7 +287,7 @@ window.NEWS = {
       {
         "titulo": "Risco financeiro para a CMPC vira novo obstáculo à instalação em Barra do Ribeiro",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWRpTkRjandUbTZTSmI3Zy1ZOXRHb0EzdjhHeWxfemxiZHFTUFFtRFNXMU9LN1QxVnhOZzdBdDFBRFZCRkJpeG4xUlRvU1QzaF9iWGVQdnV0M1M5N0JPZEVTRndHdVNFT2FKODVQU0stWjJWUmFTVExuMWl6d192YkszQjRla1NhLUxUS29vVWZXN3hHemJvbkVycFF1SVFxU3dqSDB4SmswZEY1OGtwSUwyN0daQzc3NWRyZ0xpTkVxM2w1ZmVObDRn?oc=5",
-        "fonte": "Extra Classe",
+        "fonte": "extraclasse.org.br",
         "data": "2026-08-31"
       }
     ],
@@ -296,7 +296,7 @@ window.NEWS = {
       {
         "titulo": "Brasil prepara novo leilão de rodovia com investimento planejado de R$21,5 bilhões",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWJDWE9DZmt2MjBGZTR3R2Y0NTE1OC1teEJnTWVERDFsYVhGeDJkck50V1lRS3hhUUVRRE9UQzFTNlI2SkJ0VUNfU0laY2R0N3dpcGdfSVlnY2x2RFR4Zm1XMEZTWUpUdlpTOHJQTl9UX2dDNUg3WkFtVDZWZ0JNM3g4QjhaX1JURncxYTlnMGlvRjRMRHJaYTJmOW5Ld2ZsT0tEdjV4Q3h6cEpXbjU2OG8tRzIza1d5M0U4?oc=5",
-        "fonte": "bnamericas.com",
+        "fonte": "BNamericas",
         "data": "2026-09-02"
       },
       {
