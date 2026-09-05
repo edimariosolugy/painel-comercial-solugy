@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-05T15:51:35+00:00",
+  "atualizadoEm": "2026-09-05T18:00:17+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -38,7 +38,7 @@ window.NEWS = {
       {
         "titulo": "CODAM: a indústria cresce, mas o desenvolvimento ainda precisa encontrar o interior",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORF83NzlQSDZPSDVQZ182MXVpekZYZzh0TDVTMHF0WDdmTHo0X1FRNVNBS2xlTnFaaDkxbHFQMWZic2JQcTFQMzZ2QzQ0Mmp1Y2IxYzdKRTQyNncyRktyNkZDTWdOR0VqMEhFb3ZGblpFbm9mMDJuei1IVElGbHUwZE5XbjdSaG9BajhqcUx6NmdXU2dGdzFXbmV3ZXhOMm9XekxENFlHV2tBTmNRVkE?oc=5",
-        "fonte": "simmmem.org.br",
+        "fonte": "SIMMMEM",
         "data": "2026-09-02"
       }
     ],
@@ -106,7 +106,7 @@ window.NEWS = {
       {
         "titulo": "Amazon e ID Logistics inauguram centro de distribuição no Paraná",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU82TGJVa0l2Mk5yUzFDY2hNNXJRaHVxTXcyQklUQjVteUhuOFFhSE9EREhLNm82eXVOa2RKeTJzUDZFRlUzSGNXclNlSUl0NGZvcnFDdUdxZXJTRGY0dWhIdEdISUNodDVIVmhNb3BqOWExTUg2cTBBeXZ1ZWtkZUxXLXZ2d0o5YzZnb0psTnBKdjllbzN0YUxub0g3aFZncFhLS25B?oc=5",
-        "fonte": "mundologistica.com.br",
+        "fonte": "MundoLogística",
         "data": "2026-09-04"
       },
       {
@@ -132,7 +132,7 @@ window.NEWS = {
       {
         "titulo": "ANEEL enfrenta impasse sobre encargos, mas mantém leilão de baterias para dezembro",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ISlZSaTBDM1I0aDFqZVE0cmhuQndqOGt6R1ZFTFJqWnZrVWVoVVRhd3VPSTV3ODU3aC1fWXFoUGpZVGhwczlMSXZKOHhJMXkzNmkzb0N6SUdBck9XcmRMQURDQkcxbjhyN3daTkR2QXNydXl2M1Y3RQ?oc=5",
-        "fonte": "Canal Solar",
+        "fonte": "canalsolar.com.br",
         "data": "2026-09-02"
       }
     ],
@@ -160,13 +160,13 @@ window.NEWS = {
       {
         "titulo": "Investimento público de SP mais que dobra em quatro anos e chega a R$ 15 bilhões no primeiro semestre",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNi04TS1ZakxhRlB0OUI5enNuNi1iUFhvaWpIVzROQ3VTVWJGRUl2N05YaGhmMXpNWmVFQUkzYkhYQ2N2NUtCZkVoUWNKODkwOTBrbnRJa00yT0xuOG92T2pKMlJlZTg5TzhnZGd0WncxU2oyemVhX0hpMFp0STNTbFRJY1g0Q1lNMVZtdkcxZHMtckw3YXhTRnNXMG94WURvd3JCd1QtUzF4b1BTSWtndFd3cFBkMjd3a3M0bnIyd2RCeXN4bWI4a051N0h3Mm1zTm1xa3R3?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-09-01"
       },
       {
         "titulo": "Brasil prepara novo leilão de rodovia com investimento planejado de R$21,5 bilhões",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWJDWE9DZmt2MjBGZTR3R2Y0NTE1OC1teEJnTWVERDFsYVhGeDJkck50V1lRS3hhUUVRRE9UQzFTNlI2SkJ0VUNfU0laY2R0N3dpcGdfSVlnY2x2RFR4Zm1XMEZTWUpUdlpTOHJQTl9UX2dDNUg3WkFtVDZWZ0JNM3g4QjhaX1JURncxYTlnMGlvRjRMRHJaYTJmOW5Ld2ZsT0tEdjV4Q3h6cEpXbjU2OG8tRzIza1d5M0U4?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-09-02"
       }
     ],
@@ -186,7 +186,7 @@ window.NEWS = {
       {
         "titulo": "Desenvolvimento da indústria farmacêutica da Índia e exportação de medicamentos",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxONHhWZ3NjcHFleDQzMEFjOGxBQ0pBNjViQkxOUUN0aUdUaFExdzFxTWtUZVQ3WDhDbXc5bHl1TlowYUJMQlBSeFpxaXk4cWQwMkR1UGd3QzNkbjJHWjIwUHpkN2xhWnh2S0lpaVg1OENPS2lxNHl0a1l4NFo3V3E4X2xDTGtfV1RxdjVPN2VpWHcxbi1vOWFmTHNHTHZFY3VIZ0tOZkx4cUV6Y1Zk?oc=5",
-        "fonte": "TV BRICS",
+        "fonte": "tvbrics.com",
         "data": "2026-09-02"
       }
     ],
@@ -259,16 +259,16 @@ window.NEWS = {
         "data": "2026-09-03"
       },
       {
+        "titulo": "Britânica Appian vê Brasil como peça-chave para avançar em minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdW96XzNlRmgyYU4ycFhfSFNRbzFHZkoxcEs3X0dwN2pjZHhZdmI3R05kVmZjR0JCWmhkTnh1ZlVIYjZDMVpmTUZfWGVucjRtd2diVTJYVm9qNGotSlJXZS1FclFWSFFlaEpFWno5ZzFLcGhScTdjY0hjNW5UM2Z1TlBmZ1NpdHYycF9pY3dtdTVuQ0pZQlpoeDVpVzdrOEE2aXVHM09GejlOT1NnX2xLRi10Y0xoTTExZXV3N9IB0AFBVV95cUxNX2MycHdqOVl5Y01nVnZWcEh6ZVhaaGtXdzMwVzg3eU96UlR3NGNUS3Q0ZC1sRlg5eTBpbXF5blNkeDY4bHY5QVc4MVZEZTRRLVJrT1czbmM0TFNScG5WTTZ3VEpETTlfOUVKVXA5OUtReXota1RhZlZyYWZheGZvQVh4TlpoN3poMXpNcFBWa205bThHbmdieGltNDYtU3NNSlVnRGJpTFctbGxJV0NPOG9Ubjd2T1VPYUxYUWFGY1VISW5pRV9XWWh1bUVfb0hB?oc=5",
+        "fonte": "Bloomberg Línea Brasil",
+        "data": "2026-08-31"
+      },
+      {
         "titulo": "MINERAIS CRÍTICOS | Setor pode adicionar até R$ 192 bilhões ao PIB até 2050",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDVfWUEtWlNCNE54akZTN1BOaEM5S3R6dE5rRlQ3ZWhXU0U5dVJyRDllZXBqeTFrUEJwTnVXQnVwMHpySEVvWVZ2dGpBSlBncDVMUmpiczdBRi0ybW5DdTZvREpsbTFqSjM2aTNkSy1zMnRlU1F5RE5kRkd2NlQ1M3JkU1RSWVd0bjZIN0RFeWI2Ym5xZENn?oc=5",
         "fonte": "Brasil Mineral",
         "data": "2026-09-01"
-      },
-      {
-        "titulo": "Brasil busca aproximar mineração e indústria para agregar valor a minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3FNZ05HX3duRWJrWHJGcWtST3doX0hJdHFLaFFObEFIYkp1LUpmN0JSTlZGSDRyNHNTSVItaUNIa250ZktPRE1GbDVlTk5ZSy13QmU3cEdKZFlqa3VZZXlDeE12YnNqRnRtcVJhTjRDNVBVZjRXa3BRWWpQd2plbnpTWTFJNXc5cE9wdGtmMHU2c2NLZlFRZkRnRlJoTDdYZkUtSFFaMWF0M1RySnJ1TGFn?oc=5",
-        "fonte": "Portal BE News",
-        "data": "2026-09-05"
       }
     ],
     "papel-celulose": [
@@ -296,7 +296,7 @@ window.NEWS = {
       {
         "titulo": "Brasil prepara novo leilão de rodovia com investimento planejado de R$21,5 bilhões",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPLWJDWE9DZmt2MjBGZTR3R2Y0NTE1OC1teEJnTWVERDFsYVhGeDJkck50V1lRS3hhUUVRRE9UQzFTNlI2SkJ0VUNfU0laY2R0N3dpcGdfSVlnY2x2RFR4Zm1XMEZTWUpUdlpTOHJQTl9UX2dDNUg3WkFtVDZWZ0JNM3g4QjhaX1JURncxYTlnMGlvRjRMRHJaYTJmOW5Ld2ZsT0tEdjV4Q3h6cEpXbjU2OG8tRzIza1d5M0U4?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-09-02"
       },
       {
