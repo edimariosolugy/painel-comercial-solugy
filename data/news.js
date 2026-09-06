@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-05T22:42:33+00:00",
+  "atualizadoEm": "2026-09-06T00:42:49+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-09-02"
       },
       {
-        "titulo": "Suíça do Agro? Fundo brasileiro inicia captação de R$ 100 milhões para comprar terra no Uruguai",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDFxVmpjQ3ByZWNjNGhBUWxKdGhKMkJPSlFzRzh5UE5FWHhXdHFNSTRfMmdkQklaMmQ1bzI2MUFCVjZybGZZLUVaaXdSUHhGZDZjVko2YVh5NnBKSTJGc1h4NDV2TklMTFFOQmx4UHROSFozSTYxcHRhd09Fdmlha1A5a2hwWmFub0R0Y2d2WlZ4YXRMM3BSX3E3VlRJWnp6elJ3TXphc1FMYWc5U2o1bDd3S3dJTGE5RjNHWHNpRjNqcXc?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-09-01"
-      },
-      {
         "titulo": "CNA debate perspectivas do agronegócio e gargalos de investimento na Expointer",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFlNajBoV3pma1A1R1pEakItZk1OLV9hYlRpR1A0OEd5RjNTdXl6NkR2ZXU0c1RLRGU0cE8wREw4eGhmckVraEhkMTd6ekdaVnpCT1hFdVZoc3BmeExhcFotZDJOS0p3dm9oNTl6eTdTVlp3dDVranJ6elFheEg1aGtFMzdsTEhxejl6dy1kZlZ0SDRzTFpNWndLcmFyQmdFZnlTQTYtSHY2bXpkSHc?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-09-03"
+      },
+      {
+        "titulo": "Suíça do Agro? Fundo brasileiro inicia captação de R$ 100 milhões para comprar terra no Uruguai",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVDFxVmpjQ3ByZWNjNGhBUWxKdGhKMkJPSlFzRzh5UE5FWHhXdHFNSTRfMmdkQklaMmQ1bzI2MUFCVjZybGZZLUVaaXdSUHhGZDZjVko2YVh5NnBKSTJGc1h4NDV2TklMTFFOQmx4UHROSFozSTYxcHRhd09Fdmlha1A5a2hwWmFub0R0Y2d2WlZ4YXRMM3BSX3E3VlRJWnp6elJ3TXphc1FMYWc5U2o1bDd3S3dJTGE5RjNHWHNpRjNqcXc?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-09-01"
       }
     ],
     "alimentos-bebidas": [
@@ -52,7 +52,7 @@ window.NEWS = {
       {
         "titulo": "Montadora chinesa recebe terreno público de 1,74 milhão de m² e planeja fábrica de R$ 4,6 bilhões no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTGE1a2YycjlMZVdidmwwd2R6T09mWXY0UWhmQjB4Y3dzdVF5blJyQ1BXVGxraHdid0R2MXZ4WnZuUnFXcDNLY3M5SlJSaFkxYm9ZTFUyemU1eVUzZVgwRWxXblFEM05Vc0FENkJpa1VWZUw1VWNjMUpIQnlWbkM2RFJkMVl6bGVpT0N3OUhBb3BPX1NuLWp1ZFUyVnJ6TTZpYktFNUZGelhjZG50QVhCYnptVWRqY0tmeXd2RFYxeXRHeUc0RzVRaHhUa2xCNy1NVEx0cjVlbUdZT01FVGFIc25oMmxBY0REenZV?oc=5",
-        "fonte": "oantagonista.com.br",
+        "fonte": "O Antagonista",
         "data": "2026-08-30"
       }
     ],
@@ -90,10 +90,10 @@ window.NEWS = {
         "data": "2026-09-01"
       },
       {
-        "titulo": "Ariquemes homologa compra de R$ 1 milhão em cimento para secretarias municipais",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNZkdrX0xWMkdVQy1Kb3AwN0x6ZUZXcWRaYjg3clVnYkx6SHJWbTFZNUI3amdoaHR6R3gtSmEyQ05jR0N6UTZ2X0NpQm1udDVLb1llY01iQXlVSVBSNFl5ME5oNjNNYmIwYTN6UV9Uem5lc3FMVFg3SEc4OWJSck4zQkUta1gwRGZBTHMteGk5ck1CVVBwUGlvVzd3VGFROGMyM09xRXNFQ0xnWkFNVkgwejRud3dPSjRIa20yWWlCVTUyZjdZ0gHEAUFVX3lxTE1mR2tfTFYyR1VDLUpvcDA3THplRldxZFpiODdyVWdiTHpIclZtMVk1QjdqZ2hodHpHeC1KYTJDTmNHQ3pRNnZfQ2lCbW50NUtvWWVjTWJBeVVJUFI0WXkwTmg2M01iYjBhM3pRX1R6bmVzcUxUWDdIRzg5YlJyTjNCRS1rWDBEZkFMcy14aTlyTUJVUHBQaW9XN3dUYVE4YzIzT3FFc0VDTGdaQU1WSDB6NG53d09KNEhrbTJZaUJVNTJmN1k?oc=5",
-        "fonte": "O TEMPO",
-        "data": "2026-09-04"
+        "titulo": "VIBRACOM investe em tecnologia e instala uma das mais avançadas vibroprensas do mundo",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUs3LVFITXdfeVhuR2xlRHFSVnR5ZXF1SHNlLVl6cUJtbFBuYU01UUM0ejA2V2xpTVBGUzlWUGdES0ZOY0p1cXVXOG5mSkxGbVJjS19PTmNPN05qcVppa0pKbm0tLUVJcVRITHJxWUFBVEplcndJaEo1UkdvRDFJUW9ic09SdFgtUWpSYVZBWEU3Y2ZjMnN3Q2pVNWJOMFdHTDFMMmV6SEZ4aXQ0WXQzcmlSdGQtZ9IBtgFBVV95cUxPWW5TMzZKZG1JMnRiRGdKV1JlZVV2dVM2TzlWVC1MczNzX1NWUHluZnB4ZTdvWVItbEIweGFJYmVoWWlfLUZfbWFrdldCcWZCUjc0Mm1kRDlraWRibExlNC1saVFuNmI0MTlTSnhSYnVJUDFRTnYxSnEzWVhNMEJiM21KZUM2ZDE2eWREZndZcWRYMzdkTE9ya3ZFYnZ5bHBsdEZoZGdqdWNxMm5RNURra1FaSTRvUQ?oc=5",
+        "fonte": "Agência Cidades",
+        "data": "2026-09-05"
       }
     ],
     "comercio": [
@@ -130,10 +130,10 @@ window.NEWS = {
         "data": "2026-09-02"
       },
       {
-        "titulo": "Plenário do Senado aprova o projeto que cria o Redata; veja o Radar Energia XP | Setembro",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSWt6eVRfUDlLZ0R6NzJTZzBCMjNkclFkNmNWOVVPQTVfSFhqcXp2TDdPVDBqaFpQeHppbmoyeG03VlNucEFrYnpkU0xIZXVUYzdnSjFOOVFLcWV1S181ZzNYd3ZLY01wSlJfYVJvWEc3V3locEdla2YxSGFiUEw1ZmtmYnl3bVpLQTN1SGM3aWd3cFRKekFSR2tQdHI3TGRZVU9SYUd5aTNqcXc3LUE?oc=5",
+        "titulo": "Cortes de geração solar aumentam 21% nos oito primeiros meses de 2026; veja o Radar Energia XP | Setembro",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ09mM0R1cW9JbEZkeHFHdXJOWXQ5UGJzWTdOM2UyVVA0M1RJUEM2ckVwSGhaZ1lzSzRvMklCTFQ3TF9jU0t5eXN0TzBTWXFhVWhqYk5oYnhnd2x4Qi1TenhoTTExNWY2eUs2Ul9iZ2dldWdtTTRGSDZTbVlMNUxvTjRVRnlVM3R6cVZtODI1clAtWmNRU1RuZDdDQm5idTZ3TkxWTXhRV1JqMHNRanRYM1NEX0VMR00xQjFqTktKLVNHUQ?oc=5",
         "fonte": "conteudos.xpi.com.br",
-        "data": "2026-09-02"
+        "data": "2026-09-01"
       }
     ],
     "solar": [
@@ -215,7 +215,7 @@ window.NEWS = {
       {
         "titulo": "Aprosoja MT participa de fórum sobre infraestrutura e eficiência logística no Porto de Santos",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1g3M3pPdl9UcGZBbmVaYzR2cGFLMXJIdUNpcHBMNi1qckRONG1uTDF0QW5McjJBcGhXd25aaHlsQTNMODZ3Q19PSjE0a2I5bXRabllfZEtVUExEU2VFN3hyZVhwZkJhMG41NGJrM3RvOGRnc1ctdnhBamctQTQ4QXlFWkc4bWZPaEcwd1NPdzZOSnBLbEs0cnJrMnF0MlJMdEc2XzNJd1ZkNDhMTy02cG1ZbHo4ZVduc2ZqLW94clRyMHE5d2Y4aVNsejN6MTZoSVNV?oc=5",
-        "fonte": "aprosoja.com.br",
+        "fonte": "Aprosoja MT",
         "data": "2026-09-04"
       },
       {
@@ -233,16 +233,16 @@ window.NEWS = {
     ],
     "maquinas": [
       {
-        "titulo": "Investimentos chineses no Brasil e América Latina: implicações para a economia",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN29lc2M0c2RTTDc1SkM5ZTcyejFnSVdCQmJveDhaMUJDVVZUR2dhbWlEWEVaUWZYeEV6WW5veklhM3hhd1kxaE40WjVrdkppeHg0a0p4XzlNT1MydVlscEcwSEZaMFh4bFlVcmtxUVduNkVMNU9nR2lzZGtVZEpLRUtSZVJveElDXzF2MkdyYnVESkJlWVk2aDZ1TnVwVnV1Nk05VkswVFU?oc=5",
-        "fonte": "Confederação Nacional do Transporte - CNT",
-        "data": "2026-08-31"
-      },
-      {
         "titulo": "Abimaq: Investimentos em máquinas recuam 5,3% em julho ante mesmo mês de 2025",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNRHQxcDlXN2FBa0NoQV9KQVRteTQ5UkpTemlodkprQTZjVkFXREF2YzRtb1M3bGZsQVFUd3NCaUtqQWRxa3lDclNKMldOSDlCWTBLSkNDcnhSMHRWZUVBaEhWaEd6LWZQTmNabnZ5VU0zUEhQUDg2b0dweTVQVi1iTW9FYU5FaElkNjJvT1NGVjhrTGVXMEo2QzZ5TkRBSVJrRkN0UWFUM0YyQ0s1?oc=5",
         "fonte": "InvesTalk",
         "data": "2026-09-01"
+      },
+      {
+        "titulo": "Investimentos chineses no Brasil e América Latina: implicações para a economia",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN29lc2M0c2RTTDc1SkM5ZTcyejFnSVdCQmJveDhaMUJDVVZUR2dhbWlEWEVaUWZYeEV6WW5veklhM3hhd1kxaE40WjVrdkppeHg0a0p4XzlNT1MydVlscEcwSEZaMFh4bFlVcmtxUVduNkVMNU9nR2lzZGtVZEpLRUtSZVJveElDXzF2MkdyYnVESkJlWVk2aDZ1TnVwVnV1Nk05VkswVFU?oc=5",
+        "fonte": "Confederação Nacional do Transporte - CNT",
+        "data": "2026-08-31"
       },
       {
         "titulo": "Produção de máquinas industriais cai no Brasil e reacende debate: juros altos ou falta de demanda?",
@@ -267,7 +267,7 @@ window.NEWS = {
       {
         "titulo": "MINERAIS CRÍTICOS | Setor pode adicionar até R$ 192 bilhões ao PIB até 2050",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUDVfWUEtWlNCNE54akZTN1BOaEM5S3R6dE5rRlQ3ZWhXU0U5dVJyRDllZXBqeTFrUEJwTnVXQnVwMHpySEVvWVZ2dGpBSlBncDVMUmpiczdBRi0ybW5DdTZvREpsbTFqSjM2aTNkSy1zMnRlU1F5RE5kRkd2NlQ1M3JkU1RSWVd0bjZIN0RFeWI2Ym5xZENn?oc=5",
-        "fonte": "brasilmineral.com.br",
+        "fonte": "Brasil Mineral",
         "data": "2026-09-01"
       }
     ],
