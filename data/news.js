@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-07T19:02:32+00:00",
+  "atualizadoEm": "2026-09-07T22:37:50+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Banco do Brasil (BBAS3): por que nem a melhora do agro convence a XP a investir na ação?",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblNwUTB1V0gxMXZJbUlKTVlTcDFXOUJUOG5tU1NnM0w4UHVuTTduRnVjVjhsRnl3eFV1cENXS0JpdHhkLWN1ZkZzRl9lN3g0enVWMElZenZLMjNETWExSVJMSTF4NDlTbk1Dc3UxajlpamtsdUh4dTVzcDFPQlFXb2Vjb1dqR3NfM0lwbmtzWVFuLXgwdUxIS293Qm9yMFFVemtRbmhaS3lya29EM1FDYkJxWmVkZUozbUtzdXRPSmszYWZYM0ZrNW5vTnA?oc=5",
-        "fonte": "Seu Dinheiro",
+        "fonte": "seudinheiro.com",
         "data": "2026-09-02"
       },
       {
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Ganhando no sabor: empresas brasileiras levam produtos para feira de alimentos e bebidas de Miami",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWGRkbHJNam9YaExiZTFzYmlyUl9Xa2UzUHRZUUdOLVdjWmxyUWVKZFBfdkVLazc2LWQzTThrV1Y0eTExVzNHYmc0bTZ4akZlSGtIejZuRnNpMXNrMl9MTmF2dmR4U0ZPQmhtdTkzUWwzWU1oRUlhOWZBS0NHYTZWWF91ZG1ZcVQ0NENIREZycWtYZy1jdnpxcDI0SzNFLWFZMXNiVzFBUFR6SkVXWlZwZFN1LUVFS0NKREFpb2t5bXFMTlRJUVFmWjBn0gHPAUFVX3lxTE5aMWJNVXpoa3hGNDFzdkxKcjJFUTFvSFNBZDRxTXdZY1o0NmFacDlEeUViZUhGU05vNDVtMlpPejhGMkxwZkJwQ1FJQjZQYjU3WTlTOW1vMFViN09Pemx1cWhMMnF3cXYwcXhsRGVaWXdkcFI1Q05YbXlFOElyNVlfdVk0dTg1emJPTTRMV1hqbHhldXVqSnpRWkhJMzlUdzk2VC1YT1JudW5iQmxfelVvbmIxZTNlczdzNHNsajU5UFB6YS1JTWtMSmNiMjFSRQ?oc=5",
-        "fonte": "Brasil 61",
+        "fonte": "brasil61.com",
         "data": "2026-09-02"
       },
       {
@@ -104,17 +104,17 @@ window.NEWS = {
         "data": "2026-09-04"
       },
       {
-        "titulo": "Investimentos de pessoa física crescem 6,4% no 1º semestre, a R$ 9,141 tri",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQT2tuZ2VRNFdFTjQ1UUFMR0F6OW9ObkFRSnVfbVZDdnVWVURlaEV0WFR4ak9mWTNVVmVsTlYxLW9Gd0M5c2NScjNwdWhEbEYtRVVsQmhCWVVMaEJSSGxGOFQ2bF9vcTRQN0pVaFN6VFpDR1lYMXZHMnJOUkNfaU0wLWFkT0w1WkhaMDEwcGhWN1dwYVRHTUpkNUxCc2tLQWQyMVZub3luTHVtYmltT2FxNmV5LW9ENXdrSVZTTXBwZDhBTk01QXNB?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-03"
+        "titulo": "Growth Supplements amplia estrutura logística com CD de mais de 5 mil m² em Minas Gerais",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYjJLVnJySjFnbHkzZzZyMU45bmd3UktTa3psOVJ4VEk4Nl9lbVRMRThqcDFUZlctYmlXZzlJdkxSTE5jWjFDOXJyekdpakRNOXB2bHZEME90c0Z6LThFVDhBZGQzY2Mzbk02Qzc5WXRRN0ItcnUtczN2QkowZVJBaVJEYm9VSlVaUzhrWlg5QVh0U1l0VjFBRXcxY3FwU2JnNnRSald0VFFtMGlIZS1WR1htdDRNMHZsaExxT3FjNENWcnplclRfSm5XMjBEbEEyV1RPN0ItZ3NCSWNUa0tlUmFSM1rSAeQBQVVfeXFMUGIyS1ZyckoxZ2x5M2c2cjFOOW5nd1JLU2t6bDlSeFRJODZfZW1UTEU4anAxVGZXLWJpV2c5SXZMUkxOY1oxQzlycnpHaWpETTlwdmx2RDBPdHNGei04RVQ4QWRkM2NjM25NNkM3OVl0UTdCLXJ1LXMzdkJKMGVSQWlSRGJvVUpVWlM4a1pYOUFYdFNZdFYxQUV3MWNxcFNiZzZ0UmpXdFRRbTBpSGUtVkdYbXQ0TTB2bGhMcU9xYzRDVnJ6ZXJUX0puVzIwRGxBMldUTzdCLWdzQkljVGtLZVJhUjNa?oc=5",
+        "fonte": "Mercado&Consumo",
+        "data": "2026-09-07"
       }
     ],
     "energia-gt": [
       {
         "titulo": "Leilão de baterias vira campo minado para o setor elétrico",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFdzaDJKYTdmLUFfYjdteF9FMlhjMlpRbHdLNEEzdFM1VFVQekYyUUNBcWpvNE45OFhHa2M4UHJROVhkQUUzVzlxMG5HaS02TFVRWVVQNEQ5TXdVbkxFU0RuekJzRVZWeVhacEZDaldnU2pqNDJ6bVVGakVIQ0xNNDRiT2RWUkJpQjB4U2tHSFNTa1J6R0E?oc=5",
-        "fonte": "NeoFeed",
+        "fonte": "neofeed.com.br",
         "data": "2026-09-04"
       },
       {
@@ -132,16 +132,16 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "Energia solar reduz conta de luz em até R$ 50 mil por mês em Santos, no litoral de São Paulo",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTXJOYURIR29ZTU5WQzFJTEIwdjRNQ2l3U24wVDlnbmdXVmhJZUFnREs4OEtCZDJrRElxblFJTUxpMlFyVEMzMkdRaV9aVC14b1EtY01kYXRic2dhbjBzZmdGZ1N2RkJ3YjdlWm96Y2lsUGlUZzNwc3IteDdDSXNZandaWjlqQ0Nna2h6aTQzQmdMT3ZUN1hTRC1tUkhFSlBQeGFseG5TQzVGdm9nZm9QQXpseER5b1lNczkwZTNJemI1dGVsaEtPNi1FcWdsQ3E1MHFKWTNLTUhmQW14cmdHX2NmZENITVFRb3JUNm53YWV3QQ?oc=5",
-        "fonte": "A Tribuna",
-        "data": "2026-09-05"
-      },
-      {
         "titulo": "O que você precisa saber antes de gastar 15 mil reais em placas solares para fugir dos aumentos de energia",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEs5TTFMVFlhUnBfRTRpQVd0eHF6OTdXakc0T3M0Tm0tMEFvN2V6dHBJbWs2eWJVcjkwV0Y3U25Ucms4WlJXeVJGZDVLUHBsWmNEcm0ycUZTb1ZqOHVXUGxJcnZTQmYzenpqbU5hd2d3T2VMSkdqQ3AyUHJiaDc2N2dqWGtpVkhtOFRYRlRXaThBdWFfZldaenEzRkFMR0VXYlJBbGpJaXlSZkUwcFljbkJRRi05WUszcEU3eW54Tnd0cWlWaGVpQTRjQ2kyOWN2dmRYWlJaV1hGRDQ?oc=5",
         "fonte": "NSC Total",
         "data": "2026-09-02"
+      },
+      {
+        "titulo": "Energia solar reduz conta de luz em até R$ 50 mil por mês em Santos, no litoral de São Paulo",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTXJOYURIR29ZTU5WQzFJTEIwdjRNQ2l3U24wVDlnbmdXVmhJZUFnREs4OEtCZDJrRElxblFJTUxpMlFyVEMzMkdRaV9aVC14b1EtY01kYXRic2dhbjBzZmdGZ1N2RkJ3YjdlWm96Y2lsUGlUZzNwc3IteDdDSXNZandaWjlqQ0Nna2h6aTQzQmdMT3ZUN1hTRC1tUkhFSlBQeGFseG5TQzVGdm9nZm9QQXpseER5b1lNczkwZTNJemI1dGVsaEtPNi1FcWdsQ3E1MHFKWTNLTUhmQW14cmdHX2NmZENITVFRb3JUNm53YWV3QQ?oc=5",
+        "fonte": "A Tribuna",
+        "data": "2026-09-05"
       },
       {
         "titulo": "Hospital Dr. Lauro Reus passa a contar com sistema de energia solar",
@@ -172,16 +172,16 @@ window.NEWS = {
         "data": "2026-09-06"
       },
       {
-        "titulo": "Índia amplia indústria farmacêutica e fortalece exportações de medicamentos",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE9qRU1OUmRqTUx6RmRGZ1JoeDFiNDF5UFV1VjV4UTdfWnpGZTlhTWs0bWNIZVp3X0JZUUxZbkgzWmx6SlpQQlQ4eE84VjZkNnRGeG94WHk2ZlQtRnJRdXBnYTB6YnFmRjhXcWVjN1gwNjhJcnZLM01LTzZmZWxBU0tDcDdoNWY5bWFJUG0xdFFtQ3pyZC1zWmZHRDJjOTM0aEhxRHp3?oc=5",
-        "fonte": "Brasília in Foco",
-        "data": "2026-09-04"
-      },
-      {
         "titulo": "Médico da USP propõe que indústria farmacêutica ajude a financiar expansão do metrô",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdNaG1oWVRkdTlTbnMwMHlqYWh2VTVkVG1UcXd6Y083MWw4R2cyZFNRa1JEU2I4a2pKQkpUYnBhTTFpYk5UR0hIa3RfZ3ZWd2VvTkJMTGZYSl9nNGh0MjNNc2swSmxzNkR0NjBwMzVacmZrTjVmNEU0dDE4UFVMNlpGalVsanc3WTJJOTVrNnRDdnJoRWVoVmFxUGhZWG9La3lGT2lJdmlXQ1VUa04xc0hsMA?oc=5",
         "fonte": "Metrô CPTM",
         "data": "2026-09-07"
+      },
+      {
+        "titulo": "Índia amplia indústria farmacêutica e fortalece exportações de medicamentos",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE9qRU1OUmRqTUx6RmRGZ1JoeDFiNDF5UFV1VjV4UTdfWnpGZTlhTWs0bWNIZVp3X0JZUUxZbkgzWmx6SlpQQlQ4eE84VjZkNnRGeG94WHk2ZlQtRnJRdXBnYTB6YnFmRjhXcWVjN1gwNjhJcnZLM01LTzZmZWxBU0tDcDdoNWY5bWFJUG0xdFFtQ3pyZC1zWmZHRDJjOTM0aEhxRHp3?oc=5",
+        "fonte": "Brasília in Foco",
+        "data": "2026-09-04"
       }
     ],
     "fertilizantes": [],
@@ -227,6 +227,12 @@ window.NEWS = {
     ],
     "maquinas": [
       {
+        "titulo": "Investimento tem alta, mas desacelera em relação ao 1º trimestre",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZTlKbjlweVlpTnpMTk1ScWhfdGJOM1JkbjgwS09xc1g1YVFLR2tLdVlweUhGRmtWUkgwYnBvM0NxNnByTHZGY1BRUWpPV3dTY2tHMGlTb05pVk5nTVgybVU3Y3A4Mk5ELTJScVRQWTQ1bXVkb0c1ZDV4RENFTFVsN0pSZ0UzaThmMTZqRXRET2U2T09pLVdXUjlxOTlRTjN5S2k4M21Lemx3SmxBLVBwdC0xcmFrOHl0TkFV0gHKAUFVX3lxTE5FN2tjZ0hhZFc0VC1uclBrdjVsLWZ5b1VaQ1FtNjRfN2FVejlnN3FhSWJlOHg5VW1rRE5ybWkzZkJxczZzRHMwV3lWeWVmNWlpYUw0cS1zcXBRWXJFdldQMElDWmNWWS1XNnFjWUo1OTNxYkdfTS1FdkhBaGNOZFBFWTdCRWpHWGU1M1lxX1hyTnB6Uk5ITmd4aklBVks4Q1duVXFPVlAxUk8tMFczT3lLY1d6VlJ1aVNaak1TMmQxSUF4MENHSjBrWWc?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-09-02"
+      },
+      {
         "titulo": "Produção de máquinas industriais cai no Brasil e reacende debate: juros altos ou falta de demanda?",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT3RoVXZ5R1prN0VsbGhiZy05QXExdi03ZFR3OThoaW9UUmJmd21jcXFMSWpRVW1zXzQtNG9pRjJFZmJHaGlTM3JHSFhsbUF6OGtEVl9kRFNOMjFGUFhONHRPV012VFUxRl8tNlZ2blc5UHRMQVVxd20tUG9SZkZYX1BJWWFKdVhZc1lYeS1sbXZ1cFRndjc3ZFBRZVU2U29ib1RxVkdkbTM2NFZ0VG1CMTFTbkxva1BoX1BjQ1hlS0wxa3hTemlqekd6dngweTdQOVE?oc=5",
         "fonte": "Maringá Post",
@@ -237,12 +243,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZ2FIM0xHNlNpZDQ1aXlZNncyMzN2S0xURE9MMFZSY2hncnlGQ0t4WlJKQWlmMzJ2NzVPRVlOak5qRXJkNnVuM2JBbEtmbi0xTjFMYkJWWVpCeU0taHRBdUxiWUV3V2FOaUo1SGlPWGNWYkxRYmRkQjh2bGszUWN6QUEwRFNHOXUzUmlkVmVfSGFSTmtOUmlUbXZNYW1jYnVuRE9tNW9UOWFlYUZfSFRwLW13RTE?oc=5",
         "fonte": "ADVFN",
         "data": "2026-09-01"
-      },
-      {
-        "titulo": "74% das indústrias investiram em máquinas novas, mas apenas 5% tiveram foco em automação",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc01WRWRsdndDOU9FNHI4UkR3X1N4YzlZbDk3NkdvRVV1cy1WdUhyckliRFZJbmxlTmVPSGlFY3VmOVkwWDJyWWlnODdSVk1uVkM0dmU2QlRJUWpTdTJabmFyd01ETkZPY1dUMUNDTkV3dHdQdzZjS1hQY0FtaVBkOWJTcFpRRE5qS096MmlkYXgySGJQS1ZTeGQzdlhEdWhPWDJLYzNqZGZPNnN40gGsAUFVX3lxTE1zTVZFZGx2d0M5T0U0cjhSRHdfU3hjOVlsOTc2R29FVXVzLVZ1SHJySWJEVklubGVOZU9IaUVjdWY5WTBYMnJZaWc4N1JWTW5WQzR2ZTZCVElRalN1MlpuYXJ3TURORk9jV1QxQ0NORXd0d1B3NmNLWFBjQW1pUGQ5YlNwWlFETmpLT3oyaWRheDJIYlBLVlN4ZDN2WER1aE9YMktjM2pkZk82c3g?oc=5",
-        "fonte": "ipnews.com.br",
-        "data": "2026-09-03"
       }
     ],
     "mineracao": [
@@ -255,7 +255,7 @@ window.NEWS = {
       {
         "titulo": "Especialistas apontam desafios para desenvolver cadeias de minerais críticos — Agência Nacional de Mineração",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjdsQ01vTjE2c0hzaE1rZVJ5RDZnaFAzU0FwdHdnT1NGejJ6Q29WbVc5TUNIdFpjb0NDbndjY2Y2U2pWTlBwNWlKaXBmdnBvR001WlU5RzNhSFQwQ2dNYXlMcTlRWXlrVklMRUZCSHVVU1RJUlJ2OU8taVdhbnJUaFNNOGZHQ1ZIa1RMUTJxYlljcU1zZFZMZlRiOVowWHNGQ1EtaGlMVUIxTlZqNjN2aWdocUFxSVZONDAwSGJidUQ?oc=5",
-        "fonte": "www.gov.br",
+        "fonte": "GOV.BR",
         "data": "2026-09-03"
       },
       {
@@ -267,29 +267,29 @@ window.NEWS = {
     ],
     "papel-celulose": [
       {
-        "titulo": "Papel e Celulose: Suzano anuncia aumento de preço para Set’26 à medida que o sentimento do mercado de celulose melhora",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZVMwdk9OWEdkVEFzOUNtNHFtdEUteHAxd3gyWHh2RzFiMEdEaXhxRDRlVXFqZXpLamhDVWNoYWFkV2J0bDZlV0U0ZGtOdGdFTnFmNXpQN0luYXhfOFdsQTJUbThuOFBKXzRXOFBHOHhMZkxEMHFZcW1QQUZ0a1h5THFfN0RqaExBNHFDSXRKQlpuNmd0TVRPN3BIMFI4ZlpnNlk4SmlZak5HQkNwazBGdWwtaWYxUXlyUFp5TE52R25EdW45ZnBaTWhyTTlfajRVNkNRUVhMU1hvM2o1cC1Ya0JFekJKVzhsUjRWckRGQzU1UkZXVWc?oc=5",
+        "titulo": "Mercados em queda com tensões no Oriente Médio",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOXp2MzZQUXN0cnF5MC14NkpvN3NKMjFYeDdhZUxtRHZwSEx5cDhrdTFucmFXYmpnd1lxSXFJRlBCa1N3UkgwUkdQSnhRMXMyY0pMdzdIQ0xlejg0RVFkZTExZm9rbjVSNDFnYjIwNHlCc0VXRkczUWl1NERrMEF0dmpGNXpaMElGSTFLTC0wSWxKbFE?oc=5",
         "fonte": "XP Investimentos",
-        "data": "2026-08-31"
-      },
-      {
-        "titulo": "Risco financeiro para a CMPC vira novo obstáculo à instalação em Barra do Ribeiro",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdWRpTkRjandUbTZTSmI3Zy1ZOXRHb0EzdjhHeWxfemxiZHFTUFFtRFNXMU9LN1QxVnhOZzdBdDFBRFZCRkJpeG4xUlRvU1QzaF9iWGVQdnV0M1M5N0JPZEVTRndHdVNFT2FKODVQU0stWjJWUmFTVExuMWl6d192YkszQjRla1NhLUxUS29vVWZXN3hHemJvbkVycFF1SVFxU3dqSDB4SmswZEY1OGtwSUwyN0daQzc3NWRyZ0xpTkVxM2w1ZmVObDRn?oc=5",
-        "fonte": "Extra Classe",
-        "data": "2026-08-31"
+        "data": "2026-09-01"
       },
       {
         "titulo": "Setor de papel e celulose prevê R$ 105 bilhões em investimentos até 2028",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmlSa05LTE9fNmdtdE5FMUNfS0p6QjVKMVhTVmY5aGJNdl9GTHRZaHVMNTVPZWpzVjNkaklLM0UxTF9Rc0pxNkwyVFhaalBXVU1wZXN2Wkg1SmRNM0w1amtNeGNfcTZjdnFETmlzR2loZ2JuX3NZaGtHcFNmSmw1TEctVTFkeFdiQXI1UGdRdXhnT2Vpekx3N05DS0dhWXNyblE?oc=5",
-        "fonte": "Tissue Online",
+        "fonte": "tissueonline.com.br",
         "data": "2026-09-03"
+      },
+      {
+        "titulo": "Trabalhadores de obra da maior fábrica de celulose do mundo paralisam atividades por aumento salarial e de vale-alimentação no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON09qd05ucTBXR0tKaWJDcWN6OGRFV2VMYVg4Z0FPZXV0Njc1dF84dldZU1ViekYxTS1qOC1zazFBdlJidUxrRjVQZVNjQ3RkUGZMZlhiaTFrRVVFUDRaN1l1OXJEZ1JGUl9fUzBjVk1XcW9QVnpwLVhzZ0lVWkFfQUI0RXFQMFVOcTRnV3N6U2k5YkZKSTgzcy1zRTBFZWI3dHhNSWFCN2pHZw?oc=5",
+        "fonte": "ND Mais",
+        "data": "2026-09-02"
       }
     ],
     "quimica": [
       {
         "titulo": "A PVCFC expande sua cadeia de valor.",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9JNFZUUjFudjduV2JSdmNQaXp2NHEzYkUtcnJGTXVweFFIU3QxSG8zdngySnRpeXVOSjgybHp5SmlXTWYwU09UMHk2UmEzT1ktY2VLMlFUOWc4cUdqcnZYclVoRQ?oc=5",
-        "fonte": "Vietnam.vn",
+        "fonte": "vietnam.vn",
         "data": "2026-09-07"
       }
     ],
