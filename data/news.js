@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-07T14:54:19+00:00",
+  "atualizadoEm": "2026-09-07T19:02:32+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "CODAM: a indústria cresce, mas o desenvolvimento ainda precisa encontrar o interior",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORF83NzlQSDZPSDVQZ182MXVpekZYZzh0TDVTMHF0WDdmTHo0X1FRNVNBS2xlTnFaaDkxbHFQMWZic2JQcTFQMzZ2QzQ0Mmp1Y2IxYzdKRTQyNncyRktyNkZDTWdOR0VqMEhFb3ZGblpFbm9mMDJuei1IVElGbHUwZE5XbjdSaG9BajhqcUx6NmdXU2dGdzFXbmV3ZXhOMm9XekxENFlHV2tBTmNRVkE?oc=5",
-        "fonte": "SIMMMEM",
+        "fonte": "simmmem.org.br",
         "data": "2026-09-02"
       },
       {
@@ -80,7 +80,7 @@ window.NEWS = {
       {
         "titulo": "Maiores mercados de crescimento rápido na produção e demanda de cimento",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQRXdESjduX2I1UDVWbG03QjFPc0pYRlhrRVg2d0V3VlhhdmR1Rlpma1Z1UjVJSXBCUk8xZXZpendaSkFHd1JsWEkydXZ6RW1rdnVjTUYzWkNxdF9WWE5GSmNjRmVaVENNSUpDTzV5S0RIRFpFMWlONXA4SzlVLVVVekUxbnR4LTFpVHlRSVlxajM1V0JwTlVDT1ptRjhlemZmSkZ1aVZodFdtNC1NbGphVDEycUhmRjdsV2ZSR25VLXl0LXI1Y2JoUm1Pd29TYXpCYVBpdW1lX0F1dDZjaEplRVJFRGtfYjYwelU2RFJzODhYQV9ONklaZmVxV09Vc2NsY0E?oc=5",
-        "fonte": "Spherical Insights",
+        "fonte": "sphericalinsights.com",
         "data": "2026-09-01"
       },
       {
@@ -120,23 +120,17 @@ window.NEWS = {
       {
         "titulo": "Cortes de geração solar aumentam 21% nos oito primeiros meses de 2026 | Setembro",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZ09mM0R1cW9JbEZkeHFHdXJOWXQ5UGJzWTdOM2UyVVA0M1RJUEM2ckVwSGhaZ1lzSzRvMklCTFQ3TF9jU0t5eXN0TzBTWXFhVWhqYk5oYnhnd2x4Qi1TenhoTTExNWY2eUs2Ul9iZ2dldWdtTTRGSDZTbVlMNUxvTjRVRnlVM3R6cVZtODI1clAtWmNRU1RuZDdDQm5idTZ3TkxWTXhRV1JqMHNRanRYM1NEX0VMR00xQjFqTktKLVNHUQ?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-09-01"
       },
       {
-        "titulo": "ANEEL enfrenta impasse sobre encargos, mas mantém leilão de baterias para dezembro",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ISlZSaTBDM1I0aDFqZVE0cmhuQndqOGt6R1ZFTFJqWnZrVWVoVVRhd3VPSTV3ODU3aC1fWXFoUGpZVGhwczlMSXZKOHhJMXkzNmkzb0N6SUdBck9XcmRMQURDQkcxbjhyN3daTkR2QXNydXl2M1Y3RQ?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-09-02"
+        "titulo": "Taesa destina R$ 15 milhões na preparação para o El Niño",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ0c5RENaOFVjNC1ndUxiajF0dEdudlN2YTN5am9ITTBuUHNINVlqVzUxNlNpNllQOEVSalRBZktNa1RfNWNpWFd4TWJYbmxpd0xqTktmQVpzZWhDWEVuSnowNFpNUkFpWURyR2NMUk5DdEVRTXBVMmQwNDZIWlBOdmJlZlFlSVNKUzg4REpqaDc5M3dFUEpPdXRR?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-09-04"
       }
     ],
     "solar": [
-      {
-        "titulo": "Setor solar mira 18 GW até 2030; expansão pode favorecer estratégia do SNEL11",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdThndE94SGpLeFI0b1pGMlVKY2QzemJCVkIwYmZCQ0w4bk13TVJqM1VVTjFEeUdrdUQ5Smw1VzExX1V5SVBiTE03VnZrUkx2d3RCRjd3am44RDRqQWg3S0FTSFIxOGNzakpyRmtvaG9kalE4RHdiTmtwbF9zV3N4X042NFlrT2t4TWxLdkFVdExrN2pKMnZYeE8xMTcwZw?oc=5",
-        "fonte": "Fiis",
-        "data": "2026-08-31"
-      },
       {
         "titulo": "Energia solar reduz conta de luz em até R$ 50 mil por mês em Santos, no litoral de São Paulo",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTXJOYURIR29ZTU5WQzFJTEIwdjRNQ2l3U24wVDlnbmdXVmhJZUFnREs4OEtCZDJrRElxblFJTUxpMlFyVEMzMkdRaV9aVC14b1EtY01kYXRic2dhbjBzZmdGZ1N2RkJ3YjdlWm96Y2lsUGlUZzNwc3IteDdDSXNZandaWjlqQ0Nna2h6aTQzQmdMT3ZUN1hTRC1tUkhFSlBQeGFseG5TQzVGdm9nZm9QQXpseER5b1lNczkwZTNJemI1dGVsaEtPNi1FcWdsQ3E1MHFKWTNLTUhmQW14cmdHX2NmZENITVFRb3JUNm53YWV3QQ?oc=5",
@@ -148,6 +142,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNVEs5TTFMVFlhUnBfRTRpQVd0eHF6OTdXakc0T3M0Tm0tMEFvN2V6dHBJbWs2eWJVcjkwV0Y3U25Ucms4WlJXeVJGZDVLUHBsWmNEcm0ycUZTb1ZqOHVXUGxJcnZTQmYzenpqbU5hd2d3T2VMSkdqQ3AyUHJiaDc2N2dqWGtpVkhtOFRYRlRXaThBdWFfZldaenEzRkFMR0VXYlJBbGpJaXlSZkUwcFljbkJRRi05WUszcEU3eW54Tnd0cWlWaGVpQTRjQ2kyOWN2dmRYWlJaV1hGRDQ?oc=5",
         "fonte": "NSC Total",
         "data": "2026-09-02"
+      },
+      {
+        "titulo": "Hospital Dr. Lauro Reus passa a contar com sistema de energia solar",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbGNUeHU4c3ZIeXFLXzhaMVFEMF9NaFdoVmQwTV94Qk9MeGpwczcyQW5jY0ZrcURpdnF2RGdFSXVxY2Q5cG1SOU12TGFXUHJ6OENVbEVhT0dDSGN5U29pWmphUXh1V1FYMkpCcVJ4ek1sbmg0SVg5dmVSTVV2bks2bnFZUE1xVEFtdlpRM3FBVXhwSkE0eDlJT0liVzk2Qzg?oc=5",
+        "fonte": "CAMPO BOM",
+        "data": "2026-09-01"
       }
     ],
     "epc": [
@@ -178,10 +178,10 @@ window.NEWS = {
         "data": "2026-09-04"
       },
       {
-        "titulo": "Por que o Brasil afasta a inovação farmacêutica?",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91SXVGRmp5MzI4OGJhRXlxdGpsSXluTW9faWphTTlGWG9lM3REdjVFdFBSSGRmR2FEQllPTlRzRTBkb0NBR2dNeDZiQzgwRUk4M1hXM1BrZGRMWDBM?oc=5",
-        "fonte": "Medicina S/A",
-        "data": "2026-09-02"
+        "titulo": "Médico da USP propõe que indústria farmacêutica ajude a financiar expansão do metrô",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdNaG1oWVRkdTlTbnMwMHlqYWh2VTVkVG1UcXd6Y083MWw4R2cyZFNRa1JEU2I4a2pKQkpUYnBhTTFpYk5UR0hIa3RfZ3ZWd2VvTkJMTGZYSl9nNGh0MjNNc2swSmxzNkR0NjBwMzVacmZrTjVmNEU0dDE4UFVMNlpGalVsanc3WTJJOTVrNnRDdnJoRWVoVmFxUGhZWG9La3lGT2lJdmlXQ1VUa04xc0hsMA?oc=5",
+        "fonte": "Metrô CPTM",
+        "data": "2026-09-07"
       }
     ],
     "fertilizantes": [],
@@ -269,7 +269,7 @@ window.NEWS = {
       {
         "titulo": "Papel e Celulose: Suzano anuncia aumento de preço para Set’26 à medida que o sentimento do mercado de celulose melhora",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZVMwdk9OWEdkVEFzOUNtNHFtdEUteHAxd3gyWHh2RzFiMEdEaXhxRDRlVXFqZXpLamhDVWNoYWFkV2J0bDZlV0U0ZGtOdGdFTnFmNXpQN0luYXhfOFdsQTJUbThuOFBKXzRXOFBHOHhMZkxEMHFZcW1QQUZ0a1h5THFfN0RqaExBNHFDSXRKQlpuNmd0TVRPN3BIMFI4ZlpnNlk4SmlZak5HQkNwazBGdWwtaWYxUXlyUFp5TE52R25EdW45ZnBaTWhyTTlfajRVNkNRUVhMU1hvM2o1cC1Ya0JFekJKVzhsUjRWckRGQzU1UkZXVWc?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-08-31"
       },
       {
