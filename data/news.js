@@ -1,24 +1,24 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-09T20:40:29+00:00",
+  "atualizadoEm": "2026-09-09T23:02:42+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "CNA debate perspectivas do agronegócio e gargalos de investimento na Expointer",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFlNajBoV3pma1A1R1pEakItZk1OLV9hYlRpR1A0OEd5RjNTdXl6NkR2ZXU0c1RLRGU0cE8wREw4eGhmckVraEhkMTd6ekdaVnpCT1hFdVZoc3BmeExhcFotZDJOS0p3dm9oNTl6eTdTVlp3dDVranJ6elFheEg1aGtFMzdsTEhxejl6dy1kZlZ0SDRzTFpNWndLcmFyQmdFZnlTQTYtSHY2bXpkSHc?oc=5",
-        "fonte": "brasilinovador.com.br",
+        "fonte": "Brasil Inovador",
         "data": "2026-09-03"
-      },
-      {
-        "titulo": "Estudo revela quanto o Brasil pode precisar gastar para transformar o agro até 2050",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjVoYUpudGwwQUtJSmRtVnhNMzdWbWd3NWo5cHY4aElvVXgwTG1ZaG1aTU5UOUNoY2FjWFhIV3hJd09EQUVmYzhMZXUwMGY1VmlYMVAxRVJDRm5rUnF6eXlac2NiV0ZLY1d2ZkxXZE96OVczWWVfVEhUMEV5bmJwNlE1WkZRNGZub3FXSmFwd3U1MzZaZlBEVnRUMzdOY3FzTEdhYjZwMjlZbnNiUm1hMGx1bkRqcEZIc0Vj?oc=5",
-        "fonte": "CompreRural",
-        "data": "2026-09-09"
       },
       {
         "titulo": "O agronegócio brasileiro em Angola -",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN1V5UGI3bzVxLTBMWGFPcWIzTjV3M2lCcVR5WjFpYzB1bzhBZ2dndjVNQXlsSXpYZHptQWp5MXUzWk50VE1FMmNpTFU1MHlWb3EyQ09DdjdOa3duYTI1NXUwQ1NJay1EMzYzaE5wWlhGSGc?oc=5",
         "fonte": "A Terra e Redonda",
+        "data": "2026-09-09"
+      },
+      {
+        "titulo": "Estudo revela quanto o Brasil pode precisar gastar para transformar o agro até 2050",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjVoYUpudGwwQUtJSmRtVnhNMzdWbWd3NWo5cHY4aElvVXgwTG1ZaG1aTU5UOUNoY2FjWFhIV3hJd09EQUVmYzhMZXUwMGY1VmlYMVAxRVJDRm5rUnF6eXlac2NiV0ZLY1d2ZkxXZE96OVczWWVfVEhUMEV5bmJwNlE1WkZRNGZub3FXSmFwd3U1MzZaZlBEVnRUMzdOY3FzTEdhYjZwMjlZbnNiUm1hMGx1bkRqcEZIc0Vj?oc=5",
+        "fonte": "CompreRural",
         "data": "2026-09-09"
       }
     ],
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Indústria acelera lançamentos e índice sobe 9,1% em agosto",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0RnVUktX19HV1VuNzhodXdyZFQzbXhUOUdmTWdNMkJEdWZTc2t5M1FObU00LVo5RHJpeGstRWgyendMa2F1YXQ5VjFLZTFJVVJYZmZBTy1MWmpxak4wVmFuQ3Bab0lNM05kLU5fQTVpZTctcGZZSnViNlZ5Z3JSWEZ4U2hsekpyeDE5YW94ZHhrUXpKWDNQYzdFUm8?oc=5",
-        "fonte": "SuperVarejo",
+        "fonte": "supervarejo.com.br",
         "data": "2026-09-07"
       },
       {
@@ -73,13 +73,13 @@ window.NEWS = {
       {
         "titulo": "VIBRACOM investe em tecnologia e instala uma das mais avançadas vibroprensas do mundo",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUs3LVFITXdfeVhuR2xlRHFSVnR5ZXF1SHNlLVl6cUJtbFBuYU01UUM0ejA2V2xpTVBGUzlWUGdES0ZOY0p1cXVXOG5mSkxGbVJjS19PTmNPN05qcVppa0pKbm0tLUVJcVRITHJxWUFBVEplcndJaEo1UkdvRDFJUW9ic09SdFgtUWpSYVZBWEU3Y2ZjMnN3Q2pVNWJOMFdHTDFMMmV6SEZ4aXQ0WXQzcmlSdGQtZ9IBtgFBVV95cUxPWW5TMzZKZG1JMnRiRGdKV1JlZVV2dVM2TzlWVC1MczNzX1NWUHluZnB4ZTdvWVItbEIweGFJYmVoWWlfLUZfbWFrdldCcWZCUjc0Mm1kRDlraWRibExlNC1saVFuNmI0MTlTSnhSYnVJUDFRTnYxSnEzWVhNMEJiM21KZUM2ZDE2eWREZndZcWRYMzdkTE9ya3ZFYnZ5bHBsdEZoZGdqdWNxMm5RNURra1FaSTRvUQ?oc=5",
-        "fonte": "agenciacidades.com.br",
+        "fonte": "Agência Cidades",
         "data": "2026-09-05"
       },
       {
         "titulo": "Ariquemes homologa compra de R$ 1 milhão em cimento para secretarias municipais",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanp1U0dJaU1haExwajE0X2hxMG11eU1NZkNnVjEtanA2MjY0QzZYZGFYRVc4M1VzSk9UbGE2U0hYYTFYdGVoV0psaXgyc3Zpcy1DT3NtLWozNmQzWTRYTlBYVkV5SVd3cnpQcTJmQzE5eDUwNC1GZXducmgxY29GeGwwWDl4Tm1RRmNyeng5a05oazBoWFgyaU5UUVVEWDFqNEhsYVRGRzV0WlJCZ3ZEaHRINFZyMEdNVEN1Y3doTdIBxAFBVV95cUxNZkdrX0xWMkdVQy1Kb3AwN0x6ZUZXcWRaYjg3clVnYkx6SHJWbTFZNUI3amdoaHR6R3gtSmEyQ05jR0N6UTZ2X0NpQm1udDVLb1llY01iQXlVSVBSNFl5ME5oNjNNYmIwYTN6UV9Uem5lc3FMVFg3SEc4OWJSck4zQkUta1gwRGZBTHMteGk5ck1CVVBwUGlvVzd3VGFROGMyM09xRXNFQ0xnWkFNVkgwejRud3dPSjRIa20yWWlCVTUyZjdZ?oc=5",
-        "fonte": "otempo.com.br",
+        "fonte": "O TEMPO",
         "data": "2026-09-04"
       }
     ],
@@ -133,7 +133,7 @@ window.NEWS = {
       {
         "titulo": "Suframa prospecta novos investimentos em energia solar durante a Intersolar South America 2026",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTJDS09uWjQwZE9ZTC1XN1pJcEhLSFh1aWVRM25CemtXdWdYT2t0VkZUWWZSMVhBblVqcmFuLWN1bjZwZEQ4b2prelY0OW16RlBpbERmT0txMkRRVTdjLWk2Z1JhWExPeUxYY05zVUZuaDNTaWI0YXJXMU81X0FJa2RDdmlnNVVTdVFucXZFYnVwaXZFbzZhYjc4cGUwczRPVEQ3NGMwZzVSa3pqUGxqYnpDVlBFQVZ1djVqZ1V6ZGRNVUN2dTBKWl9pOEtvZjR1RUgxN1VGLW5zTEUwY1E?oc=5",
-        "fonte": "gov.br",
+        "fonte": "www.gov.br",
         "data": "2026-09-03"
       },
       {
@@ -213,29 +213,23 @@ window.NEWS = {
         "data": "2026-09-03"
       },
       {
-        "titulo": "Fundição Santa Terezinha completa 40 anos com aumento da produção e investimentos em automação",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONlBZX1VSU2lBTTQ3VGVGWmJ4ZWYzUWx1Vm5zTUtqZ21IRlhtWXBqWm80Z29RcE5Ub3V5bTFMTTlqWWNPR2RDXzVrWC1CaUxxd282UHZKY01ESXZLb2FkZXNrd1pmd2kwTy1GSldRc2NpU3VwdnRIbXpsMGRva3VhZjE2MVV2d2xhUWpUNTNfcjNYdHFFT2ItcVJyT3NWNXZzdmRUOHJOdnhvWEZQdnZsalVTajVGZV80bVZWYw?oc=5",
-        "fonte": "FIESC",
-        "data": "2026-09-08"
-      },
-      {
         "titulo": "Brasil e Japão muito além da Balança Comercial",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QcDVFdzZ4MGlPajM1V3k0eTMtM21wQnJFcDg4LWdOOEdpMERGZHdLeHdMSVlKZVh2UWF1dm5kVVk4SmZLdklCT3lLeDRaMFl4Mmw4bUpsYzQwbE5wZU5kZHl3UlRScFN0aEdfYXdR?oc=5",
-        "fonte": "Banco do Brasil",
+        "fonte": "bb.com.br",
         "data": "2026-09-09"
+      },
+      {
+        "titulo": "74% das indústrias investiram em máquinas novas, mas apenas 5% tiveram foco em automação",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc01WRWRsdndDOU9FNHI4UkR3X1N4YzlZbDk3NkdvRVV1cy1WdUhyckliRFZJbmxlTmVPSGlFY3VmOVkwWDJyWWlnODdSVk1uVkM0dmU2QlRJUWpTdTJabmFyd01ETkZPY1dUMUNDTkV3dHdQdzZjS1hQY0FtaVBkOWJTcFpRRE5qS096MmlkYXgySGJQS1ZTeGQzdlhEdWhPWDJLYzNqZGZPNnN40gGsAUFVX3lxTE1zTVZFZGx2d0M5T0U0cjhSRHdfU3hjOVlsOTc2R29FVXVzLVZ1SHJySWJEVklubGVOZU9IaUVjdWY5WTBYMnJZaWc4N1JWTW5WQzR2ZTZCVElRalN1MlpuYXJ3TURORk9jV1QxQ0NORXd0d1B3NmNLWFBjQW1pUGQ5YlNwWlFETmpLT3oyaWRheDJIYlBLVlN4ZDN2WER1aE9YMktjM2pkZk82c3g?oc=5",
+        "fonte": "ipnews.com.br",
+        "data": "2026-09-03"
       }
     ],
     "mineracao": [
       {
-        "titulo": "Senado aprova política nacional para minerais críticos e estratégicos — Senado Notícias",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYm9SazJQZVdrWmlsakFFMi1DWFYxeXF0c1hzOGw4Z3BJeGNPSXhSLTR5RmpUU1hNbDAzbUVLWEhHeFo1cTdhQXFsTXVnY2N5QmFiMnNGWExxaDZXRDdsMTg0Mk0xaS1KRkozem9HWGZya1hCR3hrV3QxcnEwWGMwZmp5QjVxNWd1enNrWmwxMklTb2Z2dmZzZ0hWNERRQ1c3WUZ5eDk5V2FWS0ZiRG5adHZ3Vy1XOXQ3WXNRcFg3UExTRE1X?oc=5",
-        "fonte": "Senado",
-        "data": "2026-09-02"
-      },
-      {
         "titulo": "Especialistas apontam desafios para desenvolver cadeias de minerais críticos — Agência Nacional de Mineração",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjdsQ01vTjE2c0hzaE1rZVJ5RDZnaFAzU0FwdHdnT1NGejJ6Q29WbVc5TUNIdFpjb0NDbndjY2Y2U2pWTlBwNWlKaXBmdnBvR001WlU5RzNhSFQwQ2dNYXlMcTlRWXlrVklMRUZCSHVVU1RJUlJ2OU8taVdhbnJUaFNNOGZHQ1ZIa1RMUTJxYlljcU1zZFZMZlRiOVowWHNGQ1EtaGlMVUIxTlZqNjN2aWdocUFxSVZONDAwSGJidUQ?oc=5",
-        "fonte": "gov.br",
+        "fonte": "www.gov.br",
         "data": "2026-09-03"
       },
       {
@@ -243,6 +237,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBZWEpWR2gwRFhLbnl4VFVsTHprZm5nbTY1dFlsbnJQZU9WaXd5ZnJLSVo1LTh6VHhhMjRIelZMWlRjOU9GeVozdGFfbWdSVkMxVHpBSUs0ZmdpcjgyRXprLW5mek90aE9JQWNFRWRlZk1HUDFEV1FGbWtaZUx4N2EycXkyZ09XWDEtTGkzMEViam5jS3N5RQ?oc=5",
         "fonte": "UOL Economia",
         "data": "2026-09-09"
+      },
+      {
+        "titulo": "Mineradoras elogiam, mas municípios criticam PL de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmJKN2lGdGlYYUdPNzdZMHFSclZBR1hmS193VXREMnhUcFhRWTBTWXJNcGdfZlQzNk8zRF9wdHpEc1hVVWNXSGMtY0V4VU1ob3ZtMDlNU1FMMm96WTNHaTh6allwQmQtTWxCemgtTXhmbGxDSEViYW5ZSkZ0TnNib2kyM2h0dHUtRW01NEtlVDBjTXZfa3RDem9IZ3VTUHdKYjFwZGRBZWVydWpnV0hsRmwtc09IMG5rakxPTWctUmtIRVctTE03a1JR?oc=5",
+        "fonte": "Agência Brasil",
+        "data": "2026-09-03"
       }
     ],
     "papel-celulose": [
@@ -253,16 +253,16 @@ window.NEWS = {
         "data": "2026-09-03"
       },
       {
-        "titulo": "Trabalhadores de obra da maior fábrica de celulose do mundo paralisam atividades por aumento salarial e de vale-alimentação no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON09qd05ucTBXR0tKaWJDcWN6OGRFV2VMYVg4Z0FPZXV0Njc1dF84dldZU1ViekYxTS1qOC1zazFBdlJidUxrRjVQZVNjQ3RkUGZMZlhiaTFrRVVFUDRaN1l1OXJEZ1JGUl9fUzBjVk1XcW9QVnpwLVhzZ0lVWkFfQUI0RXFQMFVOcTRnV3N6U2k5YkZKSTgzcy1zRTBFZWI3dHhNSWFCN2pHZw?oc=5",
-        "fonte": "ND Mais",
-        "data": "2026-09-02"
-      },
-      {
         "titulo": "Trabalhadores paralisam obra de fábrica de celulose de US$ 4,6 bilhões e cobram aumento salarial",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc3hOOUZWNEE3a0owbHc0MUZHNXRfblFwNFE0bXo2SWVXSlFQdW9Rb082YmtjUmdScFViTG13ZUZLY1JUQlRRQVJKQ0ZEV2lCNEtWRUJ4MWVkaWh5OWR1UlJLRWRBa3RpMnZWMmVhUDB0RUVFVTFZUzdWMFZodnBuUl9rX0VyNWhudlZzOHNqMXdmQ1BDVG84QWQwMmhLOGdLZWdPVWQzQnloeldOSUY1Z2owU2VBbG82RHVVNUd5YnhIWU1vakt0ZmwtUjVzbllP0gHWAUFVX3lxTE9TM0l6bnBNUF8ycHVOWmxSQ3BDcjNQRjlzSmxEc1JfaVdPWG1YMFM5SnBCakozcEpCaDFLRjR5Vm5TaVlycDl3UjZ1NnpHTzdKeXpzM2xDYm5rTy1hclRzVkxqeGpyaTlRTUxVSHk0eHN2cjJSS05VbE84Q3FVTWdCOFlrRVNBRXd0eU9iU0RxeTZtbEdNTGZTZGRfN1lBb3Y4Nm9ROTJaNldLVHVnYmVCQU1FZlZTQkphZnNiOVc2cVloQWtCTFB4RHNBRklHQmEyRTI0S3c?oc=5",
         "fonte": "gmconline.com.br",
         "data": "2026-09-03"
+      },
+      {
+        "titulo": "Arauco inicia instalação de vigas em ponte ferroviária do Projeto Sucuriú em Inocência",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQalR3Q1JKbFJxR3NIWnBlaHV3aGw5ajRMZVlMS3F5SFRKN1NwWlF0VVF0djJRMEVlT2swMzlxam15dVlGT0xPNWdkOEd0dWRzTjg3LUlCdWY5YmhyWkpxVmFzMjRGVDVTcTZubmNGcWI4TG9hdms2a2NRZFZZNW5paW43Vms4elppZXJXeWJkQTd1ZzhNd1VicVplc0JXd0YtZW5zRjRzaUwxa3ZaallTSi1uVi04ZGJCZnU0R0kzbVVsU0Ns?oc=5",
+        "fonte": "Notícias do Cerrado",
+        "data": "2026-09-08"
       }
     ],
     "quimica": [
@@ -279,7 +279,14 @@ window.NEWS = {
         "data": "2026-09-07"
       }
     ],
-    "saneamento": [],
+    "saneamento": [
+      {
+        "titulo": "Brasil leiloará mais um contrato de concessão rodoviária, agora com investimentos de R$6,7 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTdyNjFiWjJKdVRYM0ZsaTdkYm1DSEw3MExubWwwbWlFOC1OS1dySk9iczVZV2ZyUk5MY25iQmtSck15bDZMQmt6OGNKdFd6MEN5bTE0aVZuRzFLbTFnZTlxeEhRLTRpS0dscWxPYU0xRDVILUk2Y2ZwNDFqTHdTN0pkZWJnZElLUTdwUGYwV0F5SHhrTk5ybEtYUWNINFkwTEZCNlRKUDBWVFZEQm1ERTc4ek1rc3czVlZxSjZHb1REeWxVclFvQzRaZ1FTZG8?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-09-09"
+      }
+    ],
     "siderurgia": [
       {
         "titulo": "Valor 1000: Gerdau amplia aposta nos EUA e se destaca em metalurgia e siderurgia",
