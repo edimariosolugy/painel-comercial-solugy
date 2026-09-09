@@ -1,25 +1,25 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-09T17:41:18+00:00",
+  "atualizadoEm": "2026-09-09T20:40:29+00:00",
   "itens": {
     "agronegocio": [
       {
-        "titulo": "Banco do Brasil (BBAS3): por que nem a melhora do agro convence a XP a investir na ação?",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblNwUTB1V0gxMXZJbUlKTVlTcDFXOUJUOG5tU1NnM0w4UHVuTTduRnVjVjhsRnl3eFV1cENXS0JpdHhkLWN1ZkZzRl9lN3g0enVWMElZenZLMjNETWExSVJMSTF4NDlTbk1Dc3UxajlpamtsdUh4dTVzcDFPQlFXb2Vjb1dqR3NfM0lwbmtzWVFuLXgwdUxIS293Qm9yMFFVemtRbmhaS3lya29EM1FDYkJxWmVkZUozbUtzdXRPSmszYWZYM0ZrNW5vTnA?oc=5",
-        "fonte": "Seu Dinheiro",
-        "data": "2026-09-02"
+        "titulo": "CNA debate perspectivas do agronegócio e gargalos de investimento na Expointer",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFlNajBoV3pma1A1R1pEakItZk1OLV9hYlRpR1A0OEd5RjNTdXl6NkR2ZXU0c1RLRGU0cE8wREw4eGhmckVraEhkMTd6ekdaVnpCT1hFdVZoc3BmeExhcFotZDJOS0p3dm9oNTl6eTdTVlp3dDVranJ6elFheEg1aGtFMzdsTEhxejl6dy1kZlZ0SDRzTFpNWndLcmFyQmdFZnlTQTYtSHY2bXpkSHc?oc=5",
+        "fonte": "brasilinovador.com.br",
+        "data": "2026-09-03"
+      },
+      {
+        "titulo": "Estudo revela quanto o Brasil pode precisar gastar para transformar o agro até 2050",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjVoYUpudGwwQUtJSmRtVnhNMzdWbWd3NWo5cHY4aElvVXgwTG1ZaG1aTU5UOUNoY2FjWFhIV3hJd09EQUVmYzhMZXUwMGY1VmlYMVAxRVJDRm5rUnF6eXlac2NiV0ZLY1d2ZkxXZE96OVczWWVfVEhUMEV5bmJwNlE1WkZRNGZub3FXSmFwd3U1MzZaZlBEVnRUMzdOY3FzTEdhYjZwMjlZbnNiUm1hMGx1bkRqcEZIc0Vj?oc=5",
+        "fonte": "CompreRural",
+        "data": "2026-09-09"
       },
       {
         "titulo": "O agronegócio brasileiro em Angola -",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN1V5UGI3bzVxLTBMWGFPcWIzTjV3M2lCcVR5WjFpYzB1bzhBZ2dndjVNQXlsSXpYZHptQWp5MXUzWk50VE1FMmNpTFU1MHlWb3EyQ09DdjdOa3duYTI1NXUwQ1NJay1EMzYzaE5wWlhGSGc?oc=5",
         "fonte": "A Terra e Redonda",
         "data": "2026-09-09"
-      },
-      {
-        "titulo": "Nestlé Anuncia Investimento de R$ 7 Bilhões no Brasil até 2028",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmEzRjV1VDlhbF9hMUpJU3dPRlNtQjQ5cUhxTGZOMG04MHVsV3hTaFhVWmhUSVNnUEo2NkhLOUtYS2hacXhrREpJNHBuQld1OHJXZ1VONFQ3SGNZLWVQZFk0UlFiZnRaOENkNUdmMFpKLTlvLUI2ckRxNXFfSUtTa283d3FncUJvMzZDMFJsYnd6c0tBbnNqa19faFVoUGpGVnJvbmVVaw?oc=5",
-        "fonte": "Forbes Brasil",
-        "data": "2026-09-03"
       }
     ],
     "alimentos-bebidas": [
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-09-07"
       },
       {
+        "titulo": "Smurfit Westrock consolida investimento de R$ 1 bilhão no Brasil em dois anos",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORnJCeF9jRnhaMjEzcXA4WkxlY1JXSnhZcnRKcGRqdFc3elkzWFhSYVMwR3JOel9nTzNoSmdhV25ubjVVSmR3Y24tVUhhWVNsVURMSV9LUk1leC1ra0FfQkFpblpvNjJldmM2dVhBNjdIRm1zT2MtM0pQUk1qQjlTTFJZM01tdkItclp0V2xBd0R5TkJqVjV1Z1VpWTNhakU0S3ZaelhmWXEyM0lk?oc=5",
+        "fonte": "Portal Packaging",
+        "data": "2026-09-09"
+      },
+      {
         "titulo": "Nestlé anuncia fábrica de R$ 600 milhões em Minas Gerais; saiba onde",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qYWV2VW1jUm9NUVVlYmpKbTc5OTZLX0hsLWNWdGZXd2xVOTZMOUZkTUJhQVJIZ2xvbVZkNHF4UkVlUHRSbTVCdW5uYlo5V211YkRYM044aXlCdVlBcER0SGtvbGJfcGk3LWdHQl9NcDR3VFBWNmI5Ug?oc=5",
         "fonte": "Diário do Comércio",
         "data": "2026-09-03"
-      },
-      {
-        "titulo": "Pasteurização avança com foco em automação, eficiência energética e monitoramento remoto",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbWx0N21hNDhLc19FRDVZdk1FVU0xazh2ZjBiWGlqUzFOeU85U0ZySWFINHZ2anRvWk51OS1KOHpWOC0ydERLcGZHUUdlSHpUaWh6eEgtanJpbjNNNWdPaVYyb2c3LTRVNTNDZzYtX2J5anI2SmdlOXROUjY0TmhPOFFNQ085TFhPckVPRUpNQXh1Sk0?oc=5",
-        "fonte": "foodconnection.com.br",
-        "data": "2026-09-08"
       }
     ],
     "automotivo": [],
@@ -73,13 +73,13 @@ window.NEWS = {
       {
         "titulo": "VIBRACOM investe em tecnologia e instala uma das mais avançadas vibroprensas do mundo",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUs3LVFITXdfeVhuR2xlRHFSVnR5ZXF1SHNlLVl6cUJtbFBuYU01UUM0ejA2V2xpTVBGUzlWUGdES0ZOY0p1cXVXOG5mSkxGbVJjS19PTmNPN05qcVppa0pKbm0tLUVJcVRITHJxWUFBVEplcndJaEo1UkdvRDFJUW9ic09SdFgtUWpSYVZBWEU3Y2ZjMnN3Q2pVNWJOMFdHTDFMMmV6SEZ4aXQ0WXQzcmlSdGQtZ9IBtgFBVV95cUxPWW5TMzZKZG1JMnRiRGdKV1JlZVV2dVM2TzlWVC1MczNzX1NWUHluZnB4ZTdvWVItbEIweGFJYmVoWWlfLUZfbWFrdldCcWZCUjc0Mm1kRDlraWRibExlNC1saVFuNmI0MTlTSnhSYnVJUDFRTnYxSnEzWVhNMEJiM21KZUM2ZDE2eWREZndZcWRYMzdkTE9ya3ZFYnZ5bHBsdEZoZGdqdWNxMm5RNURra1FaSTRvUQ?oc=5",
-        "fonte": "Agência Cidades",
+        "fonte": "agenciacidades.com.br",
         "data": "2026-09-05"
       },
       {
         "titulo": "Ariquemes homologa compra de R$ 1 milhão em cimento para secretarias municipais",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanp1U0dJaU1haExwajE0X2hxMG11eU1NZkNnVjEtanA2MjY0QzZYZGFYRVc4M1VzSk9UbGE2U0hYYTFYdGVoV0psaXgyc3Zpcy1DT3NtLWozNmQzWTRYTlBYVkV5SVd3cnpQcTJmQzE5eDUwNC1GZXducmgxY29GeGwwWDl4Tm1RRmNyeng5a05oazBoWFgyaU5UUVVEWDFqNEhsYVRGRzV0WlJCZ3ZEaHRINFZyMEdNVEN1Y3doTdIBxAFBVV95cUxNZkdrX0xWMkdVQy1Kb3AwN0x6ZUZXcWRaYjg3clVnYkx6SHJWbTFZNUI3amdoaHR6R3gtSmEyQ05jR0N6UTZ2X0NpQm1udDVLb1llY01iQXlVSVBSNFl5ME5oNjNNYmIwYTN6UV9Uem5lc3FMVFg3SEc4OWJSck4zQkUta1gwRGZBTHMteGk5ck1CVVBwUGlvVzd3VGFROGMyM09xRXNFQ0xnWkFNVkgwejRud3dPSjRIa20yWWlCVTUyZjdZ?oc=5",
-        "fonte": "O TEMPO",
+        "fonte": "otempo.com.br",
         "data": "2026-09-04"
       }
     ],
@@ -133,7 +133,7 @@ window.NEWS = {
       {
         "titulo": "Suframa prospecta novos investimentos em energia solar durante a Intersolar South America 2026",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNOTJDS09uWjQwZE9ZTC1XN1pJcEhLSFh1aWVRM25CemtXdWdYT2t0VkZUWWZSMVhBblVqcmFuLWN1bjZwZEQ4b2prelY0OW16RlBpbERmT0txMkRRVTdjLWk2Z1JhWExPeUxYY05zVUZuaDNTaWI0YXJXMU81X0FJa2RDdmlnNVVTdVFucXZFYnVwaXZFbzZhYjc4cGUwczRPVEQ3NGMwZzVSa3pqUGxqYnpDVlBFQVZ1djVqZ1V6ZGRNVUN2dTBKWl9pOEtvZjR1RUgxN1VGLW5zTEUwY1E?oc=5",
-        "fonte": "www.gov.br",
+        "fonte": "gov.br",
         "data": "2026-09-03"
       },
       {
@@ -158,10 +158,10 @@ window.NEWS = {
         "data": "2026-09-04"
       },
       {
-        "titulo": "Por que o Brasil afasta a inovação farmacêutica?",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91SXVGRmp5MzI4OGJhRXlxdGpsSXluTW9faWphTTlGWG9lM3REdjVFdFBSSGRmR2FEQllPTlRzRTBkb0NBR2dNeDZiQzgwRUk4M1hXM1BrZGRMWDBM?oc=5",
-        "fonte": "Medicina S/A",
-        "data": "2026-09-02"
+        "titulo": "Médico da USP propõe que indústria farmacêutica ajude a financiar expansão do metrô",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdNaG1oWVRkdTlTbnMwMHlqYWh2VTVkVG1UcXd6Y083MWw4R2cyZFNRa1JEU2I4a2pKQkpUYnBhTTFpYk5UR0hIa3RfZ3ZWd2VvTkJMTGZYSl9nNGh0MjNNc2swSmxzNkR0NjBwMzVacmZrTjVmNEU0dDE4UFVMNlpGalVsanc3WTJJOTVrNnRDdnJoRWVoVmFxUGhZWG9La3lGT2lJdmlXQ1VUa04xc0hsMA?oc=5",
+        "fonte": "Metrô CPTM",
+        "data": "2026-09-07"
       }
     ],
     "fertilizantes": [],
@@ -213,16 +213,16 @@ window.NEWS = {
         "data": "2026-09-03"
       },
       {
+        "titulo": "Fundição Santa Terezinha completa 40 anos com aumento da produção e investimentos em automação",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONlBZX1VSU2lBTTQ3VGVGWmJ4ZWYzUWx1Vm5zTUtqZ21IRlhtWXBqWm80Z29RcE5Ub3V5bTFMTTlqWWNPR2RDXzVrWC1CaUxxd282UHZKY01ESXZLb2FkZXNrd1pmd2kwTy1GSldRc2NpU3VwdnRIbXpsMGRva3VhZjE2MVV2d2xhUWpUNTNfcjNYdHFFT2ItcVJyT3NWNXZzdmRUOHJOdnhvWEZQdnZsalVTajVGZV80bVZWYw?oc=5",
+        "fonte": "FIESC",
+        "data": "2026-09-08"
+      },
+      {
         "titulo": "Brasil e Japão muito além da Balança Comercial",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QcDVFdzZ4MGlPajM1V3k0eTMtM21wQnJFcDg4LWdOOEdpMERGZHdLeHdMSVlKZVh2UWF1dm5kVVk4SmZLdklCT3lLeDRaMFl4Mmw4bUpsYzQwbE5wZU5kZHl3UlRScFN0aEdfYXdR?oc=5",
         "fonte": "Banco do Brasil",
         "data": "2026-09-09"
-      },
-      {
-        "titulo": "74% das indústrias investiram em máquinas novas, mas apenas 5% tiveram foco em automação",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc01WRWRsdndDOU9FNHI4UkR3X1N4YzlZbDk3NkdvRVV1cy1WdUhyckliRFZJbmxlTmVPSGlFY3VmOVkwWDJyWWlnODdSVk1uVkM0dmU2QlRJUWpTdTJabmFyd01ETkZPY1dUMUNDTkV3dHdQdzZjS1hQY0FtaVBkOWJTcFpRRE5qS096MmlkYXgySGJQS1ZTeGQzdlhEdWhPWDJLYzNqZGZPNnN40gGsAUFVX3lxTE1zTVZFZGx2d0M5T0U0cjhSRHdfU3hjOVlsOTc2R29FVXVzLVZ1SHJySWJEVklubGVOZU9IaUVjdWY5WTBYMnJZaWc4N1JWTW5WQzR2ZTZCVElRalN1MlpuYXJ3TURORk9jV1QxQ0NORXd0d1B3NmNLWFBjQW1pUGQ5YlNwWlFETmpLT3oyaWRheDJIYlBLVlN4ZDN2WER1aE9YMktjM2pkZk82c3g?oc=5",
-        "fonte": "ipnews.com.br",
-        "data": "2026-09-03"
       }
     ],
     "mineracao": [
@@ -235,7 +235,7 @@ window.NEWS = {
       {
         "titulo": "Especialistas apontam desafios para desenvolver cadeias de minerais críticos — Agência Nacional de Mineração",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjdsQ01vTjE2c0hzaE1rZVJ5RDZnaFAzU0FwdHdnT1NGejJ6Q29WbVc5TUNIdFpjb0NDbndjY2Y2U2pWTlBwNWlKaXBmdnBvR001WlU5RzNhSFQwQ2dNYXlMcTlRWXlrVklMRUZCSHVVU1RJUlJ2OU8taVdhbnJUaFNNOGZHQ1ZIa1RMUTJxYlljcU1zZFZMZlRiOVowWHNGQ1EtaGlMVUIxTlZqNjN2aWdocUFxSVZONDAwSGJidUQ?oc=5",
-        "fonte": "www.gov.br",
+        "fonte": "gov.br",
         "data": "2026-09-03"
       },
       {
@@ -247,12 +247,6 @@ window.NEWS = {
     ],
     "papel-celulose": [
       {
-        "titulo": "Smurfit Westrock investe R$ 1 bi para crescer no setor de papel e celulose",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYTJwT2h2MmVZZFJhN2poTjh0UkxxNG9wWjlSakxsRWhzT1VSa3ZfblVSQkt2Ry1oQmhBWTJjY3pYZ05OMGVOZ1dSTHpBVk1NdENVNGRuMkg1U1JydjJPd0pISlNhYzJWQU9lYno3eUtLbTVubmRCand2RzZHbnhuNVdmTUxMQ1laVHBFUnByVUNDcEVDVmlxM0JoOGd0akxraFpOVDUzalFVUmdi?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-07"
-      },
-      {
         "titulo": "Setor de papel e celulose prevê R$ 105 bilhões em investimentos até 2028",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmlSa05LTE9fNmdtdE5FMUNfS0p6QjVKMVhTVmY5aGJNdl9GTHRZaHVMNTVPZWpzVjNkaklLM0UxTF9Rc0pxNkwyVFhaalBXVU1wZXN2Wkg1SmRNM0w1amtNeGNfcTZjdnFETmlzR2loZ2JuX3NZaGtHcFNmSmw1TEctVTFkeFdiQXI1UGdRdXhnT2Vpekx3N05DS0dhWXNyblE?oc=5",
         "fonte": "Tissue Online",
@@ -263,6 +257,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxON09qd05ucTBXR0tKaWJDcWN6OGRFV2VMYVg4Z0FPZXV0Njc1dF84dldZU1ViekYxTS1qOC1zazFBdlJidUxrRjVQZVNjQ3RkUGZMZlhiaTFrRVVFUDRaN1l1OXJEZ1JGUl9fUzBjVk1XcW9QVnpwLVhzZ0lVWkFfQUI0RXFQMFVOcTRnV3N6U2k5YkZKSTgzcy1zRTBFZWI3dHhNSWFCN2pHZw?oc=5",
         "fonte": "ND Mais",
         "data": "2026-09-02"
+      },
+      {
+        "titulo": "Trabalhadores paralisam obra de fábrica de celulose de US$ 4,6 bilhões e cobram aumento salarial",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQc3hOOUZWNEE3a0owbHc0MUZHNXRfblFwNFE0bXo2SWVXSlFQdW9Rb082YmtjUmdScFViTG13ZUZLY1JUQlRRQVJKQ0ZEV2lCNEtWRUJ4MWVkaWh5OWR1UlJLRWRBa3RpMnZWMmVhUDB0RUVFVTFZUzdWMFZodnBuUl9rX0VyNWhudlZzOHNqMXdmQ1BDVG84QWQwMmhLOGdLZWdPVWQzQnloeldOSUY1Z2owU2VBbG82RHVVNUd5YnhIWU1vakt0ZmwtUjVzbllP0gHWAUFVX3lxTE9TM0l6bnBNUF8ycHVOWmxSQ3BDcjNQRjlzSmxEc1JfaVdPWG1YMFM5SnBCakozcEpCaDFLRjR5Vm5TaVlycDl3UjZ1NnpHTzdKeXpzM2xDYm5rTy1hclRzVkxqeGpyaTlRTUxVSHk0eHN2cjJSS05VbE84Q3FVTWdCOFlrRVNBRXd0eU9iU0RxeTZtbEdNTGZTZGRfN1lBb3Y4Nm9ROTJaNldLVHVnYmVCQU1FZlZTQkphZnNiOVc2cVloQWtCTFB4RHNBRklHQmEyRTI0S3c?oc=5",
+        "fonte": "gmconline.com.br",
+        "data": "2026-09-03"
       }
     ],
     "quimica": [
