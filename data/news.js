@@ -1,24 +1,24 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-09T13:33:31+00:00",
+  "atualizadoEm": "2026-09-09T17:41:18+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Banco do Brasil (BBAS3): por que nem a melhora do agro convence a XP a investir na ação?",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQblNwUTB1V0gxMXZJbUlKTVlTcDFXOUJUOG5tU1NnM0w4UHVuTTduRnVjVjhsRnl3eFV1cENXS0JpdHhkLWN1ZkZzRl9lN3g0enVWMElZenZLMjNETWExSVJMSTF4NDlTbk1Dc3UxajlpamtsdUh4dTVzcDFPQlFXb2Vjb1dqR3NfM0lwbmtzWVFuLXgwdUxIS293Qm9yMFFVemtRbmhaS3lya29EM1FDYkJxWmVkZUozbUtzdXRPSmszYWZYM0ZrNW5vTnA?oc=5",
-        "fonte": "seudinheiro.com",
+        "fonte": "Seu Dinheiro",
         "data": "2026-09-02"
       },
       {
-        "titulo": "CNA debate perspectivas do agronegócio e gargalos de investimento na Expointer",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORFlNajBoV3pma1A1R1pEakItZk1OLV9hYlRpR1A0OEd5RjNTdXl6NkR2ZXU0c1RLRGU0cE8wREw4eGhmckVraEhkMTd6ekdaVnpCT1hFdVZoc3BmeExhcFotZDJOS0p3dm9oNTl6eTdTVlp3dDVranJ6elFheEg1aGtFMzdsTEhxejl6dy1kZlZ0SDRzTFpNWndLcmFyQmdFZnlTQTYtSHY2bXpkSHc?oc=5",
-        "fonte": "Brasil Inovador",
-        "data": "2026-09-03"
+        "titulo": "O agronegócio brasileiro em Angola -",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN1V5UGI3bzVxLTBMWGFPcWIzTjV3M2lCcVR5WjFpYzB1bzhBZ2dndjVNQXlsSXpYZHptQWp5MXUzWk50VE1FMmNpTFU1MHlWb3EyQ09DdjdOa3duYTI1NXUwQ1NJay1EMzYzaE5wWlhGSGc?oc=5",
+        "fonte": "A Terra e Redonda",
+        "data": "2026-09-09"
       },
       {
         "titulo": "Nestlé Anuncia Investimento de R$ 7 Bilhões no Brasil até 2028",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNmEzRjV1VDlhbF9hMUpJU3dPRlNtQjQ5cUhxTGZOMG04MHVsV3hTaFhVWmhUSVNnUEo2NkhLOUtYS2hacXhrREpJNHBuQld1OHJXZ1VONFQ3SGNZLWVQZFk0UlFiZnRaOENkNUdmMFpKLTlvLUI2ckRxNXFfSUtTa283d3FncUJvMzZDMFJsYnd6c0tBbnNqa19faFVoUGpGVnJvbmVVaw?oc=5",
-        "fonte": "forbes.com.br",
+        "fonte": "Forbes Brasil",
         "data": "2026-09-03"
       }
     ],
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "Nestlé anuncia fábrica de R$ 600 milhões em Minas Gerais; saiba onde",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1qYWV2VW1jUm9NUVVlYmpKbTc5OTZLX0hsLWNWdGZXd2xVOTZMOUZkTUJhQVJIZ2xvbVZkNHF4UkVlUHRSbTVCdW5uYlo5V211YkRYM044aXlCdVlBcER0SGtvbGJfcGk3LWdHQl9NcDR3VFBWNmI5Ug?oc=5",
-        "fonte": "diariodocomercio.com.br",
+        "fonte": "Diário do Comércio",
         "data": "2026-09-03"
       },
       {
@@ -47,13 +47,13 @@ window.NEWS = {
       {
         "titulo": "Testes para ampliação da mistura de etanol na gasolina podem iniciar em setembro",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNR1JYU2NKS3EtZXpRa1FuZWZZTDg5aVlWRDZJLVhmXzJTRFhmRFpzcWlySE9PZkRrd1o2ejNFSERRd2N3ODFDQlE5RmJPT3BWWjNKUDJRT0lmRkZtRXVfbzN1Sk4zMC1IU29aVTBMVTRIQVdZQnFuUzhrcE1Pa1M5SFZLRnNqWmVraVZUTjNnQl84UzdGUklfVXJiZ3JTcjJTUWZIcnExZ0FWOWt4bmZCTk9ycGtMM05PcGVjTlp3ZXFXNjNKUEo5SjF3UEs4aFZXMEJhQlRid0U1SWRoaGc2eE1uUQ?oc=5",
-        "fonte": "jornalcana.com.br",
+        "fonte": "JornalCana",
         "data": "2026-09-03"
       },
       {
         "titulo": "De cana ou de milho: conheça as usinas flex que ampliam capacidade de produção de etanol com os dois insumos",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaTRTVHNNTnl4c0dPNFNqYTJEdXRlTC1FR1pUVkFWbWtlUF85T29qeF9FcGRTZW9LLWNXSmpEMTFhVW80NGd1NERpZ3p0d1AyR0xvYzhnWEUycUZiOFIzeGtCa3BNUXdQZ3lCRXIzalVLbVlqT0dkT1pRajJtY1lYZ3pKbUd4eW1fMmlZNG9MSTlTeGJKX1J5MlI5NVAxNkU1UTNrWWo3UmRLWmhCQXl0TUV5ZWhIUzJnbGEyMnlIOHNJbkpBcThWSlRFUVJIUQ?oc=5",
-        "fonte": "visaoagro.com.br",
+        "fonte": "Visão Agro",
         "data": "2026-09-09"
       },
       {
@@ -107,7 +107,7 @@ window.NEWS = {
       {
         "titulo": "ANEEL abre consulta para novo leilão de transmissão; certame terá baterias pela 1ª vez; veja o Radar Energia XP | Setembro",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTV9yS0pfd2FYeXlxM3l0dGVCTC1HQjhMTFpmZW16NWlPN0FfNXZjb2k4QUpqdVc2aGdyQ2g4Vzc2cFpuRDR6RjRmMDBHQ214UjBSUG9rVzJvMVc0TWxiRS1JRG90a0ZjdGJLRU11NDllOTUwVTJkRGhDMmpLR2JQbW1taHFMVUloZmlSMXNkQm5XSjdaY281VDdhel82NVJZako1SWFYUVhrSko1ZzBFb2FHYzlJT3Z5MmZFWWd4eXNuVDN4U1c2eHN5X0Fpd09BQzlPS3hZRGVOOXkwVVU1SHZEOEREeG5BZmgzemZyWW1mdlFVZUY1SQ?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-09-09"
       },
       {
@@ -152,16 +152,16 @@ window.NEWS = {
         "data": "2026-09-06"
       },
       {
-        "titulo": "Médico da USP propõe que indústria farmacêutica ajude a financiar expansão do metrô",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYWdNaG1oWVRkdTlTbnMwMHlqYWh2VTVkVG1UcXd6Y083MWw4R2cyZFNRa1JEU2I4a2pKQkpUYnBhTTFpYk5UR0hIa3RfZ3ZWd2VvTkJMTGZYSl9nNGh0MjNNc2swSmxzNkR0NjBwMzVacmZrTjVmNEU0dDE4UFVMNlpGalVsanc3WTJJOTVrNnRDdnJoRWVoVmFxUGhZWG9La3lGT2lJdmlXQ1VUa04xc0hsMA?oc=5",
-        "fonte": "Metrô CPTM",
-        "data": "2026-09-07"
-      },
-      {
         "titulo": "Índia amplia indústria farmacêutica e fortalece exportações de medicamentos",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcE9qRU1OUmRqTUx6RmRGZ1JoeDFiNDF5UFV1VjV4UTdfWnpGZTlhTWs0bWNIZVp3X0JZUUxZbkgzWmx6SlpQQlQ4eE84VjZkNnRGeG94WHk2ZlQtRnJRdXBnYTB6YnFmRjhXcWVjN1gwNjhJcnZLM01LTzZmZWxBU0tDcDdoNWY5bWFJUG0xdFFtQ3pyZC1zWmZHRDJjOTM0aEhxRHp3?oc=5",
         "fonte": "Brasília in Foco",
         "data": "2026-09-04"
+      },
+      {
+        "titulo": "Por que o Brasil afasta a inovação farmacêutica?",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91SXVGRmp5MzI4OGJhRXlxdGpsSXluTW9faWphTTlGWG9lM3REdjVFdFBSSGRmR2FEQllPTlRzRTBkb0NBR2dNeDZiQzgwRUk4M1hXM1BrZGRMWDBM?oc=5",
+        "fonte": "Medicina S/A",
+        "data": "2026-09-02"
       }
     ],
     "fertilizantes": [],
@@ -169,7 +169,7 @@ window.NEWS = {
       {
         "titulo": "Nestlé vai abrir fábrica de fórmulas infantis em MG com investimento de R$ 600 milhões",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPbVNEUHdzMFladXRpOVYzUVdndFBFb0JrMU9xd2FIWVZkUjU2akdueGI3cTF6c0xwZ0d0S3RrY1pQR3I2UzE1YmpxN3RYTmFtejVNd0drUks4VWU1dlFXb2VfdEs3b0cxbzFNSTktb1R2Nm9OWW82ZzhOejFLLTJQVTBOVXl2TUx0ZVZrMVdza1NfRGdZenJxNkVnY1UwZEsxT0NlQllrRGo4REp2SkFlOERIZWk3RU4xV0drY1lpeG1lc0QzQmhsOWtpM0tpVERDQUU1dkcxdmJOQ0dzQWVnaGRjcmExZ9IB9AFBVV95cUxNUXVOSWd6TElhZ0RKMzBkWUNvVkJacFJGdTdBb1JzcDJmS19LenJqQldDR2E1NlBmUWtlZEE4OW5tdTNac2ktWU9pcW1mdkQ1X1g5b3p5X09rVmVhdXFFUnA1aXNvLTNFTHdHOTNpTkJUWkZHVE5nVlB5anQxUENqdk9sZ2hsZ0VfQmpEQUd0NUR6UmFLZGx3bHRxMEVQWFdlMnJDTmNXZDV5WkdfMXJmUmdOZjFjajRLeWFoMDhCU21EQ2RnQm9tY1JwaGNDdXU3dXRkNzRQZU1tMUlGOEc3Sm9ETUtheGdaYWJFTFJzaWFWZ1RR?oc=5",
-        "fonte": "g1.globo.com",
+        "fonte": "G1",
         "data": "2026-09-03"
       },
       {
@@ -201,7 +201,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovia Minas-Rio vai a leilão em dezembro e pode mudar logística de cargas em Minas",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcGhGT280ekpUZ0Y4NmxwOF9aUTdmWFdaR0Vlb0lTQXV4QVVLVFBDZlJZZVRNRktoZnFCNVVvVWUzdmFpSHcwMWNXcXEyM29oWlN2N1dNZUJIS09STkJYZ0Rod2hoOUgwam9WUw?oc=5",
-        "fonte": "diariodocomercio.com.br",
+        "fonte": "Diário do Comércio",
         "data": "2026-09-09"
       }
     ],
@@ -213,16 +213,16 @@ window.NEWS = {
         "data": "2026-09-03"
       },
       {
-        "titulo": "Fundição Santa Terezinha completa 40 anos com aumento da produção e investimentos em automação",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxONlBZX1VSU2lBTTQ3VGVGWmJ4ZWYzUWx1Vm5zTUtqZ21IRlhtWXBqWm80Z29RcE5Ub3V5bTFMTTlqWWNPR2RDXzVrWC1CaUxxd282UHZKY01ESXZLb2FkZXNrd1pmd2kwTy1GSldRc2NpU3VwdnRIbXpsMGRva3VhZjE2MVV2d2xhUWpUNTNfcjNYdHFFT2ItcVJyT3NWNXZzdmRUOHJOdnhvWEZQdnZsalVTajVGZV80bVZWYw?oc=5",
-        "fonte": "FIESC",
-        "data": "2026-09-08"
-      },
-      {
         "titulo": "Brasil e Japão muito além da Balança Comercial",
         "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9QcDVFdzZ4MGlPajM1V3k0eTMtM21wQnJFcDg4LWdOOEdpMERGZHdLeHdMSVlKZVh2UWF1dm5kVVk4SmZLdklCT3lLeDRaMFl4Mmw4bUpsYzQwbE5wZU5kZHl3UlRScFN0aEdfYXdR?oc=5",
         "fonte": "Banco do Brasil",
         "data": "2026-09-09"
+      },
+      {
+        "titulo": "74% das indústrias investiram em máquinas novas, mas apenas 5% tiveram foco em automação",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc01WRWRsdndDOU9FNHI4UkR3X1N4YzlZbDk3NkdvRVV1cy1WdUhyckliRFZJbmxlTmVPSGlFY3VmOVkwWDJyWWlnODdSVk1uVkM0dmU2QlRJUWpTdTJabmFyd01ETkZPY1dUMUNDTkV3dHdQdzZjS1hQY0FtaVBkOWJTcFpRRE5qS096MmlkYXgySGJQS1ZTeGQzdlhEdWhPWDJLYzNqZGZPNnN40gGsAUFVX3lxTE1zTVZFZGx2d0M5T0U0cjhSRHdfU3hjOVlsOTc2R29FVXVzLVZ1SHJySWJEVklubGVOZU9IaUVjdWY5WTBYMnJZaWc4N1JWTW5WQzR2ZTZCVElRalN1MlpuYXJ3TURORk9jV1QxQ0NORXd0d1B3NmNLWFBjQW1pUGQ5YlNwWlFETmpLT3oyaWRheDJIYlBLVlN4ZDN2WER1aE9YMktjM2pkZk82c3g?oc=5",
+        "fonte": "ipnews.com.br",
+        "data": "2026-09-03"
       }
     ],
     "mineracao": [
@@ -269,7 +269,7 @@ window.NEWS = {
       {
         "titulo": "SAUER COMPRESSORS VÊ ESPAÇO PARA CRESCIMENTO NO BRASIL E PLANEJA DUPLICAR SUA CAPACIDADE NO PAÍS",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYXRVWDhNSXpneHd3RDR4bHBvZ082cW5xb0xoR2xodEM3V0JUSXE4RFRYZGwxZmwzc3dXSzhIQXBFcmp5WWlrY05HOGdpcER0RGU3M3FPMmo4b2kxdWxGUjZRcnR1bTZfWTg5dEwybkxyVi1SWnRjNkE5Zlg2YXhrSlRrR2tNQmdEVEJXU2VfakpfOURnSURPNjkxdVBTRUFyNngtMHJfQUJxaFNrYkNhQ1RkOXE2bXNwa3c?oc=5",
-        "fonte": "petronoticias.com.br",
+        "fonte": "Petronotícias",
         "data": "2026-09-08"
       },
       {
@@ -279,14 +279,7 @@ window.NEWS = {
         "data": "2026-09-07"
       }
     ],
-    "saneamento": [
-      {
-        "titulo": "Brasil leiloará mais um contrato de concessão rodoviária, agora com investimentos de R$6,7 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTdyNjFiWjJKdVRYM0ZsaTdkYm1DSEw3MExubWwwbWlFOC1OS1dySk9iczVZV2ZyUk5MY25iQmtSck15bDZMQmt6OGNKdFd6MEN5bTE0aVZuRzFLbTFnZTlxeEhRLTRpS0dscWxPYU0xRDVILUk2Y2ZwNDFqTHdTN0pkZWJnZElLUTdwUGYwV0F5SHhrTk5ybEtYUWNINFkwTEZCNlRKUDBWVFZEQm1ERTc4ek1rc3czVlZxSjZHb1REeWxVclFvQzRaZ1FTZG8?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-09-09"
-      }
-    ],
+    "saneamento": [],
     "siderurgia": [
       {
         "titulo": "Valor 1000: Gerdau amplia aposta nos EUA e se destaca em metalurgia e siderurgia",
