@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-10T13:24:42+00:00",
+  "atualizadoEm": "2026-09-10T17:33:42+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,19 +10,25 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
+        "titulo": "Eleições 2026: De qual política pública o agronegócio precisa?",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWxpRFpYUlRoLXltd1lnVmF3YTU4NjRLeGp3VHBpdWlPVkJaYzdNUXNJdTdxSXZ2QWlBek1ERV9tbGNkMjhTTUJmX3JTYWlYbXNJRGtkSWF0dFpuaGdCaXB4U1lTVjFHdGJ1dFd4V2xQcVQ3TXZlWXEyWmo0eTEtQzYxU3Q0WkRYbXBra0hCaVphWExnNlY4UGE1OV9fNE5aWVU3MHZfSQ?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-09-08"
+      },
+      {
         "titulo": "Estudo revela quanto o Brasil pode precisar gastar para transformar o agro até 2050",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjVoYUpudGwwQUtJSmRtVnhNMzdWbWd3NWo5cHY4aElvVXgwTG1ZaG1aTU5UOUNoY2FjWFhIV3hJd09EQUVmYzhMZXUwMGY1VmlYMVAxRVJDRm5rUnF6eXlac2NiV0ZLY1d2ZkxXZE96OVczWWVfVEhUMEV5bmJwNlE1WkZRNGZub3FXSmFwd3U1MzZaZlBEVnRUMzdOY3FzTEdhYjZwMjlZbnNiUm1hMGx1bkRqcEZIc0Vj?oc=5",
         "fonte": "CompreRural",
         "data": "2026-09-09"
-      },
-      {
-        "titulo": "Agronegócio sul-americano acelera investimentos, crédito e exportações em 2026",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORGJIUTNWTW9BZUpfWmNzUk1tQVJ5bE9wMHpMV2tmamc4R0NESnVEekJFbDJ6TWduRzdSZ19TX2Iydkc4b0NucVNRVE1WU3AxaDd6VzJja01QTVhCNmpVaUlWdkl6TUg0WjlqdUpjcXNBVVN6RVVHMjJhbXQ2NGEzcmdVeGRYSVpJUVBQLThKUEJmOTJqNDJYY1pDam1LalV2Ums5YVRSWjRBdjdmNUtzOXZZSk1DczFvNjhNUW1rM0JpZE4ycjFUbkdfUE1UeUYtNDFWVlQ2S1dMTTFDUWszRk16X1Q5MEQ4VFIydm1B?oc=5",
-        "fonte": "Portal do Agronegócio",
-        "data": "2026-09-03"
       }
     ],
     "alimentos-bebidas": [
+      {
+        "titulo": "Abimapi e ApexBrasil renovam convênio Amazing Foods Brazil para biênio 2026-2028",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR3NhWTctUEhTN2UyREVBQlRSdDFpZGd6dFI5ZXk4ZlNNVzNIYUpHem1DeEllZmpRZ1VoWTFyM3l1UEYyLU9JWTVSUjQyUWFRTkpnOFVKY1pCNlJaVklsVXJqcm1WSU8yUkNVa2w5N1dyWUVraDhoTTgwQ0RJM0daandVRU0tTnVpLTFRUTc3TWJlemlBMzBmam1pUmg5TVdldVVkbW9taEItSjRsRkhpQllrUEx0cWNId2E0MHdMWE9DRTRUbC1Ic2FDUGJsSGtmeG5WaUV4M3pXSEtCVTNERVlFMF9LcUNRX1E?oc=5",
+        "fonte": "Apex Brasil",
+        "data": "2026-09-08"
+      },
       {
         "titulo": "Uberlândia recebe investimento de R$ 120 milhões de grupo atacadista mineiro",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTZSQlJzOWdkTEIzZnl1ZTdPZHR0WndKQnBCQ3l1bHlFSUwtd3Z2Z1lHVnZIcDRGOFNNc3htNnNmUGN6Z0ktYzNlNjZVQWxqQXRMNzhoV2VZcjVabkZyeVZoMkRqMzVVdG5ZMjFIYkJlQnhJdzZMcmtJWHZwMnc5LVFUQmZuNFphZ0FFWnpoS2oxaHduYVA5UjRNTUtNdmYwQXd6MmU5eldTNS0ycllYaTUtc3U1c01WY0NNVg?oc=5",
@@ -34,12 +40,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORnJCeF9jRnhaMjEzcXA4WkxlY1JXSnhZcnRKcGRqdFc3elkzWFhSYVMwR3JOel9nTzNoSmdhV25ubjVVSmR3Y24tVUhhWVNsVURMSV9LUk1leC1ra0FfQkFpblpvNjJldmM2dVhBNjdIRm1zT2MtM0pQUk1qQjlTTFJZM01tdkItclp0V2xBd0R5TkJqVjV1Z1VpWTNhakU0S3ZaelhmWXEyM0lk?oc=5",
         "fonte": "Portal Packaging",
         "data": "2026-09-09"
-      },
-      {
-        "titulo": "Indústria acelera lançamentos e índice sobe 9,1% em agosto",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN0RnVUktX19HV1VuNzhodXdyZFQzbXhUOUdmTWdNMkJEdWZTc2t5M1FObU00LVo5RHJpeGstRWgyendMa2F1YXQ5VjFLZTFJVVJYZmZBTy1MWmpxak4wVmFuQ3Bab0lNM05kLU5fQTVpZTctcGZZSnViNlZ5Z3JSWEZ4U2hsekpyeDE5YW94ZHhrUXpKWDNQYzdFUm8?oc=5",
-        "fonte": "SuperVarejo",
-        "data": "2026-09-07"
       }
     ],
     "automotivo": [],
@@ -73,7 +73,7 @@ window.NEWS = {
       {
         "titulo": "VIBRACOM investe em tecnologia e instala uma das mais avançadas vibroprensas do mundo",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUs3LVFITXdfeVhuR2xlRHFSVnR5ZXF1SHNlLVl6cUJtbFBuYU01UUM0ejA2V2xpTVBGUzlWUGdES0ZOY0p1cXVXOG5mSkxGbVJjS19PTmNPN05qcVppa0pKbm0tLUVJcVRITHJxWUFBVEplcndJaEo1UkdvRDFJUW9ic09SdFgtUWpSYVZBWEU3Y2ZjMnN3Q2pVNWJOMFdHTDFMMmV6SEZ4aXQ0WXQzcmlSdGQtZ9IBtgFBVV95cUxPWW5TMzZKZG1JMnRiRGdKV1JlZVV2dVM2TzlWVC1MczNzX1NWUHluZnB4ZTdvWVItbEIweGFJYmVoWWlfLUZfbWFrdldCcWZCUjc0Mm1kRDlraWRibExlNC1saVFuNmI0MTlTSnhSYnVJUDFRTnYxSnEzWVhNMEJiM21KZUM2ZDE2eWREZndZcWRYMzdkTE9ya3ZFYnZ5bHBsdEZoZGdqdWNxMm5RNURra1FaSTRvUQ?oc=5",
-        "fonte": "agenciacidades.com.br",
+        "fonte": "Agência Cidades",
         "data": "2026-09-05"
       },
       {
@@ -127,7 +127,7 @@ window.NEWS = {
       {
         "titulo": "Energia demais, demanda de menos: setor põe freio à corrida das renováveis",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEtiWXFucWp2UERmajNBeTlRUERqQ0h1UFlEQm5KdlBCS2FpTEVzdUV0RC04WmRDd3VLNG51RF9Pa2JYUWNNbGMyVEg2MlpLNEVrZUZKWTJ1SE9SRzRQWngzNE1UMmczc1VUX3hzdDlnTmtjX0ZPeFZ4WWFaUVdybkl6aEJCRGhjbFhyVmFWaWNxLW4waHFfRV93bzJwT1puckhlMW4yZUJaMDJ3WUFZU3VJajhBTkZ6OUxqRDVTNWVhczNLWDZHTlY0OA?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-08"
       },
       {
@@ -148,7 +148,7 @@ window.NEWS = {
       {
         "titulo": "R$ 6,4 bilhões de uma farmacêutica dinamarquesa: a cidade do norte de Minas que virou referência em remédios para o Brasil inteiro",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYWsyVDNiczFDSUN6QXdpdVdhZHR4ZVNzMzdmaHZuX1BUa1d0SXdSY0FDQmd5MGJieDdWQ3FXZ0ZyYklpWW02SzBOQ1JTcHdjMlJSem0tVU9JaVp4ek9MOFpsNWJoZDczalBKNk8wQ0tlUXk2WkpYNnhla0MzdndkWFFiNTFqZUdxQVAyZ3BfeFJyVm9CaEdKeFJFZndpbE1KbWRiZGtxaE5UNFN0SUJhNzNOZGNLaHlnaWlBT0VjMG5NaF9zUkh6cDgwYklKMW1VVGt6YWR0QzFoMV9lR1kzUGdUM2RuU3lTZy1UbWpaaHFQaThLaW9CVF93Rlcwb2loaEF6YnZNXzFrNmVzcGlF?oc=5",
-        "fonte": "canalrural.com.br",
+        "fonte": "Canal Rural",
         "data": "2026-09-06"
       },
       {
@@ -179,9 +179,9 @@ window.NEWS = {
         "data": "2026-09-07"
       },
       {
-        "titulo": "Nestlé anuncia nova fábrica de fórmulas infantis no Brasil com investimento de R$ 2 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2xOUFdSOU52aThtWHdzRWRlbkRxQTc2YkVjaGlILXo0OE13cUl1WjVlV0cySFNyQ3dZdXBJZU43ejhkYVhQSXE2VEhud0NCU1AwRndMSkpGaTE2TDRDSVdzQnNWLTQ1bVFIM1p3MWM5Z2dNaWpxMllEVjNkaFdJYzJxdkMtZUJSVC1pd0tpYUFBWk1GemtRVTE5SFZFeWNJVy02LXdsVEI3MElxV1BxZ2xsWFhzQi1JelZFMEFSQmNEdU1xWlNFcVNqbw?oc=5",
-        "fonte": "SuperVarejo",
+        "titulo": "Nestlé investirá R$ 7 bilhões no Brasil até 2028 e prepara nova fábrica em Minas Gerais",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0RhcExDdVR5NVRha0ZKMnB2RVpLRlRJV2tVVUhiZExsenUyU3k1MFNxRjFJYlJYMFZHbWlQWEhEVmhVOEdjRFdzSURqWVVDLXVpck9sTlNzaTQ1SjRlb2g5SVpuLVFaYm02QVpnT2RlZDlIbkxtcTNhWERvaEU3NTVKb2NONFdBNDMzSW14ZGk1azhSTExfV1pDRUNyRDBsekllWTEydkhPa1dtN2V4LUlMc3VCRlI3Z2NCc0lUcEhpQQ?oc=5",
+        "fonte": "portalin.com.br",
         "data": "2026-09-03"
       }
     ],
@@ -193,36 +193,36 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
-        "titulo": "Aprosoja MT participa de fórum sobre infraestrutura e eficiência logística no Porto de Santos",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd1g3M3pPdl9UcGZBbmVaYzR2cGFLMXJIdUNpcHBMNi1qckRONG1uTDF0QW5McjJBcGhXd25aaHlsQTNMODZ3Q19PSjE0a2I5bXRabllfZEtVUExEU2VFN3hyZVhwZkJhMG41NGJrM3RvOGRnc1ctdnhBamctQTQ4QXlFWkc4bWZPaEcwd1NPdzZOSnBLbEs0cnJrMnF0MlJMdEc2XzNJd1ZkNDhMTy02cG1ZbHo4ZVduc2ZqLW94clRyMHE5d2Y4aVNsejN6MTZoSVNV?oc=5",
-        "fonte": "Aprosoja MT",
-        "data": "2026-09-04"
-      },
-      {
         "titulo": "Depois de 20 anos e R$ 11 bilhões, Transnordestina avança e atrai novos negócios para o Sertão",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbXJKOTlabmU5cmRRQS0yWnFqd3V1SDBmLTMwZURxcFJkdlY0Z2FsejZLdDNmSWw3R2QyblRXZDJMaHAwNWFvZW10SlNYWjN6ems1NlpXMmJrZW5iQloyTkV1QWRNdVVQYzNKN1R4RFh4SzdpNzFWR2Jab3pma1Q5ZTdrUlplZTZrcDRwLTcyb0tYX09aZDZyZm5OTXFYZjJhX0gwVjFJbVluMmMxZnZrY3hMSWFKOFJpSnBQUGdoWXNOUFE?oc=5",
         "fonte": "NeoFeed",
         "data": "2026-09-08"
+      },
+      {
+        "titulo": "PNL 2050: plano de R$ 1,225 trilhão mira destravar gargalos que custam ao Brasil até R$ 300 bilhões por ano",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSmN3NlJSOTNDcTFtT3FGbmh4cEJrWnRzeU9NYjl0YTJfb1QyMWE5RFBFM1BGcno2YWMyRWV4aFhibHZaMkhwcktsZFl4Y25Ya0NfYUFOYndraERYRDQzbVY3aDZXUnV2SW80VTFSREpDd1BsRDVjTThJdGExVTlnOUFmT3FLX0FmamNieWVsR2xjdTZKZzUwWFhyal80WXc5ZngzdFBIbi1OOS1wVmtnOXpYdkc2a0RQWHFmYzA0RlZqNU44RXNaV000NjIzR0JlQlN0M3ZUWGt6dDl6QjFoX1d1b3BZWkFYM1JSQ1lSdEJGbG0xRDJpUnEtUQ?oc=5",
+        "fonte": "portogente.com.br",
+        "data": "2026-09-09"
       }
     ],
     "maquinas": [
       {
-        "titulo": "Investimento avança mais depressa na indústria extrativa | Brasil",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHB5Z0RpNF83M0U1MlVGUmJ1VUlEZFpFMjBOOTZ4cUdjOHVoNHNHUnBSaXpXVHZXam0xZFZlQU11X3hOTnp2d1BrTFlQb0hYRHhmRGU1b0F6T1R2ZkZDSTA0TUFDTFg0V3c0NFZ1Vm5TWkdNWjdtZXdFRVY0MWUzc2lZUk5lcDBFSk56N3l5ckZSUmYtQzZ5dFpJQkxKb3lJSDRmdEo2Zmxuc0UwVDM2RDNR?oc=5",
+        "titulo": "Investimento avança mais depressa na indústria extrativa",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHB5Z0RpNF83M0U1MlVGUmJ1VUlEZFpFMjBOOTZ4cUdjOHVoNHNHUnBSaXpXVHZXam0xZFZlQU11X3hOTnp2d1BrTFlQb0hYRHhmRGU1b0F6T1R2ZkZDSTA0TUFDTFg0V3c0NFZ1Vm5TWkdNWjdtZXdFRVY0MWUzc2lZUk5lcDBFSk56N3l5ckZSUmYtQzZ5dFpJQkxKb3lJSDRmdEo2Zmxuc0UwVDM2RDNR0gHAAUFVX3lxTE1ha1BtQ0FmVjdHdzNmbHRSTGU1V09WNmpmOUlpRllBVlJtZk81dlA0WXI2NUo4N3ltc2U4bkJjWEp1QnBIa28wbkR5YldLa1hJUmNwRk9jTFhBNDNjWmFaTkhqWUhjbTdPYk9vYURZTmtIQndCR0MyLXRENVozcmprTnFXS2FnU3VCbkJ3WjdfUzhpak83LUpybEwxQ09VdTB6NTZZckE4ZmNjbERaWlZCQkx3cGdvX3kzYVRYajFmUw?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-09-10"
-      },
-      {
-        "titulo": "74% das indústrias investiram em máquinas novas, mas apenas 5% tiveram foco em automação",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNc01WRWRsdndDOU9FNHI4UkR3X1N4YzlZbDk3NkdvRVV1cy1WdUhyckliRFZJbmxlTmVPSGlFY3VmOVkwWDJyWWlnODdSVk1uVkM0dmU2QlRJUWpTdTJabmFyd01ETkZPY1dUMUNDTkV3dHdQdzZjS1hQY0FtaVBkOWJTcFpRRE5qS096MmlkYXgySGJQS1ZTeGQzdlhEdWhPWDJLYzNqZGZPNnN40gGsAUFVX3lxTE1zTVZFZGx2d0M5T0U0cjhSRHdfU3hjOVlsOTc2R29FVXVzLVZ1SHJySWJEVklubGVOZU9IaUVjdWY5WTBYMnJZaWc4N1JWTW5WQzR2ZTZCVElRalN1MlpuYXJ3TURORk9jV1QxQ0NORXd0d1B3NmNLWFBjQW1pUGQ5YlNwWlFETmpLT3oyaWRheDJIYlBLVlN4ZDN2WER1aE9YMktjM2pkZk82c3g?oc=5",
-        "fonte": "ipnews.com.br",
-        "data": "2026-09-03"
       },
       {
         "titulo": "'Enxurrada de investimento': indústria projeta R$ 1,5 tri para data centers",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVAyb2hjeDZFZm5DTV9WWjdZc2tkRVpvdEFYWGpRX3N6NEdsSEU4OWFxNHBfWGhlbFBEaHZ3NElPWWthVG9Vb2FwWlFvNWlmS0VsdWljUHNzQ0NvQnNzV0FGM1NKNjVZcF9fR2NGcVVSaTRrdUtGejJVRmh3RjBqZ3ljRXEyYUJBdWdHT25KUk5IcEI2R1ZSczduTHVDYmtkS1NDOUJYSmItM0tfYjBhN2ZBS1loaHBvRHd2RGNLRDVtVG1IMllqeUNGU2g1SzFoV0wxRzVReEU?oc=5",
         "fonte": "UOL",
         "data": "2026-09-07"
+      },
+      {
+        "titulo": "Desenvolve SP financia modernização de máquinas",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnd6M0RSOGEzc2VickxJMDdpc0lPcVhSNElaMWJpQk14clNHbVF4TmVfTEJmU05tSG9Pcm13SFZHVGRCZktzZldZQUNJcVZ6VXhTVmQ1clZkdFRUUUd6S2ZKeXk4ZExjODU5OW5YS1g1VU5zNU1uS0VfZmF4emJDRWxDandFaEJPemNBUk9PMVFxQQ?oc=5",
+        "fonte": "guairanews.com",
+        "data": "2026-09-09"
       }
     ],
     "mineracao": [
@@ -241,7 +241,7 @@ window.NEWS = {
       {
         "titulo": "Com política das terras raras, o que falta para Brasil atrair investimentos",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBZWEpWR2gwRFhLbnl4VFVsTHprZm5nbTY1dFlsbnJQZU9WaXd5ZnJLSVo1LTh6VHhhMjRIelZMWlRjOU9GeVozdGFfbWdSVkMxVHpBSUs0ZmdpcjgyRXprLW5mek90aE9JQWNFRWRlZk1HUDFEV1FGbWtaZUx4N2EycXkyZ09XWDEtTGkzMEViam5jS3N5RQ?oc=5",
-        "fonte": "UOL Economia",
+        "fonte": "economia.uol.com.br",
         "data": "2026-09-09"
       }
     ],
@@ -269,7 +269,7 @@ window.NEWS = {
       {
         "titulo": "SAUER COMPRESSORS VÊ ESPAÇO PARA CRESCIMENTO NO BRASIL E PLANEJA DUPLICAR SUA CAPACIDADE NO PAÍS",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYXRVWDhNSXpneHd3RDR4bHBvZ082cW5xb0xoR2xodEM3V0JUSXE4RFRYZGwxZmwzc3dXSzhIQXBFcmp5WWlrY05HOGdpcER0RGU3M3FPMmo4b2kxdWxGUjZRcnR1bTZfWTg5dEwybkxyVi1SWnRjNkE5Zlg2YXhrSlRrR2tNQmdEVEJXU2VfakpfOURnSURPNjkxdVBTRUFyNngtMHJfQUJxaFNrYkNhQ1RkOXE2bXNwa3c?oc=5",
-        "fonte": "petronoticias.com.br",
+        "fonte": "Petronotícias",
         "data": "2026-09-08"
       },
       {
