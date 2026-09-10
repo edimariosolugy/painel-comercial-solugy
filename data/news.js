@@ -1,19 +1,19 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-10T17:33:42+00:00",
+  "atualizadoEm": "2026-09-10T20:35:27+00:00",
   "itens": {
     "agronegocio": [
+      {
+        "titulo": "Fazenda de Investimento: um ativo estratégico no agro",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeUpWMWVMczNOUnN4WFRmUDVycWsxZGpLY09qRzFLVEZobWZXTWJRS29ZamNNVkkzaXU0X0FBVlRBa25NTzV5WmdBSF9UUF8xN21WOW1RTjZSUWdhZF9iQnR0eUtGRE8tVVpGU25GVDh6T3FHckRrdl9RTDV5VmF2WE9sZXhiQjJrM09j?oc=5",
+        "fonte": "stonex.com",
+        "data": "2026-09-10"
+      },
       {
         "titulo": "O agronegócio brasileiro em Angola -",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN1V5UGI3bzVxLTBMWGFPcWIzTjV3M2lCcVR5WjFpYzB1bzhBZ2dndjVNQXlsSXpYZHptQWp5MXUzWk50VE1FMmNpTFU1MHlWb3EyQ09DdjdOa3duYTI1NXUwQ1NJay1EMzYzaE5wWlhGSGc?oc=5",
         "fonte": "A Terra e Redonda",
         "data": "2026-09-09"
-      },
-      {
-        "titulo": "Eleições 2026: De qual política pública o agronegócio precisa?",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWxpRFpYUlRoLXltd1lnVmF3YTU4NjRLeGp3VHBpdWlPVkJaYzdNUXNJdTdxSXZ2QWlBek1ERV9tbGNkMjhTTUJmX3JTYWlYbXNJRGtkSWF0dFpuaGdCaXB4U1lTVjFHdGJ1dFd4V2xQcVQ3TXZlWXEyWmo0eTEtQzYxU3Q0WkRYbXBra0hCaVphWExnNlY4UGE1OV9fNE5aWVU3MHZfSQ?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-09-08"
       },
       {
         "titulo": "Estudo revela quanto o Brasil pode precisar gastar para transformar o agro até 2050",
@@ -38,7 +38,7 @@ window.NEWS = {
       {
         "titulo": "Smurfit Westrock consolida investimento de R$ 1 bilhão no Brasil em dois anos",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORnJCeF9jRnhaMjEzcXA4WkxlY1JXSnhZcnRKcGRqdFc3elkzWFhSYVMwR3JOel9nTzNoSmdhV25ubjVVSmR3Y24tVUhhWVNsVURMSV9LUk1leC1ra0FfQkFpblpvNjJldmM2dVhBNjdIRm1zT2MtM0pQUk1qQjlTTFJZM01tdkItclp0V2xBd0R5TkJqVjV1Z1VpWTNhakU0S3ZaelhmWXEyM0lk?oc=5",
-        "fonte": "Portal Packaging",
+        "fonte": "portalpackaging.com.br",
         "data": "2026-09-09"
       }
     ],
@@ -85,22 +85,22 @@ window.NEWS = {
     ],
     "comercio": [
       {
-        "titulo": "A nova geografia do varejo brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jV1hwWTJTNEd3ZjZwS0ZyV29rcURENEI2bEFVRkZObl9wZVYzeFFhQkhIZVZxVW5yeXU3Q3ROOEdPTDBaWE5xdllIbTZUMzR5MUpmR01JVGFaU0xaQVRVb3QxUzg2Zk0zNzMwcUd4ZlhNUnN3?oc=5",
-        "fonte": "Diplomatique",
-        "data": "2026-09-03"
-      },
-      {
-        "titulo": "Uberlândia recebe investimento de aproximadamente R$ 70 milhões de grupo supermercadista em 2026",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNY3dNclowTnJrdE95cWUwOUlGN0JYWjZ0MXNmVl81b05XblJra0t3UVV5VmlVN2wyMkt0bnpHQ3JPR2dDQlNRWFZUR2FrOFRncHB0OWdNWDQzQkpaY2JzQ0lFMkdJZnljSnVkTC1OTHNOZHNmVkFXakpkVTRaWFFUdmpnZWFsMXdiSzFqU08zTTJIY18yVmpzdGdLdlhSZnhSYkVvajBPcjFXdVROM0FOODNoS1pCeWctb2JPcENfaVRtek9UWS1LTURNaWowSEM2TTZLTzVNOA?oc=5",
-        "fonte": "uberlandia.mg.gov.br",
-        "data": "2026-09-03"
-      },
-      {
         "titulo": "Amazon e ID Logistics inauguram centro de distribuição no Paraná",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU82TGJVa0l2Mk5yUzFDY2hNNXJRaHVxTXcyQklUQjVteUhuOFFhSE9EREhLNm82eXVOa2RKeTJzUDZFRlUzSGNXclNlSUl0NGZvcnFDdUdxZXJTRGY0dWhIdEdISUNodDVIVmhNb3BqOWExTUg2cTBBeXZ1ZWtkZUxXLXZ2d0o5YzZnb0psTnBKdjllbzN0YUxub0g3aFZncFhLS25B?oc=5",
-        "fonte": "Mundo Logística",
+        "fonte": "mundologistica.com.br",
         "data": "2026-09-04"
+      },
+      {
+        "titulo": "IA pode transformar sua loja física no melhor centro de distribuição que você nunca construiu",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkZwa2laZnR4N2lNNmlwRUZjbGFVOU81R0FiMnBBRTJyRFNjbHZQcFlGOVRmdlBvZTNZV2QyYzEyQlhkZXk2OFBlcWdQYy1HNGNmYVQySlJYZU9LOWlhM1hEc3V4angySmFGZ29JbUJoTWUwNmYwaDJ1eEFLZkFDS29PSVV5YkZmME9VR3pNTVlWWGt2eTFWVUlBV21MRnFpcV9KRkRUVkYwR29NelIwMGhGdElCWUJPeGJMcjc1WEhocFhKUVVVejM4OTM1T0xJZGc?oc=5",
+        "fonte": "E-Commerce Brasil",
+        "data": "2026-09-08"
+      },
+      {
+        "titulo": "Growth Supplements amplia estrutura logística com CD de mais de 5 mil m² em Minas Gerais",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYjJLVnJySjFnbHkzZzZyMU45bmd3UktTa3psOVJ4VEk4Nl9lbVRMRThqcDFUZlctYmlXZzlJdkxSTE5jWjFDOXJyekdpakRNOXB2bHZEME90c0Z6LThFVDhBZGQzY2Mzbk02Qzc5WXRRN0ItcnUtczN2QkowZVJBaVJEYm9VSlVaUzhrWlg5QVh0U1l0VjFBRXcxY3FwU2JnNnRSald0VFFtMGlIZS1WR1htdDRNMHZsaExxT3FjNENWcnplclRfSm5XMjBEbEEyV1RPN0ItZ3NCSWNUa0tlUmFSM1rSAeQBQVVfeXFMUGIyS1ZyckoxZ2x5M2c2cjFOOW5nd1JLU2t6bDlSeFRJODZfZW1UTEU4anAxVGZXLWJpV2c5SXZMUkxOY1oxQzlycnpHaWpETTlwdmx2RDBPdHNGei04RVQ4QWRkM2NjM25NNkM3OVl0UTdCLXJ1LXMzdkJKMGVSQWlSRGJvVUpVWlM4a1pYOUFYdFNZdFYxQUV3MWNxcFNiZzZ0UmpXdFRRbTBpSGUtVkdYbXQ0TTB2bGhMcU9xYzRDVnJ6ZXJUX0puVzIwRGxBMldUTzdCLWdzQkljVGtLZVJhUjNa?oc=5",
+        "fonte": "mercadoeconsumo.com.br",
+        "data": "2026-09-07"
       }
     ],
     "energia-gt": [
@@ -119,7 +119,7 @@ window.NEWS = {
       {
         "titulo": "Aneel prevê R$ 12,9 bilhões em investimentos para o leilão de transmissão elétrica de 2027",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2VJazRaRUlNUGpScExtMW9Sc29DajJpNW9sakNlVy1DVWtGUy1CczZidVphVUt3QWF4LWdLR2FBUzRJLXR5NV9LR3M5SzBETjdzbDVHMHA2MFFhTDQ2Y01BVXJsLTR2dWdVbHI5QWNfdm1JUXdxLWs0bGthdTIzNU1LRC1lTzlGajFjbzBXZzVLVU54QmhxRU1NR0tLYnZUNVZRNXFHb1VibzZxQS02RDRuVkFkeEI5OU5PeHhRbw?oc=5",
-        "fonte": "Brasil 247",
+        "fonte": "brasil247.com",
         "data": "2026-09-08"
       }
     ],
@@ -127,7 +127,7 @@ window.NEWS = {
       {
         "titulo": "Energia demais, demanda de menos: setor põe freio à corrida das renováveis",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEtiWXFucWp2UERmajNBeTlRUERqQ0h1UFlEQm5KdlBCS2FpTEVzdUV0RC04WmRDd3VLNG51RF9Pa2JYUWNNbGMyVEg2MlpLNEVrZUZKWTJ1SE9SRzRQWngzNE1UMmczc1VUX3hzdDlnTmtjX0ZPeFZ4WWFaUVdybkl6aEJCRGhjbFhyVmFWaWNxLW4waHFfRV93bzJwT1puckhlMW4yZUJaMDJ3WUFZU3VJajhBTkZ6OUxqRDVTNWVhczNLWDZHTlY0OA?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-08"
       },
       {
@@ -179,10 +179,10 @@ window.NEWS = {
         "data": "2026-09-07"
       },
       {
-        "titulo": "Nestlé investirá R$ 7 bilhões no Brasil até 2028 e prepara nova fábrica em Minas Gerais",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZ0RhcExDdVR5NVRha0ZKMnB2RVpLRlRJV2tVVUhiZExsenUyU3k1MFNxRjFJYlJYMFZHbWlQWEhEVmhVOEdjRFdzSURqWVVDLXVpck9sTlNzaTQ1SjRlb2g5SVpuLVFaYm02QVpnT2RlZDlIbkxtcTNhWERvaEU3NTVKb2NONFdBNDMzSW14ZGk1azhSTExfV1pDRUNyRDBsekllWTEydkhPa1dtN2V4LUlMc3VCRlI3Z2NCc0lUcEhpQQ?oc=5",
-        "fonte": "portalin.com.br",
-        "data": "2026-09-03"
+        "titulo": "Farmacêutica italiana investe R$ 124 milhões para ampliar fábrica no Brasil e chegar ao bilhão",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGNYa01VbFFKaDROTFYwZEloRlkzMzRkUTZIR1RTeFpMZ00xVW5TNE12d3BiREdyQmlCa256OEtCREI1Z2RsRmQ4UHhoZnpxS1ZmUzNERWc3ZHlJYWhsTUhHbEFWYkVKZ0twZktyMXFxOWtSaWt0SWtuaWwwR0ZuZmdqZnFiTWh2ZlozaTZtMFo2R3pidTFEN0J4TTBDZFc1dzBwQ3FOZ1N1TEJ5bXlpOFZmV2NOQkQtXzRVZ09n?oc=5",
+        "fonte": "Exame",
+        "data": "2026-09-06"
       }
     ],
     "logistica": [
@@ -201,7 +201,7 @@ window.NEWS = {
       {
         "titulo": "PNL 2050: plano de R$ 1,225 trilhão mira destravar gargalos que custam ao Brasil até R$ 300 bilhões por ano",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSmN3NlJSOTNDcTFtT3FGbmh4cEJrWnRzeU9NYjl0YTJfb1QyMWE5RFBFM1BGcno2YWMyRWV4aFhibHZaMkhwcktsZFl4Y25Ya0NfYUFOYndraERYRDQzbVY3aDZXUnV2SW80VTFSREpDd1BsRDVjTThJdGExVTlnOUFmT3FLX0FmamNieWVsR2xjdTZKZzUwWFhyal80WXc5ZngzdFBIbi1OOS1wVmtnOXpYdkc2a0RQWHFmYzA0RlZqNU44RXNaV000NjIzR0JlQlN0M3ZUWGt6dDl6QjFoX1d1b3BZWkFYM1JSQ1lSdEJGbG0xRDJpUnEtUQ?oc=5",
-        "fonte": "portogente.com.br",
+        "fonte": "Portogente",
         "data": "2026-09-09"
       }
     ],
@@ -227,12 +227,6 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Especialistas apontam desafios para desenvolver cadeias de minerais críticos — Agência Nacional de Mineração",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYjdsQ01vTjE2c0hzaE1rZVJ5RDZnaFAzU0FwdHdnT1NGejJ6Q29WbVc5TUNIdFpjb0NDbndjY2Y2U2pWTlBwNWlKaXBmdnBvR001WlU5RzNhSFQwQ2dNYXlMcTlRWXlrVklMRUZCSHVVU1RJUlJ2OU8taVdhbnJUaFNNOGZHQ1ZIa1RMUTJxYlljcU1zZFZMZlRiOVowWHNGQ1EtaGlMVUIxTlZqNjN2aWdocUFxSVZONDAwSGJidUQ?oc=5",
-        "fonte": "www.gov.br",
-        "data": "2026-09-03"
-      },
-      {
         "titulo": "Mineradoras elogiam, mas municípios criticam PL de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOYmJKN2lGdGlYYUdPNzdZMHFSclZBR1hmS193VXREMnhUcFhRWTBTWXJNcGdfZlQzNk8zRF9wdHpEc1hVVWNXSGMtY0V4VU1ob3ZtMDlNU1FMMm96WTNHaTh6allwQmQtTWxCemgtTXhmbGxDSEViYW5ZSkZ0TnNib2kyM2h0dHUtRW01NEtlVDBjTXZfa3RDem9IZ3VTUHdKYjFwZGRBZWVydWpnV0hsRmwtc09IMG5rakxPTWctUmtIRVctTE03a1JR?oc=5",
         "fonte": "Agência Brasil",
@@ -241,17 +235,17 @@ window.NEWS = {
       {
         "titulo": "Com política das terras raras, o que falta para Brasil atrair investimentos",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPcnBZWEpWR2gwRFhLbnl4VFVsTHprZm5nbTY1dFlsbnJQZU9WaXd5ZnJLSVo1LTh6VHhhMjRIelZMWlRjOU9GeVozdGFfbWdSVkMxVHpBSUs0ZmdpcjgyRXprLW5mek90aE9JQWNFRWRlZk1HUDFEV1FGbWtaZUx4N2EycXkyZ09XWDEtTGkzMEViam5jS3N5RQ?oc=5",
-        "fonte": "economia.uol.com.br",
+        "fonte": "UOL Economia",
         "data": "2026-09-09"
+      },
+      {
+        "titulo": "Volta por cima do setor de mineração do Brasil enfrenta teste com minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU9CMERvVkVwTDJEemRDbDhYU3BrVllXVDZ2S0RsRTlyLVFjbU1jS2RiRjNrZllmZnRnbW53Q2p1cGNFcFpuc0JDZkJRZnpZT2FmaTBfVmpKVzZPQU5yRFZteUEyYl9mUjVKOGw3YUZZS2lTTThTMll0cXpDTlhhNFZ1UmstYVNHNHV3cFJjVzZKZDVpSTFPU1NYb3FYamp2SXY4Rzh4SURRZHpDbWJZTU5hQ0Q1cWMwMVFXOE5aY2pqLXRCbkHSAdoBQVVfeXFMTXF3bUcyOERyZGR5WGE0b01pU0FuZ1NYYlREQXBLN1Jfa29Bbk9qZTczeHp3Rnh2cV95RzIzSnhnOE9jbEhJdHBGZWItTktFeEFpbFJEUy0zS0RydjdFZVY2RWhOb0hsck5lNk1NYVluZC1YXzZGa1FBZGlWR2J4WUZJQjJJZ2dVSkkteEhvTXVsSGVuc0NjWEw1UFdNUm9WRUZQcGpLTDFhZ2FnSWtxUkpfWHJUd1k5WW5VTlY0TDRpNkNUQm1HeTQyTXQ2RDZSVm1LR2lKZ0hCeXc?oc=5",
+        "fonte": "Bloomberg Línea Brasil",
+        "data": "2026-09-08"
       }
     ],
     "papel-celulose": [
-      {
-        "titulo": "Setor de papel e celulose prevê R$ 105 bilhões em investimentos até 2028",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNmlSa05LTE9fNmdtdE5FMUNfS0p6QjVKMVhTVmY5aGJNdl9GTHRZaHVMNTVPZWpzVjNkaklLM0UxTF9Rc0pxNkwyVFhaalBXVU1wZXN2Wkg1SmRNM0w1amtNeGNfcTZjdnFETmlzR2loZ2JuX3NZaGtHcFNmSmw1TEctVTFkeFdiQXI1UGdRdXhnT2Vpekx3N05DS0dhWXNyblE?oc=5",
-        "fonte": "Tissue Online",
-        "data": "2026-09-03"
-      },
       {
         "titulo": "Arauco inicia instalação de vigas em ponte ferroviária do Projeto Sucuriú em Inocência",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQalR3Q1JKbFJxR3NIWnBlaHV3aGw5ajRMZVlMS3F5SFRKN1NwWlF0VVF0djJRMEVlT2swMzlxam15dVlGT0xPNWdkOEd0dWRzTjg3LUlCdWY5YmhyWkpxVmFzMjRGVDVTcTZubmNGcWI4TG9hdms2a2NRZFZZNW5paW43Vms4elppZXJXeWJkQTd1ZzhNd1VicVplc0JXd0YtZW5zRjRzaUwxa3ZaallTSi1uVi04ZGJCZnU0R0kzbVVsU0Ns?oc=5",
@@ -263,6 +257,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQYXJoOXhPaGliaFlELXd6a18zZGxZU29XOXRGOUJLUmF6ZHVPd3hqb0xVY1YyMTNNZnJPUXp0dHRjUXBaQTFna2lNVzFKUFo0R0R0TkVWZ0VRVk1VY3BrQm5WMHg5SW5LT1ZwNUd1S3lDbm9saFBBNkZubzRlOWkyTFBVWk9NcHZZN3ZPMHRPUDNFcHd1aWZrdF9PYWtkb2ZPSW1WR0ZuS0pQbkZRMkQyUklPc0xnRnlhQUprOHh0NGo0aWtwU1ZpUDhfZmFUaHFQbTRYWmJoNmYza1BkeE1TbTZadW9IbU5OZDZmX3F1cDM3VkRtRmhvNFF5VGFpaENJdTdTakxpS0VES2dnckpvbGJBSTJ2OUFjQ0txR2JCS05MSm9rUTYyaDQxSHo1OUxLY2V4R01zdWhWb0FKLVBxUGpZZ3JtMzA?oc=5",
         "fonte": "CPG Click Petróleo e Gás",
         "data": "2026-09-08"
+      },
+      {
+        "titulo": "Justiça francesa pode salvar fábrica e evitar corte de 270 empregos",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1uZ1JEeDM4WllCRk03VWROS2tjbGdvUWZobkNjaER4TEJ6czVVTFN5LVktbUFjVlBwNFA5S0R5cmVMV09CTFBfcXJFUXZGWFdqa0djSkRmeW1tbVlaeXpzcWstS2MtZFVCZWMyOW85VXRoaXMycllMcmx5bDlndG8?oc=5",
+        "fonte": "politizabrasil.com.br",
+        "data": "2026-09-04"
       }
     ],
     "quimica": [
