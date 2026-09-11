@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-11T17:37:49+00:00",
+  "atualizadoEm": "2026-09-11T20:41:21+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -18,7 +18,7 @@ window.NEWS = {
       {
         "titulo": "Estudo revela quanto o Brasil pode precisar gastar para transformar o agro até 2050",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjVoYUpudGwwQUtJSmRtVnhNMzdWbWd3NWo5cHY4aElvVXgwTG1ZaG1aTU5UOUNoY2FjWFhIV3hJd09EQUVmYzhMZXUwMGY1VmlYMVAxRVJDRm5rUnF6eXlac2NiV0ZLY1d2ZkxXZE96OVczWWVfVEhUMEV5bmJwNlE1WkZRNGZub3FXSmFwd3U1MzZaZlBEVnRUMzdOY3FzTEdhYjZwMjlZbnNiUm1hMGx1bkRqcEZIc0Vj?oc=5",
-        "fonte": "comprerural.com",
+        "fonte": "CompreRural",
         "data": "2026-09-09"
       }
     ],
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "Abimapi e ApexBrasil renovam convênio Amazing Foods Brazil para biênio 2026-2028",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR3NhWTctUEhTN2UyREVBQlRSdDFpZGd6dFI5ZXk4ZlNNVzNIYUpHem1DeEllZmpRZ1VoWTFyM3l1UEYyLU9JWTVSUjQyUWFRTkpnOFVKY1pCNlJaVklsVXJqcm1WSU8yUkNVa2w5N1dyWUVraDhoTTgwQ0RJM0daandVRU0tTnVpLTFRUTc3TWJlemlBMzBmam1pUmg5TVdldVVkbW9taEItSjRsRkhpQllrUEx0cWNId2E0MHdMWE9DRTRUbC1Ic2FDUGJsSGtmeG5WaUV4M3pXSEtCVTNERVlFMF9LcUNRX1E?oc=5",
-        "fonte": "apexbrasil.com.br",
+        "fonte": "Apex Brasil",
         "data": "2026-09-08"
       },
       {
@@ -73,7 +73,7 @@ window.NEWS = {
     "cimento": [
       {
         "titulo": "Valor 1000: Votorantim Cimentos lidera materiais de construção e de acabamento com lucro recorde",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNS2pVclNTQlNtVDg4Uzdoc2hISk16TFhxSkdvVU5TSUFJWE80S3JWNUxtNnA0SUx1WUt6SVg1VFc5S253dDk5c2s5dUhKWjlnLXhhaTh6eDVxcGFoSUxHbzV1a3c1akJKeGp4RnVvRFdPYVZRRUVaQW5CYXYxVzlPTlpqT0FYUjFpTG5iZW9WSnBjeFg5cnNoVGxKUFAwODhiTHRsalJJQUo2cExHaE9HVGdiVkoxRUplVDdlT25LdVVzc3Y1WUhxcldNZlNIbFhYOUdJakN6MDJXYS1qNUVKLUh2dDdqU2JiSXgzdmdRbHlpTS1kWGxWVWZn0gH6AUFVX3lxTE1LalVyU1NCU21UODhTN2hzaEhKTXpMWHFKR29VTlNJQUlYTzRLclY1TG02cDRJTHVZS3pJWDVUVzlLbnd0OTlzazl1SEpaOWcteGFpOHp4NXFwYWhJTEdvNXVrdzVqQkp4anhGdW9EV09hVlFFRVpBbkJhdjFXOU9OWmpPQVhSMWlMbmJlb1ZKcGN4WDlyc2hUbEpQUDA4OGJMdGxqUklBSjZwTEdoT0dUZ2JWSjFFSmVUN2VPbkt1VXNzdjVZSHFyV01mU0hsWFg5R0lqQ3owMldhLWo1RUotSHZ0N2pTYmJJeDN2Z1FseWlNLWRYbFZVZmc?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQVBfaVdxRHAtcWkwZUl3eW91bzVxZnlhWGw5QTU1UGlKWUNieFZMQzhSUWttaHNBcThmNjZrMFpuV0R0c3lHS29MZUJobm91N29OZVc1aFpydm1LQXpXaUc1YTJ1NWE5aHFtNTU5aVZSa2NNOVJRamNtQTcyaDZMRl9uV1BRQWZnQVBaV0czVllfZDktYkJhUEk5dWlmY2pWNWo3dkU5UWVPb0VKSDRPYjBnakQwVUU4VWRDZE1CN214cUs3dFN5bEdEWW10Vkc5dWpwSzhXaVhmOGZwVGxRdTZxTnVxTm9ubUJB0gH6AUFVX3lxTE1LalVyU1NCU21UODhTN2hzaEhKTXpMWHFKR29VTlNJQUlYTzRLclY1TG02cDRJTHVZS3pJWDVUVzlLbnd0OTlzazl1SEpaOWcteGFpOHp4NXFwYWhJTEdvNXVrdzVqQkp4anhGdW9EV09hVlFFRVpBbkJhdjFXOU9OWmpPQVhSMWlMbmJlb1ZKcGN4WDlyc2hUbEpQUDA4OGJMdGxqUklBSjZwTEdoT0dUZ2JWSjFFSmVUN2VPbkt1VXNzdjVZSHFyV01mU0hsWFg5R0lqQ3owMldhLWo1RUotSHZ0N2pTYmJJeDN2Z1FseWlNLWRYbFZVZmc?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-09-09"
       },
@@ -84,17 +84,17 @@ window.NEWS = {
         "data": "2026-09-05"
       },
       {
-        "titulo": "Ariquemes homologa compra de R$ 1 milhão em cimento para secretarias municipais",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOanp1U0dJaU1haExwajE0X2hxMG11eU1NZkNnVjEtanA2MjY0QzZYZGFYRVc4M1VzSk9UbGE2U0hYYTFYdGVoV0psaXgyc3Zpcy1DT3NtLWozNmQzWTRYTlBYVkV5SVd3cnpQcTJmQzE5eDUwNC1GZXducmgxY29GeGwwWDl4Tm1RRmNyeng5a05oazBoWFgyaU5UUVVEWDFqNEhsYVRGRzV0WlJCZ3ZEaHRINFZyMEdNVEN1Y3doTdIBxAFBVV95cUxNZkdrX0xWMkdVQy1Kb3AwN0x6ZUZXcWRaYjg3clVnYkx6SHJWbTFZNUI3amdoaHR6R3gtSmEyQ05jR0N6UTZ2X0NpQm1udDVLb1llY01iQXlVSVBSNFl5ME5oNjNNYmIwYTN6UV9Uem5lc3FMVFg3SEc4OWJSck4zQkUta1gwRGZBTHMteGk5ck1CVVBwUGlvVzd3VGFROGMyM09xRXNFQ0xnWkFNVkgwejRud3dPSjRIa20yWWlCVTUyZjdZ?oc=5",
-        "fonte": "O TEMPO",
-        "data": "2026-09-04"
+        "titulo": "Consulta sobre a elaboração da Lei de Gestão e Desenvolvimento de Materiais de Construção",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDdBM3RjTExTdmFIZGJlczR1a0pZMjhROEFackVHcmlha2NSMk1BRS0tbEVpREd4akgzbFdtTk05RWlvOEFMRHR6NkJHcEVTYWFSdmlWQVF2OV94YVhfWnpmRHd3RlhrUVFpMjhvSUNxZDVJTXNBWTNmYV9JWUxiZVk1QVNXRFZ3NU1jQUFB?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-09-10"
       }
     ],
     "comercio": [
       {
         "titulo": "Entrega XP: As principais notícias que movem o setor do Varejo | Setembro/26",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY19Qek1kVC1pa1NNQmlDOGdKMjUwMmNMcmh2dEd5anpVTHA2OTFoUHVROFRuODdXeXZONUVsXzZtZldZSUpGTWQ3Mk5kdWt3YVlEVlM5RzI2YkZtcFF1ZktwNVpaWDhYbHA0YnFZR0t4VUY5WTZmcUFRbm9BZ1FGYW5kVEM0TUh1QWYxMTRGQzBBRlc4dmtzd1hsR3dSQVhMLVFMV1AxeEpockZXZ01XX1RGSlJHaUJSa0VlNg?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-09-10"
       },
       {
@@ -114,13 +114,13 @@ window.NEWS = {
       {
         "titulo": "ANEEL abre consulta para novo leilão de transmissão; certame terá baterias pela 1ª vez; veja o Radar Energia XP | Setembro",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTV9yS0pfd2FYeXlxM3l0dGVCTC1HQjhMTFpmZW16NWlPN0FfNXZjb2k4QUpqdVc2aGdyQ2g4Vzc2cFpuRDR6RjRmMDBHQ214UjBSUG9rVzJvMVc0TWxiRS1JRG90a0ZjdGJLRU11NDllOTUwVTJkRGhDMmpLR2JQbW1taHFMVUloZmlSMXNkQm5XSjdaY281VDdhel82NVJZako1SWFYUVhrSko1ZzBFb2FHYzlJT3Z5MmZFWWd4eXNuVDN4U1c2eHN5X0Fpd09BQzlPS3hZRGVOOXkwVVU1SHZEOEREeG5BZmgzemZyWW1mdlFVZUY1SQ?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-09-09"
       },
       {
         "titulo": "Primeiro leilão de transmissão para 2027 prevê R$ 12,9 bi de investimentos",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk0yMTdwMXJXc2dkdDFua3lwMk91QUp1cnpSektoOFhQeV9vOGREUVRNQzZfUVlmbDhMQmhyeFJuZDJRSkF2MHF6WXF3dXBrWnVyWUpFdlEyMTY0RGNIVnVqTGVhbVlpOGZqbE92aVl2ZEdXckQxeWs5eVBINHFhTTJHLWl6N0J4c1dRVmFRNUt0cDE4a0daeDk5eXMwc19yQkxQQWg4THh5alhfU0ZJRtIBtgFBVV95cUxNY0twdm5zWWFIb2FVZVF1ZVF2dW82UXc1cjVheEk4TnV3QkJ3ZTNMbkZKRWJXalVYUk5nLU80MXBzY3VtcEVCeWFnMEpMM1p0U0ZjYWNadHRDdDlkQlFFaHNJWS1pcFQ2ZkZqY09sb0p6Wm52VXNxc0tXbmtkOGsxTTItLUQtT21KRlRpaEM1TWpOaGJSblhfMi1JcTB6M3AzQW9QWDZqMUxwVlZTTFJtNG5HdnpnQQ?oc=5",
-        "fonte": "infomoney.com.br",
+        "fonte": "InfoMoney",
         "data": "2026-09-08"
       },
       {
@@ -155,7 +155,7 @@ window.NEWS = {
       {
         "titulo": "R$ 6,4 bilhões de uma farmacêutica dinamarquesa: a cidade do norte de Minas que virou referência em remédios para o Brasil inteiro",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYWsyVDNiczFDSUN6QXdpdVdhZHR4ZVNzMzdmaHZuX1BUa1d0SXdSY0FDQmd5MGJieDdWQ3FXZ0ZyYklpWW02SzBOQ1JTcHdjMlJSem0tVU9JaVp4ek9MOFpsNWJoZDczalBKNk8wQ0tlUXk2WkpYNnhla0MzdndkWFFiNTFqZUdxQVAyZ3BfeFJyVm9CaEdKeFJFZndpbE1KbWRiZGtxaE5UNFN0SUJhNzNOZGNLaHlnaWlBT0VjMG5NaF9zUkh6cDgwYklKMW1VVGt6YWR0QzFoMV9lR1kzUGdUM2RuU3lTZy1UbWpaaHFQaThLaW9CVF93Rlcwb2loaEF6YnZNXzFrNmVzcGlF?oc=5",
-        "fonte": "Canal Rural",
+        "fonte": "canalrural.com.br",
         "data": "2026-09-06"
       },
       {
@@ -240,16 +240,16 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "Volta por cima do setor de mineração do Brasil enfrenta teste com minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU9CMERvVkVwTDJEemRDbDhYU3BrVllXVDZ2S0RsRTlyLVFjbU1jS2RiRjNrZllmZnRnbW53Q2p1cGNFcFpuc0JDZkJRZnpZT2FmaTBfVmpKVzZPQU5yRFZteUEyYl9mUjVKOGw3YUZZS2lTTThTMll0cXpDTlhhNFZ1UmstYVNHNHV3cFJjVzZKZDVpSTFPU1NYb3FYamp2SXY4Rzh4SURRZHpDbWJZTU5hQ0Q1cWMwMVFXOE5aY2pqLXRCbkHSAdoBQVVfeXFMTXF3bUcyOERyZGR5WGE0b01pU0FuZ1NYYlREQXBLN1Jfa29Bbk9qZTczeHp3Rnh2cV95RzIzSnhnOE9jbEhJdHBGZWItTktFeEFpbFJEUy0zS0RydjdFZVY2RWhOb0hsck5lNk1NYVluZC1YXzZGa1FBZGlWR2J4WUZJQjJJZ2dVSkkteEhvTXVsSGVuc0NjWEw1UFdNUm9WRUZQcGpLTDFhZ2FnSWtxUkpfWHJUd1k5WW5VTlY0TDRpNkNUQm1HeTQyTXQ2RDZSVm1LR2lKZ0hCeXc?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
-        "data": "2026-09-08"
-      },
-      {
         "titulo": "Brasil busca aproximar mineração e indústria para agregar valor a minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3FNZ05HX3duRWJrWHJGcWtST3doX0hJdHFLaFFObEFIYkp1LUpmN0JSTlZGSDRyNHNTSVItaUNIa250ZktPRE1GbDVlTk5ZSy13QmU3cEdKZFlqa3VZZXlDeE12YnNqRnRtcVJhTjRDNVBVZjRXa3BRWWpQd2plbnpTWTFJNXc5cE9wdGtmMHU2c2NLZlFRZkRnRlJoTDdYZkUtSFFaMWF0M1RySnJ1TGFn?oc=5",
         "fonte": "Portal BE News",
         "data": "2026-09-05"
+      },
+      {
+        "titulo": "Minerais críticos: proposta prevê incentivos a investimentos em estados e municípios produtores; entenda",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0pDNEhtbHREdmZsejhxSDhmNHpqZmhFcTk0TTExaHhZMzUwcXhxNUZkWGtSclA3dHlRU3VlYmpsV3JER0pkZkttOG9oczA2OEVnMzlyMURDWUZJbWpNZDVPRWZvYWc0dnRpZGo2blU3bjgzVDF4N19mRmRDZlljM1FZY3kzcHRxRjROa3hMS2Q0QmVYTXRlS09MLUZlQVZSQjhSanZfS29PRlRibzhSZ2tpQUNncjZOZy1qaEt4OC1ITXB0bXJzMVJUYmgtZHNYd2Fr0gHYAUFVX3lxTFBBbEpBclhZb2REOTZTVjV6M2JLbm02VUNWQjJtX3UwYmhia0pOeVhaREgxYk5RVjdjLWRBYkYwUUFLYVdWWmpjaWI5aFRKSURyNHp2T2tfZnBlSWVncU0xMUtSVV9hV1MwRnFLQ2F6REt4VW5qSGVVMlhfRHlyTTdlaThsUHpxbkZxcFZUeFdrV3FBM1FMODFXNnM3SW05YVNkdGs1dm1QTlhLWlE1dFd0VXJGWnFKR3dVeWJMRm92cjNXM2NSM3J0cVpUc3l6V3NoQXR4TlJPRA?oc=5",
+        "fonte": "brasil61.com",
+        "data": "2026-09-08"
       }
     ],
     "papel-celulose": [
