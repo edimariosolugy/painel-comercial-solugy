@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-10T22:59:34+00:00",
+  "atualizadoEm": "2026-09-11T00:57:40+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
-        "titulo": "Smurfit Westrock consolida investimento de R$ 1 bilhão no Brasil em dois anos",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORnJCeF9jRnhaMjEzcXA4WkxlY1JXSnhZcnRKcGRqdFc3elkzWFhSYVMwR3JOel9nTzNoSmdhV25ubjVVSmR3Y24tVUhhWVNsVURMSV9LUk1leC1ra0FfQkFpblpvNjJldmM2dVhBNjdIRm1zT2MtM0pQUk1qQjlTTFJZM01tdkItclp0V2xBd0R5TkJqVjV1Z1VpWTNhakU0S3ZaelhmWXEyM0lk?oc=5",
-        "fonte": "Portal Packaging",
-        "data": "2026-09-09"
+        "titulo": "Uberlândia receberá investimento de de R$ 120 milhões e 560 empregos no setor atacadista",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUFZKMjFUSnB5dFZsMHJ1dHZXT0Vvb3ZjMGNNekFYQ0dIVzlQY0o0NUh0bFd4NENIZnluSWV2cGJad1p1WmZmM2lubVpuRDZqVmFZVlFBTmZPYjBOVkhObWhXOW5ILUU3OEI3cjlvVDFIMEc4YU1hVzVnakQtU2pWOUVsUWMxMTk4Tmhoa1lrdEc3dWdyTWVxWVBnSFhoWXBOYzhlNzJkbWlZejZLOFd5Vkg3QkZnTnA4QmlpejE0S05QdDFwVGhIWEROamREOERQcGU1ZFRINnpXbEh5STl5aXVLbUFnZXZzYVFKNzlhMmM2c0VEdG5SddIB-AFBVV95cUxNUFZKMjFUSnB5dFZsMHJ1dHZXT0Vvb3ZjMGNNekFYQ0dIVzlQY0o0NUh0bFd4NENIZnluSWV2cGJad1p1WmZmM2lubVpuRDZqVmFZVlFBTmZPYjBOVkhObWhXOW5ILUU3OEI3cjlvVDFIMEc4YU1hVzVnakQtU2pWOUVsUWMxMTk4Tmhoa1lrdEc3dWdyTWVxWVBnSFhoWXBOYzhlNzJkbWlZejZLOFd5Vkg3QkZnTnA4QmlpejE0S05QdDFwVGhIWEROamREOERQcGU1ZFRINnpXbEh5STl5aXVLbUFnZXZzYVFKNzlhMmM2c0VEdG5SdQ?oc=5",
+        "fonte": "G1",
+        "data": "2026-09-10"
       }
     ],
     "automotivo": [],
@@ -47,7 +47,7 @@ window.NEWS = {
       {
         "titulo": "De cana ou de milho: conheça as usinas flex que ampliam capacidade de produção de etanol com os dois insumos",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaTRTVHNNTnl4c0dPNFNqYTJEdXRlTC1FR1pUVkFWbWtlUF85T29qeF9FcGRTZW9LLWNXSmpEMTFhVW80NGd1NERpZ3p0d1AyR0xvYzhnWEUycUZiOFIzeGtCa3BNUXdQZ3lCRXIzalVLbVlqT0dkT1pRajJtY1lYZ3pKbUd4eW1fMmlZNG9MSTlTeGJKX1J5MlI5NVAxNkU1UTNrWWo3UmRLWmhCQXl0TUV5ZWhIUzJnbGEyMnlIOHNJbkpBcThWSlRFUVJIUQ?oc=5",
-        "fonte": "visaoagro.com.br",
+        "fonte": "Visão Agro",
         "data": "2026-09-09"
       },
       {
@@ -85,12 +85,6 @@ window.NEWS = {
     ],
     "comercio": [
       {
-        "titulo": "Amazon e ID Logistics inauguram centro de distribuição no Paraná",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOeU82TGJVa0l2Mk5yUzFDY2hNNXJRaHVxTXcyQklUQjVteUhuOFFhSE9EREhLNm82eXVOa2RKeTJzUDZFRlUzSGNXclNlSUl0NGZvcnFDdUdxZXJTRGY0dWhIdEdISUNodDVIVmhNb3BqOWExTUg2cTBBeXZ1ZWtkZUxXLXZ2d0o5YzZnb0psTnBKdjllbzN0YUxub0g3aFZncFhLS25B?oc=5",
-        "fonte": "Mundo Logística",
-        "data": "2026-09-04"
-      },
-      {
         "titulo": "IA pode transformar sua loja física no melhor centro de distribuição que você nunca construiu",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkZwa2laZnR4N2lNNmlwRUZjbGFVOU81R0FiMnBBRTJyRFNjbHZQcFlGOVRmdlBvZTNZV2QyYzEyQlhkZXk2OFBlcWdQYy1HNGNmYVQySlJYZU9LOWlhM1hEc3V4angySmFGZ29JbUJoTWUwNmYwaDJ1eEFLZkFDS29PSVV5YkZmME9VR3pNTVlWWGt2eTFWVUlBV21MRnFpcV9KRkRUVkYwR29NelIwMGhGdElCWUJPeGJMcjc1WEhocFhKUVVVejM4OTM1T0xJZGc?oc=5",
         "fonte": "E-Commerce Brasil",
@@ -101,6 +95,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQYjJLVnJySjFnbHkzZzZyMU45bmd3UktTa3psOVJ4VEk4Nl9lbVRMRThqcDFUZlctYmlXZzlJdkxSTE5jWjFDOXJyekdpakRNOXB2bHZEME90c0Z6LThFVDhBZGQzY2Mzbk02Qzc5WXRRN0ItcnUtczN2QkowZVJBaVJEYm9VSlVaUzhrWlg5QVh0U1l0VjFBRXcxY3FwU2JnNnRSald0VFFtMGlIZS1WR1htdDRNMHZsaExxT3FjNENWcnplclRfSm5XMjBEbEEyV1RPN0ItZ3NCSWNUa0tlUmFSM1rSAeQBQVVfeXFMUGIyS1ZyckoxZ2x5M2c2cjFOOW5nd1JLU2t6bDlSeFRJODZfZW1UTEU4anAxVGZXLWJpV2c5SXZMUkxOY1oxQzlycnpHaWpETTlwdmx2RDBPdHNGei04RVQ4QWRkM2NjM25NNkM3OVl0UTdCLXJ1LXMzdkJKMGVSQWlSRGJvVUpVWlM4a1pYOUFYdFNZdFYxQUV3MWNxcFNiZzZ0UmpXdFRRbTBpSGUtVkdYbXQ0TTB2bGhMcU9xYzRDVnJ6ZXJUX0puVzIwRGxBMldUTzdCLWdzQkljVGtLZVJhUjNa?oc=5",
         "fonte": "mercadoeconsumo.com.br",
         "data": "2026-09-07"
+      },
+      {
+        "titulo": "Mercado Livre volta ao mercado de dívida pela 3ª vez. Veja o motivo",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb25ZcUxzck12a1NNY0dlaWVmUTVQWEptUmQ2SEZkR3J0VlBVaE9VRzB3U3M0NGc4S0RVTkFnWHpjSGRHUFZ6RW54MUtpV3NZd3h3NF81SWRWWWtKQjIzLXRfeWpzenZRWkJKRlRodWNoY3ZvbTBmNF9tOVBhcURCcTJ1em1td2l3bG1CVVJieUU4OG5WUlExS0lCYWxVcGZoREIyWdIBqgFBVV95cUxPS1paNlU4TlhYeTU4WWZwOHhXT1JVdGZUekFPcGo0cDk5aWJiRU5RLTNjNkFoQzJqcnhwQzE3eW5qZjJrNUFEX1NEQUdyajBJVkxGdHhUVDVhLS10YlQ1Y2NNLWhZcGs5ekVDRlZYcWV6LWtPaVFEUmlVeGtkMnBDRTdTbWpuTVBpdF9OYmZqcUZwYnhsMXRPSTFkd1ptcHlWaFVjRGhDX1V0Zw?oc=5",
+        "fonte": "InvestNews",
+        "data": "2026-09-09"
       }
     ],
     "energia-gt": [
@@ -111,16 +111,16 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
+        "titulo": "Primeiro leilão de transmissão para 2027 prevê R$ 12,9 bi de investimentos",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk0yMTdwMXJXc2dkdDFua3lwMk91QUp1cnpSektoOFhQeV9vOGREUVRNQzZfUVlmbDhMQmhyeFJuZDJRSkF2MHF6WXF3dXBrWnVyWUpFdlEyMTY0RGNIVnVqTGVhbVlpOGZqbE92aVl2ZEdXckQxeWs5eVBINHFhTTJHLWl6N0J4c1dRVmFRNUt0cDE4a0daeDk5eXMwc19yQkxQQWg4THh5alhfU0ZJRtIBtgFBVV95cUxNY0twdm5zWWFIb2FVZVF1ZVF2dW82UXc1cjVheEk4TnV3QkJ3ZTNMbkZKRWJXalVYUk5nLU80MXBzY3VtcEVCeWFnMEpMM1p0U0ZjYWNadHRDdDlkQlFFaHNJWS1pcFQ2ZkZqY09sb0p6Wm52VXNxc0tXbmtkOGsxTTItLUQtT21KRlRpaEM1TWpOaGJSblhfMi1JcTB6M3AzQW9QWDZqMUxwVlZTTFJtNG5HdnpnQQ?oc=5",
+        "fonte": "InfoMoney",
+        "data": "2026-09-08"
+      },
+      {
         "titulo": "Aneel prevê R$ 12,9 bilhões em investimentos para o leilão de transmissão elétrica de 2027",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2VJazRaRUlNUGpScExtMW9Sc29DajJpNW9sakNlVy1DVWtGUy1CczZidVphVUt3QWF4LWdLR2FBUzRJLXR5NV9LR3M5SzBETjdzbDVHMHA2MFFhTDQ2Y01BVXJsLTR2dWdVbHI5QWNfdm1JUXdxLWs0bGthdTIzNU1LRC1lTzlGajFjbzBXZzVLVU54QmhxRU1NR0tLYnZUNVZRNXFHb1VibzZxQS02RDRuVkFkeEI5OU5PeHhRbw?oc=5",
         "fonte": "Brasil 247",
         "data": "2026-09-08"
-      },
-      {
-        "titulo": "Leilão de baterias vira campo minado para o setor elétrico",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcFdzaDJKYTdmLUFfYjdteF9FMlhjMlpRbHdLNEEzdFM1VFVQekYyUUNBcWpvNE45OFhHa2M4UHJROVhkQUUzVzlxMG5HaS02TFVRWVVQNEQ5TXdVbkxFU0RuekJzRVZWeVhacEZDaldnU2pqNDJ6bVVGakVIQ0xNNDRiT2RWUkJpQjB4U2tHSFNTa1J6R0E?oc=5",
-        "fonte": "NeoFeed",
-        "data": "2026-09-04"
       }
     ],
     "solar": [
@@ -152,15 +152,15 @@ window.NEWS = {
         "data": "2026-09-06"
       },
       {
-        "titulo": "Bayer aposta em remédio não hormonal para menopausa no Brasil, afirma executivo",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTTJHaDhxRWhpaEdyUi1zdjBiMlN0Y2d3TDYzUTlTX1FDSlZ1WlR3SE9UcjliU3RkQUVVZkJKcWtNYndjclgtc1o3cUp1cUFaZVVBbmgtbXJZQ3dNRlFpQjZiU0N4elNjN043ZTRLS3E1TWxTQW5MSjhOOVZydk1tZ0c0TG9YMDhoazQxZ1E0aWM1dHhnTlhSVlFaSmdNZlhqaUVzcFlIakxuVUtiUkUwOUlGcXd5M0FCS3U1Nk16aXRGM3U1Um1iLUR3?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-09-10"
-      },
-      {
         "titulo": "As pautas de diferentes setores da saúde para o próximo governo",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1paOUhlM2NCUHRNVW96N3Z2bEtXOGtKSW9iZk0teWlTYU4zYy1RTXBmbUJidTZtVzVfWUtHcklPRkhWN016MnNYeUZqeUZVamF6ZTlKczVta2c1YlRaa2ZSRmZYU1ZLeWZsYzR0Nk5LQU5YakNfZzlram5XNGZ4eEV6SWZZdnNXWUp4N1NNZw?oc=5",
         "fonte": "Futuro da Saúde",
+        "data": "2026-09-10"
+      },
+      {
+        "titulo": "Bayer aposta em remédio não hormonal para menopausa no Brasil, afirma executivo",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTTJHaDhxRWhpaEdyUi1zdjBiMlN0Y2d3TDYzUTlTX1FDSlZ1WlR3SE9UcjliU3RkQUVVZkJKcWtNYndjclgtc1o3cUp1cUFaZVVBbmgtbXJZQ3dNRlFpQjZiU0N4elNjN043ZTRLS3E1TWxTQW5MSjhOOVZydk1tZ0c0TG9YMDhoazQxZ1E0aWM1dHhnTlhSVlFaSmdNZlhqaUVzcFlIakxuVUtiUkUwOUlGcXd5M0FCS3U1Nk16aXRGM3U1Um1iLUR3?oc=5",
+        "fonte": "Folha de S.Paulo",
         "data": "2026-09-10"
       }
     ],
@@ -181,7 +181,7 @@ window.NEWS = {
       {
         "titulo": "Farmacêutica italiana investe R$ 124 milhões para ampliar fábrica no Brasil e chegar ao bilhão",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVGNYa01VbFFKaDROTFYwZEloRlkzMzRkUTZIR1RTeFpMZ00xVW5TNE12d3BiREdyQmlCa256OEtCREI1Z2RsRmQ4UHhoZnpxS1ZmUzNERWc3ZHlJYWhsTUhHbEFWYkVKZ0twZktyMXFxOWtSaWt0SWtuaWwwR0ZuZmdqZnFiTWh2ZlozaTZtMFo2R3pidTFEN0J4TTBDZFc1dzBwQ3FOZ1N1TEJ5bXlpOFZmV2NOQkQtXzRVZ09n?oc=5",
-        "fonte": "exame.com",
+        "fonte": "Exame",
         "data": "2026-09-06"
       }
     ],
