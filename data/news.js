@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-11T20:41:21+00:00",
+  "atualizadoEm": "2026-09-11T23:04:07+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,15 +10,15 @@ window.NEWS = {
         "data": "2026-09-10"
       },
       {
-        "titulo": "O agronegócio brasileiro em Angola -",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN1V5UGI3bzVxLTBMWGFPcWIzTjV3M2lCcVR5WjFpYzB1bzhBZ2dndjVNQXlsSXpYZHptQWp5MXUzWk50VE1FMmNpTFU1MHlWb3EyQ09DdjdOa3duYTI1NXUwQ1NJay1EMzYzaE5wWlhGSGc?oc=5",
-        "fonte": "aterraeredonda.com.br",
-        "data": "2026-09-09"
+        "titulo": "Agro na B3: entenda a tese de investimento de empresas de insumos e terras SOJA3, AGRO3, TTEN3",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVxR19mRWRGdWZwRnBXUTB0LUsyZlJVSk9VTTJtYjFLRElkZzNDSXlGbHVSQzZwbTNCQ1M4a2ZWcHdROTM2c3otTC14UmdnOG5LaWxlRlNVMkNlRE5WV0QwQnEtRzdLSVlVQzdsYjJhOUthVW9ZTVBhLUh2d29TRUJHWjNIWUNOVnF3?oc=5",
+        "fonte": "ADVFN",
+        "data": "2026-09-11"
       },
       {
-        "titulo": "Estudo revela quanto o Brasil pode precisar gastar para transformar o agro até 2050",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjVoYUpudGwwQUtJSmRtVnhNMzdWbWd3NWo5cHY4aElvVXgwTG1ZaG1aTU5UOUNoY2FjWFhIV3hJd09EQUVmYzhMZXUwMGY1VmlYMVAxRVJDRm5rUnF6eXlac2NiV0ZLY1d2ZkxXZE96OVczWWVfVEhUMEV5bmJwNlE1WkZRNGZub3FXSmFwd3U1MzZaZlBEVnRUMzdOY3FzTEdhYjZwMjlZbnNiUm1hMGx1bkRqcEZIc0Vj?oc=5",
-        "fonte": "CompreRural",
+        "titulo": "O agronegócio brasileiro em Angola -",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN1V5UGI3bzVxLTBMWGFPcWIzTjV3M2lCcVR5WjFpYzB1bzhBZ2dndjVNQXlsSXpYZHptQWp5MXUzWk50VE1FMmNpTFU1MHlWb3EyQ09DdjdOa3duYTI1NXUwQ1NJay1EMzYzaE5wWlhGSGc?oc=5",
+        "fonte": "A Terra e Redonda",
         "data": "2026-09-09"
       }
     ],
@@ -118,15 +118,15 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
+        "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEllWEp2VWEwXzFxOFczYXRJdmVLek5jRDNqQzUtQzNBY3NQUzg0akVQNUZ6VzRYMGdOSmFfVS1USlBoblQzZzQyTzBvRG95VFdwdXBGOWItYlByd0FHNXBwdzJuZkdUMlppRXR5NGRlclhTTXRBeHZMV2IzblVDSWpjd050OWNmX2pBbl9xQ2N2YTI4WkUtbTNza0M0Q3B6emVKaExOckhpS29XdWpxT1NyYl8xOC1pNWI3Z3AzUzFWem5YZzRZTko0cGxfYTR4OV9OdlJFdklfTFNK?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-09-10"
+      },
+      {
         "titulo": "Primeiro leilão de transmissão para 2027 prevê R$ 12,9 bi de investimentos",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk0yMTdwMXJXc2dkdDFua3lwMk91QUp1cnpSektoOFhQeV9vOGREUVRNQzZfUVlmbDhMQmhyeFJuZDJRSkF2MHF6WXF3dXBrWnVyWUpFdlEyMTY0RGNIVnVqTGVhbVlpOGZqbE92aVl2ZEdXckQxeWs5eVBINHFhTTJHLWl6N0J4c1dRVmFRNUt0cDE4a0daeDk5eXMwc19yQkxQQWg4THh5alhfU0ZJRtIBtgFBVV95cUxNY0twdm5zWWFIb2FVZVF1ZVF2dW82UXc1cjVheEk4TnV3QkJ3ZTNMbkZKRWJXalVYUk5nLU80MXBzY3VtcEVCeWFnMEpMM1p0U0ZjYWNadHRDdDlkQlFFaHNJWS1pcFQ2ZkZqY09sb0p6Wm52VXNxc0tXbmtkOGsxTTItLUQtT21KRlRpaEM1TWpOaGJSblhfMi1JcTB6M3AzQW9QWDZqMUxwVlZTTFJtNG5HdnpnQQ?oc=5",
         "fonte": "InfoMoney",
-        "data": "2026-09-08"
-      },
-      {
-        "titulo": "Aneel prevê R$ 12,9 bilhões em investimentos para o leilão de transmissão elétrica de 2027",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa2VJazRaRUlNUGpScExtMW9Sc29DajJpNW9sakNlVy1DVWtGUy1CczZidVphVUt3QWF4LWdLR2FBUzRJLXR5NV9LR3M5SzBETjdzbDVHMHA2MFFhTDQ2Y01BVXJsLTR2dWdVbHI5QWNfdm1JUXdxLWs0bGthdTIzNU1LRC1lTzlGajFjbzBXZzVLVU54QmhxRU1NR0tLYnZUNVZRNXFHb1VibzZxQS02RDRuVkFkeEI5OU5PeHhRbw?oc=5",
-        "fonte": "Brasil 247",
         "data": "2026-09-08"
       }
     ],
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Entrevista: BLUETTI amplia portfólio de armazenamento de energia no Brasil com soluções para C&I, aplicações residenciais e RVs",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXFMQXpMc0ZyZU82Qmc5aV8zRXh5Q09RXzdTZ3RvM21WVW9iYTJPYktUVFVCNUtlVHBrZXFqbklPbVlDcWtsaVlnT1JHM1RfU1RuRlZJT0RVdEpZaUpaM21xZEdIc01lZGlrVkEyUlRoYWt5ZmtwSi11c0p4c0w1d2FsdUZmWnYzejliNkI5bXZqSE9wMVdjc0xmbUVPRU1BazQ2bUJBYjNyMXhUSlRzeXB2S1RweU5qNUdZTUZNbXgyYU1vSjE3bl9sM1hTYW8xaVRtVTJUaHg2ZDhaNWRlb200V0FLZw?oc=5",
-        "fonte": "Canal Solar",
+        "fonte": "canalsolar.com.br",
         "data": "2026-09-09"
       }
     ],
@@ -155,7 +155,7 @@ window.NEWS = {
       {
         "titulo": "R$ 6,4 bilhões de uma farmacêutica dinamarquesa: a cidade do norte de Minas que virou referência em remédios para o Brasil inteiro",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYWsyVDNiczFDSUN6QXdpdVdhZHR4ZVNzMzdmaHZuX1BUa1d0SXdSY0FDQmd5MGJieDdWQ3FXZ0ZyYklpWW02SzBOQ1JTcHdjMlJSem0tVU9JaVp4ek9MOFpsNWJoZDczalBKNk8wQ0tlUXk2WkpYNnhla0MzdndkWFFiNTFqZUdxQVAyZ3BfeFJyVm9CaEdKeFJFZndpbE1KbWRiZGtxaE5UNFN0SUJhNzNOZGNLaHlnaWlBT0VjMG5NaF9zUkh6cDgwYklKMW1VVGt6YWR0QzFoMV9lR1kzUGdUM2RuU3lTZy1UbWpaaHFQaThLaW9CVF93Rlcwb2loaEF6YnZNXzFrNmVzcGlF?oc=5",
-        "fonte": "canalrural.com.br",
+        "fonte": "Canal Rural",
         "data": "2026-09-06"
       },
       {
@@ -186,10 +186,10 @@ window.NEWS = {
         "data": "2026-09-06"
       },
       {
-        "titulo": "Enquanto empresas fecham, celulose investe mais de R$ 70 bilhões em MS - Perfil News",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1jNVljSlJwT1BKeTMxXzRNQ0w5a182SWkyZHJjU3hXcXA3UmVVTTVyZDMxOTJmT3NoV3o4WFFzY1VGZTBDUzJLbGZnS25tcmxBREFmQ3UxVWMtN0lTWTUwYUZYVDl0ZEQ4a0hieFk1THkwUVIzNE1CVGIzRlJ2ZThzbkx2NXIzWE5IRElPS1hYN0JMTUROTjhZSXhZQ2p6SXpjaldLTkZYTy0wZ3pZ0gG0AUFVX3lxTE9LWWhncFBrSjdpRHhzQ1padGthR2Jud0hoQUcwTEx3eWJybnk4dk42YlRncG1ZTDE4OXJhbjIwUWJvUGt5VUp4cmd4WU5na1lUb0xpSEZWS05OYU15RVh6SXppSGphcTFadHJEX0p3MzZ2VUZnUjlvTkZKRkVteFB4OUptdXhySTlQb2s1VTlKOHFsZG13eWN5QnBTcnJxNnhmOHJWWTF6QUN1UTgzbkV2U0daNw?oc=5",
-        "fonte": "Perfil News",
-        "data": "2026-09-08"
+        "titulo": "Investimento na indústria extrativa cresce 1.366% em 27 anos, 15 vezes mais que na de transformação, aponta FGV",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTdQaUpFVTdfX2ljSkR2SHNIUC1jbVZncGkyUWxyQlkzb0hweFp6Y1k5aHhUVXh1MmJGNV82NXlfbVozMEExVEpDS1R6N0hlMU44blJLRVg0bEk4V2VnOVlPOXVGR1hwS19ZalhJWlJ5T2lfNTlfaU43ekEweDBYNGdRV1lWMU9CclFTdg?oc=5",
+        "fonte": "Agora RN",
+        "data": "2026-09-11"
       }
     ],
     "logistica": [
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "PNL 2050: plano de R$ 1,225 trilhão mira destravar gargalos que custam ao Brasil até R$ 300 bilhões por ano",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSmN3NlJSOTNDcTFtT3FGbmh4cEJrWnRzeU9NYjl0YTJfb1QyMWE5RFBFM1BGcno2YWMyRWV4aFhibHZaMkhwcktsZFl4Y25Ya0NfYUFOYndraERYRDQzbVY3aDZXUnV2SW80VTFSREpDd1BsRDVjTThJdGExVTlnOUFmT3FLX0FmamNieWVsR2xjdTZKZzUwWFhyal80WXc5ZngzdFBIbi1OOS1wVmtnOXpYdkc2a0RQWHFmYzA0RlZqNU44RXNaV000NjIzR0JlQlN0M3ZUWGt6dDl6QjFoX1d1b3BZWkFYM1JSQ1lSdEJGbG0xRDJpUnEtUQ?oc=5",
-        "fonte": "Portogente",
+        "fonte": "portogente.com.br",
         "data": "2026-09-09"
       }
     ],
@@ -220,16 +220,16 @@ window.NEWS = {
         "data": "2026-09-10"
       },
       {
-        "titulo": "Desenvolve SP financia modernização de máquinas",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnd6M0RSOGEzc2VickxJMDdpc0lPcVhSNElaMWJpQk14clNHbVF4TmVfTEJmU05tSG9Pcm13SFZHVGRCZktzZldZQUNJcVZ6VXhTVmQ1clZkdFRUUUd6S2ZKeXk4ZExjODU5OW5YS1g1VU5zNU1uS0VfZmF4emJDRWxDandFaEJPemNBUk9PMVFxQQ?oc=5",
-        "fonte": "guairanews.com",
-        "data": "2026-09-09"
+        "titulo": "Investimento na indústria extrativa cresce 1.366% em 27 anos, 15 vezes mais que na de transformação, aponta FGV",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTdQaUpFVTdfX2ljSkR2SHNIUC1jbVZncGkyUWxyQlkzb0hweFp6Y1k5aHhUVXh1MmJGNV82NXlfbVozMEExVEpDS1R6N0hlMU44blJLRVg0bEk4V2VnOVlPOXVGR1hwS19ZalhJWlJ5T2lfNTlfaU43ekEweDBYNGdRV1lWMU9CclFTdg?oc=5",
+        "fonte": "Agora RN",
+        "data": "2026-09-11"
       },
       {
-        "titulo": "'Enxurrada de investimento': indústria projeta R$ 1,5 tri para data centers",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVAyb2hjeDZFZm5DTV9WWjdZc2tkRVpvdEFYWGpRX3N6NEdsSEU4OWFxNHBfWGhlbFBEaHZ3NElPWWthVG9Vb2FwWlFvNWlmS0VsdWljUHNzQ0NvQnNzV0FGM1NKNjVZcF9fR2NGcVVSaTRrdUtGejJVRmh3RjBqZ3ljRXEyYUJBdWdHT25KUk5IcEI2R1ZSczduTHVDYmtkS1NDOUJYSmItM0tfYjBhN2ZBS1loaHBvRHd2RGNLRDVtVG1IMllqeUNGU2g1SzFoV0wxRzVReEU?oc=5",
-        "fonte": "UOL",
-        "data": "2026-09-07"
+        "titulo": "Brasil e Itália ampliam negócios em 4 setores com o Acordo Mercosul-União Europeia",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPeG9wRG5GUGtJSXFhN05KWUNLeXJoZHhRdUJUc0YyZllWRHFCTzVCOGljR1pVUmo3OHNJUTNDa3hZSGI1dDNpVFJkU1FrM0c3ZEU5MUxPaFI5QnNjNnV1MUhWQ1dHREgzcDhpVG9MbWMxblgxYjk4bVNyM0s0V3pGNThkZjFfNFR0aVV5elNQc2tyVVdYTHk1RU0tVkVpeHRQWFpWRXRmUGozQ0lmanRRamYxQzkwNy16dDZOOHd1eUpUWGhHQVpWMzNWUjZ4aWNfUGFCelZzaV93ZWpNUGEycld3?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
+        "data": "2026-09-11"
       }
     ],
     "mineracao": [
@@ -248,7 +248,7 @@ window.NEWS = {
       {
         "titulo": "Minerais críticos: proposta prevê incentivos a investimentos em estados e municípios produtores; entenda",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQb0pDNEhtbHREdmZsejhxSDhmNHpqZmhFcTk0TTExaHhZMzUwcXhxNUZkWGtSclA3dHlRU3VlYmpsV3JER0pkZkttOG9oczA2OEVnMzlyMURDWUZJbWpNZDVPRWZvYWc0dnRpZGo2blU3bjgzVDF4N19mRmRDZlljM1FZY3kzcHRxRjROa3hMS2Q0QmVYTXRlS09MLUZlQVZSQjhSanZfS29PRlRibzhSZ2tpQUNncjZOZy1qaEt4OC1ITXB0bXJzMVJUYmgtZHNYd2Fr0gHYAUFVX3lxTFBBbEpBclhZb2REOTZTVjV6M2JLbm02VUNWQjJtX3UwYmhia0pOeVhaREgxYk5RVjdjLWRBYkYwUUFLYVdWWmpjaWI5aFRKSURyNHp2T2tfZnBlSWVncU0xMUtSVV9hV1MwRnFLQ2F6REt4VW5qSGVVMlhfRHlyTTdlaThsUHpxbkZxcFZUeFdrV3FBM1FMODFXNnM3SW05YVNkdGs1dm1QTlhLWlE1dFd0VXJGWnFKR3dVeWJMRm92cjNXM2NSM3J0cVpUc3l6V3NoQXR4TlJPRA?oc=5",
-        "fonte": "brasil61.com",
+        "fonte": "Brasil 61",
         "data": "2026-09-08"
       }
     ],
