@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-11T13:24:28+00:00",
+  "atualizadoEm": "2026-09-11T17:37:49+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -12,7 +12,7 @@ window.NEWS = {
       {
         "titulo": "O agronegócio brasileiro em Angola -",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN1V5UGI3bzVxLTBMWGFPcWIzTjV3M2lCcVR5WjFpYzB1bzhBZ2dndjVNQXlsSXpYZHptQWp5MXUzWk50VE1FMmNpTFU1MHlWb3EyQ09DdjdOa3duYTI1NXUwQ1NJay1EMzYzaE5wWlhGSGc?oc=5",
-        "fonte": "A Terra e Redonda",
+        "fonte": "aterraeredonda.com.br",
         "data": "2026-09-09"
       },
       {
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "Abimapi e ApexBrasil renovam convênio Amazing Foods Brazil para biênio 2026-2028",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR3NhWTctUEhTN2UyREVBQlRSdDFpZGd6dFI5ZXk4ZlNNVzNIYUpHem1DeEllZmpRZ1VoWTFyM3l1UEYyLU9JWTVSUjQyUWFRTkpnOFVKY1pCNlJaVklsVXJqcm1WSU8yUkNVa2w5N1dyWUVraDhoTTgwQ0RJM0daandVRU0tTnVpLTFRUTc3TWJlemlBMzBmam1pUmg5TVdldVVkbW9taEItSjRsRkhpQllrUEx0cWNId2E0MHdMWE9DRTRUbC1Ic2FDUGJsSGtmeG5WaUV4M3pXSEtCVTNERVlFMF9LcUNRX1E?oc=5",
-        "fonte": "Apex Brasil",
+        "fonte": "apexbrasil.com.br",
         "data": "2026-09-08"
       },
       {
@@ -42,7 +42,14 @@ window.NEWS = {
         "data": "2026-09-09"
       }
     ],
-    "automotivo": [],
+    "automotivo": [
+      {
+        "titulo": "Motorcraft ganha novo logo com oval azul da Ford e absorve linha Omnicraft",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZEgxSElnQ2k5S2FpTm5mRnN3ZkJyMkI2aTNWXzhLalZhLUhGcE8xQ2VuT0EtZWNZU3JSYU9mWHB0SllCc0lqSGh2Vi1OTGRmU09YZ2ZPcWpCWnZldHV0NTdkTlZRcmhKTFEtZVpicHZ1bW5iTl9laXl3WDFEZ21EbW1KVkVOYWYzcDZESmY0bktEaVFOMWJTMFc1Z0JPaWx6Y2g1TkNWRGNjTzB1M2tXYXBIOA?oc=5",
+        "fonte": "Mecânica Online",
+        "data": "2026-09-11"
+      }
+    ],
     "bioenergia": [
       {
         "titulo": "De cana ou de milho: conheça as usinas flex que ampliam capacidade de produção de etanol com os dois insumos",
@@ -113,7 +120,7 @@ window.NEWS = {
       {
         "titulo": "Primeiro leilão de transmissão para 2027 prevê R$ 12,9 bi de investimentos",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk0yMTdwMXJXc2dkdDFua3lwMk91QUp1cnpSektoOFhQeV9vOGREUVRNQzZfUVlmbDhMQmhyeFJuZDJRSkF2MHF6WXF3dXBrWnVyWUpFdlEyMTY0RGNIVnVqTGVhbVlpOGZqbE92aVl2ZEdXckQxeWs5eVBINHFhTTJHLWl6N0J4c1dRVmFRNUt0cDE4a0daeDk5eXMwc19yQkxQQWg4THh5alhfU0ZJRtIBtgFBVV95cUxNY0twdm5zWWFIb2FVZVF1ZVF2dW82UXc1cjVheEk4TnV3QkJ3ZTNMbkZKRWJXalVYUk5nLU80MXBzY3VtcEVCeWFnMEpMM1p0U0ZjYWNadHRDdDlkQlFFaHNJWS1pcFQ2ZkZqY09sb0p6Wm52VXNxc0tXbmtkOGsxTTItLUQtT21KRlRpaEM1TWpOaGJSblhfMi1JcTB6M3AzQW9QWDZqMUxwVlZTTFJtNG5HdnpnQQ?oc=5",
-        "fonte": "InfoMoney",
+        "fonte": "infomoney.com.br",
         "data": "2026-09-08"
       },
       {
@@ -169,7 +176,7 @@ window.NEWS = {
       {
         "titulo": "'Enxurrada de investimento': indústria projeta R$ 1,5 tri para data centers",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVAyb2hjeDZFZm5DTV9WWjdZc2tkRVpvdEFYWGpRX3N6NEdsSEU4OWFxNHBfWGhlbFBEaHZ3NElPWWthVG9Vb2FwWlFvNWlmS0VsdWljUHNzQ0NvQnNzV0FGM1NKNjVZcF9fR2NGcVVSaTRrdUtGejJVRmh3RjBqZ3ljRXEyYUJBdWdHT25KUk5IcEI2R1ZSczduTHVDYmtkS1NDOUJYSmItM0tfYjBhN2ZBS1loaHBvRHd2RGNLRDVtVG1IMllqeUNGU2g1SzFoV0wxRzVReEU?oc=5",
-        "fonte": "uol.com.br",
+        "fonte": "UOL",
         "data": "2026-09-07"
       },
       {
@@ -189,13 +196,13 @@ window.NEWS = {
       {
         "titulo": "Transporte aquaviário passa de 2% para 25% dos investimentos em logística",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjltYkVCMVFrLWhNVjZTLUxDLTdTdFlDb2JhLU03Nk9wbkg4NUxQQTUxdzlfNjhaeDFZYzNScnFnQVFZNXNEZ05WakVmRWloTEptLXhWZGdPLVBjekx6UE4xNklfem5ma1FHUDZrUHRyd2tocHVhRFB0YWRhNy1lRlRiZkVUdGMybDBBVEJaWXhKZjFDakVOYmhMT1EteE5OZEU0ZzJiaDZYdFdTcmxUaThYVUQyclU?oc=5",
-        "fonte": "transportemoderno.com.br",
+        "fonte": "Transporte Moderno",
         "data": "2026-09-09"
       },
       {
         "titulo": "Depois de 20 anos e R$ 11 bilhões, Transnordestina avança e atrai novos negócios para o Sertão",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbXJKOTlabmU5cmRRQS0yWnFqd3V1SDBmLTMwZURxcFJkdlY0Z2FsejZLdDNmSWw3R2QyblRXZDJMaHAwNWFvZW10SlNYWjN6ems1NlpXMmJrZW5iQloyTkV1QWRNdVVQYzNKN1R4RFh4SzdpNzFWR2Jab3pma1Q5ZTdrUlplZTZrcDRwLTcyb0tYX09aZDZyZm5OTXFYZjJhX0gwVjFJbVluMmMxZnZrY3hMSWFKOFJpSnBQUGdoWXNOUFE?oc=5",
-        "fonte": "neofeed.com.br",
+        "fonte": "NeoFeed",
         "data": "2026-09-08"
       },
       {
@@ -213,24 +220,24 @@ window.NEWS = {
         "data": "2026-09-10"
       },
       {
-        "titulo": "'Enxurrada de investimento': indústria projeta R$ 1,5 tri para data centers",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVAyb2hjeDZFZm5DTV9WWjdZc2tkRVpvdEFYWGpRX3N6NEdsSEU4OWFxNHBfWGhlbFBEaHZ3NElPWWthVG9Vb2FwWlFvNWlmS0VsdWljUHNzQ0NvQnNzV0FGM1NKNjVZcF9fR2NGcVVSaTRrdUtGejJVRmh3RjBqZ3ljRXEyYUJBdWdHT25KUk5IcEI2R1ZSczduTHVDYmtkS1NDOUJYSmItM0tfYjBhN2ZBS1loaHBvRHd2RGNLRDVtVG1IMllqeUNGU2g1SzFoV0wxRzVReEU?oc=5",
-        "fonte": "uol.com.br",
-        "data": "2026-09-07"
-      },
-      {
         "titulo": "Desenvolve SP financia modernização de máquinas",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUnd6M0RSOGEzc2VickxJMDdpc0lPcVhSNElaMWJpQk14clNHbVF4TmVfTEJmU05tSG9Pcm13SFZHVGRCZktzZldZQUNJcVZ6VXhTVmQ1clZkdFRUUUd6S2ZKeXk4ZExjODU5OW5YS1g1VU5zNU1uS0VfZmF4emJDRWxDandFaEJPemNBUk9PMVFxQQ?oc=5",
         "fonte": "guairanews.com",
         "data": "2026-09-09"
+      },
+      {
+        "titulo": "'Enxurrada de investimento': indústria projeta R$ 1,5 tri para data centers",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVAyb2hjeDZFZm5DTV9WWjdZc2tkRVpvdEFYWGpRX3N6NEdsSEU4OWFxNHBfWGhlbFBEaHZ3NElPWWthVG9Vb2FwWlFvNWlmS0VsdWljUHNzQ0NvQnNzV0FGM1NKNjVZcF9fR2NGcVVSaTRrdUtGejJVRmh3RjBqZ3ljRXEyYUJBdWdHT25KUk5IcEI2R1ZSczduTHVDYmtkS1NDOUJYSmItM0tfYjBhN2ZBS1loaHBvRHd2RGNLRDVtVG1IMllqeUNGU2g1SzFoV0wxRzVReEU?oc=5",
+        "fonte": "UOL",
+        "data": "2026-09-07"
       }
     ],
     "mineracao": [
       {
         "titulo": "Terras raras: por que o Brasil está no centro da disputa global por minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDNfMDJzOUhETzViS1JBcUZFY2RsZ0VEcWlFQURhUXQxRmpxeVVXY0cyT3BTdm14YjlFR3J3ck9Wa1JKMWxGRlNZeXZ4OG1LcjB1WnNzOWZ2aDBfdmNKcEgtcUhWODR4enlnMVFOUWJ3LThnaHc4TnBOMWtkYUU0QVJFNHQxUzJOSDA3S0hGRkhHX0dRRTFoVGR2NGFrNThUN3BZemdBNkNZWC1ZTzVXeHp5bG5LY21NYlBF?oc=5",
-        "fonte": "The Conversation",
-        "data": "2026-09-09"
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQY2dmTWxjYnJtVk5Wb0t2ZnJ6bnFKSmpWRGpjLWhDUWhlUFFXSkdDTWVTZTd6V1VDWmwyUXJiZ1BoYlRCdjNLR18tdEZGc3hRYnZ5eE5QMkItMGRFSEFYZXJQMzhtdFBiRklmRC1pMU5NZ1lfSWJtSjJpTTRsZ080eV9ubEFqNkxQTGZVVlM5Vk1RUDFoUElwY19JZUN1MTJCcmVQWHVWVXI3eGZLcnFUT0w5T0NmeFBKZmtHUlBuYW44ZHh6ZWhtdlJia0tMMG9oNE8yUUh2c0IxMkJx?oc=5",
+        "fonte": "G1",
+        "data": "2026-09-11"
       },
       {
         "titulo": "Volta por cima do setor de mineração do Brasil enfrenta teste com minerais críticos",
