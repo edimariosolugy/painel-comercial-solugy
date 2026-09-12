@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-12T12:43:51+00:00",
+  "atualizadoEm": "2026-09-12T16:05:31+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,9 +16,9 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "O agronegócio brasileiro em Angola -",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN1V5UGI3bzVxLTBMWGFPcWIzTjV3M2lCcVR5WjFpYzB1bzhBZ2dndjVNQXlsSXpYZHptQWp5MXUzWk50VE1FMmNpTFU1MHlWb3EyQ09DdjdOa3duYTI1NXUwQ1NJay1EMzYzaE5wWlhGSGc?oc=5",
-        "fonte": "A Terra e Redonda",
+        "titulo": "Daniel Vilela promete investimentos para o setor agropecuário em visita a produtores",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQc0UyYWNrQmFiMnFmR3NFd1BTOV8xajBxaHZUS2owVGF1MmhDcW1iVTFSZXowcUhBMVVuNFpBM0JmWTBiOGVfTTFGWWZBNXdlOEN1bnJHcEwwdVB5SFpxZ1E2enVBcUdYR2RMcjRQaHRwbXhodkk0ZmdfbEhPVks3aVpfOFhaaTBrQU0xeWJrNGxCcTk1TEtsYTBDYUJHamNoaFJXNFd4OWE4U0ZRc1JWZnlQbThaTFJqNVVRSUE1bXl4cThZaldGRi1zTjFmaGF1WkFQSTBYOEZTbmVFeVc3R3NhbXEzcjlr0gH3AUFVX3lxTE9STXlfT1VnY0ZMWUFOdnplYUctRmxIZ3BTbjhNSUpmU3NLWmxxaXlkSlVSQ1NVYmZpd2RXVWV4ZG04SFFVWTlVaURkZjc4V0c4cXQ5RHIyYmJkU0NpSi1iZFp6X0cteHdCcWt5OEota014NnpzWlhGZVJvWkNPLVhBVTZLa2F3N2c5RXZma2FicVJ2bWRJY2p6bVJ5TTF4REZ0b1hXY0Fsel9hemRYc1BiYkZnMklzbjExaDI1cWtudHU1ekZFbF9OZkF3c1dPT0N1bVhydjZXaE5jU2dJaVIxTHNOMVJ5cGtqVHBQU2xUSllkYVk0bjQ?oc=5",
+        "fonte": "G1",
         "data": "2026-09-09"
       }
     ],
@@ -60,7 +60,7 @@ window.NEWS = {
       {
         "titulo": "Primeira usina de etanol de trigo do País entra em operação em Santiago - Notícias - Santo Ângelo",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUmlQaEt6V2tuc01tdHJUZGdLNDdCQi1CR3ZiQ1hka3UyeHlFNHE3UDdzNERBREp0ZXdWVFg4QmZicnpFTUpjaDNSNEFDS1hDdGtaNTctWlA2Tk4wdUhCcllCd1hHZ2xPbmRBOEF0eXZLZXlqWUlFMnpfZ2tRSXlSd2JmVFdLTmpXTXF6NmNPMG0yS1dRMUl4d3NpU1liVXl2UHcyNDRuMEU3T1ZXamwtaXpQeGpOTnFOVjBQSXZ0UnhyVXFvM1FrbGx0NA?oc=5",
-        "fonte": "portaldasmissoes.com.br",
+        "fonte": "Portal das Missoes",
         "data": "2026-09-07"
       },
       {
@@ -78,16 +78,16 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
-        "titulo": "VIBRACOM investe em tecnologia e instala uma das mais avançadas vibroprensas do mundo",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZUs3LVFITXdfeVhuR2xlRHFSVnR5ZXF1SHNlLVl6cUJtbFBuYU01UUM0ejA2V2xpTVBGUzlWUGdES0ZOY0p1cXVXOG5mSkxGbVJjS19PTmNPN05qcVppa0pKbm0tLUVJcVRITHJxWUFBVEplcndJaEo1UkdvRDFJUW9ic09SdFgtUWpSYVZBWEU3Y2ZjMnN3Q2pVNWJOMFdHTDFMMmV6SEZ4aXQ0WXQzcmlSdGQtZ9IBtgFBVV95cUxPWW5TMzZKZG1JMnRiRGdKV1JlZVV2dVM2TzlWVC1MczNzX1NWUHluZnB4ZTdvWVItbEIweGFJYmVoWWlfLUZfbWFrdldCcWZCUjc0Mm1kRDlraWRibExlNC1saVFuNmI0MTlTSnhSYnVJUDFRTnYxSnEzWVhNMEJiM21KZUM2ZDE2eWREZndZcWRYMzdkTE9ya3ZFYnZ5bHBsdEZoZGdqdWNxMm5RNURra1FaSTRvUQ?oc=5",
-        "fonte": "Agência Cidades",
-        "data": "2026-09-05"
-      },
-      {
         "titulo": "Consulta sobre a elaboração da Lei de Gestão e Desenvolvimento de Materiais de Construção",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDdBM3RjTExTdmFIZGJlczR1a0pZMjhROEFackVHcmlha2NSMk1BRS0tbEVpREd4akgzbFdtTk05RWlvOEFMRHR6NkJHcEVTYWFSdmlWQVF2OV94YVhfWnpmRHd3RlhrUVFpMjhvSUNxZDVJTXNBWTNmYV9JWUxiZVk1QVNXRFZ3NU1jQUFB?oc=5",
         "fonte": "Vietnam.vn",
         "data": "2026-09-10"
+      },
+      {
+        "titulo": "Mais de 300 normas adicionais de custos de construção serão emitidas até o final de 2026.",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWxvSEJTUjE3c0d2akxCMWdIcjc3bDlxUFNIVFZfOTYzdVZHWF85ek1kOXoxRGFtczFBMUZVZnlOTjlwajU2YXI4eFR6VnRUNm91UDhzQXd6NlpCZkF5QlVTaUhkSUhRNkNpS0dQd2RtUk9EcHd1OTY4WmJtTXNiMGhUb3h5dlBDTFFj?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-09-11"
       }
     ],
     "comercio": [
@@ -100,7 +100,7 @@ window.NEWS = {
       {
         "titulo": "IA pode transformar sua loja física no melhor centro de distribuição que você nunca construiu",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkZwa2laZnR4N2lNNmlwRUZjbGFVOU81R0FiMnBBRTJyRFNjbHZQcFlGOVRmdlBvZTNZV2QyYzEyQlhkZXk2OFBlcWdQYy1HNGNmYVQySlJYZU9LOWlhM1hEc3V4angySmFGZ29JbUJoTWUwNmYwaDJ1eEFLZkFDS29PSVV5YkZmME9VR3pNTVlWWGt2eTFWVUlBV21MRnFpcV9KRkRUVkYwR29NelIwMGhGdElCWUJPeGJMcjc1WEhocFhKUVVVejM4OTM1T0xJZGc?oc=5",
-        "fonte": "E-Commerce Brasil",
+        "fonte": "ecommercebrasil.com.br",
         "data": "2026-09-08"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Primeiro leilão de transmissão para 2027 prevê R$ 12,9 bi de investimentos",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk0yMTdwMXJXc2dkdDFua3lwMk91QUp1cnpSektoOFhQeV9vOGREUVRNQzZfUVlmbDhMQmhyeFJuZDJRSkF2MHF6WXF3dXBrWnVyWUpFdlEyMTY0RGNIVnVqTGVhbVlpOGZqbE92aVl2ZEdXckQxeWs5eVBINHFhTTJHLWl6N0J4c1dRVmFRNUt0cDE4a0daeDk5eXMwc19yQkxQQWg4THh5alhfU0ZJRtIBtgFBVV95cUxNY0twdm5zWWFIb2FVZVF1ZVF2dW82UXc1cjVheEk4TnV3QkJ3ZTNMbkZKRWJXalVYUk5nLU80MXBzY3VtcEVCeWFnMEpMM1p0U0ZjYWNadHRDdDlkQlFFaHNJWS1pcFQ2ZkZqY09sb0p6Wm52VXNxc0tXbmtkOGsxTTItLUQtT21KRlRpaEM1TWpOaGJSblhfMi1JcTB6M3AzQW9QWDZqMUxwVlZTTFJtNG5HdnpnQQ?oc=5",
-        "fonte": "infomoney.com.br",
+        "fonte": "InfoMoney",
         "data": "2026-09-08"
       }
     ],
