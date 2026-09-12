@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-12T22:00:22+00:00",
+  "atualizadoEm": "2026-09-12T23:57:15+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Como ingredientes abriram disputa na indústria de alimentos",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbFFmNFZ2dS1zRU1YaUVXaV9IUXRTT1N1MWN4aXFlWUpfSkV3Vm4zZG5zWFdxMEo1eHZsOWxLdVk2T1lmQjZ4Q1YwRTBlOTBtYnM1a2hFOEFmMGVQZTBEd0hsZWRIaEpudXlpMzB4REczQkxSUmlNUGVKMUpKaVZWREZoRzhHZ9IBhgFBVV95cUxPbFFmNFZ2dS1zRU1YaUVXaV9IUXRTT1N1MWN4aXFlWUpfSkV3Vm4zZG5zWFdxMEo1eHZsOWxLdVk2T1lmQjZ4Q1YwRTBlOTBtYnM1a2hFOEFmMGVQZTBEd0hsZWRIaEpudXlpMzB4REczQkxSUmlNUGVKMUpKaVZWREZoRzhHZw?oc=5",
-        "fonte": "InvestNews",
+        "fonte": "investnews.com.br",
         "data": "2026-09-11"
       },
       {
@@ -60,14 +60,14 @@ window.NEWS = {
       {
         "titulo": "Primeira usina de etanol de trigo do País entra em operação em Santiago - Notícias - Santo Ângelo",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUmlQaEt6V2tuc01tdHJUZGdLNDdCQi1CR3ZiQ1hka3UyeHlFNHE3UDdzNERBREp0ZXdWVFg4QmZicnpFTUpjaDNSNEFDS1hDdGtaNTctWlA2Tk4wdUhCcllCd1hHZ2xPbmRBOEF0eXZLZXlqWUlFMnpfZ2tRSXlSd2JmVFdLTmpXTXF6NmNPMG0yS1dRMUl4d3NpU1liVXl2UHcyNDRuMEU3T1ZXamwtaXpQeGpOTnFOVjBQSXZ0UnhyVXFvM1FrbGx0NA?oc=5",
-        "fonte": "portaldasmissoes.com.br",
+        "fonte": "Portal das Missoes",
         "data": "2026-09-07"
       },
       {
-        "titulo": "Inpasa se destaca como líder em bionergia no ranking Valor 1000",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSm1nY1JWLVJ1UzEzdk9zcVNBVHY4WDJKajV6UGVJeFlvcEpFOTdyX3Nwa3cwQVJQaGJncHUxelRqS0RfYVhDcnVNUFoyOVUxWkpfZGd4eE11NEdGZ3RiMFBkcmNxM29Kb2xXMkYwTWNabDJlMVVzV3hFcXFhaHctSUthVWI3SEhXUlNkb0ZLLTdyMGpUR0F4VmRB?oc=5",
-        "fonte": "JornalCana",
-        "data": "2026-09-09"
+        "titulo": "Consumo de etanol dispara na França com preços altos da gasolina",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdkdYOUROUXhHcmNNaXl4c0Z2U2NkaS16VmNwclp0REFxT0RPRjcya21qTVA2dno3QnBkMEhkLUpybm5pNWREcnhfN1ppN2JYcHg1R1VtLUZ1M0ZWX2QtcU9Mb3BvX1h0d1FGOHNxRHBBdl9mU2FqdGJZMlBoVHl1SmtRN25tMUV6ckdtMDBsRDVMTzJnQ2hKemdMZC10VF9fa0wyMg?oc=5",
+        "fonte": "jornalcana.com.br",
+        "data": "2026-09-10"
       }
     ],
     "cimento": [
@@ -155,7 +155,7 @@ window.NEWS = {
       {
         "titulo": "R$ 6,4 bilhões de uma farmacêutica dinamarquesa: a cidade do norte de Minas que virou referência em remédios para o Brasil inteiro",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPYWsyVDNiczFDSUN6QXdpdVdhZHR4ZVNzMzdmaHZuX1BUa1d0SXdSY0FDQmd5MGJieDdWQ3FXZ0ZyYklpWW02SzBOQ1JTcHdjMlJSem0tVU9JaVp4ek9MOFpsNWJoZDczalBKNk8wQ0tlUXk2WkpYNnhla0MzdndkWFFiNTFqZUdxQVAyZ3BfeFJyVm9CaEdKeFJFZndpbE1KbWRiZGtxaE5UNFN0SUJhNzNOZGNLaHlnaWlBT0VjMG5NaF9zUkh6cDgwYklKMW1VVGt6YWR0QzFoMV9lR1kzUGdUM2RuU3lTZy1UbWpaaHFQaThLaW9CVF93Rlcwb2loaEF6YnZNXzFrNmVzcGlF?oc=5",
-        "fonte": "canalrural.com.br",
+        "fonte": "Canal Rural",
         "data": "2026-09-06"
       },
       {
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovia Minas-Rio vai a leilão em dezembro e pode mudar logística de cargas em Minas",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcGhGT280ekpUZ0Y4NmxwOF9aUTdmWFdaR0Vlb0lTQXV4QVVLVFBDZlJZZVRNRktoZnFCNVVvVWUzdmFpSHcwMWNXcXEyM29oWlN2N1dNZUJIS09STkJYZ0Rod2hoOUgwam9WUw?oc=5",
-        "fonte": "diariodocomercio.com.br",
+        "fonte": "Diário do Comércio",
         "data": "2026-09-09"
       }
     ],
@@ -276,7 +276,7 @@ window.NEWS = {
       {
         "titulo": "SAUER COMPRESSORS VÊ ESPAÇO PARA CRESCIMENTO NO BRASIL E PLANEJA DUPLICAR SUA CAPACIDADE NO PAÍS",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYXRVWDhNSXpneHd3RDR4bHBvZ082cW5xb0xoR2xodEM3V0JUSXE4RFRYZGwxZmwzc3dXSzhIQXBFcmp5WWlrY05HOGdpcER0RGU3M3FPMmo4b2kxdWxGUjZRcnR1bTZfWTg5dEwybkxyVi1SWnRjNkE5Zlg2YXhrSlRrR2tNQmdEVEJXU2VfakpfOURnSURPNjkxdVBTRUFyNngtMHJfQUJxaFNrYkNhQ1RkOXE2bXNwa3c?oc=5",
-        "fonte": "Petronotícias",
+        "fonte": "petronoticias.com.br",
         "data": "2026-09-08"
       },
       {
@@ -302,7 +302,7 @@ window.NEWS = {
       {
         "titulo": "Prefeitura de Andradas assina contrato de concessão do saneamento no município",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdEZjYkZtSFc3bXg2MWZVdTkyTE1CWHNjUmc3dDZQTEFXMGJEeFlPNmNhbUlmb0l4YUF0cTBwUzBvb2VRX3MwZERHZ05UR1ZqNEJIbHpnb1B6VnVRRnRYRjA5ZHRUNkg2Umc4eTNEbnlpN1ZGaFVwWTZaT01ONzg1eFZVa0duNHdiUHJjeTJJTjFOck1LUWxHRG5ScDh1bWR0Z0E?oc=5",
-        "fonte": "pocoscom.com",
+        "fonte": "PocosCom",
         "data": "2026-09-09"
       }
     ],
