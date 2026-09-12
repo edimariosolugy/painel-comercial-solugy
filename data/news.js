@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-12T16:05:31+00:00",
+  "atualizadoEm": "2026-09-12T19:02:03+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "Inpasa se destaca como líder em bionergia no ranking Valor 1000",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSm1nY1JWLVJ1UzEzdk9zcVNBVHY4WDJKajV6UGVJeFlvcEpFOTdyX3Nwa3cwQVJQaGJncHUxelRqS0RfYVhDcnVNUFoyOVUxWkpfZGd4eE11NEdGZ3RiMFBkcmNxM29Kb2xXMkYwTWNabDJlMVVzV3hFcXFhaHctSUthVWI3SEhXUlNkb0ZLLTdyMGpUR0F4VmRB?oc=5",
-        "fonte": "JornalCana",
+        "fonte": "jornalcana.com.br",
         "data": "2026-09-09"
       }
     ],
@@ -74,7 +74,7 @@ window.NEWS = {
       {
         "titulo": "Valor 1000: Votorantim Cimentos lidera materiais de construção e de acabamento com lucro recorde",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQVBfaVdxRHAtcWkwZUl3eW91bzVxZnlhWGw5QTU1UGlKWUNieFZMQzhSUWttaHNBcThmNjZrMFpuV0R0c3lHS29MZUJobm91N29OZVc1aFpydm1LQXpXaUc1YTJ1NWE5aHFtNTU5aVZSa2NNOVJRamNtQTcyaDZMRl9uV1BRQWZnQVBaV0czVllfZDktYkJhUEk5dWlmY2pWNWo3dkU5UWVPb0VKSDRPYjBnakQwVUU4VWRDZE1CN214cUs3dFN5bEdEWW10Vkc5dWpwSzhXaVhmOGZwVGxRdTZxTnVxTm9ubUJB0gH6AUFVX3lxTE1LalVyU1NCU21UODhTN2hzaEhKTXpMWHFKR29VTlNJQUlYTzRLclY1TG02cDRJTHVZS3pJWDVUVzlLbnd0OTlzazl1SEpaOWcteGFpOHp4NXFwYWhJTEdvNXVrdzVqQkp4anhGdW9EV09hVlFFRVpBbkJhdjFXOU9OWmpPQVhSMWlMbmJlb1ZKcGN4WDlyc2hUbEpQUDA4OGJMdGxqUklBSjZwTEdoT0dUZ2JWSjFFSmVUN2VPbkt1VXNzdjVZSHFyV01mU0hsWFg5R0lqQ3owMldhLWo1RUotSHZ0N2pTYmJJeDN2Z1FseWlNLWRYbFZVZmc?oc=5",
-        "fonte": "Valor Econômico",
+        "fonte": "valor.globo.com",
         "data": "2026-09-09"
       },
       {
@@ -100,7 +100,7 @@ window.NEWS = {
       {
         "titulo": "IA pode transformar sua loja física no melhor centro de distribuição que você nunca construiu",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkZwa2laZnR4N2lNNmlwRUZjbGFVOU81R0FiMnBBRTJyRFNjbHZQcFlGOVRmdlBvZTNZV2QyYzEyQlhkZXk2OFBlcWdQYy1HNGNmYVQySlJYZU9LOWlhM1hEc3V4angySmFGZ29JbUJoTWUwNmYwaDJ1eEFLZkFDS29PSVV5YkZmME9VR3pNTVlWWGt2eTFWVUlBV21MRnFpcV9KRkRUVkYwR29NelIwMGhGdElCWUJPeGJMcjc1WEhocFhKUVVVejM4OTM1T0xJZGc?oc=5",
-        "fonte": "ecommercebrasil.com.br",
+        "fonte": "E-Commerce Brasil",
         "data": "2026-09-08"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Primeiro leilão de transmissão para 2027 prevê R$ 12,9 bi de investimentos",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk0yMTdwMXJXc2dkdDFua3lwMk91QUp1cnpSektoOFhQeV9vOGREUVRNQzZfUVlmbDhMQmhyeFJuZDJRSkF2MHF6WXF3dXBrWnVyWUpFdlEyMTY0RGNIVnVqTGVhbVlpOGZqbE92aVl2ZEdXckQxeWs5eVBINHFhTTJHLWl6N0J4c1dRVmFRNUt0cDE4a0daeDk5eXMwc19yQkxQQWg4THh5alhfU0ZJRtIBtgFBVV95cUxNY0twdm5zWWFIb2FVZVF1ZVF2dW82UXc1cjVheEk4TnV3QkJ3ZTNMbkZKRWJXalVYUk5nLU80MXBzY3VtcEVCeWFnMEpMM1p0U0ZjYWNadHRDdDlkQlFFaHNJWS1pcFQ2ZkZqY09sb0p6Wm52VXNxc0tXbmtkOGsxTTItLUQtT21KRlRpaEM1TWpOaGJSblhfMi1JcTB6M3AzQW9QWDZqMUxwVlZTTFJtNG5HdnpnQQ?oc=5",
-        "fonte": "InfoMoney",
+        "fonte": "infomoney.com.br",
         "data": "2026-09-08"
       }
     ],
@@ -134,7 +134,7 @@ window.NEWS = {
       {
         "titulo": "Energia demais, demanda de menos: setor põe freio à corrida das renováveis",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEtiWXFucWp2UERmajNBeTlRUERqQ0h1UFlEQm5KdlBCS2FpTEVzdUV0RC04WmRDd3VLNG51RF9Pa2JYUWNNbGMyVEg2MlpLNEVrZUZKWTJ1SE9SRzRQWngzNE1UMmczc1VUX3hzdDlnTmtjX0ZPeFZ4WWFaUVdybkl6aEJCRGhjbFhyVmFWaWNxLW4waHFfRV93bzJwT1puckhlMW4yZUJaMDJ3WUFZU3VJajhBTkZ6OUxqRDVTNWVhczNLWDZHTlY0OA?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-08"
       },
       {
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Transição energética: oportunidade para o Brasil",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcG5pZjczSG1fUG9kdV9lRGFHeHZqNEZ3TlhyblNXbktSQnNWdFd1Z2o1ZmJ4MXhLeHh5RlcwNm5OYXdaWHd5WFlscVlsOVZZNXBPS2ZfNDBBM0F6RzBuX09UTzczVkk0bk1BUFNINWYwOFpKZlNNVE4tX1lfMWJnM3d0Yk9XTy11S2s0ZDI4LTIzQjQ3blhZTNIBpwFBVV95cUxNcmJBSmhjTzR6Q1dETm14cEYtRTZNZDRBX0xsNGs3dER6R2ZQWmx0amRuSjNDR29TMUQ2NHpmM2cyUk9ybXRnZlBiR3p5RGg1WkZMU3d2bmFxcFM5QkliN05oQWIzekRNdWw1enlhM3lQT2NtaVo3Uk1ibWg0RmJqdmcxam9IN29PaWVvQ0RTcHFTbnpRcVZYTGdpUVpxdTBBNnQydjVQZw?oc=5",
-        "fonte": "Valor Econômico",
+        "fonte": "valor.globo.com",
         "data": "2026-09-09"
       }
     ],
@@ -188,7 +188,7 @@ window.NEWS = {
       {
         "titulo": "Investimento na indústria extrativa cresce 1.366% em 27 anos, 15 vezes mais que na de transformação, aponta FGV",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTdQaUpFVTdfX2ljSkR2SHNIUC1jbVZncGkyUWxyQlkzb0hweFp6Y1k5aHhUVXh1MmJGNV82NXlfbVozMEExVEpDS1R6N0hlMU44blJLRVg0bEk4V2VnOVlPOXVGR1hwS19ZalhJWlJ5T2lfNTlfaU43ekEweDBYNGdRV1lWMU9CclFTdg?oc=5",
-        "fonte": "Agora RN",
+        "fonte": "agorarn.com.br",
         "data": "2026-09-11"
       }
     ],
@@ -206,9 +206,9 @@ window.NEWS = {
         "data": "2026-09-08"
       },
       {
-        "titulo": "PNL 2050: plano de R$ 1,225 trilhão mira destravar gargalos que custam ao Brasil até R$ 300 bilhões por ano",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSmN3NlJSOTNDcTFtT3FGbmh4cEJrWnRzeU9NYjl0YTJfb1QyMWE5RFBFM1BGcno2YWMyRWV4aFhibHZaMkhwcktsZFl4Y25Ya0NfYUFOYndraERYRDQzbVY3aDZXUnV2SW80VTFSREpDd1BsRDVjTThJdGExVTlnOUFmT3FLX0FmamNieWVsR2xjdTZKZzUwWFhyal80WXc5ZngzdFBIbi1OOS1wVmtnOXpYdkc2a0RQWHFmYzA0RlZqNU44RXNaV000NjIzR0JlQlN0M3ZUWGt6dDl6QjFoX1d1b3BZWkFYM1JSQ1lSdEJGbG0xRDJpUnEtUQ?oc=5",
-        "fonte": "Portogente",
+        "titulo": "Ferrovia Minas-Rio vai a leilão em dezembro e pode mudar logística de cargas em Minas",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcGhGT280ekpUZ0Y4NmxwOF9aUTdmWFdaR0Vlb0lTQXV4QVVLVFBDZlJZZVRNRktoZnFCNVVvVWUzdmFpSHcwMWNXcXEyM29oWlN2N1dNZUJIS09STkJYZ0Rod2hoOUgwam9WUw?oc=5",
+        "fonte": "Diário do Comércio",
         "data": "2026-09-09"
       }
     ],
@@ -216,13 +216,13 @@ window.NEWS = {
       {
         "titulo": "Investimento avança mais depressa na indústria extrativa",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOHB5Z0RpNF83M0U1MlVGUmJ1VUlEZFpFMjBOOTZ4cUdjOHVoNHNHUnBSaXpXVHZXam0xZFZlQU11X3hOTnp2d1BrTFlQb0hYRHhmRGU1b0F6T1R2ZkZDSTA0TUFDTFg0V3c0NFZ1Vm5TWkdNWjdtZXdFRVY0MWUzc2lZUk5lcDBFSk56N3l5ckZSUmYtQzZ5dFpJQkxKb3lJSDRmdEo2Zmxuc0UwVDM2RDNR0gHAAUFVX3lxTE1ha1BtQ0FmVjdHdzNmbHRSTGU1V09WNmpmOUlpRllBVlJtZk81dlA0WXI2NUo4N3ltc2U4bkJjWEp1QnBIa28wbkR5YldLa1hJUmNwRk9jTFhBNDNjWmFaTkhqWUhjbTdPYk9vYURZTmtIQndCR0MyLXRENVozcmprTnFXS2FnU3VCbkJ3WjdfUzhpak83LUpybEwxQ09VdTB6NTZZckE4ZmNjbERaWlZCQkx3cGdvX3kzYVRYajFmUw?oc=5",
-        "fonte": "Valor Econômico",
+        "fonte": "valor.globo.com",
         "data": "2026-09-10"
       },
       {
         "titulo": "Investimento na indústria extrativa cresce 1.366% em 27 anos, 15 vezes mais que na de transformação, aponta FGV",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTdQaUpFVTdfX2ljSkR2SHNIUC1jbVZncGkyUWxyQlkzb0hweFp6Y1k5aHhUVXh1MmJGNV82NXlfbVozMEExVEpDS1R6N0hlMU44blJLRVg0bEk4V2VnOVlPOXVGR1hwS19ZalhJWlJ5T2lfNTlfaU43ekEweDBYNGdRV1lWMU9CclFTdg?oc=5",
-        "fonte": "Agora RN",
+        "fonte": "agorarn.com.br",
         "data": "2026-09-11"
       },
       {
@@ -304,7 +304,7 @@ window.NEWS = {
       {
         "titulo": "Valor 1000: Gerdau amplia aposta nos EUA e se destaca em metalurgia e siderurgia",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMDBZRlVrRGYxckZmdW5naTdOMlpIMDFBLXJUMzhTLVlpVkJvSWRnS2tmaTlQZWdJX3Bubm1KR1p5aHNrVC1QbHhPVzdEQktOdFRjXy1tNDVHLTRNSEkxbHN0REVyQkl3anpTQjFkUE9ILVNubXMwMzlucnpxVnI4N3F5Q0MzUnNWSmUyd0wtUEtHczI3NzdvMnBoYVRaM1FSV0NveEczNWFNYmJlOGtrUlBLSkdxRzRMeEROWjhvenJUanNuYVBfQWM4akRhd29SMWR0Wk5B0gHkAUFVX3lxTE9Va2FxWDFiTlJjZDJxcDc0SmpIcHQ2ZUFzd19DUmk4cWFvckpMbGJ0Zy1RTGtQZnZPamI5RzFZS2RTd1VJSFRkZHZKTWUtUzZLckh4NWp0c2dsMEhSM3Bfdnl3c0RpZXY5Z1V4Um5mcGFMQ0dFODVSdXpzYVZzTWpDaXJIbWw2ZHVHQm1yMkMwWERaa2hySFlqVUFGNUdfdzAtV2x6cDNYMTByTXdXYWtuRnRQeC1oVVdLT0lVZ2s0MW9vcXd6Sk5YemRPQ3JQV0V3U3c2N0ZkU3FQd293MnJ1cnd5WQ?oc=5",
-        "fonte": "Valor Econômico",
+        "fonte": "valor.globo.com",
         "data": "2026-09-09"
       }
     ],
