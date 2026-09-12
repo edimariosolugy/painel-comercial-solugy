@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-11T23:04:07+00:00",
+  "atualizadoEm": "2026-09-12T12:43:51+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,9 +10,9 @@ window.NEWS = {
         "data": "2026-09-10"
       },
       {
-        "titulo": "Agro na B3: entenda a tese de investimento de empresas de insumos e terras SOJA3, AGRO3, TTEN3",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVxR19mRWRGdWZwRnBXUTB0LUsyZlJVSk9VTTJtYjFLRElkZzNDSXlGbHVSQzZwbTNCQ1M4a2ZWcHdROTM2c3otTC14UmdnOG5LaWxlRlNVMkNlRE5WV0QwQnEtRzdLSVlVQzdsYjJhOUthVW9ZTVBhLUh2d29TRUJHWjNIWUNOVnF3?oc=5",
-        "fonte": "ADVFN",
+        "titulo": "Agronegócio acelera adoção de inteligência artificial e supera a média de investimentos corporativos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUjJRa1NPaHM5Q2p1Tm9Gd1VxejdLcXozY2NUQTU1WFF6Z2tQbEx2cmNLRGp2cDRYUnVwM04yWkl3bVI0aldyRlYxbmdYODA5SmRRRXFrMnRSLV94U1EwZzVDeEl1cGhWWVRjRDU0c0xvT2xJakdqcjFkMEFLMzY2cUdkS1NtelQ3X2thRnNkcVRKcjJlMW5BR3E3bmZYV3JqQWNHZVVQWjRzUzMxMHhuOWdPbTlYeDlqaXM3VkhCTmtPN1lYNWNqZGQ3dzFPQ2VXbm5aQm4xS3U?oc=5",
+        "fonte": "Brasil Inovador",
         "data": "2026-09-11"
       },
       {
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "Abimapi e ApexBrasil renovam convênio Amazing Foods Brazil para biênio 2026-2028",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOR3NhWTctUEhTN2UyREVBQlRSdDFpZGd6dFI5ZXk4ZlNNVzNIYUpHem1DeEllZmpRZ1VoWTFyM3l1UEYyLU9JWTVSUjQyUWFRTkpnOFVKY1pCNlJaVklsVXJqcm1WSU8yUkNVa2w5N1dyWUVraDhoTTgwQ0RJM0daandVRU0tTnVpLTFRUTc3TWJlemlBMzBmam1pUmg5TVdldVVkbW9taEItSjRsRkhpQllrUEx0cWNId2E0MHdMWE9DRTRUbC1Ic2FDUGJsSGtmeG5WaUV4M3pXSEtCVTNERVlFMF9LcUNRX1E?oc=5",
-        "fonte": "Apex Brasil",
-        "data": "2026-09-08"
-      },
-      {
         "titulo": "Uberlândia recebe investimento de R$ 120 milhões de grupo atacadista mineiro",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTZSQlJzOWdkTEIzZnl1ZTdPZHR0WndKQnBCQ3l1bHlFSUwtd3Z2Z1lHVnZIcDRGOFNNc3htNnNmUGN6Z0ktYzNlNjZVQWxqQXRMNzhoV2VZcjVabkZyeVZoMkRqMzVVdG5ZMjFIYkJlQnhJdzZMcmtJWHZwMnc5LVFUQmZuNFphZ0FFWnpoS2oxaHduYVA5UjRNTUtNdmYwQXd6MmU5eldTNS0ycllYaTUtc3U1c01WY0NNVg?oc=5",
         "fonte": "uberlandia.mg.gov.br",
         "data": "2026-09-09"
+      },
+      {
+        "titulo": "“Unicórnio” chileno NotCo vende operação no Brasil e acelera metamorfose para empresa de IA",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU9zV2I3ZlpNYlA3MDN2Q0JHWVpWbWFMaVBjX2tVMG1Kd2ZBQ2FBUVJSQ01DT3BZcVlJYkVKeWNPaHBkYWJhVUo3RnFERG9KMUt6V1F5T3lQUmc4UHYyTXJ4dnNCWjlIc2NZYnN6cEo0R3RjQmozbFpXV2I5NGZuSWEzRlhLQk83bDU1TjdsVHl2OHRpaW9WQ2J5enVXVi1oYmFzd1Q2N2c0dXhLVHRzOUM0SEVPdHlUVjFZ?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-09-11"
       }
     ],
     "automotivo": [
@@ -60,7 +60,7 @@ window.NEWS = {
       {
         "titulo": "Primeira usina de etanol de trigo do País entra em operação em Santiago - Notícias - Santo Ângelo",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNUmlQaEt6V2tuc01tdHJUZGdLNDdCQi1CR3ZiQ1hka3UyeHlFNHE3UDdzNERBREp0ZXdWVFg4QmZicnpFTUpjaDNSNEFDS1hDdGtaNTctWlA2Tk4wdUhCcllCd1hHZ2xPbmRBOEF0eXZLZXlqWUlFMnpfZ2tRSXlSd2JmVFdLTmpXTXF6NmNPMG0yS1dRMUl4d3NpU1liVXl2UHcyNDRuMEU3T1ZXamwtaXpQeGpOTnFOVjBQSXZ0UnhyVXFvM1FrbGx0NA?oc=5",
-        "fonte": "Portal das Missoes",
+        "fonte": "portaldasmissoes.com.br",
         "data": "2026-09-07"
       },
       {
@@ -104,10 +104,10 @@ window.NEWS = {
         "data": "2026-09-08"
       },
       {
-        "titulo": "Mercado Livre volta ao mercado de dívida pela 3ª vez. Veja o motivo",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb25ZcUxzck12a1NNY0dlaWVmUTVQWEptUmQ2SEZkR3J0VlBVaE9VRzB3U3M0NGc4S0RVTkFnWHpjSGRHUFZ6RW54MUtpV3NZd3h3NF81SWRWWWtKQjIzLXRfeWpzenZRWkJKRlRodWNoY3ZvbTBmNF9tOVBhcURCcTJ1em1td2l3bG1CVVJieUU4OG5WUlExS0lCYWxVcGZoREIyWdIBqgFBVV95cUxPS1paNlU4TlhYeTU4WWZwOHhXT1JVdGZUekFPcGo0cDk5aWJiRU5RLTNjNkFoQzJqcnhwQzE3eW5qZjJrNUFEX1NEQUdyajBJVkxGdHhUVDVhLS10YlQ1Y2NNLWhZcGs5ekVDRlZYcWV6LWtPaVFEUmlVeGtkMnBDRTdTbWpuTVBpdF9OYmZqcUZwYnhsMXRPSTFkd1ptcHlWaFVjRGhDX1V0Zw?oc=5",
-        "fonte": "InvestNews",
-        "data": "2026-09-09"
+        "titulo": "ODD Limppano inicia novo ciclo com foco em eficiência e varejo",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeF9PUFFNcEFHYkt6bThOZm4zYVpBaGg0SGRBdUZ5c3BCNlVqYU9pd0JKWUpOb28zUVNOaUdRMzdnMFM1R3dlSWxiRzNPZDN1ZURlUmpOYUNqbG5FV0lnLUs0ZlFhMTlwdndSMlpqOVZfc1RYblNZNlY0MmYzUW4wOXRqUmc4VE02aUZLZXpCaWtYcUFEbVpnU2pOdUk2bFJVVlE?oc=5",
+        "fonte": "SuperVarejo",
+        "data": "2026-09-11"
       }
     ],
     "energia-gt": [
@@ -120,13 +120,13 @@ window.NEWS = {
       {
         "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEllWEp2VWEwXzFxOFczYXRJdmVLek5jRDNqQzUtQzNBY3NQUzg0akVQNUZ6VzRYMGdOSmFfVS1USlBoblQzZzQyTzBvRG95VFdwdXBGOWItYlByd0FHNXBwdzJuZkdUMlppRXR5NGRlclhTTXRBeHZMV2IzblVDSWpjd050OWNmX2pBbl9xQ2N2YTI4WkUtbTNza0M0Q3B6emVKaExOckhpS29XdWpxT1NyYl8xOC1pNWI3Z3AzUzFWem5YZzRZTko0cGxfYTR4OV9OdlJFdklfTFNK?oc=5",
-        "fonte": "GOV.BR",
+        "fonte": "www.gov.br",
         "data": "2026-09-10"
       },
       {
         "titulo": "Primeiro leilão de transmissão para 2027 prevê R$ 12,9 bi de investimentos",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk0yMTdwMXJXc2dkdDFua3lwMk91QUp1cnpSektoOFhQeV9vOGREUVRNQzZfUVlmbDhMQmhyeFJuZDJRSkF2MHF6WXF3dXBrWnVyWUpFdlEyMTY0RGNIVnVqTGVhbVlpOGZqbE92aVl2ZEdXckQxeWs5eVBINHFhTTJHLWl6N0J4c1dRVmFRNUt0cDE4a0daeDk5eXMwc19yQkxQQWg4THh5alhfU0ZJRtIBtgFBVV95cUxNY0twdm5zWWFIb2FVZVF1ZVF2dW82UXc1cjVheEk4TnV3QkJ3ZTNMbkZKRWJXalVYUk5nLU80MXBzY3VtcEVCeWFnMEpMM1p0U0ZjYWNadHRDdDlkQlFFaHNJWS1pcFQ2ZkZqY09sb0p6Wm52VXNxc0tXbmtkOGsxTTItLUQtT21KRlRpaEM1TWpOaGJSblhfMi1JcTB6M3AzQW9QWDZqMUxwVlZTTFJtNG5HdnpnQQ?oc=5",
-        "fonte": "InfoMoney",
+        "fonte": "infomoney.com.br",
         "data": "2026-09-08"
       }
     ],
@@ -134,19 +134,19 @@ window.NEWS = {
       {
         "titulo": "Energia demais, demanda de menos: setor põe freio à corrida das renováveis",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSEtiWXFucWp2UERmajNBeTlRUERqQ0h1UFlEQm5KdlBCS2FpTEVzdUV0RC04WmRDd3VLNG51RF9Pa2JYUWNNbGMyVEg2MlpLNEVrZUZKWTJ1SE9SRzRQWngzNE1UMmczc1VUX3hzdDlnTmtjX0ZPeFZ4WWFaUVdybkl6aEJCRGhjbFhyVmFWaWNxLW4waHFfRV93bzJwT1puckhlMW4yZUJaMDJ3WUFZU3VJajhBTkZ6OUxqRDVTNWVhczNLWDZHTlY0OA?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-08"
-      },
-      {
-        "titulo": "Transição energética: oportunidade para o Brasil",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcmJBSmhjTzR6Q1dETm14cEYtRTZNZDRBX0xsNGs3dER6R2ZQWmx0amRuSjNDR29TMUQ2NHpmM2cyUk9ybXRnZlBiR3p5RGg1WkZMU3d2bmFxcFM5QkliN05oQWIzekRNdWw1enlhM3lQT2NtaVo3Uk1ibWg0RmJqdmcxam9IN29PaWVvQ0RTcHFTbnpRcVZYTGdpUVpxdTBBNnQydjVQZ9IBpwFBVV95cUxNcmJBSmhjTzR6Q1dETm14cEYtRTZNZDRBX0xsNGs3dER6R2ZQWmx0amRuSjNDR29TMUQ2NHpmM2cyUk9ybXRnZlBiR3p5RGg1WkZMU3d2bmFxcFM5QkliN05oQWIzekRNdWw1enlhM3lQT2NtaVo3Uk1ibWg0RmJqdmcxam9IN29PaWVvQ0RTcHFTbnpRcVZYTGdpUVpxdTBBNnQydjVQZw?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-09-09"
       },
       {
         "titulo": "Entrevista: BLUETTI amplia portfólio de armazenamento de energia no Brasil com soluções para C&I, aplicações residenciais e RVs",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXFMQXpMc0ZyZU82Qmc5aV8zRXh5Q09RXzdTZ3RvM21WVW9iYTJPYktUVFVCNUtlVHBrZXFqbklPbVlDcWtsaVlnT1JHM1RfU1RuRlZJT0RVdEpZaUpaM21xZEdIc01lZGlrVkEyUlRoYWt5ZmtwSi11c0p4c0w1d2FsdUZmWnYzejliNkI5bXZqSE9wMVdjc0xmbUVPRU1BazQ2bUJBYjNyMXhUSlRzeXB2S1RweU5qNUdZTUZNbXgyYU1vSjE3bl9sM1hTYW8xaVRtVTJUaHg2ZDhaNWRlb200V0FLZw?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
+        "data": "2026-09-09"
+      },
+      {
+        "titulo": "Transição energética: oportunidade para o Brasil",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcG5pZjczSG1fUG9kdV9lRGFHeHZqNEZ3TlhyblNXbktSQnNWdFd1Z2o1ZmJ4MXhLeHh5RlcwNm5OYXdaWHd5WFlscVlsOVZZNXBPS2ZfNDBBM0F6RzBuX09UTzczVkk0bk1BUFNINWYwOFpKZlNNVE4tX1lfMWJnM3d0Yk9XTy11S2s0ZDI4LTIzQjQ3blhZTNIBpwFBVV95cUxNcmJBSmhjTzR6Q1dETm14cEYtRTZNZDRBX0xsNGs3dER6R2ZQWmx0amRuSjNDR29TMUQ2NHpmM2cyUk9ybXRnZlBiR3p5RGg1WkZMU3d2bmFxcFM5QkliN05oQWIzekRNdWw1enlhM3lQT2NtaVo3Uk1ibWg0RmJqdmcxam9IN29PaWVvQ0RTcHFTbnpRcVZYTGdpUVpxdTBBNnQydjVQZw?oc=5",
+        "fonte": "Valor Econômico",
         "data": "2026-09-09"
       }
     ],
@@ -208,7 +208,7 @@ window.NEWS = {
       {
         "titulo": "PNL 2050: plano de R$ 1,225 trilhão mira destravar gargalos que custam ao Brasil até R$ 300 bilhões por ano",
         "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPSmN3NlJSOTNDcTFtT3FGbmh4cEJrWnRzeU9NYjl0YTJfb1QyMWE5RFBFM1BGcno2YWMyRWV4aFhibHZaMkhwcktsZFl4Y25Ya0NfYUFOYndraERYRDQzbVY3aDZXUnV2SW80VTFSREpDd1BsRDVjTThJdGExVTlnOUFmT3FLX0FmamNieWVsR2xjdTZKZzUwWFhyal80WXc5ZngzdFBIbi1OOS1wVmtnOXpYdkc2a0RQWHFmYzA0RlZqNU44RXNaV000NjIzR0JlQlN0M3ZUWGt6dDl6QjFoX1d1b3BZWkFYM1JSQ1lSdEJGbG0xRDJpUnEtUQ?oc=5",
-        "fonte": "portogente.com.br",
+        "fonte": "Portogente",
         "data": "2026-09-09"
       }
     ],
@@ -240,10 +240,10 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "Brasil busca aproximar mineração e indústria para agregar valor a minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR3FNZ05HX3duRWJrWHJGcWtST3doX0hJdHFLaFFObEFIYkp1LUpmN0JSTlZGSDRyNHNTSVItaUNIa250ZktPRE1GbDVlTk5ZSy13QmU3cEdKZFlqa3VZZXlDeE12YnNqRnRtcVJhTjRDNVBVZjRXa3BRWWpQd2plbnpTWTFJNXc5cE9wdGtmMHU2c2NLZlFRZkRnRlJoTDdYZkUtSFFaMWF0M1RySnJ1TGFn?oc=5",
-        "fonte": "Portal BE News",
-        "data": "2026-09-05"
+        "titulo": "INTERNACIONAL | Brasil e China aprofundam agenda de mineração com foco em minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmdDLUdZbWxEbjcwMDJfcmtCU3pUZUZjZWhQamptTktsaXJ0LU1vOTh2V2lrZjFKOHllTGRnMWF6N1UweG4ySXN2RUVQQmQ1QV9GNHprMXViSEJRVEhPRHVFQ2Z5TFQ2TFU3Sml0czMxNExPNlpabG1BNUxPbzE2WU5qdjA2aC1ua0hSa0ZXNldhdUFqU2RzUFhvYk5IQjRjNG43bEVLV2JUa1FJUTBCb0RJOA?oc=5",
+        "fonte": "Brasil Mineral",
+        "data": "2026-09-11"
       },
       {
         "titulo": "Minerais críticos: proposta prevê incentivos a investimentos em estados e municípios produtores; entenda",
@@ -260,7 +260,7 @@ window.NEWS = {
         "data": "2026-09-08"
       },
       {
-        "titulo": "Terminal de celulose de R$ 1,3 bi sai do papel no RS",
+        "titulo": "Trabalhador de Rio Grande vê sair do papel nesta quarta o terminal de celulose de R$ 1,3 bilhão que promete 1.200 vagas diretas, dentro do Projeto Natureza, o maior investimento privado já anunciado no Rio Grande do Sul",
         "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxQYXJoOXhPaGliaFlELXd6a18zZGxZU29XOXRGOUJLUmF6ZHVPd3hqb0xVY1YyMTNNZnJPUXp0dHRjUXBaQTFna2lNVzFKUFo0R0R0TkVWZ0VRVk1VY3BrQm5WMHg5SW5LT1ZwNUd1S3lDbm9saFBBNkZubzRlOWkyTFBVWk9NcHZZN3ZPMHRPUDNFcHd1aWZrdF9PYWtkb2ZPSW1WR0ZuS0pQbkZRMkQyUklPc0xnRnlhQUprOHh0NGo0aWtwU1ZpUDhfZmFUaHFQbTRYWmJoNmYza1BkeE1TbTZadW9IbU5OZDZmX3F1cDM3VkRtRmhvNFF5VGFpaENJdTdTakxpS0VES2dnckpvbGJBSTJ2OUFjQ0txR2JCS05MSm9rUTYyaDQxSHo1OUxLY2V4R01zdWhWb0FKLVBxUGpZZ3JtMzA?oc=5",
         "fonte": "CPG Click Petróleo e Gás",
         "data": "2026-09-08"
@@ -304,12 +304,6 @@ window.NEWS = {
       {
         "titulo": "Valor 1000: Gerdau amplia aposta nos EUA e se destaca em metalurgia e siderurgia",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMDBZRlVrRGYxckZmdW5naTdOMlpIMDFBLXJUMzhTLVlpVkJvSWRnS2tmaTlQZWdJX3Bubm1KR1p5aHNrVC1QbHhPVzdEQktOdFRjXy1tNDVHLTRNSEkxbHN0REVyQkl3anpTQjFkUE9ILVNubXMwMzlucnpxVnI4N3F5Q0MzUnNWSmUyd0wtUEtHczI3NzdvMnBoYVRaM1FSV0NveEczNWFNYmJlOGtrUlBLSkdxRzRMeEROWjhvenJUanNuYVBfQWM4akRhd29SMWR0Wk5B0gHkAUFVX3lxTE9Va2FxWDFiTlJjZDJxcDc0SmpIcHQ2ZUFzd19DUmk4cWFvckpMbGJ0Zy1RTGtQZnZPamI5RzFZS2RTd1VJSFRkZHZKTWUtUzZLckh4NWp0c2dsMEhSM3Bfdnl3c0RpZXY5Z1V4Um5mcGFMQ0dFODVSdXpzYVZzTWpDaXJIbWw2ZHVHQm1yMkMwWERaa2hySFlqVUFGNUdfdzAtV2x6cDNYMTByTXdXYWtuRnRQeC1oVVdLT0lVZ2s0MW9vcXd6Sk5YemRPQ3JQV0V3U3c2N0ZkU3FQd293MnJ1cnd5WQ?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-09-09"
-      },
-      {
-        "titulo": "Valor 1000: Gerdau é a campeã do setor de Metalurgia e Siderurgia em 2026",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPYkpUWkZfZkZoVUdEOEdBdENtOFJXYzcxNVRoSXB2cEV2dFpJSXgzbk9yNU9IS1Y3RzRUOUZ4TVlpazVLSG9SMUloUXhrakROck1jWEUxRzZhbGNwSWt3WktfUGFUcVFIS3h5VGJDeUpieHlkQjM5Y0FUZWxocXBsdXdEcEFqWi1lUG00Z1FWT09UcXN2U25sRUpMa2VwSFhUX0UxSTNRQVBVeFRULV9ESGF5OTVqV2xrQi1WM2ZFaUsyYkJIWGZoTWpjS01lNGd5X2lJa2FtUdIB1wFBVV95cUxPYkpUWkZfZkZoVUdEOEdBdENtOFJXYzcxNVRoSXB2cEV2dFpJSXgzbk9yNU9IS1Y3RzRUOUZ4TVlpazVLSG9SMUloUXhrakROck1jWEUxRzZhbGNwSWt3WktfUGFUcVFIS3h5VGJDeUpieHlkQjM5Y0FUZWxocXBsdXdEcEFqWi1lUG00Z1FWT09UcXN2U25sRUpMa2VwSFhUX0UxSTNRQVBVeFRULV9ESGF5OTVqV2xrQi1WM2ZFaUsyYkJIWGZoTWpjS01lNGd5X2lJa2FtUQ?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-09-09"
       }
