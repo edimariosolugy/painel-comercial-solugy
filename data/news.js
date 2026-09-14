@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-14T20:11:58+00:00",
+  "atualizadoEm": "2026-09-14T23:43:33+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "Crise no agro gera calote de R$ 48 bi e transforma bancos em 'fazendeiros'",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzEtZEF0WFBGYnFTWUJ0NmxjYWpWQnlNcnN3ZW9sVF8zbVZSazZsS2wwRXUtOTJ3anZxWDZyd3o4alVuN0xtZDZNRk44UzEtalNKT3JDb0VSOWFMWVRlMWNtMEVUSl9VeER5UzBnTnZFdFlKZzF0eFJMVHFDS3pwaE5KQm54X0xBaFlEbkZsVXNUZFg4VVN5M2huZDhNYXRIVzBiTzFMYTBFQ21vMDZ6UUhzajJWV3NUeFB3cXhmY1F3cVRGSEM2RThCVQ?oc=5",
-        "fonte": "UOL Economia",
-        "data": "2026-09-13"
-      },
-      {
         "titulo": "Agro na B3: entenda a tese de investimento de empresas de insumos e terras SOJA3, AGRO3, TTEN3",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVxR19mRWRGdWZwRnBXUTB0LUsyZlJVSk9VTTJtYjFLRElkZzNDSXlGbHVSQzZwbTNCQ1M4a2ZWcHdROTM2c3otTC14UmdnOG5LaWxlRlNVMkNlRE5WV0QwQnEtRzdLSVlVQzdsYjJhOUthVW9ZTVBhLUh2d29TRUJHWjNIWUNOVnF3?oc=5",
         "fonte": "ADVFN",
         "data": "2026-09-11"
+      },
+      {
+        "titulo": "Agro pode estar deixando pior fase para trás, diz gestora",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZjlEQVRhcE05MjNDX3VwSlBmMGgyWktCNV8yZVlZOVRWY0pSQm1NY3l1a2diRk16WHNHTmFwb05Ta0pmSGMxb1dPX3lDZ3E1YTZvcXdIZUMwdVVQUTVkdjR5TC1PRnRXcmZGTHdrVGxTcllYN21NeHM1MFRMcHhNc1ZIQmR0STVZVGs5T3dINVpLZ2x3ZWc?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-09-14"
       }
     ],
     "alimentos-bebidas": [
@@ -38,7 +38,7 @@ window.NEWS = {
       {
         "titulo": "“Unicórnio” chileno NotCo vende operação no Brasil e acelera metamorfose para empresa de IA",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU9zV2I3ZlpNYlA3MDN2Q0JHWVpWbWFMaVBjX2tVMG1Kd2ZBQ2FBUVJSQ01DT3BZcVlJYkVKeWNPaHBkYWJhVUo3RnFERG9KMUt6V1F5T3lQUmc4UHYyTXJ4dnNCWjlIc2NZYnN6cEo0R3RjQmozbFpXV2I5NGZuSWEzRlhLQk83bDU1TjdsVHl2OHRpaW9WQ2J5enVXVi1oYmFzd1Q2N2c0dXhLVHRzOUM0SEVPdHlUVjFZ?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-09-11"
       }
     ],
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "MS tem quase R$ 90 bilhões em investimentos previstos",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDdWMnlhRDJTdVNNdGxKNlNQVVJVUkxMUFpCMHI1OVAwQ0ZPbVl5eEJXVWdyc0JOZURTOUpBeU9scGVCUmJxTHpnM3NxZ3JiQ2M1N0J4MnRpZmk0RVRzbDFHV1JoRDZPdVMxWm12eTQ0S2xfSG13UEF6TkdsSGl2TmlqMWVSaTIzR3JkTXVoT3B5YUlD?oc=5",
-        "fonte": "Portal Água Clara MS",
+        "fonte": "aguaclarams.com.br",
         "data": "2026-09-14"
       }
     ],
@@ -138,16 +138,16 @@ window.NEWS = {
         "data": "2026-09-08"
       },
       {
+        "titulo": "Entrevista: BLUETTI amplia portfólio de armazenamento de energia no Brasil com soluções para C&I, aplicações residenciais e RVs",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXFMQXpMc0ZyZU82Qmc5aV8zRXh5Q09RXzdTZ3RvM21WVW9iYTJPYktUVFVCNUtlVHBrZXFqbklPbVlDcWtsaVlnT1JHM1RfU1RuRlZJT0RVdEpZaUpaM21xZEdIc01lZGlrVkEyUlRoYWt5ZmtwSi11c0p4c0w1d2FsdUZmWnYzejliNkI5bXZqSE9wMVdjc0xmbUVPRU1BazQ2bUJBYjNyMXhUSlRzeXB2S1RweU5qNUdZTUZNbXgyYU1vSjE3bl9sM1hTYW8xaVRtVTJUaHg2ZDhaNWRlb200V0FLZw?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-09-09"
+      },
+      {
         "titulo": "Brookfield avalia investimentos em baterias no Brasil",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOXlDWnAzQ0xmTlBHdUlJZlNFYXpnVVlkQ005Q3pIeGlscU9PS2UzTWJuNTI2Q2hVTnZicy1sbE9NSWs2Z2k4OWtfUnhKRUdpLXZCU0M5QVNVZTkwQkhJUnF5RHp0ZG9oOE1maDEzcFA4bVFYR25VVlA3M1k4dFhvd3NZTC0wY2I5cDlQNDE0SkN1U2lEUEFxWlJUQko3RnA5VVZzRnN6dDNFTnFNTTdZSA?oc=5",
         "fonte": "MegaWhat",
         "data": "2026-09-11"
-      },
-      {
-        "titulo": "Placas solares exigem investimento no começo, mas podem gerar economia por décadas, reduzir a conta de luz mês após mês e transformar o gasto inicial em vantagem financeira no longo prazo",
-        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQZlpLR0hVNW5Ja0tMZWQtWlZ5OUdvWlIyNnY1MTVjXzlvUUZzUTJUcW91MkZwcGhfNVZGanJwVG9tSURJQ1lMQW9EQVVRcFQ1RXpibEM5d3ROdzd0VWJQZnY3S2M1NXRPU2hEcDlTaXFFY3MwNFI5Y3RQcVllUkhWYzJVQzBTbXBZZ3ZUcWZXYVM5cExtMXJqZ2dyNVZZSjd5cHZIa2JOb29DTFNPXzBsS1BWeTlsZDBQdG5qVXNkbURzaEZNWndhLVRiNFllOXZKd2szdTVISV8wazQxVVRFVFFqYTBUUVRuTjVjRW10SkdxMHY3MjItYjRNMnV3Mm8xMS1vN0lNWkJUaXBUZHhnRWFFdzZ6WldLc2FBeWU2Mk1MOGRmMHl3V09QXzRMcVZWaDVRNVZqMHNKMk9kRzRHYU5Kal9Dd09xYWk4ZVJ3Y1BRaTVZUDBNS1NR?oc=5",
-        "fonte": "Olhar Digital",
-        "data": "2026-09-13"
       }
     ],
     "epc": [
@@ -166,16 +166,16 @@ window.NEWS = {
         "data": "2026-09-10"
       },
       {
-        "titulo": "Bayer aposta em remédio não hormonal para menopausa no Brasil, afirma executivo",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTTJHaDhxRWhpaEdyUi1zdjBiMlN0Y2d3TDYzUTlTX1FDSlZ1WlR3SE9UcjliU3RkQUVVZkJKcWtNYndjclgtc1o3cUp1cUFaZVVBbmgtbXJZQ3dNRlFpQjZiU0N4elNjN043ZTRLS3E1TWxTQW5MSjhOOVZydk1tZ0c0TG9YMDhoazQxZ1E0aWM1dHhnTlhSVlFaSmdNZlhqaUVzcFlIakxuVUtiUkUwOUlGcXd5M0FCS3U1Nk16aXRGM3U1Um1iLUR3?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-09-10"
-      },
-      {
         "titulo": "Ranking: os 10 CEOs mais bem pagos da indústria farmacêutica",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSW1VekxzT01sSHNRNmVBc3ZvRzlwazVsMEtCenNBMk1aQzVaWFRlR0R0THJpVkctSmJkbTJiRV92a25kR2JxaTA5RWxwWEdDb1dqNFEyc2hpNGU1dUh5Xy13a2JrZlF2MU1QdWFzNWljQXpCdjhzYU04WW5vRHVGZDUyVTAxOTR5dHV0VnB5OHhuYk96SXBpMg?oc=5",
         "fonte": "Abradilan",
         "data": "2026-09-14"
+      },
+      {
+        "titulo": "Bayer aposta em remédio não hormonal para menopausa no Brasil, afirma executivo",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPTTJHaDhxRWhpaEdyUi1zdjBiMlN0Y2d3TDYzUTlTX1FDSlZ1WlR3SE9UcjliU3RkQUVVZkJKcWtNYndjclgtc1o3cUp1cUFaZVVBbmgtbXJZQ3dNRlFpQjZiU0N4elNjN043ZTRLS3E1TWxTQW5MSjhOOVZydk1tZ0c0TG9YMDhoazQxZ1E0aWM1dHhnTlhSVlFaSmdNZlhqaUVzcFlIakxuVUtiUkUwOUlGcXd5M0FCS3U1Nk16aXRGM3U1Um1iLUR3?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-09-10"
       }
     ],
     "fertilizantes": [],
@@ -215,7 +215,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovia Minas-Rio vai a leilão em dezembro e pode mudar logística de cargas em Minas",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcGhGT280ekpUZ0Y4NmxwOF9aUTdmWFdaR0Vlb0lTQXV4QVVLVFBDZlJZZVRNRktoZnFCNVVvVWUzdmFpSHcwMWNXcXEyM29oWlN2N1dNZUJIS09STkJYZ0Rod2hoOUgwam9WUw?oc=5",
-        "fonte": "diariodocomercio.com.br",
+        "fonte": "Diário do Comércio",
         "data": "2026-09-09"
       }
     ],
@@ -249,7 +249,7 @@ window.NEWS = {
       {
         "titulo": "INTERNACIONAL | Brasil e China aprofundam agenda de mineração com foco em minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmdDLUdZbWxEbjcwMDJfcmtCU3pUZUZjZWhQamptTktsaXJ0LU1vOTh2V2lrZjFKOHllTGRnMWF6N1UweG4ySXN2RUVQQmQ1QV9GNHprMXViSEJRVEhPRHVFQ2Z5TFQ2TFU3Sml0czMxNExPNlpabG1BNUxPbzE2WU5qdjA2aC1ua0hSa0ZXNldhdUFqU2RzUFhvYk5IQjRjNG43bEVLV2JUa1FJUTBCb0RJOA?oc=5",
-        "fonte": "Brasil Mineral",
+        "fonte": "brasilmineral.com.br",
         "data": "2026-09-11"
       },
       {
