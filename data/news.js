@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-14T15:46:06+00:00",
+  "atualizadoEm": "2026-09-14T20:11:58+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
+        "titulo": "Crise no agro gera calote de R$ 48 bi e transforma bancos em 'fazendeiros'",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzEtZEF0WFBGYnFTWUJ0NmxjYWpWQnlNcnN3ZW9sVF8zbVZSazZsS2wwRXUtOTJ3anZxWDZyd3o4alVuN0xtZDZNRk44UzEtalNKT3JDb0VSOWFMWVRlMWNtMEVUSl9VeER5UzBnTnZFdFlKZzF0eFJMVHFDS3pwaE5KQm54X0xBaFlEbkZsVXNUZFg4VVN5M2huZDhNYXRIVzBiTzFMYTBFQ21vMDZ6UUhzajJWV3NUeFB3cXhmY1F3cVRGSEM2RThCVQ?oc=5",
+        "fonte": "UOL Economia",
+        "data": "2026-09-13"
+      },
+      {
         "titulo": "Agro na B3: entenda a tese de investimento de empresas de insumos e terras SOJA3, AGRO3, TTEN3",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVxR19mRWRGdWZwRnBXUTB0LUsyZlJVSk9VTTJtYjFLRElkZzNDSXlGbHVSQzZwbTNCQ1M4a2ZWcHdROTM2c3otTC14UmdnOG5LaWxlRlNVMkNlRE5WV0QwQnEtRzdLSVlVQzdsYjJhOUthVW9ZTVBhLUh2d29TRUJHWjNIWUNOVnF3?oc=5",
         "fonte": "ADVFN",
         "data": "2026-09-11"
-      },
-      {
-        "titulo": "Eleições 2026: De qual política pública o agronegócio precisa?",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWxpRFpYUlRoLXltd1lnVmF3YTU4NjRLeGp3VHBpdWlPVkJaYzdNUXNJdTdxSXZ2QWlBek1ERV9tbGNkMjhTTUJmX3JTYWlYbXNJRGtkSWF0dFpuaGdCaXB4U1lTVjFHdGJ1dFd4V2xQcVQ3TXZlWXEyWmo0eTEtQzYxU3Q0WkRYbXBra0hCaVphWExnNlY4UGE1OV9fNE5aWVU3MHZfSQ?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-09-08"
       }
     ],
     "alimentos-bebidas": [
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
-        "titulo": "NotCo vende operação no Brasil e acelera recuo internacional da foodtech",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbm1Md0N3TUI4cWhxbFE2U2xEdFhfVjBIR3dLdV81SmdCaGFkSXd4NkU0MWV6UW9rNnB3cTFab0FvVGd2R051TWczZTUzNjJhMWtpUzVUNVNoLW9xUnpIR2NTcnFEU0o1TmpZNkFsTmNVcm9jaU43YXN4LWNKUU5BLTlMUjNkUTIxeFM0N2QxTGlkS3ZSME92dFJlVW53LThjWUFfb1h1WVA4dm8?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-12"
+        "titulo": "“Unicórnio” chileno NotCo vende operação no Brasil e acelera metamorfose para empresa de IA",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU9zV2I3ZlpNYlA3MDN2Q0JHWVpWbWFMaVBjX2tVMG1Kd2ZBQ2FBUVJSQ01DT3BZcVlJYkVKeWNPaHBkYWJhVUo3RnFERG9KMUt6V1F5T3lQUmc4UHYyTXJ4dnNCWjlIc2NZYnN6cEo0R3RjQmozbFpXV2I5NGZuSWEzRlhLQk83bDU1TjdsVHl2OHRpaW9WQ2J5enVXVi1oYmFzd1Q2N2c0dXhLVHRzOUM0SEVPdHlUVjFZ?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-09-11"
       }
     ],
     "automotivo": [
@@ -74,7 +74,7 @@ window.NEWS = {
       {
         "titulo": "Valor 1000: Votorantim Cimentos lidera materiais de construção e de acabamento com lucro recorde",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQVBfaVdxRHAtcWkwZUl3eW91bzVxZnlhWGw5QTU1UGlKWUNieFZMQzhSUWttaHNBcThmNjZrMFpuV0R0c3lHS29MZUJobm91N29OZVc1aFpydm1LQXpXaUc1YTJ1NWE5aHFtNTU5aVZSa2NNOVJRamNtQTcyaDZMRl9uV1BRQWZnQVBaV0czVllfZDktYkJhUEk5dWlmY2pWNWo3dkU5UWVPb0VKSDRPYjBnakQwVUU4VWRDZE1CN214cUs3dFN5bEdEWW10Vkc5dWpwSzhXaVhmOGZwVGxRdTZxTnVxTm9ubUJB0gH6AUFVX3lxTE1LalVyU1NCU21UODhTN2hzaEhKTXpMWHFKR29VTlNJQUlYTzRLclY1TG02cDRJTHVZS3pJWDVUVzlLbnd0OTlzazl1SEpaOWcteGFpOHp4NXFwYWhJTEdvNXVrdzVqQkp4anhGdW9EV09hVlFFRVpBbkJhdjFXOU9OWmpPQVhSMWlMbmJlb1ZKcGN4WDlyc2hUbEpQUDA4OGJMdGxqUklBSjZwTEdoT0dUZ2JWSjFFSmVUN2VPbkt1VXNzdjVZSHFyV01mU0hsWFg5R0lqQ3owMldhLWo1RUotSHZ0N2pTYmJJeDN2Z1FseWlNLWRYbFZVZmc?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-09-09"
       },
       {
@@ -100,14 +100,14 @@ window.NEWS = {
       {
         "titulo": "IA pode transformar sua loja física no melhor centro de distribuição que você nunca construiu",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYkZwa2laZnR4N2lNNmlwRUZjbGFVOU81R0FiMnBBRTJyRFNjbHZQcFlGOVRmdlBvZTNZV2QyYzEyQlhkZXk2OFBlcWdQYy1HNGNmYVQySlJYZU9LOWlhM1hEc3V4angySmFGZ29JbUJoTWUwNmYwaDJ1eEFLZkFDS29PSVV5YkZmME9VR3pNTVlWWGt2eTFWVUlBV21MRnFpcV9KRkRUVkYwR29NelIwMGhGdElCWUJPeGJMcjc1WEhocFhKUVVVejM4OTM1T0xJZGc?oc=5",
-        "fonte": "ecommercebrasil.com.br",
+        "fonte": "E-Commerce Brasil",
         "data": "2026-09-08"
       },
       {
-        "titulo": "ODD Limppano inicia novo ciclo com foco em eficiência e varejo",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeF9PUFFNcEFHYkt6bThOZm4zYVpBaGg0SGRBdUZ5c3BCNlVqYU9pd0JKWUpOb28zUVNOaUdRMzdnMFM1R3dlSWxiRzNPZDN1ZURlUmpOYUNqbG5FV0lnLUs0ZlFhMTlwdndSMlpqOVZfc1RYblNZNlY0MmYzUW4wOXRqUmc4VE02aUZLZXpCaWtYcUFEbVpnU2pOdUk2bFJVVlE?oc=5",
-        "fonte": "SuperVarejo",
-        "data": "2026-09-11"
+        "titulo": "Mercado Livre volta ao mercado de dívida pela 3ª vez. Veja o motivo",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb25ZcUxzck12a1NNY0dlaWVmUTVQWEptUmQ2SEZkR3J0VlBVaE9VRzB3U3M0NGc4S0RVTkFnWHpjSGRHUFZ6RW54MUtpV3NZd3h3NF81SWRWWWtKQjIzLXRfeWpzenZRWkJKRlRodWNoY3ZvbTBmNF9tOVBhcURCcTJ1em1td2l3bG1CVVJieUU4OG5WUlExS0lCYWxVcGZoREIyWdIBqgFBVV95cUxPS1paNlU4TlhYeTU4WWZwOHhXT1JVdGZUekFPcGo0cDk5aWJiRU5RLTNjNkFoQzJqcnhwQzE3eW5qZjJrNUFEX1NEQUdyajBJVkxGdHhUVDVhLS10YlQ1Y2NNLWhZcGs5ekVDRlZYcWV6LWtPaVFEUmlVeGtkMnBDRTdTbWpuTVBpdF9OYmZqcUZwYnhsMXRPSTFkd1ptcHlWaFVjRGhDX1V0Zw?oc=5",
+        "fonte": "InvestNews",
+        "data": "2026-09-09"
       }
     ],
     "energia-gt": [
@@ -138,10 +138,10 @@ window.NEWS = {
         "data": "2026-09-08"
       },
       {
-        "titulo": "Entrevista: BLUETTI amplia portfólio de armazenamento de energia no Brasil com soluções para C&I, aplicações residenciais e RVs",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQYXFMQXpMc0ZyZU82Qmc5aV8zRXh5Q09RXzdTZ3RvM21WVW9iYTJPYktUVFVCNUtlVHBrZXFqbklPbVlDcWtsaVlnT1JHM1RfU1RuRlZJT0RVdEpZaUpaM21xZEdIc01lZGlrVkEyUlRoYWt5ZmtwSi11c0p4c0w1d2FsdUZmWnYzejliNkI5bXZqSE9wMVdjc0xmbUVPRU1BazQ2bUJBYjNyMXhUSlRzeXB2S1RweU5qNUdZTUZNbXgyYU1vSjE3bl9sM1hTYW8xaVRtVTJUaHg2ZDhaNWRlb200V0FLZw?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-09-09"
+        "titulo": "Brookfield avalia investimentos em baterias no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOXlDWnAzQ0xmTlBHdUlJZlNFYXpnVVlkQ005Q3pIeGlscU9PS2UzTWJuNTI2Q2hVTnZicy1sbE9NSWs2Z2k4OWtfUnhKRUdpLXZCU0M5QVNVZTkwQkhJUnF5RHp0ZG9oOE1maDEzcFA4bVFYR25VVlA3M1k4dFhvd3NZTC0wY2I5cDlQNDE0SkN1U2lEUEFxWlJUQko3RnA5VVZzRnN6dDNFTnFNTTdZSA?oc=5",
+        "fonte": "MegaWhat",
+        "data": "2026-09-11"
       },
       {
         "titulo": "Placas solares exigem investimento no começo, mas podem gerar economia por décadas, reduzir a conta de luz mês após mês e transformar o gasto inicial em vantagem financeira no longo prazo",
@@ -150,7 +150,14 @@ window.NEWS = {
         "data": "2026-09-13"
       }
     ],
-    "epc": [],
+    "epc": [
+      {
+        "titulo": "São Paulo planeja PPP escolar de R$940 milhões",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSzV1Q0ZDelVfbWQ0OXZyQkRReDlvYk91cDJ2VllJRzlkS1VjclpTR2gzdzExNm9YN3E3LUlESTUtTk1xeE0ybnNOcjRGcnFrWjIwYjJ0WVhWWllYWHkzbVZnOUdrN2ZBZTJvMl9BMFVZaXdWY3hPTTlJTDJYZXZVV2FTcWNMZXFwTEh6NW93?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-09-14"
+      }
+    ],
     "farma": [
       {
         "titulo": "As pautas de diferentes setores da saúde para o próximo governo",
@@ -174,12 +181,6 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "'Enxurrada de investimento': indústria projeta R$ 1,5 tri para data centers",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdVAyb2hjeDZFZm5DTV9WWjdZc2tkRVpvdEFYWGpRX3N6NEdsSEU4OWFxNHBfWGhlbFBEaHZ3NElPWWthVG9Vb2FwWlFvNWlmS0VsdWljUHNzQ0NvQnNzV0FGM1NKNjVZcF9fR2NGcVVSaTRrdUtGejJVRmh3RjBqZ3ljRXEyYUJBdWdHT25KUk5IcEI2R1ZSczduTHVDYmtkS1NDOUJYSmItM0tfYjBhN2ZBS1loaHBvRHd2RGNLRDVtVG1IMllqeUNGU2g1SzFoV0wxRzVReEU?oc=5",
-        "fonte": "UOL",
-        "data": "2026-09-07"
-      },
-      {
         "titulo": "Investimento na indústria extrativa cresce 1.366% em 27 anos, 15 vezes mais que na de transformação, aponta FGV",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTdQaUpFVTdfX2ljSkR2SHNIUC1jbVZncGkyUWxyQlkzb0hweFp6Y1k5aHhUVXh1MmJGNV82NXlfbVozMEExVEpDS1R6N0hlMU44blJLRVg0bEk4V2VnOVlPOXVGR1hwS19ZalhJWlJ5T2lfNTlfaU43ekEweDBYNGdRV1lWMU9CclFTdg?oc=5",
         "fonte": "Agora RN",
@@ -190,13 +191,19 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWU1jNVljSlJwT1BKeTMxXzRNQ0w5a182SWkyZHJjU3hXcXA3UmVVTTVyZDMxOTJmT3NoV3o4WFFzY1VGZTBDUzJLbGZnS25tcmxBREFmQ3UxVWMtN0lTWTUwYUZYVDl0ZEQ4a0hieFk1THkwUVIzNE1CVGIzRlJ2ZThzbkx2NXIzWE5IRElPS1hYN0JMTUROTjhZSXhZQ2p6SXpjaldLTkZYTy0wZ3pZ0gG0AUFVX3lxTE9LWWhncFBrSjdpRHhzQ1padGthR2Jud0hoQUcwTEx3eWJybnk4dk42YlRncG1ZTDE4OXJhbjIwUWJvUGt5VUp4cmd4WU5na1lUb0xpSEZWS05OYU15RVh6SXppSGphcTFadHJEX0p3MzZ2VUZnUjlvTkZKRkVteFB4OUptdXhySTlQb2s1VTlKOHFsZG13eWN5QnBTcnJxNnhmOHJWWTF6QUN1UTgzbkV2U0daNw?oc=5",
         "fonte": "Perfil News",
         "data": "2026-09-08"
+      },
+      {
+        "titulo": "Nova fábrica de R$ 600 milhões no Brasil vai gerar 700 novos empregos fazendo parte de investimento total de R$ 2 bilhões no país",
+        "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxPc19QMTVFOUFGV2xKV3NrRTBvOWx4cy1hWXg4ZlVtSUozdmRjMFp6c2VjbjVYcW5iWjZ3RDNBdkluUWpYS0xxSnIxMmdNZEdrbFZtMUdUeDRYUEpta0lkeFNYamZ1SkRiRGhId2puSlNBSUNnQVFTS1YyTGVxcm1VUEhMTWM4NFMzeGpjWHNPQ01SMGViVDdaczNSWllSa0d4U1VLWU9Jalc3Z3h4SFhNS01YRDBaTkQ0MGZ3R256ZFFoTDdCN203SUd0RUJ1YndaTU5idmdzN1FGM2IzMDRobHREMHVCVWFGeE82dzNob19yWDRySy1NUnM3cmVOaGNlYWFoRmZNWmFxSVUtNTBRRzBJTS14YU9uN0pKLTBMWTNKUQ?oc=5",
+        "fonte": "jornalcruzeiro.com.br",
+        "data": "2026-09-13"
       }
     ],
     "logistica": [
       {
         "titulo": "Transporte aquaviário passa de 2% para 25% dos investimentos em logística",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRjltYkVCMVFrLWhNVjZTLUxDLTdTdFlDb2JhLU03Nk9wbkg4NUxQQTUxdzlfNjhaeDFZYzNScnFnQVFZNXNEZ05WakVmRWloTEptLXhWZGdPLVBjekx6UE4xNklfem5ma1FHUDZrUHRyd2tocHVhRFB0YWRhNy1lRlRiZkVUdGMybDBBVEJaWXhKZjFDakVOYmhMT1EteE5OZEU0ZzJiaDZYdFdTcmxUaThYVUQyclU?oc=5",
-        "fonte": "transportemoderno.com.br",
+        "fonte": "Transporte Moderno",
         "data": "2026-09-09"
       },
       {
@@ -208,7 +215,7 @@ window.NEWS = {
       {
         "titulo": "Ferrovia Minas-Rio vai a leilão em dezembro e pode mudar logística de cargas em Minas",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1vcGhGT280ekpUZ0Y4NmxwOF9aUTdmWFdaR0Vlb0lTQXV4QVVLVFBDZlJZZVRNRktoZnFCNVVvVWUzdmFpSHcwMWNXcXEyM29oWlN2N1dNZUJIS09STkJYZ0Rod2hoOUgwam9WUw?oc=5",
-        "fonte": "Diário do Comércio",
+        "fonte": "diariodocomercio.com.br",
         "data": "2026-09-09"
       }
     ],
@@ -266,10 +273,10 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
-        "titulo": "Arauco inicia instalação de vigas em ponte ferroviária do Projeto Sucuriú em Inocência",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQalR3Q1JKbFJxR3NIWnBlaHV3aGw5ajRMZVlMS3F5SFRKN1NwWlF0VVF0djJRMEVlT2swMzlxam15dVlGT0xPNWdkOEd0dWRzTjg3LUlCdWY5YmhyWkpxVmFzMjRGVDVTcTZubmNGcWI4TG9hdms2a2NRZFZZNW5paW43Vms4elppZXJXeWJkQTd1ZzhNd1VicVplc0JXd0YtZW5zRjRzaUwxa3ZaallTSi1uVi04ZGJCZnU0R0kzbVVsU0Ns?oc=5",
-        "fonte": "Notícias do Cerrado",
-        "data": "2026-09-08"
+        "titulo": "Novo TUP de celulose reforça papel de Rio Grande na exportação",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGRqVXZJV1Y1RVNjdVBheWJiaU9EcXc0VlFtODJEeVJlWFdzcnFkNl9ZemN3c09Sb0dtUlRSMmtnYTc4ZW9mR3g4YnhOSGlVN0ZMbnV0OUdDejdMWFlMQ3pDZGRfY0haSnh4VEdNMUhBQ2NVaTMwNS03TW9pQUpXQndCdnUtM2gxV0pYX3R2U0NtdThucjllT0VzTkJKbWt4aTNxcA?oc=5",
+        "fonte": "Jornal Portuário",
+        "data": "2026-09-14"
       }
     ],
     "quimica": [
@@ -282,15 +289,9 @@ window.NEWS = {
     ],
     "saneamento": [
       {
-        "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-14"
-      },
-      {
         "titulo": "Saneamento busca fôlego para cumprir meta de 2033",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazZseXZYSTNTdC1qTVBkTlBIMXc0cmJocndOYmNwa1FpRGsyX3dCSzJHUGQ1TmFZX25fbzhvM0pUN183RU1sdEhhZkEyNHdBNExxUWJLaFB2NkFIZ1k3TFZDTC1VRlVuUkJVa1o2LTh3QkpDM3ZJVGdOcjd3NU5ueE5QUkRWYU92Nm5JUW9rdDFSSFJyWDZ2ZWxTWQ?oc=5",
-        "fonte": "capitalaberto.com.br",
+        "fonte": "Capital Aberto",
         "data": "2026-09-14"
       },
       {
@@ -298,13 +299,19 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWJILUdDdXB3cUhVZm9NOWlBZEFBY0stRzhRbGR5WGhEUWRpMnQtaHhwajJxRDRvRXI4ZzFFYktjVjBLR2hIbzVYcFVfSGFEZHlaRzVENUl4bjFJb0ozUmRBNTZDa190Tjg4OHRIc3NDYVRMLUQ3RGt4S0JpNXZwQUFnTlNHOFEtenJwdFU1UUhNamhlbllLbkFlQWd4bEJwbmhuWkd0czdSUmJYcUdxOGJWS2ZCMW9UTEZzdWRfR2lLNFVnb25n0gHbAUFVX3lxTFBMYTJDY0ZRS2d3c3RxU2JNN2hheFR1WlVzVjAyX0ZRVFRMMDBieUVMTUxXNHdLYTA3aHU4dmdOekZJd1FmV2RMNkZqWW5QejQ2ZHlmeHJjQ2lCYVdtSTdWQ1hZYmZZT2JpWnFOVkhDeS1qQ0NwWGprbFJBWFNKcmQ4NnhqclE5MEhqcVluNnBHbWlDUDBONmJPQm1VVlY1NzVLdGdRVEhhcHVnSS1DRDFBTzRNcXAxazJKLU9qWnZ5alkxVHNYQThKQ2pUZHZWY0hFUGk1WVA3ZW1xRQ?oc=5",
         "fonte": "Bloomberg Línea Brasil",
         "data": "2026-09-10"
+      },
+      {
+        "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-09-14"
       }
     ],
     "siderurgia": [
       {
         "titulo": "Valor 1000: Gerdau amplia aposta nos EUA e se destaca em metalurgia e siderurgia",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQMDBZRlVrRGYxckZmdW5naTdOMlpIMDFBLXJUMzhTLVlpVkJvSWRnS2tmaTlQZWdJX3Bubm1KR1p5aHNrVC1QbHhPVzdEQktOdFRjXy1tNDVHLTRNSEkxbHN0REVyQkl3anpTQjFkUE9ILVNubXMwMzlucnpxVnI4N3F5Q0MzUnNWSmUyd0wtUEtHczI3NzdvMnBoYVRaM1FSV0NveEczNWFNYmJlOGtrUlBLSkdxRzRMeEROWjhvenJUanNuYVBfQWM4akRhd29SMWR0Wk5B0gHkAUFVX3lxTE9Va2FxWDFiTlJjZDJxcDc0SmpIcHQ2ZUFzd19DUmk4cWFvckpMbGJ0Zy1RTGtQZnZPamI5RzFZS2RTd1VJSFRkZHZKTWUtUzZLckh4NWp0c2dsMEhSM3Bfdnl3c0RpZXY5Z1V4Um5mcGFMQ0dFODVSdXpzYVZzTWpDaXJIbWw2ZHVHQm1yMkMwWERaa2hySFlqVUFGNUdfdzAtV2x6cDNYMTByTXdXYWtuRnRQeC1oVVdLT0lVZ2s0MW9vcXd6Sk5YemRPQ3JQV0V3U3c2N0ZkU3FQd293MnJ1cnd5WQ?oc=5",
-        "fonte": "valor.globo.com",
+        "fonte": "Valor Econômico",
         "data": "2026-09-09"
       }
     ],
@@ -313,7 +320,7 @@ window.NEWS = {
         "titulo": "Contrata+Brasil abre mercado do setor público municipal para as MEIs no RN",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDdhZXp6MzVHS3JtYVJycC1oOHFiTDU1ejhSWUhKdEhHRDNNNU05b1lEcVZKMVJTTmlONmJpeFJDckhObXFRVkNsTEVxS1lQZXNSRkdxaFV4Y05EOC1BTVpfMG1CRi1YRXVGYUZnc0JPTjlockxNcFNpM19DTlMwODhUSC1pT3Y4WXBSdlJCMzA5S2VFN045cHNCdVNSX3p4cE1wbmZ4czBzQQ?oc=5",
         "fonte": "Agora RN",
-        "data": "2026-09-10"
+        "data": "2026-09-12"
       }
     ]
   }
