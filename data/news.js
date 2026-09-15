@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-15T14:13:47+00:00",
+  "atualizadoEm": "2026-09-15T18:45:47+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
+        "titulo": "Crise no agro gera calote de R$ 48 bi e transforma bancos em 'fazendeiros'",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzEtZEF0WFBGYnFTWUJ0NmxjYWpWQnlNcnN3ZW9sVF8zbVZSazZsS2wwRXUtOTJ3anZxWDZyd3o4alVuN0xtZDZNRk44UzEtalNKT3JDb0VSOWFMWVRlMWNtMEVUSl9VeER5UzBnTnZFdFlKZzF0eFJMVHFDS3pwaE5KQm54X0xBaFlEbkZsVXNUZFg4VVN5M2huZDhNYXRIVzBiTzFMYTBFQ21vMDZ6UUhzajJWV3NUeFB3cXhmY1F3cVRGSEM2RThCVQ?oc=5",
+        "fonte": "economia.uol.com.br",
+        "data": "2026-09-13"
+      },
+      {
         "titulo": "Agro na B3: entenda a tese de investimento de empresas de insumos e terras SOJA3, AGRO3, TTEN3",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVxR19mRWRGdWZwRnBXUTB0LUsyZlJVSk9VTTJtYjFLRElkZzNDSXlGbHVSQzZwbTNCQ1M4a2ZWcHdROTM2c3otTC14UmdnOG5LaWxlRlNVMkNlRE5WV0QwQnEtRzdLSVlVQzdsYjJhOUthVW9ZTVBhLUh2d29TRUJHWjNIWUNOVnF3?oc=5",
         "fonte": "ADVFN",
         "data": "2026-09-11"
-      },
-      {
-        "titulo": "O agronegócio brasileiro em Angola -",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9vN1V5UGI3bzVxLTBMWGFPcWIzTjV3M2lCcVR5WjFpYzB1bzhBZ2dndjVNQXlsSXpYZHptQWp5MXUzWk50VE1FMmNpTFU1MHlWb3EyQ09DdjdOa3duYTI1NXUwQ1NJay1EMzYzaE5wWlhGSGc?oc=5",
-        "fonte": "A Terra e Redonda",
-        "data": "2026-09-09"
       }
     ],
     "alimentos-bebidas": [
@@ -44,16 +44,16 @@ window.NEWS = {
     ],
     "automotivo": [
       {
+        "titulo": "Motorcraft ganha novo logo com oval azul da Ford e absorve linha Omnicraft",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZEgxSElnQ2k5S2FpTm5mRnN3ZkJyMkI2aTNWXzhLalZhLUhGcE8xQ2VuT0EtZWNZU3JSYU9mWHB0SllCc0lqSGh2Vi1OTGRmU09YZ2ZPcWpCWnZldHV0NTdkTlZRcmhKTFEtZVpicHZ1bW5iTl9laXl3WDFEZ21EbW1KVkVOYWYzcDZESmY0bktEaVFOMWJTMFc1Z0JPaWx6Y2g1TkNWRGNjTzB1M2tXYXBIOA?oc=5",
+        "fonte": "mecanicaonline.com.br",
+        "data": "2026-09-11"
+      },
+      {
         "titulo": "Governo federal vai perdoar dívida de R$ 6 bilhões para montadora coreana abrir fábrica no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPanFKSHZCWlV4dzlxRTc1UmdXZEhRU3hRcG1YcnYyX0s2Z0wwSUtfYnRUbTlVRE9WSHo3elZDaWNNTmFkY3I3VGxyX2RDVlNWWXNMRHJvSTd4Um1EV2I5RkZlMEU1T1I3U1ZmQktLamw5NWdWZkNOM3JWZDFVTUtmakFmcGNLOXM5SVAtWW9RNGs4Z0pTQ0JVS25zVV81cFhDLXpCQkF6cHdlWFVkOFdtOF9QNVlVaFFKTTZiQ09val9QcjRxbUJieDVR?oc=5",
         "fonte": "Portal Tempo Novo",
         "data": "2026-09-15"
-      },
-      {
-        "titulo": "Motorcraft ganha novo logo com oval azul da Ford e absorve linha Omnicraft",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZEgxSElnQ2k5S2FpTm5mRnN3ZkJyMkI2aTNWXzhLalZhLUhGcE8xQ2VuT0EtZWNZU3JSYU9mWHB0SllCc0lqSGh2Vi1OTGRmU09YZ2ZPcWpCWnZldHV0NTdkTlZRcmhKTFEtZVpicHZ1bW5iTl9laXl3WDFEZ21EbW1KVkVOYWYzcDZESmY0bktEaVFOMWJTMFc1Z0JPaWx6Y2g1TkNWRGNjTzB1M2tXYXBIOA?oc=5",
-        "fonte": "Mecânica Online",
-        "data": "2026-09-11"
       }
     ],
     "bioenergia": [
@@ -104,15 +104,15 @@ window.NEWS = {
         "data": "2026-09-10"
       },
       {
-        "titulo": "Mercado Livre volta ao mercado de dívida pela 3ª vez. Veja o motivo",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNb25ZcUxzck12a1NNY0dlaWVmUTVQWEptUmQ2SEZkR3J0VlBVaE9VRzB3U3M0NGc4S0RVTkFnWHpjSGRHUFZ6RW54MUtpV3NZd3h3NF81SWRWWWtKQjIzLXRfeWpzenZRWkJKRlRodWNoY3ZvbTBmNF9tOVBhcURCcTJ1em1td2l3bG1CVVJieUU4OG5WUlExS0lCYWxVcGZoREIyWdIBqgFBVV95cUxPS1paNlU4TlhYeTU4WWZwOHhXT1JVdGZUekFPcGo0cDk5aWJiRU5RLTNjNkFoQzJqcnhwQzE3eW5qZjJrNUFEX1NEQUdyajBJVkxGdHhUVDVhLS10YlQ1Y2NNLWhZcGs5ekVDRlZYcWV6LWtPaVFEUmlVeGtkMnBDRTdTbWpuTVBpdF9OYmZqcUZwYnhsMXRPSTFkd1ptcHlWaFVjRGhDX1V0Zw?oc=5",
-        "fonte": "InvestNews",
-        "data": "2026-09-09"
-      },
-      {
         "titulo": "ODD Limppano inicia novo ciclo com foco em eficiência e varejo",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeF9PUFFNcEFHYkt6bThOZm4zYVpBaGg0SGRBdUZ5c3BCNlVqYU9pd0JKWUpOb28zUVNOaUdRMzdnMFM1R3dlSWxiRzNPZDN1ZURlUmpOYUNqbG5FV0lnLUs0ZlFhMTlwdndSMlpqOVZfc1RYblNZNlY0MmYzUW4wOXRqUmc4VE02aUZLZXpCaWtYcUFEbVpnU2pOdUk2bFJVVlE?oc=5",
         "fonte": "SuperVarejo",
+        "data": "2026-09-11"
+      },
+      {
+        "titulo": "Nordeste já responde por 22,1% das vendas na distribuição do varejo farmacêutico",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW9HQ0wzSlN2NGY4YWRjSkJzZEtSZTZia1ZSS052OVUya3QteXA2OHYxV2NTcjAzcGdMcUZUSHJfa2ZJRzEyczR4NS1najZuZUNHbHBYVzl1dHl1bS0xbEgxR1JsakJSZG41OC1TZ2diS0JMNXNHUV9FZi1wNnd6S3NYTGh3R3lZQndOaXNKU1A?oc=5",
+        "fonte": "Economic News Brasil",
         "data": "2026-09-11"
       }
     ],
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Brookfield avalia investimentos em baterias no Brasil",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOXlDWnAzQ0xmTlBHdUlJZlNFYXpnVVlkQ005Q3pIeGlscU9PS2UzTWJuNTI2Q2hVTnZicy1sbE9NSWs2Z2k4OWtfUnhKRUdpLXZCU0M5QVNVZTkwQkhJUnF5RHp0ZG9oOE1maDEzcFA4bVFYR25VVlA3M1k4dFhvd3NZTC0wY2I5cDlQNDE0SkN1U2lEUEFxWlJUQko3RnA5VVZzRnN6dDNFTnFNTTdZSA?oc=5",
-        "fonte": "megawhat.uol.com.br",
+        "fonte": "MegaWhat",
         "data": "2026-09-11"
       },
       {
@@ -187,16 +187,16 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Indústria de embalagens investe R$ 65 milhões em nova planta na Serra Gaúcha",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb0JBU3VNZ0V2cjA1SzB4YnJzbkdpUmNRSWphWTg5QlNoZE03LVM5MW9LRWd1ZzFrY2NmeXVrbDQ1V0duaFotWTJPcWV4dFlKQVUyWEkxMnNuWGdUbi1qX0xMWHNkalZSaE90b3pYRFdUb0dOMVhGN2NyT1BZcFRJTW9oVHpZaUZ5bVlWeldUQklxNklGcE1MSzJSZmxDTDNDdVZ6WmNRQklybXdEekJmV3o3Rng5QlJGQ1Z6VzZJSERhNnRhQjI2N0JOa3BNWDNRSzFzaVNpbDVmb1pXd2xSMy1HblBoUHVmbVB2eVBlLS1zc2Y4bWlpZA?oc=5",
-        "fonte": "Jornal do Comércio",
-        "data": "2026-09-14"
-      },
-      {
         "titulo": "Contagem se consolida como polo do pão de queijo e concentra 38% da produção nacional",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOThicjZZaE9pcGg4SkoyUVQ0SjVqNkhGZHBRUnpyUXdGN0lDXzVDdVBmb1N4bnltZk52YlZ1cUZDaW9MMlVTVExwODM2UDNnWnNURms1R18zb1VUUE41NmUzbU1EZGZpdmFWS3VVVFNZTXE2c21XNTMxc2R2SkJDd21mdw?oc=5",
         "fonte": "Diário do Comércio",
         "data": "2026-09-15"
+      },
+      {
+        "titulo": "Indústria de embalagens investe R$ 65 milhões em nova planta na Serra Gaúcha",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb0JBU3VNZ0V2cjA1SzB4YnJzbkdpUmNRSWphWTg5QlNoZE03LVM5MW9LRWd1ZzFrY2NmeXVrbDQ1V0duaFotWTJPcWV4dFlKQVUyWEkxMnNuWGdUbi1qX0xMWHNkalZSaE90b3pYRFdUb0dOMVhGN2NyT1BZcFRJTW9oVHpZaUZ5bVlWeldUQklxNklGcE1MSzJSZmxDTDNDdVZ6WmNRQklybXdEekJmV3o3Rng5QlJGQ1Z6VzZJSERhNnRhQjI2N0JOa3BNWDNRSzFzaVNpbDVmb1pXd2xSMy1HblBoUHVmbVB2eVBlLS1zc2Y4bWlpZA?oc=5",
+        "fonte": "Jornal do Comércio",
+        "data": "2026-09-14"
       },
       {
         "titulo": "Investimento na indústria extrativa cresce 1.366% em 27 anos, 15 vezes mais que na de transformação, aponta FGV",
@@ -249,7 +249,7 @@ window.NEWS = {
       {
         "titulo": "Terras raras: por que o Brasil está no centro da disputa global por minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDNfMDJzOUhETzViS1JBcUZFY2RsZ0VEcWlFQURhUXQxRmpxeVVXY0cyT3BTdm14YjlFR3J3ck9Wa1JKMWxGRlNZeXZ4OG1LcjB1WnNzOWZ2aDBfdmNKcEgtcUhWODR4enlnMVFOUWJ3LThnaHc4TnBOMWtkYUU0QVJFNHQxUzJOSDA3S0hGRkhHX0dRRTFoVGR2NGFrNThUN3BZemdBNkNZWC1ZTzVXeHp5bG5LY21NYlBF?oc=5",
-        "fonte": "The Conversation",
+        "fonte": "theconversation.com",
         "data": "2026-09-09"
       },
       {
@@ -259,10 +259,10 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "Volta por cima do setor de mineração do Brasil enfrenta teste com minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOdU9CMERvVkVwTDJEemRDbDhYU3BrVllXVDZ2S0RsRTlyLVFjbU1jS2RiRjNrZllmZnRnbW53Q2p1cGNFcFpuc0JDZkJRZnpZT2FmaTBfVmpKVzZPQU5yRFZteUEyYl9mUjVKOGw3YUZZS2lTTThTMll0cXpDTlhhNFZ1UmstYVNHNHV3cFJjVzZKZDVpSTFPU1NYb3FYamp2SXY4Rzh4SURRZHpDbWJZTU5hQ0Q1cWMwMVFXOE5aY2pqLXRCbkHSAdoBQVVfeXFMTXF3bUcyOERyZGR5WGE0b01pU0FuZ1NYYlREQXBLN1Jfa29Bbk9qZTczeHp3Rnh2cV95RzIzSnhnOE9jbEhJdHBGZWItTktFeEFpbFJEUy0zS0RydjdFZVY2RWhOb0hsck5lNk1NYVluZC1YXzZGa1FBZGlWR2J4WUZJQjJJZ2dVSkkteEhvTXVsSGVuc0NjWEw1UFdNUm9WRUZQcGpLTDFhZ2FnSWtxUkpfWHJUd1k5WW5VTlY0TDRpNkNUQm1HeTQyTXQ2RDZSVm1LR2lKZ0hCeXc?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
-        "data": "2026-09-08"
+        "titulo": "'Terras raras': aspectos legais e controversos do PL dos minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMTNrbURwMWk1UDJZMExiZHN5dVFYeFRTRnVJYjlaVHV5aEZJVjhNSG9WN0RSSE01T0o2UndhTnFNdzlrRDNDeHcwTXBfYW1uVHBhQTNiVU54T3Z2bmxyWDNZckVPX1NxbWdsM2pxd1RjZklBcFJSMF9YNGNWelFqaXZEQnZZcTNqekRJd2hLTmtIcVUtWVBaelo1WGRXemdJQ0w1QXZMZUlyWW1ESHpNUTJ5ZENrQnhWajUwdVFfd25lY0hDSEtNUFRpTTQ1RkNXaGN6Qw?oc=5",
+        "fonte": "Consultor Jurídico",
+        "data": "2026-09-14"
       }
     ],
     "papel-celulose": [
@@ -273,16 +273,16 @@ window.NEWS = {
         "data": "2026-09-14"
       },
       {
-        "titulo": "TRF4 mantém andamento do processo de licenciamento de fábrica da CMPC em Barra do Ribeiro",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVzVveEVUQWZ2d08tWWxwZVhPajc2Y3FfTUhuYndlYkt0YjlvVnpwOEFFa0NoT1Q3YzZ2WF9BcGIzMlA5ZFBGVFozUkxRcThWSGxNUmxYTFBGX2owWUoyczZCenBidklFQnRsSV9EY2V4RGllU3RhVlFFWndMdUFkTHFFcjBfVWo5N2tBNlZpZElVSFI5eldhZVFDUENlVnREalU1eGtPRzNRbTVBWEdISXpmc1R6R3VkVnVMS1plelNsNm1NVzlmR1piUGFEZGdPX2VReW85TlRpTUQ3WTNFel9Idm51SmZULWdz?oc=5",
-        "fonte": "Correio do Povo",
-        "data": "2026-09-09"
-      },
-      {
         "titulo": "Novo TUP de celulose reforça papel de Rio Grande na exportação",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGRqVXZJV1Y1RVNjdVBheWJiaU9EcXc0VlFtODJEeVJlWFdzcnFkNl9ZemN3c09Sb0dtUlRSMmtnYTc4ZW9mR3g4YnhOSGlVN0ZMbnV0OUdDejdMWFlMQ3pDZGRfY0haSnh4VEdNMUhBQ2NVaTMwNS03TW9pQUpXQndCdnUtM2gxV0pYX3R2U0NtdThucjllT0VzTkJKbWt4aTNxcA?oc=5",
         "fonte": "Jornal Portuário",
         "data": "2026-09-14"
+      },
+      {
+        "titulo": "TRF4 mantém andamento do processo de licenciamento de fábrica da CMPC em Barra do Ribeiro",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOVzVveEVUQWZ2d08tWWxwZVhPajc2Y3FfTUhuYndlYkt0YjlvVnpwOEFFa0NoT1Q3YzZ2WF9BcGIzMlA5ZFBGVFozUkxRcThWSGxNUmxYTFBGX2owWUoyczZCenBidklFQnRsSV9EY2V4RGllU3RhVlFFWndMdUFkTHFFcjBfVWo5N2tBNlZpZElVSFI5eldhZVFDUENlVnREalU1eGtPRzNRbTVBWEdISXpmc1R6R3VkVnVMS1plelNsNm1NVzlmR1piUGFEZGdPX2VReW85TlRpTUQ3WTNFel9Idm51SmZULWdz?oc=5",
+        "fonte": "Correio do Povo",
+        "data": "2026-09-09"
       }
     ],
     "quimica": [],
@@ -300,10 +300,10 @@ window.NEWS = {
         "data": "2026-09-14"
       },
       {
-        "titulo": "Iguá prioriza projetos com maior retorno e vê avanço com concessão bilionária no Rio",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWJILUdDdXB3cUhVZm9NOWlBZEFBY0stRzhRbGR5WGhEUWRpMnQtaHhwajJxRDRvRXI4ZzFFYktjVjBLR2hIbzVYcFVfSGFEZHlaRzVENUl4bjFJb0ozUmRBNTZDa190Tjg4OHRIc3NDYVRMLUQ3RGt4S0JpNXZwQUFnTlNHOFEtenJwdFU1UUhNamhlbllLbkFlQWd4bEJwbmhuWkd0czdSUmJYcUdxOGJWS2ZCMW9UTEZzdWRfR2lLNFVnb25n0gHbAUFVX3lxTFBMYTJDY0ZRS2d3c3RxU2JNN2hheFR1WlVzVjAyX0ZRVFRMMDBieUVMTUxXNHdLYTA3aHU4dmdOekZJd1FmV2RMNkZqWW5QejQ2ZHlmeHJjQ2lCYVdtSTdWQ1hZYmZZT2JpWnFOVkhDeS1qQ0NwWGprbFJBWFNKcmQ4NnhqclE5MEhqcVluNnBHbWlDUDBONmJPQm1VVlY1NzVLdGdRVEhhcHVnSS1DRDFBTzRNcXAxazJKLU9qWnZ5alkxVHNYQThKQ2pUZHZWY0hFUGk1WVA3ZW1xRQ?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
-        "data": "2026-09-10"
+        "titulo": "Brasil leiloará mais um contrato de concessão rodoviária, agora com investimentos de R$6,7 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTdyNjFiWjJKdVRYM0ZsaTdkYm1DSEw3MExubWwwbWlFOC1OS1dySk9iczVZV2ZyUk5MY25iQmtSck15bDZMQmt6OGNKdFd6MEN5bTE0aVZuRzFLbTFnZTlxeEhRLTRpS0dscWxPYU0xRDVILUk2Y2ZwNDFqTHdTN0pkZWJnZElLUTdwUGYwV0F5SHhrTk5ybEtYUWNINFkwTEZCNlRKUDBWVFZEQm1ERTc4ek1rc3czVlZxSjZHb1REeWxVclFvQzRaZ1FTZG8?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-09-09"
       }
     ],
     "siderurgia": [
