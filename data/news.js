@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-15T18:45:47+00:00",
+  "atualizadoEm": "2026-09-15T21:58:13+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
-        "titulo": "Crise no agro gera calote de R$ 48 bi e transforma bancos em 'fazendeiros'",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzEtZEF0WFBGYnFTWUJ0NmxjYWpWQnlNcnN3ZW9sVF8zbVZSazZsS2wwRXUtOTJ3anZxWDZyd3o4alVuN0xtZDZNRk44UzEtalNKT3JDb0VSOWFMWVRlMWNtMEVUSl9VeER5UzBnTnZFdFlKZzF0eFJMVHFDS3pwaE5KQm54X0xBaFlEbkZsVXNUZFg4VVN5M2huZDhNYXRIVzBiTzFMYTBFQ21vMDZ6UUhzajJWV3NUeFB3cXhmY1F3cVRGSEM2RThCVQ?oc=5",
-        "fonte": "economia.uol.com.br",
-        "data": "2026-09-13"
-      },
-      {
         "titulo": "Agro na B3: entenda a tese de investimento de empresas de insumos e terras SOJA3, AGRO3, TTEN3",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVxR19mRWRGdWZwRnBXUTB0LUsyZlJVSk9VTTJtYjFLRElkZzNDSXlGbHVSQzZwbTNCQ1M4a2ZWcHdROTM2c3otTC14UmdnOG5LaWxlRlNVMkNlRE5WV0QwQnEtRzdLSVlVQzdsYjJhOUthVW9ZTVBhLUh2d29TRUJHWjNIWUNOVnF3?oc=5",
         "fonte": "ADVFN",
         "data": "2026-09-11"
+      },
+      {
+        "titulo": "Estudo revela quanto o Brasil pode precisar gastar para transformar o agro até 2050",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWjVoYUpudGwwQUtJSmRtVnhNMzdWbWd3NWo5cHY4aElvVXgwTG1ZaG1aTU5UOUNoY2FjWFhIV3hJd09EQUVmYzhMZXUwMGY1VmlYMVAxRVJDRm5rUnF6eXlac2NiV0ZLY1d2ZkxXZE96OVczWWVfVEhUMEV5bmJwNlE1WkZRNGZub3FXSmFwd3U1MzZaZlBEVnRUMzdOY3FzTEdhYjZwMjlZbnNiUm1hMGx1bkRqcEZIc0Vj?oc=5",
+        "fonte": "CompreRural",
+        "data": "2026-09-09"
       }
     ],
     "alimentos-bebidas": [
@@ -30,30 +30,36 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
+        "titulo": "Conheça os 4 motores para ampliar investimentos em infraestrutura",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMEo1MnctdDZnazEwYUItM2NVZm81ZkdsWndGQUJSekdRQWdXaW5nYkFweExsTk04R09aTkNUYVNQSHlLR3BtcnZodnJUZnd5TEliaTFaanYwRkxzY2NrNHROSzRtWWNVY0pEMG12Z29aa3p4WFZOVlVYUzBxMHpTR2lmNXF5VmhXd0t2bGlvV2duSFFlQ29fa1NHWWh0VTBVdTh6Y1dwTjRVOFVJWDAzbWpqZWU0SEVfc1A4czZUcVkxck85dWJOZlMwN0E?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
+        "data": "2026-09-15"
+      },
+      {
         "titulo": "Uberlândia recebe investimento de R$ 120 milhões de grupo atacadista mineiro",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUTZSQlJzOWdkTEIzZnl1ZTdPZHR0WndKQnBCQ3l1bHlFSUwtd3Z2Z1lHVnZIcDRGOFNNc3htNnNmUGN6Z0ktYzNlNjZVQWxqQXRMNzhoV2VZcjVabkZyeVZoMkRqMzVVdG5ZMjFIYkJlQnhJdzZMcmtJWHZwMnc5LVFUQmZuNFphZ0FFWnpoS2oxaHduYVA5UjRNTUtNdmYwQXd6MmU5eldTNS0ycllYaTUtc3U1c01WY0NNVg?oc=5",
         "fonte": "uberlandia.mg.gov.br",
         "data": "2026-09-09"
-      },
-      {
-        "titulo": "“Unicórnio” chileno NotCo vende operação no Brasil e acelera metamorfose para empresa de IA",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU9zV2I3ZlpNYlA3MDN2Q0JHWVpWbWFMaVBjX2tVMG1Kd2ZBQ2FBUVJSQ01DT3BZcVlJYkVKeWNPaHBkYWJhVUo3RnFERG9KMUt6V1F5T3lQUmc4UHYyTXJ4dnNCWjlIc2NZYnN6cEo0R3RjQmozbFpXV2I5NGZuSWEzRlhLQk83bDU1TjdsVHl2OHRpaW9WQ2J5enVXVi1oYmFzd1Q2N2c0dXhLVHRzOUM0SEVPdHlUVjFZ?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-09-11"
       }
     ],
     "automotivo": [
       {
-        "titulo": "Motorcraft ganha novo logo com oval azul da Ford e absorve linha Omnicraft",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZEgxSElnQ2k5S2FpTm5mRnN3ZkJyMkI2aTNWXzhLalZhLUhGcE8xQ2VuT0EtZWNZU3JSYU9mWHB0SllCc0lqSGh2Vi1OTGRmU09YZ2ZPcWpCWnZldHV0NTdkTlZRcmhKTFEtZVpicHZ1bW5iTl9laXl3WDFEZ21EbW1KVkVOYWYzcDZESmY0bktEaVFOMWJTMFc1Z0JPaWx6Y2g1TkNWRGNjTzB1M2tXYXBIOA?oc=5",
-        "fonte": "mecanicaonline.com.br",
-        "data": "2026-09-11"
+        "titulo": "Renault Geely reforça investimentos no Brasil em R$ 2 bi para produção de carro eletrificado",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZGhZVzZrOWY1eVZKS1ZORkJJOHNLLWVEVTFRMTlSS3RVeVlBNVR3QlZIVUxXX0J5ZGZieWhvVU9FMUNTMF8yeW0xbU11Y3lJQUV1M21sTHZUTmpRaU05WkNrVXF2UFRsTnVGbzVzZW9jNzN5Vm1JcFlmYzRNcmJydVNLWQ?oc=5",
+        "fonte": "Diário do Comércio",
+        "data": "2026-09-15"
       },
       {
         "titulo": "Governo federal vai perdoar dívida de R$ 6 bilhões para montadora coreana abrir fábrica no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPanFKSHZCWlV4dzlxRTc1UmdXZEhRU3hRcG1YcnYyX0s2Z0wwSUtfYnRUbTlVRE9WSHo3elZDaWNNTmFkY3I3VGxyX2RDVlNWWXNMRHJvSTd4Um1EV2I5RkZlMEU1T1I3U1ZmQktLamw5NWdWZkNOM3JWZDFVTUtmakFmcGNLOXM5SVAtWW9RNGs4Z0pTQ0JVS25zVV81cFhDLXpCQkF6cHdlWFVkOFdtOF9QNVlVaFFKTTZiQ09val9QcjRxbUJieDVR?oc=5",
         "fonte": "Portal Tempo Novo",
         "data": "2026-09-15"
+      },
+      {
+        "titulo": "Motorcraft ganha novo logo com oval azul da Ford e absorve linha Omnicraft",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZEgxSElnQ2k5S2FpTm5mRnN3ZkJyMkI2aTNWXzhLalZhLUhGcE8xQ2VuT0EtZWNZU3JSYU9mWHB0SllCc0lqSGh2Vi1OTGRmU09YZ2ZPcWpCWnZldHV0NTdkTlZRcmhKTFEtZVpicHZ1bW5iTl9laXl3WDFEZ21EbW1KVkVOYWYzcDZESmY0bktEaVFOMWJTMFc1Z0JPaWx6Y2g1TkNWRGNjTzB1M2tXYXBIOA?oc=5",
+        "fonte": "mecanicaonline.com.br",
+        "data": "2026-09-11"
       }
     ],
     "bioenergia": [
@@ -124,19 +130,25 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
-        "titulo": "Primeiro leilão de transmissão para 2027 prevê R$ 12,9 bi de investimentos",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNNk0yMTdwMXJXc2dkdDFua3lwMk91QUp1cnpSektoOFhQeV9vOGREUVRNQzZfUVlmbDhMQmhyeFJuZDJRSkF2MHF6WXF3dXBrWnVyWUpFdlEyMTY0RGNIVnVqTGVhbVlpOGZqbE92aVl2ZEdXckQxeWs5eVBINHFhTTJHLWl6N0J4c1dRVmFRNUt0cDE4a0daeDk5eXMwc19yQkxQQWg4THh5alhfU0ZJRtIBtgFBVV95cUxNY0twdm5zWWFIb2FVZVF1ZVF2dW82UXc1cjVheEk4TnV3QkJ3ZTNMbkZKRWJXalVYUk5nLU80MXBzY3VtcEVCeWFnMEpMM1p0U0ZjYWNadHRDdDlkQlFFaHNJWS1pcFQ2ZkZqY09sb0p6Wm52VXNxc0tXbmtkOGsxTTItLUQtT21KRlRpaEM1TWpOaGJSblhfMi1JcTB6M3AzQW9QWDZqMUxwVlZTTFJtNG5HdnpnQQ?oc=5",
-        "fonte": "InfoMoney",
-        "data": "2026-09-08"
+        "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEllWEp2VWEwXzFxOFczYXRJdmVLek5jRDNqQzUtQzNBY3NQUzg0akVQNUZ6VzRYMGdOSmFfVS1USlBoblQzZzQyTzBvRG95VFdwdXBGOWItYlByd0FHNXBwdzJuZkdUMlppRXR5NGRlclhTTXRBeHZMV2IzblVDSWpjd050OWNmX2pBbl9xQ2N2YTI4WkUtbTNza0M0Q3B6emVKaExOckhpS29XdWpxT1NyYl8xOC1pNWI3Z3AzUzFWem5YZzRZTko0cGxfYTR4OV9OdlJFdklfTFNK?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-09-10"
       },
       {
-        "titulo": "ANEEL abre consulta para novo leilão de transmissão; certame terá baterias pela 1ª vez",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9MOGlsWlViWWJqREJxMTF1cEtjcGQ1eDl3RjFsNF93anpTNWZCWDh5Z3ZBbHRmWDdySWgzLVhPNnFqeTlLOUljNGFoOXdPQ2h6cUQyaXNKdEp2YkpneU9mUG14d1RoZE1oYzBKYS1ZZFBzc3c?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-09-08"
+        "titulo": "Brasil pode ter primeira contratação de bateria em leilão de transmissão em 2027",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOem4yd0FTeEhjTzl4NkY2c2dkVTFkdktTdkxwdUktYUExc1BWMDNBNl9NVGJSUTY0OUFGc2c3UmNnX3VGZ0haRUpfX05pMDU4NTF3Uk1leGxmZFVBd3BJenQwcWh5c25DcGEwVF9vUm1VS21FLUk3LVNmVEJTNkFiT1JET3BUOGhpOWM3QkRPWkVIODU1SHFLSFV4bFd2UGZiV3prQktZNFUyYkYyNkRvU0J0bi1ldmM1SUE?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-09-09"
       }
     ],
     "solar": [
+      {
+        "titulo": "Brasil carece de estratégia para liderar transição energética",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaGNYcTFiZU1FazJRemhzUEF0bEFQYnJJNm5Cbl9uSVBGNE1jOUJtTVhvQjNrVm9uYmlHVWZBYXpFU1pXOWVVWGsyc3dXRVlENF9ING5qSEowc01RbEtNQVBvZWFpQXo3WnJpYTY1Z1FDeWxHcE5OUDRqb05INjBpd3RzZWtXV1M3Qk50aXRuRU5NMlhzeVVCVjQ2Y21wNnVm?oc=5",
+        "fonte": "FecomercioSP",
+        "data": "2026-09-15"
+      },
       {
         "titulo": "Na bonança do Redata, lobby das renováveis tenta tirar o gás do jogo; veja o Radar Energia XP | Setembro",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNRUhOV2xLOWhYZmtpMjNmblNyN1REYVNOMkxtbmNYMldvRExjNWctb3h6RjU4dVRqaXJiLW43Q1QtaDJZUGtTZGU2SzI2UlhwTl93N05XeUpJc3VpV3FiTEJsTUFCM0lLeFFzQVVYNGkzUllrV3hQaG8xWS01ZzZKa0ZlLXBPNzQyVW1NZ2lINDN1ZnY5a2hrLWtnUlE3ckFuRTI4Y0NuWEZFN09MeDZfRW9TYU85WC1oaXo5NzJpQmI0Mk1ZMUJxTlU1RjIxQlFjc283N0ViNEd3UE5XODQySg?oc=5",
@@ -148,12 +160,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOXlDWnAzQ0xmTlBHdUlJZlNFYXpnVVlkQ005Q3pIeGlscU9PS2UzTWJuNTI2Q2hVTnZicy1sbE9NSWs2Z2k4OWtfUnhKRUdpLXZCU0M5QVNVZTkwQkhJUnF5RHp0ZG9oOE1maDEzcFA4bVFYR25VVlA3M1k4dFhvd3NZTC0wY2I5cDlQNDE0SkN1U2lEUEFxWlJUQko3RnA5VVZzRnN6dDNFTnFNTTdZSA?oc=5",
         "fonte": "MegaWhat",
         "data": "2026-09-11"
-      },
-      {
-        "titulo": "Placas solares exigem investimento no começo, mas podem gerar economia por décadas, reduzir a conta de luz mês após mês e transformar o gasto inicial em vantagem financeira no longo prazo",
-        "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQZlpLR0hVNW5Ja0tMZWQtWlZ5OUdvWlIyNnY1MTVjXzlvUUZzUTJUcW91MkZwcGhfNVZGanJwVG9tSURJQ1lMQW9EQVVRcFQ1RXpibEM5d3ROdzd0VWJQZnY3S2M1NXRPU2hEcDlTaXFFY3MwNFI5Y3RQcVllUkhWYzJVQzBTbXBZZ3ZUcWZXYVM5cExtMXJqZ2dyNVZZSjd5cHZIa2JOb29DTFNPXzBsS1BWeTlsZDBQdG5qVXNkbURzaEZNWndhLVRiNFllOXZKd2szdTVISV8wazQxVVRFVFFqYTBUUVRuTjVjRW10SkdxMHY3MjItYjRNMnV3Mm8xMS1vN0lNWkJUaXBUZHhnRWFFdzZ6WldLc2FBeWU2Mk1MOGRmMHl3V09QXzRMcVZWaDVRNVZqMHNKMk9kRzRHYU5Kal9Dd09xYWk4ZVJ3Y1BRaTVZUDBNS1NR?oc=5",
-        "fonte": "Olhar Digital",
-        "data": "2026-09-13"
       }
     ],
     "epc": [
@@ -193,16 +199,16 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
+        "titulo": "Renault e Geely anunciam investimento de R$ 2 bi para desenvolver o 1º carro nascido da parceria",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONWFJMnNXN3hGUFpvWENiazB2Q1Q5eFlYVkRzUnVsdU1Rc01KaU9MajlzVnFscDhCaG9reUVFNGpzU21HOGdyY0lXQzVCX0xDc01lR1Z4ZHIzbi05Uy1mSVlTODBxY2RoMk9RMEJGWHZiTEJydGVhUVBzZzE4Um52d2pyZFBtQTN6aFNvTEVEWlRWUHJzeVBRQ1ZkNzd2R1J6UC1FNl9TbzFRa2xLM2NIcTcwT2lFdUdEQmVuaW0yNG9VbEdFYXB5WWlVSmctUXpHQmhfLXpQNnRCbm9XTlV1YUtmSTNja2V40gH3AUFVX3lxTE9Pc2YxUzE0ZjIyaS11LTdWYVlkNmkwU0phZmtsbGc1a21mRjdOYy1WLU9vckRuR1l4dkltQmRrUVBwNURiZVZrRm5zaW5HWHZqbWF6VGJTNmplUjgxaGExS1IzNDNMRHBpaUZndk9KcEZyZmprQkg0X09SbXpydzN6aHEyTHlEazFXd0VmN0lfWER2cE1Eb2FtaXhJMjlyd0x3RkJTMWJQWUlJV0ZaLUhORm1xZUQ0Wm9hbC1aWlRDdV9MU2d5UHlJOGs4WE5aQzJlc21xSXlzZlRYU21VLTNhY3habmdvVnRtMURWdVk4OHM5Zl9KZFE?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-09-15"
+      },
+      {
         "titulo": "Indústria de embalagens investe R$ 65 milhões em nova planta na Serra Gaúcha",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb0JBU3VNZ0V2cjA1SzB4YnJzbkdpUmNRSWphWTg5QlNoZE03LVM5MW9LRWd1ZzFrY2NmeXVrbDQ1V0duaFotWTJPcWV4dFlKQVUyWEkxMnNuWGdUbi1qX0xMWHNkalZSaE90b3pYRFdUb0dOMVhGN2NyT1BZcFRJTW9oVHpZaUZ5bVlWeldUQklxNklGcE1MSzJSZmxDTDNDdVZ6WmNRQklybXdEekJmV3o3Rng5QlJGQ1Z6VzZJSERhNnRhQjI2N0JOa3BNWDNRSzFzaVNpbDVmb1pXd2xSMy1HblBoUHVmbVB2eVBlLS1zc2Y4bWlpZA?oc=5",
         "fonte": "Jornal do Comércio",
         "data": "2026-09-14"
-      },
-      {
-        "titulo": "Investimento na indústria extrativa cresce 1.366% em 27 anos, 15 vezes mais que na de transformação, aponta FGV",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTdQaUpFVTdfX2ljSkR2SHNIUC1jbVZncGkyUWxyQlkzb0hweFp6Y1k5aHhUVXh1MmJGNV82NXlfbVozMEExVEpDS1R6N0hlMU44blJLRVg0bEk4V2VnOVlPOXVGR1hwS19ZalhJWlJ5T2lfNTlfaU43ekEweDBYNGdRV1lWMU9CclFTdg?oc=5",
-        "fonte": "Agora RN",
-        "data": "2026-09-11"
       }
     ],
     "logistica": [
@@ -249,7 +255,7 @@ window.NEWS = {
       {
         "titulo": "Terras raras: por que o Brasil está no centro da disputa global por minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMDNfMDJzOUhETzViS1JBcUZFY2RsZ0VEcWlFQURhUXQxRmpxeVVXY0cyT3BTdm14YjlFR3J3ck9Wa1JKMWxGRlNZeXZ4OG1LcjB1WnNzOWZ2aDBfdmNKcEgtcUhWODR4enlnMVFOUWJ3LThnaHc4TnBOMWtkYUU0QVJFNHQxUzJOSDA3S0hGRkhHX0dRRTFoVGR2NGFrNThUN3BZemdBNkNZWC1ZTzVXeHp5bG5LY21NYlBF?oc=5",
-        "fonte": "theconversation.com",
+        "fonte": "The Conversation",
         "data": "2026-09-09"
       },
       {
