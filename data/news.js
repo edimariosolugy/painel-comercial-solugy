@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-16T18:44:55+00:00",
+  "atualizadoEm": "2026-09-16T21:57:49+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
-        "titulo": "Agro brasileiro pode gerar 314 milhões de créditos de carbono até 2035",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZG83QkZlTVdwRVJldWdFVFNlX1pjaXdoWGp0NTE1R1FvbkxHSUYxM3Vkd0syOTFWNFJCX3ZfYVZiZVpHbHJrc1J0bkM0UFdQSEhTTFlVYmtXMVdfZnJFT3FvUkdFdU9SWlVOcWNKVGVPTE8zVk5nRmtJU1pjTzI1NDVBSGM3cm8ydWhicWZNaEZIdUViUEdFNnFvS3Yyck1rSGdR?oc=5",
-        "fonte": "O Presente Rural",
-        "data": "2026-09-14"
+        "titulo": "Crise no agro gera calote de R$ 48 bi e transforma bancos em 'fazendeiros'",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzEtZEF0WFBGYnFTWUJ0NmxjYWpWQnlNcnN3ZW9sVF8zbVZSazZsS2wwRXUtOTJ3anZxWDZyd3o4alVuN0xtZDZNRk44UzEtalNKT3JDb0VSOWFMWVRlMWNtMEVUSl9VeER5UzBnTnZFdFlKZzF0eFJMVHFDS3pwaE5KQm54X0xBaFlEbkZsVXNUZFg4VVN5M2huZDhNYXRIVzBiTzFMYTBFQ21vMDZ6UUhzajJWV3NUeFB3cXhmY1F3cVRGSEM2RThCVQ?oc=5",
+        "fonte": "UOL Economia",
+        "data": "2026-09-13"
       }
     ],
     "alimentos-bebidas": [
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "Projeto Brazilian Suppliers finca a marca Brasil em uma das feiras de alimentos e bebidas que mais cresce nos EUA",
-        "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNcTFWaEFiNXBiNWViODF0R3dUUW53cWFKR0xNa0pBamhHdUQtaHJkd0RXY0h4azFpalA2d0ZBVFpINThsVnRLN0VNeGxDRDNlU3dTMXU1bGtIeDBIMXdfb0ZnWFd0MHNJZDhjZ2FzOFZvZGczOWtYV1JFeFFNUnZNV3RkLXcxcTNoemZySEV3c05SUXlwMTU5YUZmX0FsZDJSWklCWFJYYWNQempXVGVrNVlybzlFbjlpSF9ydng5bmZHMWlhSW5WRnJWVFcyVWhOcGJ1M1ZRVURlVGo4V1FpTWRndnJjZGlIbzZOVkg5eW5wZGpXdjVIUTd2RXhRRjZHRzkzWWVGUzZIWjVXZkJxeTJNOWxHUQ?oc=5",
-        "fonte": "Apex Brasil",
-        "data": "2026-09-15"
-      },
-      {
         "titulo": "Conheça os 4 motores para ampliar investimentos em infraestrutura",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdmNWSE93TmV4LWNVSUhlS0hRX1NiVGtpeVZ3SGY4MDdLUEViMl9EX2RrVXprUnl2R1hYQTQ1YWRJWGxKYXRCRW5aRkpBVVF2b090N2xhZVV5aFJsejliZ3RjMXhiYTVQd1Z4UGFwdkZuZ05zclhycGRBZDJ5QXZaYy1vSXhQck1VdWJsVFctUXpwWVlrTFd1TWt6X0l6aElUYTRrOTgtekdiYUgxcEVOejJhX19RRzBsZkx2cEJmMW5zWW5MY0JJbUl3?oc=5",
         "fonte": "Agência de Notícias da Indústria",
         "data": "2026-09-15"
+      },
+      {
+        "titulo": "“Unicórnio” chileno NotCo vende operação no Brasil e acelera metamorfose para empresa de IA",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU9zV2I3ZlpNYlA3MDN2Q0JHWVpWbWFMaVBjX2tVMG1Kd2ZBQ2FBUVJSQ01DT3BZcVlJYkVKeWNPaHBkYWJhVUo3RnFERG9KMUt6V1F5T3lQUmc4UHYyTXJ4dnNCWjlIc2NZYnN6cEo0R3RjQmozbFpXV2I5NGZuSWEzRlhLQk83bDU1TjdsVHl2OHRpaW9WQ2J5enVXVi1oYmFzd1Q2N2c0dXhLVHRzOUM0SEVPdHlUVjFZ?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-09-11"
       }
     ],
     "automotivo": [
@@ -78,6 +78,12 @@ window.NEWS = {
     ],
     "cimento": [
       {
+        "titulo": "Consulta sobre a elaboração da Lei de Gestão e Desenvolvimento de Materiais de Construção",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDdBM3RjTExTdmFIZGJlczR1a0pZMjhROEFackVHcmlha2NSMk1BRS0tbEVpREd4akgzbFdtTk05RWlvOEFMRHR6NkJHcEVTYWFSdmlWQVF2OV94YVhfWnpmRHd3RlhrUVFpMjhvSUNxZDVJTXNBWTNmYV9JWUxiZVk1QVNXRFZ3NU1jQUFB?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-09-10"
+      },
+      {
         "titulo": "Remover obstáculos materiais e acelerar o progresso em projetos de transporte essenciais em Ca Mau.",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXVCUkd2WTdScjBHNmExaUo3RkpFQnhOZkZpZS1nLUI1WlhTSmU2Q0R6REdxNjVudTdQVjR2eUZRYlU1eUFhVzdocVBsWkdrajJoZzl0UjF2UzFLMEVqMU0yQU4zc29LejZxdlVUQlBWQUFyempETk1SZmlZdE1Qai0tdGZodUh4U1F0cVVRa2U0TGVGVEFHQWtOR2dzbG0yNm9sY09kdw?oc=5",
         "fonte": "Vietnam.vn",
@@ -106,7 +112,7 @@ window.NEWS = {
       {
         "titulo": "Nordeste já responde por 22,1% das vendas na distribuição do varejo farmacêutico",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdW9HQ0wzSlN2NGY4YWRjSkJzZEtSZTZia1ZSS052OVUya3QteXA2OHYxV2NTcjAzcGdMcUZUSHJfa2ZJRzEyczR4NS1najZuZUNHbHBYVzl1dHl1bS0xbEgxR1JsakJSZG41OC1TZ2diS0JMNXNHUV9FZi1wNnd6S3NYTGh3R3lZQndOaXNKU1A?oc=5",
-        "fonte": "Economic News Brasil",
+        "fonte": "economicnewsbrasil.com.br",
         "data": "2026-09-11"
       }
     ],
@@ -118,16 +124,16 @@ window.NEWS = {
         "data": "2026-09-10"
       },
       {
-        "titulo": "Brasil pode ter primeira contratação de bateria em leilão de transmissão em 2027",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOem4yd0FTeEhjTzl4NkY2c2dkVTFkdktTdkxwdUktYUExc1BWMDNBNl9NVGJSUTY0OUFGc2c3UmNnX3VGZ0haRUpfX05pMDU4NTF3Uk1leGxmZFVBd3BJenQwcWh5c25DcGEwVF9vUm1VS21FLUk3LVNmVEJTNkFiT1JET3BUOGhpOWM3QkRPWkVIODU1SHFLSFV4bFd2UGZiV3prQktZNFUyYkYyNkRvU0J0bi1ldmM1SUE?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-09-09"
-      },
-      {
         "titulo": "Transmissão deve receber R$ 79,1 bi até 2040, segundo EPE",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1QtME16czh1VTJ5Q1h5Szd6a2JETEJ4eV9DQzdTaXpzeWhwTklIU2FXSEc1WEprQ3dmeFVTdlF1am1XM0R6dk1BUGYtbmhtMHV2V1JMbkVXWHg1REhabWh3ZXZTeEsxbVliaUdhWUs1ci1Yd1RrTTlZc0ltTFk4ekxpMUlmLVpNSXNkVVFlbGp1LS02V3Vv?oc=5",
         "fonte": "Além da Energia",
         "data": "2026-09-14"
+      },
+      {
+        "titulo": "Axia vence três dos quatro lotes do leilão de transmissão e amplia carteira de projetos em 10%",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR1hGeTgtVGhUakVUSTVVZXB2RWVGRDc3QUtGQU9QWEM2bXNKRTh3c2hiOWs5SFhycFVIc1ZQdTNEVHh1eXUzUzVVNFlRZkFjbVBKQzZoVkZRSVRERlB0TF83VUlvVFNtMHJybDZXSk5fZGdKZFl5N3pkdGtGTGxUMExQRWd2OExWVllhNkNENS1jZ21ubVUzdjhmOEtmZUFuamg3TUcyaHlUb05mR181Y1NKZXNESEpGUmJ1OFA5Xzk2cFZvdnl6MGNmZlhUcmFOMGI3WU1XejlmaHBNcmxHbk1TOTdnTEo4RF9BT19yeHlCdUI1QUJPc1ZSWXdVR3VUMnIw?oc=5",
+        "fonte": "Terra",
+        "data": "2026-09-10"
       }
     ],
     "solar": [
@@ -155,7 +161,7 @@ window.NEWS = {
       {
         "titulo": "As pautas de diferentes setores da saúde para o próximo governo",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQ1paOUhlM2NCUHRNVW96N3Z2bEtXOGtKSW9iZk0teWlTYU4zYy1RTXBmbUJidTZtVzVfWUtHcklPRkhWN016MnNYeUZqeUZVamF6ZTlKczVta2c1YlRaa2ZSRmZYU1ZLeWZsYzR0Nk5LQU5YakNfZzlram5XNGZ4eEV6SWZZdnNXWUp4N1NNZw?oc=5",
-        "fonte": "futurodasaude.com.br",
+        "fonte": "Futuro da Saúde",
         "data": "2026-09-10"
       },
       {
@@ -175,7 +181,7 @@ window.NEWS = {
     "industria-geral": [
       {
         "titulo": "Nova fábrica de R$ 400 milhões pode criar 10.000 vagas de trabalho no 4º estado que mais gera empregos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTWg0OTVaaEUydmgwSmthczBpREduNTVXTTljZ1RWZmZ1SDEtdVdWdXZEWGQxYnF6SVZoVDcxRkNsem9rUHV0X182SHp3OEhDcEc5RVVLLWNONHA2Rmxid3lZZlBITE5ZTEdDQWhSNUNTQVJnSy13WmFtMW8yQ09nRWprMmlsLVNGYmVRU0kwb1FIaDJ5QlJOVjBWaEl1Q0F6bW9GV0V0MmV0STFMb3JTX0xCUkVGQzhHcndPR2c1Yk8tUFRQMU5ULTRnSlJQRjJmYVVPQy0xeEZ5NVlmMEN2Nk5TdTRTWEhzLUJmTE93?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN1lWdklkYU9zbmFEbEx5WG5Uc29FQk9uc2FDNUM4ZnJpMUIycC1xWnBDN2x0cWxZUnF2VmE1cXAwLVZaWXh1Z2JPOGRhdnBzYk1KQ3Z4VVVFam1rcjJ3dktCRFlqcTM1MWh3UG5Wc24zV1Q5Y2l2Nkw3MFpCM0dlLUZnNVJuZVkwY3NQQ3pnVWxMejZCVDJhNjBROUZHYUt1T29VdEJDaEVpWlBFSHEzUlZ1aXVUQXlNaWFRQ1hsNVA0b0o1X1dxUmlISUlwX3NvRUIyMHBMcW9RN3U2c01neDl0eG1vb3YxOExQcA?oc=5",
         "fonte": "jornalcruzeiro.com.br",
         "data": "2026-09-16"
       },
@@ -236,7 +242,7 @@ window.NEWS = {
       {
         "titulo": "Terras raras: um passo pequeno demais",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb25wMjhZQVhQRW5VMzhrTnEzY25sQVhMZTZ2OWx5VnpqWF84Q1AtaHdWVkhsMlhRMUx1M2lXNlJLcU45MEVIMnpMT2gtbXlIN1RZa1dYVVgwRHBSWDVycGRFV29XamVhRUdvb3I4OERwNEJxTTR5UkFjT2FMNURXdm80TzIyZG4x?oc=5",
-        "fonte": "outraspalavras.net",
+        "fonte": "Outras Palavras",
         "data": "2026-09-15"
       },
       {
@@ -246,10 +252,10 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "'Terras raras': aspectos legais e controversos do PL dos minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMTNrbURwMWk1UDJZMExiZHN5dVFYeFRTRnVJYjlaVHV5aEZJVjhNSG9WN0RSSE01T0o2UndhTnFNdzlrRDNDeHcwTXBfYW1uVHBhQTNiVU54T3Z2bmxyWDNZckVPX1NxbWdsM2pxd1RjZklBcFJSMF9YNGNWelFqaXZEQnZZcTNqekRJd2hLTmtIcVUtWVBaelo1WGRXemdJQ0w1QXZMZUlyWW1ESHpNUTJ5ZENrQnhWajUwdVFfd25lY0hDSEtNUFRpTTQ1RkNXaGN6Qw?oc=5",
-        "fonte": "conjur.com.br",
-        "data": "2026-09-14"
+        "titulo": "Lula sanciona nova lei dos minerais críticos hoje; entenda o que muda",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlhuU0w2TDlnakI0TFU0YTJQV3ZzTV9scUZOWjdGQy1IUUo2TU8ySzNZSThJQVRwX3RIZWNNV2ZFdTRzNGpRc2NkLXY1dTJYcXAzWE5HeU9jNjNnREdVSTdSdVUyR2lBWVRkazR0X1Nld18tX3Q1d3RxQWJqallFanZ6bURlRWducUdpY2xad3FfSXlUMWpCRzhBVWt3emEtbW9raWdkWQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-09-16"
       }
     ],
     "papel-celulose": [
@@ -281,26 +287,19 @@ window.NEWS = {
         "data": "2026-09-14"
       },
       {
-        "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-14"
-      },
-      {
         "titulo": "Iguá prioriza projetos com maior retorno e vê avanço com concessão bilionária no Rio",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWJILUdDdXB3cUhVZm9NOWlBZEFBY0stRzhRbGR5WGhEUWRpMnQtaHhwajJxRDRvRXI4ZzFFYktjVjBLR2hIbzVYcFVfSGFEZHlaRzVENUl4bjFJb0ozUmRBNTZDa190Tjg4OHRIc3NDYVRMLUQ3RGt4S0JpNXZwQUFnTlNHOFEtenJwdFU1UUhNamhlbllLbkFlQWd4bEJwbmhuWkd0czdSUmJYcUdxOGJWS2ZCMW9UTEZzdWRfR2lLNFVnb25n0gHbAUFVX3lxTFBMYTJDY0ZRS2d3c3RxU2JNN2hheFR1WlVzVjAyX0ZRVFRMMDBieUVMTUxXNHdLYTA3aHU4dmdOekZJd1FmV2RMNkZqWW5QejQ2ZHlmeHJjQ2lCYVdtSTdWQ1hZYmZZT2JpWnFOVkhDeS1qQ0NwWGprbFJBWFNKcmQ4NnhqclE5MEhqcVluNnBHbWlDUDBONmJPQm1VVlY1NzVLdGdRVEhhcHVnSS1DRDFBTzRNcXAxazJKLU9qWnZ5alkxVHNYQThKQ2pUZHZWY0hFUGk1WVA3ZW1xRQ?oc=5",
         "fonte": "Bloomberg Línea Brasil",
         "data": "2026-09-10"
+      },
+      {
+        "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-09-14"
       }
     ],
     "siderurgia": [],
-    "odontologia": [
-      {
-        "titulo": "Contrata+Brasil abre mercado do setor público municipal para as MEIs no RN",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDdhZXp6MzVHS3JtYVJycC1oOHFiTDU1ejhSWUhKdEhHRDNNNU05b1lEcVZKMVJTTmlONmJpeFJDckhObXFRVkNsTEVxS1lQZXNSRkdxaFV4Y05EOC1BTVpfMG1CRi1YRXVGYUZnc0JPTjlockxNcFNpM19DTlMwODhUSC1pT3Y4WXBSdlJCMzA5S2VFN045cHNCdVNSX3p4cE1wbmZ4czBzQQ?oc=5",
-        "fonte": "Agora RN",
-        "data": "2026-09-12"
-      }
-    ]
+    "odontologia": []
   }
 };
