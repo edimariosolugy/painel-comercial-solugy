@@ -1,19 +1,19 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-15T21:58:13+00:00",
+  "atualizadoEm": "2026-09-16T00:07:57+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Mercado de capitais chega a 33% do crédito do agro, mas CRA recua",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTzk1VTF1OVM4ODlzUmhaSlVvOUl0T2RGT2JWQ0dFWE1PTWkyMHQwRDZXVkRTSnhSWG5CWTJVbGVGbnZvNm5BTGEwdGttUUV0QzVVZk9PaEVfb2d3bDQtUDhhVFAwb0pNWlZncWJidTZTTGlnTjBpX043VXJuMU5zUGxxVTVfbDN4NEkwaDRzMzlWaVNQUldqM3pyTQ?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-15"
       },
       {
-        "titulo": "Agro na B3: entenda a tese de investimento de empresas de insumos e terras SOJA3, AGRO3, TTEN3",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeUVxR19mRWRGdWZwRnBXUTB0LUsyZlJVSk9VTTJtYjFLRElkZzNDSXlGbHVSQzZwbTNCQ1M4a2ZWcHdROTM2c3otTC14UmdnOG5LaWxlRlNVMkNlRE5WV0QwQnEtRzdLSVlVQzdsYjJhOUthVW9ZTVBhLUh2d29TRUJHWjNIWUNOVnF3?oc=5",
-        "fonte": "ADVFN",
-        "data": "2026-09-11"
+        "titulo": "Brasil e Angola firmam memorando para ampliar investimentos no agro",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjBKTDBzUUY4OTV6SXI1OXB0TVduRzlCYV81RXVpWVNsSlhydVVmUDl4ZWxBa0FwZ1RDZ2dlZjRqa2I2S0dzOFJZSnptdlBSazVCRjRDWmctaUR0bjE0d3gzT1FDQV9EWTBEWGFLTW56U0wzZ0dqOGJtTjdWZEtjYXVxUFZLdy1pOThkd0EzVldaVWtRX2V5OXl5S3dWOTJJdU9UMXN2Q3FiUHc?oc=5",
+        "fonte": "Canal Rural",
+        "data": "2026-09-15"
       },
       {
         "titulo": "Estudo revela quanto o Brasil pode precisar gastar para transformar o agro até 2050",
@@ -30,8 +30,8 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "Conheça os 4 motores para ampliar investimentos em infraestrutura",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQMEo1MnctdDZnazEwYUItM2NVZm81ZkdsWndGQUJSekdRQWdXaW5nYkFweExsTk04R09aTkNUYVNQSHlLR3BtcnZodnJUZnd5TEliaTFaanYwRkxzY2NrNHROSzRtWWNVY0pEMG12Z29aa3p4WFZOVlVYUzBxMHpTR2lmNXF5VmhXd0t2bGlvV2duSFFlQ29fa1NHWWh0VTBVdTh6Y1dwTjRVOFVJWDAzbWpqZWU0SEVfc1A4czZUcVkxck85dWJOZlMwN0E?oc=5",
+        "titulo": "CNI lança estudo e debate desafios para ampliar o financiamento da infraestrutura",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOY2dDUkdzS0FpRU0wWUh3REtqNzJ5eGlWbjVkRk1CdFZRR00yekNCU1oxem96UVdjd2hiVnhUa09VU21HTk8tR2VoMEdmSGdFVWstM0ZrLTZsRGxVcWh0N2FJMUR6d1dpOUhXRkdQdm0tZDhKSWdFU0FQYl9LUG9ONlhINmtTUm9rXzQ0S0dTSTFhS1RjY0FGeTdhSVlWV0RzWWdWZnVrcUZPWC1PUkNMTzNPc0RUYmpyOWJZNTdvc0dKaEZYUE5fMUk2Zm9MM2dOSHRicElMaTlKVjdUVDVQdUNR?oc=5",
         "fonte": "Agência de Notícias da Indústria",
         "data": "2026-09-15"
       },
@@ -58,7 +58,7 @@ window.NEWS = {
       {
         "titulo": "Motorcraft ganha novo logo com oval azul da Ford e absorve linha Omnicraft",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZEgxSElnQ2k5S2FpTm5mRnN3ZkJyMkI2aTNWXzhLalZhLUhGcE8xQ2VuT0EtZWNZU3JSYU9mWHB0SllCc0lqSGh2Vi1OTGRmU09YZ2ZPcWpCWnZldHV0NTdkTlZRcmhKTFEtZVpicHZ1bW5iTl9laXl3WDFEZ21EbW1KVkVOYWYzcDZESmY0bktEaVFOMWJTMFc1Z0JPaWx6Y2g1TkNWRGNjTzB1M2tXYXBIOA?oc=5",
-        "fonte": "mecanicaonline.com.br",
+        "fonte": "Mecânica Online",
         "data": "2026-09-11"
       }
     ],
@@ -72,7 +72,7 @@ window.NEWS = {
       {
         "titulo": "EXCLUSIVO: Inpasa prevê R$ 22 bi para dutos de etanol e derivados de petróleo",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUZXWTVqMHlwQ0N4UGRsMkFsd0RPOWhzQnhFS2M0WEZPOWxQcnJWVDljb1VsSDk1V2hveFU4blc0VmZ6NXdyZ3ZRXzh1YjJBUVo2VHgydFdhSVdON1hpR3JwSnpVRThjbXE5ZXFEamt2S09xNmk2TnNGdmxGdmRwcjNqd3NxTUdZLXJUZG1FaHQzTGoxbnViNEdVVjE0VlRicnluaFh2ZEIzUnozSi1ud2R1cEExYlljeW45VTNNdEVabEtxYUZoZUtrZlkwTUVwcXVhRjVTVXlzM19wY1pVZWUtbDh4cm1EWjRPbVpFdw?oc=5",
-        "fonte": "Agência eixos",
+        "fonte": "eixos.com.br",
         "data": "2026-09-10"
       },
       {
@@ -132,7 +132,7 @@ window.NEWS = {
       {
         "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEllWEp2VWEwXzFxOFczYXRJdmVLek5jRDNqQzUtQzNBY3NQUzg0akVQNUZ6VzRYMGdOSmFfVS1USlBoblQzZzQyTzBvRG95VFdwdXBGOWItYlByd0FHNXBwdzJuZkdUMlppRXR5NGRlclhTTXRBeHZMV2IzblVDSWpjd050OWNmX2pBbl9xQ2N2YTI4WkUtbTNza0M0Q3B6emVKaExOckhpS29XdWpxT1NyYl8xOC1pNWI3Z3AzUzFWem5YZzRZTko0cGxfYTR4OV9OdlJFdklfTFNK?oc=5",
-        "fonte": "GOV.BR",
+        "fonte": "www.gov.br",
         "data": "2026-09-10"
       },
       {
@@ -199,16 +199,16 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
-        "titulo": "Renault e Geely anunciam investimento de R$ 2 bi para desenvolver o 1º carro nascido da parceria",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONWFJMnNXN3hGUFpvWENiazB2Q1Q5eFlYVkRzUnVsdU1Rc01KaU9MajlzVnFscDhCaG9reUVFNGpzU21HOGdyY0lXQzVCX0xDc01lR1Z4ZHIzbi05Uy1mSVlTODBxY2RoMk9RMEJGWHZiTEJydGVhUVBzZzE4Um52d2pyZFBtQTN6aFNvTEVEWlRWUHJzeVBRQ1ZkNzd2R1J6UC1FNl9TbzFRa2xLM2NIcTcwT2lFdUdEQmVuaW0yNG9VbEdFYXB5WWlVSmctUXpHQmhfLXpQNnRCbm9XTlV1YUtmSTNja2V40gH3AUFVX3lxTE9Pc2YxUzE0ZjIyaS11LTdWYVlkNmkwU0phZmtsbGc1a21mRjdOYy1WLU9vckRuR1l4dkltQmRrUVBwNURiZVZrRm5zaW5HWHZqbWF6VGJTNmplUjgxaGExS1IzNDNMRHBpaUZndk9KcEZyZmprQkg0X09SbXpydzN6aHEyTHlEazFXd0VmN0lfWER2cE1Eb2FtaXhJMjlyd0x3RkJTMWJQWUlJV0ZaLUhORm1xZUQ0Wm9hbC1aWlRDdV9MU2d5UHlJOGs4WE5aQzJlc21xSXlzZlRYU21VLTNhY3habmdvVnRtMURWdVk4OHM5Zl9KZFE?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-09-15"
-      },
-      {
         "titulo": "Indústria de embalagens investe R$ 65 milhões em nova planta na Serra Gaúcha",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb0JBU3VNZ0V2cjA1SzB4YnJzbkdpUmNRSWphWTg5QlNoZE03LVM5MW9LRWd1ZzFrY2NmeXVrbDQ1V0duaFotWTJPcWV4dFlKQVUyWEkxMnNuWGdUbi1qX0xMWHNkalZSaE90b3pYRFdUb0dOMVhGN2NyT1BZcFRJTW9oVHpZaUZ5bVlWeldUQklxNklGcE1MSzJSZmxDTDNDdVZ6WmNRQklybXdEekJmV3o3Rng5QlJGQ1Z6VzZJSERhNnRhQjI2N0JOa3BNWDNRSzFzaVNpbDVmb1pXd2xSMy1HblBoUHVmbVB2eVBlLS1zc2Y4bWlpZA?oc=5",
         "fonte": "Jornal do Comércio",
         "data": "2026-09-14"
+      },
+      {
+        "titulo": "Investimento na indústria extrativa cresce 1.366% em 27 anos, 15 vezes mais que na de transformação, aponta FGV",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPSTdQaUpFVTdfX2ljSkR2SHNIUC1jbVZncGkyUWxyQlkzb0hweFp6Y1k5aHhUVXh1MmJGNV82NXlfbVozMEExVEpDS1R6N0hlMU44blJLRVg0bEk4V2VnOVlPOXVGR1hwS19ZalhJWlJ5T2lfNTlfaU43ekEweDBYNGdRV1lWMU9CclFTdg?oc=5",
+        "fonte": "Agora RN",
+        "data": "2026-09-11"
       }
     ],
     "logistica": [
@@ -259,15 +259,15 @@ window.NEWS = {
         "data": "2026-09-09"
       },
       {
-        "titulo": "INTERNACIONAL | Brasil e China aprofundam agenda de mineração com foco em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmdDLUdZbWxEbjcwMDJfcmtCU3pUZUZjZWhQamptTktsaXJ0LU1vOTh2V2lrZjFKOHllTGRnMWF6N1UweG4ySXN2RUVQQmQ1QV9GNHprMXViSEJRVEhPRHVFQ2Z5TFQ2TFU3Sml0czMxNExPNlpabG1BNUxPbzE2WU5qdjA2aC1ua0hSa0ZXNldhdUFqU2RzUFhvYk5IQjRjNG43bEVLV2JUa1FJUTBCb0RJOA?oc=5",
-        "fonte": "Brasil Mineral",
-        "data": "2026-09-11"
+        "titulo": "Terras raras: um passo pequeno demais",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb25wMjhZQVhQRW5VMzhrTnEzY25sQVhMZTZ2OWx5VnpqWF84Q1AtaHdWVkhsMlhRMUx1M2lXNlJLcU45MEVIMnpMT2gtbXlIN1RZa1dYVVgwRHBSWDVycGRFV29XamVhRUdvb3I4OERwNEJxTTR5UkFjT2FMNURXdm80TzIyZG4x?oc=5",
+        "fonte": "Outras Palavras",
+        "data": "2026-09-15"
       },
       {
         "titulo": "'Terras raras': aspectos legais e controversos do PL dos minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMTNrbURwMWk1UDJZMExiZHN5dVFYeFRTRnVJYjlaVHV5aEZJVjhNSG9WN0RSSE01T0o2UndhTnFNdzlrRDNDeHcwTXBfYW1uVHBhQTNiVU54T3Z2bmxyWDNZckVPX1NxbWdsM2pxd1RjZklBcFJSMF9YNGNWelFqaXZEQnZZcTNqekRJd2hLTmtIcVUtWVBaelo1WGRXemdJQ0w1QXZMZUlyWW1ESHpNUTJ5ZENrQnhWajUwdVFfd25lY0hDSEtNUFRpTTQ1RkNXaGN6Qw?oc=5",
-        "fonte": "Consultor Jurídico",
+        "fonte": "conjur.com.br",
         "data": "2026-09-14"
       }
     ],
@@ -296,20 +296,20 @@ window.NEWS = {
       {
         "titulo": "Saneamento busca fôlego para cumprir meta de 2033",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazZseXZYSTNTdC1qTVBkTlBIMXc0cmJocndOYmNwa1FpRGsyX3dCSzJHUGQ1TmFZX25fbzhvM0pUN183RU1sdEhhZkEyNHdBNExxUWJLaFB2NkFIZ1k3TFZDTC1VRlVuUkJVa1o2LTh3QkpDM3ZJVGdOcjd3NU5ueE5QUkRWYU92Nm5JUW9rdDFSSFJyWDZ2ZWxTWQ?oc=5",
-        "fonte": "Capital Aberto",
+        "fonte": "capitalaberto.com.br",
         "data": "2026-09-14"
       },
       {
         "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-14"
       },
       {
-        "titulo": "Brasil leiloará mais um contrato de concessão rodoviária, agora com investimentos de R$6,7 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNeTdyNjFiWjJKdVRYM0ZsaTdkYm1DSEw3MExubWwwbWlFOC1OS1dySk9iczVZV2ZyUk5MY25iQmtSck15bDZMQmt6OGNKdFd6MEN5bTE0aVZuRzFLbTFnZTlxeEhRLTRpS0dscWxPYU0xRDVILUk2Y2ZwNDFqTHdTN0pkZWJnZElLUTdwUGYwV0F5SHhrTk5ybEtYUWNINFkwTEZCNlRKUDBWVFZEQm1ERTc4ek1rc3czVlZxSjZHb1REeWxVclFvQzRaZ1FTZG8?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-09-09"
+        "titulo": "Iguá prioriza projetos com maior retorno e vê avanço com concessão bilionária no Rio",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWJILUdDdXB3cUhVZm9NOWlBZEFBY0stRzhRbGR5WGhEUWRpMnQtaHhwajJxRDRvRXI4ZzFFYktjVjBLR2hIbzVYcFVfSGFEZHlaRzVENUl4bjFJb0ozUmRBNTZDa190Tjg4OHRIc3NDYVRMLUQ3RGt4S0JpNXZwQUFnTlNHOFEtenJwdFU1UUhNamhlbllLbkFlQWd4bEJwbmhuWkd0czdSUmJYcUdxOGJWS2ZCMW9UTEZzdWRfR2lLNFVnb25n0gHbAUFVX3lxTFBMYTJDY0ZRS2d3c3RxU2JNN2hheFR1WlVzVjAyX0ZRVFRMMDBieUVMTUxXNHdLYTA3aHU4dmdOekZJd1FmV2RMNkZqWW5QejQ2ZHlmeHJjQ2lCYVdtSTdWQ1hZYmZZT2JpWnFOVkhDeS1qQ0NwWGprbFJBWFNKcmQ4NnhqclE5MEhqcVluNnBHbWlDUDBONmJPQm1VVlY1NzVLdGdRVEhhcHVnSS1DRDFBTzRNcXAxazJKLU9qWnZ5alkxVHNYQThKQ2pUZHZWY0hFUGk1WVA3ZW1xRQ?oc=5",
+        "fonte": "Bloomberg Línea Brasil",
+        "data": "2026-09-10"
       }
     ],
     "siderurgia": [
