@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-17T18:52:28+00:00",
+  "atualizadoEm": "2026-09-17T21:57:21+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "“Unicórnio” chileno NotCo vende operação no Brasil e acelera metamorfose para empresa de IA",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU9zV2I3ZlpNYlA3MDN2Q0JHWVpWbWFMaVBjX2tVMG1Kd2ZBQ2FBUVJSQ01DT3BZcVlJYkVKeWNPaHBkYWJhVUo3RnFERG9KMUt6V1F5T3lQUmc4UHYyTXJ4dnNCWjlIc2NZYnN6cEo0R3RjQmozbFpXV2I5NGZuSWEzRlhLQk83bDU1TjdsVHl2OHRpaW9WQ2J5enVXVi1oYmFzd1Q2N2c0dXhLVHRzOUM0SEVPdHlUVjFZ?oc=5",
-        "fonte": "agfeed.com.br",
+        "fonte": "AgFeed",
         "data": "2026-09-11"
       },
       {
@@ -100,12 +100,6 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
-        "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEllWEp2VWEwXzFxOFczYXRJdmVLek5jRDNqQzUtQzNBY3NQUzg0akVQNUZ6VzRYMGdOSmFfVS1USlBoblQzZzQyTzBvRG95VFdwdXBGOWItYlByd0FHNXBwdzJuZkdUMlppRXR5NGRlclhTTXRBeHZMV2IzblVDSWpjd050OWNmX2pBbl9xQ2N2YTI4WkUtbTNza0M0Q3B6emVKaExOckhpS29XdWpxT1NyYl8xOC1pNWI3Z3AzUzFWem5YZzRZTko0cGxfYTR4OV9OdlJFdklfTFNK?oc=5",
-        "fonte": "www.gov.br",
-        "data": "2026-09-10"
-      },
-      {
         "titulo": "Transmissão deve receber R$ 79,1 bi até 2040, segundo EPE",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1QtME16czh1VTJ5Q1h5Szd6a2JETEJ4eV9DQzdTaXpzeWhwTklIU2FXSEc1WEprQ3dmeFVTdlF1am1XM0R6dk1BUGYtbmhtMHV2V1JMbkVXWHg1REhabWh3ZXZTeEsxbVliaUdhWUs1ci1Yd1RrTTlZc0ltTFk4ekxpMUlmLVpNSXNkVVFlbGp1LS02V3Vv?oc=5",
         "fonte": "Além da Energia",
@@ -116,6 +110,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTQxdl9EZEJBWE5VLXU1VE5kc094MEhUVlJYblZQR3Y2eFZHZ2xCZEQ3U1k4ZDlVcFFEeFI2R2QxcWdqNG52MXZuM2M1RWJsU0hjQ2xqTXNkZk4zZjJ4NFFsYXBJRVJNMXdjUGpJZmVCS1Z6NUVZTmhmWndyanFPUEZLZWY1ZjhLck9pN0N6XzJBZHBNeGJiSXA0SEMyTVZoNkhFNkZENXpINTNXeE1FRThxSk1NbmdYMlZpYVhaVm5LOWPSAcgBQVVfeXFMTXM2Sm11Qm5feHdDV016eExjX0lRYkFvUU1OcFR3RzcyS0tfUHBHekhqbmtMcnJEWjMzUUNxSkNZZWtDN1BFUjNpaGNaZko3YkNwb2M0VkpsbktYU2ZzU2NJeTdvaWU3VnJQcl9XS3RDNkpDUmJnZGFnRnMyeFZHS2JQRW9DLWRuWFZxNy11UTBwa2pSWVp6NWE3SmRfRThHSWRJME84WHJtd1JqV0FmNGRFVVNLZzg4V091UFR6VFI2Rl92dC1sQ3k?oc=5",
         "fonte": "Acessa.com",
         "data": "2026-09-10"
+      },
+      {
+        "titulo": "CEO da Engie alerta para risco de “aventureiros” no leilão de baterias",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTlWTVhMS1RWLUQwU1R1ZDRjSER3N0NjTnAwWWZvR1BndGVZdmZSNTFSUDdfaXlLRUMzMC13UlUwZ1FWYlJzcWROdWxCbGF1a1JYUE5zc2lMUzd1STdnNEZacUxwTndzMHo3b1dXTDUzVGVva0FUckdjWkQybHpmZm9RM1Zyd2x3T05TYlN1YVdCRTBsWktYOF90djNKN2Zaamw5eXFVMA?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-09-15"
       }
     ],
     "solar": [
@@ -126,15 +126,15 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
-        "titulo": "Engie prevê retomada em renováveis em quatro a cinco anos, se demanda subir",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazJ0ZVRWYTNoOWdjT3VfZVVfdlQtS2pna2s3Ujc5Yk5JX1VHZnhUbTZ0YVJ1RFBwNlNSbm5idjRBTzhDNXNmQlpxQzlJVC00djdqX0E2ZFlhOTFRVEdDOUVac2ltWnJXZm9IM21TUlJYUllwT0FiTDd0ZGxldEtBNHA5VWtJdnZ5V19lNkJDVmxEUEdnM0dlelg3OHhRMy1LUFo4SEplQU5YZHVzbk40?oc=5",
-        "fonte": "CNN Brasil",
+        "titulo": "Cortes de geração renovável crescem 18% e revelam “vulnerabilidade escondida” do sistema elétrico",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjg2bE9MYUMwVURqVjQ2d3N1cnpuNWRDVUNoa0NWNTVHZFFfajlqVUVIczRCQVBkSmxjMFJKcHlid3lWeGtOR0xPQ0tCdURMeDlha3kxLUJZMHpkc0k4WHZTTXpWYXBObDdoR2dqZmlmMnptSTF4d0JVTVRjOXBqdWNOWkp3ak5QeXR5ZVJFaVN3VmdLTnlwUEtmRTQ0OWpRcXlMUDZmMjRJTFdKR2Vkam1Hd3U0QzZuUklWdUdJZlQ5NUU3OFE?oc=5",
+        "fonte": "NeoFeed",
         "data": "2026-09-17"
       },
       {
-        "titulo": "Energia solar ganha espaço em Roraima e se consolida como alternativa para reduzir custos com eletricidade",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa09ienc4MmhnRldCUEphRHhKTHo0Nm5DTTl3NkNfM1dvNG41bDNwbEZBTktmRW1yYlo1T3dVTXRsTVdTWnlYaEMxX18tUkZpSWNqMUdCN29reFl6OHk4RjZ2S2s1c3VIc0k2OVltNE01cDExNXoyV3ZzMTlKR01HcEJhWE94U1ZwdXRablZNOUJaTnoxRFpxaXpUWlB4dVk5VnhnSVNaYUFFY3BydEVxM2hsNUpkajNwRWZSMWNWUWQxT01hRmU5OFgtSXliVGwxcThJUHQxZ3pjTDRH?oc=5",
-        "fonte": "Folha BV",
+        "titulo": "Engie prevê retomada em renováveis em quatro a cinco anos, se demanda subir",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazJ0ZVRWYTNoOWdjT3VfZVVfdlQtS2pna2s3Ujc5Yk5JX1VHZnhUbTZ0YVJ1RFBwNlNSbm5idjRBTzhDNXNmQlpxQzlJVC00djdqX0E2ZFlhOTFRVEdDOUVac2ltWnJXZm9IM21TUlJYUllwT0FiTDd0ZGxldEtBNHA5VWtJdnZ5V19lNkJDVmxEUEdnM0dlelg3OHhRMy1LUFo4SEplQU5YZHVzbk40?oc=5",
+        "fonte": "CNN Brasil",
         "data": "2026-09-17"
       }
     ],
@@ -164,7 +164,7 @@ window.NEWS = {
       {
         "titulo": "Chinesa Geely vai fabricar carros no Brasil em parceria com a Renault, com investimento de R$ 1,9 bilhão",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVW5ZVjdEN015UzRHV1g4cXBQZG9Edm9KY0FDRmhyc1E0N3dyZmRyZ2ZJcW1KUDNkU1pKSU5LNkZ6aHRFYm0wRWQzYmdmWFhIQ3FINnFUc09Uc1JpVjhadGRja1hDclZPYUUwbXpNamJldDh6YzdxX2N1LVk4WGxOSnVNSlZqMmxfc3Z5aWk1ajBJUlExa1JMa2NlaTdvMm5RWVd6Y2RqLWROM1pJNGMtWldVVENQUUluUjJNdVdKbHZFdUlyU2tvaG5YUmJLUzFKU0JQSmZ3UzJHSVo0YXNB0gHuAUFVX3lxTE0xZGp1OFhhZ0NHeVVVd3dfUk94R0lhc2k0Z18xc0otS094UlVoZlVPTWFCcXJfeDNxSUVRTTJBaHBsUmoxOVU3TWNtbVNWNmdHYlltSG5LUlRNdFVJODZFYkVoa2xIVWtqNk5RX3V2c0w5VVRsV1I1bkxEd0lGMjdoY19ZOFFZSy10ejFRRDVBTFd1RV85OHdCV0JLMW5NQVU2Q2szSTVNTHpGcHNMM3BZM19BcTBMUEk3X2hFNVlwdlBJd3pObm5DYlBVb2tnSnR5Y3g5VGo3ZVoyS2ctcHVNUHRraUJad1JqNVA5WHc?oc=5",
-        "fonte": "G1",
+        "fonte": "g1.globo.com",
         "data": "2026-09-16"
       },
       {
@@ -202,36 +202,36 @@ window.NEWS = {
     ],
     "maquinas": [
       {
+        "titulo": "Plano Brasil Soberano libera R$ 22,6 bi em crédito",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjRteTV1TU93bHozVzEtNmNtb211SkpUWjJmcXZrUF9Zei04SGVKeWdNU2JOLXFmWlV2TWN0al9iNm1jTDFQX3ByeUpqbTU2d2ZNRmtBaE5fdmNKUWpqVXV2UDVFWGV1SlVmSTVsZTVRVzZUX2kwSkxDWkI3UmFTMmljRFRqSE9ZQk9qX0pXVFNaRFpFbkJVMlc1QXdDVF9lbGF3aS03dw?oc=5",
+        "fonte": "Safra",
+        "data": "2026-09-17"
+      },
+      {
         "titulo": "Empresas com Governança de Dados planejam mais investimentos em IA",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEZWdUlKbmpjTFZVQjhpVEdUREEyUlV2S291VUV0bVJtUGVXWk96TlpzVERIdmxxZ3pBYndQTzFmYlh3TjRzWnNHTFRFbjBHdTVzUWpNMUNmeElmNjBReHBxa2pFRkRYMTdKTVp6NWRlQWFlSElFN3UxT1JwZlV4OFp30gGCAUFVX3lxTE04RlZ1SUpuamNMVlVCOGlUR1REQTJSVXZLb3VVRXRtUm1QZVdaT3pOWnNUREh2bHFnekFid1BPMWZiWHdONHNac0dMVEVuMEd1NXNRak0xQ2Z4SWY2MFF4cHFrakVGRFgxN0pNWno1ZGVBYWVISUU3dTFPUnBmVXg4Wnc?oc=5",
         "fonte": "IT Forum",
         "data": "2026-09-17"
       },
       {
-        "titulo": "Crédito para produzir: planejamento é decisivo na hora de investir em caminhões, máquinas e expansão rural",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOVNHaV8zUmlFZE0xRXNWRFlKRHhPRDJVRV96YjlZamZRZmc5SU1KMkYwWEx3cUNKOVQ1ZTREQkYwNm9xMlgtQnl1bGs1RV9JQnlxQUQ0Wml3UExpakpRaWVUTGhMN0VpQVQ0SkRCNU5nUG5KcXlBcldfUWxacTY4S1N1U08yVEVkbDFhNmZvWFhDRnRHMWdBNk5INHR1YmpCX3BKQTFtdzhNdGVXTXJYaGFTaWZENGdzbWV0akRxVzZiMU9IUmE3dkI0Rk4telJEb2ZaQ0ZwaGxXRVloMWxkQkkzYw?oc=5",
-        "fonte": "Gazeta da Semana",
-        "data": "2026-09-14"
-      },
-      {
-        "titulo": "Indústria da China acelera com tecnologia, mas varejo e investimento seguem fracos",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTC1kZk5sT25ZR3Azck04dGtHelp4NDRFS2JJcHE1V1Rnb1pPTjVNVHBGS2E5ZVBkcVl1S2JiOHh6LTJRNUZsZnZ1MTE2dTBZSjZjYjJiR0E0RzVMbzRVTWJNX05uSDB6UWVfa2FrbmxqdzZRem5RMnJHX1ZZSW5waGl5Znd4NnM?oc=5",
-        "fonte": "Agência Brasil China",
-        "data": "2026-09-15"
+        "titulo": "Exportações: BNDES abre pedidos para R$ 22,6 bilhões em crédito do Brasil Soberano",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNSWJncmdJM2xmODZIdENqWkZMeGNVZjFyX1BzWG56Q3BWazUyZkVRTXM4cDFLeGhIbU85SGtXdkRPR1RaeEk0clAwazRqcHBheHVTTW80VjVrYXpDZU1wZHhBWU9xc2t6ZkxhTE95VDNlUnQxVmwyVTZBSG1jRXNiaC1nM0ZDMF92ZzFhZm5qQ3JLcEJCMkJIUlpsdzZMS0pBc0h4ekFvajk5dklXT05kb0tNMWlTd3hhNUw4NXFhUUN5WU5lN04tUU1sRzQwMkNUMjc5eFNOZ1Q3OS1Qdm44ei1yX0ZHTUE?oc=5",
+        "fonte": "Movimento Econômico",
+        "data": "2026-09-17"
       }
     ],
     "mineracao": [
       {
         "titulo": "Brasil cria política para ampliar produção de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUdVSWpTVDVJSmI0c242SjBBdldtd1g4MEtyeWhaVlhvTjRtZHA2S3FrNzIwb2lreEp4TkRQeXNsWHNkZVl2VzBfM2h3cjB3Y2o5V1doT1g4WTIzU3NVQlE2N0pRVnJKNHR1ODNBUFFlZlFOZWY2S3hxLW9xdGpQYmhWQ0R6WEdxVFIyeHp3RERscE8wemhEeWNkemZDSTh5aEoteFNHV0FjTG8?oc=5",
-        "fonte": "brasildefato.com.br",
+        "fonte": "Brasil de Fato",
         "data": "2026-09-17"
       },
       {
-        "titulo": "Lula sanciona política para exploração de minerais críticos e estratégicos em território nacional",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmk5dG5HbkZXOFJyVWtlLUhsOTlvXzlPQ1NyZk5TTURLdzE5MTFLWEF0WU1FTkhDUWd4cV94Yzg2WVhHQ1Q0OWpVUnh2enFRYXVTREZERlF2MEktV0VRbk5GSjEyV3pFeVJfZTNOQV9wV1RxOXRPa3F6Vnh4N2xWdjliek95SGhsd0ZadmdaRElINlZZaDJrM1hYN1ZHckpBMVM1NUVtM3JxWWtGUVRYMGxlN0hRQXVfbTUyZmk5d3dUQXYxYXdCQkFTVkdCVFI5b2tVVXpEcXliSHNRS3RGaGIweE5VUDTSAfYBQVVfeXFMT2NuMThxYzNmVklEVk5wS3dPb3djVXZNaWp3Wi1kZmZCSXNVam1RQTBtWVlVUEFLVHVvS2lxYWlZMTY4ZFdWQ1ZLeXlxa2t3UW03NUlKWkxna2R5Rm94MFpPVkE0dVBfR0w3VGF3RGQ2NVB2UmNUbnkzMWhaQ1pUYWx6VjFfXzNCY0ZCV2RVc2gyR2h1cy02NXF5eWlhOGh6Y2ROYzhBZThlczNZaXk1Y3BjR3EwNngwY0MzRXlsTE5qN1dSVGNlZFh5bk5SN2NkNmprQVlQQ1FHek8waEJ1UU9vOUNHaG5QYkM3NFhMWDFPU1lxUFlB?oc=5",
-        "fonte": "G1",
-        "data": "2026-09-16"
+        "titulo": "Com nova lei, Lula espera investimento em minerais críticos já",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW1qa0Zod1ljLS1sREJ6eGdSSzZZdUdyTzE2T3hkTlNGNC1EU1FLTU84QW9fZXRzcnJHNFlaUjduc3hZQ0pIN0x0T3VQOUk5dXNwN0c0RXJzRDVKRDZYblZEN2ktYmNyZG5JVDU1cGRIRkhDRGI2ODdGdDNVRHZ6c0RDWjViR3NrYTJub2g0dG1FQXduSTdGemxwQU1oNncxSmg5LWdvbE1OaEcyczRoa1djTzczdnd40gHHAUFVX3lxTE5kRTc5dkxyQVk5MTNPWjl3THhDNFgtM2RRLXNWQ3NuUjM4SUZBQU9mV095M09uNUxoZi1WVm9jTlNSMkFsTllvYzRiNGFTZk14dWhLVjQxcENDOW1fQ3hwbHpGanozdWFfb0tsLWdodU9uVHZONHEwVVVUaEZCUlpwd0FrWUc0VmowenN3aUJfX1Z3NXVIT3MwVVdOcFhLQ05penRraWduMFZYZGZZRVlLc0UySEZ6cDFWV3NrTEdhcUFHaHIxczQ?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-09-17"
       },
       {
         "titulo": "Brasil sanciona marco dos minerais críticos em meio à corrida por recursos estratégicos",
@@ -242,16 +242,16 @@ window.NEWS = {
     ],
     "papel-celulose": [
       {
-        "titulo": "Aumento da demanda por alimentos impulsiona indústria de embalagens em 2026",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnBIQXcwVGtCejdXSFdUN2ZicGdrblB0NVJwLXVILXBUWkxLVVB0c1V3ZkROTXdKczFJQVZfZVVEc3dFRVBXMmQzMklzVHpVR0FoR19JZlNpWGdhU1E5MkhWWmE1cnB4OHRHVXF2ZzY2YkJSeWo4TlE1Q2hFZm9uMkVIRWU1NEdwWkFDSEp2TFRINXRYa3ZKQTROcmNXYmRa?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-16"
-      },
-      {
         "titulo": "Chilena CMPC obtém autorização para terminal portuário de R$1,5 bilhão no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOT0xWUWdGTGQ5STZqdk9TUVdtbVM3ZnNod1QtN3FWVDNUbEdaZXYzSm1SaHktODltcm92YlhHU1BlU1BkOXdublB4bHFXc0pzNTB6SEtKNnBMYklUNHZCX3pTM1E3ZWU5a0Q4RXhWM05kZ3V4RmFBNWZnaTJFU3p3LWJmQno5RDFZamFOTjNJaTRGTDE4OTlXNVZUVzNVRWJWQXJxSWdjMWpmY0JUdXB1clF0SGhHRWVwSEE?oc=5",
         "fonte": "BNamericas",
         "data": "2026-09-14"
+      },
+      {
+        "titulo": "Aumento da demanda por alimentos impulsiona indústria de embalagens em 2026",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnBIQXcwVGtCejdXSFdUN2ZicGdrblB0NVJwLXVILXBUWkxLVVB0c1V3ZkROTXdKczFJQVZfZVVEc3dFRVBXMmQzMklzVHpVR0FoR19JZlNpWGdhU1E5MkhWWmE1cnB4OHRHVXF2ZzY2YkJSeWo4TlE1Q2hFZm9uMkVIRWU1NEdwWkFDSEp2TFRINXRYa3ZKQTROcmNXYmRa?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-09-16"
       },
       {
         "titulo": "Novo TUP de celulose reforça papel de Rio Grande na exportação",
@@ -265,7 +265,7 @@ window.NEWS = {
       {
         "titulo": "Saneamento busca fôlego para cumprir meta de 2033",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazZseXZYSTNTdC1qTVBkTlBIMXc0cmJocndOYmNwa1FpRGsyX3dCSzJHUGQ1TmFZX25fbzhvM0pUN183RU1sdEhhZkEyNHdBNExxUWJLaFB2NkFIZ1k3TFZDTC1VRlVuUkJVa1o2LTh3QkpDM3ZJVGdOcjd3NU5ueE5QUkRWYU92Nm5JUW9rdDFSSFJyWDZ2ZWxTWQ?oc=5",
-        "fonte": "Capital Aberto",
+        "fonte": "capitalaberto.com.br",
         "data": "2026-09-14"
       },
       {
