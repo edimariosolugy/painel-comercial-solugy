@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-17T14:11:05+00:00",
+  "atualizadoEm": "2026-09-17T18:52:28+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "“Unicórnio” chileno NotCo vende operação no Brasil e acelera metamorfose para empresa de IA",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU9zV2I3ZlpNYlA3MDN2Q0JHWVpWbWFMaVBjX2tVMG1Kd2ZBQ2FBUVJSQ01DT3BZcVlJYkVKeWNPaHBkYWJhVUo3RnFERG9KMUt6V1F5T3lQUmc4UHYyTXJ4dnNCWjlIc2NZYnN6cEo0R3RjQmozbFpXV2I5NGZuSWEzRlhLQk83bDU1TjdsVHl2OHRpaW9WQ2J5enVXVi1oYmFzd1Q2N2c0dXhLVHRzOUM0SEVPdHlUVjFZ?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-09-11"
       },
       {
@@ -64,15 +64,9 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
-        "titulo": "EXCLUSIVO: Inpasa prevê R$ 22 bi para dutos de etanol e derivados de petróleo",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQUZXWTVqMHlwQ0N4UGRsMkFsd0RPOWhzQnhFS2M0WEZPOWxQcnJWVDljb1VsSDk1V2hveFU4blc0VmZ6NXdyZ3ZRXzh1YjJBUVo2VHgydFdhSVdON1hpR3JwSnpVRThjbXE5ZXFEamt2S09xNmk2TnNGdmxGdmRwcjNqd3NxTUdZLXJUZG1FaHQzTGoxbnViNEdVVjE0VlRicnluaFh2ZEIzUnozSi1ud2R1cEExYlljeW45VTNNdEVabEtxYUZoZUtrZlkwTUVwcXVhRjVTVXlzM19wY1pVZWUtbDh4cm1EWjRPbVpFdw?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-09-10"
-      },
-      {
         "titulo": "MS tem quase R$ 90 bilhões em investimentos previstos",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDdWMnlhRDJTdVNNdGxKNlNQVVJVUkxMUFpCMHI1OVAwQ0ZPbVl5eEJXVWdyc0JOZURTOUpBeU9scGVCUmJxTHpnM3NxZ3JiQ2M1N0J4MnRpZmk0RVRzbDFHV1JoRDZPdVMxWm12eTQ0S2xfSG13UEF6TkdsSGl2TmlqMWVSaTIzR3JkTXVoT3B5YUlD?oc=5",
-        "fonte": "Portal Água Clara MS",
+        "fonte": "aguaclarams.com.br",
         "data": "2026-09-14"
       }
     ],
@@ -92,15 +86,15 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "Unifrango amplia centro de Distribuição no PR e mira faturar R$ 100 mi até 2028",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTHlvekRrVXpRTV9pWTVUWURUak9VT2ZLSUNmMnhqZXZRZHlWb040ZHRwUndIVzZVNUI3aXNlYUlpWHhPSW5MLTB4RzB1OHN3REpjeHZWLVEyVmlqODZoRG9IbTQzeVBZWU5jZ3dnX0dXeml6V0prSXIyNVdNbVdWWGFSMk41SS1acF9IOWliRVpDN0Z1enM0LWZKd2p1WnBVZGprZU5rOUdLNFB3MkxWTmZJME1KQldZVTNjei1SV2xjc3RBcS1aY1FlNWNfUVhHb0FybUlpc3FUV2R6dURfMHhxUHE0RTJY?oc=5",
-        "fonte": "UOL Notícias",
-        "data": "2026-09-17"
+        "titulo": "iFood anuncia investimento de R$ 24 bi no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGdYOTBxRlk3cFREaFYxVDBWMXc0RE0wOGRNaDJoZS0wRUUyLUtjTVZJLVpzeEsweDUwNXdiUE9uZkk4YVlXX0Jjb1VYTkpSMGtwYWIwUzQ2emtvX2RBTUM2YlRKR2JLQ2ZBSnU3WVA3MEpaWmF3QmFzd2oxZkxBaXJvb3F0aDlEU1ZPZ3BiY0lHaXJsZ0E?oc=5",
+        "fonte": "Poder360",
+        "data": "2026-09-16"
       },
       {
-        "titulo": "Grupo InBetta anuncia investimentos de mais de R$ 1 bilhão até 2028",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDFrTXZGM0k4eEFBMDhhRFJ6YVUwRkdCMEFiVnVIUW5fbDFZQzhGWU9NS3hUT0F0amZxWi1kSDJZRlRtQ0FKXzE4TVFYa3ZMNkJrSS1JWTgtekE1OGN0RHV6dkJmaGpUSmloTWFBTktNaFN6Z0ZnWGUxd2tZSk41S1NrdEMzMTVUaFhxRHZwUlZLZU9SNDRwTElibkU5VW0zZTJrZlpzY2nSAa4BQVVfeXFMT3o3Q1pzTzR5MkRhOEZUaURLc3dRU0R4QlZsNUc3WmRGN0xRaGI2OFNGOUxpN0V0SEVBVldPMzNSdFhYeWgtWXJUel9FWTlITDg1UnRoMWh3SGx6cUZFR093VUdrSUlWWl9JX3pwT1BuQXBrZWpueUkzYlRSYUlsMjNiSzFuQTlpZFZiV1dHcTdZV1h1a2R3RU1PYkVYc0s3ZlBkU1pwLW5JemJTcE1R?oc=5",
-        "fonte": "InfoMoney",
+        "titulo": "Unifrango amplia centro de distribuição no Paraná com aporte de R$ 20 milhões",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUzhxbEtxeVlRcWtmbGFGbUpGNjVKRkJrNmNxNElTc2g2QktZdVFGc05TZURXYlYzZ2xSRXhqZm5jbS1uVlhmYlU3V1pZckx1ZWk3V3BveElpQVBCUndqU1I5SU5jTTNvTFN5MW91OVdBQXJzelVqZUhGN0ZTdmlmX1lHWXRZa2plUUVUWUlWbnVPRUw3aFppbDg1Y05NOUFSQkxHV1ZZcUJ2OWhuTjBFenZ1cFhJcHM?oc=5",
+        "fonte": "Canal Rural",
         "data": "2026-09-17"
       }
     ],
@@ -108,7 +102,7 @@ window.NEWS = {
       {
         "titulo": "ANEEL assina novos contratos de geração e transmissão de energia elétrica",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUEllWEp2VWEwXzFxOFczYXRJdmVLek5jRDNqQzUtQzNBY3NQUzg0akVQNUZ6VzRYMGdOSmFfVS1USlBoblQzZzQyTzBvRG95VFdwdXBGOWItYlByd0FHNXBwdzJuZkdUMlppRXR5NGRlclhTTXRBeHZMV2IzblVDSWpjd050OWNmX2pBbl9xQ2N2YTI4WkUtbTNza0M0Q3B6emVKaExOckhpS29XdWpxT1NyYl8xOC1pNWI3Z3AzUzFWem5YZzRZTko0cGxfYTR4OV9OdlJFdklfTFNK?oc=5",
-        "fonte": "gov.br",
+        "fonte": "www.gov.br",
         "data": "2026-09-10"
       },
       {
@@ -118,19 +112,13 @@ window.NEWS = {
         "data": "2026-09-14"
       },
       {
-        "titulo": "Axia vence três dos quatro lotes do leilão de transmissão e amplia carteira de projetos em 10%",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQR1hGeTgtVGhUakVUSTVVZXB2RWVGRDc3QUtGQU9QWEM2bXNKRTh3c2hiOWs5SFhycFVIc1ZQdTNEVHh1eXUzUzVVNFlRZkFjbVBKQzZoVkZRSVRERlB0TF83VUlvVFNtMHJybDZXSk5fZGdKZFl5N3pkdGtGTGxUMExQRWd2OExWVllhNkNENS1jZ21ubVUzdjhmOEtmZUFuamg3TUcyaHlUb05mR181Y1NKZXNESEpGUmJ1OFA5Xzk2cFZvdnl6MGNmZlhUcmFOMGI3WU1XejlmaHBNcmxHbk1TOTdnTEo4RF9BT19yeHlCdUI1QUJPc1ZSWXdVR3VUMnIw?oc=5",
-        "fonte": "Terra",
+        "titulo": "Primeiro leilão de transmissão para 2027 prevê R$ 12,9 bi de investimentos",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaTQxdl9EZEJBWE5VLXU1VE5kc094MEhUVlJYblZQR3Y2eFZHZ2xCZEQ3U1k4ZDlVcFFEeFI2R2QxcWdqNG52MXZuM2M1RWJsU0hjQ2xqTXNkZk4zZjJ4NFFsYXBJRVJNMXdjUGpJZmVCS1Z6NUVZTmhmWndyanFPUEZLZWY1ZjhLck9pN0N6XzJBZHBNeGJiSXA0SEMyTVZoNkhFNkZENXpINTNXeE1FRThxSk1NbmdYMlZpYVhaVm5LOWPSAcgBQVVfeXFMTXM2Sm11Qm5feHdDV016eExjX0lRYkFvUU1OcFR3RzcyS0tfUHBHekhqbmtMcnJEWjMzUUNxSkNZZWtDN1BFUjNpaGNaZko3YkNwb2M0VkpsbktYU2ZzU2NJeTdvaWU3VnJQcl9XS3RDNkpDUmJnZGFnRnMyeFZHS2JQRW9DLWRuWFZxNy11UTBwa2pSWVp6NWE3SmRfRThHSWRJME84WHJtd1JqV0FmNGRFVVNLZzg4V091UFR6VFI2Rl92dC1sQ3k?oc=5",
+        "fonte": "Acessa.com",
         "data": "2026-09-10"
       }
     ],
     "solar": [
-      {
-        "titulo": "Neoenergia promove acesso à energia solar em comunidades vulneráveis do Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEtjOVI0NHhzTzVIZmNSRWY0cTBkU1NHT3JzX3ZTUWpsaDBtMXM2NHhzQk1Zd0YwM24taFE5MWZ6QXRTd0xaRHJhdW9NWFhxQUE4V1JGbGJoMHk3UmplQXAtYllqY3BNaDY3ZWNlM28yRzNfYzJ2dG80b3hQVERBTHpOXy1Odjllbllobm9EOElxMHQzRkNfb1czeVN6ek9zY0ttazhzYjkwLWswTGNrVDJvTkptTEhUZW5WTHJlYTNzdDZ3VUh3Mg?oc=5",
-        "fonte": "Iberdrola",
-        "data": "2026-09-16"
-      },
       {
         "titulo": "Brasil carece de estratégia para liderar transição energética",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaGNYcTFiZU1FazJRemhzUEF0bEFQYnJJNm5Cbl9uSVBGNE1jOUJtTVhvQjNrVm9uYmlHVWZBYXpFU1pXOWVVWGsyc3dXRVlENF9ING5qSEowc01RbEtNQVBvZWFpQXo3WnJpYTY1Z1FDeWxHcE5OUDRqb05INjBpd3RzZWtXV1M3Qk50aXRuRU5NMlhzeVVCVjQ2Y21wNnVm?oc=5",
@@ -141,6 +129,12 @@ window.NEWS = {
         "titulo": "Engie prevê retomada em renováveis em quatro a cinco anos, se demanda subir",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazJ0ZVRWYTNoOWdjT3VfZVVfdlQtS2pna2s3Ujc5Yk5JX1VHZnhUbTZ0YVJ1RFBwNlNSbm5idjRBTzhDNXNmQlpxQzlJVC00djdqX0E2ZFlhOTFRVEdDOUVac2ltWnJXZm9IM21TUlJYUllwT0FiTDd0ZGxldEtBNHA5VWtJdnZ5V19lNkJDVmxEUEdnM0dlelg3OHhRMy1LUFo4SEplQU5YZHVzbk40?oc=5",
         "fonte": "CNN Brasil",
+        "data": "2026-09-17"
+      },
+      {
+        "titulo": "Energia solar ganha espaço em Roraima e se consolida como alternativa para reduzir custos com eletricidade",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa09ienc4MmhnRldCUEphRHhKTHo0Nm5DTTl3NkNfM1dvNG41bDNwbEZBTktmRW1yYlo1T3dVTXRsTVdTWnlYaEMxX18tUkZpSWNqMUdCN29reFl6OHk4RjZ2S2s1c3VIc0k2OVltNE01cDExNXoyV3ZzMTlKR01HcEJhWE94U1ZwdXRablZNOUJaTnoxRFpxaXpUWlB4dVk5VnhnSVNaYUFFY3BydEVxM2hsNUpkajNwRWZSMWNWUWQxT01hRmU5OFgtSXliVGwxcThJUHQxZ3pjTDRH?oc=5",
+        "fonte": "Folha BV",
         "data": "2026-09-17"
       }
     ],
@@ -168,35 +162,35 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Nova fábrica de R$ 400 milhões pode criar 10.000 vagas de trabalho no 4º estado que mais gera empregos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN1lWdklkYU9zbmFEbEx5WG5Uc29FQk9uc2FDNUM4ZnJpMUIycC1xWnBDN2x0cWxZUnF2VmE1cXAwLVZaWXh1Z2JPOGRhdnBzYk1KQ3Z4VVVFam1rcjJ3dktCRFlqcTM1MWh3UG5Wc24zV1Q5Y2l2Nkw3MFpCM0dlLUZnNVJuZVkwY3NQQ3pnVWxMejZCVDJhNjBROUZHYUt1T29VdEJDaEVpWlBFSHEzUlZ1aXVUQXlNaWFRQ1hsNVA0b0o1X1dxUmlISUlwX3NvRUIyMHBMcW9RN3U2c01neDl0eG1vb3YxOExQcA?oc=5",
-        "fonte": "jornalcruzeiro.com.br",
-        "data": "2026-09-16"
-      },
-      {
         "titulo": "Chinesa Geely vai fabricar carros no Brasil em parceria com a Renault, com investimento de R$ 1,9 bilhão",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVW5ZVjdEN015UzRHV1g4cXBQZG9Edm9KY0FDRmhyc1E0N3dyZmRyZ2ZJcW1KUDNkU1pKSU5LNkZ6aHRFYm0wRWQzYmdmWFhIQ3FINnFUc09Uc1JpVjhadGRja1hDclZPYUUwbXpNamJldDh6YzdxX2N1LVk4WGxOSnVNSlZqMmxfc3Z5aWk1ajBJUlExa1JMa2NlaTdvMm5RWVd6Y2RqLWROM1pJNGMtWldVVENQUUluUjJNdVdKbHZFdUlyU2tvaG5YUmJLUzFKU0JQSmZ3UzJHSVo0YXNB0gHuAUFVX3lxTE0xZGp1OFhhZ0NHeVVVd3dfUk94R0lhc2k0Z18xc0otS094UlVoZlVPTWFCcXJfeDNxSUVRTTJBaHBsUmoxOVU3TWNtbVNWNmdHYlltSG5LUlRNdFVJODZFYkVoa2xIVWtqNk5RX3V2c0w5VVRsV1I1bkxEd0lGMjdoY19ZOFFZSy10ejFRRDVBTFd1RV85OHdCV0JLMW5NQVU2Q2szSTVNTHpGcHNMM3BZM19BcTBMUEk3X2hFNVlwdlBJd3pObm5DYlBVb2tnSnR5Y3g5VGo3ZVoyS2ctcHVNUHRraUJad1JqNVA5WHc?oc=5",
         "fonte": "G1",
         "data": "2026-09-16"
       },
       {
-        "titulo": "Contagem se consolida como polo do pão de queijo e concentra 38% da produção nacional",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOThicjZZaE9pcGg4SkoyUVQ0SjVqNkhGZHBRUnpyUXdGN0lDXzVDdVBmb1N4bnltZk52YlZ1cUZDaW9MMlVTVExwODM2UDNnWnNURms1R18zb1VUUE41NmUzbU1EZGZpdmFWS3VVVFNZTXE2c21XNTMxc2R2SkJDd21mdw?oc=5",
-        "fonte": "Diário do Comércio",
-        "data": "2026-09-15"
+        "titulo": "Nova fábrica de R$ 400 milhões pode criar 10.000 vagas de trabalho no 4º estado que mais gera empregos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN1lWdklkYU9zbmFEbEx5WG5Uc29FQk9uc2FDNUM4ZnJpMUIycC1xWnBDN2x0cWxZUnF2VmE1cXAwLVZaWXh1Z2JPOGRhdnBzYk1KQ3Z4VVVFam1rcjJ3dktCRFlqcTM1MWh3UG5Wc24zV1Q5Y2l2Nkw3MFpCM0dlLUZnNVJuZVkwY3NQQ3pnVWxMejZCVDJhNjBROUZHYUt1T29VdEJDaEVpWlBFSHEzUlZ1aXVUQXlNaWFRQ1hsNVA0b0o1X1dxUmlISUlwX3NvRUIyMHBMcW9RN3U2c01neDl0eG1vb3YxOExQcA?oc=5",
+        "fonte": "jornalcruzeiro.com.br",
+        "data": "2026-09-16"
+      },
+      {
+        "titulo": "Skala investe R$ 150 milhões em nova fábrica e reposiciona marca",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXFYZFd0VElGd0NoeGpQalROQjNsWHdkRjRIYmxfVk1hYTdUOTRsd1ZOYVJ6NkhMNVlaV3NYcmNWT3NqdnkxZWg3clI2dU4tOVlFb2pIcmRqS0Y1eTBhbVJHUW85aUM5Rkw3eFVVNFJ2SFhuVXRqMEpnd0lIZWFrV3d5QlRBX1FhN3p4UUFYYV96NGJZWlBpaWktQW1KN0FOeFNzWXYtOA?oc=5",
+        "fonte": "SuperVarejo",
+        "data": "2026-09-17"
       }
     ],
     "logistica": [
       {
         "titulo": "Plano Nacional de Logística aponta papel das hidrovias no desenvolvimento regional",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnp5Vlh1OEZTT0RUdnBpa0dVdEFMQUFuZ3JMX08tdWE1aER3cUJ0Z3FCOHdfOUdaRnd1RXczd1RvUFpneEtrV1FQOUY3WlY0LUZQOUROR0QxcUR5VlJKVk5KVDJqZDA2TVFITXVjRF80d2dORkdnZF9FdThKX3A1NG4wbkQtbGhYMFZVbnRlSTMzSnNyNjlOQk12X2pjdExOYzZ1cjY0dG5FQWxzbzRKUWRTcjR6bjdZcEN1Z215SllSVW9laE1mSzVkeFJVQm5xYkVHZGhITExFQ1EzTjFtVGZiU3dpVWJD?oc=5",
-        "fonte": "gov.br",
+        "fonte": "www.gov.br",
         "data": "2026-09-15"
       },
       {
         "titulo": "Ferrogrão avança com custo que \"ninguém sabe, ninguém viu\"",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFc1WVVSU3UydWE0U2RLaHNIMmx1QlI5MS1Ya0hfeE1aSXZ5a21BZWlnS1B1cnN6WFFaR0VDd1lCRVI3MDhpLVVLcExNeWtReHZHeTJfZTh1dmRRdkQzanRYQzdSc3Z3VU1hR1VZUUxxMm1BWXJhNF9kLW1BbDNaZ0VCRlR3MlVzQllvdlR2R2Nidw?oc=5",
-        "fonte": "neofeed.com.br",
+        "fonte": "NeoFeed",
         "data": "2026-09-11"
       },
       {
@@ -208,9 +202,15 @@ window.NEWS = {
     ],
     "maquinas": [
       {
+        "titulo": "Empresas com Governança de Dados planejam mais investimentos em IA",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEZWdUlKbmpjTFZVQjhpVEdUREEyUlV2S291VUV0bVJtUGVXWk96TlpzVERIdmxxZ3pBYndQTzFmYlh3TjRzWnNHTFRFbjBHdTVzUWpNMUNmeElmNjBReHBxa2pFRkRYMTdKTVp6NWRlQWFlSElFN3UxT1JwZlV4OFp30gGCAUFVX3lxTE04RlZ1SUpuamNMVlVCOGlUR1REQTJSVXZLb3VVRXRtUm1QZVdaT3pOWnNUREh2bHFnekFid1BPMWZiWHdONHNac0dMVEVuMEd1NXNRak0xQ2Z4SWY2MFF4cHFrakVGRFgxN0pNWno1ZGVBYWVISUU3dTFPUnBmVXg4Wnc?oc=5",
+        "fonte": "IT Forum",
+        "data": "2026-09-17"
+      },
+      {
         "titulo": "Crédito para produzir: planejamento é decisivo na hora de investir em caminhões, máquinas e expansão rural",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOVNHaV8zUmlFZE0xRXNWRFlKRHhPRDJVRV96YjlZamZRZmc5SU1KMkYwWEx3cUNKOVQ1ZTREQkYwNm9xMlgtQnl1bGs1RV9JQnlxQUQ0Wml3UExpakpRaWVUTGhMN0VpQVQ0SkRCNU5nUG5KcXlBcldfUWxacTY4S1N1U08yVEVkbDFhNmZvWFhDRnRHMWdBNk5INHR1YmpCX3BKQTFtdzhNdGVXTXJYaGFTaWZENGdzbWV0akRxVzZiMU9IUmE3dkI0Rk4telJEb2ZaQ0ZwaGxXRVloMWxkQkkzYw?oc=5",
-        "fonte": "gazetadasemana.com.br",
+        "fonte": "Gazeta da Semana",
         "data": "2026-09-14"
       },
       {
@@ -218,26 +218,20 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTC1kZk5sT25ZR3Azck04dGtHelp4NDRFS2JJcHE1V1Rnb1pPTjVNVHBGS2E5ZVBkcVl1S2JiOHh6LTJRNUZsZnZ1MTE2dTBZSjZjYjJiR0E0RzVMbzRVTWJNX05uSDB6UWVfa2FrbmxqdzZRem5RMnJHX1ZZSW5waGl5Znd4NnM?oc=5",
         "fonte": "Agência Brasil China",
         "data": "2026-09-15"
-      },
-      {
-        "titulo": "Brasil desonera data centers; Canadá vai de computadores a fibra, software e P&D",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdmYybHZ0VmpMdUFYemFrb2VDbXFnZndESVY2WTZmc3BWLUxTZGlZbzFZQ01RTDVNMEVZWS1uVWhWX2NuU0dIMTl2Z09ucS16MkZtTFN4dWhrUEdRVF8xQWFCdkUtMDNNZW9VODVMM3ZVU0ZpLU5VSVNkLUxhQ1NNWHQxTmwwSG95cENTTmdPbGUtU0tHSFh1VzBUY3BGTC10bWJMSnNJbmNhbzdN?oc=5",
-        "fonte": "Capital Digital",
-        "data": "2026-09-15"
       }
     ],
     "mineracao": [
       {
         "titulo": "Brasil cria política para ampliar produção de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUdVSWpTVDVJSmI0c242SjBBdldtd1g4MEtyeWhaVlhvTjRtZHA2S3FrNzIwb2lreEp4TkRQeXNsWHNkZVl2VzBfM2h3cjB3Y2o5V1doT1g4WTIzU3NVQlE2N0pRVnJKNHR1ODNBUFFlZlFOZWY2S3hxLW9xdGpQYmhWQ0R6WEdxVFIyeHp3RERscE8wemhEeWNkemZDSTh5aEoteFNHV0FjTG8?oc=5",
-        "fonte": "Brasil de Fato",
+        "fonte": "brasildefato.com.br",
         "data": "2026-09-17"
       },
       {
-        "titulo": "Com nova lei, Lula espera investimento em minerais críticos já",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW1qa0Zod1ljLS1sREJ6eGdSSzZZdUdyTzE2T3hkTlNGNC1EU1FLTU84QW9fZXRzcnJHNFlaUjduc3hZQ0pIN0x0T3VQOUk5dXNwN0c0RXJzRDVKRDZYblZEN2ktYmNyZG5JVDU1cGRIRkhDRGI2ODdGdDNVRHZ6c0RDWjViR3NrYTJub2g0dG1FQXduSTdGemxwQU1oNncxSmg5LWdvbE1OaEcyczRoa1djTzczdnd40gHHAUFVX3lxTE5kRTc5dkxyQVk5MTNPWjl3THhDNFgtM2RRLXNWQ3NuUjM4SUZBQU9mV095M09uNUxoZi1WVm9jTlNSMkFsTllvYzRiNGFTZk14dWhLVjQxcENDOW1fQ3hwbHpGanozdWFfb0tsLWdodU9uVHZONHEwVVVUaEZCUlpwd0FrWUc0VmowenN3aUJfX1Z3NXVIT3MwVVdOcFhLQ05penRraWduMFZYZGZZRVlLc0UySEZ6cDFWV3NrTEdhcUFHaHIxczQ?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-09-17"
+        "titulo": "Lula sanciona política para exploração de minerais críticos e estratégicos em território nacional",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmk5dG5HbkZXOFJyVWtlLUhsOTlvXzlPQ1NyZk5TTURLdzE5MTFLWEF0WU1FTkhDUWd4cV94Yzg2WVhHQ1Q0OWpVUnh2enFRYXVTREZERlF2MEktV0VRbk5GSjEyV3pFeVJfZTNOQV9wV1RxOXRPa3F6Vnh4N2xWdjliek95SGhsd0ZadmdaRElINlZZaDJrM1hYN1ZHckpBMVM1NUVtM3JxWWtGUVRYMGxlN0hRQXVfbTUyZmk5d3dUQXYxYXdCQkFTVkdCVFI5b2tVVXpEcXliSHNRS3RGaGIweE5VUDTSAfYBQVVfeXFMT2NuMThxYzNmVklEVk5wS3dPb3djVXZNaWp3Wi1kZmZCSXNVam1RQTBtWVlVUEFLVHVvS2lxYWlZMTY4ZFdWQ1ZLeXlxa2t3UW03NUlKWkxna2R5Rm94MFpPVkE0dVBfR0w3VGF3RGQ2NVB2UmNUbnkzMWhaQ1pUYWx6VjFfXzNCY0ZCV2RVc2gyR2h1cy02NXF5eWlhOGh6Y2ROYzhBZThlczNZaXk1Y3BjR3EwNngwY0MzRXlsTE5qN1dSVGNlZFh5bk5SN2NkNmprQVlQQ1FHek8waEJ1UU9vOUNHaG5QYkM3NFhMWDFPU1lxUFlB?oc=5",
+        "fonte": "G1",
+        "data": "2026-09-16"
       },
       {
         "titulo": "Brasil sanciona marco dos minerais críticos em meio à corrida por recursos estratégicos",
@@ -281,9 +275,9 @@ window.NEWS = {
         "data": "2026-09-14"
       },
       {
-        "titulo": "VITA Sertão entra na reta final para assumir saneamento de 24 municípios",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRnJPd1RLYWgyaHVua092LXh1Slh5NUVqNUxXZlEzYkQxMWxMbDZZWUZBRXZsNGgwR1VHOHUzT2VrNDN3S1FUU1A0Z1FqTjdFYW9jV2lTOWpyU1lfMnAza3liZ2FWY2JLcFJxd1NtVjY3ZEFQSUlyZ3NMZkpnT3VwNGNEUmZYU25YelVKQzlPWVZQQWhlZ1ZBMUtQVm02T3JMVjZreTJwanpubXFFVWMtQWx0ZWFQOXBVSnVzWldzNjFtaWFjWmlGQl9YR0c?oc=5",
-        "fonte": "Movimento Econômico",
+        "titulo": "Vita Sertão entra na reta final para assumir saneamento de 24 municípios",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1ZOQlFiQUItM21SNTZZbzlYZHEtQjN5T01EWjQ4VC1RcF92cWMxd0M0dTQxRmZEVmswdEZxMTBiMXJ3c3h1T1RRLVdFWkdxcnFtc2ZGSDZrU1pxYWkxNnhNQXpEVkRiN2VHZ0JfcUhUbi1oXzhrb2poZkg0MGx0cnAwTVRJTEFTTzJHZHhLVXJZa0lJdmVka0tWSEtqNTdjcG1CMmRSdzlDMUdQ0gGsAUFVX3lxTE9TVk5CUWJBQi0zbVI1NllvOVhkcS1CM3lPTURaNDhULVFwX3ZxYzF3QzR1NDFGZkRWazB0RnExMGIxcndzeHVPVFEtV0VaR3FycW1zZkZINmtTWnFhaTE2eE1BekRWRGI3ZUdnQl9xSFRuLWhfOGtvamhmSDQwbHRycDBNVElMQVNPMkdkeEtVcllrSUl2ZWRrS1ZIS2o1N2NwbUIyZFJ3OUMxR1A?oc=5",
+        "fonte": "Folha PE",
         "data": "2026-09-17"
       }
     ],
