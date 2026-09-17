@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-16T21:57:49+00:00",
+  "atualizadoEm": "2026-09-17T00:18:15+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
-        "titulo": "Crise no agro gera calote de R$ 48 bi e transforma bancos em 'fazendeiros'",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzEtZEF0WFBGYnFTWUJ0NmxjYWpWQnlNcnN3ZW9sVF8zbVZSazZsS2wwRXUtOTJ3anZxWDZyd3o4alVuN0xtZDZNRk44UzEtalNKT3JDb0VSOWFMWVRlMWNtMEVUSl9VeER5UzBnTnZFdFlKZzF0eFJMVHFDS3pwaE5KQm54X0xBaFlEbkZsVXNUZFg4VVN5M2huZDhNYXRIVzBiTzFMYTBFQ21vMDZ6UUhzajJWV3NUeFB3cXhmY1F3cVRGSEM2RThCVQ?oc=5",
-        "fonte": "UOL Economia",
-        "data": "2026-09-13"
+        "titulo": "Agro brasileiro pode gerar 314 milhões de créditos de carbono até 2035",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZG83QkZlTVdwRVJldWdFVFNlX1pjaXdoWGp0NTE1R1FvbkxHSUYxM3Vkd0syOTFWNFJCX3ZfYVZiZVpHbHJrc1J0bkM0UFdQSEhTTFlVYmtXMVdfZnJFT3FvUkdFdU9SWlVOcWNKVGVPTE8zVk5nRmtJU1pjTzI1NDVBSGM3cm8ydWhicWZNaEZIdUViUEdFNnFvS3Yyck1rSGdR?oc=5",
+        "fonte": "O Presente Rural",
+        "data": "2026-09-14"
       }
     ],
     "alimentos-bebidas": [
@@ -38,7 +38,7 @@ window.NEWS = {
       {
         "titulo": "“Unicórnio” chileno NotCo vende operação no Brasil e acelera metamorfose para empresa de IA",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZU9zV2I3ZlpNYlA3MDN2Q0JHWVpWbWFMaVBjX2tVMG1Kd2ZBQ2FBUVJSQ01DT3BZcVlJYkVKeWNPaHBkYWJhVUo3RnFERG9KMUt6V1F5T3lQUmc4UHYyTXJ4dnNCWjlIc2NZYnN6cEo0R3RjQmozbFpXV2I5NGZuSWEzRlhLQk83bDU1TjdsVHl2OHRpaW9WQ2J5enVXVi1oYmFzd1Q2N2c0dXhLVHRzOUM0SEVPdHlUVjFZ?oc=5",
-        "fonte": "AgFeed",
+        "fonte": "agfeed.com.br",
         "data": "2026-09-11"
       }
     ],
@@ -80,19 +80,19 @@ window.NEWS = {
       {
         "titulo": "Consulta sobre a elaboração da Lei de Gestão e Desenvolvimento de Materiais de Construção",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNUDdBM3RjTExTdmFIZGJlczR1a0pZMjhROEFackVHcmlha2NSMk1BRS0tbEVpREd4akgzbFdtTk05RWlvOEFMRHR6NkJHcEVTYWFSdmlWQVF2OV94YVhfWnpmRHd3RlhrUVFpMjhvSUNxZDVJTXNBWTNmYV9JWUxiZVk1QVNXRFZ3NU1jQUFB?oc=5",
-        "fonte": "Vietnam.vn",
+        "fonte": "vietnam.vn",
         "data": "2026-09-10"
       },
       {
         "titulo": "Remover obstáculos materiais e acelerar o progresso em projetos de transporte essenciais em Ca Mau.",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXVCUkd2WTdScjBHNmExaUo3RkpFQnhOZkZpZS1nLUI1WlhTSmU2Q0R6REdxNjVudTdQVjR2eUZRYlU1eUFhVzdocVBsWkdrajJoZzl0UjF2UzFLMEVqMU0yQU4zc29LejZxdlVUQlBWQUFyempETk1SZmlZdE1Qai0tdGZodUh4U1F0cVVRa2U0TGVGVEFHQWtOR2dzbG0yNm9sY09kdw?oc=5",
-        "fonte": "Vietnam.vn",
+        "fonte": "vietnam.vn",
         "data": "2026-09-12"
       },
       {
         "titulo": "Conglomerado tailandês investe na expansão de fábrica de cimento no Vietnã.",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1BXRGlZVkNzZG9tdXdtaDlxZlFOeHhYb2FNMmVMRHZOREhldG5WQ2JXOG50Nk9VYmZfNzZBQnlQS0h3Q0ZoZVBQMmp0UnRFODVLcVNoWEw2elpwRnE2MWFDNkdSZ3k1SmxmRGlqdTVDOVdSbWs4S29PYjlJRGdWZjRIek9tV0pyZUF5SVJrbjQ?oc=5",
-        "fonte": "Vietnam.vn",
+        "fonte": "vietnam.vn",
         "data": "2026-09-15"
       }
     ],
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Transmissão deve receber R$ 79,1 bi até 2040, segundo EPE",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1QtME16czh1VTJ5Q1h5Szd6a2JETEJ4eV9DQzdTaXpzeWhwTklIU2FXSEc1WEprQ3dmeFVTdlF1am1XM0R6dk1BUGYtbmhtMHV2V1JMbkVXWHg1REhabWh3ZXZTeEsxbVliaUdhWUs1ci1Yd1RrTTlZc0ltTFk4ekxpMUlmLVpNSXNkVVFlbGp1LS02V3Vv?oc=5",
-        "fonte": "Além da Energia",
+        "fonte": "alemdaenergia.engie.com.br",
         "data": "2026-09-14"
       },
       {
@@ -200,10 +200,10 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "CARLOS MEIRELES – A FICO–FIOL PRECISA CHEGAR AOS PORTOS BAIANOS",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1YQThHVGtQTmZ1a3YzMmhBUmlnaS00WDkzSlVyOVZiSlZQbGdEZWR5azZXaTI0SzlydVN2UFVOTWg0TXFUbEpTZ2dYTVF6aGpUN1NxYVN0azBQNkRWYmlFeDVQVW9Wa3VHRkphUm5Iei1HWUxkZXdpaHhoaGl6OElReTFWei1IbkZHQ3M3bUE3cFhPY1VWVXFicFNJdWpxc1hIX3E5SVVfdw?oc=5",
-        "fonte": "- Bahia Economica",
-        "data": "2026-09-14"
+        "titulo": "Plano Nacional de Logística aponta papel das hidrovias no desenvolvimento regional",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnp5Vlh1OEZTT0RUdnBpa0dVdEFMQUFuZ3JMX08tdWE1aER3cUJ0Z3FCOHdfOUdaRnd1RXczd1RvUFpneEtrV1FQOUY3WlY0LUZQOUROR0QxcUR5VlJKVk5KVDJqZDA2TVFITXVjRF80d2dORkdnZF9FdThKX3A1NG4wbkQtbGhYMFZVbnRlSTMzSnNyNjlOQk12X2pjdExOYzZ1cjY0dG5FQWxzbzRKUWRTcjR6bjdZcEN1Z215SllSVW9laE1mSzVkeFJVQm5xYkVHZGhITExFQ1EzTjFtVGZiU3dpVWJD?oc=5",
+        "fonte": "www.gov.br",
+        "data": "2026-09-15"
       },
       {
         "titulo": "Da mina ao porto: a logística que pode destravar a mineração brasileira",
@@ -212,10 +212,10 @@ window.NEWS = {
         "data": "2026-09-14"
       },
       {
-        "titulo": "Amazon e DHL inauguram primeiro centro de distribuição no Espírito Santo, no meio da corrida capixaba por galpões logísticos",
-        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdGhjWDdobU5XS0tWbDF5cVRpckRNUUQybEFqVHE2T00yZ01rLU1sSFVpSjRQRFV1REUwYzFEZHl5cVlOOC0xRjlNQ3VwVVpCVGRHQ0lYLVlFbUl6aDhpcXJZc0EyTmdnNTVVaTVnMWhsN2taUjJpd3h4ZzV2U3ZrUEhsQ1pDR0taRWhyVnJOQXRZVy0ydXJWVGs3MTdFS1VUVlRaSm9UYW1aVHRHazktMXF5SS1WQlQzT2huRnNPS2dFMHdmQTNoNnBHQjZaWVJqOWd2Tmo4bzVFejg0MmV3ZlpUSG10X3Fjb0N1RmxDLXpIU3g5aVZwdFJfR0wyMFlkTUM0QVpQd25IeVJjU3phOUxEcEE?oc=5",
-        "fonte": "Portogente",
-        "data": "2026-09-10"
+        "titulo": "CARLOS MEIRELES – A FICO–FIOL PRECISA CHEGAR AOS PORTOS BAIANOS",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPeU1YQThHVGtQTmZ1a3YzMmhBUmlnaS00WDkzSlVyOVZiSlZQbGdEZWR5azZXaTI0SzlydVN2UFVOTWg0TXFUbEpTZ2dYTVF6aGpUN1NxYVN0azBQNkRWYmlFeDVQVW9Wa3VHRkphUm5Iei1HWUxkZXdpaHhoaGl6OElReTFWei1IbkZHQ3M3bUE3cFhPY1VWVXFicFNJdWpxc1hIX3E5SVVfdw?oc=5",
+        "fonte": "- Bahia Economica",
+        "data": "2026-09-14"
       }
     ],
     "maquinas": [
@@ -228,7 +228,7 @@ window.NEWS = {
       {
         "titulo": "Máquinas novas, processos antigos; por que a indústria brasileira renova sem automatizar",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPWE5IWjZ5c1pYRjRzZmtDdlM1aWhURjJuWERNQWlETmJRTUlJOGg2cF9nemQxWEN5LTBNYnV1Q2REOEhFX2FWYmhlTFJkWGJObEZYRmdWMHJUc0lPOHJXbjNaU18zS2RvVTFnRHlmejdvTFd5dTdIb3lXbXV1azFjTUFxSWNmRkw0WXltd1N1dmtPenpSZExqdmp0WElFcWctQkpMUHEwd254Ym8wRXZ3T0N5aUlYb3NiNTA5OFR2c3R0SlM1c3d0Tl9hdXdyVnRYSkN1RlFpR3NSVlBSWU1lU29FeTM0M3N1OXBZeVN5M1pHQ0NG?oc=5",
-        "fonte": "Gazeta Digital",
+        "fonte": "gazetadigital.com.br",
         "data": "2026-09-15"
       },
       {
@@ -240,6 +240,12 @@ window.NEWS = {
     ],
     "mineracao": [
       {
+        "titulo": "Lula sanciona política para exploração de minerais críticos e estratégicos em território nacional",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmk5dG5HbkZXOFJyVWtlLUhsOTlvXzlPQ1NyZk5TTURLdzE5MTFLWEF0WU1FTkhDUWd4cV94Yzg2WVhHQ1Q0OWpVUnh2enFRYXVTREZERlF2MEktV0VRbk5GSjEyV3pFeVJfZTNOQV9wV1RxOXRPa3F6Vnh4N2xWdjliek95SGhsd0ZadmdaRElINlZZaDJrM1hYN1ZHckpBMVM1NUVtM3JxWWtGUVRYMGxlN0hRQXVfbTUyZmk5d3dUQXYxYXdCQkFTVkdCVFI5b2tVVXpEcXliSHNRS3RGaGIweE5VUDTSAfYBQVVfeXFMT2NuMThxYzNmVklEVk5wS3dPb3djVXZNaWp3Wi1kZmZCSXNVam1RQTBtWVlVUEFLVHVvS2lxYWlZMTY4ZFdWQ1ZLeXlxa2t3UW03NUlKWkxna2R5Rm94MFpPVkE0dVBfR0w3VGF3RGQ2NVB2UmNUbnkzMWhaQ1pUYWx6VjFfXzNCY0ZCV2RVc2gyR2h1cy02NXF5eWlhOGh6Y2ROYzhBZThlczNZaXk1Y3BjR3EwNngwY0MzRXlsTE5qN1dSVGNlZFh5bk5SN2NkNmprQVlQQ1FHek8waEJ1UU9vOUNHaG5QYkM3NFhMWDFPU1lxUFlB?oc=5",
+        "fonte": "g1.globo.com",
+        "data": "2026-09-16"
+      },
+      {
         "titulo": "Terras raras: um passo pequeno demais",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOb25wMjhZQVhQRW5VMzhrTnEzY25sQVhMZTZ2OWx5VnpqWF84Q1AtaHdWVkhsMlhRMUx1M2lXNlJLcU45MEVIMnpMT2gtbXlIN1RZa1dYVVgwRHBSWDVycGRFV29XamVhRUdvb3I4OERwNEJxTTR5UkFjT2FMNURXdm80TzIyZG4x?oc=5",
         "fonte": "Outras Palavras",
@@ -250,12 +256,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYmdDLUdZbWxEbjcwMDJfcmtCU3pUZUZjZWhQamptTktsaXJ0LU1vOTh2V2lrZjFKOHllTGRnMWF6N1UweG4ySXN2RUVQQmQ1QV9GNHprMXViSEJRVEhPRHVFQ2Z5TFQ2TFU3Sml0czMxNExPNlpabG1BNUxPbzE2WU5qdjA2aC1ua0hSa0ZXNldhdUFqU2RzUFhvYk5IQjRjNG43bEVLV2JUa1FJUTBCb0RJOA?oc=5",
         "fonte": "Brasil Mineral",
         "data": "2026-09-11"
-      },
-      {
-        "titulo": "Lula sanciona nova lei dos minerais críticos hoje; entenda o que muda",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYlhuU0w2TDlnakI0TFU0YTJQV3ZzTV9scUZOWjdGQy1IUUo2TU8ySzNZSThJQVRwX3RIZWNNV2ZFdTRzNGpRc2NkLXY1dTJYcXAzWE5HeU9jNjNnREdVSTdSdVUyR2lBWVRkazR0X1Nld18tX3Q1d3RxQWJqallFanZ6bURlRWducUdpY2xad3FfSXlUMWpCRzhBVWt3emEtbW9raWdkWQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-16"
       }
     ],
     "papel-celulose": [
@@ -283,20 +283,20 @@ window.NEWS = {
       {
         "titulo": "Saneamento busca fôlego para cumprir meta de 2033",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazZseXZYSTNTdC1qTVBkTlBIMXc0cmJocndOYmNwa1FpRGsyX3dCSzJHUGQ1TmFZX25fbzhvM0pUN183RU1sdEhhZkEyNHdBNExxUWJLaFB2NkFIZ1k3TFZDTC1VRlVuUkJVa1o2LTh3QkpDM3ZJVGdOcjd3NU5ueE5QUkRWYU92Nm5JUW9rdDFSSFJyWDZ2ZWxTWQ?oc=5",
-        "fonte": "Capital Aberto",
+        "fonte": "capitalaberto.com.br",
         "data": "2026-09-14"
-      },
-      {
-        "titulo": "Iguá prioriza projetos com maior retorno e vê avanço com concessão bilionária no Rio",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWJILUdDdXB3cUhVZm9NOWlBZEFBY0stRzhRbGR5WGhEUWRpMnQtaHhwajJxRDRvRXI4ZzFFYktjVjBLR2hIbzVYcFVfSGFEZHlaRzVENUl4bjFJb0ozUmRBNTZDa190Tjg4OHRIc3NDYVRMLUQ3RGt4S0JpNXZwQUFnTlNHOFEtenJwdFU1UUhNamhlbllLbkFlQWd4bEJwbmhuWkd0czdSUmJYcUdxOGJWS2ZCMW9UTEZzdWRfR2lLNFVnb25n0gHbAUFVX3lxTFBMYTJDY0ZRS2d3c3RxU2JNN2hheFR1WlVzVjAyX0ZRVFRMMDBieUVMTUxXNHdLYTA3aHU4dmdOekZJd1FmV2RMNkZqWW5QejQ2ZHlmeHJjQ2lCYVdtSTdWQ1hZYmZZT2JpWnFOVkhDeS1qQ0NwWGprbFJBWFNKcmQ4NnhqclE5MEhqcVluNnBHbWlDUDBONmJPQm1VVlY1NzVLdGdRVEhhcHVnSS1DRDFBTzRNcXAxazJKLU9qWnZ5alkxVHNYQThKQ2pUZHZWY0hFUGk1WVA3ZW1xRQ?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
-        "data": "2026-09-10"
       },
       {
         "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-09-14"
+      },
+      {
+        "titulo": "Iguá prioriza projetos com maior retorno e vê avanço com concessão bilionária no Rio",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVWJILUdDdXB3cUhVZm9NOWlBZEFBY0stRzhRbGR5WGhEUWRpMnQtaHhwajJxRDRvRXI4ZzFFYktjVjBLR2hIbzVYcFVfSGFEZHlaRzVENUl4bjFJb0ozUmRBNTZDa190Tjg4OHRIc3NDYVRMLUQ3RGt4S0JpNXZwQUFnTlNHOFEtenJwdFU1UUhNamhlbllLbkFlQWd4bEJwbmhuWkd0czdSUmJYcUdxOGJWS2ZCMW9UTEZzdWRfR2lLNFVnb25n0gHbAUFVX3lxTFBMYTJDY0ZRS2d3c3RxU2JNN2hheFR1WlVzVjAyX0ZRVFRMMDBieUVMTUxXNHdLYTA3aHU4dmdOekZJd1FmV2RMNkZqWW5QejQ2ZHlmeHJjQ2lCYVdtSTdWQ1hZYmZZT2JpWnFOVkhDeS1qQ0NwWGprbFJBWFNKcmQ4NnhqclE5MEhqcVluNnBHbWlDUDBONmJPQm1VVlY1NzVLdGdRVEhhcHVnSS1DRDFBTzRNcXAxazJKLU9qWnZ5alkxVHNYQThKQ2pUZHZWY0hFUGk1WVA3ZW1xRQ?oc=5",
+        "fonte": "bloomberglinea.com.br",
+        "data": "2026-09-10"
       }
     ],
     "siderurgia": [],
