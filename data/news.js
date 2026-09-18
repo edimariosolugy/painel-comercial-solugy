@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-18T20:36:37+00:00",
+  "atualizadoEm": "2026-09-18T23:07:03+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -18,7 +18,7 @@ window.NEWS = {
       {
         "titulo": "Tornar agro mais sustentável pode exigir até R$ 2,6 tri em investimentos",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSU5OMU5qTHVlYWp5cVg0T3lRNE5EaTkyWnFtNTJ5Q3BWRDBPbFlOdVZpMFVtTk5vN1J4bVBnaUdKSGpqNE5MX0dlRHRHRXhGS2hIZXNjaXdHcmdCR1Z1ZnZoeWx6MUFJRGhERmFBaXBRTDEyYW5va3l1d1ZhZTlPQVVsZ09UT1BMcFlIWndaNTdiSzVQUmIyejRidWphQnN3R3pyTDJWOFM?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-13"
       }
     ],
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
-        "titulo": "Quais empresas movem a B3? Conheça as principais ações e setores da bolsa de valores do Brasil",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWWl3dGIybTR6Z242T1otbzJ1REl5ZWpTY2F1UjFkRUQzQkJZSU5ZX3VzdkpqNG1TdGtfcExpeXV6YXdfclRLZ1FiMmdweFZIenBWVU5nWkVYcF9sZGhsdG5YQURxdEJzRE1IT20xdlpUWmlvek5HNV9LY3pIVVdhZkthR1p6V1N0SlV5dzZhR2VkMWkxdkE?oc=5",
-        "fonte": "ADVFN",
-        "data": "2026-09-11"
+        "titulo": "NotCo vende operação no Brasil e acelera recuo internacional da foodtech",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbm1Md0N3TUI4cWhxbFE2U2xEdFhfVjBIR3dLdV81SmdCaGFkSXd4NkU0MWV6UW9rNnB3cTFab0FvVGd2R051TWczZTUzNjJhMWtpUzVUNVNoLW9xUnpIR2NTcnFEU0o1TmpZNkFsTmNVcm9jaU43YXN4LWNKUU5BLTlMUjNkUTIxeFM0N2QxTGlkS3ZSME92dFJlVW53LThjWUFfb1h1WVA4dm8?oc=5",
+        "fonte": "cnnbrasil.com.br",
+        "data": "2026-09-12"
       },
       {
-        "titulo": "Indústria do NE recua 4,1% em julho, mas desempenho entre estados é mais desigual",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOEFRQ2RSLVJodHVnbDBOYlBGNTJaZ3FHSE01a0dZMXc2ZGFsd21DTHQ0Wmdra3FBWmV2SzB2WFoxV2ZRdnNGVXpiaENtT1FvcmNNR2xHb1EwZF9pZDFWUFgybXBJTlRfOGpJaUhPRWEzeTZaNW45ck4yLXVybWxKUFhrMTdtU1ZkdW9qYUFxVThBZGs4eUg3TGlXY25naGhPMHlrTk5PZFNCcWM3SnZIX25GNkhkcXRaeUVHU0VkMjZYWW10WGF6bXhRQTU1MDJQZlBQTg?oc=5",
-        "fonte": "Movimento Econômico",
-        "data": "2026-09-11"
+        "titulo": "Terceirização chega a 45% nas bebidas prontas no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVjBYR1pmNEkwSXFnbXpZNmtJNjBMbVhCWkRPaHllcjAwNzhLWTI1QnhHWWpqM3VhM0xzc2xyd0Y0N0FHQ01XdE5qLUtYV2x3NV80dklZNUI3dUlnMU1DRm1fbkFlLUp6NHIxS3Z2cHE5V0tVR0I0ZVlLM3pYcC1rMno5TG81TnM5eVpV?oc=5",
+        "fonte": "BHB FOOD",
+        "data": "2026-09-17"
       }
     ],
     "automotivo": [
@@ -52,7 +52,7 @@ window.NEWS = {
       {
         "titulo": "Renault investe R$ 2 bilhões no Brasil até 2027",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CclhiT0hQTzlFQTFiTG1ZckJyajItZndiMTZFV2pIOXMxUEVjZHp5enVERTFNYUUycnBFX3Y3NDhPa0Q0RHBTMjJscUdOTEltYVZ6cDJzOXlnTE5TaDNDSDlBdlBHRl9qb3FTX3hQZXBKQzNNNlE?oc=5",
-        "fonte": "aciara.com.br",
+        "fonte": "Acia Araçatuba",
         "data": "2026-09-16"
       },
       {
@@ -84,10 +84,10 @@ window.NEWS = {
         "data": "2026-09-18"
       },
       {
-        "titulo": "A empreiteira responsável pela rodovia Vinh - Thanh Thuy está enfrentando dificuldades porque os preços estimados dos materiais são inferiores aos preços de mercado.",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUhReGxXcVhKal8zb1RLa1ZhRGdRbkZseFZhTkhvc3VMTG1udENuNHQtVnM4VWYydkhUM1o5U2paclhXQ0dRN2hMQTJ4NHJfUjJjRUJGdGs0d1A2aFc1QUVvdFVjYzE0TFRReVdQNjJMLVM1OXlLRkQzX3lzcHpoRnZ6TlRNdC11ZW5Scmota01CaXJpcUN3OFNGWDQtdlpIRjFFWmd3b2NPSWtjX3pxZw?oc=5",
+        "titulo": "Remover obstáculos materiais e acelerar o progresso em projetos de transporte essenciais em Ca Mau.",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXVCUkd2WTdScjBHNmExaUo3RkpFQnhOZkZpZS1nLUI1WlhTSmU2Q0R6REdxNjVudTdQVjR2eUZRYlU1eUFhVzdocVBsWkdrajJoZzl0UjF2UzFLMEVqMU0yQU4zc29LejZxdlVUQlBWQUFyempETk1SZmlZdE1Qai0tdGZodUh4U1F0cVVRa2U0TGVGVEFHQWtOR2dzbG0yNm9sY09kdw?oc=5",
         "fonte": "Vietnam.vn",
-        "data": "2026-09-18"
+        "data": "2026-09-12"
       }
     ],
     "comercio": [
@@ -104,9 +104,9 @@ window.NEWS = {
         "data": "2026-09-16"
       },
       {
-        "titulo": "Unifrango amplia centro de distribuição no Paraná com aporte de R$ 20 milhões",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUzhxbEtxeVlRcWtmbGFGbUpGNjVKRkJrNmNxNElTc2g2QktZdVFGc05TZURXYlYzZ2xSRXhqZm5jbS1uVlhmYlU3V1pZckx1ZWk3V3BveElpQVBCUndqU1I5SU5jTTNvTFN5MW91OVdBQXJzelVqZUhGN0ZTdmlmX1lHWXRZa2plUUVUWUlWbnVPRUw3aFppbDg1Y05NOUFSQkxHV1ZZcUJ2OWhuTjBFenZ1cFhJcHM?oc=5",
-        "fonte": "Canal Rural",
+        "titulo": "Unifrango amplia centro de Distribuição no PR e mira faturar R$ 100 mi até 2028",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTHlvekRrVXpRTV9pWTVUWURUak9VT2ZLSUNmMnhqZXZRZHlWb040ZHRwUndIVzZVNUI3aXNlYUlpWHhPSW5MLTB4RzB1OHN3REpjeHZWLVEyVmlqODZoRG9IbTQzeVBZWU5jZ3dnX0dXeml6V0prSXIyNVdNbVdWWGFSMk41SS1acF9IOWliRVpDN0Z1enM0LWZKd2p1WnBVZGprZU5rOUdLNFB3MkxWTmZJME1KQldZVTNjei1SV2xjc3RBcS1aY1FlNWNfUVhHb0FybUlpc3FUV2R6dURfMHhxUHE0RTJY?oc=5",
+        "fonte": "UOL Notícias",
         "data": "2026-09-17"
       }
     ],
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "CEO da Engie alerta para risco de “aventureiros” no leilão de baterias",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTlWTVhMS1RWLUQwU1R1ZDRjSER3N0NjTnAwWWZvR1BndGVZdmZSNTFSUDdfaXlLRUMzMC13UlUwZ1FWYlJzcWROdWxCbGF1a1JYUE5zc2lMUzd1STdnNEZacUxwTndzMHo3b1dXTDUzVGVva0FUckdjWkQybHpmZm9RM1Zyd2x3T05TYlN1YVdCRTBsWktYOF90djNKN2Zaamw5eXFVMA?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-15"
       }
     ],
@@ -174,7 +174,7 @@ window.NEWS = {
       {
         "titulo": "Lorice Scalise, presidente da Roche Farma: “Se a inovação não chega ao paciente, ela é apenas uma ideia”",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PZlpZSE5Dc0ZJX1FpZFp0YUpqZmdOWkVuNlpYZGRMUDF5RUZIYXFUeWlpM3k5bm5pVUJiV2pGaERqOHF1RUYwM0tEbi1PWTNwMFI2bVl6MEhhSjgxRDBXbzYydUZ3TEp1a2ZOd1RSTlZnZ2ZVZmZFU09n?oc=5",
-        "fonte": "Futuro da Saúde",
+        "fonte": "futurodasaude.com.br",
         "data": "2026-09-15"
       }
     ],
@@ -195,17 +195,11 @@ window.NEWS = {
       {
         "titulo": "Contagem se consolida como polo do pão de queijo e concentra 38% da produção nacional",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOThicjZZaE9pcGg4SkoyUVQ0SjVqNkhGZHBRUnpyUXdGN0lDXzVDdVBmb1N4bnltZk52YlZ1cUZDaW9MMlVTVExwODM2UDNnWnNURms1R18zb1VUUE41NmUzbU1EZGZpdmFWS3VVVFNZTXE2c21XNTMxc2R2SkJDd21mdw?oc=5",
-        "fonte": "diariodocomercio.com.br",
+        "fonte": "Diário do Comércio",
         "data": "2026-09-15"
       }
     ],
     "logistica": [
-      {
-        "titulo": "Ferrogrão avança com custo que \"ninguém sabe, ninguém viu\"",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNFc1WVVSU3UydWE0U2RLaHNIMmx1QlI5MS1Ya0hfeE1aSXZ5a21BZWlnS1B1cnN6WFFaR0VDd1lCRVI3MDhpLVVLcExNeWtReHZHeTJfZTh1dmRRdkQzanRYQzdSc3Z3VU1hR1VZUUxxMm1BWXJhNF9kLW1BbDNaZ0VCRlR3MlVzQllvdlR2R2Nidw?oc=5",
-        "fonte": "NeoFeed",
-        "data": "2026-09-11"
-      },
       {
         "titulo": "Quais estados brasileiros concentram o maior potencial de investimentos em infraestrutura?",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3hJTFowbjNMV2ZmbW4xcnlpWGFndXhIOUVDemxiVU1pWVRNQ0l6dzdRNWZzSjE0MjdHZlNvMlBfekNYTVNBZGEwNTlmRUJmZktpdmFsQ1otdXNQb3Y3VFo1ak9yelBsSjNNNkNibXBPc1AyN2JWaV8yMXJfdzhzeURIdmRSNHFvY0UzUzFJbGZnOEhaajhOZzMzSHJFOVhQTEpKaFM3cVJDcVNIdENrbFRZOExaN056a1BxbFBxeXY4OUt1R2lkYlYtMGtMQi1SUGkw?oc=5",
@@ -217,6 +211,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQM2RIc2NaTllldjJvY3hXQWxjTnJhOVJxSGJFaTQ4dU9VY1BlaGpwX28wSk5HbnhnUFluZ1hPQWFiVnJSc21CLTUwVnN6NENxNFgtTWU4Q0dOVmh0ZzhXT0JPVU1LLUJxczh2SVg5TFFiOHJRcENWV0plYzg3emZDSFdQdndKemI4TURXNXlSYzN0aUZSUzZLaEhFMGR6YUNRQUk2Tk92X2RHTUFWMXd0ZGlhemRSWVJ6SThLXzUySE5uUGRwM3RZVXlsQWdqdUJWYTdLZDhJZjR0VzhnXzBxMjJrSld0NllGWHpV0gHwAUFVX3lxTE44TzdyMDZTTVJZaHFLMzNtSUF1RF9sRHYzaVd6TjcxSkxjdEFPaFpsU1BhaDh6aXRRX25XdHVYMVU2ekVSY01VTHJxcEFoeVRGbkxKdldhVXdIOFdITGZxbktoMUtab1F2Q2JRSEk2WXJvU0kxQ1N5c1pyNTZGQmFOcUtBaVpkZU1TMjAzb0paUWN3WE8wMjRmQ2tvdHpGNjlBd2RaTmc4N3Z1ejV3bllqNnUtUnIyZGY2bmFjYkJiWGdLMGZuT0ZURFE4ZjhBT2RMdnp3eGl0RVVULTN5dnNSaTJMMWVtSnlaVlVWVFUyWg?oc=5",
         "fonte": "Notícias Agrícolas",
         "data": "2026-09-17"
+      },
+      {
+        "titulo": "Da mina ao porto: a logística que pode destravar a mineração brasileira",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TZDlZdWZRb3hJVWN2OC1sWlpaM3VLdnpVU1FES01WX1BuQWZVT0IxS2VyT3dOX1RuR3VVMm9UOHhNWndlT3RiN2dqczlsa3UwV2NueWNROEJFWXJ2?oc=5",
+        "fonte": "Exame",
+        "data": "2026-09-14"
       }
     ],
     "maquinas": [
@@ -235,7 +235,7 @@ window.NEWS = {
       {
         "titulo": "Empresas com Governança de Dados planejam mais investimentos em IA",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEZWdUlKbmpjTFZVQjhpVEdUREEyUlV2S291VUV0bVJtUGVXWk96TlpzVERIdmxxZ3pBYndQTzFmYlh3TjRzWnNHTFRFbjBHdTVzUWpNMUNmeElmNjBReHBxa2pFRkRYMTdKTVp6NWRlQWFlSElFN3UxT1JwZlV4OFp30gGCAUFVX3lxTE04RlZ1SUpuamNMVlVCOGlUR1REQTJSVXZLb3VVRXRtUm1QZVdaT3pOWnNUREh2bHFnekFid1BPMWZiWHdONHNac0dMVEVuMEd1NXNRak0xQ2Z4SWY2MFF4cHFrakVGRFgxN0pNWno1ZGVBYWVISUU3dTFPUnBmVXg4Wnc?oc=5",
-        "fonte": "itforum.com.br",
+        "fonte": "IT Forum",
         "data": "2026-09-17"
       }
     ],
@@ -263,7 +263,7 @@ window.NEWS = {
       {
         "titulo": "Aumento da demanda por alimentos impulsiona indústria de embalagens em 2026",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnBIQXcwVGtCejdXSFdUN2ZicGdrblB0NVJwLXVILXBUWkxLVVB0c1V3ZkROTXdKczFJQVZfZVVEc3dFRVBXMmQzMklzVHpVR0FoR19JZlNpWGdhU1E5MkhWWmE1cnB4OHRHVXF2ZzY2YkJSeWo4TlE1Q2hFZm9uMkVIRWU1NEdwWkFDSEp2TFRINXRYa3ZKQTROcmNXYmRa?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-16"
       },
       {
@@ -273,10 +273,10 @@ window.NEWS = {
         "data": "2026-09-14"
       },
       {
-        "titulo": "RANI3 - Irani - Resultados, Dividendos, Cotação e Indicadores",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12YnpDWkhnMHBGeEQxXzZvUFIyaDg3NDNiMTRuR0FqUEhpRWhkdFVyUG9uVVczZ0xjWXdfMVRtQnpveVF3aTY4OGdwMzI0elN1bkE?oc=5",
-        "fonte": "Investidor10",
-        "data": "2026-09-18"
+        "titulo": "Novo TUP de celulose reforça papel de Rio Grande na exportação",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUGRqVXZJV1Y1RVNjdVBheWJiaU9EcXc0VlFtODJEeVJlWFdzcnFkNl9ZemN3c09Sb0dtUlRSMmtnYTc4ZW9mR3g4YnhOSGlVN0ZMbnV0OUdDejdMWFlMQ3pDZGRfY0haSnh4VEdNMUhBQ2NVaTMwNS03TW9pQUpXQndCdnUtM2gxV0pYX3R2U0NtdThucjllT0VzTkJKbWt4aTNxcA?oc=5",
+        "fonte": "Jornal Portuário",
+        "data": "2026-09-14"
       }
     ],
     "quimica": [],
@@ -284,19 +284,19 @@ window.NEWS = {
       {
         "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-14"
-      },
-      {
-        "titulo": "Saneamento busca fôlego para cumprir meta de 2033",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazZseXZYSTNTdC1qTVBkTlBIMXc0cmJocndOYmNwa1FpRGsyX3dCSzJHUGQ1TmFZX25fbzhvM0pUN183RU1sdEhhZkEyNHdBNExxUWJLaFB2NkFIZ1k3TFZDTC1VRlVuUkJVa1o2LTh3QkpDM3ZJVGdOcjd3NU5ueE5QUkRWYU92Nm5JUW9rdDFSSFJyWDZ2ZWxTWQ?oc=5",
-        "fonte": "Capital Aberto",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-14"
       },
       {
         "titulo": "Vita Sertão entra na reta final para assumir saneamento de 24 municípios",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1ZOQlFiQUItM21SNTZZbzlYZHEtQjN5T01EWjQ4VC1RcF92cWMxd0M0dTQxRmZEVmswdEZxMTBiMXJ3c3h1T1RRLVdFWkdxcnFtc2ZGSDZrU1pxYWkxNnhNQXpEVkRiN2VHZ0JfcUhUbi1oXzhrb2poZkg0MGx0cnAwTVRJTEFTTzJHZHhLVXJZa0lJdmVka0tWSEtqNTdjcG1CMmRSdzlDMUdQ0gGsAUFVX3lxTE9TVk5CUWJBQi0zbVI1NllvOVhkcS1CM3lPTURaNDhULVFwX3ZxYzF3QzR1NDFGZkRWazB0RnExMGIxcndzeHVPVFEtV0VaR3FycW1zZkZINmtTWnFhaTE2eE1BekRWRGI3ZUdnQl9xSFRuLWhfOGtvamhmSDQwbHRycDBNVElMQVNPMkdkeEtVcllrSUl2ZWRrS1ZIS2o1N2NwbUIyZFJ3OUMxR1A?oc=5",
         "fonte": "Folha PE",
+        "data": "2026-09-17"
+      },
+      {
+        "titulo": "Azevedo & Travassos vende controle da Verde Alagoas Ambiental por R$ 21 milhões",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkdwejFxY3NWSEdmU0lyZVdycWpUUzNKWFZRU1U2NjhqaWFQc0hUb2Fnb1hYcVNLR0hCTl9EVG9qUEFtcDBEakNzT1NwY0xOTUNGbDdKRzdtUU5lMm5pOE9BV2JpWlBGYW1ZQmNJY25JeEtsTE9GOGQ5c1J6aWs1SW1KeXFMM2ZRVkc3TENpQVI4S1laU0pJUVFYY2dTUWdnQXVtZ2hGMTl4dktEVHNLcnBjMENyaFnSAbcBQVVfeXFMUG5HcHoxcWNzVkhHZlNJcmVXcnFqVFMzSlhWUVNVNjY4amlhUHNIVG9hZ29YWHFTS0dIQk5fRFRvalBBbXAwRGpDc09TcGNMTk1DRmw3Skc3bVFOZTJuaThPQVdiaVpQRmFtWUJjSWNuSXhLbExPRjhkOXNSemlrNUltSnlxTDNmUVZHN0xDaUFSOEtZWlNKSVFRWGNnU1FnZ0F1bWdoRjE5eHZLRFRzS3JwYzBDcmhZ?oc=5",
+        "fonte": "InvestNews",
         "data": "2026-09-17"
       }
     ],
