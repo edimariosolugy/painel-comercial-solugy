@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-18T13:30:03+00:00",
+  "atualizadoEm": "2026-09-18T17:35:12+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -12,7 +12,7 @@ window.NEWS = {
       {
         "titulo": "Agronegócio acelera adoção de inteligência artificial e supera a média de investimentos corporativos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUjJRa1NPaHM5Q2p1Tm9Gd1VxejdLcXozY2NUQTU1WFF6Z2tQbEx2cmNLRGp2cDRYUnVwM04yWkl3bVI0aldyRlYxbmdYODA5SmRRRXFrMnRSLV94U1EwZzVDeEl1cGhWWVRjRDU0c0xvT2xJakdqcjFkMEFLMzY2cUdkS1NtelQ3X2thRnNkcVRKcjJlMW5BR3E3bmZYV3JqQWNHZVVQWjRzUzMxMHhuOWdPbTlYeDlqaXM3VkhCTmtPN1lYNWNqZGQ3dzFPQ2VXbm5aQm4xS3U?oc=5",
-        "fonte": "brasilinovador.com.br",
+        "fonte": "Brasil Inovador",
         "data": "2026-09-11"
       },
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Autopeças fecham novos contratos e ampliam vendas para montadoras",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdy1FN1B6S3Z2dTN4cGRyb1JBUzRscW9sRF9ENld0QlhLVkhWczNsMXpMdzZvT3ZmcWl2ZW1PUWpNc1dMSTVOU0F6b2JfVFUzcV9SQTB4am1uRGQycnBZWTJWMTVGajF4U29aMzhsaExUR0xLak1tQkpWVGIxRlduU0IwV3RlTlI2S0FCZVFrVW16S2N0ZUtfWEpTMi10UUtZZWNjQnRtYXpnLWFkSzI1R19vVFrSAbQBQVVfeXFMTXctRTdQekt2dnUzeHBkcm9SQVM0bHFvbERfRDZXdEJYS1ZIVnMzbDF6THc2b092ZnFpdmVtT1FqTXNXTEk1TlNBem9iX1RVM3FfUkEweGptbkRkMnJwWVkyVjE1RmoxeFNvWjM4bGhMVEdMS2pNbUJKVlRiMUZXblNCMFd0ZU5SNktBQmVRa1VtektjdGVLX1hKUzItdFFLWWVjY0J0bWF6Zy1hZEsyNUdfb1Ra?oc=5",
-        "fonte": "AutoIndústria",
+        "fonte": "autoindustria.com.br",
         "data": "2026-09-16"
       },
       {
@@ -58,24 +58,17 @@ window.NEWS = {
       {
         "titulo": "Presidente Lula libera R$ 30 bi em financiamentos para frota urbana",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmdXYjFJNHdEY0xtWEFzMWg0OVJOMWZMN1BxMElzNnM1aTl4SVVDOXVHay1RRW1DZzB5aV9UYktYUUZUZDJmV3BKWmdlN0k0eGZoWWxMYmxlcGRBU3BLbkxNZkpONUhCMW5GM1JCMzRXRHRRR1hOeGFpTk5TTDNhS2lpTWpkZXFiOG4zMnlMMTVWZw?oc=5",
-        "fonte": "SMABC",
+        "fonte": "smabc.org.br",
         "data": "2026-09-17"
       }
     ],
-    "bioenergia": [
-      {
-        "titulo": "MS tem quase R$ 90 bilhões em investimentos previstos",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSDdWMnlhRDJTdVNNdGxKNlNQVVJVUkxMUFpCMHI1OVAwQ0ZPbVl5eEJXVWdyc0JOZURTOUpBeU9scGVCUmJxTHpnM3NxZ3JiQ2M1N0J4MnRpZmk0RVRzbDFHV1JoRDZPdVMxWm12eTQ0S2xfSG13UEF6TkdsSGl2TmlqMWVSaTIzR3JkTXVoT3B5YUlD?oc=5",
-        "fonte": "Portal Água Clara MS",
-        "data": "2026-09-14"
-      }
-    ],
+    "bioenergia": [],
     "cimento": [
       {
-        "titulo": "Mais de 300 normas adicionais de custos de construção serão emitidas até o final de 2026.",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbWxvSEJTUjE3c0d2akxCMWdIcjc3bDlxUFNIVFZfOTYzdVZHWF85ek1kOXoxRGFtczFBMUZVZnlOTjlwajU2YXI4eFR6VnRUNm91UDhzQXd6NlpCZkF5QlVTaUhkSUhRNkNpS0dQd2RtUk9EcHd1OTY4WmJtTXNiMGhUb3h5dlBDTFFj?oc=5",
+        "titulo": "Abrindo caminho para materiais de construção ecológicos e circulares.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ka1MzWTZfTXhUeWtLbGJLbXA1S1kyc0ZYazBna3BtWU5ZanhsYk5EV3hXWjczTnhfQUdVWE84cUo5bGw4dmFNaG5YZWpkQ0RzS2RRTVRucEZCam1RVTlobzl1UDMwT1JwLUR6TVVIaUJaRVlNekZmWnkyaw?oc=5",
         "fonte": "Vietnam.vn",
-        "data": "2026-09-11"
+        "data": "2026-09-18"
       },
       {
         "titulo": "Consumiu mais de 82 milhões de toneladas de cimento e clínquer.",
@@ -106,7 +99,7 @@ window.NEWS = {
       {
         "titulo": "iFood anuncia investimento de R$ 24 bi no Brasil",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaGdYOTBxRlk3cFREaFYxVDBWMXc0RE0wOGRNaDJoZS0wRUUyLUtjTVZJLVpzeEsweDUwNXdiUE9uZkk4YVlXX0Jjb1VYTkpSMGtwYWIwUzQ2emtvX2RBTUM2YlRKR2JLQ2ZBSnU3WVA3MEpaWmF3QmFzd2oxZkxBaXJvb3F0aDlEU1ZPZ3BiY0lHaXJsZ0E?oc=5",
-        "fonte": "Poder360",
+        "fonte": "poder360.com.br",
         "data": "2026-09-16"
       }
     ],
@@ -120,7 +113,7 @@ window.NEWS = {
       {
         "titulo": "Transmissão deve receber R$ 79,1 bi até 2040, segundo EPE",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1QtME16czh1VTJ5Q1h5Szd6a2JETEJ4eV9DQzdTaXpzeWhwTklIU2FXSEc1WEprQ3dmeFVTdlF1am1XM0R6dk1BUGYtbmhtMHV2V1JMbkVXWHg1REhabWh3ZXZTeEsxbVliaUdhWUs1ci1Yd1RrTTlZc0ltTFk4ekxpMUlmLVpNSXNkVVFlbGp1LS02V3Vv?oc=5",
-        "fonte": "Além da Energia",
+        "fonte": "alemdaenergia.engie.com.br",
         "data": "2026-09-14"
       },
       {
@@ -132,27 +125,27 @@ window.NEWS = {
     ],
     "solar": [
       {
+        "titulo": "Neoenergia promove acesso à energia solar em comunidades vulneráveis do Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaEtjOVI0NHhzTzVIZmNSRWY0cTBkU1NHT3JzX3ZTUWpsaDBtMXM2NHhzQk1Zd0YwM24taFE5MWZ6QXRTd0xaRHJhdW9NWFhxQUE4V1JGbGJoMHk3UmplQXAtYllqY3BNaDY3ZWNlM28yRzNfYzJ2dG80b3hQVERBTHpOXy1Odjllbllobm9EOElxMHQzRkNfb1czeVN6ek9zY0ttazhzYjkwLWswTGNrVDJvTkptTEhUZW5WTHJlYTNzdDZ3VUh3Mg?oc=5",
+        "fonte": "Iberdrola",
+        "data": "2026-09-16"
+      },
+      {
+        "titulo": "Brasil carece de estratégia para liderar transição energética",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQaGNYcTFiZU1FazJRemhzUEF0bEFQYnJJNm5Cbl9uSVBGNE1jOUJtTVhvQjNrVm9uYmlHVWZBYXpFU1pXOWVVWGsyc3dXRVlENF9ING5qSEowc01RbEtNQVBvZWFpQXo3WnJpYTY1Z1FDeWxHcE5OUDRqb05INjBpd3RzZWtXV1M3Qk50aXRuRU5NMlhzeVVCVjQ2Y21wNnVm?oc=5",
+        "fonte": "FecomercioSP",
+        "data": "2026-09-15"
+      },
+      {
         "titulo": "Cortes de geração renovável crescem 18% e revelam “vulnerabilidade escondida” do sistema elétrico",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjg2bE9MYUMwVURqVjQ2d3N1cnpuNWRDVUNoa0NWNTVHZFFfajlqVUVIczRCQVBkSmxjMFJKcHlid3lWeGtOR0xPQ0tCdURMeDlha3kxLUJZMHpkc0k4WHZTTXpWYXBObDdoR2dqZmlmMnptSTF4d0JVTVRjOXBqdWNOWkp3ak5QeXR5ZVJFaVN3VmdLTnlwUEtmRTQ0OWpRcXlMUDZmMjRJTFdKR2Vkam1Hd3U0QzZuUklWdUdJZlQ5NUU3OFE?oc=5",
         "fonte": "NeoFeed",
-        "data": "2026-09-17"
-      },
-      {
-        "titulo": "Engie prevê retomada em renováveis em quatro a cinco anos, se demanda subir",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQazJ0ZVRWYTNoOWdjT3VfZVVfdlQtS2pna2s3Ujc5Yk5JX1VHZnhUbTZ0YVJ1RFBwNlNSbm5idjRBTzhDNXNmQlpxQzlJVC00djdqX0E2ZFlhOTFRVEdDOUVac2ltWnJXZm9IM21TUlJYUllwT0FiTDd0ZGxldEtBNHA5VWtJdnZ5V19lNkJDVmxEUEdnM0dlelg3OHhRMy1LUFo4SEplQU5YZHVzbk40?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-17"
-      },
-      {
-        "titulo": "Energia solar ganha espaço em Roraima e se consolida como alternativa para reduzir custos com eletricidade",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa09ienc4MmhnRldCUEphRHhKTHo0Nm5DTTl3NkNfM1dvNG41bDNwbEZBTktmRW1yYlo1T3dVTXRsTVdTWnlYaEMxX18tUkZpSWNqMUdCN29reFl6OHk4RjZ2S2s1c3VIc0k2OVltNE01cDExNXoyV3ZzMTlKR01HcEJhWE94U1ZwdXRablZNOUJaTnoxRFpxaXpUWlB4dVk5VnhnSVNaYUFFY3BydEVxM2hsNUpkajNwRWZSMWNWUWQxT01hRmU5OFgtSXliVGwxcThJUHQxZ3pjTDRH?oc=5",
-        "fonte": "Folha BV",
         "data": "2026-09-17"
       }
     ],
     "epc": [
       {
-        "titulo": "Quais estados brasileiros concentram o maior potencial de investimentos em infraestrutura no Brasil?",
+        "titulo": "Quais estados brasileiros concentram o maior potencial de investimentos em infraestrutura?",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3hJTFowbjNMV2ZmbW4xcnlpWGFndXhIOUVDemxiVU1pWVRNQ0l6dzdRNWZzSjE0MjdHZlNvMlBfekNYTVNBZGEwNTlmRUJmZktpdmFsQ1otdXNQb3Y3VFo1ak9yelBsSjNNNkNibXBPc1AyN2JWaV8yMXJfdzhzeURIdmRSNHFvY0UzUzFJbGZnOEhaajhOZzMzSHJFOVhQTEpKaFM3cVJDcVNIdENrbFRZOExaN056a1BxbFBxeXY4OUt1R2lkYlYtMGtMQi1SUGkw?oc=5",
         "fonte": "bnamericas.com",
         "data": "2026-09-18"
@@ -207,7 +200,7 @@ window.NEWS = {
         "data": "2026-09-11"
       },
       {
-        "titulo": "Quais estados brasileiros concentram o maior potencial de investimentos em infraestrutura no Brasil?",
+        "titulo": "Quais estados brasileiros concentram o maior potencial de investimentos em infraestrutura?",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3hJTFowbjNMV2ZmbW4xcnlpWGFndXhIOUVDemxiVU1pWVRNQ0l6dzdRNWZzSjE0MjdHZlNvMlBfekNYTVNBZGEwNTlmRUJmZktpdmFsQ1otdXNQb3Y3VFo1ak9yelBsSjNNNkNibXBPc1AyN2JWaV8yMXJfdzhzeURIdmRSNHFvY0UzUzFJbGZnOEhaajhOZzMzSHJFOVhQTEpKaFM3cVJDcVNIdENrbFRZOExaN056a1BxbFBxeXY4OUt1R2lkYlYtMGtMQi1SUGkw?oc=5",
         "fonte": "bnamericas.com",
         "data": "2026-09-18"
@@ -247,10 +240,10 @@ window.NEWS = {
         "data": "2026-09-17"
       },
       {
-        "titulo": "Com nova lei, Lula espera investimento em minerais críticos já",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW1qa0Zod1ljLS1sREJ6eGdSSzZZdUdyTzE2T3hkTlNGNC1EU1FLTU84QW9fZXRzcnJHNFlaUjduc3hZQ0pIN0x0T3VQOUk5dXNwN0c0RXJzRDVKRDZYblZEN2ktYmNyZG5JVDU1cGRIRkhDRGI2ODdGdDNVRHZ6c0RDWjViR3NrYTJub2g0dG1FQXduSTdGemxwQU1oNncxSmg5LWdvbE1OaEcyczRoa1djTzczdnd40gHHAUFVX3lxTE5kRTc5dkxyQVk5MTNPWjl3THhDNFgtM2RRLXNWQ3NuUjM4SUZBQU9mV095M09uNUxoZi1WVm9jTlNSMkFsTllvYzRiNGFTZk14dWhLVjQxcENDOW1fQ3hwbHpGanozdWFfb0tsLWdodU9uVHZONHEwVVVUaEZCUlpwd0FrWUc0VmowenN3aUJfX1Z3NXVIT3MwVVdOcFhLQ05penRraWduMFZYZGZZRVlLc0UySEZ6cDFWV3NrTEdhcUFHaHIxczQ?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-09-17"
+        "titulo": "Lula sanciona política para exploração de minerais críticos e estratégicos em território nacional",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmk5dG5HbkZXOFJyVWtlLUhsOTlvXzlPQ1NyZk5TTURLdzE5MTFLWEF0WU1FTkhDUWd4cV94Yzg2WVhHQ1Q0OWpVUnh2enFRYXVTREZERlF2MEktV0VRbk5GSjEyV3pFeVJfZTNOQV9wV1RxOXRPa3F6Vnh4N2xWdjliek95SGhsd0ZadmdaRElINlZZaDJrM1hYN1ZHckpBMVM1NUVtM3JxWWtGUVRYMGxlN0hRQXVfbTUyZmk5d3dUQXYxYXdCQkFTVkdCVFI5b2tVVXpEcXliSHNRS3RGaGIweE5VUDTSAfYBQVVfeXFMT2NuMThxYzNmVklEVk5wS3dPb3djVXZNaWp3Wi1kZmZCSXNVam1RQTBtWVlVUEFLVHVvS2lxYWlZMTY4ZFdWQ1ZLeXlxa2t3UW03NUlKWkxna2R5Rm94MFpPVkE0dVBfR0w3VGF3RGQ2NVB2UmNUbnkzMWhaQ1pUYWx6VjFfXzNCY0ZCV2RVc2gyR2h1cy02NXF5eWlhOGh6Y2ROYzhBZThlczNZaXk1Y3BjR3EwNngwY0MzRXlsTE5qN1dSVGNlZFh5bk5SN2NkNmprQVlQQ1FHek8waEJ1UU9vOUNHaG5QYkM3NFhMWDFPU1lxUFlB?oc=5",
+        "fonte": "G1",
+        "data": "2026-09-16"
       },
       {
         "titulo": "Brasil sanciona marco dos minerais críticos em meio à corrida por recursos estratégicos",
@@ -282,15 +275,15 @@ window.NEWS = {
     "quimica": [],
     "saneamento": [
       {
-        "titulo": "Saneamento busca fôlego para cumprir meta de 2033",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUWNUQXo2OXg2OUhlakxsZGhvTUtKVEcxXzA4QkMzTmVZdHJxNE0tQWdDb21sbGhuTmR1QXhuejJBQjBWU29ZdjYtOWdPaG5CVlh6WHBDRDNxWFlWZDV4ODhTQzNIVHUyWGl6aVJJSm90OXZOZ3d0UGFsQ09VeF94OVJnZnAyZDh4VkxlSUNRRzNFMjJiMTNLSmxBS3g1Y3dB?oc=5",
-        "fonte": "Capital Aberto",
-        "data": "2026-09-14"
-      },
-      {
         "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
         "fonte": "CNN Brasil",
+        "data": "2026-09-14"
+      },
+      {
+        "titulo": "Saneamento busca fôlego para cumprir meta de 2033",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazZseXZYSTNTdC1qTVBkTlBIMXc0cmJocndOYmNwa1FpRGsyX3dCSzJHUGQ1TmFZX25fbzhvM0pUN183RU1sdEhhZkEyNHdBNExxUWJLaFB2NkFIZ1k3TFZDTC1VRlVuUkJVa1o2LTh3QkpDM3ZJVGdOcjd3NU5ueE5QUkRWYU92Nm5JUW9rdDFSSFJyWDZ2ZWxTWQ?oc=5",
+        "fonte": "Capital Aberto",
         "data": "2026-09-14"
       },
       {
@@ -301,6 +294,13 @@ window.NEWS = {
       }
     ],
     "siderurgia": [],
-    "odontologia": []
+    "odontologia": [
+      {
+        "titulo": "Contrata+Brasil abre mercado do setor público municipal para as MEIs no RN",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbDdhZXp6MzVHS3JtYVJycC1oOHFiTDU1ejhSWUhKdEhHRDNNNU05b1lEcVZKMVJTTmlONmJpeFJDckhObXFRVkNsTEVxS1lQZXNSRkdxaFV4Y05EOC1BTVpfMG1CRi1YRXVGYUZnc0JPTjlockxNcFNpM19DTlMwODhUSC1pT3Y4WXBSdlJCMzA5S2VFN045cHNCdVNSX3p4cE1wbmZ4czBzQQ?oc=5",
+        "fonte": "Agora RN",
+        "data": "2026-09-12"
+      }
+    ]
   }
 };
