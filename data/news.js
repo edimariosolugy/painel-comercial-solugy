@@ -1,12 +1,12 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-19T12:58:13+00:00",
+  "atualizadoEm": "2026-09-19T16:22:25+00:00",
   "itens": {
     "agronegocio": [
       {
         "titulo": "Brasil e Angola firmam memorando para ampliar investimentos no agro",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjBKTDBzUUY4OTV6SXI1OXB0TVduRzlCYV81RXVpWVNsSlhydVVmUDl4ZWxBa0FwZ1RDZ2dlZjRqa2I2S0dzOFJZSnptdlBSazVCRjRDWmctaUR0bjE0d3gzT1FDQV9EWTBEWGFLTW56U0wzZ0dqOGJtTjdWZEtjYXVxUFZLdy1pOThkd0EzVldaVWtRX2V5OXl5S3dWOTJJdU9UMXN2Q3FiUHc?oc=5",
-        "fonte": "canalrural.com.br",
+        "fonte": "Canal Rural",
         "data": "2026-09-15"
       },
       {
@@ -24,21 +24,21 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "NotCo vende operação no Brasil e acelera recuo internacional da foodtech",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbm1Md0N3TUI4cWhxbFE2U2xEdFhfVjBIR3dLdV81SmdCaGFkSXd4NkU0MWV6UW9rNnB3cTFab0FvVGd2R051TWczZTUzNjJhMWtpUzVUNVNoLW9xUnpIR2NTcnFEU0o1TmpZNkFsTmNVcm9jaU43YXN4LWNKUU5BLTlMUjNkUTIxeFM0N2QxTGlkS3ZSME92dFJlVW53LThjWUFfb1h1WVA4dm8?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-12"
-      },
-      {
-        "titulo": "BB Investimentos diz o que esperar para o agro no mês e recomenda compra de 2 ações — uma delas pode dobrar de preço até o fim do ano",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPem1UZ2JSWm1pWElvbzc4MUNDQTlrUmw3US1DVDRNOXgwRlhNdy1MSjNocW1Sd2pJN3d2SXhobVZPbmhOOWNzZmc0bzdZUkU3TlFuT2xSYTlHTGtEbjR1VXpJTVBQdHRKRFRlSi1hVGtnNGR4Mm5FTjZtaU5kZVFRWlJsUl9oV015b09iZUVCcVlPSW9jUk04MVFpTzQwMjVLNmFva0NBVUJ2TkxwTVRSbVBuZlVYSmZKVFpSeWxXTk1hTWh2NUZtZVoyMWhNelZOSlhNT1RYV1BNYUVPNlh6OTRhZkk0NmZqLWc?oc=5",
-        "fonte": "Money Times",
-        "data": "2026-09-18"
+        "titulo": "'A fibra é a nova proteína': canetas emagrecedoras mudam a indústria de alimentos",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNejAxVDEyY1BYaWlfS0lRQUdJaEpsS3lpTkVTR1VWbDdYYTBCUDhqcTRHT25GdTU1WjRtTFpDY0M0UHNsR1c1ZXNLcV8xVHdRUG5uTFNFRFRIZDQ5a1lCLVlFS0ZGMndnZFQ4U3l5OE5Rc21sNlM5NUh6bXhWeVVjRXZGalhQcWFaaTdvc1NQcjkwRXFWOUJRVzJja2ljanBxWXVhaTNFWGlVZF9sSUhCZ0ZiTQ?oc=5",
+        "fonte": "Exame",
+        "data": "2026-09-19"
       },
       {
         "titulo": "Indústria pode acelerar automação diante de mudanças na jornada de trabalho | SEGS Portal Nacional de...",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUx1bURaREl0a1JQYlBlOTE5bURQYVFSdzhsYlRHSEM0bVpTV041V0NRSXI1Sy1rU2Z2X3pLRkh3aWk4VlVyVktXSGsxQURpUlc2VThpRERrUENhX1d3ZUxCZmlrZzJqNTE0Zlh5bkxaUExrYjdndEtnbWgwcjhxeGJyOGVLUGtaTFdjWEhxLW52Qi1adUFGLXM0TlVTUUsyV0xoeEJWYUdSZkVZdGVfekxEWG7SAboBQVVfeXFMUGZKckZjdzVzS0VnVHk0eUVVdE9zN1lIQlNMNkYwS3liTUdfTDZkRmlDdVR1cExiNk5ZZVBqT1NZZTFyMjNSZVpEdmhhTGtMLTU4bDQzSW45cDF3eUhDeUlKemEyVDljYUVHSTZGdjk5N2UzQ0U1Z0Y2WFdiS3VaVjhscXRQczVYbXhUTHdweDJJWXNTYXFFNl9oeC1aTUxoeVlVQWVFczFHUmdIUmlXNlEybHIzT2l2dDl3?oc=5",
         "fonte": "SEGS Portal Nacional",
+        "data": "2026-09-18"
+      },
+      {
+        "titulo": "BB Investimentos diz o que esperar para o agro no mês e recomenda compra de 2 ações — uma delas pode dobrar de preço até o fim do ano",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPem1UZ2JSWm1pWElvbzc4MUNDQTlrUmw3US1DVDRNOXgwRlhNdy1MSjNocW1Sd2pJN3d2SXhobVZPbmhOOWNzZmc0bzdZUkU3TlFuT2xSYTlHTGtEbjR1VXpJTVBQdHRKRFRlSi1hVGtnNGR4Mm5FTjZtaU5kZVFRWlJsUl9oV015b09iZUVCcVlPSW9jUk04MVFpTzQwMjVLNmFva0NBVUJ2TkxwTVRSbVBuZlVYSmZKVFpSeWxXTk1hTWh2NUZtZVoyMWhNelZOSlhNT1RYV1BNYUVPNlh6OTRhZkk0NmZqLWc?oc=5",
+        "fonte": "Money Times",
         "data": "2026-09-18"
       }
     ],
@@ -52,7 +52,7 @@ window.NEWS = {
       {
         "titulo": "Autopeças fecham novos contratos e ampliam vendas para montadoras",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdy1FN1B6S3Z2dTN4cGRyb1JBUzRscW9sRF9ENld0QlhLVkhWczNsMXpMdzZvT3ZmcWl2ZW1PUWpNc1dMSTVOU0F6b2JfVFUzcV9SQTB4am1uRGQycnBZWTJWMTVGajF4U29aMzhsaExUR0xLak1tQkpWVGIxRlduU0IwV3RlTlI2S0FCZVFrVW16S2N0ZUtfWEpTMi10UUtZZWNjQnRtYXpnLWFkSzI1R19vVFrSAbQBQVVfeXFMTXctRTdQekt2dnUzeHBkcm9SQVM0bHFvbERfRDZXdEJYS1ZIVnMzbDF6THc2b092ZnFpdmVtT1FqTXNXTEk1TlNBem9iX1RVM3FfUkEweGptbkRkMnJwWVkyVjE1RmoxeFNvWjM4bGhMVEdMS2pNbUJKVlRiMUZXblNCMFd0ZU5SNktBQmVRa1VtektjdGVLX1hKUzItdFFLWWVjY0J0bWF6Zy1hZEsyNUdfb1Ra?oc=5",
-        "fonte": "autoindustria.com.br",
+        "fonte": "AutoIndústria",
         "data": "2026-09-16"
       },
       {
@@ -94,7 +94,7 @@ window.NEWS = {
       {
         "titulo": "Grupo InBetta anuncia investimentos de mais de R$ 1 bilhão até 2028",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDFrTXZGM0k4eEFBMDhhRFJ6YVUwRkdCMEFiVnVIUW5fbDFZQzhGWU9NS3hUT0F0amZxWi1kSDJZRlRtQ0FKXzE4TVFYa3ZMNkJrSS1JWTgtekE1OGN0RHV6dkJmaGpUSmloTWFBTktNaFN6Z0ZnWGUxd2tZSk41S1NrdEMzMTVUaFhxRHZwUlZLZU9SNDRwTElibkU5VW0zZTJrZlpzY2nSAa4BQVVfeXFMT3o3Q1pzTzR5MkRhOEZUaURLc3dRU0R4QlZsNUc3WmRGN0xRaGI2OFNGOUxpN0V0SEVBVldPMzNSdFhYeWgtWXJUel9FWTlITDg1UnRoMWh3SGx6cUZFR093VUdrSUlWWl9JX3pwT1BuQXBrZWpueUkzYlRSYUlsMjNiSzFuQTlpZFZiV1dHcTdZV1h1a2R3RU1PYkVYc0s3ZlBkU1pwLW5JemJTcE1R?oc=5",
-        "fonte": "infomoney.com.br",
+        "fonte": "InfoMoney",
         "data": "2026-09-17"
       },
       {
@@ -126,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Transmissão deve receber R$ 79,1 bi até 2040, segundo EPE",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOd1QtME16czh1VTJ5Q1h5Szd6a2JETEJ4eV9DQzdTaXpzeWhwTklIU2FXSEc1WEprQ3dmeFVTdlF1am1XM0R6dk1BUGYtbmhtMHV2V1JMbkVXWHg1REhabWh3ZXZTeEsxbVliaUdhWUs1ci1Yd1RrTTlZc0ltTFk4ekxpMUlmLVpNSXNkVVFlbGp1LS02V3Vv?oc=5",
-        "fonte": "Além da Energia",
+        "fonte": "alemdaenergia.engie.com.br",
         "data": "2026-09-14"
       }
     ],
@@ -144,10 +144,10 @@ window.NEWS = {
         "data": "2026-09-17"
       },
       {
-        "titulo": "Energia solar ganha espaço em Roraima e se consolida como alternativa para reduzir custos com eletricidade",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa09ienc4MmhnRldCUEphRHhKTHo0Nm5DTTl3NkNfM1dvNG41bDNwbEZBTktmRW1yYlo1T3dVTXRsTVdTWnlYaEMxX18tUkZpSWNqMUdCN29reFl6OHk4RjZ2S2s1c3VIc0k2OVltNE01cDExNXoyV3ZzMTlKR01HcEJhWE94U1ZwdXRablZNOUJaTnoxRFpxaXpUWlB4dVk5VnhnSVNaYUFFY3BydEVxM2hsNUpkajNwRWZSMWNWUWQxT01hRmU5OFgtSXliVGwxcThJUHQxZ3pjTDRH?oc=5",
-        "fonte": "Folha BV",
-        "data": "2026-09-17"
+        "titulo": "Empresa norueguesa inaugura usina solar de R$ 439 mi em MG",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43b3RPUjlEQlp6dGIyWFVPYmdFWklNT19CVUxQNlBxYV9HOUNpMzdlTTVQakpRemx4dFJGNmdzSmszbUh4a3F3QkZCcDJ4Zk9neTV0QktsaGVPenM4dW1oc1hLYmltZGJ0NjQtVTZzR1hNWGVT?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-09-19"
       }
     ],
     "epc": [
@@ -187,16 +187,16 @@ window.NEWS = {
         "data": "2026-09-16"
       },
       {
+        "titulo": "Skala investe R$ 150 milhões em nova fábrica e reposiciona marca",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTXFYZFd0VElGd0NoeGpQalROQjNsWHdkRjRIYmxfVk1hYTdUOTRsd1ZOYVJ6NkhMNVlaV3NYcmNWT3NqdnkxZWg3clI2dU4tOVlFb2pIcmRqS0Y1eTBhbVJHUW85aUM5Rkw3eFVVNFJ2SFhuVXRqMEpnd0lIZWFrV3d5QlRBX1FhN3p4UUFYYV96NGJZWlBpaWktQW1KN0FOeFNzWXYtOA?oc=5",
+        "fonte": "SuperVarejo",
+        "data": "2026-09-17"
+      },
+      {
         "titulo": "Chinesa Geely vai fabricar carros no Brasil em parceria com a Renault, com investimento de R$ 1,9 bilhão",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVW5ZVjdEN015UzRHV1g4cXBQZG9Edm9KY0FDRmhyc1E0N3dyZmRyZ2ZJcW1KUDNkU1pKSU5LNkZ6aHRFYm0wRWQzYmdmWFhIQ3FINnFUc09Uc1JpVjhadGRja1hDclZPYUUwbXpNamJldDh6YzdxX2N1LVk4WGxOSnVNSlZqMmxfc3Z5aWk1ajBJUlExa1JMa2NlaTdvMm5RWVd6Y2RqLWROM1pJNGMtWldVVENQUUluUjJNdVdKbHZFdUlyU2tvaG5YUmJLUzFKU0JQSmZ3UzJHSVo0YXNB0gHuAUFVX3lxTE0xZGp1OFhhZ0NHeVVVd3dfUk94R0lhc2k0Z18xc0otS094UlVoZlVPTWFCcXJfeDNxSUVRTTJBaHBsUmoxOVU3TWNtbVNWNmdHYlltSG5LUlRNdFVJODZFYkVoa2xIVWtqNk5RX3V2c0w5VVRsV1I1bkxEd0lGMjdoY19ZOFFZSy10ejFRRDVBTFd1RV85OHdCV0JLMW5NQVU2Q2szSTVNTHpGcHNMM3BZM19BcTBMUEk3X2hFNVlwdlBJd3pObm5DYlBVb2tnSnR5Y3g5VGo3ZVoyS2ctcHVNUHRraUJad1JqNVA5WHc?oc=5",
         "fonte": "G1",
         "data": "2026-09-16"
-      },
-      {
-        "titulo": "Centro de distribuição de moveleira de Gramado é comprado por R$ 20 milhões por fábrica de chocolates",
-        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbDN4WjZjU3BtS2NOTWt0ckdNSHh3cENMbkxjcHJYcm5PU2lHN2tmanNwSmxuSWZPRmtLV3FDMFQ2U2FORzRGN0s1ZWFRVkM4X2g1ZkV4Y0I5UV9RYnV1TldnVU0tRGNONWNYMk5HSVJkUVZRVkRrdUowa1NibjJLXzJoUFduOEFMRkZQYUR3YVJBS285ZE9yeElGRUJpX2NYYlk0U0Z4WUtLNEVTekVfZlVsekY1OEdxcGltTGJrck1QRjlCTEdjdm0wd0lMZF9VYi1jaUhfOWVtSUlBNTdvT1hHbXgyRzMzTVJqX1YtZEJPQ3pxQlhTbVVaMXV0QXZJLXl1QS00OEl1YUlxRFUyUmN2ak9aRnItQVE?oc=5",
-        "fonte": "jornaldocomercio.com",
-        "data": "2026-09-18"
       }
     ],
     "logistica": [
@@ -213,9 +213,9 @@ window.NEWS = {
         "data": "2026-09-17"
       },
       {
-        "titulo": "Porto Sudeste coloca MRS no radar de uma possível expansão da BlackRock",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3JsVmFMeWd6S05rdmdZR2I5RTBwcHZKZEYtQ3VKckJaVGJRZU9iRVdXbVpZMVdzNzhVcy1jcm9Yc2p5Q09nZjRZeEgxNUZZUE9rNWU0TnozNi1UWEhDNE9vdkZ4ODBKOUxLanVTYVNSVGVBVkl6dUhLWi1JeWlhdE5MWjE4OFlwMlh4ekdNSnV1UkhGb0tXTWNYeC1fbVNXOXZ5NkNYdE53M2FEZTZ3Ng?oc=5",
-        "fonte": "Jornal Portuário",
+        "titulo": "Da mina ao porto: a logística que pode destravar a mineração brasileira",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TZDlZdWZRb3hJVWN2OC1sWlpaM3VLdnpVU1FES01WX1BuQWZVT0IxS2VyT3dOX1RuR3VVMm9UOHhNWndlT3RiN2dqczlsa3UwV2NueWNROEJFWXJ2?oc=5",
+        "fonte": "Exame",
         "data": "2026-09-14"
       }
     ],
