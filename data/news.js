@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-19T19:14:19+00:00",
+  "atualizadoEm": "2026-09-19T22:13:47+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -12,14 +12,14 @@ window.NEWS = {
       {
         "titulo": "Tornar agro mais sustentável pode exigir até R$ 2,6 tri em investimentos",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSU5OMU5qTHVlYWp5cVg0T3lRNE5EaTkyWnFtNTJ5Q3BWRDBPbFlOdVZpMFVtTk5vN1J4bVBnaUdKSGpqNE5MX0dlRHRHRXhGS2hIZXNjaXdHcmdCR1Z1ZnZoeWx6MUFJRGhERmFBaXBRTDEyYW5va3l1d1ZhZTlPQVVsZ09UT1BMcFlIWndaNTdiSzVQUmIyejRidWphQnN3R3pyTDJWOFM?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-13"
       },
       {
-        "titulo": "Crise no agro gera calote de R$ 48 bi e transforma bancos em 'fazendeiros'",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUzEtZEF0WFBGYnFTWUJ0NmxjYWpWQnlNcnN3ZW9sVF8zbVZSazZsS2wwRXUtOTJ3anZxWDZyd3o4alVuN0xtZDZNRk44UzEtalNKT3JDb0VSOWFMWVRlMWNtMEVUSl9VeER5UzBnTnZFdFlKZzF0eFJMVHFDS3pwaE5KQm54X0xBaFlEbkZsVXNUZFg4VVN5M2huZDhNYXRIVzBiTzFMYTBFQ21vMDZ6UUhzajJWV3NUeFB3cXhmY1F3cVRGSEM2RThCVQ?oc=5",
-        "fonte": "UOL Economia",
-        "data": "2026-09-13"
+        "titulo": "O Agronegócio e o Liberalismo Econômico: Instituições, Competitividade e Desenvolvimento",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmRaMnAtZERZNFBSTlJOVnh2UkNoXzUzZG1Vek5CWVFPbkFIS3BZQnhOUHc2dlljcDBqYlRYRGVQTjFYb3gzQzJEazlYempnZUtONHFTVmpvOWdVR2JaRGhfX2ppZTQ4cnc5TWNSTFZYMkREbXhRQldZcGo0bjFTbXllb01haGJMeFhwYmFmX0Viczh6WDhaR2h2eF9ndktDdnFQaXBZMDgwVU9HMXp5YW5OR2tZdmZUeUpGMFQxSGtuNk1UdDRYQUVCUE1VM0wtREE?oc=5",
+        "fonte": "Exame",
+        "data": "2026-09-19"
       }
     ],
     "alimentos-bebidas": [
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "Indústria pode acelerar automação diante de mudanças na jornada de trabalho | SEGS Portal Nacional de...",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcUx1bURaREl0a1JQYlBlOTE5bURQYVFSdzhsYlRHSEM0bVpTV041V0NRSXI1Sy1rU2Z2X3pLRkh3aWk4VlVyVktXSGsxQURpUlc2VThpRERrUENhX1d3ZUxCZmlrZzJqNTE0Zlh5bkxaUExrYjdndEtnbWgwcjhxeGJyOGVLUGtaTFdjWEhxLW52Qi1adUFGLXM0TlVTUUsyV0xoeEJWYUdSZkVZdGVfekxEWG7SAboBQVVfeXFMUGZKckZjdzVzS0VnVHk0eUVVdE9zN1lIQlNMNkYwS3liTUdfTDZkRmlDdVR1cExiNk5ZZVBqT1NZZTFyMjNSZVpEdmhhTGtMLTU4bDQzSW45cDF3eUhDeUlKemEyVDljYUVHSTZGdjk5N2UzQ0U1Z0Y2WFdiS3VaVjhscXRQczVYbXhUTHdweDJJWXNTYXFFNl9oeC1aTUxoeVlVQWVFczFHUmdIUmlXNlEybHIzT2l2dDl3?oc=5",
-        "fonte": "segs.com.br",
+        "fonte": "SEGS Portal Nacional",
         "data": "2026-09-18"
       },
       {
@@ -50,16 +50,16 @@ window.NEWS = {
         "data": "2026-09-19"
       },
       {
-        "titulo": "Autopeças fecham novos contratos e ampliam vendas para montadoras",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdy1FN1B6S3Z2dTN4cGRyb1JBUzRscW9sRF9ENld0QlhLVkhWczNsMXpMdzZvT3ZmcWl2ZW1PUWpNc1dMSTVOU0F6b2JfVFUzcV9SQTB4am1uRGQycnBZWTJWMTVGajF4U29aMzhsaExUR0xLak1tQkpWVGIxRlduU0IwV3RlTlI2S0FCZVFrVW16S2N0ZUtfWEpTMi10UUtZZWNjQnRtYXpnLWFkSzI1R19vVFrSAbQBQVVfeXFMTXctRTdQekt2dnUzeHBkcm9SQVM0bHFvbERfRDZXdEJYS1ZIVnMzbDF6THc2b092ZnFpdmVtT1FqTXNXTEk1TlNBem9iX1RVM3FfUkEweGptbkRkMnJwWVkyVjE1RmoxeFNvWjM4bGhMVEdMS2pNbUJKVlRiMUZXblNCMFd0ZU5SNktBQmVRa1VtektjdGVLX1hKUzItdFFLWWVjY0J0bWF6Zy1hZEsyNUdfb1Ra?oc=5",
-        "fonte": "AutoIndústria",
-        "data": "2026-09-16"
-      },
-      {
         "titulo": "Renault investe R$ 2 bilhões no Brasil até 2027",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CclhiT0hQTzlFQTFiTG1ZckJyajItZndiMTZFV2pIOXMxUEVjZHp5enVERTFNYUUycnBFX3Y3NDhPa0Q0RHBTMjJscUdOTEltYVZ6cDJzOXlnTE5TaDNDSDlBdlBHRl9qb3FTX3hQZXBKQzNNNlE?oc=5",
         "fonte": "Acia Araçatuba",
         "data": "2026-09-16"
+      },
+      {
+        "titulo": "Presidente Lula libera R$ 30 bi em financiamentos para frota urbana",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmdXYjFJNHdEY0xtWEFzMWg0OVJOMWZMN1BxMElzNnM1aTl4SVVDOXVHay1RRW1DZzB5aV9UYktYUUZUZDJmV3BKWmdlN0k0eGZoWWxMYmxlcGRBU3BLbkxNZkpONUhCMW5GM1JCMzRXRHRRR1hOeGFpTk5TTDNhS2lpTWpkZXFiOG4zMnlMMTVWZw?oc=5",
+        "fonte": "SMABC",
+        "data": "2026-09-17"
       }
     ],
     "bioenergia": [
@@ -72,21 +72,21 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "Consumiu mais de 82 milhões de toneladas de cimento e clínquer.",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BeTJXREtHSGhWdTUwb0tvcWprenJJN0YtcGZqc3d2TDFnWVl0RFFacUt6ci13VXNsWFBWdC16WWkzVURsVG9HTENKOEYxWGlhR1lVN2lITFBCQkZ4WmpzMG41MmpWNlI5M1FtZ1dSWEc0b0lfQ1E?oc=5",
-        "fonte": "vietnam.vn",
+        "titulo": "Abrindo caminho para materiais de construção ecológicos e circulares.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ka1MzWTZfTXhUeWtLbGJLbXA1S1kyc0ZYazBna3BtWU5ZanhsYk5EV3hXWjczTnhfQUdVWE84cUo5bGw4dmFNaG5YZWpkQ0RzS2RRTVRucEZCam1RVTlobzl1UDMwT1JwLUR6TVVIaUJaRVlNekZmWnkyaw?oc=5",
+        "fonte": "Vietnam.vn",
         "data": "2026-09-18"
       },
       {
-        "titulo": "Abrindo caminho para materiais de construção ecológicos e circulares.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ka1MzWTZfTXhUeWtLbGJLbXA1S1kyc0ZYazBna3BtWU5ZanhsYk5EV3hXWjczTnhfQUdVWE84cUo5bGw4dmFNaG5YZWpkQ0RzS2RRTVRucEZCam1RVTlobzl1UDMwT1JwLUR6TVVIaUJaRVlNekZmWnkyaw?oc=5",
-        "fonte": "vietnam.vn",
+        "titulo": "Consumiu mais de 82 milhões de toneladas de cimento e clínquer.",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1BeTJXREtHSGhWdTUwb0tvcWprenJJN0YtcGZqc3d2TDFnWVl0RFFacUt6ci13VXNsWFBWdC16WWkzVURsVG9HTENKOEYxWGlhR1lVN2lITFBCQkZ4WmpzMG41MmpWNlI5M1FtZ1dSWEc0b0lfQ1E?oc=5",
+        "fonte": "Vietnam.vn",
         "data": "2026-09-18"
       },
       {
         "titulo": "A empreiteira responsável pela rodovia Vinh - Thanh Thuy está enfrentando dificuldades porque os preços estimados dos materiais são inferiores aos preços de mercado.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUhReGxXcVhKal8zb1RLa1ZhRGdRbkZseFZhTkhvc3VMTG1udENuNHQtVnM4VWYydkhUM1o5U2paclhXQ0dRN2hMQTJ4NHJfUjJjRUJGdGs0d1A2aFc1QUVvdFVjYzE0TFRReVdQNjJMLVM1OXlLRkQzX3lzcHpoRnZ6TlRNdC11ZW5Scmota01CaXJpcUN3OFNGWDQtdlpIRjFFWmd3b2NPSWtjX3pxZw?oc=5",
-        "fonte": "vietnam.vn",
+        "fonte": "Vietnam.vn",
         "data": "2026-09-18"
       }
     ],
@@ -120,7 +120,7 @@ window.NEWS = {
       {
         "titulo": "Isa Energia foca em disciplina financeira este ano para disputar leilão de transmissão de 2027",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVFpwRGwzMFo1WGhPc25JbXA0d2JpQXM4eTVHSW55aEpINkR0enlXaWVnUzFCbVZZRW1wWmFSaEEtekNQNkp5ZzduMDdMamEwRWJPY0tSVndmZUJYZGN4X3ZueUpQTjJvOEVoYmpCYldHOEE3a25BODJpMzNld2taV2lic0lwaWVxVTVTaGRvT1ZGd1RUTEgybE5MQy1nVGxYeG9NT1lYMkp6QUg1U3NodnUyaU00SHc1cm1pa25wODhKa2JFVzFz?oc=5",
-        "fonte": "InvesTalk",
+        "fonte": "investalk.bb.com.br",
         "data": "2026-09-15"
       },
       {
@@ -154,7 +154,7 @@ window.NEWS = {
       {
         "titulo": "Quais estados brasileiros concentram o maior potencial de investimentos em infraestrutura?",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3hJTFowbjNMV2ZmbW4xcnlpWGFndXhIOUVDemxiVU1pWVRNQ0l6dzdRNWZzSjE0MjdHZlNvMlBfekNYTVNBZGEwNTlmRUJmZktpdmFsQ1otdXNQb3Y3VFo1ak9yelBsSjNNNkNibXBPc1AyN2JWaV8yMXJfdzhzeURIdmRSNHFvY0UzUzFJbGZnOEhaajhOZzMzSHJFOVhQTEpKaFM3cVJDcVNIdENrbFRZOExaN056a1BxbFBxeXY4OUt1R2lkYlYtMGtMQi1SUGkw?oc=5",
-        "fonte": "bnamericas.com",
+        "fonte": "BNamericas",
         "data": "2026-09-18"
       }
     ],
@@ -193,17 +193,17 @@ window.NEWS = {
         "data": "2026-09-17"
       },
       {
-        "titulo": "Chinesa Geely vai fabricar carros no Brasil em parceria com a Renault, com investimento de R$ 1,9 bilhão",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPVW5ZVjdEN015UzRHV1g4cXBQZG9Edm9KY0FDRmhyc1E0N3dyZmRyZ2ZJcW1KUDNkU1pKSU5LNkZ6aHRFYm0wRWQzYmdmWFhIQ3FINnFUc09Uc1JpVjhadGRja1hDclZPYUUwbXpNamJldDh6YzdxX2N1LVk4WGxOSnVNSlZqMmxfc3Z5aWk1ajBJUlExa1JMa2NlaTdvMm5RWVd6Y2RqLWROM1pJNGMtWldVVENQUUluUjJNdVdKbHZFdUlyU2tvaG5YUmJLUzFKU0JQSmZ3UzJHSVo0YXNB0gHuAUFVX3lxTE0xZGp1OFhhZ0NHeVVVd3dfUk94R0lhc2k0Z18xc0otS094UlVoZlVPTWFCcXJfeDNxSUVRTTJBaHBsUmoxOVU3TWNtbVNWNmdHYlltSG5LUlRNdFVJODZFYkVoa2xIVWtqNk5RX3V2c0w5VVRsV1I1bkxEd0lGMjdoY19ZOFFZSy10ejFRRDVBTFd1RV85OHdCV0JLMW5NQVU2Q2szSTVNTHpGcHNMM3BZM19BcTBMUEk3X2hFNVlwdlBJd3pObm5DYlBVb2tnSnR5Y3g5VGo3ZVoyS2ctcHVNUHRraUJad1JqNVA5WHc?oc=5",
-        "fonte": "G1",
-        "data": "2026-09-16"
+        "titulo": "Centro de distribuição de moveleira de Gramado é comprado por R$ 20 milhões por fábrica de chocolates",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPbDN4WjZjU3BtS2NOTWt0ckdNSHh3cENMbkxjcHJYcm5PU2lHN2tmanNwSmxuSWZPRmtLV3FDMFQ2U2FORzRGN0s1ZWFRVkM4X2g1ZkV4Y0I5UV9RYnV1TldnVU0tRGNONWNYMk5HSVJkUVZRVkRrdUowa1NibjJLXzJoUFduOEFMRkZQYUR3YVJBS285ZE9yeElGRUJpX2NYYlk0U0Z4WUtLNEVTekVfZlVsekY1OEdxcGltTGJrck1QRjlCTEdjdm0wd0lMZF9VYi1jaUhfOWVtSUlBNTdvT1hHbXgyRzMzTVJqX1YtZEJPQ3pxQlhTbVVaMXV0QXZJLXl1QS00OEl1YUlxRFUyUmN2ak9aRnItQVE?oc=5",
+        "fonte": "Jornal do Comércio",
+        "data": "2026-09-18"
       }
     ],
     "logistica": [
       {
         "titulo": "Quais estados brasileiros concentram o maior potencial de investimentos em infraestrutura?",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3hJTFowbjNMV2ZmbW4xcnlpWGFndXhIOUVDemxiVU1pWVRNQ0l6dzdRNWZzSjE0MjdHZlNvMlBfekNYTVNBZGEwNTlmRUJmZktpdmFsQ1otdXNQb3Y3VFo1ak9yelBsSjNNNkNibXBPc1AyN2JWaV8yMXJfdzhzeURIdmRSNHFvY0UzUzFJbGZnOEhaajhOZzMzSHJFOVhQTEpKaFM3cVJDcVNIdENrbFRZOExaN056a1BxbFBxeXY4OUt1R2lkYlYtMGtMQi1SUGkw?oc=5",
-        "fonte": "bnamericas.com",
+        "fonte": "BNamericas",
         "data": "2026-09-18"
       },
       {
@@ -247,15 +247,15 @@ window.NEWS = {
         "data": "2026-09-17"
       },
       {
-        "titulo": "Com nova lei, Lula espera investimento em minerais críticos já",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW1qa0Zod1ljLS1sREJ6eGdSSzZZdUdyTzE2T3hkTlNGNC1EU1FLTU84QW9fZXRzcnJHNFlaUjduc3hZQ0pIN0x0T3VQOUk5dXNwN0c0RXJzRDVKRDZYblZEN2ktYmNyZG5JVDU1cGRIRkhDRGI2ODdGdDNVRHZ6c0RDWjViR3NrYTJub2g0dG1FQXduSTdGemxwQU1oNncxSmg5LWdvbE1OaEcyczRoa1djTzczdnd40gHHAUFVX3lxTE5kRTc5dkxyQVk5MTNPWjl3THhDNFgtM2RRLXNWQ3NuUjM4SUZBQU9mV095M09uNUxoZi1WVm9jTlNSMkFsTllvYzRiNGFTZk14dWhLVjQxcENDOW1fQ3hwbHpGanozdWFfb0tsLWdodU9uVHZONHEwVVVUaEZCUlpwd0FrWUc0VmowenN3aUJfX1Z3NXVIT3MwVVdOcFhLQ05penRraWduMFZYZGZZRVlLc0UySEZ6cDFWV3NrTEdhcUFHaHIxczQ?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-09-17"
+        "titulo": "Lula sanciona política para exploração de minerais críticos e estratégicos em território nacional",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmk5dG5HbkZXOFJyVWtlLUhsOTlvXzlPQ1NyZk5TTURLdzE5MTFLWEF0WU1FTkhDUWd4cV94Yzg2WVhHQ1Q0OWpVUnh2enFRYXVTREZERlF2MEktV0VRbk5GSjEyV3pFeVJfZTNOQV9wV1RxOXRPa3F6Vnh4N2xWdjliek95SGhsd0ZadmdaRElINlZZaDJrM1hYN1ZHckpBMVM1NUVtM3JxWWtGUVRYMGxlN0hRQXVfbTUyZmk5d3dUQXYxYXdCQkFTVkdCVFI5b2tVVXpEcXliSHNRS3RGaGIweE5VUDTSAfYBQVVfeXFMT2NuMThxYzNmVklEVk5wS3dPb3djVXZNaWp3Wi1kZmZCSXNVam1RQTBtWVlVUEFLVHVvS2lxYWlZMTY4ZFdWQ1ZLeXlxa2t3UW03NUlKWkxna2R5Rm94MFpPVkE0dVBfR0w3VGF3RGQ2NVB2UmNUbnkzMWhaQ1pUYWx6VjFfXzNCY0ZCV2RVc2gyR2h1cy02NXF5eWlhOGh6Y2ROYzhBZThlczNZaXk1Y3BjR3EwNngwY0MzRXlsTE5qN1dSVGNlZFh5bk5SN2NkNmprQVlQQ1FHek8waEJ1UU9vOUNHaG5QYkM3NFhMWDFPU1lxUFlB?oc=5",
+        "fonte": "G1",
+        "data": "2026-09-16"
       },
       {
         "titulo": "Brasil sanciona marco dos minerais críticos em meio à corrida por recursos estratégicos",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeHByaGVDQnBIMmdVVFE4dFZvLWdvejQ4RWxyWDV2TUVSY2JMeVU1b1hRcTMzblpwMVc4VExvbEdyRGQxdEtkcGVsaVVmRGxVcTl5N2pQRUFPVEVsd2dCdExRc1ZEdU15MF9uX1NXbGZYdDBWRG0zRXI3VTJ1c2owT29UMEpDWHJteUZuMXljUlZpMlZoQnY0Z2JNTVpNYjZqdHFBYy12Z1RNeUFEcDNVZWFDanN3N1IwalMwUnJ4eHUya2kzOFZwb1VzWHVpUV82N2doY21RLWxaQVk?oc=5",
-        "fonte": "Agência eixos",
+        "fonte": "eixos.com.br",
         "data": "2026-09-16"
       }
     ],
@@ -263,7 +263,7 @@ window.NEWS = {
       {
         "titulo": "Aumento da demanda por alimentos impulsiona indústria de embalagens em 2026",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnBIQXcwVGtCejdXSFdUN2ZicGdrblB0NVJwLXVILXBUWkxLVVB0c1V3ZkROTXdKczFJQVZfZVVEc3dFRVBXMmQzMklzVHpVR0FoR19JZlNpWGdhU1E5MkhWWmE1cnB4OHRHVXF2ZzY2YkJSeWo4TlE1Q2hFZm9uMkVIRWU1NEdwWkFDSEp2TFRINXRYa3ZKQTROcmNXYmRa?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-16"
       },
       {
@@ -282,21 +282,21 @@ window.NEWS = {
     "quimica": [],
     "saneamento": [
       {
-        "titulo": "Saneamento busca fôlego para cumprir meta de 2033",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazZseXZYSTNTdC1qTVBkTlBIMXc0cmJocndOYmNwa1FpRGsyX3dCSzJHUGQ1TmFZX25fbzhvM0pUN183RU1sdEhhZkEyNHdBNExxUWJLaFB2NkFIZ1k3TFZDTC1VRlVuUkJVa1o2LTh3QkpDM3ZJVGdOcjd3NU5ueE5QUkRWYU92Nm5JUW9rdDFSSFJyWDZ2ZWxTWQ?oc=5",
-        "fonte": "Capital Aberto",
-        "data": "2026-09-14"
-      },
-      {
         "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
-        "fonte": "CNN Brasil",
+        "fonte": "cnnbrasil.com.br",
         "data": "2026-09-14"
       },
       {
         "titulo": "Vita Sertão entra na reta final para assumir saneamento de 24 municípios",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1ZOQlFiQUItM21SNTZZbzlYZHEtQjN5T01EWjQ4VC1RcF92cWMxd0M0dTQxRmZEVmswdEZxMTBiMXJ3c3h1T1RRLVdFWkdxcnFtc2ZGSDZrU1pxYWkxNnhNQXpEVkRiN2VHZ0JfcUhUbi1oXzhrb2poZkg0MGx0cnAwTVRJTEFTTzJHZHhLVXJZa0lJdmVka0tWSEtqNTdjcG1CMmRSdzlDMUdQ0gGsAUFVX3lxTE9TVk5CUWJBQi0zbVI1NllvOVhkcS1CM3lPTURaNDhULVFwX3ZxYzF3QzR1NDFGZkRWazB0RnExMGIxcndzeHVPVFEtV0VaR3FycW1zZkZINmtTWnFhaTE2eE1BekRWRGI3ZUdnQl9xSFRuLWhfOGtvamhmSDQwbHRycDBNVElMQVNPMkdkeEtVcllrSUl2ZWRrS1ZIS2o1N2NwbUIyZFJ3OUMxR1A?oc=5",
         "fonte": "Folha PE",
+        "data": "2026-09-17"
+      },
+      {
+        "titulo": "Azevedo & Travassos vende controle da Verde Alagoas Ambiental por R$ 21 milhões",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkdwejFxY3NWSEdmU0lyZVdycWpUUzNKWFZRU1U2NjhqaWFQc0hUb2Fnb1hYcVNLR0hCTl9EVG9qUEFtcDBEakNzT1NwY0xOTUNGbDdKRzdtUU5lMm5pOE9BV2JpWlBGYW1ZQmNJY25JeEtsTE9GOGQ5c1J6aWs1SW1KeXFMM2ZRVkc3TENpQVI4S1laU0pJUVFYY2dTUWdnQXVtZ2hGMTl4dktEVHNLcnBjMENyaFnSAbcBQVVfeXFMUG5HcHoxcWNzVkhHZlNJcmVXcnFqVFMzSlhWUVNVNjY4amlhUHNIVG9hZ29YWHFTS0dIQk5fRFRvalBBbXAwRGpDc09TcGNMTk1DRmw3Skc3bVFOZTJuaThPQVdiaVpQRmFtWUJjSWNuSXhLbExPRjhkOXNSemlrNUltSnlxTDNmUVZHN0xDaUFSOEtZWlNKSVFRWGNnU1FnZ0F1bWdoRjE5eHZLRFRzS3JwYzBDcmhZ?oc=5",
+        "fonte": "InvestNews",
         "data": "2026-09-17"
       }
     ],
