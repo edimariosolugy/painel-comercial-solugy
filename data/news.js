@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-19T22:13:47+00:00",
+  "atualizadoEm": "2026-09-20T00:48:09+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -12,7 +12,7 @@ window.NEWS = {
       {
         "titulo": "Tornar agro mais sustentável pode exigir até R$ 2,6 tri em investimentos",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSU5OMU5qTHVlYWp5cVg0T3lRNE5EaTkyWnFtNTJ5Q3BWRDBPbFlOdVZpMFVtTk5vN1J4bVBnaUdKSGpqNE5MX0dlRHRHRXhGS2hIZXNjaXdHcmdCR1Z1ZnZoeWx6MUFJRGhERmFBaXBRTDEyYW5va3l1d1ZhZTlPQVVsZ09UT1BMcFlIWndaNTdiSzVQUmIyejRidWphQnN3R3pyTDJWOFM?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-13"
       },
       {
@@ -46,7 +46,7 @@ window.NEWS = {
       {
         "titulo": "Setor automotivo insta Trump a impedir entrada de montadoras chinesas nos EUA",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaktjS0VPOTJ5Q0NTcERHQnhwODV6V2NvZkJMbnRNVlBTWmdyNkdlTEsxQWNmX24zTmZTWng3a2QxT2tCYXBiTXctLTRjR0RaWnJYMS1vN1l4UnZmd3F2amdiamZrYzkyekFhdjFNa1A3Q21RMTV5MHhURTV2UkxlbWRxR19VblQ5WWFYZlFwN1JVS2FfeG1Gc2s3OFpUTVRrTDlQRVMxTDA1RU53MjhyM2xCV1dFZThhZl9tTGlB0gHSAUFVX3lxTE1RSE9ETm1OZEJOSnpmYlhaQjVNLW0wMFU2SmlEVFBYM3ZCZ05JRXo3ZjI5YndGWUcxLTdRSm9qVE5xdHJ1OTVZYWhSWVZZdjh1c3I3ak5PWkJSRGRkaEo0b3g0TmlTWlBWa2h6T2FrS2JsNzVrYzVBa2pPbUpOVUsxSjhxRUVHODJHZDRnTXJpTVBmQU83RlMzODdqaEZ4S1BpajA5X3lzYlh2bVFYVU1iX0VvSTY4Znl2QlVKX1haTzFXNVdvVGJzQVFQczY0anZDZw?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
+        "fonte": "bloomberglinea.com.br",
         "data": "2026-09-19"
       },
       {
@@ -94,7 +94,7 @@ window.NEWS = {
       {
         "titulo": "Grupo InBetta anuncia investimentos de mais de R$ 1 bilhão até 2028",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDFrTXZGM0k4eEFBMDhhRFJ6YVUwRkdCMEFiVnVIUW5fbDFZQzhGWU9NS3hUT0F0amZxWi1kSDJZRlRtQ0FKXzE4TVFYa3ZMNkJrSS1JWTgtekE1OGN0RHV6dkJmaGpUSmloTWFBTktNaFN6Z0ZnWGUxd2tZSk41S1NrdEMzMTVUaFhxRHZwUlZLZU9SNDRwTElibkU5VW0zZTJrZlpzY2nSAa4BQVVfeXFMT3o3Q1pzTzR5MkRhOEZUaURLc3dRU0R4QlZsNUc3WmRGN0xRaGI2OFNGOUxpN0V0SEVBVldPMzNSdFhYeWgtWXJUel9FWTlITDg1UnRoMWh3SGx6cUZFR093VUdrSUlWWl9JX3pwT1BuQXBrZWpueUkzYlRSYUlsMjNiSzFuQTlpZFZiV1dHcTdZV1h1a2R3RU1PYkVYc0s3ZlBkU1pwLW5JemJTcE1R?oc=5",
-        "fonte": "infomoney.com.br",
+        "fonte": "InfoMoney",
         "data": "2026-09-17"
       },
       {
@@ -120,7 +120,7 @@ window.NEWS = {
       {
         "titulo": "Isa Energia foca em disciplina financeira este ano para disputar leilão de transmissão de 2027",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVFpwRGwzMFo1WGhPc25JbXA0d2JpQXM4eTVHSW55aEpINkR0enlXaWVnUzFCbVZZRW1wWmFSaEEtekNQNkp5ZzduMDdMamEwRWJPY0tSVndmZUJYZGN4X3ZueUpQTjJvOEVoYmpCYldHOEE3a25BODJpMzNld2taV2lic0lwaWVxVTVTaGRvT1ZGd1RUTEgybE5MQy1nVGxYeG9NT1lYMkp6QUg1U3NodnUyaU00SHc1cm1pa25wODhKa2JFVzFz?oc=5",
-        "fonte": "investalk.bb.com.br",
+        "fonte": "InvesTalk",
         "data": "2026-09-15"
       },
       {
@@ -213,9 +213,9 @@ window.NEWS = {
         "data": "2026-09-17"
       },
       {
-        "titulo": "Da mina ao porto: a logística que pode destravar a mineração brasileira",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TZDlZdWZRb3hJVWN2OC1sWlpaM3VLdnpVU1FES01WX1BuQWZVT0IxS2VyT3dOX1RuR3VVMm9UOHhNWndlT3RiN2dqczlsa3UwV2NueWNROEJFWXJ2?oc=5",
-        "fonte": "Exame",
+        "titulo": "Porto Sudeste coloca MRS no radar de uma possível expansão da BlackRock",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU3JsVmFMeWd6S05rdmdZR2I5RTBwcHZKZEYtQ3VKckJaVGJRZU9iRVdXbVpZMVdzNzhVcy1jcm9Yc2p5Q09nZjRZeEgxNUZZUE9rNWU0TnozNi1UWEhDNE9vdkZ4ODBKOUxLanVTYVNSVGVBVkl6dUhLWi1JeWlhdE5MWjE4OFlwMlh4ekdNSnV1UkhGb0tXTWNYeC1fbVNXOXZ5NkNYdE53M2FEZTZ3Ng?oc=5",
+        "fonte": "Jornal Portuário",
         "data": "2026-09-14"
       }
     ],
@@ -255,7 +255,7 @@ window.NEWS = {
       {
         "titulo": "Brasil sanciona marco dos minerais críticos em meio à corrida por recursos estratégicos",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeHByaGVDQnBIMmdVVFE4dFZvLWdvejQ4RWxyWDV2TUVSY2JMeVU1b1hRcTMzblpwMVc4VExvbEdyRGQxdEtkcGVsaVVmRGxVcTl5N2pQRUFPVEVsd2dCdExRc1ZEdU15MF9uX1NXbGZYdDBWRG0zRXI3VTJ1c2owT29UMEpDWHJteUZuMXljUlZpMlZoQnY0Z2JNTVpNYjZqdHFBYy12Z1RNeUFEcDNVZWFDanN3N1IwalMwUnJ4eHUya2kzOFZwb1VzWHVpUV82N2doY21RLWxaQVk?oc=5",
-        "fonte": "eixos.com.br",
+        "fonte": "Agência eixos",
         "data": "2026-09-16"
       }
     ],
@@ -263,7 +263,7 @@ window.NEWS = {
       {
         "titulo": "Aumento da demanda por alimentos impulsiona indústria de embalagens em 2026",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnBIQXcwVGtCejdXSFdUN2ZicGdrblB0NVJwLXVILXBUWkxLVVB0c1V3ZkROTXdKczFJQVZfZVVEc3dFRVBXMmQzMklzVHpVR0FoR19JZlNpWGdhU1E5MkhWWmE1cnB4OHRHVXF2ZzY2YkJSeWo4TlE1Q2hFZm9uMkVIRWU1NEdwWkFDSEp2TFRINXRYa3ZKQTROcmNXYmRa?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-16"
       },
       {
@@ -282,21 +282,21 @@ window.NEWS = {
     "quimica": [],
     "saneamento": [
       {
+        "titulo": "Saneamento busca fôlego para cumprir meta de 2033",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazZseXZYSTNTdC1qTVBkTlBIMXc0cmJocndOYmNwa1FpRGsyX3dCSzJHUGQ1TmFZX25fbzhvM0pUN183RU1sdEhhZkEyNHdBNExxUWJLaFB2NkFIZ1k3TFZDTC1VRlVuUkJVa1o2LTh3QkpDM3ZJVGdOcjd3NU5ueE5QUkRWYU92Nm5JUW9rdDFSSFJyWDZ2ZWxTWQ?oc=5",
+        "fonte": "Capital Aberto",
+        "data": "2026-09-14"
+      },
+      {
         "titulo": "Saneamento demanda R$ 1,2 trilhão para universalização, estima Itaú BBA",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3RKTFVmMElPdjREWkEtT2RvSU96UTVmOXNGc3Bhc3FqZHk0YVBHdDVlZVZsRmw2cHZINFdyeEdxdVFhZ1lzdkFnQkxpY2tFQzNULW1zSFBtMzBuelU5RUJVbTJTR2xmTEc1NmlEVmV4b3hMOHJvWVdCZG1xNTF4TEozMkRKM2JfY2I2Mk5uSDUzZkRPb0hZcEJNR2ZRTWNhekd0eQ?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-14"
       },
       {
         "titulo": "Vita Sertão entra na reta final para assumir saneamento de 24 municípios",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPU1ZOQlFiQUItM21SNTZZbzlYZHEtQjN5T01EWjQ4VC1RcF92cWMxd0M0dTQxRmZEVmswdEZxMTBiMXJ3c3h1T1RRLVdFWkdxcnFtc2ZGSDZrU1pxYWkxNnhNQXpEVkRiN2VHZ0JfcUhUbi1oXzhrb2poZkg0MGx0cnAwTVRJTEFTTzJHZHhLVXJZa0lJdmVka0tWSEtqNTdjcG1CMmRSdzlDMUdQ0gGsAUFVX3lxTE9TVk5CUWJBQi0zbVI1NllvOVhkcS1CM3lPTURaNDhULVFwX3ZxYzF3QzR1NDFGZkRWazB0RnExMGIxcndzeHVPVFEtV0VaR3FycW1zZkZINmtTWnFhaTE2eE1BekRWRGI3ZUdnQl9xSFRuLWhfOGtvamhmSDQwbHRycDBNVElMQVNPMkdkeEtVcllrSUl2ZWRrS1ZIS2o1N2NwbUIyZFJ3OUMxR1A?oc=5",
         "fonte": "Folha PE",
-        "data": "2026-09-17"
-      },
-      {
-        "titulo": "Azevedo & Travassos vende controle da Verde Alagoas Ambiental por R$ 21 milhões",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQbkdwejFxY3NWSEdmU0lyZVdycWpUUzNKWFZRU1U2NjhqaWFQc0hUb2Fnb1hYcVNLR0hCTl9EVG9qUEFtcDBEakNzT1NwY0xOTUNGbDdKRzdtUU5lMm5pOE9BV2JpWlBGYW1ZQmNJY25JeEtsTE9GOGQ5c1J6aWs1SW1KeXFMM2ZRVkc3TENpQVI4S1laU0pJUVFYY2dTUWdnQXVtZ2hGMTl4dktEVHNLcnBjMENyaFnSAbcBQVVfeXFMUG5HcHoxcWNzVkhHZlNJcmVXcnFqVFMzSlhWUVNVNjY4amlhUHNIVG9hZ29YWHFTS0dIQk5fRFRvalBBbXAwRGpDc09TcGNMTk1DRmw3Skc3bVFOZTJuaThPQVdiaVpQRmFtWUJjSWNuSXhLbExPRjhkOXNSemlrNUltSnlxTDNmUVZHN0xDaUFSOEtZWlNKSVFRWGNnU1FnZ0F1bWdoRjE5eHZLRFRzS3JwYzBDcmhZ?oc=5",
-        "fonte": "InvestNews",
         "data": "2026-09-17"
       }
     ],
