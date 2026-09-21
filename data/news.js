@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-21T20:18:54+00:00",
+  "atualizadoEm": "2026-09-21T23:55:26+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
-        "titulo": "JBS (JBSS32) mira mercado de US$ 101 bilhões com nova frente de alimentos e bebidas proteicos",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOX3BaaHhpeHRZck5hMXpPcC1lN21pT0RHVjZlR2xGbVhqQTJWaGhid1VFeVZFR25XZWxBVFZRU3ZtSlhHM2k5NTdfSUU5MXhabXBlcDRNOVJ5RUZWSFA3d1psdzNsV3RpYlhvc3BFd3J2RGUxbUpXSEF2OFBvN0tHc01SYlVPZzNKUUUwRDlhajFOT0s1T3UzZVZKOG03VTBDVS13aUQ3c21pbnVYQ0FKTzA1RVctTWxKTzV1ZzhuWEpFZE9n?oc=5",
-        "fonte": "Money Times",
-        "data": "2026-09-21"
+        "titulo": "'A fibra é a nova proteína': canetas emagrecedoras mudam a indústria de alimentos",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNejAxVDEyY1BYaWlfS0lRQUdJaEpsS3lpTkVTR1VWbDdYYTBCUDhqcTRHT25GdTU1WjRtTFpDY0M0UHNsR1c1ZXNLcV8xVHdRUG5uTFNFRFRIZDQ5a1lCLVlFS0ZGMndnZFQ4U3l5OE5Rc21sNlM5NUh6bXhWeVVjRXZGalhQcWFaaTdvc1NQcjkwRXFWOUJRVzJja2ljanBxWXVhaTNFWGlVZF9sSUhCZ0ZiTQ?oc=5",
+        "fonte": "Exame",
+        "data": "2026-09-19"
       }
     ],
     "automotivo": [
@@ -100,7 +100,7 @@ window.NEWS = {
       {
         "titulo": "Unifrango amplia centro de Distribuição no PR e mira faturar R$ 100 mi até 2028",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTHlvekRrVXpRTV9pWTVUWURUak9VT2ZLSUNmMnhqZXZRZHlWb040ZHRwUndIVzZVNUI3aXNlYUlpWHhPSW5MLTB4RzB1OHN3REpjeHZWLVEyVmlqODZoRG9IbTQzeVBZWU5jZ3dnX0dXeml6V0prSXIyNVdNbVdWWGFSMk41SS1acF9IOWliRVpDN0Z1enM0LWZKd2p1WnBVZGprZU5rOUdLNFB3MkxWTmZJME1KQldZVTNjei1SV2xjc3RBcS1aY1FlNWNfUVhHb0FybUlpc3FUV2R6dURfMHhxUHE0RTJY?oc=5",
-        "fonte": "UOL Notícias",
+        "fonte": "noticias.uol.com.br",
         "data": "2026-09-17"
       },
       {
@@ -120,13 +120,13 @@ window.NEWS = {
       {
         "titulo": "Isa Energia foca em disciplina financeira este ano para disputar leilão de transmissão de 2027",
         "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVFpwRGwzMFo1WGhPc25JbXA0d2JpQXM4eTVHSW55aEpINkR0enlXaWVnUzFCbVZZRW1wWmFSaEEtekNQNkp5ZzduMDdMamEwRWJPY0tSVndmZUJYZGN4X3ZueUpQTjJvOEVoYmpCYldHOEE3a25BODJpMzNld2taV2lic0lwaWVxVTVTaGRvT1ZGd1RUTEgybE5MQy1nVGxYeG9NT1lYMkp6QUg1U3NodnUyaU00SHc1cm1pa25wODhKa2JFVzFz?oc=5",
-        "fonte": "InvesTalk",
+        "fonte": "investalk.bb.com.br",
         "data": "2026-09-15"
       },
       {
         "titulo": "CEO da Engie alerta para risco de “aventureiros” no leilão de baterias",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUTlWTVhMS1RWLUQwU1R1ZDRjSER3N0NjTnAwWWZvR1BndGVZdmZSNTFSUDdfaXlLRUMzMC13UlUwZ1FWYlJzcWROdWxCbGF1a1JYUE5zc2lMUzd1STdnNEZacUxwTndzMHo3b1dXTDUzVGVva0FUckdjWkQybHpmZm9RM1Zyd2x3T05TYlN1YVdCRTBsWktYOF90djNKN2Zaamw5eXFVMA?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-15"
       }
     ],
@@ -146,7 +146,7 @@ window.NEWS = {
       {
         "titulo": "Cortes de geração renovável crescem 18% e revelam “vulnerabilidade escondida” do sistema elétrico",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjg2bE9MYUMwVURqVjQ2d3N1cnpuNWRDVUNoa0NWNTVHZFFfajlqVUVIczRCQVBkSmxjMFJKcHlid3lWeGtOR0xPQ0tCdURMeDlha3kxLUJZMHpkc0k4WHZTTXpWYXBObDdoR2dqZmlmMnptSTF4d0JVTVRjOXBqdWNOWkp3ak5QeXR5ZVJFaVN3VmdLTnlwUEtmRTQ0OWpRcXlMUDZmMjRJTFdKR2Vkam1Hd3U0QzZuUklWdUdJZlQ5NUU3OFE?oc=5",
-        "fonte": "neofeed.com.br",
+        "fonte": "NeoFeed",
         "data": "2026-09-17"
       }
     ],
@@ -166,16 +166,16 @@ window.NEWS = {
         "data": "2026-09-17"
       },
       {
+        "titulo": "Empresas de saúde na Bolsa: conheça quais ações comprar no setor",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVBZMks0ZEt5WkZpcDY0eTd6ZW9LQ0Q4N3ZZZWU2bGtmWU56djFqMlo1UFk1T3Z4T2NDdkd3LXdMVnVpNWpIZ2w3a0FoSnIzdlBTNnRSdVJzWlZQaWZ4MURYRWptWDN2S2xzRXYyeTJxaEJWS3hWYm9UVWdqTlh6TlByWQ?oc=5",
+        "fonte": "Toro Blog",
+        "data": "2026-09-15"
+      },
+      {
         "titulo": "Lorice Scalise, presidente da Roche Farma: “Se a inovação não chega ao paciente, ela é apenas uma ideia”",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PZlpZSE5Dc0ZJX1FpZFp0YUpqZmdOWkVuNlpYZGRMUDF5RUZIYXFUeWlpM3k5bm5pVUJiV2pGaERqOHF1RUYwM0tEbi1PWTNwMFI2bVl6MEhhSjgxRDBXbzYydUZ3TEp1a2ZOd1RSTlZnZ2ZVZmZFU09n?oc=5",
         "fonte": "Futuro da Saúde",
         "data": "2026-09-15"
-      },
-      {
-        "titulo": "AG Santé Pharma prevê investimento de mais de R$ 100 milhões em SC",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVpSSzRGUUY2MEYwZDlyRG9sY2RtU01TYUVpenR2elpzZWFMeFZIY3oyV1hMRnNZRFM1MWxUdU1lS2JkT0QwcTVEd1JCUW85WEVVV2RFVTZKV1Bxb0paZkswblg4b21WZmdEWUtuUWhVUkgyd3hjb2pfX01rTC02U0JvbVV1eUZGeUtscF9LYTZ6VzlKU2RLbk9HYnNQQUlGeEt5bw?oc=5",
-        "fonte": "Panorama Farmacêutico",
-        "data": "2026-09-16"
       }
     ],
     "fertilizantes": [],
@@ -203,7 +203,7 @@ window.NEWS = {
       {
         "titulo": "Plano Nacional de Logística aponta papel das hidrovias no desenvolvimento regional",
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnp5Vlh1OEZTT0RUdnBpa0dVdEFMQUFuZ3JMX08tdWE1aER3cUJ0Z3FCOHdfOUdaRnd1RXczd1RvUFpneEtrV1FQOUY3WlY0LUZQOUROR0QxcUR5VlJKVk5KVDJqZDA2TVFITXVjRF80d2dORkdnZF9FdThKX3A1NG4wbkQtbGhYMFZVbnRlSTMzSnNyNjlOQk12X2pjdExOYzZ1cjY0dG5FQWxzbzRKUWRTcjR6bjdZcEN1Z215SllSVW9laE1mSzVkeFJVQm5xYkVHZGhITExFQ1EzTjFtVGZiU3dpVWJD?oc=5",
-        "fonte": "gov.br",
+        "fonte": "www.gov.br",
         "data": "2026-09-15"
       },
       {
@@ -213,17 +213,17 @@ window.NEWS = {
         "data": "2026-09-18"
       },
       {
-        "titulo": "Da mina ao porto: a logística que pode destravar a mineração brasileira",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1TZDlZdWZRb3hJVWN2OC1sWlpaM3VLdnpVU1FES01WX1BuQWZVT0IxS2VyT3dOX1RuR3VVMm9UOHhNWndlT3RiN2dqczlsa3UwV2NueWNROEJFWXJ2?oc=5",
-        "fonte": "Exame",
-        "data": "2026-09-14"
+        "titulo": "Transnordestina chega a Quixadá e abre nova frente de investimentos no interior",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelN3dUswc29GOENEdHhmZmhwSDlsZVJkU21Kb3lrVi1KbTJ6R2g0X051bV9mN3owVHduMkFhNURwWXVuRDE5SDM0S3BFcFN3OWpkdDZCZzRBMVlVcC05amk0UnRZaGNmLUtXZmRrVlJZRjFZZ1ZNV1F6QW83N0dqbTdWZG1Qd19lM3ZBTEV3bEhBR09xU21WWnpXZEJoVEhRdFlIUVl2cXhBV3l3OUtMUA?oc=5",
+        "fonte": "Paraíba Business",
+        "data": "2026-09-21"
       }
     ],
     "maquinas": [
       {
         "titulo": "O papel do fomento à inovação para atrair investimentos em infraestrutura",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVlBdjJpNU1SUUhuZVl0RDlVZVh0OUdmMm9lWVcyU0lnNFJBN1paYVh6M0trcktDV2c5WHNaTkpoUm8zcFZob0V6OE1Hb2ljOEpBNWlib3ROeXB2MGcwOTZaU1JuNkVuQURNYnJzS2k0bTBPNXpjX012NzlQSUhsNWRuOHlxUHNjMUNtY3Q1LWVMdWswY0s2ZmFTcEc4V29kZ3BoSklHZC1PMVdtVUE?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-21"
       },
       {
@@ -249,7 +249,7 @@ window.NEWS = {
       {
         "titulo": "Lula sanciona política para exploração de minerais críticos e estratégicos em território nacional",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmk5dG5HbkZXOFJyVWtlLUhsOTlvXzlPQ1NyZk5TTURLdzE5MTFLWEF0WU1FTkhDUWd4cV94Yzg2WVhHQ1Q0OWpVUnh2enFRYXVTREZERlF2MEktV0VRbk5GSjEyV3pFeVJfZTNOQV9wV1RxOXRPa3F6Vnh4N2xWdjliek95SGhsd0ZadmdaRElINlZZaDJrM1hYN1ZHckpBMVM1NUVtM3JxWWtGUVRYMGxlN0hRQXVfbTUyZmk5d3dUQXYxYXdCQkFTVkdCVFI5b2tVVXpEcXliSHNRS3RGaGIweE5VUDTSAfYBQVVfeXFMT2NuMThxYzNmVklEVk5wS3dPb3djVXZNaWp3Wi1kZmZCSXNVam1RQTBtWVlVUEFLVHVvS2lxYWlZMTY4ZFdWQ1ZLeXlxa2t3UW03NUlKWkxna2R5Rm94MFpPVkE0dVBfR0w3VGF3RGQ2NVB2UmNUbnkzMWhaQ1pUYWx6VjFfXzNCY0ZCV2RVc2gyR2h1cy02NXF5eWlhOGh6Y2ROYzhBZThlczNZaXk1Y3BjR3EwNngwY0MzRXlsTE5qN1dSVGNlZFh5bk5SN2NkNmprQVlQQ1FHek8waEJ1UU9vOUNHaG5QYkM3NFhMWDFPU1lxUFlB?oc=5",
-        "fonte": "G1",
+        "fonte": "g1.globo.com",
         "data": "2026-09-16"
       },
       {
@@ -263,7 +263,7 @@ window.NEWS = {
       {
         "titulo": "Aumento da demanda por alimentos impulsiona indústria de embalagens em 2026",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnBIQXcwVGtCejdXSFdUN2ZicGdrblB0NVJwLXVILXBUWkxLVVB0c1V3ZkROTXdKczFJQVZfZVVEc3dFRVBXMmQzMklzVHpVR0FoR19JZlNpWGdhU1E5MkhWWmE1cnB4OHRHVXF2ZzY2YkJSeWo4TlE1Q2hFZm9uMkVIRWU1NEdwWkFDSEp2TFRINXRYa3ZKQTROcmNXYmRa?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-16"
       },
       {
@@ -283,7 +283,7 @@ window.NEWS = {
       {
         "titulo": "Mercado de Filtros de Separação de Gases por Membrana: previsão até 2035 com recuperação de hidrogênio e upgrading de biogás",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWdGTnpLNHg1eGNaSXpQcFg0NTRqRHNKTnJXeE5TZ1NKaGNTVUdBRm9BRENPcEtCX3gteExoS3FMOEZiSV85bGZ4WWtmZGh2eFpnM2UyRU1kaEZLeTlGb3NacmRkdlNtWlM0LWs5TWFtUFAxb05NSFppTXpFM0tsUzU4dXF5RS1YQVozSUdJSDVxWkxNc05yb25ob3FGT0U5UWx1OWJpczR3aHBmVkdqUEJWWVhsUHlWb0pESGVadHVTQ2pPNUh4VU9nSXY2bjJ6SnFBZUhVRG1FSTA?oc=5",
-        "fonte": "indexbox.io",
+        "fonte": "IndexBox",
         "data": "2026-09-21"
       }
     ],
@@ -297,13 +297,13 @@ window.NEWS = {
       {
         "titulo": "Marco do saneamento faz 6 anos com avanços, mas universalização ainda longe",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVlTX0JzaERhUHkzWEVjMlZvQ3d4REFpTmtSaVBzVjFWZkhfX1J2R2I1c3FQZmwxLWVVUU5uSHQzX3Z4OVVfc3ZpTWxwX3FWRktybjRtcHM0S2pUWTNrRTVSU2x4Mzk5R1JNMlVzNTdqVEdrQTVKQWtDdkRCVGlEMTNzYldtaTByMUs3dExxUTFkaC1jckFCOFN4X19CS2thX2xwUTBEWVNlcFBkd0ZJ?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-16"
       },
       {
         "titulo": "Anac marca para 17 de dezembro o leilão do Aeroporto de Brasília com mais dez terminais regionais",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYURfMXVOUWNQVGJyUzNDZldzR2FCUlVkaWs1bkxnNngyWFNGcHVMV3VGWk4zOFUtRVBGb05Xa2swV3h4QUthbWl4R1hZeUQ5UHhVTXUzTGlhUllRU0NEajM3NWRmRUpTS2VWdFlUZXoxM1RBYmVFLTBXelk3Q0ZmREFXcnp2RUNaYkl4TE50QmxzYi1zQWhxRjFuaVNrc1NMN3IyMHNYMHc5S2dEUFp5b0p6Vy1XUUMxUHA0QWFxYmxRSkw4TlNPTg?oc=5",
-        "fonte": "paraibabusiness.com.br",
+        "fonte": "Paraíba Business",
         "data": "2026-09-21"
       }
     ],
@@ -314,6 +314,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXNaWGlTdXAyODVZOGprXzhhZnhCd0lmMzhGSWs4bTlfY0RYVzZmc2RUMHVaUVpMYnV4RDJYanAwbTNpMUVvN2o0RURGZE1GTFctNTNCczlsTGFqUEZHalpodWI4cmhESUtDU2RGeEJaLXpKZGhtYUpySWRJWXU1ZDR2aTc0NUNOWlROMmtnRy1yWlJoZlN1UWpBLW1VTmtFa1JIaGdiN01GZ9IBqgFBVV95cUxOSXNaWGlTdXAyODVZOGprXzhhZnhCd0lmMzhGSWs4bTlfY0RYVzZmc2RUMHVaUVpMYnV4RDJYanAwbTNpMUVvN2o0RURGZE1GTFctNTNCczlsTGFqUEZHalpodWI4cmhESUtDU2RGeEJaLXpKZGhtYUpySWRJWXU1ZDR2aTc0NUNOWlROMmtnRy1yWlJoZlN1UWpBLW1VTmtFa1JIaGdiN01GZw?oc=5",
         "fonte": "Bem Paraná",
         "data": "2026-09-21"
+      },
+      {
+        "titulo": "Empresas de saúde na Bolsa: conheça quais ações comprar no setor",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMVBZMks0ZEt5WkZpcDY0eTd6ZW9LQ0Q4N3ZZZWU2bGtmWU56djFqMlo1UFk1T3Z4T2NDdkd3LXdMVnVpNWpIZ2w3a0FoSnIzdlBTNnRSdVJzWlZQaWZ4MURYRWptWDN2S2xzRXYyeTJxaEJWS3hWYm9UVWdqTlh6TlByWQ?oc=5",
+        "fonte": "Toro Blog",
+        "data": "2026-09-15"
       },
       {
         "titulo": "Neodent anuncia nova fábrica em Curitiba com 2 mil empregos",
