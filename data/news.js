@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-22T13:57:38+00:00",
+  "atualizadoEm": "2026-09-22T18:01:49+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
-        "titulo": "AGRI11: invista no agronegócio pela Bolsa",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSExrVDlBdEJBZDhJNldUX3JCcjJoM0tlZzhodURtNEU0N3ZNMGNuUzRIRUFXcG1JLWhUV2RCb2h5RGdTRmpQNlhVZkZ6QmdoWm9xTUU3a0FsYjNEYlp3OE55bGZRUHRDSEktYWRaYU9JeUlCdkNTOThPTU1CS0ZzX1dWb1RPcGVWZmdNekRvSjJLRTA?oc=5",
-        "fonte": "interinvest.inter.co",
-        "data": "2026-09-18"
+        "titulo": "Tomazoni: O maior gargalo do agro é o crédito",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWlBQWs5dE1TcVRnVEVBaXRQREVkRjFSeldzekQzanNDTDN0dTF3Y1Nia0pTbFllTkRNRDJ6aTZuV2FXWk85SU5HUExLeC1Rcm1FQ0psWDQwczdIdzZDdGc3YWlSV2t1NFg4U1R2b2g4R1RzNlpGSjhpZVdvem9PamhR?oc=5",
+        "fonte": "Brazil Journal",
+        "data": "2026-09-22"
       },
       {
-        "titulo": "O Agronegócio e o Liberalismo Econômico: Instituições, Competitividade e Desenvolvimento",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQZmRaMnAtZERZNFBSTlJOVnh2UkNoXzUzZG1Vek5CWVFPbkFIS3BZQnhOUHc2dlljcDBqYlRYRGVQTjFYb3gzQzJEazlYempnZUtONHFTVmpvOWdVR2JaRGhfX2ppZTQ4cnc5TWNSTFZYMkREbXhRQldZcGo0bjFTbXllb01haGJMeFhwYmFmX0Viczh6WDhaR2h2eF9ndktDdnFQaXBZMDgwVU9HMXp5YW5OR2tZdmZUeUpGMFQxSGtuNk1UdDRYQUVCUE1VM0wtREE?oc=5",
-        "fonte": "Exame",
-        "data": "2026-09-19"
+        "titulo": "AGRI11: invista no agronegócio pela Bolsa",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSExrVDlBdEJBZDhJNldUX3JCcjJoM0tlZzhodURtNEU0N3ZNMGNuUzRIRUFXcG1JLWhUV2RCb2h5RGdTRmpQNlhVZkZ6QmdoWm9xTUU3a0FsYjNEYlp3OE55bGZRUHRDSEktYWRaYU9JeUlCdkNTOThPTU1CS0ZzX1dWb1RPcGVWZmdNekRvSjJLRTA?oc=5",
+        "fonte": "Banco Inter",
+        "data": "2026-09-18"
       }
     ],
     "alimentos-bebidas": [
@@ -50,16 +50,16 @@ window.NEWS = {
         "data": "2026-09-19"
       },
       {
+        "titulo": "Montadoras chinesas ampliam presença no mercado automotivo brasileiro em 2026",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEVFN1NGRm81U0k3RWU0OUhOcGZGSHBIUUljQmdGbENsc2FSaXI1dXNzdFlBaVEySGY4TGxNa3dVOGhDS2hHajVGY240QWtwVFp2UmszOE5nbDg4VFd1NUVhcGZSeGhVX1g1Qkx6Q3lLd1VkVkVVZllYR0h3dEd4ZUpuT2I0REtlTkR4TTJ0N2sycFd5cDdsLXRKeFVNeEozakQySnln?oc=5",
+        "fonte": "Diário do Comércio",
+        "data": "2026-09-21"
+      },
+      {
         "titulo": "Renault investe R$ 2 bilhões no Brasil até 2027",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CclhiT0hQTzlFQTFiTG1ZckJyajItZndiMTZFV2pIOXMxUEVjZHp5enVERTFNYUUycnBFX3Y3NDhPa0Q0RHBTMjJscUdOTEltYVZ6cDJzOXlnTE5TaDNDSDlBdlBHRl9qb3FTX3hQZXBKQzNNNlE?oc=5",
         "fonte": "Acia Araçatuba",
         "data": "2026-09-16"
-      },
-      {
-        "titulo": "Presidente Lula libera R$ 30 bi em financiamentos para frota urbana",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmdXYjFJNHdEY0xtWEFzMWg0OVJOMWZMN1BxMElzNnM1aTl4SVVDOXVHay1RRW1DZzB5aV9UYktYUUZUZDJmV3BKWmdlN0k0eGZoWWxMYmxlcGRBU3BLbkxNZkpONUhCMW5GM1JCMzRXRHRRR1hOeGFpTk5TTDNhS2lpTWpkZXFiOG4zMnlMMTVWZw?oc=5",
-        "fonte": "smabc.org.br",
-        "data": "2026-09-17"
       }
     ],
     "bioenergia": [
@@ -76,10 +76,10 @@ window.NEWS = {
         "data": "2026-09-22"
       },
       {
-        "titulo": "Renault e Geely investem R$ 2 bilhões em tecnologia híbrida a etanol no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONXpZZDRMUzhUWUxOY1FOMXBMWHJGNVhIZ05aRm0tc2JpWTZ5ZXkxRWEyR1NDQVZuU015cnBOTUpNQ0hSQ1BGSUdweVpyZDdCbjNHay1TVVYyd1Y3Y3BHMFdXUnU1aVpqZjF4OVBFamFQZzRZSktjdlNwdnlyN1I4ZlpyakRpdmIwMHlSUW40NEhiSHJWZ2tZY1duZXo?oc=5",
-        "fonte": "JornalCana",
-        "data": "2026-09-16"
+        "titulo": "Novonesis vai adquirir 100% da australiana MicroBioGen, focada em leveduras para etanol",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObm9qN0xxRk9qRHo4MzZDOHYxWWdqd0gxX0ZOTGxtNTZMcW0yMjdhVWpEU2pTbld6Ul9ObXZnTE5OaUY4MFlKV3J3MVRYeC03TDIweTdYVVZQLWxkZXMtRFp3cXRtNnBobE5PVHQxTHlzQUFUWkgtQ0pmYkVtZWpOeUc1azhyQlRWc2lneWFVclFFMUZScl9KNDRwSk1DSEk5S2Rhc3psbEJhYWptV19MdQ?oc=5",
+        "fonte": "Visão Agro",
+        "data": "2026-09-22"
       }
     ],
     "cimento": [
@@ -104,30 +104,30 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
+        "titulo": "Ypê investe R$ 161 milhões em novo Centro de Distribuição no Rio Grande do Sul",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZ0xvZG1KMW1WZGRJakhHRHlfRDBpdFFhSUFhTDlHbVRVWDdRWEpaSVp4eXZQTE9SSVd2TEVKbzF2UFdLRzdkMjFvZFVncVNtbFBXaFYwdWpULUVBaWZKeGE5MG5JUjViZ0Z6WkM3SWxvQmIyeTFuUG1LaWJtVllOZ3RLQTZLcm96eGZ6ZlI2Tnhxd0JLVUFfcEdTMGM5dzJOdVd5VG40LUd1ZFpYTDByQlI2MUh1VFBQRVE?oc=5",
+        "fonte": "SuperVarejo",
+        "data": "2026-09-22"
+      },
+      {
         "titulo": "Gigante do varejo gera cerca de 3.000 empregos ao abrir 15 lojas para faturar R$ 3,5 bilhões a mais",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFpSRTVfQXNwZjVTcmt0aEk0WTJjcVc1SXJtSVRyNld6VW54VGlZZFJ3aXg1cDJCN0JyQ3BUWnloRDJlTEZ5SmNJSUIzVllhNXlhejliLU9ldHBfTF95YjE4MWFiTUg2b0FfcW5CeFNETnc0R291X1VsbUVsN0dZdkZLUmhZd0pTSzB5MEVJdTlZLWwzUkQ0X1dsOXlMa25kTHg1RzBIN3NSbktFS0xKV3dQeHVzSjNHXzFEMUFjUHc0dFJfVXdydjhHOWxXU3lpN3dOY1RpM3RpRWlzeEdsc2xHUTNaTGFOYi1La2YzSjhxZl9pMjUwNmF3?oc=5",
         "fonte": "jornalcruzeiro.com.br",
         "data": "2026-09-22"
-      },
-      {
-        "titulo": "Patrus Transportes nova operação no varejo",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdTJ3Ukc1dkFHYnp3cTFMNXpCUTl2YUpjR2FrcWkwVWRJTEVvVG96WG9POE5salJQdGtOZ0lIQXpQSUNPNFdDMkJqY0dwRVpLWWpfSHdNbmQ0djdlbXpvMEs1MFZNZURFMFhfVXJJZnIzdWNnaEM4c3dLVG1EOTNwa0RIaEcyX1ZhcVVuajRHa2M2aUg5X2NaLWFib2FrWXhIWlA0bGsxSGFDVE5HOGZod1ZHS1hteDN3YkVSRTBnYw?oc=5",
-        "fonte": "Terra",
-        "data": "2026-09-21"
       }
     ],
     "energia-gt": [
+      {
+        "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYzNEcDdBNUFQWlROaERoNy05SFFXYWpQWXc4NkVfODhaT3RhOHk0YW1QWktxNXJoc19wUGk4WGh1ZkpDRmdiYXdIckladjhTSG9KM3Z1X3FHNDFNWWlrd3BvbXkzQm1SN1VEZTBuQVFzZVNObkQ3MEhRZmRjUWN6eklqQ3ZyRGN3VTc5N3JoV21EdGM0UUh6dUF0Mk16WmEteUJrenpRMkNTR24xRl9jVlFkSjBLbnJnaTNmT1paOUVVM3V5cExOZHJldTM4UXpkN0NjZkYtd25Ea2tjYjBPZHlKcThab2o4cFR2OVNkaUdxb2lVeU5FZ1c5SzZlSURV?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-09-22"
+      },
       {
         "titulo": "Leilão de transmissão prevê R$ 8,88 bilhões em investimentos e já tem data marcada",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GTldoMWowZ3RneFRrbjdpa25BQXRsaDd1ME5wQkFwWGNLT0pweUlNVm5sZEFvT2xrMlZCVW02TS15ZVV2RUVWS3FTTG5Hb284MzIzVkdUY1JpRzJjVmw1YXMxeVF5OW9BZk1TbEFVR2VYVjh1OTk3cno3dUlQdw?oc=5",
         "fonte": "Canal Solar",
         "data": "2026-09-18"
-      },
-      {
-        "titulo": "Aneel aprova edital de leilão de transmissão de outubro com previsão de R$ 8,9 bi em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUjY5VFlwRjV4UDVmZ3dhak12WE9YOXVPaW1JXzdadDFWaThvZUhTbXR3dzJpYmxJbG5yQ0FuSWNBaGtzQUxUS3UyWVZ0OXJvNFl1d1RlUnJLMzdtZWgzdGx4S1RacnNkVE9OUHJibGhOWnpFcTg2NjI5c2VuczlRVUVDcHRLY2lRY0RsTXRhemUwaWlkS2s4ZmxsZXlxdkNQTXhPcWp3Ymdxa3hnemlRRDRMMXo2MkRuMHRPcEhzVDdGYnJsWHRHQk1SV3BKT2VrMlpUM0dGaW5PQzdYVWRMZTNHY9IB8gFBVV95cUxOTml4ZDJzT1dhZ25QOEplVFluQ2VNdW1WY212NE4yNnM0T1RLVDY0dUVaZGt3MTMwcF9QLW4tQkFPdjNaQ3hua3FUMTJJYVNXdU0xajFsN2psMEFIYXloTHl3M0VDcHhDZ0JJclZjWmlnODZObFBveDZIYWhPMEtWRHhMVU5tV1pSQUIweHYyWENaZ1ZqdlFUcXBHNkVVWkg2cWFqc0tqRnVPV1RPOXVqSGVnZ0RNLUd6eGYyaDQzZThsN3V2UVJBUUlfN0VOYjJ1ODhDUVJxNnY4czFUYmk5eUV3TXJlZ0xzUk5DMWpzRG9MQQ?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-09-22"
       },
       {
         "titulo": "Aneel aprova edital de novo leilão transmissão de energia, com investimento de R$ 8,9 bi",
@@ -150,17 +150,17 @@ window.NEWS = {
         "data": "2026-09-15"
       },
       {
-        "titulo": "Cortes de geração renovável crescem 18% e revelam “vulnerabilidade escondida” do sistema elétrico",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVjg2bE9MYUMwVURqVjQ2d3N1cnpuNWRDVUNoa0NWNTVHZFFfajlqVUVIczRCQVBkSmxjMFJKcHlid3lWeGtOR0xPQ0tCdURMeDlha3kxLUJZMHpkc0k4WHZTTXpWYXBObDdoR2dqZmlmMnptSTF4d0JVTVRjOXBqdWNOWkp3ak5QeXR5ZVJFaVN3VmdLTnlwUEtmRTQ0OWpRcXlMUDZmMjRJTFdKR2Vkam1Hd3U0QzZuUklWdUdJZlQ5NUU3OFE?oc=5",
-        "fonte": "neofeed.com.br",
-        "data": "2026-09-17"
+        "titulo": "Empresa norueguesa inaugura usina solar de R$ 439 mi em MG",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43b3RPUjlEQlp6dGIyWFVPYmdFWklNT19CVUxQNlBxYV9HOUNpMzdlTTVQakpRemx4dFJGNmdzSmszbUh4a3F3QkZCcDJ4Zk9neTV0QktsaGVPenM4dW1oc1hLYmltZGJ0NjQtVTZzR1hNWGVT?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-09-19"
       }
     ],
     "epc": [
       {
         "titulo": "Quais estados brasileiros concentram o maior potencial de investimentos em infraestrutura?",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3hJTFowbjNMV2ZmbW4xcnlpWGFndXhIOUVDemxiVU1pWVRNQ0l6dzdRNWZzSjE0MjdHZlNvMlBfekNYTVNBZGEwNTlmRUJmZktpdmFsQ1otdXNQb3Y3VFo1ak9yelBsSjNNNkNibXBPc1AyN2JWaV8yMXJfdzhzeURIdmRSNHFvY0UzUzFJbGZnOEhaajhOZzMzSHJFOVhQTEpKaFM3cVJDcVNIdENrbFRZOExaN056a1BxbFBxeXY4OUt1R2lkYlYtMGtMQi1SUGkw?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-09-18"
       }
     ],
@@ -189,7 +189,7 @@ window.NEWS = {
       {
         "titulo": "Em seu centenário, Amaral Gurgel segue celebrado por investir em uma indústria totalmente nacional",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd2tDczVDNi14dnB3ZUh1cmFjd2xpUTZYcjYteUkyLXY2a0VLWUNQSVN4LWxWS0lKUHZpX1FqczZuMEljMGhZYWlMX0doOVhEb1RZZ1hsZTZ2T0lfVkVjTjQyWk9jenNrVVF1N3dpMElPVWtaZDBldHR6cHRfekc2Wl9HdWVUMEJSelVIZ1NNRUVham1GYVRIR2JXZ3Vla3pWRS1sT3RyZmJrMXdSWVl5UTVDTHd0UXoybFZOZTlxb2dYWGpRRzRkVEgtZmhCWkhLRU5vQmROMmIwWWc?oc=5",
-        "fonte": "Assembleia Legislativa do Estado de São Paulo",
+        "fonte": "al.sp.gov.br",
         "data": "2026-09-18"
       },
       {
@@ -207,12 +207,6 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "Plano Nacional de Logística aponta papel das hidrovias no desenvolvimento regional",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYnp5Vlh1OEZTT0RUdnBpa0dVdEFMQUFuZ3JMX08tdWE1aER3cUJ0Z3FCOHdfOUdaRnd1RXczd1RvUFpneEtrV1FQOUY3WlY0LUZQOUROR0QxcUR5VlJKVk5KVDJqZDA2TVFITXVjRF80d2dORkdnZF9FdThKX3A1NG4wbkQtbGhYMFZVbnRlSTMzSnNyNjlOQk12X2pjdExOYzZ1cjY0dG5FQWxzbzRKUWRTcjR6bjdZcEN1Z215SllSVW9laE1mSzVkeFJVQm5xYkVHZGhITExFQ1EzTjFtVGZiU3dpVWJD?oc=5",
-        "fonte": "gov.br",
-        "data": "2026-09-15"
-      },
-      {
         "titulo": "Quais estados brasileiros concentram o maior potencial de investimentos em infraestrutura?",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQ3hJTFowbjNMV2ZmbW4xcnlpWGFndXhIOUVDemxiVU1pWVRNQ0l6dzdRNWZzSjE0MjdHZlNvMlBfekNYTVNBZGEwNTlmRUJmZktpdmFsQ1otdXNQb3Y3VFo1ak9yelBsSjNNNkNibXBPc1AyN2JWaV8yMXJfdzhzeURIdmRSNHFvY0UzUzFJbGZnOEhaajhOZzMzSHJFOVhQTEpKaFM3cVJDcVNIdENrbFRZOExaN056a1BxbFBxeXY4OUt1R2lkYlYtMGtMQi1SUGkw?oc=5",
         "fonte": "BNamericas",
@@ -223,13 +217,19 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNelN3dUswc29GOENEdHhmZmhwSDlsZVJkU21Kb3lrVi1KbTJ6R2g0X051bV9mN3owVHduMkFhNURwWXVuRDE5SDM0S3BFcFN3OWpkdDZCZzRBMVlVcC05amk0UnRZaGNmLUtXZmRrVlJZRjFZZ1ZNV1F6QW83N0dqbTdWZG1Qd19lM3ZBTEV3bEhBR09xU21WWnpXZEJoVEhRdFlIUVl2cXhBV3l3OUtMUA?oc=5",
         "fonte": "Paraíba Business",
         "data": "2026-09-21"
+      },
+      {
+        "titulo": "Como pode existir um porto sem mar? Quixeramobim vai ter o seu porto.",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNEtzRHdjZEZXYUNJVlBoeGFITGt3b19acjRYSnpvMmJaVVEyWEs1Nmd2UTBhN0lkVXk4QUtqVi1YRVpaNUtibVExVmlwbjBqSWRMdUFCbVY3V1dhbzlEREFrbm9UMFVMb0kwM2JqX3ZQMlZVQWRWU0J1OU5rdUR0bFo5ZEF6UFZHazI3aW5zYWc?oc=5",
+        "fonte": "Portal NE9",
+        "data": "2026-09-22"
       }
     ],
     "maquinas": [
       {
         "titulo": "O papel do fomento à inovação para atrair investimentos em infraestrutura",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQVlBdjJpNU1SUUhuZVl0RDlVZVh0OUdmMm9lWVcyU0lnNFJBN1paYVh6M0trcktDV2c5WHNaTkpoUm8zcFZob0V6OE1Hb2ljOEpBNWlib3ROeXB2MGcwOTZaU1JuNkVuQURNYnJzS2k0bTBPNXpjX012NzlQSUhsNWRuOHlxUHNjMUNtY3Q1LWVMdWswY0s2ZmFTcEc4V29kZ3BoSklHZC1PMVdtVUE?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-21"
       },
       {
@@ -269,7 +269,7 @@ window.NEWS = {
       {
         "titulo": "Aumento da demanda por alimentos impulsiona indústria de embalagens em 2026",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnBIQXcwVGtCejdXSFdUN2ZicGdrblB0NVJwLXVILXBUWkxLVVB0c1V3ZkROTXdKczFJQVZfZVVEc3dFRVBXMmQzMklzVHpVR0FoR19JZlNpWGdhU1E5MkhWWmE1cnB4OHRHVXF2ZzY2YkJSeWo4TlE1Q2hFZm9uMkVIRWU1NEdwWkFDSEp2TFRINXRYa3ZKQTROcmNXYmRa?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-16"
       },
       {
@@ -303,7 +303,7 @@ window.NEWS = {
       {
         "titulo": "Marco do saneamento faz 6 anos com avanços, mas universalização ainda longe",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVlTX0JzaERhUHkzWEVjMlZvQ3d4REFpTmtSaVBzVjFWZkhfX1J2R2I1c3FQZmwxLWVVUU5uSHQzX3Z4OVVfc3ZpTWxwX3FWRktybjRtcHM0S2pUWTNrRTVSU2x4Mzk5R1JNMlVzNTdqVEdrQTVKQWtDdkRCVGlEMTNzYldtaTByMUs3dExxUTFkaC1jckFCOFN4X19CS2thX2xwUTBEWVNlcFBkd0ZJ?oc=5",
-        "fonte": "cnnbrasil.com.br",
+        "fonte": "CNN Brasil",
         "data": "2026-09-16"
       },
       {
