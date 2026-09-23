@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-23T14:08:04+00:00",
+  "atualizadoEm": "2026-09-23T18:54:57+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
-        "titulo": "JBS leva proteína em alimentos e bebidas a novas categorias",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXZYanlHMGU3WkdzRWZiR2JRbm00azBobEhjbGhGb2k3bVN1dTc0ak9ldXhZN3JTal9ZYmNYYXEtOHNEdGY1WG9OdjJsVGlWT3Jvci1BZkZ2cXVrUm0zc05VZHhDR2Ytc01PRENxSzZwSmFrOHB0WldmQzVubFZrV190WVlxRzFHRzQ0anR1bTdXbEk?oc=5",
-        "fonte": "BHB FOOD",
-        "data": "2026-09-22"
-      },
-      {
         "titulo": "Como a JBS quer ajudar outras empresas a surfar a onda da proteína",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONy1HSW1OUVpEUmg2SE5kVjhPN0swN3JnTWR6MzE5b0xGQ2JOYTFuVnJtcl9lWjluT3phQVk5aUQwdHdSXzVhQTh5dUliZDNqQmx1NnNCVVlTdlN2eS1iWXNoMGs4eUZ0Q2FpTHJkcHB2OGluQWU0R3ZPMlFuZGNqdzZBNFFCTEwta0F5c0tfOW5ZT0tjWW1pQVJGRFVwX25vRlRjNDBqMzF0anN1Q0ExRjUyTQ?oc=5",
         "fonte": "The AgriBiz",
         "data": "2026-09-23"
+      },
+      {
+        "titulo": "JBS leva proteína em alimentos e bebidas a novas categorias",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXZYanlHMGU3WkdzRWZiR2JRbm00azBobEhjbGhGb2k3bVN1dTc0ak9ldXhZN3JTal9ZYmNYYXEtOHNEdGY1WG9OdjJsVGlWT3Jvci1BZkZ2cXVrUm0zc05VZHhDR2Ytc01PRENxSzZwSmFrOHB0WldmQzVubFZrV190WVlxRzFHRzQ0anR1bTdXbEk?oc=5",
+        "fonte": "BHB FOOD",
+        "data": "2026-09-22"
       }
     ],
     "automotivo": [
@@ -52,14 +52,14 @@ window.NEWS = {
       {
         "titulo": "Setor automotivo insta Trump a impedir entrada de montadoras chinesas nos EUA",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaktjS0VPOTJ5Q0NTcERHQnhwODV6V2NvZkJMbnRNVlBTWmdyNkdlTEsxQWNmX24zTmZTWng3a2QxT2tCYXBiTXctLTRjR0RaWnJYMS1vN1l4UnZmd3F2amdiamZrYzkyekFhdjFNa1A3Q21RMTV5MHhURTV2UkxlbWRxR19VblQ5WWFYZlFwN1JVS2FfeG1Gc2s3OFpUTVRrTDlQRVMxTDA1RU53MjhyM2xCV1dFZThhZl9tTGlB0gHSAUFVX3lxTE1RSE9ETm1OZEJOSnpmYlhaQjVNLW0wMFU2SmlEVFBYM3ZCZ05JRXo3ZjI5YndGWUcxLTdRSm9qVE5xdHJ1OTVZYWhSWVZZdjh1c3I3ak5PWkJSRGRkaEo0b3g0TmlTWlBWa2h6T2FrS2JsNzVrYzVBa2pPbUpOVUsxSjhxRUVHODJHZDRnTXJpTVBmQU83RlMzODdqaEZ4S1BpajA5X3lzYlh2bVFYVU1iX0VvSTY4Znl2QlVKX1haTzFXNVdvVGJzQVFQczY0anZDZw?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
+        "fonte": "bloomberglinea.com.br",
         "data": "2026-09-19"
       },
       {
-        "titulo": "Presidente Lula libera R$ 30 bi em financiamentos para frota urbana",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmdXYjFJNHdEY0xtWEFzMWg0OVJOMWZMN1BxMElzNnM1aTl4SVVDOXVHay1RRW1DZzB5aV9UYktYUUZUZDJmV3BKWmdlN0k0eGZoWWxMYmxlcGRBU3BLbkxNZkpONUhCMW5GM1JCMzRXRHRRR1hOeGFpTk5TTDNhS2lpTWpkZXFiOG4zMnlMMTVWZw?oc=5",
-        "fonte": "SMABC",
-        "data": "2026-09-17"
+        "titulo": "Ministro da China defende abertura recíproca do mercado automotivo com UE",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUkdMOWduR2NUOFZiZ09ObUYwclhrbi02dTZWdWZPYTVhUHFKYmQtNV9SMkVwRkxLUlBPdWgwV0hmU2R1OTlHeGMwVk8zVmk5S2p2SFUwY0VtaXVtQ0U3VTU1YjcxUDhNN0pHLW41V2pFU3VVaDM5LXFockE4NnV5eU9pUzNmNThqTllEbzJURVYxck4tS2hQX1pFbnA0UXpQLXRLN2QxbUlYSVNJYTlleDZpTkNsYWlfWWV3TkVZYXpEdHJfajI2OTNCWHo?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-09-22"
       }
     ],
     "bioenergia": [
@@ -84,8 +84,14 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "Abrindo caminho para materiais de construção ecológicos e circulares.",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ka1MzWTZfTXhUeWtLbGJLbXA1S1kyc0ZYazBna3BtWU5ZanhsYk5EV3hXWjczTnhfQUdVWE84cUo5bGw4dmFNaG5YZWpkQ0RzS2RRTVRucEZCam1RVTlobzl1UDMwT1JwLUR6TVVIaUJaRVlNekZmWnkyaw?oc=5",
+        "titulo": "BNDES financia R$ 75,5 milhões à Votorantim Cimentos em projetos de Nuvem, IA e IoT",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMW9wQWFYT2k1ZlZ5eWc5Z3c4Y0pTRjhoYkE0UDlIb2hOR19vNmIxYS0yNVdpTnJ6U0ZsbHBDOFRYNmlpWDFuNkk3a0N3QVhGYjRxM3Z1OWUyNEFXa0xvRW84Sm5Eb3JObkdrZllMNUR2Vnk5dVNidVVsbUlub2ZLZXJVTmdfUlBYQS1KVVNKWDFqTkFyWXN4cFR3YXRGVjVNbG9HQkdtdTVsQjF5OHQ4UHVRQXRkZXU4SFc0Yl9KYlhoQQ?oc=5",
+        "fonte": "ConvergenciaDigital",
+        "data": "2026-09-23"
+      },
+      {
+        "titulo": "A empreiteira responsável pela rodovia Vinh - Thanh Thuy está enfrentando dificuldades porque os preços estimados dos materiais são inferiores aos preços de mercado.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUhReGxXcVhKal8zb1RLa1ZhRGdRbkZseFZhTkhvc3VMTG1udENuNHQtVnM4VWYydkhUM1o5U2paclhXQ0dRN2hMQTJ4NHJfUjJjRUJGdGs0d1A2aFc1QUVvdFVjYzE0TFRReVdQNjJMLVM1OXlLRkQzX3lzcHpoRnZ6TlRNdC11ZW5Scmota01CaXJpcUN3OFNGWDQtdlpIRjFFWmd3b2NPSWtjX3pxZw?oc=5",
         "fonte": "Vietnam.vn",
         "data": "2026-09-18"
       },
@@ -112,7 +118,7 @@ window.NEWS = {
       {
         "titulo": "Grupo InBetta anuncia investimentos de mais de R$ 1 bilhão até 2028",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaDFrTXZGM0k4eEFBMDhhRFJ6YVUwRkdCMEFiVnVIUW5fbDFZQzhGWU9NS3hUT0F0amZxWi1kSDJZRlRtQ0FKXzE4TVFYa3ZMNkJrSS1JWTgtekE1OGN0RHV6dkJmaGpUSmloTWFBTktNaFN6Z0ZnWGUxd2tZSk41S1NrdEMzMTVUaFhxRHZwUlZLZU9SNDRwTElibkU5VW0zZTJrZlpzY2nSAa4BQVVfeXFMT3o3Q1pzTzR5MkRhOEZUaURLc3dRU0R4QlZsNUc3WmRGN0xRaGI2OFNGOUxpN0V0SEVBVldPMzNSdFhYeWgtWXJUel9FWTlITDg1UnRoMWh3SGx6cUZFR093VUdrSUlWWl9JX3pwT1BuQXBrZWpueUkzYlRSYUlsMjNiSzFuQTlpZFZiV1dHcTdZV1h1a2R3RU1PYkVYc0s3ZlBkU1pwLW5JemJTcE1R?oc=5",
-        "fonte": "infomoney.com.br",
+        "fonte": "InfoMoney",
         "data": "2026-09-17"
       }
     ],
@@ -120,7 +126,7 @@ window.NEWS = {
       {
         "titulo": "Leilão de Transmissão é confirmado para 30 de outubro, com previsão de R$ 8,9 bilhões em investimentos",
         "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNYzNEcDdBNUFQWlROaERoNy05SFFXYWpQWXc4NkVfODhaT3RhOHk0YW1QWktxNXJoc19wUGk4WGh1ZkpDRmdiYXdIckladjhTSG9KM3Z1X3FHNDFNWWlrd3BvbXkzQm1SN1VEZTBuQVFzZVNObkQ3MEhRZmRjUWN6eklqQ3ZyRGN3VTc5N3JoV21EdGM0UUh6dUF0Mk16WmEteUJrenpRMkNTR24xRl9jVlFkSjBLbnJnaTNmT1paOUVVM3V5cExOZHJldTM4UXpkN0NjZkYtd25Ea2tjYjBPZHlKcThab2o4cFR2OVNkaUdxb2lVeU5FZ1c5SzZlSURV?oc=5",
-        "fonte": "gov.br",
+        "fonte": "www.gov.br",
         "data": "2026-09-22"
       },
       {
@@ -166,12 +172,6 @@ window.NEWS = {
     ],
     "farma": [
       {
-        "titulo": "Produção de medicamentos no Brasil é estratégia de soberania e fortalece o SUS",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWkRHTkZpT2s2VENnbDdTRDcyUmFKeFVfSXZPUXhQT1lUaHZTSFozRjBVQWk1ZkpMN3lKT3VpMDd3cGx3Mmc5aDdtTlZ5b2tyaDNSVm16ZlRfZTAwSWRaVlBrN3ppYzhidmRoWjZiMHAycjZGMzZ4bUt3cmQ4MVhXa0FqYWNQLUVYSXg4VTFkUTFXYm54RDJ3UE5RQmg3dw?oc=5",
-        "fonte": "pt.org.br",
-        "data": "2026-09-18"
-      },
-      {
         "titulo": "Lula associa expansão da indústria farmacêutica à força do SUS",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHNCUXI3X0FRY0NnZlc2bUlQTGpQNTIwZ1NTdVl6RHhxcmIxUEFUN3ZveVBsWG1tYzFDSlU0NXhOYTc5UF9IcDcwREpwVHZVR0dpSS1aRHd0RUxEazFpSXJDSDNxdmd1MHFJbG1WZWF2WjhON0NCSVQ1QS04WXhncmFXbmt0V2J1OTZ2NlFCZHZxc2JPTnZmYk16alBmYTA?oc=5",
         "fonte": "vermelho.org.br",
@@ -182,6 +182,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYVpSSzRGUUY2MEYwZDlyRG9sY2RtU01TYUVpenR2elpzZWFMeFZIY3oyV1hMRnNZRFM1MWxUdU1lS2JkT0QwcTVEd1JCUW85WEVVV2RFVTZKV1Bxb0paZkswblg4b21WZmdEWUtuUWhVUkgyd3hjb2pfX01rTC02U0JvbVV1eUZGeUtscF9LYTZ6VzlKU2RLbk9HYnNQQUlGeEt5bw?oc=5",
         "fonte": "Panorama Farmacêutico",
         "data": "2026-09-16"
+      },
+      {
+        "titulo": "Novamed recebe autoridades em Manaus e apresenta investimentos de R$ 300 milhões em expansão e inovação",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdGtqeGktWUlOeEhKV3dGLVRldXpYZ3JXckZaTVZGOTAyT0pmZEdIMXdsaXp6OGY0UjFCUDFpVExsazQyODVkNXpVekFlcURpU1JqNW04Z3FvNy1EYm13bk0zTjk1dDJ4d1F1NkJOMGVvdm44R1VST2VRSkYwUE1OYUpPcDlSSXZYbDJIUEZtdVg0NjV6TGE2ektKSVJpRnR2OUJGT1pPZzR5bGRucklEYklTbGVSYlB3VlYxRC1mdVVtazV4alF5bVJIYWdDRzJzN1pKT0lfR090S1A1aUZXODhNd01DZEpab2dKSXJGNmhLVTJkZXY5UzNlWWFhRzA?oc=5",
+        "fonte": "PFARMA.com.br",
+        "data": "2026-09-17"
       }
     ],
     "fertilizantes": [],
@@ -195,7 +201,7 @@ window.NEWS = {
       {
         "titulo": "Prefeitura Municipal de Pouso Alegre",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMVZfLUtDa28xV3FONm5ONWNWQzdwMmhlZG9ROWR2cXh6bFdKZndTMi1fRHNBaW93RTQ2a3psTkdvNmVzUHB6R0kxbGJXRFRoeVN2Q0lpQzJ3UEp6OFFJWGFxVE4?oc=5",
-        "fonte": "Prefeitura Municipal de Pouso Alegre",
+        "fonte": "Prefeitura de Pouso Alegre",
         "data": "2026-09-23"
       },
       {
@@ -241,7 +247,7 @@ window.NEWS = {
       {
         "titulo": "Bolsas hoje: produção industrial nos EUA no radar",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1VzNUhfNDFudzk0enBBNzZJTHlvR3RVVXVjUjRlQk52ZFJaMkJacGdIYmxReUY5SE5iWnAwRzUzOXJjek1VVlFmbkRWQWlqTWZCQmlGYTZMcHJLYzJ1YzVQS2ExOXFHTlFyU1F0NWt4MnFrbTVCanJJbTBtN0o4bk5yem0zVWh2UUYwYXFVVjZHYU8xQ0E?oc=5",
-        "fonte": "XP Investimentos",
+        "fonte": "conteudos.xpi.com.br",
         "data": "2026-09-18"
       }
     ],
@@ -249,7 +255,7 @@ window.NEWS = {
       {
         "titulo": "Brasil cria política para ampliar produção de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUdVSWpTVDVJSmI0c242SjBBdldtd1g4MEtyeWhaVlhvTjRtZHA2S3FrNzIwb2lreEp4TkRQeXNsWHNkZVl2VzBfM2h3cjB3Y2o5V1doT1g4WTIzU3NVQlE2N0pRVnJKNHR1ODNBUFFlZlFOZWY2S3hxLW9xdGpQYmhWQ0R6WEdxVFIyeHp3RERscE8wemhEeWNkemZDSTh5aEoteFNHV0FjTG8?oc=5",
-        "fonte": "Brasil de Fato",
+        "fonte": "brasildefato.com.br",
         "data": "2026-09-17"
       },
       {
@@ -301,16 +307,16 @@ window.NEWS = {
         "data": "2026-09-22"
       },
       {
+        "titulo": "Setor de saneamento prevê 31 projetos com R$ 66,3 bi de investimentos",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObFlhUVNVZEtZODlTTUNSZHhZRlFhVjRvUF9nWjd3bHV2SUNUaVNmQVVEVjdMOFFpNmp4dm9IZHRjVk96Y0Jhb0ZlcWo2eWFlSFpSVWxIMmNiLUpNUEU0ZnZXUmctdDYydHdUeERydG96b3BiMkVqbzV2T2Vxd0lmR2ljWE83OHo0SmVsWGN0eV9yeGFNMWlRV2VFaUNnRFdfMGJKN2NYUTJ5cTZ0a0tjWUZRN2lEd9IBuwFBVV95cUxNSWs4MDg3dTJJLXRmTzZPdERTenBoaUJEbFVqeXBPcGFwdmZFRUZDN0ZQS3lzV3NjUVF4LXdobWRhcHk0Y0pfZENqLUFuS0F6djNIdWFFRUJ0TlA1aHlnY0dQNE9DdGkyRkk3cFFlV3c2SjRFOXVoS3JUR3FfelBhYjJXblVfWE9MbXFwU3RyQnVxS2ZQNmJLdVQ1QXNMWU42LXZITjEzbmFsUUp2c0lLVUt6Mzl3Y0pNWlUw?oc=5",
+        "fonte": "Bem Paraná",
+        "data": "2026-09-20"
+      },
+      {
         "titulo": "Leilão de saneamento em Rondônia fica sem propostas e é cancelado",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmRNOEFhQllYV0RMT1MtNnhEYVZ1ay1HUkI5V0x2MnQ3UEgtWTVjYUUybGxxX3J6X1gwQnQ3M3MwWnVaTVdkR0hUTXpsOTNTQzJCWHl5bXg5enFIMTQxUjg5ZXdxcjFmdjRFVFNaTUJjVTJ5dUJMeGgxcHZaTDljWW9QUjUwczJpcURNNHdRZ2lIZU8zWW9xU1dKMHdDMkFyR3o0UXd1N2FXNG8?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-09-22"
-      },
-      {
-        "titulo": "Setor de saneamento prevê 31 projetos com R$ 66,3 bi de investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSWs4MDg3dTJJLXRmTzZPdERTenBoaUJEbFVqeXBPcGFwdmZFRUZDN0ZQS3lzV3NjUVF4LXdobWRhcHk0Y0pfZENqLUFuS0F6djNIdWFFRUJ0TlA1aHlnY0dQNE9DdGkyRkk3cFFlV3c2SjRFOXVoS3JUR3FfelBhYjJXblVfWE9MbXFwU3RyQnVxS2ZQNmJLdVQ1QXNMWU42LXZITjEzbmFsUUp2c0lLVUt6Mzl3Y0pNWlUw0gG7AUFVX3lxTE1JazgwODd1MkktdGZPNk90RFN6cGhpQkRsVWp5cE9wYXB2ZkVFRkM3RlBLeXNXc2NRUXgtd2htZGFweTRjSl9kQ2otQW5LQXp2M0h1YUVFQnROUDVoeWdjR1A0T0N0aTJGSTdwUWVXdzZKNEU5dWhLclRHcV96UGFiMlduVV9YT0xtcXBTdHJCdXFLZlA2Ykt1VDVBc0xZTjYtdkhOMTNuYWxRSnZzSUtVS3ozOXdjSk1aVTA?oc=5",
-        "fonte": "Bem Paraná",
-        "data": "2026-09-20"
       }
     ],
     "siderurgia": [],
