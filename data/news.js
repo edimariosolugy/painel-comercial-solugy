@@ -1,14 +1,8 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-22T21:52:14+00:00",
+  "atualizadoEm": "2026-09-23T00:07:44+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "Brasil e Angola firmam memorando para ampliar investimentos no agro",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjBKTDBzUUY4OTV6SXI1OXB0TVduRzlCYV81RXVpWVNsSlhydVVmUDl4ZWxBa0FwZ1RDZ2dlZjRqa2I2S0dzOFJZSnptdlBSazVCRjRDWmctaUR0bjE0d3gzT1FDQV9EWTBEWGFLTW56U0wzZ0dqOGJtTjdWZEtjYXVxUFZLdy1pOThkd0EzVldaVWtRX2V5OXl5S3dWOTJJdU9UMXN2Q3FiUHc?oc=5",
-        "fonte": "Canal Rural",
-        "data": "2026-09-15"
-      },
       {
         "titulo": "Cenário do agronegócio brasileiro: produtividade, IA e infraestrutura",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSllvQTJCZ05yTEt5bjl6V29nS21CcUo1NElBVnc0SWVoNUdzbXFzanlwWDVKVFhXVGhxcXpIU1ZUV1lMLXQwZjlkN1JROXA0d0g2UWoxRXRDM1BtMmJWYV9oSXRrNldqMzhGc0RRU1AwekJLNHY4TU5QdFJuZS1EajVOVFF5Y1NGX3NrT1pzdnVsVzBBVHZnVVlXaXotNV91emNLVlY2QXB6Szg5SXlWb01wQQ?oc=5",
@@ -18,7 +12,13 @@ window.NEWS = {
       {
         "titulo": "O risco que pode frear o agro brasileiro, segundo acionista da SLC Agrícola (SLCE3)",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFJpZnh0QnFKdnUyUGdzQXRzeG9UTWx6UVFTQ1dCNTh5ZEgwS0Raazh5Ml9teXl5WFFETk8xQmJmYzl6RjFfVXgzYVU1VDh3amVEZ1BsTEtBSEtuVVJiM1h0bk1SY2FSYk94eXhKWTBZdTh1YV92Z2hES3F6WloxVnVqWkItUFJxVk9mMkxMQ1ZuNUF5TmV3b21tNEo5dTFkaThJZHNVa1dmbmJfcGpiVktTMjk3bmM?oc=5",
-        "fonte": "moneytimes.com.br",
+        "fonte": "Money Times",
+        "data": "2026-09-22"
+      },
+      {
+        "titulo": "Tomazoni: O maior gargalo do agro é o crédito",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWlBQWs5dE1TcVRnVEVBaXRQREVkRjFSeldzekQzanNDTDN0dTF3Y1Nia0pTbFllTkRNRDJ6aTZuV2FXWk85SU5HUExLeC1Rcm1FQ0psWDQwczdIdzZDdGc3YWlSV2t1NFg4U1R2b2g4R1RzNlpGSjhpZVdvem9PamhR?oc=5",
+        "fonte": "Brazil Journal",
         "data": "2026-09-22"
       }
     ],
@@ -26,7 +26,7 @@ window.NEWS = {
       {
         "titulo": "Programa Conhecendo a Indústria leva técnicos e consultores a fábricas de alimentos em Goiás",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVpEaUVNX1I4dUF5SXZkSUI1R2p0ZjVFblBHM3dIUmpiWmhmUTJtZFdFQTAtNlJ4RGlJZEV0bV9SV1p2TWFjY1BsbXVxdmx4VHNxN2ZHR2RSaGtsdWZzQlV2LWR3NHJqQUFFM0RvbHFjUjU5bzJTckNtVGs5UTR6V25hUVNfZGlYZFNpTlZqVDhubkhtTUdMeUZmSDBtSzhINTktVmd2SjVodEJ3bU91dUFnNTdna1JIZTFhM01pNXZwa1FWTm1Hc1JQbm9TblVXNXVKc2ltLVl0dHAwcjBLaFc5YWFtYUVRR3VraG40dw?oc=5",
-        "fonte": "noticias.portaldaindustria.com.br",
+        "fonte": "Agência de Notícias da Indústria",
         "data": "2026-09-21"
       },
       {
@@ -50,16 +50,16 @@ window.NEWS = {
         "data": "2026-09-19"
       },
       {
+        "titulo": "Montadoras chinesas ampliam presença no mercado automotivo brasileiro em 2026",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEVFN1NGRm81U0k3RWU0OUhOcGZGSHBIUUljQmdGbENsc2FSaXI1dXNzdFlBaVEySGY4TGxNa3dVOGhDS2hHajVGY240QWtwVFp2UmszOE5nbDg4VFd1NUVhcGZSeGhVX1g1Qkx6Q3lLd1VkVkVVZllYR0h3dEd4ZUpuT2I0REtlTkR4TTJ0N2sycFd5cDdsLXRKeFVNeEozakQySnln?oc=5",
+        "fonte": "Diário do Comércio",
+        "data": "2026-09-21"
+      },
+      {
         "titulo": "Renault investe R$ 2 bilhões no Brasil até 2027",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CclhiT0hQTzlFQTFiTG1ZckJyajItZndiMTZFV2pIOXMxUEVjZHp5enVERTFNYUUycnBFX3Y3NDhPa0Q0RHBTMjJscUdOTEltYVZ6cDJzOXlnTE5TaDNDSDlBdlBHRl9qb3FTX3hQZXBKQzNNNlE?oc=5",
         "fonte": "Acia Araçatuba",
         "data": "2026-09-16"
-      },
-      {
-        "titulo": "Presidente Lula libera R$ 30 bi em financiamentos para frota urbana",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmdXYjFJNHdEY0xtWEFzMWg0OVJOMWZMN1BxMElzNnM1aTl4SVVDOXVHay1RRW1DZzB5aV9UYktYUUZUZDJmV3BKWmdlN0k0eGZoWWxMYmxlcGRBU3BLbkxNZkpONUhCMW5GM1JCMzRXRHRRR1hOeGFpTk5TTDNhS2lpTWpkZXFiOG4zMnlMMTVWZw?oc=5",
-        "fonte": "smabc.org.br",
-        "data": "2026-09-17"
       }
     ],
     "bioenergia": [
@@ -86,6 +86,12 @@ window.NEWS = {
       {
         "titulo": "Abrindo caminho para materiais de construção ecológicos e circulares.",
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ka1MzWTZfTXhUeWtLbGJLbXA1S1kyc0ZYazBna3BtWU5ZanhsYk5EV3hXWjczTnhfQUdVWE84cUo5bGw4dmFNaG5YZWpkQ0RzS2RRTVRucEZCam1RVTlobzl1UDMwT1JwLUR6TVVIaUJaRVlNekZmWnkyaw?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-09-18"
+      },
+      {
+        "titulo": "A empreiteira responsável pela rodovia Vinh - Thanh Thuy está enfrentando dificuldades porque os preços estimados dos materiais são inferiores aos preços de mercado.",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUhReGxXcVhKal8zb1RLa1ZhRGdRbkZseFZhTkhvc3VMTG1udENuNHQtVnM4VWYydkhUM1o5U2paclhXQ0dRN2hMQTJ4NHJfUjJjRUJGdGs0d1A2aFc1QUVvdFVjYzE0TFRReVdQNjJMLVM1OXlLRkQzX3lzcHpoRnZ6TlRNdC11ZW5Scmota01CaXJpcUN3OFNGWDQtdlpIRjFFWmd3b2NPSWtjX3pxZw?oc=5",
         "fonte": "Vietnam.vn",
         "data": "2026-09-18"
       },
@@ -144,16 +150,16 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
+        "titulo": "UFU inicia execução do projeto de Eficiência Energética do Campus Glória",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWUVkTHVrZ2dqYTZEQ3NweGRHV3dycWx6RnU1Ym5INDB2QVp2VmljSjY4ckIzc0tqUWdtWFFlSkUweDBGbFVOQkVEdlJPOWRwZ2VQbDNUUHNQVDUtTUJoVkZILWlpNl9URDVVMWg5T3BES1VrOFFDVjJmUk0zWnU4UmRfekVJREZwM2VjRUxQaXRUOFQ4WDh3S0Q2cDFvYXVKT041b0ZkTUU3Z2NSZWxudDEyNA?oc=5",
+        "fonte": "Comunica UFU",
+        "data": "2026-09-22"
+      },
+      {
         "titulo": "Empresa norueguesa inaugura usina solar de R$ 439 mi em MG",
         "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43b3RPUjlEQlp6dGIyWFVPYmdFWklNT19CVUxQNlBxYV9HOUNpMzdlTTVQakpRemx4dFJGNmdzSmszbUh4a3F3QkZCcDJ4Zk9neTV0QktsaGVPenM4dW1oc1hLYmltZGJ0NjQtVTZzR1hNWGVT?oc=5",
         "fonte": "Canal Solar",
         "data": "2026-09-19"
-      },
-      {
-        "titulo": "Energia solar ganha espaço em Roraima e se consolida como alternativa para reduzir custos com eletricidade",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNa09ienc4MmhnRldCUEphRHhKTHo0Nm5DTTl3NkNfM1dvNG41bDNwbEZBTktmRW1yYlo1T3dVTXRsTVdTWnlYaEMxX18tUkZpSWNqMUdCN29reFl6OHk4RjZ2S2s1c3VIc0k2OVltNE01cDExNXoyV3ZzMTlKR01HcEJhWE94U1ZwdXRablZNOUJaTnoxRFpxaXpUWlB4dVk5VnhnSVNaYUFFY3BydEVxM2hsNUpkajNwRWZSMWNWUWQxT01hRmU5OFgtSXliVGwxcThJUHQxZ3pjTDRH?oc=5",
-        "fonte": "Folha BV",
-        "data": "2026-09-17"
       }
     ],
     "epc": [
@@ -189,13 +195,13 @@ window.NEWS = {
       {
         "titulo": "Em seu centenário, Amaral Gurgel segue celebrado por investir em uma indústria totalmente nacional",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd2tDczVDNi14dnB3ZUh1cmFjd2xpUTZYcjYteUkyLXY2a0VLWUNQSVN4LWxWS0lKUHZpX1FqczZuMEljMGhZYWlMX0doOVhEb1RZZ1hsZTZ2T0lfVkVjTjQyWk9jenNrVVF1N3dpMElPVWtaZDBldHR6cHRfekc2Wl9HdWVUMEJSelVIZ1NNRUVham1GYVRIR2JXZ3Vla3pWRS1sT3RyZmJrMXdSWVl5UTVDTHd0UXoybFZOZTlxb2dYWGpRRzRkVEgtZmhCWkhLRU5vQmROMmIwWWc?oc=5",
-        "fonte": "al.sp.gov.br",
+        "fonte": "Assembleia Legislativa do Estado de São Paulo",
         "data": "2026-09-18"
       },
       {
         "titulo": "Programa Conhecendo a Indústria leva técnicos e consultores a fábricas de alimentos em Goiás",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVpEaUVNX1I4dUF5SXZkSUI1R2p0ZjVFblBHM3dIUmpiWmhmUTJtZFdFQTAtNlJ4RGlJZEV0bV9SV1p2TWFjY1BsbXVxdmx4VHNxN2ZHR2RSaGtsdWZzQlV2LWR3NHJqQUFFM0RvbHFjUjU5bzJTckNtVGs5UTR6V25hUVNfZGlYZFNpTlZqVDhubkhtTUdMeUZmSDBtSzhINTktVmd2SjVodEJ3bU91dUFnNTdna1JIZTFhM01pNXZwa1FWTm1Hc1JQbm9TblVXNXVKc2ltLVl0dHAwcjBLaFc5YWFtYUVRR3VraG40dw?oc=5",
-        "fonte": "noticias.portaldaindustria.com.br",
+        "fonte": "Agência de Notícias da Indústria",
         "data": "2026-09-21"
       },
       {
@@ -233,16 +239,16 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
+        "titulo": "Parceria com Governo do Estado garante cerca de R$ 60 milhões para obras e infraestrutura em Lages",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1pTMFZHNEllMmJuTHVvSnltODRaV3RCLXhuWVEtdTEwbXhqZnBzNkdrU0JJWXlJWHNpb0lVanVkbklrdmVkdmdCa0tyM3F4NWpET2JQTjB3SGd4TnpZR3VydlExUG9BSVAwZS13cXFvRWRiUFdzdlNldDNqcEpMaDBFSWp6SDJyX0Y4dThmVXgxSmt5aXZfUl9pdjFHYlpBcEpnWGwtc1hJVmtMa2djQ0F3Nm9OMGFqSkdjMWtEd0F6UGM4M2o2Tm44RVdqUEl0eDY3d01IeUx6NFBCYURWNllmS0o?oc=5",
+        "fonte": "Prefeitura de Lages",
+        "data": "2026-09-18"
+      },
+      {
         "titulo": "Bolsas hoje: produção industrial nos EUA no radar",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1VzNUhfNDFudzk0enBBNzZJTHlvR3RVVXVjUjRlQk52ZFJaMkJacGdIYmxReUY5SE5iWnAwRzUzOXJjek1VVlFmbkRWQWlqTWZCQmlGYTZMcHJLYzJ1YzVQS2ExOXFHTlFyU1F0NWt4MnFrbTVCanJJbTBtN0o4bk5yem0zVWh2UUYwYXFVVjZHYU8xQ0E?oc=5",
         "fonte": "XP Investimentos",
         "data": "2026-09-18"
-      },
-      {
-        "titulo": "Plano Brasil Soberano libera R$ 22,6 bi em crédito",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjRteTV1TU93bHozVzEtNmNtb211SkpUWjJmcXZrUF9Zei04SGVKeWdNU2JOLXFmWlV2TWN0al9iNm1jTDFQX3ByeUpqbTU2d2ZNRmtBaE5fdmNKUWpqVXV2UDVFWGV1SlVmSTVsZTVRVzZUX2kwSkxDWkI3UmFTMmljRFRqSE9ZQk9qX0pXVFNaRFpFbkJVMlc1QXdDVF9lbGF3aS03dw?oc=5",
-        "fonte": "Safra",
-        "data": "2026-09-17"
       }
     ],
     "mineracao": [
@@ -267,16 +273,16 @@ window.NEWS = {
     ],
     "papel-celulose": [
       {
-        "titulo": "Aumento da demanda por alimentos impulsiona indústria de embalagens em 2026",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnBIQXcwVGtCejdXSFdUN2ZicGdrblB0NVJwLXVILXBUWkxLVVB0c1V3ZkROTXdKczFJQVZfZVVEc3dFRVBXMmQzMklzVHpVR0FoR19JZlNpWGdhU1E5MkhWWmE1cnB4OHRHVXF2ZzY2YkJSeWo4TlE1Q2hFZm9uMkVIRWU1NEdwWkFDSEp2TFRINXRYa3ZKQTROcmNXYmRa?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-16"
-      },
-      {
         "titulo": "Exportação em alta estimula investimento em portos do Sul",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUIza0djZWNRU0RJc195M3oxTTVmbnpjc2laQmRMaldsYXNxY0RaLUpLOUdvTzE1a2x3QVNldDVCWDB4RmVwRXowamNEUC1ObzBaQkJxenNCSjhaUmxOYnM4V3ZIeDFGaDlTakF3ZkcxWjU0bldJem9nMVRfUGRMOHRSMlltVG9VRnVEUWlsMS02SkpBY1MwNUhkTQ?oc=5",
         "fonte": "MundoCoop",
         "data": "2026-09-22"
+      },
+      {
+        "titulo": "Aumento da demanda por alimentos impulsiona indústria de embalagens em 2026",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVnBIQXcwVGtCejdXSFdUN2ZicGdrblB0NVJwLXVILXBUWkxLVVB0c1V3ZkROTXdKczFJQVZfZVVEc3dFRVBXMmQzMklzVHpVR0FoR19JZlNpWGdhU1E5MkhWWmE1cnB4OHRHVXF2ZzY2YkJSeWo4TlE1Q2hFZm9uMkVIRWU1NEdwWkFDSEp2TFRINXRYa3ZKQTROcmNXYmRa?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-09-16"
       },
       {
         "titulo": "EPE estima potencial de até 13 GW para resposta da demanda no Brasil",
@@ -289,7 +295,7 @@ window.NEWS = {
       {
         "titulo": "Mercado de Filtros de Separação de Gases por Membrana: previsão até 2035 com recuperação de hidrogênio e upgrading de biogás",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWdGTnpLNHg1eGNaSXpQcFg0NTRqRHNKTnJXeE5TZ1NKaGNTVUdBRm9BRENPcEtCX3gteExoS3FMOEZiSV85bGZ4WWtmZGh2eFpnM2UyRU1kaEZLeTlGb3NacmRkdlNtWlM0LWs5TWFtUFAxb05NSFppTXpFM0tsUzU4dXF5RS1YQVozSUdJSDVxWkxNc05yb25ob3FGT0U5UWx1OWJpczR3aHBmVkdqUEJWWVhsUHlWb0pESGVadHVTQ2pPNUh4VU9nSXY2bjJ6SnFBZUhVRG1FSTA?oc=5",
-        "fonte": "IndexBox",
+        "fonte": "indexbox.io",
         "data": "2026-09-21"
       }
     ],
@@ -307,10 +313,10 @@ window.NEWS = {
         "data": "2026-09-20"
       },
       {
-        "titulo": "Marco do saneamento faz 6 anos com avanços, mas universalização ainda longe",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVlTX0JzaERhUHkzWEVjMlZvQ3d4REFpTmtSaVBzVjFWZkhfX1J2R2I1c3FQZmwxLWVVUU5uSHQzX3Z4OVVfc3ZpTWxwX3FWRktybjRtcHM0S2pUWTNrRTVSU2x4Mzk5R1JNMlVzNTdqVEdrQTVKQWtDdkRCVGlEMTNzYldtaTByMUs3dExxUTFkaC1jckFCOFN4X19CS2thX2xwUTBEWVNlcFBkd0ZJ?oc=5",
+        "titulo": "Leilão de saneamento em Rondônia fica sem propostas e é cancelado",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdmRNOEFhQllYV0RMT1MtNnhEYVZ1ay1HUkI5V0x2MnQ3UEgtWTVjYUUybGxxX3J6X1gwQnQ3M3MwWnVaTVdkR0hUTXpsOTNTQzJCWHl5bXg5enFIMTQxUjg5ZXdxcjFmdjRFVFNaTUJjVTJ5dUJMeGgxcHZaTDljWW9QUjUwczJpcURNNHdRZ2lIZU8zWW9xU1dKMHdDMkFyR3o0UXd1N2FXNG8?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-09-16"
+        "data": "2026-09-22"
       }
     ],
     "siderurgia": [],
