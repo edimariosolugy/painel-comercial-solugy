@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-23T18:54:57+00:00",
+  "atualizadoEm": "2026-09-23T22:07:32+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-09-22"
       },
       {
-        "titulo": "Tomazoni: O maior gargalo do agro é o crédito",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeWlBQWs5dE1TcVRnVEVBaXRQREVkRjFSeldzekQzanNDTDN0dTF3Y1Nia0pTbFllTkRNRDJ6aTZuV2FXWk85SU5HUExLeC1Rcm1FQ0psWDQwczdIdzZDdGc3YWlSV2t1NFg4U1R2b2g4R1RzNlpGSjhpZVdvem9PamhR?oc=5",
-        "fonte": "Brazil Journal",
-        "data": "2026-09-22"
-      },
-      {
         "titulo": "O risco que pode frear o agro brasileiro, segundo acionista da SLC Agrícola (SLCE3)",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZFJpZnh0QnFKdnUyUGdzQXRzeG9UTWx6UVFTQ1dCNTh5ZEgwS0Raazh5Ml9teXl5WFFETk8xQmJmYzl6RjFfVXgzYVU1VDh3amVEZ1BsTEtBSEtuVVJiM1h0bk1SY2FSYk94eXhKWTBZdTh1YV92Z2hES3F6WloxVnVqWkItUFJxVk9mMkxMQ1ZuNUF5TmV3b21tNEo5dTFkaThJZHNVa1dmbmJfcGpiVktTMjk3bmM?oc=5",
         "fonte": "Money Times",
         "data": "2026-09-22"
+      },
+      {
+        "titulo": "AGRI11: invista no agronegócio pela Bolsa",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSExrVDlBdEJBZDhJNldUX3JCcjJoM0tlZzhodURtNEU0N3ZNMGNuUzRIRUFXcG1JLWhUV2RCb2h5RGdTRmpQNlhVZkZ6QmdoWm9xTUU3a0FsYjNEYlp3OE55bGZRUHRDSEktYWRaYU9JeUlCdkNTOThPTU1CS0ZzX1dWb1RPcGVWZmdNekRvSjJLRTA?oc=5",
+        "fonte": "Banco Inter",
+        "data": "2026-09-18"
       }
     ],
     "alimentos-bebidas": [
@@ -30,30 +30,30 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
+        "titulo": "Prêmio Melhores dos Negócios Internacionais reconhece empresas que levam Brasil ao mundo",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3A1ZEswX3k4cmgxTlpvallBbGREVC1NY01LekFKRXA2Rk4yUDFpWkE4SmlRUi1YVFZCTVczbGtnUnhQWHd6ZEFiMWhwd0dVSjVCa3FUajE3dXBsVXF5QnVEMmZRa0VRZTFvZmF0TFZ2ZW9Ndk0yZHlPVUpXS1RIRmt2SHp3Tk04TDhZNWwzR21kR09LMG5TcEc3c2MyS1JDaGJjRGxpNnQyeWFJSjFVVTl4eGZZVEE?oc=5",
+        "fonte": "Exame",
+        "data": "2026-09-23"
+      },
+      {
         "titulo": "Como a JBS quer ajudar outras empresas a surfar a onda da proteína",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONy1HSW1OUVpEUmg2SE5kVjhPN0swN3JnTWR6MzE5b0xGQ2JOYTFuVnJtcl9lWjluT3phQVk5aUQwdHdSXzVhQTh5dUliZDNqQmx1NnNCVVlTdlN2eS1iWXNoMGs4eUZ0Q2FpTHJkcHB2OGluQWU0R3ZPMlFuZGNqdzZBNFFCTEwta0F5c0tfOW5ZT0tjWW1pQVJGRFVwX25vRlRjNDBqMzF0anN1Q0ExRjUyTQ?oc=5",
         "fonte": "The AgriBiz",
         "data": "2026-09-23"
-      },
-      {
-        "titulo": "JBS leva proteína em alimentos e bebidas a novas categorias",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXZYanlHMGU3WkdzRWZiR2JRbm00azBobEhjbGhGb2k3bVN1dTc0ak9ldXhZN3JTal9ZYmNYYXEtOHNEdGY1WG9OdjJsVGlWT3Jvci1BZkZ2cXVrUm0zc05VZHhDR2Ytc01PRENxSzZwSmFrOHB0WldmQzVubFZrV190WVlxRzFHRzQ0anR1bTdXbEk?oc=5",
-        "fonte": "BHB FOOD",
-        "data": "2026-09-22"
       }
     ],
     "automotivo": [
       {
-        "titulo": "Montadoras chinesas ampliam presença no mercado automotivo brasileiro em 2026",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEVFN1NGRm81U0k3RWU0OUhOcGZGSHBIUUljQmdGbENsc2FSaXI1dXNzdFlBaVEySGY4TGxNa3dVOGhDS2hHajVGY240QWtwVFp2UmszOE5nbDg4VFd1NUVhcGZSeGhVX1g1Qkx6Q3lLd1VkVkVVZllYR0h3dEd4ZUpuT2I0REtlTkR4TTJ0N2sycFd5cDdsLXRKeFVNeEozakQySnln?oc=5",
-        "fonte": "Diário do Comércio",
-        "data": "2026-09-21"
-      },
-      {
         "titulo": "Setor automotivo insta Trump a impedir entrada de montadoras chinesas nos EUA",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQaktjS0VPOTJ5Q0NTcERHQnhwODV6V2NvZkJMbnRNVlBTWmdyNkdlTEsxQWNmX24zTmZTWng3a2QxT2tCYXBiTXctLTRjR0RaWnJYMS1vN1l4UnZmd3F2amdiamZrYzkyekFhdjFNa1A3Q21RMTV5MHhURTV2UkxlbWRxR19VblQ5WWFYZlFwN1JVS2FfeG1Gc2s3OFpUTVRrTDlQRVMxTDA1RU53MjhyM2xCV1dFZThhZl9tTGlB0gHSAUFVX3lxTE1RSE9ETm1OZEJOSnpmYlhaQjVNLW0wMFU2SmlEVFBYM3ZCZ05JRXo3ZjI5YndGWUcxLTdRSm9qVE5xdHJ1OTVZYWhSWVZZdjh1c3I3ak5PWkJSRGRkaEo0b3g0TmlTWlBWa2h6T2FrS2JsNzVrYzVBa2pPbUpOVUsxSjhxRUVHODJHZDRnTXJpTVBmQU83RlMzODdqaEZ4S1BpajA5X3lzYlh2bVFYVU1iX0VvSTY4Znl2QlVKX1haTzFXNVdvVGJzQVFQczY0anZDZw?oc=5",
-        "fonte": "bloomberglinea.com.br",
+        "fonte": "Bloomberg Línea Brasil",
         "data": "2026-09-19"
+      },
+      {
+        "titulo": "Montadoras chinesas ampliam presença no mercado automotivo brasileiro em 2026",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEVFN1NGRm81U0k3RWU0OUhOcGZGSHBIUUljQmdGbENsc2FSaXI1dXNzdFlBaVEySGY4TGxNa3dVOGhDS2hHajVGY240QWtwVFp2UmszOE5nbDg4VFd1NUVhcGZSeGhVX1g1Qkx6Q3lLd1VkVkVVZllYR0h3dEd4ZUpuT2I0REtlTkR4TTJ0N2sycFd5cDdsLXRKeFVNeEozakQySnln?oc=5",
+        "fonte": "diariodocomercio.com.br",
+        "data": "2026-09-21"
       },
       {
         "titulo": "Ministro da China defende abertura recíproca do mercado automotivo com UE",
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "Líderes da bioenergia debaterão margens, investimentos e próximas decisões no Vision Tech Summit",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFdaUE1aY28ybmJtZEVYbC1lcExBOW9idGNUZVNoNXdsVHFCTnNUYlZZRlR6S211R2IyN2hVUGxJU3ZQbTV3bUtubU5CLVRjbHVpNzZVQXBpdTY1X3dOTFJHVG5EQ3NEWFEzaEQwUUkxbW9YNU5WVkVaYkEtaUN2ZVZCbnVHcGl3NGh0SzlKSFc2QjV1aDhxTEliVkFtSDVSZFZVR0tiVWpFU0J1TXdfZFJETXp6cnhtbUUyTmZ3?oc=5",
-        "fonte": "Visão Agro",
+        "fonte": "visaoagro.com.br",
         "data": "2026-09-18"
       },
       {
@@ -90,16 +90,16 @@ window.NEWS = {
         "data": "2026-09-23"
       },
       {
+        "titulo": "Votorantim Cimentos obtém R$ 75,5 milhões junto ao BNDES para modernização das unidades",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHFFRnduTnBlT3pmZDVNbjQxeW1hODZTUXNfZkVHZXpVSGpYOHV0dFpfUFdEdjV0MTBsLUh4Tjd2cnlieHh3VTNGcTdYaFdzdkNFR3NzQmlvY0R1T2VUanBhNEctM1dZS1dMaXZNRzV3dlVTRUxGeHNrb0VLNUZuM0xLS1Bfa2pxZGNIakt5bER1QzVpWktkcHhQN0tjYUE?oc=5",
+        "fonte": "diariodocomercio.com.br",
+        "data": "2026-09-23"
+      },
+      {
         "titulo": "A empreiteira responsável pela rodovia Vinh - Thanh Thuy está enfrentando dificuldades porque os preços estimados dos materiais são inferiores aos preços de mercado.",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVUhReGxXcVhKal8zb1RLa1ZhRGdRbkZseFZhTkhvc3VMTG1udENuNHQtVnM4VWYydkhUM1o5U2paclhXQ0dRN2hMQTJ4NHJfUjJjRUJGdGs0d1A2aFc1QUVvdFVjYzE0TFRReVdQNjJMLVM1OXlLRkQzX3lzcHpoRnZ6TlRNdC11ZW5Scmota01CaXJpcUN3OFNGWDQtdlpIRjFFWmd3b2NPSWtjX3pxZw?oc=5",
         "fonte": "Vietnam.vn",
         "data": "2026-09-18"
-      },
-      {
-        "titulo": "Com o aumento vertiginoso dos preços dos materiais, dezenas de empresas de construção em Quang Ngai reclamam de dificuldades.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbFMwekFxeHd1MnBiWVZ0Z1Y3Qkxob2RydUxxejRZdTRtZWVZczlrWEpoaFhuaEE5bnkzV3podXBLUE1ablpYMnROUVk0cHJvSnJoamR0MmVEMnZ1N3p6ZzNkOXhidC1qeXJLc21GaGk5OEdaQjE5RUhJa2ZEWVNJNWpXYlNHeFZNQkhrUmdDbGRHY1JWQTFjYVRibzQ1UQ?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-09-22"
       }
     ],
     "comercio": [
@@ -111,7 +111,7 @@ window.NEWS = {
       },
       {
         "titulo": "Gigante do varejo gera cerca de 3.000 empregos ao abrir 15 lojas para faturar R$ 3,5 bilhões a mais",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFpSRTVfQXNwZjVTcmt0aEk0WTJjcVc1SXJtSVRyNld6VW54VGlZZFJ3aXg1cDJCN0JyQ3BUWnloRDJlTEZ5SmNJSUIzVllhNXlhejliLU9ldHBfTF95YjE4MWFiTUg2b0FfcW5CeFNETnc0R291X1VsbUVsN0dZdkZLUmhZd0pTSzB5MEVJdTlZLWwzUkQ0X1dsOXlMa25kTHg1RzBIN3NSbktFS0xKV3dQeHVzSjNHXzFEMUFjUHc0dFJfVXdydjhHOWxXU3lpN3dOY1RpM3RpRWlzeEdsc2xHUTNaTGFOYi1La2YzSjhxZl9pMjUwNmF3?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPbzdVdVFHbjRNZ091Zldwd3p2d0R0SHNWVkFnRkxiTTZzSXhlSndYRHlncnB5ZHYxWFJVUVBfbDdWcDBONlVqT0RVR2R0YW0tOThBRlM2YXo0dnJXdk1ld0w4VFktQWpma1RhS20zNndrWXZlMjV3TS13cnU2MGlZc3ZsSm8tRWxVbGtoclg3NmdHaUNfR21DQUFoblRPLU1iTm5sY1ptS0JST3A4YUpFYWk4NlJjdC1WdUY1RmlNV3dJeWQ2bXNZQ3l1cnBfQjJiS1FqQWtnbWloRWM?oc=5",
         "fonte": "jornalcruzeiro.com.br",
         "data": "2026-09-22"
       },
@@ -132,7 +132,7 @@ window.NEWS = {
       {
         "titulo": "Leilão de transmissão prevê R$ 8,88 bilhões em investimentos e já tem data marcada",
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9GTldoMWowZ3RneFRrbjdpa25BQXRsaDd1ME5wQkFwWGNLT0pweUlNVm5sZEFvT2xrMlZCVW02TS15ZVV2RUVWS3FTTG5Hb284MzIzVkdUY1JpRzJjVmw1YXMxeVF5OW9BZk1TbEFVR2VYVjh1OTk3cno3dUlQdw?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-09-18"
       },
       {
@@ -184,10 +184,10 @@ window.NEWS = {
         "data": "2026-09-16"
       },
       {
-        "titulo": "Novamed recebe autoridades em Manaus e apresenta investimentos de R$ 300 milhões em expansão e inovação",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOdGtqeGktWUlOeEhKV3dGLVRldXpYZ3JXckZaTVZGOTAyT0pmZEdIMXdsaXp6OGY0UjFCUDFpVExsazQyODVkNXpVekFlcURpU1JqNW04Z3FvNy1EYm13bk0zTjk1dDJ4d1F1NkJOMGVvdm44R1VST2VRSkYwUE1OYUpPcDlSSXZYbDJIUEZtdVg0NjV6TGE2ektKSVJpRnR2OUJGT1pPZzR5bGRucklEYklTbGVSYlB3VlYxRC1mdVVtazV4alF5bVJIYWdDRzJzN1pKT0lfR090S1A1aUZXODhNd01DZEpab2dKSXJGNmhLVTJkZXY5UzNlWWFhRzA?oc=5",
-        "fonte": "PFARMA.com.br",
-        "data": "2026-09-17"
+        "titulo": "Projeto farmacêutico que pode superar R$ 100 milhões será implantado em Tijucas",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1R3TjZQRFZoVWxadTNlZy1ydTJUS3IxaHBIQ2ttTTdpWEtxUTc2dm9XQzlVQ1NUMnE2N2JmSmEzV3VqYWlKd3ZBZW15QmJZWVhveE1ER2I0RmRlcnMyaDVUcjM0aTRkVUwxOVdWanY0bkxyOTZ3Q2JPSnBPOEpXbGt2VFZHMDNWeDFocXNxNHVZWWtRZml1UURCOEJmbExpX1pEOVB1V2Y0OGFZZHRqd1FhMjh5UHBhN3pmYUROTQ?oc=5",
+        "fonte": "noticenter.com.br",
+        "data": "2026-09-18"
       }
     ],
     "fertilizantes": [],
@@ -239,19 +239,25 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
-        "titulo": "Parceria com Governo do Estado garante cerca de R$ 60 milhões para obras e infraestrutura em Lages",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOQ1pTMFZHNEllMmJuTHVvSnltODRaV3RCLXhuWVEtdTEwbXhqZnBzNkdrU0JJWXlJWHNpb0lVanVkbklrdmVkdmdCa0tyM3F4NWpET2JQTjB3SGd4TnpZR3VydlExUG9BSVAwZS13cXFvRWRiUFdzdlNldDNqcEpMaDBFSWp6SDJyX0Y4dThmVXgxSmt5aXZfUl9pdjFHYlpBcEpnWGwtc1hJVmtMa2djQ0F3Nm9OMGFqSkdjMWtEd0F6UGM4M2o2Tm44RVdqUEl0eDY3d01IeUx6NFBCYURWNllmS0o?oc=5",
-        "fonte": "Prefeitura de Lages",
-        "data": "2026-09-18"
-      },
-      {
         "titulo": "Bolsas hoje: produção industrial nos EUA no radar",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1VzNUhfNDFudzk0enBBNzZJTHlvR3RVVXVjUjRlQk52ZFJaMkJacGdIYmxReUY5SE5iWnAwRzUzOXJjek1VVlFmbkRWQWlqTWZCQmlGYTZMcHJLYzJ1YzVQS2ExOXFHTlFyU1F0NWt4MnFrbTVCanJJbTBtN0o4bk5yem0zVWh2UUYwYXFVVjZHYU8xQ0E?oc=5",
         "fonte": "conteudos.xpi.com.br",
         "data": "2026-09-18"
+      },
+      {
+        "titulo": "Plano Brasil Soberano libera R$ 22,6 bi em crédito",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWjRteTV1TU93bHozVzEtNmNtb211SkpUWjJmcXZrUF9Zei04SGVKeWdNU2JOLXFmWlV2TWN0al9iNm1jTDFQX3ByeUpqbTU2d2ZNRmtBaE5fdmNKUWpqVXV2UDVFWGV1SlVmSTVsZTVRVzZUX2kwSkxDWkI3UmFTMmljRFRqSE9ZQk9qX0pXVFNaRFpFbkJVMlc1QXdDVF9lbGF3aS03dw?oc=5",
+        "fonte": "Safra",
+        "data": "2026-09-17"
       }
     ],
     "mineracao": [
+      {
+        "titulo": "Sancionada Política Nacional de Minerais Críticos e Estratégicos",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdXA3SmdDLUZFckM2ZkI5UWlhbk9za1o3dnM0dy1zN2gwczF3cFJzVTNKQ243X2wxV3MteS1DOWpZT00ybWFVRlJCbXJ4UzFpcVlyNHFZcG1KMG5Kd2xmZ1FaLUJXWGw4enJVTjVqMm10ZDAyMzJjclZmcEpTdG8wLVFFWWxNQ0FLRVRwWThoTnA2SHk2dDhDUWhkZEU4T2Y4eVpwcndiQ2YtWDdpSWdMNko3ejhOS2RwcFh1SlRn?oc=5",
+        "fonte": "senado.leg.br",
+        "data": "2026-09-17"
+      },
       {
         "titulo": "Brasil cria política para ampliar produção de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZUdVSWpTVDVJSmI0c242SjBBdldtd1g4MEtyeWhaVlhvTjRtZHA2S3FrNzIwb2lreEp4TkRQeXNsWHNkZVl2VzBfM2h3cjB3Y2o5V1doT1g4WTIzU3NVQlE2N0pRVnJKNHR1ODNBUFFlZlFOZWY2S3hxLW9xdGpQYmhWQ0R6WEdxVFIyeHp3RERscE8wemhEeWNkemZDSTh5aEoteFNHV0FjTG8?oc=5",
@@ -259,19 +265,19 @@ window.NEWS = {
         "data": "2026-09-17"
       },
       {
-        "titulo": "Lula sanciona política para exploração de minerais críticos e estratégicos em território nacional",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxObmk5dG5HbkZXOFJyVWtlLUhsOTlvXzlPQ1NyZk5TTURLdzE5MTFLWEF0WU1FTkhDUWd4cV94Yzg2WVhHQ1Q0OWpVUnh2enFRYXVTREZERlF2MEktV0VRbk5GSjEyV3pFeVJfZTNOQV9wV1RxOXRPa3F6Vnh4N2xWdjliek95SGhsd0ZadmdaRElINlZZaDJrM1hYN1ZHckpBMVM1NUVtM3JxWWtGUVRYMGxlN0hRQXVfbTUyZmk5d3dUQXYxYXdCQkFTVkdCVFI5b2tVVXpEcXliSHNRS3RGaGIweE5VUDTSAfYBQVVfeXFMT2NuMThxYzNmVklEVk5wS3dPb3djVXZNaWp3Wi1kZmZCSXNVam1RQTBtWVlVUEFLVHVvS2lxYWlZMTY4ZFdWQ1ZLeXlxa2t3UW03NUlKWkxna2R5Rm94MFpPVkE0dVBfR0w3VGF3RGQ2NVB2UmNUbnkzMWhaQ1pUYWx6VjFfXzNCY0ZCV2RVc2gyR2h1cy02NXF5eWlhOGh6Y2ROYzhBZThlczNZaXk1Y3BjR3EwNngwY0MzRXlsTE5qN1dSVGNlZFh5bk5SN2NkNmprQVlQQ1FHek8waEJ1UU9vOUNHaG5QYkM3NFhMWDFPU1lxUFlB?oc=5",
-        "fonte": "G1",
-        "data": "2026-09-16"
-      },
-      {
-        "titulo": "Brasil sanciona marco dos minerais críticos em meio à corrida por recursos estratégicos",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeHByaGVDQnBIMmdVVFE4dFZvLWdvejQ4RWxyWDV2TUVSY2JMeVU1b1hRcTMzblpwMVc4VExvbEdyRGQxdEtkcGVsaVVmRGxVcTl5N2pQRUFPVEVsd2dCdExRc1ZEdU15MF9uX1NXbGZYdDBWRG0zRXI3VTJ1c2owT29UMEpDWHJteUZuMXljUlZpMlZoQnY0Z2JNTVpNYjZqdHFBYy12Z1RNeUFEcDNVZWFDanN3N1IwalMwUnJ4eHUya2kzOFZwb1VzWHVpUV82N2doY21RLWxaQVk?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-09-16"
+        "titulo": "Com nova lei, Lula espera investimento em minerais críticos já",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW1qa0Zod1ljLS1sREJ6eGdSSzZZdUdyTzE2T3hkTlNGNC1EU1FLTU84QW9fZXRzcnJHNFlaUjduc3hZQ0pIN0x0T3VQOUk5dXNwN0c0RXJzRDVKRDZYblZEN2ktYmNyZG5JVDU1cGRIRkhDRGI2ODdGdDNVRHZ6c0RDWjViR3NrYTJub2g0dG1FQXduSTdGemxwQU1oNncxSmg5LWdvbE1OaEcyczRoa1djTzczdnd40gHHAUFVX3lxTE5kRTc5dkxyQVk5MTNPWjl3THhDNFgtM2RRLXNWQ3NuUjM4SUZBQU9mV095M09uNUxoZi1WVm9jTlNSMkFsTllvYzRiNGFTZk14dWhLVjQxcENDOW1fQ3hwbHpGanozdWFfb0tsLWdodU9uVHZONHEwVVVUaEZCUlpwd0FrWUc0VmowenN3aUJfX1Z3NXVIT3MwVVdOcFhLQ05penRraWduMFZYZGZZRVlLc0UySEZ6cDFWV3NrTEdhcUFHaHIxczQ?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-09-17"
       }
     ],
     "papel-celulose": [
+      {
+        "titulo": "Daniel Klabin, herdeiro da empresa de papel e celulose, se torna o bilionário mais velho do Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQMVZnS3hUMVhwX2otcjh5T04tZzFsMzhNeUpwcXhlWHFRMHppMWRmYUowUVpCd0g1UTZJZTRkcndsZGNMNmZmVVJtMTVTbnI4WU42YjI4aGVzVVlCenh1UGUtNkxQajd5RVExcDJaMXoxRnZMQWxHTjVWZjU2LW8tMS01THh6eFFadUFHbDBLQ003TnRXSy1VQTBoazkwem1fZkp0Z0hxSkhMZ3lsX0xJSWxra3ZrUzA3UjY4dVpkSTZrMER5UWt4ZnMtckEwNXoxOHZzdDRnOVJtWXNuR2hKYng5eXR2Z9IB9AFBVV95cUxPSVl3aFE5cnNzaEc3aWxObE5WeVRfYTJPR0RWdmJKN0NYdUpTcExQTHZlZ3BPcm5XbDd4dHMyaVpNTWpQaG04U09DTnVnbDllMDRCako4Zy1pTF9EeFdyNmNzRFQ1Tkd1MGRXc3R2VEtIRllFTm10eUEzSWR3Szk1VDluRk9RcFhSbHhQem9wSFBhMmlXZEU5YmFEVlpaX0VkUlhNamN6dnFnWmlBd01mTVNKVlBLa0JmanJZcTd3MDdxNzFSVVRsZDNheWFZZFJWU3BZQmhjSUJPMWl0MndjOF92OC1jcy1OUm1kd3daaHNRQ0lE?oc=5",
+        "fonte": "G1",
+        "data": "2026-09-22"
+      },
       {
         "titulo": "Exportação em alta estimula investimento em portos do Sul",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUIza0djZWNRU0RJc195M3oxTTVmbnpjc2laQmRMaldsYXNxY0RaLUpLOUdvTzE1a2x3QVNldDVCWDB4RmVwRXowamNEUC1ObzBaQkJxenNCSjhaUmxOYnM4V3ZIeDFGaDlTakF3ZkcxWjU0bldJem9nMVRfUGRMOHRSMlltVG9VRnVEUWlsMS02SkpBY1MwNUhkTQ?oc=5",
@@ -281,14 +287,8 @@ window.NEWS = {
       {
         "titulo": "EPE estima potencial de até 13 GW para resposta da demanda no Brasil",
         "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE8wSC03U2pEN3NZcllrVWc2bGVHMFZFeGJCTDdWTjg2UkgxY3dkZE9VOThuT0t6dEFTU2ppRXpReFBaY1NrQlMzaGVSQ2RxMTFUQTlteFdQMUMxdXdwTWxBclYzd3ByVnBaXzNXa0NXcU9YZw?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-09-21"
-      },
-      {
-        "titulo": "Maior fábrica do Brasil vai gerar 14.000 empregos e nova ferrovia de R$ 2,4 bilhões entra no projeto",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNb2kzN2FnV3VRbFdCSVNxYUsxRnFVbnNNSS1ISDI1OFBUNFFpZHRxUlN0dXpXZVJodWhJMWNzZVF6cHBnRVcwZ3UwRlZHOUdkRHhJbGVZcmQ5cjZ5ZXZuUm1rME9UaVdLbTNfcU1CZkNuWEhjMmg1QkhTUEJsV1FZVDROVVFTcEExRXk5QUR3a0stWWQ2aV82TlpGd3JBNkl5M1pzM2hNbFJpMEZJdW9Zbm56UkdvYUR1ZFFwOGZKODlKbi11YTIwdWY0SXZpVnltYkZFd29TN1ZlcWZf?oc=5",
-        "fonte": "jornalcruzeiro.com.br",
-        "data": "2026-09-20"
       }
     ],
     "quimica": [
