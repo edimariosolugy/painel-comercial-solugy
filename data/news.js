@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-24T18:52:17+00:00",
+  "atualizadoEm": "2026-09-24T22:06:30+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -90,16 +90,16 @@ window.NEWS = {
         "data": "2026-09-23"
       },
       {
+        "titulo": "Votorantim Cimentos recebe R$ 75,5 mi do BNDES para IA e IoT",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnNXFIWkRnXzJGUDlQalB0T28zdHZ3U1VSZ2Y3VXZUZ2FvTlRTR1BzSHZwZnZpcXBya2hleXctZ1NZMFU1TUpUZDRraDc3ME8wQWxJRExULWVmYVZ4UFBzMzNlaTVkYVBQYWJGYkR6WEFYVlk?oc=5",
+        "fonte": "IT Forum",
+        "data": "2026-09-24"
+      },
+      {
         "titulo": "Votorantim Cimentos obtém R$ 75,5 milhões junto ao BNDES para modernização das unidades",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHFFRnduTnBlT3pmZDVNbjQxeW1hODZTUXNfZkVHZXpVSGpYOHV0dFpfUFdEdjV0MTBsLUh4Tjd2cnlieHh3VTNGcTdYaFdzdkNFR3NzQmlvY0R1T2VUanBhNEctM1dZS1dMaXZNRzV3dlVTRUxGeHNrb0VLNUZuM0xLS1Bfa2pxZGNIakt5bER1QzVpWktkcHhQN0tjYUE?oc=5",
         "fonte": "diariodocomercio.com.br",
         "data": "2026-09-23"
-      },
-      {
-        "titulo": "Com o aumento vertiginoso dos preços dos materiais, dezenas de empresas de construção em Quang Ngai reclamam de dificuldades.",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbFMwekFxeHd1MnBiWVZ0Z1Y3Qkxob2RydUxxejRZdTRtZWVZczlrWEpoaFhuaEE5bnkzV3podXBLUE1ablpYMnROUVk0cHJvSnJoamR0MmVEMnZ1N3p6ZzNkOXhidC1qeXJLc21GaGk5OEdaQjE5RUhJa2ZEWVNJNWpXYlNHeFZNQkhrUmdDbGRHY1JWQTFjYVRibzQ1UQ?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-09-22"
       }
     ],
     "comercio": [
@@ -116,10 +116,10 @@ window.NEWS = {
         "data": "2026-09-22"
       },
       {
-        "titulo": "Gigante do varejo gera cerca de 3.000 empregos ao abrir 15 lojas para faturar R$ 3,5 bilhões a mais",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFpSRTVfQXNwZjVTcmt0aEk0WTJjcVc1SXJtSVRyNld6VW54VGlZZFJ3aXg1cDJCN0JyQ3BUWnloRDJlTEZ5SmNJSUIzVllhNXlhejliLU9ldHBfTF95YjE4MWFiTUg2b0FfcW5CeFNETnc0R291X1VsbUVsN0dZdkZLUmhZd0pTSzB5MEVJdTlZLWwzUkQ0X1dsOXlMa25kTHg1RzBIN3NSbktFS0xKV3dQeHVzSjNHXzFEMUFjUHc0dFJfVXdydjhHOWxXU3lpN3dOY1RpM3RpRWlzeEdsc2xHUTNaTGFOYi1La2YzSjhxZl9pMjUwNmF3?oc=5",
-        "fonte": "jornalcruzeiro.com.br",
-        "data": "2026-09-22"
+        "titulo": "Gigante do varejo brasileiro prepara investimento de R$ 1,5 bilhão e 15 novas lojas",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1djelMweWQ1UDVIWVVyYkZFN3R4MF9oelg5cGQ4Ymt2SWw1eHVucWNSdDhuWUJkVUJ1RTk0UlcxV19JZ1FyUHo4ZU0zb0FNVEV3SXdMc2ZDeXA1c2VoVGFOTW5idWVteEU3aXdURzJnNFZ2R1ZkblBuM3hfam01WWRONDk0cG9YdlNNQ0xRVmtNOTZwWGdPWTN1WDBaZjBPekRCNjJoNnhhUFR4dzJNVnlwejRWbDTSAb8BQVVfeXFMTW1aRmFKT0xRbW5FNGtVbTlYRGpNUlNPM1ZFejNDYXJBS0JpdFdNaDlZbHF0Uk1LREstOVQ4aXZPSVB2UGFaLUZ1c3BteTV6RExsWkdPSEEzOF9neTRfbV8xQy1FbDRFckNlV0FMMlVvWkVKeWZzZ3g3R252ckRla2hiRUw3ekZFXzF0WndOQm5uWExnNDdzWFNiZmJ2c3RzdWN4Qkd4RldUQTdkcHRTWHYtQklFcFptM3NwZXFJRzQ?oc=5",
+        "fonte": "A TARDE",
+        "data": "2026-09-24"
       }
     ],
     "energia-gt": [
@@ -156,10 +156,10 @@ window.NEWS = {
         "data": "2026-09-22"
       },
       {
-        "titulo": "Novo governo terá desafio de recuperar planejamento do setor de energia e deter escalada de preços",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPV0RSSFFBbjhSOEFyaldaQVJfam5RRGFVd0tXUms3QXBhQ1ZGZFlaTl82V3JNQVVVY3N2U0szQ3JsOHpKRUh2a25QVEw1X0lxVHJMRUd6bnZqYWlOeGVhal90eG9jSlpvS0hpd09hQW5OTFFaYnhKbzFkYzhoZ3lzVHFxRnptRTRZWllkU1dfV3NrX29aZlNXdmxTVTJ4djlSZUdBUGZxZWJsZk4zemVITjlRZFp4cm1YZ0NjNW9ydUFJUWVuM3NDVnlBMWtZc3ItUjJZSVF2NDFmak5HeDgyckNR?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-09-23"
+        "titulo": "Baterias e renováveis lideram potencial de investimento em energia no México, diz estudo",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOcEEyU1A3YU5EbFNMQXcyTFhXN2ZCTkZubl9uanAyYXhzZ2o4NW5MMTg2X3FBTHkxcGtEd1p3MHRqcVJpWmRxLWpvMU5YdnZvemx4NEp0X2tTcFZ0OTEwMTJTQVRGdFFiVi12V09YRlFlV1pXb1NHSVhwVURHRnlvRjNJajNabmswT3VlanZMM3hCeXJMYXpGTEItNnAwSkpCVEtzWmVfcElReTZkc2VVZ3U0Ql9pN3E2elRObjA4V0F4U3hkQVUxeVNVWHFiRUZEZkHSAeYBQVVfeXFMT0lya19ldDlWMjBLMWEyeTVCQmhXWGNqT1MzV0N5WXVUNndqYzFqUVktTk9xNG5CeE9xQkZnT0lQb3VfWGZIRDAwSE0tcTl2cUlCbGh1NlJCUy1LeU9uZDVhNjYxUUZBdDVfX2xnSTJmQzNXMmxTaTNaTEVHc2VlcHJwOU1zNmo1ZG9OWGRIY0laa0VtaVFuTFlYcXd6cFAtbEFfRTlxdVJqSGcyWmRkTU9CN20wYjRkdWZmM2c4SmtzRFVTLUZBNTFVS0V1QXM1eEk4TkdtU25rdVNxRjAySnVNWmkxQUE?oc=5",
+        "fonte": "Bloomberg Línea Brasil",
+        "data": "2026-09-22"
       }
     ],
     "epc": [
@@ -195,7 +195,7 @@ window.NEWS = {
       {
         "titulo": "Em seu centenário, Amaral Gurgel segue celebrado por investir em uma indústria totalmente nacional",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd2tDczVDNi14dnB3ZUh1cmFjd2xpUTZYcjYteUkyLXY2a0VLWUNQSVN4LWxWS0lKUHZpX1FqczZuMEljMGhZYWlMX0doOVhEb1RZZ1hsZTZ2T0lfVkVjTjQyWk9jenNrVVF1N3dpMElPVWtaZDBldHR6cHRfekc2Wl9HdWVUMEJSelVIZ1NNRUVham1GYVRIR2JXZ3Vla3pWRS1sT3RyZmJrMXdSWVl5UTVDTHd0UXoybFZOZTlxb2dYWGpRRzRkVEgtZmhCWkhLRU5vQmROMmIwWWc?oc=5",
-        "fonte": "al.sp.gov.br",
+        "fonte": "Assembleia Legislativa do Estado de São Paulo",
         "data": "2026-09-18"
       },
       {
@@ -247,15 +247,21 @@ window.NEWS = {
       {
         "titulo": "Bolsas hoje: produção industrial nos EUA no radar",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQ1VzNUhfNDFudzk0enBBNzZJTHlvR3RVVXVjUjRlQk52ZFJaMkJacGdIYmxReUY5SE5iWnAwRzUzOXJjek1VVlFmbkRWQWlqTWZCQmlGYTZMcHJLYzJ1YzVQS2ExOXFHTlFyU1F0NWt4MnFrbTVCanJJbTBtN0o4bk5yem0zVWh2UUYwYXFVVjZHYU8xQ0E?oc=5",
-        "fonte": "conteudos.xpi.com.br",
+        "fonte": "XP Investimentos",
         "data": "2026-09-18"
       }
     ],
     "mineracao": [
       {
+        "titulo": "Terras raras: a volatilidade com a lei de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcWNvTEhXX2lmMFRTdWJvVy1Qb0lWdGxNeTBtZXhJZU5xaGQ2S2NrZERWRC1ZYkR6dDEzdWRVT3ktNk1PbFZuemlDWlc3WnVqNDhKTnduWGticTZfTTBULXFPSXlVMndWR1BqMC00MXo2dDZwSDRxYXZzc0NfYkZJWnJzS21ZWEFHeFNldW1tRWVnejEzMzNTQlB3?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-09-24"
+      },
+      {
         "titulo": "Mineradora dos EUA que explora terras raras no Brasil vê eleições como ‘risco’",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWZXVEY3VE5tZHIzNjRmbTlQdzcwUWNNR0F1X19nenBiRmh1bko0OUUwZ0N5b3gzNTVmY2hlcld0MVBiRVk3eWlsYkN5aGx3cXJIWHVjaV9VdU5TNXZQcFFESUI0QnVxOS1DbjJxVXRZX0lENjl3ZzFOMzA4dDBEeGFfZ3pHYVpiZW5YZmtBSXFkbjNCalRYWnR3?oc=5",
-        "fonte": "reporterbrasil.org.br",
+        "fonte": "Repórter Brasil",
         "data": "2026-09-23"
       },
       {
@@ -263,12 +269,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93dE13aG5ZQnI3TThmLUo4bUZBTU9yR0IwbWgyODRheGowSWlTdUpWVnhKVVZuc0NSaVc1QVloanhleUd0WDBqUUctaVEzUFFmdUpqY093OFpOV3ZJQXJjOHpXdzJlSWdxcmZV?oc=5",
         "fonte": "mattosfilho.com.br",
         "data": "2026-09-18"
-      },
-      {
-        "titulo": "Setor mineral fatura R$ 298 bi, mas 'cultura do medo' afasta investimentos, dizem especialistas",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPbzFuZndNY1VwSnJHLUprN09KT3RBdExWNndFSVlyOEJ1eFFUMkczTlgzWmZMZHA2dGdsM1dCTXhHSWZhZFFHSl9TUDRXQ0FNYXRNTUFTZXJ0T0swNmhIOTloVEZOdWktNDdyWlVPM2hDOGk5bS1ZN2VWU0FEWDc5R0VmSjdTSEgzLXBkTDFaRVhfRzQxc0owMkpnVjI0MGh4SVZLaWtDRUp5RHU3TGhIM1RLcGl5aVFpOW03WGtkcGtjWVBDb1ByQTVfVldmZ3ZHZzlPajJpVW5xM1V0bm8wVG1URGE?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-09-22"
       }
     ],
     "papel-celulose": [
@@ -308,7 +308,7 @@ window.NEWS = {
       {
         "titulo": "Setor de saneamento prevê 31 projetos com R$ 66,3 bi de investimentos",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObFlhUVNVZEtZODlTTUNSZHhZRlFhVjRvUF9nWjd3bHV2SUNUaVNmQVVEVjdMOFFpNmp4dm9IZHRjVk96Y0Jhb0ZlcWo2eWFlSFpSVWxIMmNiLUpNUEU0ZnZXUmctdDYydHdUeERydG96b3BiMkVqbzV2T2Vxd0lmR2ljWE83OHo0SmVsWGN0eV9yeGFNMWlRV2VFaUNnRFdfMGJKN2NYUTJ5cTZ0a0tjWUZRN2lEd9IBuwFBVV95cUxNSWs4MDg3dTJJLXRmTzZPdERTenBoaUJEbFVqeXBPcGFwdmZFRUZDN0ZQS3lzV3NjUVF4LXdobWRhcHk0Y0pfZENqLUFuS0F6djNIdWFFRUJ0TlA1aHlnY0dQNE9DdGkyRkk3cFFlV3c2SjRFOXVoS3JUR3FfelBhYjJXblVfWE9MbXFwU3RyQnVxS2ZQNmJLdVQ1QXNMWU42LXZITjEzbmFsUUp2c0lLVUt6Mzl3Y0pNWlUw?oc=5",
-        "fonte": "bemparana.com.br",
+        "fonte": "Bem Paraná",
         "data": "2026-09-20"
       }
     ],
@@ -323,7 +323,7 @@ window.NEWS = {
       {
         "titulo": "Nova fábrica na Grande Curitiba vai gerar 2 mil empregos",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSXNaWGlTdXAyODVZOGprXzhhZnhCd0lmMzhGSWs4bTlfY0RYVzZmc2RUMHVaUVpMYnV4RDJYanAwbTNpMUVvN2o0RURGZE1GTFctNTNCczlsTGFqUEZHalpodWI4cmhESUtDU2RGeEJaLXpKZGhtYUpySWRJWXU1ZDR2aTc0NUNOWlROMmtnRy1yWlJoZlN1UWpBLW1VTmtFa1JIaGdiN01GZ9IBqgFBVV95cUxOSXNaWGlTdXAyODVZOGprXzhhZnhCd0lmMzhGSWs4bTlfY0RYVzZmc2RUMHVaUVpMYnV4RDJYanAwbTNpMUVvN2o0RURGZE1GTFctNTNCczlsTGFqUEZHalpodWI4cmhESUtDU2RGeEJaLXpKZGhtYUpySWRJWXU1ZDR2aTc0NUNOWlROMmtnRy1yWlJoZlN1UWpBLW1VTmtFa1JIaGdiN01GZw?oc=5",
-        "fonte": "bemparana.com.br",
+        "fonte": "Bem Paraná",
         "data": "2026-09-21"
       }
     ]
