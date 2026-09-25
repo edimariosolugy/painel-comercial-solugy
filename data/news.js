@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-25T14:29:01+00:00",
+  "atualizadoEm": "2026-09-25T19:10:27+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,17 +16,17 @@ window.NEWS = {
         "data": "2026-09-22"
       },
       {
-        "titulo": "AGRI11: invista no agronegócio pela Bolsa",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSExrVDlBdEJBZDhJNldUX3JCcjJoM0tlZzhodURtNEU0N3ZNMGNuUzRIRUFXcG1JLWhUV2RCb2h5RGdTRmpQNlhVZkZ6QmdoWm9xTUU3a0FsYjNEYlp3OE55bGZRUHRDSEktYWRaYU9JeUlCdkNTOThPTU1CS0ZzX1dWb1RPcGVWZmdNekRvSjJLRTA?oc=5",
-        "fonte": "Banco Inter",
-        "data": "2026-09-18"
+        "titulo": "Uma das maiores empresas do agronegócio brasileiro vai investir R$ 205 milhões para ampliar a produção, criar empregos e crescer ainda mais",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNajE1dURUZzFLN3F4S3FvU1VDU1poYXoyQTgwd2hvRnBrd0p5WFEzR3pjWjdXaGJiY0NLVUp6RExUUTd1eHVQTUNVMzZlaVcyTVdkUXYtZC1HWVdPZzVoOFRyWWN1d0dRcTliR3E4aEpIRFg1MGZ4NEJRekVpQk1ZbHJRbkJaTXpnM2xEemJWVGlNS290eUZhdnR4NG9ScmFtMFNjRTU4NU81Z0pfVzlRQXFHUHVmenR5YjZBdENuRjJRNFBPNmozbmlkaFVUMVZ1aFR2aWVpd084czZxb3Y0WUhMNk9PZVNpdTA4UnBOZGZJTHpsME95WmdpNWxKYU9aUndR?oc=5",
+        "fonte": "CompreRural",
+        "data": "2026-09-23"
       }
     ],
     "alimentos-bebidas": [
       {
         "titulo": "Programa Conhecendo a Indústria leva técnicos e consultores a fábricas de alimentos em Goiás",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNeVpEaUVNX1I4dUF5SXZkSUI1R2p0ZjVFblBHM3dIUmpiWmhmUTJtZFdFQTAtNlJ4RGlJZEV0bV9SV1p2TWFjY1BsbXVxdmx4VHNxN2ZHR2RSaGtsdWZzQlV2LWR3NHJqQUFFM0RvbHFjUjU5bzJTckNtVGs5UTR6V25hUVNfZGlYZFNpTlZqVDhubkhtTUdMeUZmSDBtSzhINTktVmd2SjVodEJ3bU91dUFnNTdna1JIZTFhM01pNXZwa1FWTm1Hc1JQbm9TblVXNXVKc2ltLVl0dHAwcjBLaFc5YWFtYUVRR3VraG40dw?oc=5",
-        "fonte": "Agência de Notícias da Indústria",
+        "fonte": "noticias.portaldaindustria.com.br",
         "data": "2026-09-21"
       },
       {
@@ -70,16 +70,16 @@ window.NEWS = {
         "data": "2026-09-25"
       },
       {
+        "titulo": "Etanol de milho deve crescer 17% em 2026/27 e amplia interesse por usinas flex, mas conversão exige integração de processos",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPSGRSRXYtSHVFd2l5VmdJVjhyOFFjRFZnUjNUTHFGSTZUUDhoUWw5UkxNUmRqc0h5ek1walU3d3NnUGlVLWlPYUZKR0J3RlpjZGxZYkkwMGNVd1pIQnhiWDh6UkVOcHZwcUx3UjhDWFpTQi1nYUk3d05mYzRvRHNoOTU4dmV4V2lkMEtCZ0tDYTlabmU4X2lTT0VraEVGZW1MakdZTnRvcFNfUDRIenRKUEhOYjFVZmpnUTdGUXFYaGJvaXdmMllhbTNfNHhqUHMyVXN2SThaWG9QS0Z0WnZrcw?oc=5",
+        "fonte": "Visão Agro",
+        "data": "2026-09-25"
+      },
+      {
         "titulo": "Líderes da bioenergia debaterão margens, investimentos e próximas decisões no Vision Tech Summit",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFdaUE1aY28ybmJtZEVYbC1lcExBOW9idGNUZVNoNXdsVHFCTnNUYlZZRlR6S211R2IyN2hVUGxJU3ZQbTV3bUtubU5CLVRjbHVpNzZVQXBpdTY1X3dOTFJHVG5EQ3NEWFEzaEQwUUkxbW9YNU5WVkVaYkEtaUN2ZVZCbnVHcGl3NGh0SzlKSFc2QjV1aDhxTEliVkFtSDVSZFZVR0tiVWpFU0J1TXdfZFJETXp6cnhtbUUyTmZ3?oc=5",
         "fonte": "Visão Agro",
         "data": "2026-09-18"
-      },
-      {
-        "titulo": "MS tem quase R$ 90 bilhões em investimentos previstos",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM192SEUtTVlLN0VBNXhGTVpkZlpyazU5bVVubTdtUWdiNjlCaWJlYkJTbDFhczN5cWNqWkpLZ0x1djNsTnBVWWNoZzJPRXJjaG5FQWVLQXltZlBDT1o3dERuYkRJaTVFMThvTVJXUHk5MG1XLUluTEVCNFJNVE42aERPMXNiNFJWVTBTOTllV1dqNmdQaFZFMg?oc=5",
-        "fonte": "msnews.com.br",
-        "data": "2026-09-22"
       }
     ],
     "cimento": [
@@ -106,7 +106,7 @@ window.NEWS = {
       {
         "titulo": "Gigante do varejo brasileiro prepara investimento de R$ 1,5 bilhão e 15 novas lojas",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1djelMweWQ1UDVIWVVyYkZFN3R4MF9oelg5cGQ4Ymt2SWw1eHVucWNSdDhuWUJkVUJ1RTk0UlcxV19JZ1FyUHo4ZU0zb0FNVEV3SXdMc2ZDeXA1c2VoVGFOTW5idWVteEU3aXdURzJnNFZ2R1ZkblBuM3hfam01WWRONDk0cG9YdlNNQ0xRVmtNOTZwWGdPWTN1WDBaZjBPekRCNjJoNnhhUFR4dzJNVnlwejRWbDTSAb8BQVVfeXFMTW1aRmFKT0xRbW5FNGtVbTlYRGpNUlNPM1ZFejNDYXJBS0JpdFdNaDlZbHF0Uk1LREstOVQ4aXZPSVB2UGFaLUZ1c3BteTV6RExsWkdPSEEzOF9neTRfbV8xQy1FbDRFckNlV0FMMlVvWkVKeWZzZ3g3R252ckRla2hiRUw3ekZFXzF0WndOQm5uWExnNDdzWFNiZmJ2c3RzdWN4Qkd4RldUQTdkcHRTWHYtQklFcFptM3NwZXFJRzQ?oc=5",
-        "fonte": "A TARDE",
+        "fonte": "atarde.com.br",
         "data": "2026-09-24"
       },
       {
@@ -167,7 +167,7 @@ window.NEWS = {
       {
         "titulo": "BNDES deve liberar R$ 2,6 bilhões ao canal farma em 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3Y2bUxxZzhNZjJTUDFGYXI5M2Vnc3RCRDhmMlBhckFWSVZ1UXlxWUZvT2FYWUVnS2xaSDZlYllacS1DNktnSkFyNWdoV3ZCNHV0cHhiYnlXa2xGMzVQclZXU1FJOUZnWWJGbTdrdkFSVHdfUkVxQTQ1MGNrd244MTZoOV9yd3NYcGd5cWZNLWJpYmJzQ3c?oc=5",
-        "fonte": "panoramafarmaceutico.com.br",
+        "fonte": "Panorama Farmacêutico",
         "data": "2026-09-24"
       },
       {
@@ -179,22 +179,16 @@ window.NEWS = {
       {
         "titulo": "Campanha de Lula quer tornar SUS “inteligente e conectado”",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFNsdlFmaHdJUE8yVkxHdHdBVlk0Z0RJbUdrYjV4WUhIR2xGQlpEY0NqazgtOTJmdkVmSkpEOW1tVVhRUlkyQXBOcnA5cWcyUHc2dkE3SmpUazFlVDZfZkJEWFhuSWQ5aG10OGVnQjBUY1BFQzVYTGxQQzN6MzdpZTJvdWxGaFd1Z3RuSkFtNUloZURpeFREcFpCUEtBRkxjS05EVjlOS3g?oc=5",
-        "fonte": "Poder360",
+        "fonte": "poder360.com.br",
         "data": "2026-09-24"
       }
     ],
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Em seu centenário, Amaral Gurgel segue celebrado por investir em uma indústria totalmente nacional",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd2tDczVDNi14dnB3ZUh1cmFjd2xpUTZYcjYteUkyLXY2a0VLWUNQSVN4LWxWS0lKUHZpX1FqczZuMEljMGhZYWlMX0doOVhEb1RZZ1hsZTZ2T0lfVkVjTjQyWk9jenNrVVF1N3dpMElPVWtaZDBldHR6cHRfekc2Wl9HdWVUMEJSelVIZ1NNRUVham1GYVRIR2JXZ3Vla3pWRS1sT3RyZmJrMXdSWVl5UTVDTHd0UXoybFZOZTlxb2dYWGpRRzRkVEgtZmhCWkhLRU5vQmROMmIwWWc?oc=5",
-        "fonte": "Assembleia Legislativa do Estado de São Paulo",
-        "data": "2026-09-18"
-      },
-      {
         "titulo": "Prefeitura Municipal de Pouso Alegre",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE4xMVZfLUtDa28xV3FONm5ONWNWQzdwMmhlZG9ROWR2cXh6bFdKZndTMi1fRHNBaW93RTQ2a3psTkdvNmVzUHB6R0kxbGJXRFRoeVN2Q0lpQzJ3UEp6OFFJWGFxVE4?oc=5",
-        "fonte": "Prefeitura de Pouso Alegre",
+        "fonte": "Prefeitura Municipal de Pouso Alegre",
         "data": "2026-09-23"
       },
       {
@@ -202,6 +196,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWZFUkloNVd5cFBMZmZ1bUZtQ3hhS0xfRERLXzY0MDlIZURxWWtJa3U2ZFdxZ08wcW1wdzJnSHl4Rm5yMF9BUDZQejlGRmhMbGVOS21vOEtNYUZUTWNTd0x6am1sbE5zNmNOWHc1WDFXMEdDY1ZweFZ5QWlqYUVNZkx4UW5xbjRCQU1HZ1hPVG5YQU5CQUdyMV9ZNA?oc=5",
         "fonte": "SMABC",
         "data": "2026-09-24"
+      },
+      {
+        "titulo": "Gigante dos carros anuncia investimento de R$ 2 bilhões, fortalece fábrica com 5 mil funcionários e confirma novo elétrico no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSzlEWEVjc01uUWF4bjRLdUY5TUJ1NjRkNVdZRGYwa1lIMkdMOTJwclNXVVp0aC1nMUU2bUg4VHBBSlN2eTF3cnBaZ2ZSM2hBV0sxN2t0MkhGenBNcU4ySmVqRUxmXzZhV2cwSHFOb3Q1bzlzaUJkb2xnLW9wYklzdDV0NFJRcVRPSUNFSjVFcVJLcXVEY2YzUjBxLXAyaWhCMVByS0lfaDlhWWtKUE1rZ1FsLW1adnlKMVpBZ1dzOEc3aVM3bzBqMWJmUGhuS2VUV1VKVFc3SWVqamFkY2lDc1NpTlBUeFF3dGpvNzdrT0t4ZVla?oc=5",
+        "fonte": "abcmais.com",
+        "data": "2026-09-20"
       }
     ],
     "logistica": [
@@ -212,16 +212,16 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
-        "titulo": "Quais profissões estão ganhando espaço com os novos investimentos no Nordeste?",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3R3g0VjdHMUlTYkRjYXZOdVFfRVN2OFEyZHV5MHFmR1FhWUZjX0RCeFRuZzNKZFpfZFpaY2wtXzVkMjVtNGlRMWc3Nk15ZGljQVFGeFc5alpMS0I0ZFZXV2VUeEpkaDJFbEln?oc=5",
-        "fonte": "Portal NE9",
-        "data": "2026-09-25"
-      },
-      {
         "titulo": "Ferrovia de R$ 14,8 bilhões e 319 km avança em Santa Catarina, terá 49 pontes, 14 túneis e pode reduzir em até 68 por cento o custo do transporte",
         "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVGppV1RkTFM2MFBzazctRmhXMU1SMm9ReGRkRy1zR1I2ZlMtTmpIQms3NDdRRHFYa1puV1hPOVE4SHJadmhJdVE4Y0xiSWtYZlpoNVdjVm40SzZtbjRIamE4NWFUdE5vc3J3RVJsTF9zR0tTRnRDbXBobjE4ZWJxV0VydDEwMXlTcHpFNWJnNUhDMlV1eVA1YV9yWHRQX2JsX1RuT2VsWHl3N1hOLWhvdHZWdE02U2dJWmRNQXlGdFN0RVN4SlFRZHJYSFgtY2Z6ZWV0UVBoZlRDUHdlVC02YjVoekxkdW9QeXlPbDM1ZUtRUUJWeXVlWUQ4bmtkNENIWUhnRWZjdU02MFJFcXR0Z1FZYjRaZDl4Umc?oc=5",
         "fonte": "Brasil 247",
         "data": "2026-09-24"
+      },
+      {
+        "titulo": "Quais profissões estão ganhando espaço com os novos investimentos no Nordeste?",
+        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA3R3g0VjdHMUlTYkRjYXZOdVFfRVN2OFEyZHV5MHFmR1FhWUZjX0RCeFRuZzNKZFpfZFpaY2wtXzVkMjVtNGlRMWc3Nk15ZGljQVFGeFc5alpMS0I0ZFZXV2VUeEpkaDJFbEln?oc=5",
+        "fonte": "Portal NE9",
+        "data": "2026-09-25"
       }
     ],
     "maquinas": [
@@ -258,10 +258,10 @@ window.NEWS = {
         "data": "2026-09-23"
       },
       {
-        "titulo": "Política Nacional de Minerais Críticos e Estratégicos entra em vigor: perguntas e respostas",
-        "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE93dE13aG5ZQnI3TThmLUo4bUZBTU9yR0IwbWgyODRheGowSWlTdUpWVnhKVVZuc0NSaVc1QVloanhleUd0WDBqUUctaVEzUFFmdUpqY093OFpOV3ZJQXJjOHpXdzJlSWdxcmZV?oc=5",
-        "fonte": "mattosfilho.com.br",
-        "data": "2026-09-18"
+        "titulo": "Nova política para minerais críticos cria fundo de até R$ 2 bilhões da União",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQQS1RSHBERVdTdzZWX0VzcE9yRmg4VzZkOHc0VW9GeUkyZUNIcktvR3BiSHZjMzJSVG5NNXpmaFZXYjZXd2RWbEZZVWh2eXVvdk5ObmZiTXBPbnFWTnVzZnA2UV9EQS04eGh0ZUh2ZDB0NnRrck5jbEFBNlhYT2x0SS1vaDlmVUNIMlVfX1Z0ck9wbzVsQ3FuVl9fT1BNalJTd08zcmtrTUdNRE5obFpB0gG0AUFVX3lxTFB0RTZKS1FfU0NsWU5MR3FEYkhYc3AtODByR1JxbzF3ZDhvMGNRMmYyQ0JhZGh1UkdHU3RRcHQwVlk2MUUtYlUxbTcteXpSbTJLOUtSYmtwS2FOMV9OQWhFTy1icmRxOUpxNDBqNjY1dU82SmxLNGZjZXltVXlEN3RMV2tITHBkd2FmanhTR0ZZSlRxdjdPNTVpcml1UUdUX01wcm9JMkRGeWdPcktKUHF6MzZOVg?oc=5",
+        "fonte": "Brasil 61",
+        "data": "2026-09-20"
       }
     ],
     "papel-celulose": [
@@ -285,6 +285,12 @@ window.NEWS = {
       }
     ],
     "quimica": [
+      {
+        "titulo": "Mercado de reboques tubulares para hidrogênio deve crescer até 2035, impulsionado pela logística de estações de abastecimento",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNMnVYVXFkUzgtRUlEbGhoZ0VUNFd3NDBsM2RBb3BqZWpleklNdVdNRENCNjFCTnVpb1pva2tFdzN4aXQtb3hTZFd5OXQtS0x3N09uZ2NrM3BkR3FZUE1PY0s3Z2RZMmRWUlh3OExNSWVCUzdydUF6R3FEaWFmMFV4d3ZHVWVEZkpLT2dQTUM3SXNMMTdWYkNrQkRBbHh3eFRsT0NmODVabm95Q1phVDdBUW1aTkd0aEdNM2N4YU83Z2EyNlIwTDhVOVV4UGZQWHJE?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-09-25"
+      },
       {
         "titulo": "Mercado de Filtros de Separação de Gases por Membrana: previsão até 2035 com recuperação de hidrogênio e upgrading de biogás",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaWdGTnpLNHg1eGNaSXpQcFg0NTRqRHNKTnJXeE5TZ1NKaGNTVUdBRm9BRENPcEtCX3gteExoS3FMOEZiSV85bGZ4WWtmZGh2eFpnM2UyRU1kaEZLeTlGb3NacmRkdlNtWlM0LWs5TWFtUFAxb05NSFppTXpFM0tsUzU4dXF5RS1YQVozSUdJSDVxWkxNc05yb25ob3FGT0U5UWx1OWJpczR3aHBmVkdqUEJWWVhsUHlWb0pESGVadHVTQ2pPNUh4VU9nSXY2bjJ6SnFBZUhVRG1FSTA?oc=5",
