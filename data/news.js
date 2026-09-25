@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-24T22:06:30+00:00",
+  "atualizadoEm": "2026-09-25T01:14:34+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-09-23"
       },
       {
-        "titulo": "JBS leva proteína em alimentos e bebidas a novas categorias",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYXZYanlHMGU3WkdzRWZiR2JRbm00azBobEhjbGhGb2k3bVN1dTc0ak9ldXhZN3JTal9ZYmNYYXEtOHNEdGY1WG9OdjJsVGlWT3Jvci1BZkZ2cXVrUm0zc05VZHhDR2Ytc01PRENxSzZwSmFrOHB0WldmQzVubFZrV190WVlxRzFHRzQ0anR1bTdXbEk?oc=5",
-        "fonte": "BHB FOOD",
-        "data": "2026-09-22"
+        "titulo": "Prêmio Melhores dos Negócios Internacionais reconhece empresas que levam Brasil ao mundo",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3A1ZEswX3k4cmgxTlpvallBbGREVC1NY01LekFKRXA2Rk4yUDFpWkE4SmlRUi1YVFZCTVczbGtnUnhQWHd6ZEFiMWhwd0dVSjVCa3FUajE3dXBsVXF5QnVEMmZRa0VRZTFvZmF0TFZ2ZW9Ndk0yZHlPVUpXS1RIRmt2SHp3Tk04TDhZNWwzR21kR09LMG5TcEc3c2MyS1JDaGJjRGxpNnQyeWFJSjFVVTl4eGZZVEE?oc=5",
+        "fonte": "Exame",
+        "data": "2026-09-23"
       }
     ],
     "automotivo": [
@@ -52,7 +52,7 @@ window.NEWS = {
       {
         "titulo": "Montadoras chinesas ampliam presença no mercado automotivo brasileiro em 2026",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUEVFN1NGRm81U0k3RWU0OUhOcGZGSHBIUUljQmdGbENsc2FSaXI1dXNzdFlBaVEySGY4TGxNa3dVOGhDS2hHajVGY240QWtwVFp2UmszOE5nbDg4VFd1NUVhcGZSeGhVX1g1Qkx6Q3lLd1VkVkVVZllYR0h3dEd4ZUpuT2I0REtlTkR4TTJ0N2sycFd5cDdsLXRKeFVNeEozakQySnln?oc=5",
-        "fonte": "diariodocomercio.com.br",
+        "fonte": "Diário do Comércio",
         "data": "2026-09-21"
       },
       {
@@ -64,6 +64,12 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
+        "titulo": "StoneX planeja etanol de milho na entressafra da cana em SP e no MT; investimento pode chegar a R$ 1,2 bi",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPdFJDWUpzMmE1a1hVc2xvaTZDNUdxTmJ0MHVGOWx2eXRkQXFWYnlzWTU2Wl9aTUthOGw0elJLUnBmTGFJRksyMzRUbFJnTkxETnlBdUJhME9QNmlORlNiRTA1T2FUUzlJa1lGaV9EWWR3bTJDT3FTODcwbUs5Y2pFRlp0cUlLZ21mX25wQi1HaHN6LXd4WHJYVlprM3N1dUdCaEN5bEY3dUluUjFIRk9Sb1NGMVRYY2NyZXJjQkpMWXFOaGFLaHNCc0F2dUNGVEpaNlNzQ1Rwbm1Vc0djVHJKYmw1bml0VldxYVFNMHdwZEtDNVJtVHc?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-09-24"
+      },
+      {
         "titulo": "Líderes da bioenergia debaterão margens, investimentos e próximas decisões no Vision Tech Summit",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFdaUE1aY28ybmJtZEVYbC1lcExBOW9idGNUZVNoNXdsVHFCTnNUYlZZRlR6S211R2IyN2hVUGxJU3ZQbTV3bUtubU5CLVRjbHVpNzZVQXBpdTY1X3dOTFJHVG5EQ3NEWFEzaEQwUUkxbW9YNU5WVkVaYkEtaUN2ZVZCbnVHcGl3NGh0SzlKSFc2QjV1aDhxTEliVkFtSDVSZFZVR0tiVWpFU0J1TXdfZFJETXp6cnhtbUUyTmZ3?oc=5",
         "fonte": "Visão Agro",
@@ -73,12 +79,6 @@ window.NEWS = {
         "titulo": "Biocombustível: EUA investem em expansão global, Brasil subsidia fósseis",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeWkyNFU3X2JUWkNzRFI3cGp0MF9FdzZnTkFHbGg2NHR4NnFFVmtnZU4xQzZ5OUJGNkRLR1VJNGd4bG9tRGJlMXZLejZBYjJIZzYzeFhMclY3dWpSNXI3c0dKazFKMXJwNHNpQzc5cUNjMl9tdGdmQkdhcWRBVjlQam41dExlc20zWmpQYnUtczF5OGktSzduanY0NzBTSXdvQUxkMHRqUQ?oc=5",
         "fonte": "JornalCana",
-        "data": "2026-09-22"
-      },
-      {
-        "titulo": "MS tem quase R$ 90 bilhões em investimentos previstos",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNM192SEUtTVlLN0VBNXhGTVpkZlpyazU5bVVubTdtUWdiNjlCaWJlYkJTbDFhczN5cWNqWkpLZ0x1djNsTnBVWWNoZzJPRXJjaG5FQWVLQXltZlBDT1o3dERuYkRJaTVFMThvTVJXUHk5MG1XLUluTEVCNFJNVE42aERPMXNiNFJWVTBTOTllV1dqNmdQaFZFMg?oc=5",
-        "fonte": "msnews.com.br",
         "data": "2026-09-22"
       }
     ],
@@ -98,7 +98,7 @@ window.NEWS = {
       {
         "titulo": "Votorantim Cimentos obtém R$ 75,5 milhões junto ao BNDES para modernização das unidades",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcHFFRnduTnBlT3pmZDVNbjQxeW1hODZTUXNfZkVHZXpVSGpYOHV0dFpfUFdEdjV0MTBsLUh4Tjd2cnlieHh3VTNGcTdYaFdzdkNFR3NzQmlvY0R1T2VUanBhNEctM1dZS1dMaXZNRzV3dlVTRUxGeHNrb0VLNUZuM0xLS1Bfa2pxZGNIakt5bER1QzVpWktkcHhQN0tjYUE?oc=5",
-        "fonte": "diariodocomercio.com.br",
+        "fonte": "Diário do Comércio",
         "data": "2026-09-23"
       }
     ],
@@ -172,12 +172,6 @@ window.NEWS = {
     ],
     "farma": [
       {
-        "titulo": "Lula associa expansão da indústria farmacêutica à força do SUS",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdHNCUXI3X0FRY0NnZlc2bUlQTGpQNTIwZ1NTdVl6RHhxcmIxUEFUN3ZveVBsWG1tYzFDSlU0NXhOYTc5UF9IcDcwREpwVHZVR0dpSS1aRHd0RUxEazFpSXJDSDNxdmd1MHFJbG1WZWF2WjhON0NCSVQ1QS04WXhncmFXbmt0V2J1OTZ2NlFCZHZxc2JPTnZmYk16alBmYTA?oc=5",
-        "fonte": "vermelho.org.br",
-        "data": "2026-09-17"
-      },
-      {
         "titulo": "BNDES deve liberar R$ 2,6 bilhões ao canal farma em 2026",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa3Y2bUxxZzhNZjJTUDFGYXI5M2Vnc3RCRDhmMlBhckFWSVZ1UXlxWUZvT2FYWUVnS2xaSDZlYllacS1DNktnSkFyNWdoV3ZCNHV0cHhiYnlXa2xGMzVQclZXU1FJOUZnWWJGbTdrdkFSVHdfUkVxQTQ1MGNrd244MTZoOV9yd3NYcGd5cWZNLWJpYmJzQ3c?oc=5",
         "fonte": "Panorama Farmacêutico",
@@ -187,7 +181,13 @@ window.NEWS = {
         "titulo": "Projeto farmacêutico que pode superar R$ 100 milhões será implantado em Tijucas",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNR1R3TjZQRFZoVWxadTNlZy1ydTJUS3IxaHBIQ2ttTTdpWEtxUTc2dm9XQzlVQ1NUMnE2N2JmSmEzV3VqYWlKd3ZBZW15QmJZWVhveE1ER2I0RmRlcnMyaDVUcjM0aTRkVUwxOVdWanY0bkxyOTZ3Q2JPSnBPOEpXbGt2VFZHMDNWeDFocXNxNHVZWWtRZml1UURCOEJmbExpX1pEOVB1V2Y0OGFZZHRqd1FhMjh5UHBhN3pmYUROTQ?oc=5",
         "fonte": "noticenter.com.br",
-        "data": "2026-09-18"
+        "data": "2026-09-21"
+      },
+      {
+        "titulo": "Prefeitura de Valença inaugura nova UBS de Barão de Juparanã e assina carta de intenções com indústria farmacêutica | Notícias",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPY3dQZl9mUzh0WTA1NzVUNG9jdjRuU1BVRlhYR1JqWWpwYUllZEtwNmtOWnJKbC1nZnZ1TzBhSjAyVXZrQlhOWURqNHhjc1RvZVhBa2xpLWxNUjVRcHFjcVpOdXplUjFCOUxGYXo1QTFLQnZlSzlhMG1Ed1I0R1lpd080bUw0VEk?oc=5",
+        "fonte": "Prefeitura de Valença-RJ",
+        "data": "2026-09-22"
       }
     ],
     "fertilizantes": [],
@@ -195,7 +195,7 @@ window.NEWS = {
       {
         "titulo": "Em seu centenário, Amaral Gurgel segue celebrado por investir em uma indústria totalmente nacional",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd2tDczVDNi14dnB3ZUh1cmFjd2xpUTZYcjYteUkyLXY2a0VLWUNQSVN4LWxWS0lKUHZpX1FqczZuMEljMGhZYWlMX0doOVhEb1RZZ1hsZTZ2T0lfVkVjTjQyWk9jenNrVVF1N3dpMElPVWtaZDBldHR6cHRfekc2Wl9HdWVUMEJSelVIZ1NNRUVham1GYVRIR2JXZ3Vla3pWRS1sT3RyZmJrMXdSWVl5UTVDTHd0UXoybFZOZTlxb2dYWGpRRzRkVEgtZmhCWkhLRU5vQmROMmIwWWc?oc=5",
-        "fonte": "Assembleia Legislativa do Estado de São Paulo",
+        "fonte": "al.sp.gov.br",
         "data": "2026-09-18"
       },
       {
@@ -205,10 +205,10 @@ window.NEWS = {
         "data": "2026-09-23"
       },
       {
-        "titulo": "Gigante dos carros anuncia investimento de R$ 2 bilhões, fortalece fábrica com 5 mil funcionários e confirma novo elétrico no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSzlEWEVjc01uUWF4bjRLdUY5TUJ1NjRkNVdZRGYwa1lIMkdMOTJwclNXVVp0aC1nMUU2bUg4VHBBSlN2eTF3cnBaZ2ZSM2hBV0sxN2t0MkhGenBNcU4ySmVqRUxmXzZhV2cwSHFOb3Q1bzlzaUJkb2xnLW9wYklzdDV0NFJRcVRPSUNFSjVFcVJLcXVEY2YzUjBxLXAyaWhCMVByS0lfaDlhWWtKUE1rZ1FsLW1adnlKMVpBZ1dzOEc3aVM3bzBqMWJmUGhuS2VUV1VKVFc3SWVqamFkY2lDc1NpTlBUeFF3dGpvNzdrT0t4ZVla?oc=5",
-        "fonte": "abcmais.com",
-        "data": "2026-09-20"
+        "titulo": "Voto em outubro define rota do desenvolvimento da indústria no Grande ABC",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLWZFUkloNVd5cFBMZmZ1bUZtQ3hhS0xfRERLXzY0MDlIZURxWWtJa3U2ZFdxZ08wcW1wdzJnSHl4Rm5yMF9BUDZQejlGRmhMbGVOS21vOEtNYUZUTWNTd0x6am1sbE5zNmNOWHc1WDFXMEdDY1ZweFZ5QWlqYUVNZkx4UW5xbjRCQU1HZ1hPVG5YQU5CQUdyMV9ZNA?oc=5",
+        "fonte": "SMABC",
+        "data": "2026-09-24"
       }
     ],
     "logistica": [
@@ -225,10 +225,10 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
-        "titulo": "Como pode existir um porto sem mar? Quixeramobim vai ter",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNEtzRHdjZEZXYUNJVlBoeGFITGt3b19acjRYSnpvMmJaVVEyWEs1Nmd2UTBhN0lkVXk4QUtqVi1YRVpaNUtibVExVmlwbjBqSWRMdUFCbVY3V1dhbzlEREFrbm9UMFVMb0kwM2JqX3ZQMlZVQWRWU0J1OU5rdUR0bFo5ZEF6UFZHazI3aW5zYWc?oc=5",
-        "fonte": "Portal NE9",
-        "data": "2026-09-22"
+        "titulo": "Ferrovia de R$ 14,8 bilhões e 319 km avança em Santa Catarina, terá 49 pontes, 14 túneis e pode reduzir em até 68 por cento o custo do transporte",
+        "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPVGppV1RkTFM2MFBzazctRmhXMU1SMm9ReGRkRy1zR1I2ZlMtTmpIQms3NDdRRHFYa1puV1hPOVE4SHJadmhJdVE4Y0xiSWtYZlpoNVdjVm40SzZtbjRIamE4NWFUdE5vc3J3RVJsTF9zR0tTRnRDbXBobjE4ZWJxV0VydDEwMXlTcHpFNWJnNUhDMlV1eVA1YV9yWHRQX2JsX1RuT2VsWHl3N1hOLWhvdHZWdE02U2dJWmRNQXlGdFN0RVN4SlFRZHJYSFgtY2Z6ZWV0UVBoZlRDUHdlVC02YjVoekxkdW9QeXlPbDM1ZUtRUUJWeXVlWUQ4bmtkNENIWUhnRWZjdU02MFJFcXR0Z1FZYjRaZDl4Umc?oc=5",
+        "fonte": "Brasil 247",
+        "data": "2026-09-24"
       }
     ],
     "maquinas": [
