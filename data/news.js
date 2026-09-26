@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-26T17:39:52+00:00",
+  "atualizadoEm": "2026-09-26T20:47:45+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -32,13 +32,13 @@ window.NEWS = {
       {
         "titulo": "Como a JBS quer ajudar outras empresas a surfar a onda da proteína",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONy1HSW1OUVpEUmg2SE5kVjhPN0swN3JnTWR6MzE5b0xGQ2JOYTFuVnJtcl9lWjluT3phQVk5aUQwdHdSXzVhQTh5dUliZDNqQmx1NnNCVVlTdlN2eS1iWXNoMGs4eUZ0Q2FpTHJkcHB2OGluQWU0R3ZPMlFuZGNqdzZBNFFCTEwta0F5c0tfOW5ZT0tjWW1pQVJGRFVwX25vRlRjNDBqMzF0anN1Q0ExRjUyTQ?oc=5",
-        "fonte": "theagribiz.com",
+        "fonte": "The AgriBiz",
         "data": "2026-09-23"
       },
       {
-        "titulo": "Prêmio Melhores dos Negócios Internacionais reconhece empresas que levam Brasil ao mundo",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3A1ZEswX3k4cmgxTlpvallBbGREVC1NY01LekFKRXA2Rk4yUDFpWkE4SmlRUi1YVFZCTVczbGtnUnhQWHd6ZEFiMWhwd0dVSjVCa3FUajE3dXBsVXF5QnVEMmZRa0VRZTFvZmF0TFZ2ZW9Ndk0yZHlPVUpXS1RIRmt2SHp3Tk04TDhZNWwzR21kR09LMG5TcEc3c2MyS1JDaGJjRGxpNnQyeWFJSjFVVTl4eGZZVEE?oc=5",
-        "fonte": "exame.com",
+        "titulo": "IA na Indústria Alimentícia: Cases de Empresas Líderes",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmdibjRlWjdFcXBaWmRZQTAzb0RlRjRYc0xjS3cxY3lFMzFfZGtzOGVSMk9HNm9pYndJclN4VXM5NnZMdFl2V2xEUFpWbXY0emItTzB3VnFRNHNYZ0JoUFlNSW9feEM0ZkJYMHU1NWpXQV9obTJueXRRUmJUcWNTR2t5b1l5OXFHMi1aajR1YzBMWkVlenNwZTl3bUExbzNHT2ZN?oc=5",
+        "fonte": "foodconnection.com.br",
         "data": "2026-09-23"
       }
     ],
@@ -110,16 +110,16 @@ window.NEWS = {
         "data": "2026-09-25"
       },
       {
-        "titulo": "Ypê chega ao RS com investimento de R$ 161 milhões em centro de distribuição",
-        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOQmJZZmRPMWlPRkozb2tLRGo4S25FdWIzbEFGcWwwYkU5YWhWaGNoTWhYcjVRNUs0d196a29sczdEOEprc2JqZTFkTFJjT20xNzlmc0tVbi1WbUM3Q0FBV0lXejEwX0dScHJuUm43eGtMb1JFcS1fZVZRMXhrYkFldVhfNk1qSFpuRWFCN1VHcUtWeU5rcEtuRlBGT21vT0ljUjd2ZUlpdWVFSXdEQzAtQ1hUYTBHWWR1RzdGdy1iQi1EcGV3dEdSWXdXSmhIOEphT1FacmR5QlljckRzSWdpOUtEVllTZkNjOHk0NGt4M3luLW1oNzBWNA?oc=5",
-        "fonte": "Jornal do Comércio",
-        "data": "2026-09-21"
-      },
-      {
         "titulo": "Gigante do varejo brasileiro prepara investimento de R$ 1,5 bilhão e 15 novas lojas",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1djelMweWQ1UDVIWVVyYkZFN3R4MF9oelg5cGQ4Ymt2SWw1eHVucWNSdDhuWUJkVUJ1RTk0UlcxV19JZ1FyUHo4ZU0zb0FNVEV3SXdMc2ZDeXA1c2VoVGFOTW5idWVteEU3aXdURzJnNFZ2R1ZkblBuM3hfam01WWRONDk0cG9YdlNNQ0xRVmtNOTZwWGdPWTN1WDBaZjBPekRCNjJoNnhhUFR4dzJNVnlwejRWbDTSAb8BQVVfeXFMTW1aRmFKT0xRbW5FNGtVbTlYRGpNUlNPM1ZFejNDYXJBS0JpdFdNaDlZbHF0Uk1LREstOVQ4aXZPSVB2UGFaLUZ1c3BteTV6RExsWkdPSEEzOF9neTRfbV8xQy1FbDRFckNlV0FMMlVvWkVKeWZzZ3g3R252ckRla2hiRUw3ekZFXzF0WndOQm5uWExnNDdzWFNiZmJ2c3RzdWN4Qkd4RldUQTdkcHRTWHYtQklFcFptM3NwZXFJRzQ?oc=5",
         "fonte": "A TARDE",
         "data": "2026-09-24"
+      },
+      {
+        "titulo": "Gigante do varejo gera cerca de 3.000 empregos ao abrir 15 lojas para faturar R$ 3,5 bilhões a mais",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFpSRTVfQXNwZjVTcmt0aEk0WTJjcVc1SXJtSVRyNld6VW54VGlZZFJ3aXg1cDJCN0JyQ3BUWnloRDJlTEZ5SmNJSUIzVllhNXlhejliLU9ldHBfTF95YjE4MWFiTUg2b0FfcW5CeFNETnc0R291X1VsbUVsN0dZdkZLUmhZd0pTSzB5MEVJdTlZLWwzUkQ0X1dsOXlMa25kTHg1RzBIN3NSbktFS0xKV3dQeHVzSjNHXzFEMUFjUHc0dFJfVXdydjhHOWxXU3lpN3dOY1RpM3RpRWlzeEdsc2xHUTNaTGFOYi1La2YzSjhxZl9pMjUwNmF3?oc=5",
+        "fonte": "jornalcruzeiro.com.br",
+        "data": "2026-09-22"
       }
     ],
     "energia-gt": [
@@ -138,7 +138,7 @@ window.NEWS = {
       {
         "titulo": "ANEEL aprova leilão de transmissão com R$ 8,8 bilhões em investimentos",
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15amVtOUFFNzZfM0hNb2JRTkpOQUkxSVJlck53MERHc3JwVVNFeU5xeVI4dTBEOWFjSE01SVFVZ2lKUzh5NlVQRk1waml1a3hlbVFxVFFvM3VOeElfNkcta1ZCSlB0b01WQndKLVQ3T1pOTHl6RmxqYg?oc=5",
-        "fonte": "canalsolar.com.br",
+        "fonte": "Canal Solar",
         "data": "2026-09-24"
       }
     ],
@@ -171,16 +171,16 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
-        "titulo": "Campanha de Lula quer tornar SUS “inteligente e conectado”",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFNsdlFmaHdJUE8yVkxHdHdBVlk0Z0RJbUdrYjV4WUhIR2xGQlpEY0NqazgtOTJmdkVmSkpEOW1tVVhRUlkyQXBOcnA5cWcyUHc2dkE3SmpUazFlVDZfZkJEWFhuSWQ5aG10OGVnQjBUY1BFQzVYTGxQQzN6MzdpZTJvdWxGaFd1Z3RuSkFtNUloZURpeFREcFpCUEtBRkxjS05EVjlOS3g?oc=5",
-        "fonte": "poder360.com.br",
-        "data": "2026-09-24"
-      },
-      {
         "titulo": "A Dasa quer \"uma dose\" do mercado de R$ 18 bilhões das canetas emagrecedoras",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUZsYUxHWHZ1VEJuS05pRmdvdXZvT3pfMXBpNnpwZE9hbE84eHNUdVUzRzFNTl9tUUJGM21xU1ljZ0V2UzlDcl8wbEYxM05VYkFJMVMzOWtWT05MM01jZkhfdDZaUmVJcEZlRlZybDhqV0xOUmlWZG5DWDBxMV8xcVlCQWtuVzhaMDgtaFRMS2l4cnVhdGN5NUhlMzNSdHRJS21SWXMxNlVaZw?oc=5",
         "fonte": "NeoFeed",
         "data": "2026-09-21"
+      },
+      {
+        "titulo": "O SUS é muito mais do que dizem seus críticos",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckFIWkN4YXlxMjcxYlJEMTdwWHdlWE50dHczVGdCZFhDaWVJSEJXbTdVX1JCMXl6VGdNWWVDU0ZRZzJqTXF4Zm9ZdmdtTm1YUVdXdjlCQWZSMFdHOFZyNmxMQVQ4SGhvSXludy05UnlldVRFdldYTUsyY2U1S3VwS2FZU3BBdw?oc=5",
+        "fonte": "Sindipublicos",
+        "data": "2026-09-25"
       }
     ],
     "fertilizantes": [],
@@ -268,7 +268,7 @@ window.NEWS = {
       {
         "titulo": "Exportação em alta estimula investimento em portos do Sul",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUIza0djZWNRU0RJc195M3oxTTVmbnpjc2laQmRMaldsYXNxY0RaLUpLOUdvTzE1a2x3QVNldDVCWDB4RmVwRXowamNEUC1ObzBaQkJxenNCSjhaUmxOYnM4V3ZIeDFGaDlTakF3ZkcxWjU0bldJem9nMVRfUGRMOHRSMlltVG9VRnVEUWlsMS02SkpBY1MwNUhkTQ?oc=5",
-        "fonte": "MundoCoop",
+        "fonte": "mundocoop.com.br",
         "data": "2026-09-22"
       },
       {
@@ -308,7 +308,7 @@ window.NEWS = {
       {
         "titulo": "Setor de saneamento prevê 31 projetos com R$ 66,3 bi de investimentos",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObFlhUVNVZEtZODlTTUNSZHhZRlFhVjRvUF9nWjd3bHV2SUNUaVNmQVVEVjdMOFFpNmp4dm9IZHRjVk96Y0Jhb0ZlcWo2eWFlSFpSVWxIMmNiLUpNUEU0ZnZXUmctdDYydHdUeERydG96b3BiMkVqbzV2T2Vxd0lmR2ljWE83OHo0SmVsWGN0eV9yeGFNMWlRV2VFaUNnRFdfMGJKN2NYUTJ5cTZ0a0tjWUZRN2lEd9IBuwFBVV95cUxNSWs4MDg3dTJJLXRmTzZPdERTenBoaUJEbFVqeXBPcGFwdmZFRUZDN0ZQS3lzV3NjUVF4LXdobWRhcHk0Y0pfZENqLUFuS0F6djNIdWFFRUJ0TlA1aHlnY0dQNE9DdGkyRkk3cFFlV3c2SjRFOXVoS3JUR3FfelBhYjJXblVfWE9MbXFwU3RyQnVxS2ZQNmJLdVQ1QXNMWU42LXZITjEzbmFsUUp2c0lLVUt6Mzl3Y0pNWlUw?oc=5",
-        "fonte": "bemparana.com.br",
+        "fonte": "Bem Paraná",
         "data": "2026-09-20"
       }
     ],
