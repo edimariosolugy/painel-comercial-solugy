@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-09-26T20:47:45+00:00",
+  "atualizadoEm": "2026-09-26T23:25:29+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,9 +36,9 @@ window.NEWS = {
         "data": "2026-09-23"
       },
       {
-        "titulo": "IA na Indústria Alimentícia: Cases de Empresas Líderes",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmdibjRlWjdFcXBaWmRZQTAzb0RlRjRYc0xjS3cxY3lFMzFfZGtzOGVSMk9HNm9pYndJclN4VXM5NnZMdFl2V2xEUFpWbXY0emItTzB3VnFRNHNYZ0JoUFlNSW9feEM0ZkJYMHU1NWpXQV9obTJueXRRUmJUcWNTR2t5b1l5OXFHMi1aajR1YzBMWkVlenNwZTl3bUExbzNHT2ZN?oc=5",
-        "fonte": "foodconnection.com.br",
+        "titulo": "Prêmio Melhores dos Negócios Internacionais reconhece empresas que levam Brasil ao mundo",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPX3A1ZEswX3k4cmgxTlpvallBbGREVC1NY01LekFKRXA2Rk4yUDFpWkE4SmlRUi1YVFZCTVczbGtnUnhQWHd6ZEFiMWhwd0dVSjVCa3FUajE3dXBsVXF5QnVEMmZRa0VRZTFvZmF0TFZ2ZW9Ndk0yZHlPVUpXS1RIRmt2SHp3Tk04TDhZNWwzR21kR09LMG5TcEc3c2MyS1JDaGJjRGxpNnQyeWFJSjFVVTl4eGZZVEE?oc=5",
+        "fonte": "Exame",
         "data": "2026-09-23"
       }
     ],
@@ -90,15 +90,15 @@ window.NEWS = {
         "data": "2026-09-23"
       },
       {
+        "titulo": "Mercado de Cimento Branco 2026-2035: Demanda Arquitetônica Impulsiona o Crescimento - Notícias e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0NFb0NKYWN0U25yb3NmX0pjc1NtcEpwM0Vzb2ZpZHQ1TDhiSWxIVFZYQXpDZ0h0U2lDS0MzaDMxMHVOTktsU2lZT2RTNEJDWk01c19NLVNhbk1jQTc0V0F5c2FYUGpNc1ZWb1R2VjBIYVdMcF9jd3V2bmdKLWRGUUtkeVphUEtOakhUVnV3Y2p2NlVFWEVHMEVTWUVsR3M?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-09-26"
+      },
+      {
         "titulo": "Votorantim Cimentos recebe R$ 75,5 mi do BNDES para IA e IoT | IT Forum",
         "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnNXFIWkRnXzJGUDlQalB0T28zdHZ3U1VSZ2Y3VXZUZ2FvTlRTR1BzSHZwZnZpcXBya2hleXctZ1NZMFU1TUpUZDRraDc3ME8wQWxJRExULWVmYVZ4UFBzMzNlaTVkYVBQYWJGYkR6WEFYVlnSAXhBVV95cUxPYjE1T2h2eHByY240clcxWlZIZDd5OU5lcXJVZ0lyeHM0bVlEOGNsNV9Xem5YQnJ3WnpmWVVUa0FmRmx2TllqZGtrYU1oX002aU5vU0FxZVUtQVFhSVd0cW56WDg0SHV3b2tGMVpqdHdUUXdNeWUyTng?oc=5",
         "fonte": "IT Forum",
-        "data": "2026-09-24"
-      },
-      {
-        "titulo": "BNDES libera R$ 75,5 milhões para modernizar fábricas da Votorantim Cimentos",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMzFIbFA5TzVnTHpDQ0trdU03eWw0eWlKTzdPNFA0dEJCWDNzcEZwU00wSlRWWmNicHZOWk9VZ05JQlhyWUxBbDhfTWhpcU5JZUI4Z2ZNa2NvXzQ3WFNRazRrNHplTWFhNllrWU1DendfeU9FLVo2c2ZGZ3c5LXBUYlAzYy14LUdVaUplODl0QUtodU9CM3hVS2ZscnpNT0poeUlKUXZOR191Z1JZR3dSa2Yyc2o?oc=5",
-        "fonte": "portalviu.com.br",
         "data": "2026-09-24"
       }
     ],
@@ -116,10 +116,10 @@ window.NEWS = {
         "data": "2026-09-24"
       },
       {
-        "titulo": "Gigante do varejo gera cerca de 3.000 empregos ao abrir 15 lojas para faturar R$ 3,5 bilhões a mais",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORFpSRTVfQXNwZjVTcmt0aEk0WTJjcVc1SXJtSVRyNld6VW54VGlZZFJ3aXg1cDJCN0JyQ3BUWnloRDJlTEZ5SmNJSUIzVllhNXlhejliLU9ldHBfTF95YjE4MWFiTUg2b0FfcW5CeFNETnc0R291X1VsbUVsN0dZdkZLUmhZd0pTSzB5MEVJdTlZLWwzUkQ0X1dsOXlMa25kTHg1RzBIN3NSbktFS0xKV3dQeHVzSjNHXzFEMUFjUHc0dFJfVXdydjhHOWxXU3lpN3dOY1RpM3RpRWlzeEdsc2xHUTNaTGFOYi1La2YzSjhxZl9pMjUwNmF3?oc=5",
-        "fonte": "jornalcruzeiro.com.br",
-        "data": "2026-09-22"
+        "titulo": "Patrus Transportes nova operação no varejo",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOdTJ3Ukc1dkFHYnp3cTFMNXpCUTl2YUpjR2FrcWkwVWRJTEVvVG96WG9POE5salJQdGtOZ0lIQXpQSUNPNFdDMkJqY0dwRVpLWWpfSHdNbmQ0djdlbXpvMEs1MFZNZURFMFhfVXJJZnIzdWNnaEM4c3dLVG1EOTNwa0RIaEcyX1ZhcVVuajRHa2M2aUg5X2NaLWFib2FrWXhIWlA0bGsxSGFDVE5HOGZod1ZHS1hteDN3YkVSRTBnYw?oc=5",
+        "fonte": "Terra",
+        "data": "2026-09-21"
       }
     ],
     "energia-gt": [
@@ -158,7 +158,7 @@ window.NEWS = {
       {
         "titulo": "As 10 melhores empresas de energia solar do Brasil",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQaUhLY0ZuSWhDQ2FLZXhJNDBWWlo3Vi1Ed2w2WW9wQTJ6dmtkaURSMXdUdkNHMUJRa1ZHbG5MaWFkYWhfVllhR2JBSWd2NlJhd2kxbkhxY0VlVDVfT3JNd2R6dFFmTEVuYjN3UEN2U1BFcVRRaEYwenVqUWc5ZEFqUTBXdERMVTU3V21MelAyY09QSEFJTmFZcmFXcF9KbUhkMy1xanlSUUlGVDM2?oc=5",
-        "fonte": "idinheiro.com.br",
+        "fonte": "iDinheiro",
         "data": "2026-09-23"
       }
     ],
@@ -171,16 +171,16 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
-        "titulo": "A Dasa quer \"uma dose\" do mercado de R$ 18 bilhões das canetas emagrecedoras",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUZsYUxHWHZ1VEJuS05pRmdvdXZvT3pfMXBpNnpwZE9hbE84eHNUdVUzRzFNTl9tUUJGM21xU1ljZ0V2UzlDcl8wbEYxM05VYkFJMVMzOWtWT05MM01jZkhfdDZaUmVJcEZlRlZybDhqV0xOUmlWZG5DWDBxMV8xcVlCQWtuVzhaMDgtaFRMS2l4cnVhdGN5NUhlMzNSdHRJS21SWXMxNlVaZw?oc=5",
-        "fonte": "NeoFeed",
-        "data": "2026-09-21"
+        "titulo": "Campanha de Lula quer tornar SUS “inteligente e conectado”",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaFNsdlFmaHdJUE8yVkxHdHdBVlk0Z0RJbUdrYjV4WUhIR2xGQlpEY0NqazgtOTJmdkVmSkpEOW1tVVhRUlkyQXBOcnA5cWcyUHc2dkE3SmpUazFlVDZfZkJEWFhuSWQ5aG10OGVnQjBUY1BFQzVYTGxQQzN6MzdpZTJvdWxGaFd1Z3RuSkFtNUloZURpeFREcFpCUEtBRkxjS05EVjlOS3g?oc=5",
+        "fonte": "Poder360",
+        "data": "2026-09-24"
       },
       {
-        "titulo": "O SUS é muito mais do que dizem seus críticos",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckFIWkN4YXlxMjcxYlJEMTdwWHdlWE50dHczVGdCZFhDaWVJSEJXbTdVX1JCMXl6VGdNWWVDU0ZRZzJqTXF4Zm9ZdmdtTm1YUVdXdjlCQWZSMFdHOFZyNmxMQVQ4SGhvSXludy05UnlldVRFdldYTUsyY2U1S3VwS2FZU3BBdw?oc=5",
-        "fonte": "Sindipublicos",
-        "data": "2026-09-25"
+        "titulo": "A Dasa quer \"uma dose\" do mercado de R$ 18 bilhões das canetas emagrecedoras",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVUZsYUxHWHZ1VEJuS05pRmdvdXZvT3pfMXBpNnpwZE9hbE84eHNUdVUzRzFNTl9tUUJGM21xU1ljZ0V2UzlDcl8wbEYxM05VYkFJMVMzOWtWT05MM01jZkhfdDZaUmVJcEZlRlZybDhqV0xOUmlWZG5DWDBxMV8xcVlCQWtuVzhaMDgtaFRMS2l4cnVhdGN5NUhlMzNSdHRJS21SWXMxNlVaZw?oc=5",
+        "fonte": "neofeed.com.br",
+        "data": "2026-09-21"
       }
     ],
     "fertilizantes": [],
@@ -232,23 +232,23 @@ window.NEWS = {
         "data": "2026-09-21"
       },
       {
-        "titulo": "Como robôs usados ajudam a modernizar a indústria brasileira",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPc0VHa2lQN0ZveVNLblFpLWh3R2dvYWZoVmxjbGhRVGtWbkpOMDlOWmtFZGRjd19TRTNlcnVhQkRrODBQek02bTkwNlNvYjgyLW9QRWk0M05ZR2pheUt0QURzWm84REVPclZ1b3lZeEFUZkYwb3NrWjlvbElKZjdOLTlQOGFIWmtWZnc1S2FuUjNYU3Bhd3BNMkp0cnpha2NUNXdSTzdma2hIUTJrSEpNTWxtQ2l1RjDSAbcBQVVfeXFMT3NFR2tpUDdGb3lTS25RaS1od0dnb2FmaFZsY2xoUVRrVm5KTjA5TlprRWRkY3dfU0UzZXJ1YUJEazgwUHpNNm05MDZTb2I4Mi1vUEVpNDNOWUdqYXlLdEFEc1pvOERFT3JWdW95WXhBVGZGMG9za1o5b2xJSmY3Ti05UDhhSFprVmZ3NUthblIzWFNwYXdwTTJKdHJ6YWtjVDV3Uk83ZmtoSFEya0hKTU1sbUNpdUYw?oc=5",
-        "fonte": "InvestNews",
-        "data": "2026-09-24"
-      },
-      {
         "titulo": "Indústria de máquinas agrícolas instalará com R$ 71 milhões sua 2ª fábrica no RS",
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOY0FzbllDRXJBZGltYnBrM244b3N5YUwyek1vNlgxc205bVB0QVBza2gwM3BQdDlWN3V6NmQ4dTRVdlg5SDA4T1VLcVRwMlJ1ZU5zQ29sNUI1WndaOGJTYmVSeWtGc0l5V0xadjZlYklwVERTWkxEeFFLYUF0QmllbXFPOW9KcTZ5SVJSNS1uVEdjenFlOHlSVnNGUHZUYUY3QVhKV1N4N2toRWFHYW94bmo5Qko0VUVDbGF1Vk52R2pkNmtNUkt1c0l2TGM1QnhuemZ5bmU4aHdnWGwyZ1lpdnYzOXVRTWsySGlBVnhUMm94eDI3RW4xSVNNMjNtV1dFSUFIdzRGLWRqNmxVR01n?oc=5",
         "fonte": "GZH",
         "data": "2026-09-25"
+      },
+      {
+        "titulo": "Produção industrial de agosto tem pior resultado em 11 anos",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPa0d4clFRZjYwN2htQUFjbUFWWDNxNkpEOG9zb0pKRlAtU3FkR3p3V2dtdGhnMUc4TDNPLUFyaE9JcFhranV1aTNhU3ZlQjhFUC1neS1FOXNnUllEcU5iV2tzZWlBVDA1OWdsRzdFcUxkemdCVVlsaDVRaEZCZTE1MWRrR3dQSmRxd3c?oc=5",
+        "fonte": "Acia Araçatuba",
+        "data": "2026-09-22"
       }
     ],
     "mineracao": [
       {
         "titulo": "Um \"vale\" de incertezas cerca o financiamento aos minerais críticos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQjRlR1RuejJ3bFpZNk9DUklQSGxzc3BJNi1INWlyRlcxYXJraFNxU2lCZ0IyV0RDXzl5UUlxWlZveW9PTm5IRGFTcWNkejRLczJGNm5GRHp4Q2VvSmZwNWlIM3ItTnVGblRnd29Ia0U4cXFqdjk4dm9MdFRnSEFsNWhLVzNROUFueDBVajFoQ3hiXy1KdVo4RzluVmlJLXVJTG1uOGdHMEo?oc=5",
-        "fonte": "NeoFeed",
+        "fonte": "neofeed.com.br",
         "data": "2026-09-25"
       },
       {
@@ -268,7 +268,7 @@ window.NEWS = {
       {
         "titulo": "Exportação em alta estimula investimento em portos do Sul",
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUUIza0djZWNRU0RJc195M3oxTTVmbnpjc2laQmRMaldsYXNxY0RaLUpLOUdvTzE1a2x3QVNldDVCWDB4RmVwRXowamNEUC1ObzBaQkJxenNCSjhaUmxOYnM4V3ZIeDFGaDlTakF3ZkcxWjU0bldJem9nMVRfUGRMOHRSMlltVG9VRnVEUWlsMS02SkpBY1MwNUhkTQ?oc=5",
-        "fonte": "mundocoop.com.br",
+        "fonte": "MundoCoop",
         "data": "2026-09-22"
       },
       {
@@ -296,7 +296,7 @@ window.NEWS = {
       {
         "titulo": "EXCLUSIVO: Leilão de Saneamento em Rondônia fica sem propostas (e não é um caso isolado)",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYzZmYjJ5TVlSbVVOS283T1gyUlpLU3ZRUU10Q29GeklJajNDYjBxLTJzUlNadnplTUw2a3RWbWpMdDBBNzNRZHhWZnlXWkJaejBhWFl4cEJnSDNoTmNVSGV4QTJiMzU1dy00TkVtY3U3dmFEczFPRFM1cVNXdi1TY1lwNVJNMmNCOWJUcmpwWFNBOVJ4OW1HTjlaR1dPa2gyZFhTSFhFNkNvc29tZ3NGa0JYMjVqZG9fQkE?oc=5",
-        "fonte": "NeoFeed",
+        "fonte": "neofeed.com.br",
         "data": "2026-09-22"
       },
       {
