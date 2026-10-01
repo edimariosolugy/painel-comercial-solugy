@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-01T16:07:49+00:00",
+  "atualizadoEm": "2026-10-01T21:39:03+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-09-25"
       },
       {
-        "titulo": "Cade dá sinal verde e Zen-Noh Brasil conclui aquisição de participação no Grupo Cereal",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNazRsRFJsSDVCWFAtdTNNdVJBZXA5Q3VoNlZ1Y2c0ZDFybW1qVmlhU015SVg1blFuVUF2cWpsQ2ExM1lXaVNjMHpvMEN5QzVYZ2tiNkxPU01XXzFJLUs5MTZPN0lKWVBlNXRRY3o1Tnp0SkozZTA0QVlVaVVRelVqbkZjSFo3cFI2Y1Nwc19DQ1liMF9rWmpFbEF4dF93dDBqaHpRWUJNWVk0UXdBRjdEY2hyRHU3cHl4?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-10-01"
-      },
-      {
         "titulo": "Forbes Mulher Agro: O Brasil Já Provou Que Sabe Produzir. E o Próximo Governo?",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZGVtZFFrSVEwWFVmUkpSQ2RjZ3UxZE9HSlB6cnNRY3RnNXJPN3lhdl9mSU1tMjVSNTNCYUFhT2FveElzRi04YkNuakNGVnlXRUo3Z1FBU1hqVl9YQmg3b2owMjJwcDczNXFQNmY2OHdCSkowcDBZWUd0cm42emhGZnVRRTdJRVYxNVl1NzBpNW1CRy1nU1dMUmpBSFMyWWYzYlh3VmhEOGs5U012azI5T3I4Y1J3T1o2cVE?oc=5",
-        "fonte": "Forbes Brasil",
+        "fonte": "forbes.com.br",
         "data": "2026-09-30"
+      },
+      {
+        "titulo": "Agronegócio brasileiro atrai interesse chinês sobre mercado e oportunidades de investimento",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVmRQaXltV1pKQVc4UHZtSUltU1RZWTlpcDdLQXZTb3FVQlZxWm5KYUlRY01VdXl2cklWQUhTUGVVT3NMQXFHY0Z5SXhGU3I4M1VHNk9MUGRkU0NwLVppQ2VtMkpkM0pNQ00xbk5Sa21oQS1VTExRVmZXemhaU1JFMFVRU2FxeHNuc0JpZ3ZyRmNURk9kOVMxbWN2RUI5T2phZ1ROV29WYnNMQzNQSC1KcHVTekQ3d0RfdVRwZQ?oc=5",
+        "fonte": "china2brazil.com.br",
+        "data": "2026-09-29"
       }
     ],
     "alimentos-bebidas": [
@@ -32,7 +32,7 @@ window.NEWS = {
       {
         "titulo": "As melhores empresas para trabalhar no Brasil: veja quem está no top 100 de 2026",
         "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUGZsQ2hPVkFmQVlncUtNamdZZlkwX0pzbUVsazdqMEtsWHNsNjhiMUVfenQzcktGWnQwYVlIUHRkbEh5ZDlnR2xZZnJuc05PNXM4WkpZY0I4M0h0LWlLdUY2Y1VCQXJyZ2xuWUVFWVB1emlRU05YeEFMMWNxVG16TmxKVVZ6djF5WWs0S1h5eERWeU9Yc2s5VE1aelVZQkpncmd0M0FYX2l2dFJsdXFOVWRjZ3V3V0ZkeFZUTWM5OXo2Z3Y3Y0pEaDdMcEpELUVYbFppQzhOWktyVXRaUFdadzVzMFVpRFdEMm5EX3dJYVdtVE9V0gGDAkFVX3lxTE9zWTI0LVMycDlNb21ja0Npem5sUkxrVmlHeUZobjU0WVhCRHV0czZnNEI1VjNQRk1GdThVaVVIRzlFZ3BTTEFSR0FGcDk1SjJ0Q3BpTHN2UUxLMEw0alhMaFl1QlZydkhyRXF1bFRkRGI2dHlSdlBKQ0dJVkkwMlBIVzFKNHVnakFjN1lTUDVCTnY4eFBZSldLWGRpdU1abk5sRlZXM2JMSHZQcHZmb0VzU1Q0YmRvTjJDMU90VkxVc0pWVWYzaktjRVlvMmJNSnotb0xnU0hBQTJoNXVqQmwzMVNMWE4tdUlBaTNsY2x1Z3ZzRDl1NWFSd1N5MnppdVdROUk?oc=5",
-        "fonte": "valorinveste.globo.com",
+        "fonte": "Valor Investe",
         "data": "2026-09-27"
       },
       {
@@ -44,6 +44,12 @@ window.NEWS = {
     ],
     "automotivo": [
       {
+        "titulo": "Indústria automotiva acelera uso de IA, mas integração desafia montadoras, diz KPMG",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORG51RVhNcmpUQW5idVB2T0Q0MEZET0NHVTRaMkNmS29ySTljZmZ2RnhhZWloT01ROFI2dTViczlfWm1uQkJJT1FvdU5VUmhqTVpKVldmalkzMFYwWkxRZzNrOER6QU1FdU9UMi1JXzJLdlh0N0JiakFQX29QaTJOeEt6WjMySFpPNUluMFZ0cXloTmdBUjRFQ1p2LU15Mk5FUXh2RENMVUlYWXpXZk95R2t2RXhuemtlZGtBWjFHWlJqT1nSAdcBQVVfeXFMTURSMUo3bEdKNk44RmtoTlRnTW9BVms1OHNsQjJWeWlRMUVGb01PVG9TUkVkTENDd1NJOU5NUDRMVDh4WE56UzFzYlk5R0ZzREY4NnVRUkNuVTNyQTZNRTlSblRvVmlaajBoM0NNTjlkWVFOWl9fbGNwbUMzcl9pdFFJeUVhVFU5YkYxaENwNjB5TE82VzhmdlFhSzIzazdmOU1tOW9NNlB5NzNVTldZVkJSX1h3TUNfa1RoTlFMSEI2Q0g5RFJpcEZucVV0MWQ1ZnA2RUdiQ1U?oc=5",
+        "fonte": "Bloomberg Línea Brasil",
+        "data": "2026-09-25"
+      },
+      {
         "titulo": "Carro feito no Brasil, peças vindas da China: importações sobem 56%",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXhDYUg3YkRYR2Q3bUZUVklZelhFQzZqY0JZMEV2RUI1NW5NaXphYzRuMC15TFpTUW94NmlCeU5mTlVDVzRtYTd6eE1HalJoaWV5VUlKZkN5cm5JQ202TWtISlYtWDlieEhRY2I0c2NlTjV2OXJBQjBNbndxSjdBUTVUOXgtQ3RFZnc?oc=5",
         "fonte": "Motor1.com Brasil",
@@ -54,12 +60,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBCWkFwdGVkY3VkU3JFQTBPbS10dy1USlY2a2treEI2ekw1eXRxRElFOFFScVVOLVBWaVBad3ZwckFyc2thak1zdkc1V25UblpVSFFSYUtXc2FhMzVTaE8xRjh1UnBxR0wwbHBvU0liOEdtSDhnclgwTQ?oc=5",
         "fonte": "Diário do Comércio",
         "data": "2026-09-28"
-      },
-      {
-        "titulo": "Robôs industriais avançam 38% no Brasil com impulso automotivo e liderança chinesa",
-        "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBTRDdVa2pFS21jNUNfRjBmazhWSzVBa1ItcmpsUjVWUERTc0xYRTAxN3N1c1JkS0c0V1MzZlE2Z2l6dVZOM0I0TmRPU2t6UVhjQTNBaTZWRy03MjQ2T2VrMzc1SE5WYUtjdHVhSFpR?oc=5",
-        "fonte": "Agência Brasil China",
-        "data": "2026-09-25"
       }
     ],
     "bioenergia": [
@@ -90,15 +90,15 @@ window.NEWS = {
         "data": "2026-09-26"
       },
       {
-        "titulo": "Votorantim Cimentos recebe R$ 75,5 mi do BNDES para IA e IoT | IT Forum",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBnNXFIWkRnXzJGUDlQalB0T28zdHZ3U1VSZ2Y3VXZUZ2FvTlRTR1BzSHZwZnZpcXBya2hleXctZ1NZMFU1TUpUZDRraDc3ME8wQWxJRExULWVmYVZ4UFBzMzNlaTVkYVBQYWJGYkR6WEFYVlnSAXhBVV95cUxPYjE1T2h2eHByY240clcxWlZIZDd5OU5lcXJVZ0lyeHM0bVlEOGNsNV9Xem5YQnJ3WnpmWVVUa0FmRmx2TllqZGtrYU1oX002aU5vU0FxZVUtQVFhSVd0cW56WDg0SHV3b2tGMVpqdHdUUXdNeWUyTng?oc=5",
-        "fonte": "IT Forum",
-        "data": "2026-09-24"
-      },
-      {
         "titulo": "Construção perde força no Brasil, emprego recua e confiança dos empresários completa 21 meses abaixo dos 50 pontos, aponta levantamento da CNI",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYTdlTFl5NnY1eGxvQzJkWXlORWlUaHBNUHMyWVVReWFDb2dIbG1IR1FSeVJXeGpRN2pTUHFuTE5YZEh2VUQzclpQOVZaWVdMN1kwbkkxX0dlT05aUFNOc2YzSnN3RVlTeWZsSXJLMFFtcFQ0WU5tNHNzVGVQVFo0d0Y4Wk1meUFjcjZBaVFqUVZQd0ozSjFkUmNpZGR0SVhIeS1mRlhQcXlwNThZU0N2REp0RVJ2QWxKVHNPRkR3TGpnbDU5N0l2ejAwb3REY3FOZFdfV0gwUUNrVDBGN1pQcmJ5d2tFVk55QUg4N1VEZUZ5eEVtc2t1TzdNOTNEc3VKQ19EUWtyeHdqa01wVDBxU2xEY2lhOXB4?oc=5",
         "fonte": "Brasil 247",
+        "data": "2026-09-26"
+      },
+      {
+        "titulo": "Obras no Viaduto Centenário avançam e recebem investimento de R$ 2 milhões em Americana",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2FfbnJlUmdtd21EUk5xdWEwaFVOSUtNa0xiUU5DSkdfV3Rjb2RfbjRwYjRxdE8waHhBWnNzTzVJZDNfZHNYOV9CTVpHelRtTFphZzBBTG9nZVY2TVJLd1pHejhJWHFGX2pKaEhUcENQVUhhbkptcEF6aXc0UmllTUd4TUNSRi1iMEVFMXJkc2dFSHdSLTlIYjZFd2VEMDJoZC1Rd3gwODhrZjFnQXlwcThpQjE?oc=5",
+        "fonte": "Portal Veloz",
         "data": "2026-09-26"
       }
     ],
@@ -110,16 +110,16 @@ window.NEWS = {
         "data": "2026-09-25"
       },
       {
-        "titulo": "Gigante do varejo brasileiro prepara investimento de R$ 1,5 bilhão e 15 novas lojas",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb1djelMweWQ1UDVIWVVyYkZFN3R4MF9oelg5cGQ4Ymt2SWw1eHVucWNSdDhuWUJkVUJ1RTk0UlcxV19JZ1FyUHo4ZU0zb0FNVEV3SXdMc2ZDeXA1c2VoVGFOTW5idWVteEU3aXdURzJnNFZ2R1ZkblBuM3hfam01WWRONDk0cG9YdlNNQ0xRVmtNOTZwWGdPWTN1WDBaZjBPekRCNjJoNnhhUFR4dzJNVnlwejRWbDTSAb8BQVVfeXFMTW1aRmFKT0xRbW5FNGtVbTlYRGpNUlNPM1ZFejNDYXJBS0JpdFdNaDlZbHF0Uk1LREstOVQ4aXZPSVB2UGFaLUZ1c3BteTV6RExsWkdPSEEzOF9neTRfbV8xQy1FbDRFckNlV0FMMlVvWkVKeWZzZ3g3R252ckRla2hiRUw3ekZFXzF0WndOQm5uWExnNDdzWFNiZmJ2c3RzdWN4Qkd4RldUQTdkcHRTWHYtQklFcFptM3NwZXFJRzQ?oc=5",
-        "fonte": "A TARDE",
-        "data": "2026-09-24"
-      },
-      {
         "titulo": "Distribuição farmacêutica entra em nova fase no Brasil",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzViQjFFSDk4Q2hIeEVoT1lWOVd5MWRhVS1uYW5vaTVLb2VzSE9BMHgtekkyaGREYU15NTAtVVpnWExtdWZ3UElFYXlTbzBJZ3MzZUdLNFJaVXZNV09Ua0R4X0pZMkJxb082MWIxM0NlQnBubHAxTjdLNXVmdDVTNmFXVFhBeWdCOVhQUlZ2bUY5QQ?oc=5",
         "fonte": "Abradilan",
         "data": "2026-09-30"
+      },
+      {
+        "titulo": "Genial Investimentos inicia a cobertura de Lojas Renner",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDBieldra2dGNGxPeVg2ZkQzd1ZUOEl4RklETkF0NEwtYndJNzVDV3NOeU44LXBUbkdvMGxreGV0VFZXNDVpUFJJRjZ0ZndTQWtUeVBGUmhsSnhFQ2lHaGJPRXhPQmVnWHBsUGlQSkZZZGFHVTRPb1VZa3RMSDhwYXBnaFo2UUZLY09OQnZHdklWd3h6V0E?oc=5",
+        "fonte": "financenews.com.br",
+        "data": "2026-09-29"
       }
     ],
     "energia-gt": [
@@ -206,10 +206,10 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "Eleições 2026: O que o plano de Ronaldo Caiado prevê para a logística brasileira",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaHc0WTRoOUg1bTAzQ09IYnRRRGQ0ZzNNRmtKeHk3Sm5xS2x5VWNfY2ZqNHdfZnhsZmtDVFQ4dTRPcUlTMzVNT2RlNXZndDhicC16M1ZFR3BUQVJCMlB5TjZfMnlMZVdkSTU0Z2R4Ykx5b3JGeDNUY0tqZFdlR0xraFJKNVBlWVU?oc=5",
+        "titulo": "Eleições 2026: O que o plano de Romeu Zema prevê para a logística brasileira",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGc4NGlteGFMWjFKUHk4eWtkdk1mRTBLS2xZeVBQZjV2dzMxZ0xFLUdLSUFXcUY5Z3dPMVhZamhfU0NKODI5OFJTMHFiVm05QjNteTUxbmswOC16azdrMWxESEs2aEIwX3Y5YTVhMkFwQ2k4aXFldEJfN0I3ZTR0akFHZGpidEpHOEdoMlZ4a0ZaRk5XZndRaHNILUpfVlk?oc=5",
         "fonte": "Mundo Logística",
-        "data": "2026-09-30"
+        "data": "2026-10-01"
       },
       {
         "titulo": "O que os candidatos à Presidência da República prometem para o transporte e logística",
@@ -220,7 +220,7 @@ window.NEWS = {
       {
         "titulo": "Com a palavra, os candidatos",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTmtPQnh4MlRBRHhndnRoNm5YSnRDY2dtNlQxUE5IR2c5VGpOb0g5Qlc3c2FnZGJ3Z1VPMVhBaTduOEJkQTE1ZEFFVFRZQzVua0dyTXp3TkxzMTNuc3NaZTNxZXR5YVBUd0trRWhpeVpZTkk4MlJYNjVXakNDcFk2OWxnOEc0cjlaZlE?oc=5",
-        "fonte": "A Tribuna",
+        "fonte": "atribuna.com.br",
         "data": "2026-09-27"
       }
     ],
