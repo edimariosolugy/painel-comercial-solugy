@@ -1,13 +1,13 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-02T15:31:23+00:00",
+  "atualizadoEm": "2026-10-02T20:28:08+00:00",
   "itens": {
     "agronegocio": [
       {
-        "titulo": "Agross projeta investir R$ 71 milhões em nova fábrica no RS",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYU0yWEhRMDg5VmRUd3ZRSkJVa1JwQndWVG1oT29jZ3dkOTJWU2UtWUFUbEZidUE3bWpDeE9uUjN0bktCX0FkWnJGRWJ6TWZ6MXBVR3Z2Q1pVZWVsU0V4QVNSc1NnQ04yV09WSW9wZ0NGQVc1QWpwOWYwSmZNZ1RyZkozV1JWM0tBUVFNOTdxTlhmaE9Pb21ILQ?oc=5",
+        "titulo": "CNA defende ajuste fiscal para impulsionar investimentos no agro",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHFuYlpYN04wQXRlMUVXUTNGZ3Z2YW15TGg3SlBwY3FPeWNXelN0aU4zZXFHNGE4WjRLejBMeGVPRlNNejZDM0ttWDJLMVBwMHVaR3drai1XZ1JIS01tbkVXeXdPaFN5emFBaG5kTlhBYTdMQ2JVakdnT2dwalRldEJldVN0Znc1TnE0T1ZCaU92YXpyeTN2bGRXSUFYSm5J?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-09-25"
+        "data": "2026-10-02"
       },
       {
         "titulo": "Forbes Mulher Agro: O Brasil Já Provou Que Sabe Produzir. E o Próximo Governo?",
@@ -84,12 +84,6 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "Mercado de Cimento Branco 2026-2035: Demanda Arquitetônica Impulsiona o Crescimento - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPU0NFb0NKYWN0U25yb3NmX0pjc1NtcEpwM0Vzb2ZpZHQ1TDhiSWxIVFZYQXpDZ0h0U2lDS0MzaDMxMHVOTktsU2lZT2RTNEJDWk01c19NLVNhbk1jQTc0V0F5c2FYUGpNc1ZWb1R2VjBIYVdMcF9jd3V2bmdKLWRGUUtkeVphUEtOakhUVnV3Y2p2NlVFWEVHMEVTWUVsR3M?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-09-26"
-      },
-      {
         "titulo": "Construção perde força no Brasil, emprego recua e confiança dos empresários completa 21 meses abaixo dos 50 pontos, aponta levantamento da CNI",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYTdlTFl5NnY1eGxvQzJkWXlORWlUaHBNUHMyWVVReWFDb2dIbG1IR1FSeVJXeGpRN2pTUHFuTE5YZEh2VUQzclpQOVZaWVdMN1kwbkkxX0dlT05aUFNOc2YzSnN3RVlTeWZsSXJLMFFtcFQ0WU5tNHNzVGVQVFo0d0Y4Wk1meUFjcjZBaVFqUVZQd0ozSjFkUmNpZGR0SVhIeS1mRlhQcXlwNThZU0N2REp0RVJ2QWxKVHNPRkR3TGpnbDU5N0l2ejAwb3REY3FOZFdfV0gwUUNrVDBGN1pQcmJ5d2tFVk55QUg4N1VEZUZ5eEVtc2t1TzdNOTNEc3VKQ19EUWtyeHdqa01wVDBxU2xEY2lhOXB4?oc=5",
         "fonte": "Brasil 247",
@@ -100,15 +94,15 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTnJvVThEcmRoY29sZVpRXzFzRWJHb0JrNTdBcVVfeTRxTFVvNXZNcGE1UUhYOVRsX3FIN09WLU1YWjhYUkNSU0YzamZVUTBabDJxc1U5ZVdIM2llZjVzOUJGaDhFeno2VXBtZlpESmFONV9WOEVXTkRDWW9wam1tVUpCT2FQSXRtUXc?oc=5",
         "fonte": "Vietnam.vn",
         "data": "2026-10-02"
+      },
+      {
+        "titulo": "Obras no Viaduto Centenário avançam e recebem investimento de R$ 2 milhões em Americana",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOT2FfbnJlUmdtd21EUk5xdWEwaFVOSUtNa0xiUU5DSkdfV3Rjb2RfbjRwYjRxdE8waHhBWnNzTzVJZDNfZHNYOV9CTVpHelRtTFphZzBBTG9nZVY2TVJLd1pHejhJWHFGX2pKaEhUcENQVUhhbkptcEF6aXc0UmllTUd4TUNSRi1iMEVFMXJkc2dFSHdSLTlIYjZFd2VEMDJoZC1Rd3gwODhrZjFnQXlwcThpQjE?oc=5",
+        "fonte": "Portal Veloz",
+        "data": "2026-09-26"
       }
     ],
     "comercio": [
-      {
-        "titulo": "Lojas Renner (LREN3) | Iniciação de Cobertura: Na Vanguarda do Varejo Brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOcFdzUWtMRW1oRGJ0MVR6bnVKNGtraTRyMUNHLU1ON3dJcW5MbkxJYU5nQ3dfZlF2Vi1vQ25HRDl4U2I0Qko2N2RZMUdNeDJJN2pUa2s1b3hfN1F5Mk1tOEJUdlBvT3FLVlQ5SUZFdnhsQ1kwVm00RUtDanJSTzRfMmVNelJZVVBLbjJveDBnOXVoTmJUSXBja20wLVFvcmY2NV9IbW9zVElTX2tITDUtOU1oSWhkQ0I1YmhEa2ljTGRCQmdER3pZdkd5Zw?oc=5",
-        "fonte": "Genial Analisa",
-        "data": "2026-09-25"
-      },
       {
         "titulo": "DHL investe R$ 270 milhões para dobrar rede no Brasil e já entrega nos EUA em 48 horas",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUW1yd0pjSnBWQWM4dWRGODZjcUp0X0JZY3U3WVVyUU9lX0JZblVwY1FaSDFnYnplZWxqdWRrMC1rUEs2WkNZeGQwQzdfdy0wd3YxRHBOOEFfUG5tT1lrY0JUNlU2Y1FJd09wZmtDRklaSVlRbElYZDJ6R0hVMTAwb1g1Q25zd1dUSWZBdzJyTEV3dG9jemlwVlNBWEpNVDZpNWtmdVBvT1BteC15SElheEw3cUJIa2xLTDNWaQ?oc=5",
@@ -120,6 +114,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNXzViQjFFSDk4Q2hIeEVoT1lWOVd5MWRhVS1uYW5vaTVLb2VzSE9BMHgtekkyaGREYU15NTAtVVpnWExtdWZ3UElFYXlTbzBJZ3MzZUdLNFJaVXZNV09Ua0R4X0pZMkJxb082MWIxM0NlQnBubHAxTjdLNXVmdDVTNmFXVFhBeWdCOVhQUlZ2bUY5QQ?oc=5",
         "fonte": "Abradilan",
         "data": "2026-09-30"
+      },
+      {
+        "titulo": "Genial Investimentos inicia a cobertura de Lojas Renner",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcDBieldra2dGNGxPeVg2ZkQzd1ZUOEl4RklETkF0NEwtYndJNzVDV3NOeU44LXBUbkdvMGxreGV0VFZXNDVpUFJJRjZ0ZndTQWtUeVBGUmhsSnhFQ2lHaGJPRXhPQmVnWHBsUGlQSkZZZGFHVTRPb1VZa3RMSDhwYXBnaFo2UUZLY09OQnZHdklWd3h6V0E?oc=5",
+        "fonte": "financenews.com.br",
+        "data": "2026-09-29"
       }
     ],
     "energia-gt": [
@@ -136,10 +136,10 @@ window.NEWS = {
         "data": "2026-09-27"
       },
       {
-        "titulo": "Weg amplia projeto de fábrica de sistemas BESS em Itajaí, com investimento de R$ 330 mi",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOdkdnbm5uUXNCNVA0dkhrVWJZYllRX2NDbzV6Um93UTVHYkZWTXk1eTRUVjROQ0tuU1FGeWhoOEpGOTBXY2E1RkVaNnBYT19CT3dIWm0yQlJmeWJDb09WamJPVFZJQ1EtX0JrRkRMMzBWRGRDSlBpR3JYMVFFLXJWc0wwYmtQbzM3RS1McEVtRE0zTUV6RU1nT1pMYlg2OWEwaVFXWlF2aWxVdGtsUEhmSUdkQWFFVlEzdlNxMmFvY0s5aEdiaW9Z?oc=5",
+        "titulo": "ONS terá operação especial nos dias de eleição",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNWS1DNTliYjJyeHlRWVUxZE1pSVY5SllDb3U1UHRNS2IyQUFyLWRTVmpad1NiUERhUGkwLWh3TTgtbFRzMGVGZ1h3NjFPRXhJTkl6Q0ZLa0ZjaHhDNUExbTlWQm9kZm0yc3hxMmRPS2dVVUp3N2hBZkVPZG1fdlFwd3hXVkEzZ3N1V3lOaUZUMFRpLTd4X3dJdG1qZ09Qb290UkE?oc=5",
         "fonte": "Agência eixos",
-        "data": "2026-09-25"
+        "data": "2026-09-29"
       }
     ],
     "solar": [
@@ -199,16 +199,16 @@ window.NEWS = {
         "data": "2026-09-30"
       },
       {
+        "titulo": "Agross investe R$ 71 milhões para ganhar escala com fábrica em Carazinho",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZG01RmRXZVVlU24yZDJHQ25nZWFZeW5nU05wazNhRDZoY3NxdVFpcDRRMmItZFhLRWNRYW02THVURmx0R2ZOeWdhdldtS2RheE95djJkRlZBTEUxWU9zdDdocG1ibzlIb1N5MjN0TkdhOExrTzh5UVJ1TzlDQm5IbUJyVDNFZTVURTdvbXp6LUNpclZDY2stSW9TbnhyekhpbG5YZVlUWE1rWm9jWTRreEZiT2kyeGtpUk9FNXNMbktmaGVtYWxUanRWc3hUOUxldDY5ZmdLVk5FNWtfUnJrcmxxRk5ZSG9ZR1JBakZpR1F2X1k?oc=5",
+        "fonte": "Jornal do Comércio",
+        "data": "2026-10-02"
+      },
+      {
         "titulo": "Demanda por whey dispara e leva indústria de lácteos a investir em novas fábricas",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNYlNSZmp4azhNSWNnTEg4Z09nWGxSXzFFZWJwZXFETkFxZkwxaGtHU0lPZGlHRzBJbmRvc1VMQnRFWnVtaE5yd25RWE9GVVFtdVF4VVZWRmdpdWxZR0wzNkhIUDBqMXBhRXhjd3NWY25hVW1ISmloYXBvU1RuNkhjNWlMY0NZd3FxTGUtSVVScDFyYnZJNVJESWZTS1drWkN3WkJaaGZmMDd0UQ?oc=5",
         "fonte": "Feed&Food",
         "data": "2026-09-27"
-      },
-      {
-        "titulo": "Agross projeta investir R$ 71 milhões em nova fábrica no RS",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYU0yWEhRMDg5VmRUd3ZRSkJVa1JwQndWVG1oT29jZ3dkOTJWU2UtWUFUbEZidUE3bWpDeE9uUjN0bktCX0FkWnJGRWJ6TWZ6MXBVR3Z2Q1pVZWVsU0V4QVNSc1NnQ04yV09WSW9wZ0NGQVc1QWpwOWYwSmZNZ1RyZkozV1JWM0tBUVFNOTdxTlhmaE9Pb21ILQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-09-25"
       }
     ],
     "logistica": [
@@ -285,10 +285,10 @@ window.NEWS = {
         "data": "2026-09-29"
       },
       {
-        "titulo": "Irani é eleita a melhor empresa do setor de Papel e Celulose no Melhores e Maiores 2026 da EXAME",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQbXZzUVJ6ajVKeFliVkZIalNWTFRBUzN6WVlkei1SRHRpNXM1MDZic2o2TUFxN29XUnMzeUx3X1JRVy1xdXhXcmgtbWNkNXJIcnhaNTdNZmp3TTI4cmpkUktaU19DbmNjTDJwZVRXTFUzdHZKWS10dmpLWUdtamNJOW5NLTBRaDhyZWx0ZEwyWGJ3WnZoT19IRWtVTUx6dEtCbmJYdWYwVkkwNTJHN2tRR2ltY1hTaVJGbWx5c25NclBoNlBRNGlFWtIBzgFBVV95cUxOWDRsa054MldKVlNaMmhQYkFPaGk0UE9DaGZ1YVFIams3QVU3WUlndU1pMFhSR24yRkdKbEU0ZUpQZU1vZ0Q4aTRzT1R4dkY4WE1hNjFXc1VJcGhOTVUydk1JU1VWZEFWQm82eWViWUh6Q2RfY1NTVFZtb21fWFp6N1JURDJsWkZseHVtLVROM2M4OGVKbnEwczdPeE1XdFFzTERQLThjSW5vVnVsTkw5UEpTa3d1OHFyaUdMNURGVWdGWDQ1RmYyS3NpU3M1Zw?oc=5",
-        "fonte": "Blog do Prisco",
-        "data": "2026-09-25"
+        "titulo": "Nova fábrica de celulose avança no MS",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5tZ3dqdDdYNnRXNlRQblZjemo2OUR2ZC13RHFOTXFfRlptdmcyejk4Q3ljYkI4LWZ6SEhacHB3c3dLbU1oa3JqNFk5aGJXakxsMmxvWXJrU0h1LWVTdmpJU2syUDN3WXNFVGNGSnhnR3M?oc=5",
+        "fonte": "Revista O Empreiteiro",
+        "data": "2026-10-01"
       }
     ],
     "quimica": [
@@ -319,10 +319,10 @@ window.NEWS = {
         "data": "2026-09-29"
       },
       {
-        "titulo": "Brasil vê suspensão de leilões em meio a indefinições econômicas e políticas",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOTh6dU5sSG93NV84eDYwbk44WjVnQm5QZFNGczI1dTJ2azVlVGxnMzZGTmF0UFBRN2JfNzNvSHlRWUVlWFcwSEphQ3hPbG9VNjVKV0R0Y2tDa0d3WHl2Z3hTS3d5bzRWbjhhTm5xclZrOTN4Z2NMRHVFc291M1RjRXlmN0ltNkRJVEJ3MXFaYUZtZEN3bFVIajRDdENRMGlJZlc2VVpmdzNzSnJndlNfVkI3MlF2dw?oc=5",
+        "titulo": "Brasil deve ter R$66,3 bilhões em novos investimentos em saneamento até 2028",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQRU9CTW9VVTU4dk9lSGlQZ0o3Wm5VM3hldk9aQkR0d1ZIMWlpdGNoNDBGZXpmekhHVWdEeENLbGxvZGF2UkFEVnhEQzhHWEVxWWtCdVR6LXFxeFdFZjEtLU1zSW1oS25MNTFDWEhSS01iVUVERkR6Q1lFWWpQVm1yT0FhRFFJQS1Ud3VOdlo5RWdZRVJKY3piYXgtWkREU1lhSzY5MHdUMS01ck5kZVZsbDR3?oc=5",
         "fonte": "BNamericas",
-        "data": "2026-09-29"
+        "data": "2026-10-02"
       },
       {
         "titulo": "Ceará prepara nova PPP de esgotamento sanitário para 104 municípios do interior",
