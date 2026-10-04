@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-03T22:01:59+00:00",
+  "atualizadoEm": "2026-10-04T02:27:25+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -38,7 +38,7 @@ window.NEWS = {
       {
         "titulo": "Indústria de carnes projeta negócios e novas rotas de exportação após feira no Peru",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQV3lwZU9rZ1puWFRFQ1ZBeFhrUVpWZVl1aW8zY3hERm0ydUJWUUJjUU9oWm5sdzRmbm5EZkxVUzVHSWtEME1NaEdRQnBYYWJteDdLclNBaEZxYWdJRWgtRGtrXzVsajBLS290OXFzY1JsejNlZXA4ZFBxeFpTNThHX1JxMjhNRmNMUnJaZVF1dnV3N21weWVGX3NrNXBHdEhvZ3pXUl82eUVPVjdwd3NHUlc1STNQZURULWJiRkFNTlBPaGFYMndOQ1lhUTdJNFJ0Q0hSSUxEbknSAecBQVVfeXFMTkxFMlVOMFZ5MEp3R05LMmtNTUZ1OVQzajFJTUxxbWVKSUMzRXhNdEJnNXY2cVczWEQyV3ZzdkZDeWNkSl9GejZnRUQ5Y25EdVE1VHM2ZTZuWWdmQThIR2hDTFJSdG5hMFlqSUpPcENDRTBIc2JTVjRuN2RFNl9TbkJ6bjM2THU5RWlnWUs2LWl3c2F2TldkcDlINGJKcWhIZWMtV1NKZXV0cC1kRDhWRUZ1SlJ0UlFXdW5jOFdYWFlhd1BlemkyaE1fbmV1ZjRwRlRwaVd0VlI2ME9MR3NMX2hnd1JFdXVN?oc=5",
-        "fonte": "globorural.globo.com",
+        "fonte": "Globo Rural",
         "data": "2026-09-28"
       }
     ],
@@ -56,10 +56,10 @@ window.NEWS = {
         "data": "2026-10-01"
       },
       {
-        "titulo": "Indústria automotiva brasileira remete US$ 724 milhões ao exterior",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSW53OFZOVUtfUEJ2YXpkMlJKSjZOMm5uR2hpZTRheHBPYWJvR1FtaHcyd2FwVEZyUWRUQTJjRWdVM2JqUUNkUF9BemNqR2NPbjltM3RieFJXdTNuU2NhdVZBMEw5Tmh4SUc2NWtlWm1MMUV6Wm9mRGlMa3hCUjVGd0dSUFdPYnVlVDVWLUg0RFZWS2FCc0NwdjhDRGxGQTFsT0VqbmN2amFyMGVSZE9hTmJPc2RGVHZXVGVRY0xFRmRJZVU?oc=5",
-        "fonte": "Portal Hortolândia",
-        "data": "2026-10-03"
+        "titulo": "Montadoras no Brasil ampliam importação da China com fábricas de elétricos",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRU9lWTdJM3oxTXlzWHNlMDU4cE55cFlrLVF0blJ0cm91T3RaUXQ0azN4eVBMUTB6c2FKRlJhUGtOaWRxOWZUNFQ1SGRSOTJQOUhaeG1ncVVmSXl3X0NOcDJBSTl6eWdlVlJ2VGphOHB2T2RDaTE0YmxnNU12Wlo1eFFuUVEtR01pWVV2dV85WUJTX1VXM3N0OUxodU9kb045cGtEQWlOS0xvUkVjcUxuSF9ub9IBswFBVV95cUxPRU9lWTdJM3oxTXlzWHNlMDU4cE55cFlrLVF0blJ0cm91T3RaUXQ0azN4eVBMUTB6c2FKRlJhUGtOaWRxOWZUNFQ1SGRSOTJQOUhaeG1ncVVmSXl3X0NOcDJBSTl6eWdlVlJ2VGphOHB2T2RDaTE0YmxnNU12Wlo1eFFuUVEtR01pWVV2dV85WUJTX1VXM3N0OUxodU9kb045cGtEQWlOS0xvUkVjcUxuSF9ubw?oc=5",
+        "fonte": "Mix Vale",
+        "data": "2026-09-28"
       }
     ],
     "bioenergia": [
@@ -78,17 +78,11 @@ window.NEWS = {
       {
         "titulo": "Indústria de bioenergia em MT movimenta R$ 586,6 milhões em salários",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQMklvbUJuaWJFNnpJOU41TGlaeVJDSlVjd05jMHZRa01JcGJWQlk1MnZkcW1pOW81MTdNZ2NGNFMzQ3pmeGtrWjJzNG1qQVlzb3lQcXdDWV9ENkFWMGRGZUFIaUtsMVY1ak44RG45eDhHT2lFbm5sSkNTUmdwQ0NHZlFjUk0xTUpuYzdUdm1LQkUwSFVNbE5VWXZ5bFA2LXVRQVJUUWU1Y2FIX19FbEk4NE5WTDIxTk5heGc?oc=5",
-        "fonte": "JornalCana",
+        "fonte": "jornalcana.com.br",
         "data": "2026-10-01"
       }
     ],
     "cimento": [
-      {
-        "titulo": "Construção perde força no Brasil, emprego recua e confiança dos empresários completa 21 meses abaixo dos 50 pontos, aponta levantamento da CNI",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNYTdlTFl5NnY1eGxvQzJkWXlORWlUaHBNUHMyWVVReWFDb2dIbG1IR1FSeVJXeGpRN2pTUHFuTE5YZEh2VUQzclpQOVZaWVdMN1kwbkkxX0dlT05aUFNOc2YzSnN3RVlTeWZsSXJLMFFtcFQ0WU5tNHNzVGVQVFo0d0Y4Wk1meUFjcjZBaVFqUVZQd0ozSjFkUmNpZGR0SVhIeS1mRlhQcXlwNThZU0N2REp0RVJ2QWxKVHNPRkR3TGpnbDU5N0l2ejAwb3REY3FOZFdfV0gwUUNrVDBGN1pQcmJ5d2tFVk55QUg4N1VEZUZ5eEVtc2t1TzdNOTNEc3VKQ19EUWtyeHdqa01wVDBxU2xEY2lhOXB4?oc=5",
-        "fonte": "Brasil 247",
-        "data": "2026-09-26"
-      },
       {
         "titulo": "Dona da Cimpor compra grupo ucraniano de cimento IFCEM",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMVIzM2xtYXdWZW84c0poRHhwYzh1NHUyWjcxTWR5NFBlOFFncHlFRkFmSXpsQWJVbkFTYWpMUzg3WjhMc1hwNTF6dHdzWFJXekFxY0RKTWxqRWFsemtiVXJxQUE1UFNjejlTUkpKQ29QcG11cE04Sy1MVGdKM0pBNm9ZZXN4bWRvcEFz?oc=5",
@@ -106,7 +100,7 @@ window.NEWS = {
       {
         "titulo": "Calçados movimentam indústria e varejo e atraem redes para a Paraíba",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNN3YxX1R6WldIaVBWblJnLVRNNGZQeWNaTHhPcVBTNlpjcnA5QWdGOXZnckk0ckhBZUFfd2lBWTl3Z3Zzcm93MWJrNVJCOG84czh6N3hDb0Zqbkh6Vmg0aGJRcFAtaEQxdzc2b0FDMmV1UlpYWmZsaldyUWJPSWpTT1pyaXFzbHNrbHY4Sko0TFZXVlZJZmRNVWZwdEp6clJ1Qmc?oc=5",
-        "fonte": "paraibabusiness.com.br",
+        "fonte": "Paraíba Business",
         "data": "2026-10-01"
       },
       {
@@ -120,7 +114,7 @@ window.NEWS = {
       {
         "titulo": "Manchetes do dia: Brasil programa R$40bi em leilões em pleno ciclo eleitoral",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGNJQ2tmc0EwcDJXWmxXZXd4Q2pyeW14NzE1ZHl6NmZhWUVLaE1OV29FMGltb3dGckxZM2pDSDRQZU5nLXowVC1kV1hpQy16d2RHRGs5S3MwYmEwSjJRSlR1M1kyMzduVHZhTVExUlFWUTQxdEFHTjBMRWpESE02eHdwZ01HXzRnd1NyTkhRdTlSM0wwWXBjLVZZY1ZpNWtGMUZfWkgtZFRXS0VNS2ZEdmNzbw?oc=5",
-        "fonte": "BNamericas",
+        "fonte": "bnamericas.com",
         "data": "2026-10-01"
       },
       {
@@ -174,7 +168,7 @@ window.NEWS = {
       {
         "titulo": "Indústria farmacêutica como pilar da saúde no Brasil",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlR1R25BSmlMdnNnaFkxaTVJTWw4cmJhd3lQa0Y5LXZvN0cwQ0JiMkFCV180dnRCZzFWWWw1YkVjWXRFMWlpb3hOUU1MX2RQMlllZVZWQ1F0c3pQbldSaWhxY2R2TE5nOVJrMUJhc05qbkRYbWhmMDRydmZtU1RZdEJ2X1VDcVA3Qnk1SHNvZkhSZklfQ01PZnNmdTJMbDQ?oc=5",
-        "fonte": "arenadenoticias.com.br",
+        "fonte": "Arena de Notícias",
         "data": "2026-09-29"
       },
       {
@@ -235,7 +229,7 @@ window.NEWS = {
       {
         "titulo": "Abimaq: investimentos em máquinas recuam 5,2% em agosto na comparação anual",
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcTZwN09pSE16MlNXQjBYSkJoeWIwQkFSVjlIeEZYVURqZ29BWk10V0xWSlplbXBVenNGdEV4T2ZkcC1YQ3hMcG1senZRWExIZVZsRTByOWJST1BoWTZ5al9sQmZYOXV3LW5zOU91QnZjN3VRVzRGYnZsNjZTQmFIY3MtMUs2dXpkemt0ZEdfT2NRUGt0cl9SVnZlUHc4TEFKOGVjVFk5LWd4U1d6d2E0U2lHd2p5QQ?oc=5",
-        "fonte": "DComercio",
+        "fonte": "dcomercio.com.br",
         "data": "2026-09-30"
       },
       {
@@ -255,13 +249,13 @@ window.NEWS = {
       {
         "titulo": "MINERAIS CRÍTICOS | O Desafio do financiamento de projetos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOEpVVW9DZVJlRk1walBCRXp0ZDE1bHZ0RFNON2lHblVPRHJVRmJIc0l2akYteFRCX1R6VnE5a3o0VmY2aURGS2NWUGk2YzB2aGZMV3laNnBoX3RTZTVjMWZDaXA2U3hTRnlIQ1ZQbTNidGtzakUyalUzRUtnRTlpTndOc3hONU5fVUxCTm1MQklEOV92?oc=5",
-        "fonte": "brasilmineral.com.br",
+        "fonte": "Brasil Mineral",
         "data": "2026-10-01"
       },
       {
         "titulo": "Parceria prevê pesquisa e formação em minerais críticos — Agência Nacional de Mineração",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWndUbndTOFRUd0JmMWc5eGxQd3J1SW1oRHFNS0xVTVdXYURrUDVBc2hGMG1OTUs5VHdZLWw3enl2ZVNxUTBNYXAtUFZ6Ynd2d1Y4WHZsd0VRVWhVZUJkNVJlOHJ6cEVGS0xRMVRGdnJ6VG5OQklvYzFUbnZudFJFQ2JYNzJUcm5NS3ZKelNYM2JlUldsSWszbW5mWEgwcGZwUnRxQQ?oc=5",
-        "fonte": "gov.br",
+        "fonte": "www.gov.br",
         "data": "2026-09-29"
       }
     ],
