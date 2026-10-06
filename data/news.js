@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-06T15:45:35+00:00",
+  "atualizadoEm": "2026-10-06T20:50:32+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -13,13 +13,13 @@ window.NEWS = {
         "titulo": "CNA defende ajuste fiscal para impulsionar investimentos no agro",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHFuYlpYN04wQXRlMUVXUTNGZ3Z2YW15TGg3SlBwY3FPeWNXelN0aU4zZXFHNGE4WjRLejBMeGVPRlNNejZDM0ttWDJLMVBwMHVaR3drai1XZ1JIS01tbkVXeXdPaFN5emFBaG5kTlhBYTdMQ2JVakdnT2dwalRldEJldVN0Znc1TnE0T1ZCaU92YXpyeTN2bGRXSUFYSm5J?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-10-02"
+        "data": "2026-10-06"
       },
       {
-        "titulo": "Do endividamento à imagem ruim: os problemas que o agro quer ver resolvidos pelo próximo presidente",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPdGFQOVpmX3puSTY5YUJ5NUVLZjhMWS1oejdocnNzNlFvZ0Fvc2hlczdmTW5sempWTW5XZGJ3TjlINHBMWmhTa3MzS2k0UWhfTTBLc0tYOXBGVDRvU1J5STZQRVpHZU9KUmYtRHlTOGtuYnBBemNMMjZsb2IxYndsZTM3Sk1Vd0lqYzdnZ2pMM0puNnh1YmFibjRvcnF0d21fUnJ4cWdzRkphaFpGcm5ZeGdwTm5VVVN0WkdRSmltU1ZRR3ljUjlpOE5wcldoWWlWbUxUbDZGbnhubUdnSy1oVEhLOVhrdURveV9GLWVmQXlWMldjeU1SZExR0gGIAkFVX3lxTE42QlF4ZmNhblB2cTZndFRmTlYtTmZhWHNSMjg0cmd6UXNhdDFZa1ppWlBqcUIzNUhxLUVOUEpmYkNGNzB0WGs4azZEXzFSQmZ2Tm8yNFNaajdHZ3hCV0t5ZF9WanpJVUNIZ2NQc281YmNQWFpYbk5VWlpES2FISS1tR3lHWGNGdklqMEFrRTZpMWRMNGVZRk45NElGcnZ6bG5oNm5tY0FCazg0ZnJPU1FxdmNvN1BvOTFPQWRoVjBtS2NuZUJiNTE3dlFxZ2g5aWxOR3k5cW9lNnFONkhxQ1BPTlV4UnJOUmNuUGVROFRHZ3dnamd5U0pIalhkNVlpM240UDBndkNfdA?oc=5",
-        "fonte": "G1",
-        "data": "2026-10-04"
+        "titulo": "GAFFFF 2026: inovação, sustentabilidade e investimentos no agro marcam o 2º dia do evento; veja os destaques",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWlUyNXFFc3hoVDZ1ckJWWENmcEdPNHdkZU9YVEhHcWhHaDRWQnhsUmNhLVB4VUtZbDI3TmpUTzMwTlhoM0ZiUEhsSnkxY084U01fN0xtN25TMDdaSHJtY2NxNFoySEFON1l5aWx0ZkZyQmg5X0hFN1dERHJ5LXc?oc=5",
+        "fonte": "XP Investimentos",
+        "data": "2026-10-02"
       }
     ],
     "alimentos-bebidas": [
@@ -54,6 +54,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3JUU2FFeFNwNHg5Vm5LaFZ4X0dTeXp0TmdmNXphZk5BVlRYaU5PSTdXY3JhRXJycFAxMlloS1JLV3ZfYS1QNVZQbTZSLXRJaVZsUG9NUjMwRHRJbnB2bVlUTWNZTHZZVXZwZnM3VDRJQXBsb3JxbDZHb3YwNmpRUzAtRkg3TFU?oc=5",
         "fonte": "Mobilidade Sampa",
         "data": "2026-10-01"
+      },
+      {
+        "titulo": "A Importância do Setor Automotivo Europeu na Economia Global",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcWxTNWEzZXFLbkhnTHpBUjRBb05pNEV1MkxXcU5qNnlMSmpQWmprbnh2WGFBTWJmOU45SnJ6M29IX3M0NHdWRVhBNXVOOU9USlpIbU1kdDZReTV4YlNJNjB4SHlVYjNiTUdFLXVDc1JUREpBZ005UXZLTzRWTFR5WkNUcENuY0VSX1dDYWRHakhzX2sxdVJKLTI3a1BvMGtfMkxuMFFSMXhBdVlQbXVGaXFuSlhUOUU2M3hxNg?oc=5",
+        "fonte": "Portal Hortolândia",
+        "data": "2026-10-06"
       }
     ],
     "bioenergia": [
@@ -156,6 +162,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVF4cVdNanE5bXNvdmlDYzF0OHBoT2xZVVFsVU9icUVJcVEzS255UGNTajBUQmxSYzhGWnczX2hYVHVWLVZmY05DUHd3aVYxTUN6UWU1amdUT2ppeFVQV0tTOTZvOFNQWnMwQzEtUklINFVsbURIMXNWQjNOcWR3Rzk5RjR0X3MyTFVuR0RnSTJJZnFsd0RoM0U5RmFtSmttLUlxRlNOdTlkeVhRMWJBVHBnSWJZTEhIUk1fLXF5akZRTWs?oc=5",
         "fonte": "BNamericas",
         "data": "2026-10-02"
+      },
+      {
+        "titulo": "Licitações para mineração, data centers e armazenamento: Trinasolar analisa Chile e Argentina",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxObzdyRF85THBmOVdCMElrSmdQbDcxN240NmJKMnpXTHJlTkpXZXBtUXR2V2RrRk9weDczZ3ZsM1JFdFM5Vk8za2JvVmptR0xRLVlmb1QtZUdkN2F5ck9KNzNxUEhkMFhGVEUyaVlDQTU1REd4bk05Q1BLclBOQTRqWTAxdG1hcWVETzVrMDBBcXI2elNROVMzLXMyQmlZQzZTRlB4aGUyRUpqWEM4aVZVWVRkNDJRb0dOU2ZpUnNXZ1ptR0M3d01vX3RZb0hKZw?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-06"
       }
     ],
     "farma": [
@@ -187,16 +199,16 @@ window.NEWS = {
         "data": "2026-09-30"
       },
       {
-        "titulo": "Agross investe R$ 71 milhões para ganhar escala com fábrica em Carazinho",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZG01RmRXZVVlU24yZDJHQ25nZWFZeW5nU05wazNhRDZoY3NxdVFpcDRRMmItZFhLRWNRYW02THVURmx0R2ZOeWdhdldtS2RheE95djJkRlZBTEUxWU9zdDdocG1ibzlIb1N5MjN0TkdhOExrTzh5UVJ1TzlDQm5IbUJyVDNFZTVURTdvbXp6LUNpclZDY2stSW9TbnhyekhpbG5YZVlUWE1rWm9jWTRreEZiT2kyeGtpUk9FNXNMbktmaGVtYWxUanRWc3hUOUxldDY5ZmdLVk5FNWtfUnJrcmxxRk5ZSG9ZR1JBakZpR1F2X1k?oc=5",
-        "fonte": "Jornal do Comércio",
-        "data": "2026-10-02"
-      },
-      {
         "titulo": "Co-robotização, parcerias e investimentos: como a CNH usa “ciclo de baixa” para transformar suas fábricas",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0NoNW9NUzUyRm5lNzNuRTBTc0lqaURIS3RiMEd5dmw4T2gtcGlMVEprNGVGMEVWX1VGckg1M0t1NU9wdFBoZ1E5QzBFM1ctaW1aZ3JMeFktcXlsOEh2XzAxalhGbnNwVlZnTFdkLVM0NzVQUWRXSVR6Mlo2cG1LWUlOUmdQQ1QzSVJIR2ktRndVR0U1Q3BUWHNWQlBmVC1FZ0FSWHJndWVEcHJzbDU0N3l3SnFNcWY5eEtfRDVIcTQ2bGdRSUZSV20xb20xUQ?oc=5",
         "fonte": "AgFeed",
         "data": "2026-10-03"
+      },
+      {
+        "titulo": "Agross investe R$ 71 milhões para ganhar escala com fábrica em Carazinho",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZG01RmRXZVVlU24yZDJHQ25nZWFZeW5nU05wazNhRDZoY3NxdVFpcDRRMmItZFhLRWNRYW02THVURmx0R2ZOeWdhdldtS2RheE95djJkRlZBTEUxWU9zdDdocG1ibzlIb1N5MjN0TkdhOExrTzh5UVJ1TzlDQm5IbUJyVDNFZTVURTdvbXp6LUNpclZDY2stSW9TbnhyekhpbG5YZVlUWE1rWm9jWTRreEZiT2kyeGtpUk9FNXNMbktmaGVtYWxUanRWc3hUOUxldDY5ZmdLVk5FNWtfUnJrcmxxRk5ZSG9ZR1JBakZpR1F2X1k?oc=5",
+        "fonte": "Jornal do Comércio",
+        "data": "2026-10-02"
       }
     ],
     "logistica": [
@@ -235,17 +247,11 @@ window.NEWS = {
       {
         "titulo": "BENS DE CAPITAL | Receita líquida de vendas do setor cai 15,5% em agosto",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQV9xTi1KM19UVGFRS3hNODd6VERlY0h5azgtLUdVdkFKTURILXFMRUtMZVJfUGJFNHhFR2V1bGpDOERlNU5UVnkzOWMtS2EzM3dFb2dDS2hxazNTZVZVZFhMbUppX1dqMjhDSEs3ZE83OEFUdHV0VkxXcElwSjJ5eWRoRzJOZzVhd2hKX25vbHlDNDBv?oc=5",
-        "fonte": "brasilmineral.com.br",
+        "fonte": "Brasil Mineral",
         "data": "2026-10-01"
       }
     ],
     "mineracao": [
-      {
-        "titulo": "Investimentos de empresas estrangeiras colocam o Sul de MG na disputa global por terras raras; entenda",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZXZNelRZYTEyaHlaTmZKX0hPNFVsZWJNQWJjSVRSWnB3bVVfUU8zZUFfbXgtVWRXaEdQRU1XSEo3VGhkcDdhZG8yQUFYTElCOUNUVi12UGRCVkZhdUVQWFBBNm5jc2I4SEVKSTJwdFFhWVlFeFpwMGp5V1NXTl9QWFRPY3BhVkZvLVpvYmctcC1mS0IzOWhzaXNJNHpHMjZEVFFpbjdyalljRzBINU4wZ2lWNU9GamctWVd0T2NtT0RCUlpyaFJ3ZTYwem1tdFVGeEZFZUtkRFphMWtYWXdGY0Z4bzk0ajZIeXhNTmNtVTJuZ3lTMWfSAYQCQVVfeXFMT3JXTzhkZThHSE1ZRUM1MVk2MUMzanFmWHZmbURHQnM5Y2JNd2FKY2wyUDc3SlpaYnE4eHZtV2FXdnJJMEJyRVRwTXF4bGZwd2txRUExMTNDeVRtRFVpa0pnTkFhMzR5elNteUM4TFlJYktwdElZSzJMNTVCcVZybXNHNnhFcXM1MDBpOThILUF3NUwyM0N2dDRZMFc4emh4aW9kcnNobk0teG1qRm5rX1FuWmM3UExQaU5pTFV6TWJrZ2JiMF9vc3Y0UmhJNjQwenNRck16YlMtamlaMV85T3pvb1lfcmc0UWwtTzNWSVhUSE90WmFRQklpb3F1NzRsbFM1TnQ?oc=5",
-        "fonte": "G1",
-        "data": "2026-10-02"
-      },
       {
         "titulo": "Governo do Brasil vai participar de reunião do G7 sobre minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2FaX0luZGdUaFNVM3Jvd2lIT2FVUlJpRVlZNnlDRktjLWdjVEpQdDBMRzNfVzlFOTM4WlMyRmV1OWxqbjFiOTFBZEJESjlEU0Y2aVR1QU80WGJTaGJRUDdsZDVxNk5tODhuX1dUQlFGTkI5OHpFVDc0bFBZbEJMbjdjMXp4MXQxdWZLWTdNVzg3Zml6MUV5QUk2VU5xLXlaUUdmNjhGZ2VJV0VWdlE?oc=5",
@@ -253,9 +259,15 @@ window.NEWS = {
         "data": "2026-10-04"
       },
       {
+        "titulo": "Investimentos de empresas estrangeiras colocam o Sul de MG na disputa global por terras raras; entenda",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZXZNelRZYTEyaHlaTmZKX0hPNFVsZWJNQWJjSVRSWnB3bVVfUU8zZUFfbXgtVWRXaEdQRU1XSEo3VGhkcDdhZG8yQUFYTElCOUNUVi12UGRCVkZhdUVQWFBBNm5jc2I4SEVKSTJwdFFhWVlFeFpwMGp5V1NXTl9QWFRPY3BhVkZvLVpvYmctcC1mS0IzOWhzaXNJNHpHMjZEVFFpbjdyalljRzBINU4wZ2lWNU9GamctWVd0T2NtT0RCUlpyaFJ3ZTYwem1tdFVGeEZFZUtkRFphMWtYWXdGY0Z4bzk0ajZIeXhNTmNtVTJuZ3lTMWfSAYQCQVVfeXFMT3JXTzhkZThHSE1ZRUM1MVk2MUMzanFmWHZmbURHQnM5Y2JNd2FKY2wyUDc3SlpaYnE4eHZtV2FXdnJJMEJyRVRwTXF4bGZwd2txRUExMTNDeVRtRFVpa0pnTkFhMzR5elNteUM4TFlJYktwdElZSzJMNTVCcVZybXNHNnhFcXM1MDBpOThILUF3NUwyM0N2dDRZMFc4emh4aW9kcnNobk0teG1qRm5rX1FuWmM3UExQaU5pTFV6TWJrZ2JiMF9vc3Y0UmhJNjQwenNRck16YlMtamlaMV85T3pvb1lfcmc0UWwtTzNWSVhUSE90WmFRQklpb3F1NzRsbFM1TnQ?oc=5",
+        "fonte": "G1",
+        "data": "2026-10-02"
+      },
+      {
         "titulo": "MINERAIS CRÍTICOS | O Desafio do financiamento de projetos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkQxay0tcnFHd0lWZ211S01aVUdSNEtGa05yYTdGRFJDaTVhYUI1OGRuMzV1eWQ1akM5SHBSVFI5TnhXNi1GQ0VvWkprN3lxRWlOdnBaeXlSbzlwbXRPVHdUVzNVVkUwUzRZeUxLM21QWUUzdXpZN2FEbnJtUERtSllzTEM5RlVnNGMwdm01QQ?oc=5",
-        "fonte": "brasilmineral.com.br",
+        "fonte": "Brasil Mineral",
         "data": "2026-10-01"
       }
     ],
@@ -269,7 +281,7 @@ window.NEWS = {
       {
         "titulo": "Opinião | Farol em tempos conturbados",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY1RQdW40dXllekY5cW05M056TGM1dzJSd3BxNThCd1FfQVgtSFBjU0tWVzdDc1F3WU14QnVDVUZWNVZ5RGZ5SzZTNlBQQ1pZRXVfYmJFcVpxeU85NlpvTzg5cVJLY29TWWJjNUEzUHp0enE3Rk50b1NKTTdQRHR0TTlOQQ?oc=5",
-        "fonte": "estadao.com.br",
+        "fonte": "Estadão",
         "data": "2026-10-06"
       },
       {
@@ -285,6 +297,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYmV5Vmt2a3hXWGstZFV4a0dPcVptQzJDLURHMkF5aHVGaDhqUmFIUDhDd2Foa3pBSWN1a3MzVXZ2TDYxTFlhb28wY2NTNTBpX2UzdTJlUGs1bF9NZi0wSE9jMVJKMnE5bWoyUE9CUUhrVnNpdlp2UEwzQ3lHNUNzb3RWVzJRb18wTGlLYXJJZzlnOS1vYXJ6bnJBMFFha0dzbkxDWnFVUV81S2JSYnBCMUlWSTFRUlZQVUozTFdNQUtGd05TWkZ3aktHVzdxN1Z2NndZRVFXVWlvaVVIcjllYXhZSEticUls?oc=5",
         "fonte": "IndexBox",
         "data": "2026-10-01"
+      },
+      {
+        "titulo": "Mercado de Tanques Isolados a Vácuo para Hidrogênio Líquido até 2035: Demanda por Infraestrutura de Abastecimento Acelera o Crescimento - Notícias e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOY1NHUkVVR1dSSUFnODI2OFF3MnM5a3pXRHdZVndCNWMwQy1qbG1fTnJYVlBpOVFjcDlnTngyRnh3MlRuNjgtYVJrR2E0Vm1URlpnZWdzcUtTemlhdWZLYWtaOTJUd0NSUWxFeDNEeDVQVjhPaDVBTEJRRVRPU2ZQSTRpV3dXMm9pUnF2cnlnWFpEczdyaFByTVNPX2kzLTc4SU1oN0tJRU1pSFBSUVIzcWZPdWdYZzh5QlJ4NzB0eS1pLUxYU2tUendFQkZveTFKZS14SkYwNzZLWVk?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-10-06"
       }
     ],
     "saneamento": [
