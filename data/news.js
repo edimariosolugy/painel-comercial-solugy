@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-05T18:06:23+00:00",
+  "atualizadoEm": "2026-10-06T00:39:54+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -52,7 +52,7 @@ window.NEWS = {
       {
         "titulo": "Lideranças do setor automotivo discutem inteligência artificial e conectividade no Brasil",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3JUU2FFeFNwNHg5Vm5LaFZ4X0dTeXp0TmdmNXphZk5BVlRYaU5PSTdXY3JhRXJycFAxMlloS1JLV3ZfYS1QNVZQbTZSLXRJaVZsUG9NUjMwRHRJbnB2bVlUTWNZTHZZVXZwZnM3VDRJQXBsb3JxbDZHb3YwNmpRUzAtRkg3TFU?oc=5",
-        "fonte": "mobilidadesampa.com.br",
+        "fonte": "Mobilidade Sampa",
         "data": "2026-10-01"
       },
       {
@@ -66,7 +66,7 @@ window.NEWS = {
       {
         "titulo": "Biocombustíveis somam R$ 289 bilhões em investimentos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmFmZnhncHlEU3JsVUItbURrQl9MM2dfMnJraG5pM25RUm1VZ0FULWphbVdfaV9LVW1WQ05XaFYtc2wzVExrRF9QWEQ0WjduQnFtQ1RnbHJKNDFLVlFVTVJiV01fQlVESkJ2RVlQNExLelk4NUhNMWJEcnQ4cFRIQXlQQnpVNlhxNDlCNnZGN1k5a0V5YnRoWkx6THI?oc=5",
-        "fonte": "novacana.com",
+        "fonte": "NovaCana",
         "data": "2026-10-05"
       },
       {
@@ -84,6 +84,12 @@ window.NEWS = {
     ],
     "cimento": [
       {
+        "titulo": "Novo cimento especial para rodovias é lançado no Brasil e já foi utilizado no Paraná",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVHl2ZHRpaS0wYnhfQ0xyMXBNWmsxeFg5NU9zRnh4RC1DVmxPSUxPak9MZFlZX2s0ZkJ2RkowaVI0UmE4MVRtSnBaSWVGc3l1dGlNaC1oWC1hb0dtb0libkNBaUZDY0hzVTZDQXhmQ2pHLV93dm91bmVuRDFITkNWWW9CS3Y5eHpkanZNcUFLV0JUczVUQWprbEstTjNrdTh5cDJZY2toeGhMX2tpczhpekh6SkRrdTFEblFSbFhnU0_SAdIBQVVfeXFMT2dVR0pyeTlsSmJiclFsSm5EZ3dBbHVUOGVWeFB3eXdXQTZFMHdSNnExSWxqdmd3amtwakhMMXU0aDF3dmQ2RXpUYTNmRkFkQjBpa1ZKdUpyV19kZkFxcUFROGs3R3I3WDlMX1JxcnpPUEY1WGZOSDdLaEpaWW5xSGlaOFRlWWFseXJtRFh3a2tza3BrZndESzNuNUZKSU9rSmZKb2FrT2RUZk9iUUVyRHVKeGx5WjN3dmpJaHNiY2dVU3pwdVhQdjVfemlFemF5S1VR?oc=5",
+        "fonte": "Bem Paraná",
+        "data": "2026-10-05"
+      },
+      {
         "titulo": "Dona da Cimpor compra grupo ucraniano de cimento IFCEM",
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQMVIzM2xtYXdWZW84c0poRHhwYzh1NHUyWjcxTWR5NFBlOFFncHlFRkFmSXpsQWJVbkFTYWpMUzg3WjhMc1hwNTF6dHdzWFJXekFxY0RKTWxqRWFsemtiVXJxQUE1UFNjejlTUkpKQ29QcG11cE04Sy1MVGdKM0pBNm9ZZXN4bWRvcEFz?oc=5",
         "fonte": "Diário Imobiliário",
@@ -94,7 +100,7 @@ window.NEWS = {
       {
         "titulo": "DHL investe R$ 270 milhões para dobrar rede no Brasil e já entrega nos EUA em 48 horas",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUW1yd0pjSnBWQWM4dWRGODZjcUp0X0JZY3U3WVVyUU9lX0JZblVwY1FaSDFnYnplZWxqdWRrMC1rUEs2WkNZeGQwQzdfdy0wd3YxRHBOOEFfUG5tT1lrY0JUNlU2Y1FJd09wZmtDRklaSVlRbElYZDJ6R0hVMTAwb1g1Q25zd1dUSWZBdzJyTEV3dG9jemlwVlNBWEpNVDZpNWtmdVBvT1BteC15SElheEw3cUJIa2xLTDNWaQ?oc=5",
-        "fonte": "exame.com",
+        "fonte": "Exame",
         "data": "2026-10-02"
       },
       {
@@ -152,12 +158,6 @@ window.NEWS = {
     ],
     "epc": [
       {
-        "titulo": "América Latina define agenda de licitações de infraestrutura para o 4º trimestre",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXhfMVNMNEhJaHh0ZEwxYmF5Y1FiVjRONjVxTllaZWZudTFXaDE0RG9UMkViVWM1N1NTU0x5djBqM3hlTnhJcVBVLXcxY3ZzbGNSQVFNbDFUaVkyLVVjRmxRZlRzRFNTcWdRTlh6Tk9tRVZsRlNrME9GQnE4U2xpMTgxdTJxMzQ5ckQ2RlRjWlo4b0VYVTJ4OHYzT2d4RVdTWVB6d01sUkNjcHlkTktjbjR0b3RyRVVo?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-10-05"
-      },
-      {
         "titulo": "São Paulo prevê quase R$20 bilhões em investimentos em infraestrutura logística em 2027",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYVF4cVdNanE5bXNvdmlDYzF0OHBoT2xZVVFsVU9icUVJcVEzS255UGNTajBUQmxSYzhGWnczX2hYVHVWLVZmY05DUHd3aVYxTUN6UWU1amdUT2ppeFVQV0tTOTZvOFNQWnMwQzEtUklINFVsbURIMXNWQjNOcWR3Rzk5RjR0X3MyTFVuR0RnSTJJZnFsd0RoM0U5RmFtSmttLUlxRlNOdTlkeVhRMWJBVHBnSWJZTEhIUk1fLXF5akZRTWs?oc=5",
         "fonte": "BNamericas",
@@ -174,14 +174,14 @@ window.NEWS = {
       {
         "titulo": "Pesquisa clínica: diferencial estratégico para inovação em saúde no Brasil",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQlI0MWdLNkRTX2x1TV9EODF6NHNxVXdRWW5GRVRKWUpvaDZEOEgxYUQzTWIwNEI3Ym5XUWFMajZnTWNhM3lDU0JoVy15SEVoS0QwWTFJaTMwQ28yNlV0Tm0zWjQyaGxsalRfb0VRUFRHVjJsWTJNMmY2bm14VV9VMVlmOFNfR3NiWjliYjhfNWpoME55SmVCUXVCUWZMS1NxeVh5dG15b204SHAtM2JLS1M3a0dUVnlrWHNwRkZR?oc=5",
-        "fonte": "JOTA Jornalismo",
+        "fonte": "jota.info",
         "data": "2026-09-30"
       },
       {
-        "titulo": "Investir em saúde e inovação é investir no crescimento da América Latina",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNRnlYeXY1SjlnekVLcWc5cnM3ODRqcmJOVGJoUFc3S21yd1RUeUM1dU83YldfeGFGTlZZMUJlcXRpWXZ3LWhORGIydDZ2MWtuczdjdDVGUFlXa20xNml2RWYwU3pfbEhUQXlKSlVpY0U5WWs1SXU4NWhhWFBZcWZNVkhRcmYxWnhDMFVlU1hCbmVMVDFpaVBqVHVxUHg4eW90TG0yOGFwRi16YWpDanlieGJJREpwYmVFSm1LT2F0RTJla1hqSVhQSWNpdkZ6NWllOFEta29JMDdpRzFrWGc?oc=5",
-        "fonte": "PR Newswire",
-        "data": "2026-10-02"
+        "titulo": "Barão de Juparanã vive dia histórico com entrega de nova unidade de saúde e avanço para instalação de indústria farmacêutica | Notícias",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSUhjS1Y2Z2NsNDFtSVBGajJfNUlVc2xZdERQYVltZk41Q2FoZktjR3E1bmppaFBvajUxY2doX0s5Tng5d01aWVlrRkxWeDVqSHlqM2VuOEt3ZzRmekxoejFKYldiQ2gzaHBKMFZVdmRSUktiSDM2T0d3SFNPYWJBWkk0eklRXzA?oc=5",
+        "fonte": "Prefeitura de Valença",
+        "data": "2026-10-01"
       }
     ],
     "fertilizantes": [],
@@ -221,7 +221,7 @@ window.NEWS = {
       {
         "titulo": "O que os candidatos à Presidência da República prometem para o transporte e logística",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUDZZek1obWtsNkdUal96R09uV1pEM0xKREk2d2xCY0RpeGZwbjk3cXZjR3o0VWRVQnhiY1hEWUpIWl9tRGdTRTJ2OU1yUl9aZkwwTFpWem9acUZ1RmRHZkZaZWJ0XzV1OHFwMVRqeVBFNWd6S3ZVRlRLOWFUTnZwSlV3bUdyYzRPM2tXWlFtUXBkd3Q1YlMyb1gtQVpXN3pCTVB4bA?oc=5",
-        "fonte": "Transporte Moderno",
+        "fonte": "transportemoderno.com.br",
         "data": "2026-09-30"
       }
     ],
@@ -253,10 +253,10 @@ window.NEWS = {
         "data": "2026-10-02"
       },
       {
-        "titulo": "Governo lança plano bilionário para buscar minerais críticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNV3R5cldOallmazZ4WVdSRnI5dVpEM1lNX1I3N252enJJZmRwU0phZTJqTWFobmRhN2N3NTRLcEQzaTMtaUJnMldlUTMzQkpfZGpTcnVwcndPTnNWTjQyVlgwWVdCdWhweFN6UjRUeEJVZ1FGN1llNEJmN2U1OFZIUVBicHp4U3JWTnlVTzRWcDR6WEZTSUJ6UEJLZjJPTXkwWUFXek5uQmRNUQ?oc=5",
+        "titulo": "Governo do Brasil vai participar de reunião do G7 sobre minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2FaX0luZGdUaFNVM3Jvd2lIT2FVUlJpRVlZNnlDRktjLWdjVEpQdDBMRzNfVzlFOTM4WlMyRmV1OWxqbjFiOTFBZEJESjlEU0Y2aVR1QU80WGJTaGJRUDdsZDVxNk5tODhuX1dUQlFGTkI5OHpFVDc0bFBZbEJMbjdjMXp4MXQxdWZLWTdNVzg3Zml6MUV5QUk2VU5xLXlaUUdmNjhGZ2VJV0VWdlE?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-09-28"
+        "data": "2026-10-04"
       },
       {
         "titulo": "MINERAIS CRÍTICOS | O Desafio do financiamento de projetos no Brasil",
@@ -281,11 +281,17 @@ window.NEWS = {
       {
         "titulo": "Série do Itatiaia Agro 'O Valor da Floresta' mostra como árvores se transformam em oportunidades de investimento",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM29vdGNNMjdLOUVyU1lKNkttMmE3alllR0lpYzF3enpyOUJkTXNTSk9hbF9kSEVyczJUSk1oZ3RoaU9MZktWMTlrcXR5QmJ0Q2VWSzdOV0U3aDVpd3dUVWI2Yk1iOG5reTRYS0taZ1BYN25ZNVlvakhGNEJVbS0yVUZqOXVGNGFheFFmbWY1cDRfT1NaRWV6dEZPMmR2MjFXODkyT0FkUXZhemU4V2duYjBqcUgwNW1STmVpa2x0Y2NwWklYN3hRT3dSclJxSlJSVUI1eURyalVHUTJO?oc=5",
-        "fonte": "Rádio Itatiaia",
+        "fonte": "itatiaia.com.br",
         "data": "2026-10-01"
       }
     ],
     "quimica": [
+      {
+        "titulo": "Mercado de membranas para enriquecimento de oxigênio até 2035: retrofits de combustão industrial impulsionam a demanda descentralizada - Notícias e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQYmV5Vmt2a3hXWGstZFV4a0dPcVptQzJDLURHMkF5aHVGaDhqUmFIUDhDd2Foa3pBSWN1a3MzVXZ2TDYxTFlhb28wY2NTNTBpX2UzdTJlUGs1bF9NZi0wSE9jMVJKMnE5bWoyUE9CUUhrVnNpdlp2UEwzQ3lHNUNzb3RWVzJRb18wTGlLYXJJZzlnOS1vYXJ6bnJBMFFha0dzbkxDWnFVUV81S2JSYnBCMUlWSTFRUlZQVUozTFdNQUtGd05TWkZ3aktHVzdxN1Z2NndZRVFXVWlvaVVIcjllYXhZSEticUls?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-10-01"
+      },
       {
         "titulo": "França entra em uma nova fase de reestruturação industrial como as empresas reconfiguram operações - Análise de Perspectivas Esféricas",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWlhyVjBCVEFyWlhpZ1gtVDNJX0ZBZTE1RVExQVJmXy1vbm9zTWFDeDkzd3hXT1NRMlI2SUdYX3RWLWgzSTI2NEpxWFlIdlEwZ3I0R01qQU1MZWxVQW5zQm5KeE00SjhnNF9HWXNKUGhCeWhQaUhwUDZrTC1zOHpvMWo0V1FNY1pKblFoNFVSNEt6Z0RNV3lGOGZ6UlhmUVRkSlUwTUZncEdyRlRRNDMwRVVsRWRMOVRkd0Z4Z1V3TkdpY2M3RzNlNjhwQms?oc=5",
@@ -307,19 +313,19 @@ window.NEWS = {
         "data": "2026-09-29"
       },
       {
-        "titulo": "BNDES consolida agenda de concessões com 20 leilões – atraindo investidores globais",
-        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5XUkNCeU5MdEhmRzgxNHRxYkd6Z3FrYVN0b2lIblU3QzV6el95ek1UZHloRjVlN0VWRDlsRjdpQUNRTmVBcVg1d2RwY0JZbnhLYkI2UFdGajMteTl0VXV5MjF3MkkyUnowclc0VWpxMA?oc=5",
-        "fonte": "Revista O Empreiteiro",
+        "titulo": "Em ano eleitoral, estados chegam a 98 contratos de PPPs e concessões",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbkg3elloOGxqVlVRRGxUQ1RneTRXX3ExWXpzYVA0RnZCSTRtLWs2ZkF0WGRoWk9IOHBpSEZEdkh2bk8xMjhqR3cwY0RNNEZfT2g2TU5zbUtqakdyaUdpdjJtbFVET2d4alFMUUJNeXBrY0poblIxVXdXdWtNTS05YWNrcktDX3l5WmJxNUdMTl9JSUdsYzFsd1Ixd0x3VUpRbDNjSkRB?oc=5",
+        "fonte": "CNN Brasil",
         "data": "2026-10-05"
       }
     ],
     "siderurgia": [],
     "odontologia": [
       {
-        "titulo": "Neodent inaugura um dos maiores complexos industriais de implantes dentários do mundo com investimento de até…",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOV9WSk1QS1B3Wk1Ma1BiMmFOMl9tMmYzb1JWaG5KVG5iOEZIZTdyZkE2amZOUzEyd19TRG1sWS1rM0pRZ19EbXB2bVBXZjBrVkRENWlvMWRFSUVpX3JHWXVDV2RQRTZQbGlGYTIyWmZjeTJYVERVLTRmSzZNdVdQQmllNzFPWEtfMzBMU0E4bFI3bHlSdVNWWjZ6bndLNUJYLUdhdkM3a1dZTUVwR1I2Mm5GblFwd1R1MUhmVy02aGJFT054MEhGWXZ0VEdGNGlIQVBVSG5HQU5aZEt0ejFyWkhQRmdNazk4Y080bDlBM084N09JQU42c1dR?oc=5",
-        "fonte": "gazetadasemana.com.br",
-        "data": "2026-09-28"
+        "titulo": "Indústria de equipamentos odontológicos cresce com apoio do BNDES em SP",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTA3dzctUzQxTmJ4eUx5UExLVVdmdlFwWEhHcnR5WlZEOUMyekhsMFVmRk9yaFBlQVZrQ1EyTGRzR2x4VGdMMV82dDd1dkxsM281Z0MzRGlSOFNVVFNDOTZvOHBJZV95eWF5bm9VbmlHYkpCZldiTXNkX19uYTN2MnIzYXpkazNaUHF4aENmV3hZNW5saTdKVFdJT2M1ZXpUUmZKS2Y0RmpDRENBUUtLaUZRUm9lQTJV?oc=5",
+        "fonte": "CPG Click Petróleo e Gás",
+        "data": "2026-10-05"
       }
     ]
   }
