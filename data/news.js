@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-06T20:50:32+00:00",
+  "atualizadoEm": "2026-10-07T00:27:56+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -13,13 +13,13 @@ window.NEWS = {
         "titulo": "CNA defende ajuste fiscal para impulsionar investimentos no agro",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHFuYlpYN04wQXRlMUVXUTNGZ3Z2YW15TGg3SlBwY3FPeWNXelN0aU4zZXFHNGE4WjRLejBMeGVPRlNNejZDM0ttWDJLMVBwMHVaR3drai1XZ1JIS01tbkVXeXdPaFN5emFBaG5kTlhBYTdMQ2JVakdnT2dwalRldEJldVN0Znc1TnE0T1ZCaU92YXpyeTN2bGRXSUFYSm5J?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-10-06"
+        "data": "2026-10-05"
       },
       {
-        "titulo": "GAFFFF 2026: inovação, sustentabilidade e investimentos no agro marcam o 2º dia do evento; veja os destaques",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWlUyNXFFc3hoVDZ1ckJWWENmcEdPNHdkZU9YVEhHcWhHaDRWQnhsUmNhLVB4VUtZbDI3TmpUTzMwTlhoM0ZiUEhsSnkxY084U01fN0xtN25TMDdaSHJtY2NxNFoySEFON1l5aWx0ZkZyQmg5X0hFN1dERHJ5LXc?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-10-02"
+        "titulo": "Lucas do Rio Verde entra no radar de investimentos de gigante americana ligada ao agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNU1tdTBWVUlVWnpva0dBRnhSb29VaWV2bHJfeUhtbTc4ZmtoRmFaWVp5UVN6Z2E0REk0cWw3bFNsM0FUU3pvY3BnTl9MTGdlRVNxVE5yMDhUb2J4blhHa3pVNF9UUldrTEFQZzRzc3ZqTS1RLXpEVGk3amx2MlctNnpsNVFZMHpiS1FWanlLbUVwSTZzdjFUc1dUV0tEREczTkhGOE9WMW02SjMtRjVsaTdpMDZTaUhDUkkyVFZpTmxPNjR0R2RydE5oZEc4US0xSFRjczNUeDR4VkRDcjdrMVEzd2lLZw?oc=5",
+        "fonte": "Prefeitura de Lucas do Rio Verde",
+        "data": "2026-10-06"
       }
     ],
     "alimentos-bebidas": [
@@ -104,25 +104,19 @@ window.NEWS = {
         "data": "2026-10-02"
       },
       {
-        "titulo": "Grupo Master anuncia novo Centro de Distribuição no Rio Grande do Sul",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNcTdvSTdOM2FuR1VrM0JISS1EUV9UY3JaRTM1bUNOYl85QTdVSDdqVlpmZGdzLXp0UmpiNkdKS1BvbmFKaTdIcVpxSVdzTzhoMTR0dWt0cDV0S0NQQzUwZ3dJd24xWUNtS0VTOHBpN3FoTERqSmVRMDk2S0x0REl6cXJYS2pxNGJTSUNlNDJTTU9qZWJaLTJVVXVRNmtFM1dUOG5LY09FUm9MdWM?oc=5",
-        "fonte": "SuperVarejo",
-        "data": "2026-10-02"
-      },
-      {
         "titulo": "Internacional Shopping anuncia abertura de nova unidade do Madero Steak House com conceito integrado",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON0JkS0RfbUJYeExFRkoxZHI5UEZSdnotYXIzYTZEQk1mdjhGRG1wdnA0NDZLOHYwREp3SXJpbjV6NkllR3Y4OHFRbi1jWTgtNEtyU0E5Q1lOVkVSNl82U2ZER0phVWJ5TkdpamtuUTR6OG1PNTJwUkZnbVVMSmRacDhLZjFldTZCRE4tUm5TbjF4UzdWcmFHQVpLY1RLV1lmd2FvTWdEeXA1QW1zS1E5ck84eXA2T3hsb1Nwc0kxMVc0T3hXRDZMV005Q0l0M2VXa3pSOTY1dUFkOXds?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-10-01"
+      },
+      {
+        "titulo": "Rede Polo investe R$ 25 milhões em 10ª loja no Rio Grande do Sul",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONW00WXJ1Z1VxdERSbnd2U0RQTHVHSDRJWGdyY0I4R0VUcmpzY0hCNkFOenJBSl9mQk1zRHU2cFBxZzgyWEpBakN4bzZOOHdPTGtKdVJIZzVmeVcyYlhqbGZlbjlESTBKcDlSU2FZZTd1X2xSSzRrb2gyd1BQMDlZdGNGbE9JNzEwM3JmMGNoaFR4cm8xWGdIR0dkR0hNX1k?oc=5",
+        "fonte": "Giro News",
+        "data": "2026-10-01"
       }
     ],
     "energia-gt": [
-      {
-        "titulo": "Brasil vai gerar mais energia, mas terá de correr para conseguir entregá-la",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPd0tuaTFvRnNKRTJQNHVIVml4ajNsWTBCWExhTVUtSXE0dGI3WktQZ2dSQnR3dXlaa2ZIUGt3YlZOUDB6VTFDM2FxUy1ZcFlzeWZYR3pGdGpTNHg1UF9PazktVGpUWUhBa19xcmo2RldaRjF5Ty1FS2U4WC01YkJ3aUFvd3hZUzdwM2pONUNhNDg1bnpiN1NJZWdGWDB0V2hNZWJXZV9QeXVNMEpxemhrOUFQUTBJWlFTUmlTSm8xckc2TGxEdXFvaXd3?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-09-30"
-      },
       {
         "titulo": "Expansão da capacidade de transmissão deve reduzir descompasso entre geração e consumo",
         "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbW4tbE8xUnUtR3hob2xDQzZ5MGJlU3pYVjNyOFU5MDVWVkQ3OXU0amhSQndiOERodnBTd2RlRFVIZDNKTVVhdUlQaERfRFBjalRqXzFWQ0FUWHE3WHJDMUl0WW1lZzlPZHo1SjVSeUxqVzQ1TXBFMGNJejNnejF6YUkwRVBkazZIY0ZrcFMwLXdXV1ZpVERwS3czaWxrMm0wbE9yVGZDMWQ1Sm9PX2cwTXNFbkZ2MC1EaFk4ZUpjQ0lmZWY1SnFCdm93N2x1ZmdVamUwLW9RdklPdlFuYnRwWUVJVmRNTHZ3SEpxQ05nYmZsU3BuazZCMNIBhwJBVV95cUxNdzJJV0pmcmtrY2VkZmlRWjZfREthRHZ2a1hYTHhnOXZaWFBXeUdIVmxoMEE4Uk5iWjNIMjk2RjRxSm5kWGRfb3FfNXViN2dXV0JHemJ1bnZnVVlfdWJlbGFwTjhrMi10bHBpa3hDV09pcm55LWM2di1GWWFDQ2VQUnpQMFdwaDdnR3FJaGxFOEJCSHo5YnNrN3gweVZ4YUl5WnNIV0QtbnhVSzk1Ui1UYURHdHpSb3pZaWxpeF9qMFVJMDh0eXVWSHV0OUtKYlA2TmRYbzFOb3poNHhuSldnRzlHbFdJQWR3ZU52TnI0by10STgwbWNEaFRIWWpmbFBLTHZqd1lqbw?oc=5",
@@ -134,6 +128,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZGNJQ2tmc0EwcDJXWmxXZXd4Q2pyeW14NzE1ZHl6NmZhWUVLaE1OV29FMGltb3dGckxZM2pDSDRQZU5nLXowVC1kV1hpQy16d2RHRGs5S3MwYmEwSjJRSlR1M1kyMzduVHZhTVExUlFWUTQxdEFHTjBMRWpESE02eHdwZ01HXzRnd1NyTkhRdTlSM0wwWXBjLVZZY1ZpNWtGMUZfWkgtZFRXS0VNS2ZEdmNzbw?oc=5",
         "fonte": "BNamericas",
         "data": "2026-10-01"
+      },
+      {
+        "titulo": "Aneel nega recurso da Enel SP sobre necessidade de perícia em processo de caducidade",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOTdfRGx4WGowZEVQREN2czJ0eXNDa09mWXk2RGs0X05hNW9JQkVnbk1JbURQdXF3R3EtbVFOTV9yTzE4RG5HWFlhS0pIWkY2M1pyNkF3LWxVNEo3ejR6N3Q1ZkFaQ2VsMlVaaUt2NTNnSFRCTmNrQzY3TE5fX2FBWDFtd3lZWENranJDT0tlaWJYRU5jRUhZcVNGd3hnSUdoMGR2RzJzWThDU2N0Z0NtVk5CaGFZZDgybmJ6RHI3d3A?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-09-30"
       }
     ],
     "solar": [
@@ -172,10 +172,10 @@ window.NEWS = {
     ],
     "farma": [
       {
-        "titulo": "Indústria farmacêutica como pilar da saúde no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlR1R25BSmlMdnNnaFkxaTVJTWw4cmJhd3lQa0Y5LXZvN0cwQ0JiMkFCV180dnRCZzFWWWw1YkVjWXRFMWlpb3hOUU1MX2RQMlllZVZWQ1F0c3pQbldSaWhxY2R2TE5nOVJrMUJhc05qbkRYbWhmMDRydmZtU1RZdEJ2X1VDcVA3Qnk1SHNvZkhSZklfQ01PZnNmdTJMbDQ?oc=5",
-        "fonte": "Arena de Notícias",
-        "data": "2026-09-29"
+        "titulo": "Brasil firma acordo para ampliar produção de imunoglobulina, medicamento para doenças do sangue",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT0xiV1lyNEVJbHhybUo1ZDQ5ZHZ3ZkJzZWdXSHpFY21ybk9UY1gzRGdSSkZ5SE9XMnFNMXZERTJDaW9zV1QwX2hvZ0pkMnpESDZfMGE5dTNDMlhLaW1rWmZNeWxVWGJYSEZocXlyTm0wMnhkMFh0Q0tTTjNkekVlN05BNGlwTnlscDZvWnJfY2dkbmJTMXgxUEJtaHBWcHQ1aldqVXltRzBlQks5dGVMRzdiOHJiNWtCZ1lOWEh0c2FUdmJVV0RmV2xETWx1V2JBM1lDU20yY1d2Y18zempOMW1USk92N2pQRnpkaWdkV00?oc=5",
+        "fonte": "Governo Federal",
+        "data": "2026-10-02"
       },
       {
         "titulo": "Agência de Comunicação - Investir em saúde e inovação é investir no crescimento da América Latina",
@@ -199,16 +199,16 @@ window.NEWS = {
         "data": "2026-09-30"
       },
       {
+        "titulo": "Lucas do Rio Verde entra no radar de investimentos de gigante americana ligada ao agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNU1tdTBWVUlVWnpva0dBRnhSb29VaWV2bHJfeUhtbTc4ZmtoRmFaWVp5UVN6Z2E0REk0cWw3bFNsM0FUU3pvY3BnTl9MTGdlRVNxVE5yMDhUb2J4blhHa3pVNF9UUldrTEFQZzRzc3ZqTS1RLXpEVGk3amx2MlctNnpsNVFZMHpiS1FWanlLbUVwSTZzdjFUc1dUV0tEREczTkhGOE9WMW02SjMtRjVsaTdpMDZTaUhDUkkyVFZpTmxPNjR0R2RydE5oZEc4US0xSFRjczNUeDR4VkRDcjdrMVEzd2lLZw?oc=5",
+        "fonte": "Prefeitura de Lucas do Rio Verde",
+        "data": "2026-10-06"
+      },
+      {
         "titulo": "Co-robotização, parcerias e investimentos: como a CNH usa “ciclo de baixa” para transformar suas fábricas",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0NoNW9NUzUyRm5lNzNuRTBTc0lqaURIS3RiMEd5dmw4T2gtcGlMVEprNGVGMEVWX1VGckg1M0t1NU9wdFBoZ1E5QzBFM1ctaW1aZ3JMeFktcXlsOEh2XzAxalhGbnNwVlZnTFdkLVM0NzVQUWRXSVR6Mlo2cG1LWUlOUmdQQ1QzSVJIR2ktRndVR0U1Q3BUWHNWQlBmVC1FZ0FSWHJndWVEcHJzbDU0N3l3SnFNcWY5eEtfRDVIcTQ2bGdRSUZSV20xb20xUQ?oc=5",
         "fonte": "AgFeed",
         "data": "2026-10-03"
-      },
-      {
-        "titulo": "Agross investe R$ 71 milhões para ganhar escala com fábrica em Carazinho",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZG01RmRXZVVlU24yZDJHQ25nZWFZeW5nU05wazNhRDZoY3NxdVFpcDRRMmItZFhLRWNRYW02THVURmx0R2ZOeWdhdldtS2RheE95djJkRlZBTEUxWU9zdDdocG1ibzlIb1N5MjN0TkdhOExrTzh5UVJ1TzlDQm5IbUJyVDNFZTVURTdvbXp6LUNpclZDY2stSW9TbnhyekhpbG5YZVlUWE1rWm9jWTRreEZiT2kyeGtpUk9FNXNMbktmaGVtYWxUanRWc3hUOUxldDY5ZmdLVk5FNWtfUnJrcmxxRk5ZSG9ZR1JBakZpR1F2X1k?oc=5",
-        "fonte": "Jornal do Comércio",
-        "data": "2026-10-02"
       }
     ],
     "logistica": [
@@ -253,16 +253,16 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Governo do Brasil vai participar de reunião do G7 sobre minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2FaX0luZGdUaFNVM3Jvd2lIT2FVUlJpRVlZNnlDRktjLWdjVEpQdDBMRzNfVzlFOTM4WlMyRmV1OWxqbjFiOTFBZEJESjlEU0Y2aVR1QU80WGJTaGJRUDdsZDVxNk5tODhuX1dUQlFGTkI5OHpFVDc0bFBZbEJMbjdjMXp4MXQxdWZLWTdNVzg3Zml6MUV5QUk2VU5xLXlaUUdmNjhGZ2VJV0VWdlE?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-04"
-      },
-      {
         "titulo": "Investimentos de empresas estrangeiras colocam o Sul de MG na disputa global por terras raras; entenda",
         "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZXZNelRZYTEyaHlaTmZKX0hPNFVsZWJNQWJjSVRSWnB3bVVfUU8zZUFfbXgtVWRXaEdQRU1XSEo3VGhkcDdhZG8yQUFYTElCOUNUVi12UGRCVkZhdUVQWFBBNm5jc2I4SEVKSTJwdFFhWVlFeFpwMGp5V1NXTl9QWFRPY3BhVkZvLVpvYmctcC1mS0IzOWhzaXNJNHpHMjZEVFFpbjdyalljRzBINU4wZ2lWNU9GamctWVd0T2NtT0RCUlpyaFJ3ZTYwem1tdFVGeEZFZUtkRFphMWtYWXdGY0Z4bzk0ajZIeXhNTmNtVTJuZ3lTMWfSAYQCQVVfeXFMT3JXTzhkZThHSE1ZRUM1MVk2MUMzanFmWHZmbURHQnM5Y2JNd2FKY2wyUDc3SlpaYnE4eHZtV2FXdnJJMEJyRVRwTXF4bGZwd2txRUExMTNDeVRtRFVpa0pnTkFhMzR5elNteUM4TFlJYktwdElZSzJMNTVCcVZybXNHNnhFcXM1MDBpOThILUF3NUwyM0N2dDRZMFc4emh4aW9kcnNobk0teG1qRm5rX1FuWmM3UExQaU5pTFV6TWJrZ2JiMF9vc3Y0UmhJNjQwenNRck16YlMtamlaMV85T3pvb1lfcmc0UWwtTzNWSVhUSE90WmFRQklpb3F1NzRsbFM1TnQ?oc=5",
         "fonte": "G1",
         "data": "2026-10-02"
+      },
+      {
+        "titulo": "Governo do Brasil vai participar de reunião do G7 sobre minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2FaX0luZGdUaFNVM3Jvd2lIT2FVUlJpRVlZNnlDRktjLWdjVEpQdDBMRzNfVzlFOTM4WlMyRmV1OWxqbjFiOTFBZEJESjlEU0Y2aVR1QU80WGJTaGJRUDdsZDVxNk5tODhuX1dUQlFGTkI5OHpFVDc0bFBZbEJMbjdjMXp4MXQxdWZLWTdNVzg3Zml6MUV5QUk2VU5xLXlaUUdmNjhGZ2VJV0VWdlE?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-04"
       },
       {
         "titulo": "MINERAIS CRÍTICOS | O Desafio do financiamento de projetos no Brasil",
@@ -279,15 +279,15 @@ window.NEWS = {
         "data": "2026-10-06"
       },
       {
-        "titulo": "Opinião | Farol em tempos conturbados",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY1RQdW40dXllekY5cW05M056TGM1dzJSd3BxNThCd1FfQVgtSFBjU0tWVzdDc1F3WU14QnVDVUZWNVZ5RGZ5SzZTNlBQQ1pZRXVfYmJFcVpxeU85NlpvTzg5cVJLY29TWWJjNUEzUHp0enE3Rk50b1NKTTdQRHR0TTlOQQ?oc=5",
-        "fonte": "Estadão",
+        "titulo": "Primeira fábrica de celulose no Brasil já está 81% concluída, diz Arauco",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNOHZ4SFdDU0JfcDM4SERLM1YwQk1rcHpVYjZXUTN2eXctb3o0bndfeXZvdGIwYTl2QUE3enZaRVBOVkFPRy05eGVkV1lfd0htcDNrcW5iZ21tZzN4XzUzTVhKT0hjdHM3R09PNUNPbnBMbjBlNEE2NTJoVE1uaUZ4LXBmdWxpWHB6Y0dORjVkRDJNdDBsM2hXOC1tb1duejNOUnNhcFJlcTRvVGdoVXFIdUlDaWVMaTdncnJyVTh3aWF2M04wTlpLbGV2VXFsdXF3a0FuSEs0NWxtOFN3N0hz0gHfAUFVX3lxTE04dnhIV0NTQl9wMzhIREszVjBCTWtwelViNldRM3Z5dy1vejRud195dm90YjBhOXZBQTd6dlpFUE5WQU9HLTl4ZWRXWV93SG1wM2txbmJnbW1nM3hfNTNNWEpPSGN0czdHT081Q09ucExuMGU0QTY1MmhUTW5pRngtcGZ1bGlYcHpjR05GNWREMk10MGwzaFc4LW1vV256M05Sc2FwUmVxNG9UZ2hVcUh1SUNpZUxpN2dycnJVOHdpYXYzTjBOWktsZXZVcWx1cXdrQW5ISzQ1bG04U3c3SHM?oc=5",
+        "fonte": "Valor Econômico",
         "data": "2026-10-06"
       },
       {
-        "titulo": "Associação internacional destaca protagonismo do Brasil em celulose",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN2U2VENUSEJBN09SSFVoa2hwMnpyck1BZHJtU01oRFc3aTNYckZEcUpOOGpZdHFheHFGQm9mUG1FQWRtSnVXNHg5VC10bjZ3RnU4VHAxbGxFdWdoNWViczNrQ2VNaWw1VFJJQ3hFN2dSZzZVZjNHYnpuLU1hR2kzdTJHYzBvOWNhRmtuTmhRa252dV9yNi1xNGtpQUpjMlZIbWg3dQ?oc=5",
-        "fonte": "CNN Brasil",
+        "titulo": "Opinião | Farol em tempos conturbados",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY1RQdW40dXllekY5cW05M056TGM1dzJSd3BxNThCd1FfQVgtSFBjU0tWVzdDc1F3WU14QnVDVUZWNVZ5RGZ5SzZTNlBQQ1pZRXVfYmJFcVpxeU85NlpvTzg5cVJLY29TWWJjNUEzUHp0enE3Rk50b1NKTTdQRHR0TTlOQQ?oc=5",
+        "fonte": "Estadão",
         "data": "2026-10-06"
       }
     ],
