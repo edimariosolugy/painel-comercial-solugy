@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-07T16:10:48+00:00",
+  "atualizadoEm": "2026-10-07T21:48:48+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -84,8 +84,14 @@ window.NEWS = {
     ],
     "cimento": [
       {
+        "titulo": "Lula supera Bolsonaro em investimentos, com ajuda de contratos anteriores",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNb3dhNE5PMWZCeUJva29nWFQtZk5pV0tLS2gzM25pbmRjTFNldDg2NkFXbnNkQXlwcTZMZFpQdU5GZDRnbEFHZnNERHhuNVM2bW96ZVF1T0dTdTBLNG5XVlZLMWpjcWpyOU02d1E3N1hCcUZqcE95c1VIQXdEcVJ3X2pYbkprb1MzWTd4dEtPNDM2WnMwSHlRVnVvRkdDRmJPX3QwUkJpRi1XVGZnaC1hRGpCOA?oc=5",
+        "fonte": "UOL Economia",
+        "data": "2026-10-03"
+      },
+      {
         "titulo": "Novo cimento especial para rodovias é lançado no Brasil e já foi utilizado no Paraná",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVHl2ZHRpaS0wYnhfQ0xyMXBNWmsxeFg5NU9zRnh4RC1DVmxPSUxPak9MZFlZX2s0ZkJ2RkowaVI0UmE4MVRtSnBaSWVGc3l1dGlNaC1oWC1hb0dtb0libkNBaUZDY0hzVTZDQXhmQ2pHLV93dm91bmVuRDFITkNWWW9CS3Y5eHpkanZNcUFLV0JUczVUQWprbEstTjNrdTh5cDJZY2toeGhMX2tpczhpekh6SkRrdTFEblFSbFhnU0_SAdIBQVVfeXFMT2dVR0pyeTlsSmJiclFsSm5EZ3dBbHVUOGVWeFB3eXdXQTZFMHdSNnExSWxqdmd3amtwakhMMXU0aDF3dmQ2RXpUYTNmRkFkQjBpa1ZKdUpyV19kZkFxcUFROGs3R3I3WDlMX1JxcnpPUEY1WGZOSDdLaEpaWW5xSGlaOFRlWWFseXJtRFh3a2tza3BrZndESzNuNUZKSU9rSmZKb2FrT2RUZk9iUUVyRHVKeGx5WjN3dmpJaHNiY2dVU3pwdVhQdjVfemlFemF5S1VR?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNHFfMjNOTjZOd0tQeDZBdXJRVWhMVktnZ3FFNlZrT3E1X2I0ZjZNVG1xd2NWdW1CRnhTbF9ybVdxbEpwdm1WbXRvZXRfeXV1OXIxTU5WdTR5NjlVTHFoZloxdVpKajlnVW9sTFg5QUJmS3B2Yzl5OXltemNlOTFxbEdjUlNyc3lPWElKY0h4bWFjeEx0MTQ1RGFlbEFkZk1fX2daYmMwalNUdTIwMG9xMGV5aGxHNUNlRUowOFJZQUR2SmxNR2s1b2oxTkXSAdIBQVVfeXFMT2dVR0pyeTlsSmJiclFsSm5EZ3dBbHVUOGVWeFB3eXdXQTZFMHdSNnExSWxqdmd3amtwakhMMXU0aDF3dmQ2RXpUYTNmRkFkQjBpa1ZKdUpyV19kZkFxcUFROGs3R3I3WDlMX1JxcnpPUEY1WGZOSDdLaEpaWW5xSGlaOFRlWWFseXJtRFh3a2tza3BrZndESzNuNUZKSU9rSmZKb2FrT2RUZk9iUUVyRHVKeGx5WjN3dmpJaHNiY2dVU3pwdVhQdjVfemlFemF5S1VR?oc=5",
         "fonte": "Bem Paraná",
         "data": "2026-10-05"
       },
@@ -98,10 +104,10 @@ window.NEWS = {
     ],
     "comercio": [
       {
-        "titulo": "Expansão e modernização física aceleram movimentações no varejo alimentar nacional",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDYwTjNNVnFFUlJtV2JMUXpqV1pNMER0Q2phaDZORWZjdGZYNGwtNXhYcTByWHNZcFNIb2JqWUV4LVVTcHpodlVaSlh0MjdtYkpuSndoR1Q4SXdCakE0bzZVSnBJQktGbG5lQ3hkLVktTGt5QnpIN1BwRlpzLWFVS0h2RHgwc2g2WWFLeXpqYnd1TWNXc3A0ZFkwVzlJTS01THllQllqWjkzSVN0MXliWE41Zw?oc=5",
+        "titulo": "Internacional Shopping anuncia abertura de nova unidade do Madero Steak House com conceito integrado",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxON0JkS0RfbUJYeExFRkoxZHI5UEZSdnotYXIzYTZEQk1mdjhGRG1wdnA0NDZLOHYwREp3SXJpbjV6NkllR3Y4OHFRbi1jWTgtNEtyU0E5Q1lOVkVSNl82U2ZER0phVWJ5TkdpamtuUTR6OG1PNTJwUkZnbVVMSmRacDhLZjFldTZCRE4tUm5TbjF4UzdWcmFHQVpLY1RLV1lmd2FvTWdEeXA1QW1zS1E5ck84eXA2T3hsb1Nwc0kxMVc0T3hXRDZMV005Q0l0M2VXa3pSOTY1dUFkOXds?oc=5",
         "fonte": "Brasil Inovador",
-        "data": "2026-10-03"
+        "data": "2026-10-01"
       },
       {
         "titulo": "Rede Polo investe R$ 25 milhões em 10ª loja no Rio Grande do Sul",
@@ -110,10 +116,10 @@ window.NEWS = {
         "data": "2026-10-01"
       },
       {
-        "titulo": "Luciano Hang começou com uma pequena loja de tecidos em Santa Catarina e construiu uma das maiores redes varejistas do Brasil",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQLXpra0dObm1xUGxtUTJ5emFQbVZoajV4Tlo4RHRWbzBVUGFvaFhGTnJSdE1jTlBZa2FHSkc5c3Q3Zk52Y2hhY0JHMjZqTlpHTmpKMHB1RzZyNG5PMkZPNmZlOHdST3BJXzZLVVJCVUlrNWxYVEZOR3IwcU5TdVF0eF81NkxzWlVRa1lpMXVuUzF5OHhwT3F5b3ZZc2lJcHhsakpJbG5xSlBYTzdVaFhnMzM0M0VrUFREei1nYmpOdmtKbXZGMDNTVUVibGRnekgxQUttSGtPaF85cFNVU1g4UmptR2t6bkE5WTJfS1BKNjh3WnpBVjBkVUVxdDJoM1d0ZXFZ?oc=5",
-        "fonte": "Diario de Pernambuco",
-        "data": "2026-09-30"
+        "titulo": "Transformação no varejo combina expansão farmacêutica, eficiência energética e inteligência artificial",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObGdRNG9Xal9HanlUZUFiZzZMdFgzekNTandtQzNqM18xMF9FcXB1OXc4b3lXSzl4cWR5ZUIwZm5qSlJwWWVhQjJObGljN0k2cmdTZlBQblg0M0RNQVFpMDFNWUJ0am5CeU5GMEZ3V0ZrYkdNbGNQSHlqdF9ubVJPaVp3enpiWFdPYU9DZGRVbWxoYkhfUzc0RXNxY2pWTXlQSDhBYUJscVFZbHU0YkJrWmpBdExIRUIyNklIZVBlS3RUX0tKcVNIRGdHRzU?oc=5",
+        "fonte": "Brasil Inovador",
+        "data": "2026-10-06"
       }
     ],
     "energia-gt": [
@@ -124,10 +130,10 @@ window.NEWS = {
         "data": "2026-10-01"
       },
       {
-        "titulo": "Aneel nega recurso da Enel SP sobre necessidade de perícia em processo de caducidade",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOTdfRGx4WGowZEVQREN2czJ0eXNDa09mWXk2RGs0X05hNW9JQkVnbk1JbURQdXF3R3EtbVFOTV9yTzE4RG5HWFlhS0pIWkY2M1pyNkF3LWxVNEo3ejR6N3Q1ZkFaQ2VsMlVaaUt2NTNnSFRCTmNrQzY3TE5fX2FBWDFtd3lZWENranJDT0tlaWJYRU5jRUhZcVNGd3hnSUdoMGR2RzJzWThDU2N0Z0NtVk5CaGFZZDgybmJ6RHI3d3A?oc=5",
+        "titulo": "A energia que o Nordeste produz e o Brasil joga fora",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnlXZUI0MUpsTUpLVGVzQ0FZcUZ2WUYtMWxLRjRBT1dOOFF2NDZ6eF8xVndlRWh0MTU2Wl9XczFNdXh4SkRLeEJYNlV1X0V5S2tybDF3SVNUai1oY1Y3M2F3Z0JBZFQ3aUJMaUwzRUMtMGVEeHExN0dKRUZQSUl0VTRhSHhXQWVZaThNVEQ1TWFIbjdkbTVYaEdB?oc=5",
         "fonte": "Agência eixos",
-        "data": "2026-09-30"
+        "data": "2026-10-02"
       },
       {
         "titulo": "Acre terá R$ 966 milhões em novas linhas de transmissão e baterias para reforçar energia no Juruá",
@@ -227,12 +233,6 @@ window.NEWS = {
     ],
     "maquinas": [
       {
-        "titulo": "Brasil: Investimentos em máquinas e equipamentos recuam 5,2% em agosto",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWxzRGRPbmF2c1JFVkRSMlU4TDQtRjlzcEtCR1RsTk1RVEJ1SlBOekcybnVoNzJ3c24yWmk1aWExV2h5ekVMWjZCdEJtdktYNmluMmtMZXJvUHB4dFRReE9tR3N3SnpNNkZUekJfcHRKT0psd1JLUVRRM0RvWmZHLVVVcjJYWXJRaDBSNlNCLW5hTm02SnlzOVEyX2FJc2pVZjRIMGZocw?oc=5",
-        "fonte": "ADVFN",
-        "data": "2026-09-30"
-      },
-      {
         "titulo": "Co-robotização, parcerias e investimentos: como a CNH usa “ciclo de baixa” para transformar suas fábricas",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0NoNW9NUzUyRm5lNzNuRTBTc0lqaURIS3RiMEd5dmw4T2gtcGlMVEprNGVGMEVWX1VGckg1M0t1NU9wdFBoZ1E5QzBFM1ctaW1aZ3JMeFktcXlsOEh2XzAxalhGbnNwVlZnTFdkLVM0NzVQUWRXSVR6Mlo2cG1LWUlOUmdQQ1QzSVJIR2ktRndVR0U1Q3BUWHNWQlBmVC1FZ0FSWHJndWVEcHJzbDU0N3l3SnFNcWY5eEtfRDVIcTQ2bGdRSUZSV20xb20xUQ?oc=5",
         "fonte": "AgFeed",
@@ -243,6 +243,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQV9xTi1KM19UVGFRS3hNODd6VERlY0h5azgtLUdVdkFKTURILXFMRUtMZVJfUGJFNHhFR2V1bGpDOERlNU5UVnkzOWMtS2EzM3dFb2dDS2hxazNTZVZVZFhMbUppX1dqMjhDSEs3ZE83OEFUdHV0VkxXcElwSjJ5eWRoRzJOZzVhd2hKX25vbHlDNDBv?oc=5",
         "fonte": "Brasil Mineral",
         "data": "2026-10-01"
+      },
+      {
+        "titulo": "outubro | 2026 | Carta de Conjuntura",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ySmpaRVFKVW1hSnpTOERMOEdjbmlFVTRhRXp4NS1RcmpiV3pVUFVfRVlTa2JCYTk2T0E1UDZqejh1YzlFaTdaT1liLUx2SHBGZW4ycm04QXcxRDdoSU9fU1l4Uzg5MGZEaFlpOA?oc=5",
+        "fonte": "Ipea",
+        "data": "2026-10-07"
       }
     ],
     "mineracao": [
@@ -279,10 +285,10 @@ window.NEWS = {
         "data": "2026-10-06"
       },
       {
-        "titulo": "Opinião | Farol em tempos conturbados",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOY1RQdW40dXllekY5cW05M056TGM1dzJSd3BxNThCd1FfQVgtSFBjU0tWVzdDc1F3WU14QnVDVUZWNVZ5RGZ5SzZTNlBQQ1pZRXVfYmJFcVpxeU85NlpvTzg5cVJLY29TWWJjNUEzUHp0enE3Rk50b1NKTTdQRHR0TTlOQQ?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-10-06"
+        "titulo": "CMPC em clima de indecisão sobre megaprojeto de celulose no RS",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGJIU0JsU1hsVkJFX1JfbzQ5TXY2anJQbEZ6SU03U1FCdC1wZTVRTmxfVEFHMEozRmRLZHFla2ZXWHZHZmEwWlFGZ2JaUkJQN2Rnc1NyV0JSN0hNa3J3Nm1oQXVCZnlLLW1lZzd6eGZTYjJjNGw3dUQtUnV5azN6UC1DMXFGWFRCQk5wMGNNRTBLNkxJX0dtbEhITVp6dHBfUTFXOEV5aWxhbktaMmJPWA?oc=5",
+        "fonte": "Extra Classe",
+        "data": "2026-10-07"
       }
     ],
     "quimica": [
@@ -301,20 +307,26 @@ window.NEWS = {
         "data": "2026-10-02"
       },
       {
-        "titulo": "Opinião - Mauricio Portugal Ribeiro: A nudez das licitações de concessão de saneamento",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMl9oSDBobW91bHh2OGdELUpoS25tV2tOMjJmSE1zbEpSaGV4clphUGpZV3poWXh6ajRsdjEyckh4Zy1wZGh5bmhLTnFVZGJlM2dLR0JLRVJaVjBOZ0tvS1I4dmdRUXQ2SzJOcWEtU29sNjdtbDZGLUJXbUZEd2dEbC0yVWktRDluNXk5M2tGUC1MUnlzbXlNck9oVG9ZdURGOUJob0pnYzhzemdEeGEyZTZicTRZLTdkSnJ3cnJpTHZ6UlYtRWc?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-10-07"
-      },
-      {
         "titulo": "Saneamento entra em nova fase com próximo ciclo político nos estados",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlhDY1VWY1B6MVgyTDQ5dmRvU0tJMTlWSHRJVjZ0emp5YXJnd29EbDJfVVVPMkJRUHBZRUQ4ZmNJMUhtUklrc1d3VThZbEhDbEtJNHlSZnV5a29ZMkxNZWVTd1RZSlNKRUEwTVRtdzhkT2JyQ1NHSHRmNjQwRlpyckg3UjYxWUtaN0cxanByODg5U01NZ05YMG5oa25JSnRw?oc=5",
         "fonte": "Agência iNFRA",
+        "data": "2026-10-07"
+      },
+      {
+        "titulo": "Opinião - Mauricio Portugal Ribeiro: A nudez das licitações de concessão de saneamento",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMl9oSDBobW91bHh2OGdELUpoS25tV2tOMjJmSE1zbEpSaGV4clphUGpZV3poWXh6ajRsdjEyckh4Zy1wZGh5bmhLTnFVZGJlM2dLR0JLRVJaVjBOZ0tvS1I4dmdRUXQ2SzJOcWEtU29sNjdtbDZGLUJXbUZEd2dEbC0yVWktRDluNXk5M2tGUC1MUnlzbXlNck9oVG9ZdURGOUJob0pnYzhzemdEeGEyZTZicTRZLTdkSnJ3cnJpTHZ6UlYtRWc?oc=5",
+        "fonte": "Folha de S.Paulo",
         "data": "2026-10-07"
       }
     ],
     "siderurgia": [],
     "odontologia": [
+      {
+        "titulo": "Mercado de equipamentos de imagem odontológica até 2035: adoção digital e experiência do paciente impulsionam o crescimento - Notícias e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWGpUc3ZmOFdHRklwampXYUVObXBBQ0w0YXgxSUpRaWNTUUZWWFZkX3B1cXhCUzNSQU43bmtYblp2Q1l6ZVppVFFta1loOXFaaU9NS3R3VGtwTnotSUxsYjM5enZpeVp2c1VNcF9rSlZaM3RFa0tkdldoc3lqWnJaRGw5Tk8wdUppaVE3bERkRVhtQ1gza3VWZGc5VWd4Z2hna2YxWVhXTHhCRFl4bnFJRVlGR0dDdWNteDFXZWU5QktOODk4V2MwT2R6Y1AxcXdiRUJUV1lxekhjS0NFVFZaWWVwUjRfNkk4cDlnc1lWQQ?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-10-07"
+      },
       {
         "titulo": "Indústria de equipamentos odontológicos cresce com apoio do BNDES em SP",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTA3dzctUzQxTmJ4eUx5UExLVVdmdlFwWEhHcnR5WlZEOUMyekhsMFVmRk9yaFBlQVZrQ1EyTGRzR2x4VGdMMV82dDd1dkxsM281Z0MzRGlSOFNVVFNDOTZvOHBJZV95eWF5bm9VbmlHYkpCZldiTXNkX19uYTN2MnIzYXpkazNaUHF4aENmV3hZNW5saTdKVFdJT2M1ZXpUUmZKS2Y0RmpDRENBUUtLaUZRUm9lQTJV?oc=5",
