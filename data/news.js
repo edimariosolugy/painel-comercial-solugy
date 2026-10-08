@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-07T21:48:48+00:00",
+  "atualizadoEm": "2026-10-08T01:37:17+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -47,12 +47,6 @@ window.NEWS = {
         "titulo": "Paula Gama: Marcas demais: China tem plano para cortar seu excesso de montadoras",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOclp3NEtwWXFxeTV6WU9KeTl5dDdXZnFPSG4zd0tsa2FUTU1wMmFwQmd2X2ltRVp5TEFTbC1pLUt1dHh4MzUwajV0dlY4Zl8zdEFWMll5NlZiLUFjdkRNVFNLYUE4UjYzSkF1MW9GS0dKdXZGOU84b1BCeU5pYkJOaEFRcU9LWndxd2FGSnBGNzBrNzRSUmF2UUlrekJPM1JBY0ducEwzcEg4QnVrbWVfR3lPaUo4eXBCaWxSNkJmdVZVSTRFV2NuYnBPeEMzdw?oc=5",
         "fonte": "UOL",
-        "data": "2026-10-01"
-      },
-      {
-        "titulo": "Lideranças do setor automotivo discutem inteligência artificial e conectividade no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPS3JUU2FFeFNwNHg5Vm5LaFZ4X0dTeXp0TmdmNXphZk5BVlRYaU5PSTdXY3JhRXJycFAxMlloS1JLV3ZfYS1QNVZQbTZSLXRJaVZsUG9NUjMwRHRJbnB2bVlUTWNZTHZZVXZwZnM3VDRJQXBsb3JxbDZHb3YwNmpRUzAtRkg3TFU?oc=5",
-        "fonte": "Mobilidade Sampa",
         "data": "2026-10-01"
       },
       {
@@ -178,16 +172,16 @@ window.NEWS = {
         "data": "2026-10-02"
       },
       {
+        "titulo": "Melhor investimento em saúde pode evitar 739 mil mortes no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY0xsN19lN0M3N0ZiME9iOWZOT2FvRXBabjYtOTJ4WVdVUE9JUjhsbTRVc0FmcjJnQTZQamVqaDdWZ0JPNVlZSG9ISTFIZ2pNdkJLNkh3ZHJtZS1qQmFKUFBxcms2QV8xcmJ6RExUS3RmZk5MVVJ2UzlWb2dnN1I5VVBnTnBSMUFvUnhUVDdWMVB4ZV9GLUtRSEphQmdWUGMzWDIySFBoWGthOVpITDNYY0hxYjZ5MFdUSTZjTw?oc=5",
+        "fonte": "Agência Brasil",
+        "data": "2026-10-07"
+      },
+      {
         "titulo": "Agência de Comunicação - Investir em saúde e inovação é investir no crescimento da América Latina",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1JlOERRbUFpdHJ3S1l0ZDUyVFdfcjUxa0FyYjJxX01xU1dnSFBGTG5iRU9oR18xSmxRaWM3eHpJdWJiYnE5c2lka0hyWmduWV9uWmdHazhHamxoREh2dmR0TFAxd2N0QUEtdTdCa0xpWFVQVV95ZWo0cklhanRoZWhmY1FOM2poelE0RGo3cmJiaUZnV2RSdzQ4RXk3c3VlS1pKQUtQakxwYWtNX01YT1NiNEZXYlFPTldKa2EyRGQzV1RtNU1SWUlCT1BrUldTS05oa2tOcFc?oc=5",
         "fonte": "Estadão Blue Studio",
         "data": "2026-10-02"
-      },
-      {
-        "titulo": "Hemobrás fecha acordos para reduzir dependência externa de medicamentos",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMTFSWHZlZ3hwR0ktal83UU5UcW9CSmtEU09Sbll0TmQzeDdTVzEwV18xd3RmSm5laC16b3ZEdHBFWkFGNERnenJhT3hNOWFDTFJ5YlJhZ2U5WjBtVEFCNm9XWmczczNiVWFzdUJlcFhXblNpcW1MNGRiZ3Z1c0lsMWFWZ2ZuUE53d0VJQkU3VjBCNGJuNkNPZ19yMmdTcHdyTVc3b2JoRmUwMFRTaXQ1YlluU1RQRHk4Xzc0aTBSRGJ0aEhWV2hzVlBST0h0NVZFUmxpanZuUXg2SlB5M2c?oc=5",
-        "fonte": "Movimento Econômico",
-        "data": "2026-10-03"
       }
     ],
     "fertilizantes": [],
@@ -239,16 +233,16 @@ window.NEWS = {
         "data": "2026-10-03"
       },
       {
-        "titulo": "BENS DE CAPITAL | Receita líquida de vendas do setor cai 15,5% em agosto",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQV9xTi1KM19UVGFRS3hNODd6VERlY0h5azgtLUdVdkFKTURILXFMRUtMZVJfUGJFNHhFR2V1bGpDOERlNU5UVnkzOWMtS2EzM3dFb2dDS2hxazNTZVZVZFhMbUppX1dqMjhDSEs3ZE83OEFUdHV0VkxXcElwSjJ5eWRoRzJOZzVhd2hKX25vbHlDNDBv?oc=5",
-        "fonte": "Brasil Mineral",
-        "data": "2026-10-01"
-      },
-      {
         "titulo": "outubro | 2026 | Carta de Conjuntura",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ySmpaRVFKVW1hSnpTOERMOEdjbmlFVTRhRXp4NS1RcmpiV3pVUFVfRVlTa2JCYTk2T0E1UDZqejh1YzlFaTdaT1liLUx2SHBGZW4ycm04QXcxRDdoSU9fU1l4Uzg5MGZEaFlpOA?oc=5",
         "fonte": "Ipea",
         "data": "2026-10-07"
+      },
+      {
+        "titulo": "Vietnã cresce 9,95% com indústria e investimento público",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTgwVG1YaWUxX0Z4ZU9wSVNHYmlQaXYwOGFoWms2QWR4cmszcEMtbGZhN2JCdlVObm90SEdrdy1tUlR1WkVYRE8xNkkxZ01rMnVCRkVuSmNZbnN5TVdvLXRsUWZKWHBSTzdzM2YyaGdvcjk1OTFWbmlGZjBwdU5VTS1wTHN4c2o0NTRLa2NtWVFwa3dy?oc=5",
+        "fonte": "Vermelho",
+        "data": "2026-10-06"
       }
     ],
     "mineracao": [
