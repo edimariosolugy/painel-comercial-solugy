@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-08T16:11:59+00:00",
+  "atualizadoEm": "2026-10-08T21:52:07+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -102,12 +102,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDYwTjNNVnFFUlJtV2JMUXpqV1pNMER0Q2phaDZORWZjdGZYNGwtNXhYcTByWHNZcFNIb2JqWUV4LVVTcHpodlVaSlh0MjdtYkpuSndoR1Q4SXdCakE0bzZVSnBJQktGbG5lQ3hkLVktTGt5QnpIN1BwRlpzLWFVS0h2RHgwc2g2WWFLeXpqYnd1TWNXc3A0ZFkwVzlJTS01THllQllqWjkzSVN0MXliWE41Zw?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-10-03"
-      },
-      {
-        "titulo": "Rede Polo investe R$ 25 milhões em 10ª loja no Rio Grande do Sul",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONW00WXJ1Z1VxdERSbnd2U0RQTHVHSDRJWGdyY0I4R0VUcmpzY0hCNkFOenJBSl9mQk1zRHU2cFBxZzgyWEpBakN4bzZOOHdPTGtKdVJIZzVmeVcyYlhqbGZlbjlESTBKcDlSU2FZZTd1X2xSSzRrb2gyd1BQMDlZdGNGbE9JNzEwM3JmMGNoaFR4cm8xWGdIR0dkR0hNX1k?oc=5",
-        "fonte": "Giro News",
-        "data": "2026-10-01"
       }
     ],
     "energia-gt": [
@@ -172,20 +166,14 @@ window.NEWS = {
         "data": "2026-10-08"
       },
       {
-        "titulo": "Hemobrás fecha acordos para reduzir dependência externa de medicamentos",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMTFSWHZlZ3hwR0ktal83UU5UcW9CSmtEU09Sbll0TmQzeDdTVzEwV18xd3RmSm5laC16b3ZEdHBFWkFGNERnenJhT3hNOWFDTFJ5YlJhZ2U5WjBtVEFCNm9XWmczczNiVWFzdUJlcFhXblNpcW1MNGRiZ3Z1c0lsMWFWZ2ZuUE53d0VJQkU3VjBCNGJuNkNPZ19yMmdTcHdyTVc3b2JoRmUwMFRTaXQ1YlluU1RQRHk4Xzc0aTBSRGJ0aEhWV2hzVlBST0h0NVZFUmxpanZuUXg2SlB5M2c?oc=5",
-        "fonte": "Movimento Econômico",
-        "data": "2026-10-03"
+        "titulo": "Agência de Comunicação - Investir em saúde e inovação é investir no crescimento da América Latina",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPZ1JlOERRbUFpdHJ3S1l0ZDUyVFdfcjUxa0FyYjJxX01xU1dnSFBGTG5iRU9oR18xSmxRaWM3eHpJdWJiYnE5c2lka0hyWmduWV9uWmdHazhHamxoREh2dmR0TFAxd2N0QUEtdTdCa0xpWFVQVV95ZWo0cklhanRoZWhmY1FOM2poelE0RGo3cmJiaUZnV2RSdzQ4RXk3c3VlS1pKQUtQakxwYWtNX01YT1NiNEZXYlFPTldKa2EyRGQzV1RtNU1SWUlCT1BrUldTS05oa2tOcFc?oc=5",
+        "fonte": "Estadão Blue Studio",
+        "data": "2026-10-02"
       }
     ],
     "fertilizantes": [],
     "industria-geral": [
-      {
-        "titulo": "Lucas do Rio Verde entra no radar de investimentos de gigante americana ligada ao agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNU1tdTBWVUlVWnpva0dBRnhSb29VaWV2bHJfeUhtbTc4ZmtoRmFaWVp5UVN6Z2E0REk0cWw3bFNsM0FUU3pvY3BnTl9MTGdlRVNxVE5yMDhUb2J4blhHa3pVNF9UUldrTEFQZzRzc3ZqTS1RLXpEVGk3amx2MlctNnpsNVFZMHpiS1FWanlLbUVwSTZzdjFUc1dUV0tEREczTkhGOE9WMW02SjMtRjVsaTdpMDZTaUhDUkkyVFZpTmxPNjR0R2RydE5oZEc4US0xSFRjczNUeDR4VkRDcjdrMVEzd2lLZw?oc=5",
-        "fonte": "Prefeitura de Lucas do Rio Verde",
-        "data": "2026-10-06"
-      },
       {
         "titulo": "Co-robotização, parcerias e investimentos: como a CNH usa “ciclo de baixa” para transformar suas fábricas",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOY0NoNW9NUzUyRm5lNzNuRTBTc0lqaURIS3RiMEd5dmw4T2gtcGlMVEprNGVGMEVWX1VGckg1M0t1NU9wdFBoZ1E5QzBFM1ctaW1aZ3JMeFktcXlsOEh2XzAxalhGbnNwVlZnTFdkLVM0NzVQUWRXSVR6Mlo2cG1LWUlOUmdQQ1QzSVJIR2ktRndVR0U1Q3BUWHNWQlBmVC1FZ0FSWHJndWVEcHJzbDU0N3l3SnFNcWY5eEtfRDVIcTQ2bGdRSUZSV20xb20xUQ?oc=5",
@@ -197,6 +185,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZG01RmRXZVVlU24yZDJHQ25nZWFZeW5nU05wazNhRDZoY3NxdVFpcDRRMmItZFhLRWNRYW02THVURmx0R2ZOeWdhdldtS2RheE95djJkRlZBTEUxWU9zdDdocG1ibzlIb1N5MjN0TkdhOExrTzh5UVJ1TzlDQm5IbUJyVDNFZTVURTdvbXp6LUNpclZDY2stSW9TbnhyekhpbG5YZVlUWE1rWm9jWTRreEZiT2kyeGtpUk9FNXNMbktmaGVtYWxUanRWc3hUOUxldDY5ZmdLVk5FNWtfUnJrcmxxRk5ZSG9ZR1JBakZpR1F2X1k?oc=5",
         "fonte": "Jornal do Comércio",
         "data": "2026-10-02"
+      },
+      {
+        "titulo": "Toyota investe R$ 7 bilhões em nova fábrica",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZGk4QWFwNmYzaTNOSjdtdXBjbkZOQ0xEWFZaQW5kTXJJcGI2MU5PVzJxV1Bvb1ZWSXoyVWdLYlpkT2M3SHkzcWJwNkZvQnRsSGg2dEtTdkNpcnozRG9tcjZCangzeW9na192akctTzI?oc=5",
+        "fonte": "Acia Araçatuba",
+        "data": "2026-10-03"
       }
     ],
     "logistica": [
@@ -207,16 +201,16 @@ window.NEWS = {
         "data": "2026-10-01"
       },
       {
-        "titulo": "Eleições 2026: O que o plano de Romeu Zema prevê para a logística brasileira",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdGc4NGlteGFMWjFKUHk4eWtkdk1mRTBLS2xZeVBQZjV2dzMxZ0xFLUdLSUFXcUY5Z3dPMVhZamhfU0NKODI5OFJTMHFiVm05QjNteTUxbmswOC16azdrMWxESEs2aEIwX3Y5YTVhMkFwQ2k4aXFldEJfN0I3ZTR0akFHZGpidEpHOEdoMlZ4a0ZaRk5XZndRaHNILUpfVlk?oc=5",
-        "fonte": "Mundo Logística",
-        "data": "2026-10-01"
-      },
-      {
         "titulo": "Infraestrutura inadequada amplia custos e limita competitividade no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSW5wN0NfaEozMXNMMmN5WUE5TTR0Y3NZLVhMekRvOWlWYkxWSnlKMWZPOGotQ1lEX0pTMjhTMURZSzEzOWRUZmRPRTM2QzFnY0JaZm1obXp0QlJicUR1em1KVFZmdTJYZXljRWtFU25MRmVvX0EyWk5pckg2eXFieEtOQ1ZEQTFNdExVX01kMG1rUEJ4ZFpuU0xGSmlBQnpwdFdfNmNnMnBzU3JOOENwYm1LcmUwRVFwek9OcmJEeXU5WEg0NllYTGxkdmZINFRfcUNVcWpRVQ?oc=5",
         "fonte": "A Tribuna",
         "data": "2026-10-06"
+      },
+      {
+        "titulo": "O porto não começa no cais",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXNVMzU3NThvQUhSQlFySmF1clNqeXJ4SnFEZFZrdEx2OVIxU3ZOSTdRZE9qcWY5TWVGX2VMSG1pRUNKOC1qQ1Y5dkIzTm9IMF9qVXp0UWtlM19yQmhBbDE1MDN5a2lHSDJLRFBXak5PeVhpRlNKclY4Qk1MUDZnczN0M2RjSDF6?oc=5",
+        "fonte": "A Gazeta",
+        "data": "2026-10-07"
       }
     ],
     "maquinas": [
@@ -227,16 +221,16 @@ window.NEWS = {
         "data": "2026-10-03"
       },
       {
-        "titulo": "Abimaq: investimentos em máquinas recuam 5,2% em agosto na comparação anual",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUG9ZYk10Nkk4cFZqdUlQYWVkelF3NzhGSnpxZF9vSFFoU0w2c2lPYU1FQnZXOUlKUF82WWZ0TnhvNzE5MFlSZ3lXeTEya1lFeWg2ZmYxbTNaa0ZJb3k5RUttOC1QUUFfZ3VpLVIwYWY3U1pQdXJHUVJ2dzRJVXFKeEtqOE5mSWh4dTZYQlNuM3ppWEJWWHF2Z0FhUlFXaUQ1Nnc?oc=5",
-        "fonte": "SIMMMEM",
-        "data": "2026-10-01"
-      },
-      {
         "titulo": "outubro | 2026 | Carta de Conjuntura",
         "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ySmpaRVFKVW1hSnpTOERMOEdjbmlFVTRhRXp4NS1RcmpiV3pVUFVfRVlTa2JCYTk2T0E1UDZqejh1YzlFaTdaT1liLUx2SHBGZW4ycm04QXcxRDdoSU9fU1l4Uzg5MGZEaFlpOA?oc=5",
         "fonte": "Ipea",
         "data": "2026-10-07"
+      },
+      {
+        "titulo": "Vietnã cresce 9,95% com indústria e investimento público",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTgwVG1YaWUxX0Z4ZU9wSVNHYmlQaXYwOGFoWms2QWR4cmszcEMtbGZhN2JCdlVObm90SEdrdy1tUlR1WkVYRE8xNkkxZ01rMnVCRkVuSmNZbnN5TVdvLXRsUWZKWHBSTzdzM2YyaGdvcjk1OTFWbmlGZjBwdU5VTS1wTHN4c2o0NTRLa2NtWVFwa3dy?oc=5",
+        "fonte": "Vermelho",
+        "data": "2026-10-06"
       }
     ],
     "mineracao": [
@@ -301,15 +295,15 @@ window.NEWS = {
         "data": "2026-10-02"
       },
       {
-        "titulo": "Opinião - Mauricio Portugal Ribeiro: A nudez das licitações de concessão de saneamento",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMl9oSDBobW91bHh2OGdELUpoS25tV2tOMjJmSE1zbEpSaGV4clphUGpZV3poWXh6ajRsdjEyckh4Zy1wZGh5bmhLTnFVZGJlM2dLR0JLRVJaVjBOZ0tvS1I4dmdRUXQ2SzJOcWEtU29sNjdtbDZGLUJXbUZEd2dEbC0yVWktRDluNXk5M2tGUC1MUnlzbXlNck9oVG9ZdURGOUJob0pnYzhzemdEeGEyZTZicTRZLTdkSnJ3cnJpTHZ6UlYtRWc?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-10-07"
-      },
-      {
         "titulo": "Após privatização da Copasa, cidades mineiras buscam novos operadores",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNMHcyeEhHOUk0YUhlZ1NnYkVEVVdDTTFKd1NVakdaLUxib2NLVzdMTUVYcHRiX0dWYjFjZzZ2dGt0NVA4YmVQUVh6N21Tc3hPZ0lGUDh3Ykt5eDdZV0N0MHd6ek1zM3JMaWx6cmlNYkk1TGsxeUhCQmZfUVJ5S3FPY2Q1WkZja0NDcm1GUlljMGUtSVlKOUUtSV9oemRTemJ0TkhfbzRUZw?oc=5",
         "fonte": "CNN Brasil",
+        "data": "2026-10-07"
+      },
+      {
+        "titulo": "Saneamento entra em nova fase com próximo ciclo político nos estados",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlhDY1VWY1B6MVgyTDQ5dmRvU0tJMTlWSHRJVjZ0emp5YXJnd29EbDJfVVVPMkJRUHBZRUQ4ZmNJMUhtUklrc1d3VThZbEhDbEtJNHlSZnV5a29ZMkxNZWVTd1RZSlNKRUEwTVRtdzhkT2JyQ1NHSHRmNjQwRlpyckg3UjYxWUtaN0cxanByODg5U01NZ05YMG5oa25JSnRw?oc=5",
+        "fonte": "Agência iNFRA",
         "data": "2026-10-07"
       }
     ],
