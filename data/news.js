@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-08T21:52:07+00:00",
+  "atualizadoEm": "2026-10-09T01:49:40+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,15 +16,15 @@ window.NEWS = {
         "data": "2026-10-05"
       },
       {
-        "titulo": "Lucas do Rio Verde entra no radar de investimentos de gigante americana ligada ao agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNU1tdTBWVUlVWnpva0dBRnhSb29VaWV2bHJfeUhtbTc4ZmtoRmFaWVp5UVN6Z2E0REk0cWw3bFNsM0FUU3pvY3BnTl9MTGdlRVNxVE5yMDhUb2J4blhHa3pVNF9UUldrTEFQZzRzc3ZqTS1RLXpEVGk3amx2MlctNnpsNVFZMHpiS1FWanlLbUVwSTZzdjFUc1dUV0tEREczTkhGOE9WMW02SjMtRjVsaTdpMDZTaUhDUkkyVFZpTmxPNjR0R2RydE5oZEc4US0xSFRjczNUeDR4VkRDcjdrMVEzd2lLZw?oc=5",
-        "fonte": "Prefeitura de Lucas do Rio Verde",
-        "data": "2026-10-06"
+        "titulo": "São Paulo sediará a Cúpula da Inovação e Tecnologia do Agro Brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWJfZmc1Zlc5YjUxbExRUWpHZjBtaHpENWE2THdKdDR2MTBuTlFQS3lad3Y2cnZyTG0tYjU3N3NveU5NUXFOVmpoRlBleGtELVpoa0ZhU2djbHJmT1Q3YWhYSVZWUHpZQVdOTVhqclRjdV9QNWVkaUlCOWxLRFR3aFk0VlNyRElSaER3TG1PSVFHUWNBY1p5dnMzRkp2VmQ2T2JXcW5iWEpwOUJIQVB1enJieWs?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-10-07"
       }
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "FiSA 2026: Inovação, Ciência e Sustentabilidade na Alimentação",
+        "titulo": "FiSA 2026: Inovação, ciência e sustentabilidade redesenham o futuro da indústria de alimentos e bebidas",
         "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5mS3gyV0ZYNjJTZVQyTjFBa1ZXd2FaV0tlX3lyeThjdnY4NXp3TFByNkhTeG4yNmt5VnZkRC1RRmpGUXVhVFh6c1d5bW1MdnU1SWs0Nl9nOV93R1d4MFJxSnhxS2V5MHVqbXcwSTYxLXU?oc=5",
         "fonte": "Food Connection",
         "data": "2026-10-06"
@@ -102,6 +102,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDYwTjNNVnFFUlJtV2JMUXpqV1pNMER0Q2phaDZORWZjdGZYNGwtNXhYcTByWHNZcFNIb2JqWUV4LVVTcHpodlVaSlh0MjdtYkpuSndoR1Q4SXdCakE0bzZVSnBJQktGbG5lQ3hkLVktTGt5QnpIN1BwRlpzLWFVS0h2RHgwc2g2WWFLeXpqYnd1TWNXc3A0ZFkwVzlJTS01THllQllqWjkzSVN0MXliWE41Zw?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-10-03"
+      },
+      {
+        "titulo": "Amazon corta menos de 1.000 vagas em Lojas durante o Prime Big Deal Days",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX21zeXNnZ0k5X0JmQk55dXhVNWttQkdqT0hJMnFuc2h6Rk82S25kU3p5bGxVMTlKOXBrTDhhcEZnZWVvLXhaZDJwZmk5WGxVNjlkajNUVHhUTmNOVkwzRl95ZGdvR01NeWtNd09vd0hjWU16bk55RjdxRS1zakQ0amhnb3VGdWR1cW1ibUh4TXZoWEo0RGUza2Y4YTNPZWFfdjRYWWlBNA?oc=5",
+        "fonte": "Paraíba Business",
+        "data": "2026-10-08"
       }
     ],
     "energia-gt": [
@@ -126,15 +132,15 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "A energia que o Nordeste produz e o Brasil joga fora",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnlXZUI0MUpsTUpLVGVzQ0FZcUZ2WUYtMWxLRjRBT1dOOFF2NDZ6eF8xVndlRWh0MTU2Wl9XczFNdXh4SkRLeEJYNlV1X0V5S2tybDF3SVNUai1oY1Y3M2F3Z0JBZFQ3aUJMaUwzRUMtMGVEeHExN0dKRUZQSUl0VTRhSHhXQWVZaThNVEQ1TWFIbjdkbTVYaEdB?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-10-02"
-      },
-      {
         "titulo": "Energia solar deve ultrapassar grandes hidrelétricas no Brasil até 2035, enquanto renováveis avançam para quase 62% da capacidade e investimentos chegam a US$ 93 bilhões",
         "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPcW5welQtXzR6U2FwZVY3dTg4VzUwOF9YY2FhZGtxY3doOWxDeFk4YTBDZEdCaVplWGgzbk9mZ2QwNG9HNmJnU2lTQ0puV0lZNmVSNkFUdVFtb3VSZzBmSXgtaC1RcURaSGU3R21PT1NIX3pUeUhmTUJwTkN4TkZlQzR0aTZsMFZUNG9EMXd2a2loSGJta091UTF5alBrMDRvNzduXzdCY2o1VkFGdDRtWl9VQVNoNXhfVjRBOTRyTmxJSHhqVTFkWGtTc0hBSkVXYldLRVR3bEVneUtOaUJrWHJIdkFEUXVsT2M5dmpkOTNZTV82a3BqSWZ0dEhrUGVXYWZLWUVabkJJYmQ4MmdhTVRjRGlUbDNwQlE?oc=5",
         "fonte": "CPG Click Petróleo e Gás",
+        "data": "2026-10-02"
+      },
+      {
+        "titulo": "A energia que o Nordeste produz e o Brasil joga fora",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnlXZUI0MUpsTUpLVGVzQ0FZcUZ2WUYtMWxLRjRBT1dOOFF2NDZ6eF8xVndlRWh0MTU2Wl9XczFNdXh4SkRLeEJYNlV1X0V5S2tybDF3SVNUai1oY1Y3M2F3Z0JBZFQ3aUJMaUwzRUMtMGVEeHExN0dKRUZQSUl0VTRhSHhXQWVZaThNVEQ1TWFIbjdkbTVYaEdB?oc=5",
+        "fonte": "Agência eixos",
         "data": "2026-10-02"
       },
       {
@@ -195,12 +201,6 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "Vports investe R$ 1,6 bi e mira canal e ferrovias",
-        "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9oaWRNbXYtUnFDNHpFQ2dvdERvNno1LTRSRTNwcl9JN2ZmUG1TZmRQcFN3ZjN1ZjhkQkFjc0hmUVU2cW1NLTJvTHBobUFua0dXcTY0X2JaZUI1NTNYdDRZQXpYeEpOUQ?oc=5",
-        "fonte": "ES Brasil",
-        "data": "2026-10-01"
-      },
-      {
         "titulo": "Infraestrutura inadequada amplia custos e limita competitividade no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSW5wN0NfaEozMXNMMmN5WUE5TTR0Y3NZLVhMekRvOWlWYkxWSnlKMWZPOGotQ1lEX0pTMjhTMURZSzEzOWRUZmRPRTM2QzFnY0JaZm1obXp0QlJicUR1em1KVFZmdTJYZXljRWtFU25MRmVvX0EyWk5pckg2eXFieEtOQ1ZEQTFNdExVX01kMG1rUEJ4ZFpuU0xGSmlBQnpwdFdfNmNnMnBzU3JOOENwYm1LcmUwRVFwek9OcmJEeXU5WEg0NllYTGxkdmZINFRfcUNVcWpRVQ?oc=5",
         "fonte": "A Tribuna",
@@ -211,6 +211,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXNVMzU3NThvQUhSQlFySmF1clNqeXJ4SnFEZFZrdEx2OVIxU3ZOSTdRZE9qcWY5TWVGX2VMSG1pRUNKOC1qQ1Y5dkIzTm9IMF9qVXp0UWtlM19yQmhBbDE1MDN5a2lHSDJLRFBXak5PeVhpRlNKclY4Qk1MUDZnczN0M2RjSDF6?oc=5",
         "fonte": "A Gazeta",
         "data": "2026-10-07"
+      },
+      {
+        "titulo": "Nordeste precisa destravar a infraestrutura para atrair mais investimentos",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjZYdU4zbXU1dVlLVkJCMjJ6U19IYy1seFZuVV9jNG14Q015NlFkYVJRRlM3eV9mRFpoMHVFRm1YUno5R3Q1U1pBMFdwS3FyN29FU0p3SFZ5TUdHY2JsNm5kVFdLc2RVcEJwR1dDUG1lWDhMVnR6dWtrYmFYUW1ENGdKTi0tX2M2YmY0YlljeHQzWE1JRGUyYUhwN2x0WUdVMFZ2MTFhT0JZcHZMNndLcjl2Zk1BWVhYRFR1dER3?oc=5",
+        "fonte": "JC",
+        "data": "2026-10-08"
       }
     ],
     "maquinas": [
@@ -235,22 +241,22 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Investimentos de empresas estrangeiras colocam o Sul de MG na disputa global por terras raras; entenda",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZXZNelRZYTEyaHlaTmZKX0hPNFVsZWJNQWJjSVRSWnB3bVVfUU8zZUFfbXgtVWRXaEdQRU1XSEo3VGhkcDdhZG8yQUFYTElCOUNUVi12UGRCVkZhdUVQWFBBNm5jc2I4SEVKSTJwdFFhWVlFeFpwMGp5V1NXTl9QWFRPY3BhVkZvLVpvYmctcC1mS0IzOWhzaXNJNHpHMjZEVFFpbjdyalljRzBINU4wZ2lWNU9GamctWVd0T2NtT0RCUlpyaFJ3ZTYwem1tdFVGeEZFZUtkRFphMWtYWXdGY0Z4bzk0ajZIeXhNTmNtVTJuZ3lTMWfSAYQCQVVfeXFMT3JXTzhkZThHSE1ZRUM1MVk2MUMzanFmWHZmbURHQnM5Y2JNd2FKY2wyUDc3SlpaYnE4eHZtV2FXdnJJMEJyRVRwTXF4bGZwd2txRUExMTNDeVRtRFVpa0pnTkFhMzR5elNteUM4TFlJYktwdElZSzJMNTVCcVZybXNHNnhFcXM1MDBpOThILUF3NUwyM0N2dDRZMFc4emh4aW9kcnNobk0teG1qRm5rX1FuWmM3UExQaU5pTFV6TWJrZ2JiMF9vc3Y0UmhJNjQwenNRck16YlMtamlaMV85T3pvb1lfcmc0UWwtTzNWSVhUSE90WmFRQklpb3F1NzRsbFM1TnQ?oc=5",
-        "fonte": "G1",
-        "data": "2026-10-02"
-      },
-      {
         "titulo": "Governo do Brasil vai participar de reunião do G7 sobre minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2FaX0luZGdUaFNVM3Jvd2lIT2FVUlJpRVlZNnlDRktjLWdjVEpQdDBMRzNfVzlFOTM4WlMyRmV1OWxqbjFiOTFBZEJESjlEU0Y2aVR1QU80WGJTaGJRUDdsZDVxNk5tODhuX1dUQlFGTkI5OHpFVDc0bFBZbEJMbjdjMXp4MXQxdWZLWTdNVzg3Zml6MUV5QUk2VU5xLXlaUUdmNjhGZ2VJV0VWdlE?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-04"
       },
       {
-        "titulo": "MINERAIS CRÍTICOS | O Desafio do financiamento de projetos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZkQxay0tcnFHd0lWZ211S01aVUdSNEtGa05yYTdGRFJDaTVhYUI1OGRuMzV1eWQ1akM5SHBSVFI5TnhXNi1GQ0VvWkprN3lxRWlOdnBaeXlSbzlwbXRPVHdUVzNVVkUwUzRZeUxLM21QWUUzdXpZN2FEbnJtUERtSllzTEM5RlVnNGMwdm01QQ?oc=5",
-        "fonte": "Brasil Mineral",
-        "data": "2026-10-01"
+        "titulo": "Investimentos de empresas estrangeiras colocam o Sul de MG na disputa global por terras raras; entenda",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZXZNelRZYTEyaHlaTmZKX0hPNFVsZWJNQWJjSVRSWnB3bVVfUU8zZUFfbXgtVWRXaEdQRU1XSEo3VGhkcDdhZG8yQUFYTElCOUNUVi12UGRCVkZhdUVQWFBBNm5jc2I4SEVKSTJwdFFhWVlFeFpwMGp5V1NXTl9QWFRPY3BhVkZvLVpvYmctcC1mS0IzOWhzaXNJNHpHMjZEVFFpbjdyalljRzBINU4wZ2lWNU9GamctWVd0T2NtT0RCUlpyaFJ3ZTYwem1tdFVGeEZFZUtkRFphMWtYWXdGY0Z4bzk0ajZIeXhNTmNtVTJuZ3lTMWfSAYQCQVVfeXFMT3JXTzhkZThHSE1ZRUM1MVk2MUMzanFmWHZmbURHQnM5Y2JNd2FKY2wyUDc3SlpaYnE4eHZtV2FXdnJJMEJyRVRwTXF4bGZwd2txRUExMTNDeVRtRFVpa0pnTkFhMzR5elNteUM4TFlJYktwdElZSzJMNTVCcVZybXNHNnhFcXM1MDBpOThILUF3NUwyM0N2dDRZMFc4emh4aW9kcnNobk0teG1qRm5rX1FuWmM3UExQaU5pTFV6TWJrZ2JiMF9vc3Y0UmhJNjQwenNRck16YlMtamlaMV85T3pvb1lfcmc0UWwtTzNWSVhUSE90WmFRQklpb3F1NzRsbFM1TnQ?oc=5",
+        "fonte": "G1",
+        "data": "2026-10-02"
+      },
+      {
+        "titulo": "Brasil busca se manter neutro na disputa entre EUA e China por minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnlDazFzMmEta2w0TTJzc0ZWRFNNWlp2WDhhWEI5RUQ5MUFOLVZJYnpVeG40V1pyNHlLUks5UnVLZ0NpMGdqWHhBeTJHX3pDcDhZTDBsV0dhVmVVWDFfVVpaN0VhX2poVml0T2s0Qy1nOFBLM1F0V01aYW13YkJMcnQ1UTBkZWZ2U0xpMXBTSE9xUjQxbjFzOEp0SEU1T1kyWWxMOWF5QWFXelBtZndOVElKcm82U3lKd3FDcDZOUGpvcE1YQXJiQUNxakYwLWlf?oc=5",
+        "fonte": "JOTA Jornalismo",
+        "data": "2026-10-05"
       }
     ],
     "papel-celulose": [
