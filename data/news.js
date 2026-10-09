@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-09T15:55:31+00:00",
+  "atualizadoEm": "2026-10-09T20:39:27+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-10-06"
       },
       {
-        "titulo": "GAFFFF 2026: inovação, sustentabilidade e investimentos no agro marcam o 2º dia do evento; veja os destaques",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWlUyNXFFc3hoVDZ1ckJWWENmcEdPNHdkZU9YVEhHcWhHaDRWQnhsUmNhLVB4VUtZbDI3TmpUTzMwTlhoM0ZiUEhsSnkxY084U01fN0xtN25TMDdaSHJtY2NxNFoySEFON1l5aWx0ZkZyQmg5X0hFN1dERHJ5LXc?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-10-02"
-      },
-      {
         "titulo": "Exclusivo/ Scanntech fecha rodada de US$ 180 milhões; Warburg faz saída parcial",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZWt0VDlxSkZSRmJjSGFxMXdPRXJnUHhqSVlTOEs3SFEzb0RfcFpLWjhVekN2ZmFxUnFqcWZvSC1lXzE2dW8wYlF6M0pHZFR5Umgzcm55VXhXcjlxUnF2T2ptT0lSVDBFZk84V2tiUjVxQTNRYjU0VGFrM1NNTjJsVzMwTTVrcHpMc2ZOXzF1cEVLOXpkQndtWEpuOWNZMkl3WHRENg?oc=5",
         "fonte": "Brazil Journal",
         "data": "2026-10-09"
+      },
+      {
+        "titulo": "Nestlé, dona de marcas como Nescafé, investe US$ 689 milhões em fábrica que vai gerar mais de 520 empregos",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjk1WmNfRTMxWmVYYTBMVjF2RExvSFVHSUZJYjgydzBhUFZhNjlqNkFoVkg3aVJvcWw3OXU3U21sM0dxV29zbllmMEpNcWNJa09yWE9QV3lUZ05vUmlLa2hzUEdjTE9sYW14NWRTd20zd3U4NXBxLVhqbldHOVotVXJ3Z2ZKSzVlVkJPcmZBWQ?oc=5",
+        "fonte": "ND Mais",
+        "data": "2026-10-06"
       }
     ],
     "automotivo": [
@@ -47,6 +47,12 @@ window.NEWS = {
         "titulo": "Alívio no setor automotivo",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQekZmX3FJak90cFE2cU5PQXBpQ1Z5YWluQTVCZkxBOTNMbEVLMXkxT21HUnRrNVFROC1CWlNnV3VTY2NQUW5vUWhFdjRaTjNxbGV3N1hvM0RxR25sdF9haUVJVnZtNTYxWmhYX3FVdDFtdmJWY0pnbmhpVXE0Y0ZSQ0tINl83bEZ4LXRZRW1jYTBlZ1VB?oc=5",
         "fonte": "A Tribuna",
+        "data": "2026-10-09"
+      },
+      {
+        "titulo": "Políticas industriais de Lula e Bolsonaro revelam caminhos distintos para emprego e produção",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjFSVVlSZGtuTnFPb1dkRFlpU0dseTJ6RFJlRUM4VVlKeGE3VTJBQTVGc1JVLXNaUWlBOWRNOGY5UVotU2FaVC1LdTlBc0t5SHFvNmpnTzJnUHRvaG9uUmU1SVRWRHdkWEhSOFJDcXhLanlzZWN4VU56bnQ4TjJucXlHbl9TbVNnMFJPekZfaW1OdUVEamV3UjJVYmR5ZlBBa3daVU5IeXNtUjhGVWJZRUV4SHM?oc=5",
+        "fonte": "SMABC",
         "data": "2026-10-09"
       },
       {
@@ -130,19 +136,13 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "A energia que o Nordeste produz e o Brasil joga fora",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnlXZUI0MUpsTUpLVGVzQ0FZcUZ2WUYtMWxLRjRBT1dOOFF2NDZ6eF8xVndlRWh0MTU2Wl9XczFNdXh4SkRLeEJYNlV1X0V5S2tybDF3SVNUai1oY1Y3M2F3Z0JBZFQ3aUJMaUwzRUMtMGVEeHExN0dKRUZQSUl0VTRhSHhXQWVZaThNVEQ1TWFIbjdkbTVYaEdB?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-10-02"
+        "titulo": "Não é a Taesa (TAEE11): Ação paga bons dividendos, mas não é a favorita do Itaú BBA; veja as elétricas preferidas do banco",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnptNkhEVXF1bEs4QUdDOTVIVlpfQWJHTU0zV0FDZHcxckVfZERNZDNGejQ4TmdnMzBtOFBMMHFVbjBaU3RHNjkydG1DVk0tX1NKbTZfN3V4NGpOWFQwNVFqM2w5YW1oQnhwOHN5OGQyYjdZSkk3Q2tnYzRob0xDZjZaS0FMVWVhT0xWY0txYS1HMEZhdEs3bmd6UzB5Wm1nSzNoNTlvQ2lmUVdRM0FuZ3hIdFNqaWZFTXh2djJva0lQdXM5ek5Pc2x2QzdXX0l0S1hvY29QYnZUQWRDUUpDaE5CRTBXQkpUb05FMDZQQXRZdw?oc=5",
+        "fonte": "Seu Dinheiro",
+        "data": "2026-10-09"
       }
     ],
     "solar": [
-      {
-        "titulo": "A energia que o Nordeste produz e o Brasil joga fora",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQnlXZUI0MUpsTUpLVGVzQ0FZcUZ2WUYtMWxLRjRBT1dOOFF2NDZ6eF8xVndlRWh0MTU2Wl9XczFNdXh4SkRLeEJYNlV1X0V5S2tybDF3SVNUai1oY1Y3M2F3Z0JBZFQ3aUJMaUwzRUMtMGVEeHExN0dKRUZQSUl0VTRhSHhXQWVZaThNVEQ1TWFIbjdkbTVYaEdB?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-10-02"
-      },
       {
         "titulo": "A transição energética precisa chegar à ponta",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEU5UVZSWHhidWZYNjRoT1kxUXlkQWs0WS14clpWTlFqS0k4QlFtNF9HVFlkT1BkX0NTM1E2SzJqUW1MT0xnLWZ1X1VpaElGc3d3R2ZYN0dtN1ZkaHVwT2ZVcWNuZzYtZ0h3VWZJNWV0Q3gzODVZUmplNG53ZGZHbjhlTzdfa1Bp?oc=5",
@@ -154,16 +154,16 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaVZZMl96YmF4YWRZaEtHeTdEUEtSeDc5ZUt4ZWZPU2lHMUhHUW9nOUZjcnV2OW5Xd2M2U0k4T19wc3ZMN1ZQZTNQRV9WQVRKSUd2VnRVenhGYUVUY1RqajM2bm91ekdrSDdfZ1ZMVFZtaU81SHA2MFRta0drdDctXw?oc=5",
         "fonte": "Canal Solar",
         "data": "2026-10-07"
+      },
+      {
+        "titulo": "Brasil prevê R$ 3,3 trilhões em investimentos em energia até 2036",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2hOS3A4anZQenVieHRjTU8yTFZneXNBcjZzdGk4d3lWdEVMZTRLemo5Q20yOTJyRkNQWVBvNzJucFU1b01hYllRZV9KMlJNR3hwUmU1X0lfQ3dLTnRMZ0dCVHo4LXVGM0dUMldFcXdQZEFjeW5WR1ZVQ0wzMVhhc1JPNXQ0YzZsdllRZURFRVBmU1JQX3Zpa1JGTThIOWJmZjdBUEYxcw?oc=5",
+        "fonte": "Times Brasil | CNBC",
+        "data": "2026-10-09"
       }
     ],
     "epc": [],
     "farma": [
-      {
-        "titulo": "Brasil firma acordo para ampliar produção de imunoglobulina, medicamento para doenças do sangue",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT0xiV1lyNEVJbHhybUo1ZDQ5ZHZ3ZkJzZWdXSHpFY21ybk9UY1gzRGdSSkZ5SE9XMnFNMXZERTJDaW9zV1QwX2hvZ0pkMnpESDZfMGE5dTNDMlhLaW1rWmZNeWxVWGJYSEZocXlyTm0wMnhkMFh0Q0tTTjNkekVlN05BNGlwTnlscDZvWnJfY2dkbmJTMXgxUEJtaHBWcHQ1aldqVXltRzBlQks5dGVMRzdiOHJiNWtCZ1lOWEh0c2FUdmJVV0RmV2xETWx1V2JBM1lDU20yY1d2Y18zempOMW1USk92N2pQRnpkaWdkV00?oc=5",
-        "fonte": "Governo Federal",
-        "data": "2026-10-02"
-      },
       {
         "titulo": "Brasil prepara lista de insumos farmacêuticos prioritários para estimular produção nacional",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHB1R1oyeFA5QjVCcWZpcUZHbnJ1QTVPZlA3WUxpb2JEckFXRjZsLVhkUnZEY1ZvWTZKSzJXaGdwanZ1N0JLbEpUN1RqNWR1SDUwV3hHNC1zQV9GNXFib0R1Z0pIaWN6VFM5RGE4SmdzU2Y1RzFZdVRqV2xoUjlwSGY1YUc1eWY1OHFJZkFwZEREb2VUR2p5NzBn?oc=5",
@@ -175,6 +175,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPMTFSWHZlZ3hwR0ktal83UU5UcW9CSmtEU09Sbll0TmQzeDdTVzEwV18xd3RmSm5laC16b3ZEdHBFWkFGNERnenJhT3hNOWFDTFJ5YlJhZ2U5WjBtVEFCNm9XWmczczNiVWFzdUJlcFhXblNpcW1MNGRiZ3Z1c0lsMWFWZ2ZuUE53d0VJQkU3VjBCNGJuNkNPZ19yMmdTcHdyTVc3b2JoRmUwMFRTaXQ1YlluU1RQRHk4Xzc0aTBSRGJ0aEhWV2hzVlBST0h0NVZFUmxpanZuUXg2SlB5M2c?oc=5",
         "fonte": "Movimento Econômico",
         "data": "2026-10-03"
+      },
+      {
+        "titulo": "GLP-1: aumento da demanda no Brasil redefine mercado de saúde e medicamentos",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByemU2NGVaU3diWk9LbzI2WFllUnI4STd3VEdHX3BQT25KaUVaYzRUcHdTYmVsT3BDV0NRRlkzU0NoNGVFMGJGLWpNOXdGazVZbTN2ZWV0WGRhbE5XZEwyNkczcno4eVpHZ3FpNmx5eHhIRW1W?oc=5",
+        "fonte": "Safra",
+        "data": "2026-10-07"
       }
     ],
     "fertilizantes": [],
@@ -226,30 +232,30 @@ window.NEWS = {
         "data": "2026-10-03"
       },
       {
-        "titulo": "76% das indústrias com dificuldade de crédito apontam os juros como o maior vilão, diz CNI",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNE1oaTdTWGlOR3Q2bFJINzJHODRRWGVGLVJxUTBQLXFsTFM3UndvVW4weHlQa0x4Q1M1NXlaejJzaFFzTXVLTHFGOUY5Wl9DZzZuQ0VGNy10aE9raF9PQVh1TVF1R2hxS01uYUpJTS15czFOUDdXbXBqNXh4ek16ekRKTm11YmhLSElTenlBcGpZTmt1Y1Zuc1FHdlFrQ2hublhhVEpNc2lIZHNZN3Mta2d1X1BVM3N1cjh2U3VZbVNlbFZ4VHJIZlcyRklfblpRNVRIOHdoU3REYm1CdUlVQlZjQQ?oc=5",
-        "fonte": "Agência de Notícias da Indústria",
-        "data": "2026-10-09"
-      },
-      {
         "titulo": "Biocombustíveis somam R$ 289 bilhões em investimentos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmFmZnhncHlEU3JsVUItbURrQl9MM2dfMnJraG5pM25RUm1VZ0FULWphbVdfaV9LVW1WQ05XaFYtc2wzVExrRF9QWEQ0WjduQnFtQ1RnbHJKNDFLVlFVTVJiV01fQlVESkJ2RVlQNExLelk4NUhNMWJEcnQ4cFRIQXlQQnpVNlhxNDlCNnZGN1k5a0V5YnRoWkx6THI?oc=5",
         "fonte": "NovaCana",
         "data": "2026-10-05"
+      },
+      {
+        "titulo": "Vietnã cresce 9,95% com indústria e investimento público",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTgwVG1YaWUxX0Z4ZU9wSVNHYmlQaXYwOGFoWms2QWR4cmszcEMtbGZhN2JCdlVObm90SEdrdy1tUlR1WkVYRE8xNkkxZ01rMnVCRkVuSmNZbnN5TVdvLXRsUWZKWHBSTzdzM2YyaGdvcjk1OTFWbmlGZjBwdU5VTS1wTHN4c2o0NTRLa2NtWVFwa3dy?oc=5",
+        "fonte": "Vermelho",
+        "data": "2026-10-06"
       }
     ],
     "mineracao": [
-      {
-        "titulo": "Governo do Brasil vai participar de reunião do G7 sobre minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2FaX0luZGdUaFNVM3Jvd2lIT2FVUlJpRVlZNnlDRktjLWdjVEpQdDBMRzNfVzlFOTM4WlMyRmV1OWxqbjFiOTFBZEJESjlEU0Y2aVR1QU80WGJTaGJRUDdsZDVxNk5tODhuX1dUQlFGTkI5OHpFVDc0bFBZbEJMbjdjMXp4MXQxdWZLWTdNVzg3Zml6MUV5QUk2VU5xLXlaUUdmNjhGZ2VJV0VWdlE?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-04"
-      },
       {
         "titulo": "Brasil busca se manter neutro na disputa entre EUA e China por minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnlDazFzMmEta2w0TTJzc0ZWRFNNWlp2WDhhWEI5RUQ5MUFOLVZJYnpVeG40V1pyNHlLUks5UnVLZ0NpMGdqWHhBeTJHX3pDcDhZTDBsV0dhVmVVWDFfVVpaN0VhX2poVml0T2s0Qy1nOFBLM1F0V01aYW13YkJMcnQ1UTBkZWZ2U0xpMXBTSE9xUjQxbjFzOEp0SEU1T1kyWWxMOWF5QWFXelBtZndOVElKcm82U3lKd3FDcDZOUGpvcE1YQXJiQUNxakYwLWlf?oc=5",
         "fonte": "JOTA Jornalismo",
         "data": "2026-10-05"
+      },
+      {
+        "titulo": "Governo do Brasil vai participar de reunião do G7 sobre minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQV2FaX0luZGdUaFNVM3Jvd2lIT2FVUlJpRVlZNnlDRktjLWdjVEpQdDBMRzNfVzlFOTM4WlMyRmV1OWxqbjFiOTFBZEJESjlEU0Y2aVR1QU80WGJTaGJRUDdsZDVxNk5tODhuX1dUQlFGTkI5OHpFVDc0bFBZbEJMbjdjMXp4MXQxdWZLWTdNVzg3Zml6MUV5QUk2VU5xLXlaUUdmNjhGZ2VJV0VWdlE?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-04"
       },
       {
         "titulo": "MINERAIS CRÍTICOS | BNDES mobiliza R$ 45,8 bilhões visando transformar o Brasil em potência",
@@ -259,6 +265,12 @@ window.NEWS = {
       }
     ],
     "papel-celulose": [
+      {
+        "titulo": "Projeto de celulose de US$ 4,6 bi põe CMPC entre manter rating e crescer no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkhCSnl2VnozbHJ3NmhiQjdhcDJUdGpycnRHcUh1RVQwZ1RCNzQ1a0FPdkkzRHZTWjdSdXBWaFpKdGhPeHZLS0liVklQNzd4SXZwdDM4UGI0UXNzd0Zma2ladTM2UllXOU1tdnVIWXZUNEJvc2pRQ0ZObWJ0aERGQ2t1X3AxeVBOeWsxUW5sYWZmVkhvYTNBcWdVa2NPRnhRZEhSZUtWRG5PV1BGd2hqNWxya2t0aDNVZnphVmVHUFpjZ9IB1gFBVV95cUxNRjVvY0xnRGV2cHZWYkluNnBaTzcxS0dqVnQ4MTFpUW9JUjBBeFd0SFpnUWdrNW1HRHdLMzRVWlZzZHpsc1hULXNyNmtCeVBHSG5NRFV2dU5tXzAwNFJPbTNONnlxLWhZUHhwRXR2QWJsc1BmMzd5UnNkTl9DemRCc2F6bkI3dDVrZjhNOXQwSVdQUUdiS0htZmcwTVNWZ3VsY0l2R2duQWJFQUNtMUd5VTVfTkVuZzJ1cGpOVmw3QkdQM2NxeWFoZWcyemtWYS1WRlV0ZGNn?oc=5",
+        "fonte": "Bloomberg Línea Brasil",
+        "data": "2026-10-06"
+      },
       {
         "titulo": "Empresa chilena planeja investir US$ 4,6 bi em projeto de celulose no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXBIUFVWZ0drc2VGNjFxY2kxYmJtSVBKcWNKNkVNTFZpZnpEUmxfQmFYX3dWLVFKcGt6RjMxZi1nck8xTGR5VGt2c2xrVGtNRXp1Tll1Ykd1LVlYcHBmRmZyTDJPUWR0djlzRnBuNWVmMC1GUzJBX1FtaklVemFPb1diZ1JfVXluTHNveFA3TzZSVWFsOTRGMDNxUzFXWWE3U1lRMzJWa20zU2FYbkl5aTJqTWltS21RdlpNcEtfR3JTbkh1Zjg4OTdlMU9OaVZ2Z0YwbnFNdGFHd9IB6AFBVV95cUxNdUtmT09wdHVlbW9USmtHQ2lqOTJKQldmc0RVWlN4dEFCRG9BazNlVlZ6XzM4cFItdlJFaWdwTC1WYUhGTC1aZG1CQV91Y1dOdGtMSGRIQ3N4UDhGeURMZnZPbXNIWlc5azMtVnRaeHRRSnVhYTB4OHhYVHduQWJHUkVaWk9MbkdaaVFJSTFwVHBFSGc5S1R0a29yMi1SWlhveDJEM1BGZHdoR055ZFRTWnY5ZEQwOGJIaGFZMjdyMnMwNWJtNVc1UmVLandoQUphb1lGUzg5MHdVRkRaNE9adGphVWVQcGE5?oc=5",
@@ -270,12 +282,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGJIU0JsU1hsVkJFX1JfbzQ5TXY2anJQbEZ6SU03U1FCdC1wZTVRTmxfVEFHMEozRmRLZHFla2ZXWHZHZmEwWlFGZ2JaUkJQN2Rnc1NyV0JSN0hNa3J3Nm1oQXVCZnlLLW1lZzd6eGZTYjJjNGw3dUQtUnV5azN6UC1DMXFGWFRCQk5wMGNNRTBLNkxJX0dtbEhITVp6dHBfUTFXOEV5aWxhbktaMmJPWA?oc=5",
         "fonte": "Extra Classe",
         "data": "2026-10-07"
-      },
-      {
-        "titulo": "Projeto de celulose de US$ 4,6 bi põe CMPC entre manter rating e crescer no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUkhCSnl2VnozbHJ3NmhiQjdhcDJUdGpycnRHcUh1RVQwZ1RCNzQ1a0FPdkkzRHZTWjdSdXBWaFpKdGhPeHZLS0liVklQNzd4SXZwdDM4UGI0UXNzd0Zma2ladTM2UllXOU1tdnVIWXZUNEJvc2pRQ0ZObWJ0aERGQ2t1X3AxeVBOeWsxUW5sYWZmVkhvYTNBcWdVa2NPRnhRZEhSZUtWRG5PV1BGd2hqNWxya2t0aDNVZnphVmVHUFpjZ9IB1gFBVV95cUxNRjVvY0xnRGV2cHZWYkluNnBaTzcxS0dqVnQ4MTFpUW9JUjBBeFd0SFpnUWdrNW1HRHdLMzRVWlZzZHpsc1hULXNyNmtCeVBHSG5NRFV2dU5tXzAwNFJPbTNONnlxLWhZUHhwRXR2QWJsc1BmMzd5UnNkTl9DemRCc2F6bkI3dDVrZjhNOXQwSVdQUUdiS0htZmcwTVNWZ3VsY0l2R2duQWJFQUNtMUd5VTVfTkVuZzJ1cGpOVmw3QkdQM2NxeWFoZWcyemtWYS1WRlV0ZGNn?oc=5",
-        "fonte": "Bloomberg Línea Brasil",
-        "data": "2026-10-06"
       }
     ],
     "quimica": [
