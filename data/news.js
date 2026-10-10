@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-10T15:06:46+00:00",
+  "atualizadoEm": "2026-10-10T19:53:24+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -104,12 +104,6 @@ window.NEWS = {
     ],
     "comercio": [
       {
-        "titulo": "Como o Mercado Livre está reconfigurando o varejo brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEMtNHhaNVZIZ3hnUkdTRFMzTTRGcFgtS3c2WVVCNDdTUWtmQmJCcldFSms1WTBVUHhlRXJxdzVIdnJndENlWk5ic1hrbHBHWWdBRU15Nm5yV1BCTC01ZDlUYVlpT2hUU3RzLWxwRnNqVGVQRV9CUVh3OUVLLXV3ZGsyd09Iam9BeGEtLXBHMjNGMm41OExEb21QZW56RW1tNGE1VdIBqgFBVV95cUxNcUhtVklwamg5Y0x6UUhLeWNzdGJGZ3kydldUQld0ZnlJanZ2SDhIMnFpdFYwaVVXTnFldG8teWg3Vkdqb196Tkt0dHlmNVpXZ29WU1UzRGpTeUJoVWNHS2dQczR0MG1WTXpkWk92NllOQm5SbVMzSzE0RnJJSmtHd2FYMzMwNV8tYnNaWVplSUtGV0IxcHVwRWNGd1lxUXJUNFdDT3hwV3lIZw?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-10-07"
-      },
-      {
         "titulo": "Amazon anuncia novas demissões, principalmente no setor de varejo",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW5EQ09zcjJiOFpLQmpWY0ZMM2dnLUQ1aW9EMHFFOGlsQWlOZHJHVTlHV2dmRjBtQkMzTXdhTWxPbjB4TG12Mjg3bVpwTDJXNktoaFp0NFRaUUs5S3RWcFhHTXh0UXI3VkxEUThPb1ViMFFTcVlXV2JVRDV4MHEtd2RGQkFJOGRKaEZMbk9rOA?oc=5",
         "fonte": "CNN Brasil",
@@ -118,6 +112,12 @@ window.NEWS = {
       {
         "titulo": "A SATRA amplia as conexões para criar um ecossistema comercial moderno.",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTjFaV1BkbExIanFDd0tIOE9aZkZoN1Fjc3dJWHlrNDlMTWxGMXhFY084d1Q2V0NObUhNX0Y0X3Q5YkFGMmlPSXY3Wk1tOWJpSDlqaGdCZmNwc0FXVXpGdGExam5EeG13UkwyUTc2NkN1TnBPeVhsSXNrQW51bWRVTkFaYmhWTHBVMXpveXl1SmQ4QU0?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-10-09"
+      },
+      {
+        "titulo": "A SATRA amplia a conectividade e aprimora seu centro comercial.",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91eEVwbG5YUU04anVleTBzdWVYaDl4NW1VU2NkYW9tb3ZHSWU4VTVYd1EwN1FEVUFyYy0zM3ZrXzR3TU9XSHAzVFdJU3o1RXRYWnBNTFgxV2dIcXZtLUZta0JwYThtZ0htRVd5RGhMZ3hXbTFJNkhoV3YwMUpsQQ?oc=5",
         "fonte": "Vietnam.vn",
         "data": "2026-10-09"
       }
@@ -186,22 +186,22 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Toyota investe R$ 7 bilhões em nova fábrica",
-        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5nZGk4QWFwNmYzaTNOSjdtdXBjbkZOQ0xEWFZaQW5kTXJJcGI2MU5PVzJxV1Bvb1ZWSXoyVWdLYlpkT2M3SHkzcWJwNkZvQnRsSGg2dEtTdkNpcnozRG9tcjZCangzeW9na192akctTzI?oc=5",
-        "fonte": "Acia Araçatuba",
-        "data": "2026-10-03"
-      },
-      {
-        "titulo": "CMPC em clima de indecisão sobre megaprojeto de celulose no RS",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGJIU0JsU1hsVkJFX1JfbzQ5TXY2anJQbEZ6SU03U1FCdC1wZTVRTmxfVEFHMEozRmRLZHFla2ZXWHZHZmEwWlFGZ2JaUkJQN2Rnc1NyV0JSN0hNa3J3Nm1oQXVCZnlLLW1lZzd6eGZTYjJjNGw3dUQtUnV5azN6UC1DMXFGWFRCQk5wMGNNRTBLNkxJX0dtbEhITVp6dHBfUTFXOEV5aWxhbktaMmJPWA?oc=5",
-        "fonte": "Extra Classe",
-        "data": "2026-10-07"
+        "titulo": "Empresa de Rio Grande investirá R$ 15 milhões em nova sede no Distrito Industrial",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0RiRThnRVAydGRaT2huaGpkZVR6QXFtN1R0SWJhd2NBNUNIdURFbU1LSHMwUlhHbHRnVDVPZEl4VjdjZXNDX2ZmTHlTWnNJUlZoZ0x4eFJuVktwX0psaERlZ2VnWDNQTVVYSWd0TjFwNVdFc2ZpeEhHcEpmdFZxbVpOVWtPMS11czl6N0xYdWhGcEJzV2NLMjBnRmNsckl6d0ZrSHFFOUlQZTRZS1ZNWmlnM05rdjVLcy1aeW9vRmlTLVV4R0ktQjA1UUJMT0RfdVc2Rl9hY3FaS1NNTjJHSHFLWS10SDZJaHFFeVRic1B0dHVIVUc1cnIxenczQ00tTWloYVZqZXg?oc=5",
+        "fonte": "GZH",
+        "data": "2026-10-09"
       },
       {
         "titulo": "China quer ir além das commodities e mira investimentos em tecnologia e indústria no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXdCOGdKQU9zZXJrT3pvSGFlUlExUDJRQWdJQnFfSGEwcExIQmc4WEFiaWxEOURGRUFGZUpDd0tOYVpDVkt5Z25vYlphOUZKY3RqRk1BVUctbGFXWW9LNkVXV2RLS0hlbnJvTW4wNUFZRHM1RmdTcmF4bXR4U2N1cjVuNUZhXzVYUDJic090d1N1YkwyMGNpY083dDZ6aHJrWk12UDBzNk12dFFPblRKREtrcmVlWE9jejJnLVhrVnJqOThpdWNIaXotTFA3akpJdnlF?oc=5",
         "fonte": "Estadão",
         "data": "2026-10-09"
+      },
+      {
+        "titulo": "Rio Grande negocia instalação de fábrica de etanol de arroz de R$ 1 bilhão",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLU5RcVRuNmlUaldNRi0yM3g4SWZhN1ctVm5LZzFmN2ZBeGNKeWNMWVVoVU9KX200WXNBUDVyRHFiZXluRGtsNDFSbnppLTBGM2NvejRGS0ZUNG1uSkV6amNpdmsyRlFueTJILTh5N1JmZEh2ajFlczc2azV2ako5UUVsSXMxaDVHcTVvcGlmQzB4bVdaZ3dfeGJlWVZMQmd1VUo4bW52SVBGeWgyQ2NVQlRnVGhhNDNRZU5ER3R3?oc=5",
+        "fonte": "A Hora do Sul",
+        "data": "2026-10-06"
       }
     ],
     "logistica": [
@@ -218,10 +218,10 @@ window.NEWS = {
         "data": "2026-10-07"
       },
       {
-        "titulo": "MRS Logística, Cosco e Grupo Tora estruturam corredor multimodal para conectar indústria de Minas Gerais ao Porto do Rio de Janeiro",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOa2pyR2ZZd0xTYmFXUDVoQUlQcFVUaDdjS2tILWtSU01pZ3Blc250eTFiUHloY0VzTElIVjh1dGplMmZPVDdTM0FlZWRKaS0xZFF5VHp2VzRMaV9iRUhaMzlpU2V3bmtUQUI0UURWc09WNG9Md25nOHNMcU1aT0pxWVVVUzFpRGFPVGdkRGw0Q1AyVFlxcFFIY3dZZ0FPaUFoS0lOb0N3OUdPX3BWYzlzZVQtWmhtSnFKV01FVlYyNzZneEF3YzN0ZDhNUTRVTjB6ZW03czI5UUQ1VVd5LWRHekNmd29lVjVhMmpvZmhpVWh0bTQ?oc=5",
-        "fonte": "Brasil Inovador",
-        "data": "2026-10-08"
+        "titulo": "Rodovias, ferrovia e impostos: os desafios da nova bancada federal do ES",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTVaOHlONXZLdy1sRm0zaGU1QmFXeldOM2tSeWJhVUJ3aEtOTnFlcE95SEc4MkdFMFRzdDE2Q2tTcEl2X3EyOVc4VGJ1NV9hRmZtdnhYM3RfNE5DRnY1NkhDRm9IU2NEZFQzN1p2RUtTZGt4N3p5MnlyQndaaF9aUUozcGRIN0lKanFGcjk4VmcySU54V1ZUd200SWdLcjBHcm1fTmpYOGw3WmdVRzJkclRB?oc=5",
+        "fonte": "Folha Vitória",
+        "data": "2026-10-09"
       }
     ],
     "maquinas": [
@@ -238,9 +238,9 @@ window.NEWS = {
         "data": "2026-10-06"
       },
       {
-        "titulo": "Indústria aponta juros altos como principal barreira ao crédito",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb21GR3FXVWNLN2V0ZWU4VmtqQ1ROZHlvUEY2T295ZGUwdU9RbHZOVnZ4a2Z2SG1ySndBN2U5ZDJVV2R5WEJjZTNhQWc4NVBiMEZLTGptdnJQYzhNdlh5TWp0LWRKdXNKcFM5RWczdWxDekVHbTQ1aE1pWldHcWtoZTBUclRrQjZSc2hjZHpaSTZQQWtXd0tCWVpISU9mTi03VVNNclVaUUV3clRtUjdnNGtSSGg3SmhOcnozMG13?oc=5",
-        "fonte": "Agência Brasil",
+        "titulo": "Ternium amplia investimentos na indústria brasileira",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmJzOFZWeEk4SFh6bVRGMXdsU0JZbTBHU1dLOThFQS13WUc2TmZfMjB1dUlzeGFlRFU2UDNVcjFOZm53VkpZS25pSFo2SlNZX0xEUWtDdmFEazhjTzREOER1djRLa0hUNng2VlZGRnJqcW1rczRjc0tXV3JLSnJKVFZJSXJHdlFnbmNkRmxFUGtyWVF0SHcxStIBmAFBVV95cUxORmJzOFZWeEk4SFh6bVRGMXdsU0JZbTBHU1dLOThFQS13WUc2TmZfMjB1dUlzeGFlRFU2UDNVcjFOZm53VkpZS25pSFo2SlNZX0xEUWtDdmFEazhjTzREOER1djRLa0hUNng2VlZGRnJqcW1rczRjc0tXV3JLSnJKVFZJSXJHdlFnbmNkRmxFUGtyWVF0SHcxSg?oc=5",
+        "fonte": "Estadão",
         "data": "2026-10-09"
       }
     ],
@@ -305,7 +305,14 @@ window.NEWS = {
         "data": "2026-10-07"
       }
     ],
-    "siderurgia": [],
+    "siderurgia": [
+      {
+        "titulo": "GOAU4 - Metalúrgica Gerdau - Resultados, Dividendos, Cotação e Indicadores",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UU2Vld2JoMzRuQ055Rnc5eWZuRTdFTHNZMGxUY1ZFWnU3NVhFWUlwSHBEUFBLMUxucFNpQ1Vwc1p3YWN6bEtzV2otVkh6S25nUEE?oc=5",
+        "fonte": "Investidor10",
+        "data": "2026-10-10"
+      }
+    ],
     "odontologia": [
       {
         "titulo": "Mercado de equipamentos de imagem odontológica até 2035: adoção digital e experiência do paciente impulsionam o crescimento - Notícias e Estatísticas",
