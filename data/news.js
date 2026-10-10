@@ -1,8 +1,14 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-10T19:53:24+00:00",
+  "atualizadoEm": "2026-10-10T23:20:13+00:00",
   "itens": {
     "agronegocio": [
+      {
+        "titulo": "CNA defende ajuste fiscal para impulsionar investimentos no agro",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHFuYlpYN04wQXRlMUVXUTNGZ3Z2YW15TGg3SlBwY3FPeWNXelN0aU4zZXFHNGE4WjRLejBMeGVPRlNNejZDM0ttWDJLMVBwMHVaR3drai1XZ1JIS01tbkVXeXdPaFN5emFBaG5kTlhBYTdMQ2JVakdnT2dwalRldEJldVN0Znc1TnE0T1ZCaU92YXpyeTN2bGRXSUFYSm5J?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-05"
+      },
       {
         "titulo": "\"O Setor de Agritech no Brasil Tem Sido um Para-Raio de Investimentos\", Diz Cofundador da SP Ventures",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOS1KN3dGbFJLMmxDM1pHN2FNcmhPOXBBMTRKTVdnVTFtZUlweEM0aHZ3cTFhZmh2dVF2aGlrTnA5d1pfVm9RaWpGOXN5REZlaVlTNkxEc1dLRTNwWGRiRHNveXo1ZUl0c19CX19ZUkZxZ3NxVGlBWFNNRk00RDZOVmR3WGtUSTVfLWIyOC1xcmZmZkNkU0pDR3poNWhkNzJUMUxnOEJxMkRwRjFmYXpYejlPRzB0c2xsdXZNTEZwRDRJdTBZWmZCWjZxMzF5c3FHWlRXVmFVcl8?oc=5",
@@ -14,12 +20,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNU1tdTBWVUlVWnpva0dBRnhSb29VaWV2bHJfeUhtbTc4ZmtoRmFaWVp5UVN6Z2E0REk0cWw3bFNsM0FUU3pvY3BnTl9MTGdlRVNxVE5yMDhUb2J4blhHa3pVNF9UUldrTEFQZzRzc3ZqTS1RLXpEVGk3amx2MlctNnpsNVFZMHpiS1FWanlLbUVwSTZzdjFUc1dUV0tEREczTkhGOE9WMW02SjMtRjVsaTdpMDZTaUhDUkkyVFZpTmxPNjR0R2RydE5oZEc4US0xSFRjczNUeDR4VkRDcjdrMVEzd2lLZw?oc=5",
         "fonte": "Prefeitura de Lucas do Rio Verde",
         "data": "2026-10-06"
-      },
-      {
-        "titulo": "CNA defende ajuste fiscal para impulsionar investimentos no agro",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHFuYlpYN04wQXRlMUVXUTNGZ3Z2YW15TGg3SlBwY3FPeWNXelN0aU4zZXFHNGE4WjRLejBMeGVPRlNNejZDM0ttWDJLMVBwMHVaR3drai1XZ1JIS01tbkVXeXdPaFN5emFBaG5kTlhBYTdMQ2JVakdnT2dwalRldEJldVN0Znc1TnE0T1ZCaU92YXpyeTN2bGRXSUFYSm5J?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-05"
       }
     ],
     "alimentos-bebidas": [
@@ -90,16 +90,16 @@ window.NEWS = {
         "data": "2026-10-08"
       },
       {
-        "titulo": "Grupo Michelin amplia presença industrial no Brasil com nova fábrica da Fenner em Guarulhos e projeto prevê aumento de 40% na capacidade para atender mineração, cimento, siderurgia e outros setores pesados",
-        "link": "https://news.google.com/rss/articles/CBMixwJBVV95cUxPU3lGb0dZcHRoYjVPeE9YSHNISGpjek9kLTZ4dEdEWmp3azMtYTNSelJPaVo3TF9rRzgtalVDNUNwaFJVc0NkTGNlX0ZnYkUwZDFCLVUwTGgxR0wxT3BEUlhYd1o3cWZyY0h6bEc1MmV6V1EyNnZpOWMtU0J1Tm9RR3k0eU85aTZJZWMzOTNPdzRJV2lWbXVYaFF0ckx0REtNd25QcEFMcWdBUU52SXJOLTd5cUttYlQzNVFlWVUycGZhY3ZtWS00ZDR2Yk5MU0IxU05sVzN6UXFwYlVKQjd0cXR5Y0NET2h4Sk9tUkRTdUt4V1BqX1hlVmZqcXQ3bFBYSGhlVWxRSDdHSEMxMzhrTXVDSGlKZlpVNWhvSHZJV3UwUVpTYjJkSW40Z0Jpd1RQZGQ2MFc1WjhHZGJHOHB3UFNZUFBWclE?oc=5",
-        "fonte": "CPG Click Petróleo e Gás",
-        "data": "2026-10-07"
-      },
-      {
         "titulo": "Reclinker capta £10 milhões em Série A para reciclagem de cimento de baixo carbono - Notícias e Estatísticas",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSTZVZUJPT1B2Nno1Z2hkbTRTU2laS2kwellFd3hGampqdkFYU2lUaERJVXZZWmpZQjh6QVJKVU1vQlFHYlZ0RnZzdjZQS3JWOU5WZXNKM19ZbXQ2RnB1Ym1aYkNreUVabXp5VF9QUXhqMnVJbGNnWEJVeXlteDVBVTdsZk9tNG1ROHAxTW96SzlRQi1nbVN4QzhxWThXWEVKMS12dA?oc=5",
         "fonte": "IndexBox",
         "data": "2026-10-06"
+      },
+      {
+        "titulo": "O empresário Tran Van Viet e sua jornada de \"liderar o caminho\"",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBHaWZiUU5uZTQwS25Rb2dGMnByTklSLTh6YVd2bmJiazlFS3NzcnZpM25scEw3U1h1eHAtanZGdzl0d01BZnhYTXE2ZDNvOFhTNlJZV3ZHWXlzUXA1ekM2WWVobEFjTkFBZlJrcEJCbmRFeW54VUFPTTVSclVEdw?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-10-10"
       }
     ],
     "comercio": [
@@ -218,13 +218,19 @@ window.NEWS = {
         "data": "2026-10-07"
       },
       {
-        "titulo": "Rodovias, ferrovia e impostos: os desafios da nova bancada federal do ES",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTVaOHlONXZLdy1sRm0zaGU1QmFXeldOM2tSeWJhVUJ3aEtOTnFlcE95SEc4MkdFMFRzdDE2Q2tTcEl2X3EyOVc4VGJ1NV9hRmZtdnhYM3RfNE5DRnY1NkhDRm9IU2NEZFQzN1p2RUtTZGt4N3p5MnlyQndaaF9aUUozcGRIN0lKanFGcjk4VmcySU54V1ZUd200SWdLcjBHcm1fTmpYOGw3WmdVRzJkclRB?oc=5",
-        "fonte": "Folha Vitória",
-        "data": "2026-10-09"
+        "titulo": "Cidinho aposta em ferrovias para destravar escoamento da produção de MT",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYkx5Y0c2cFdYaGQ5T1RKVXBxUGVrVFFKVVZqVkc4MWZuYXZOdEowQ0ppbnBaaVVkMzBmOFVCMkdJa1FtcWdHcG54Mk9qQWhBWHYwODZiSG16VS1HQ3ZBSnA4ZnBWQ2c4YXo1QjJxTHQyNmNRRjFVSjlKVWVSd0RnNS13dElBWVEyWkg3aVNIRGhqWG9lU0lDNTZqYTJiZ3lPRFpsbFhPbnJjY2hrTHhVeE8wYmpvbmFtNlFycUgwSE1jWEJ6cXc?oc=5",
+        "fonte": "Olhar Direto",
+        "data": "2026-10-06"
       }
     ],
     "maquinas": [
+      {
+        "titulo": "Brasil compra mais máquinas, mas falta gente para programá-las",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUXBWTkliUk9XeUxtSTRNemc0akxWTnBva2tKdENINWpTMUFyR3RhX19ESE80WEJyYVNaXzh5cm45d0NzeGZOeHljN1BCb1hrX1RlamZyNE9Sd29YbVRoLXhiQy1LTmZKWHFPRXpOYi1FTUh5RThweFlEY0pPalUtNFZ3elZyb2t2V3hXTTBLdEFXWF8zTWJlWWFaSW9BNW1PdFBveGh4Sms4cFNDbV9NYVRZYWFYbWFxYzR1T3ctZDktTnlWUkoxNU1UWFQtR1Zk0gHfAUFVX3lxTE9KY2lVRHNiNHBtUHBGOTFNVjJ3ZDJTNTBSbVdSQTVxVk4xN09BeVNQX3FWZ1JtV096VjJpOEFIUzZKZmRzQzNqcG01ZlBQZTZ6aXpEQU1rN0x5dnM5TldpYjhIQnd3S1ljb0l4cF9welJBTnl1Z053ZHpBRVllNHN3X1ZhOFczcDFNeU5KZUU1SVJGTFVaM2pMTHlKTEl6NzdOZDVLRndhMEFMQjhyWVFvUUN2eFVPcC04STNzdDlFV1ZDWDlzSFNlOVFnSWhvV0ExVnZjNWxTWVJPSHF6TTg?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-10-06"
+      },
       {
         "titulo": "Biocombustíveis somam R$ 289 bilhões em investimentos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVmFmZnhncHlEU3JsVUItbURrQl9MM2dfMnJraG5pM25RUm1VZ0FULWphbVdfaV9LVW1WQ05XaFYtc2wzVExrRF9QWEQ0WjduQnFtQ1RnbHJKNDFLVlFVTVJiV01fQlVESkJ2RVlQNExLelk4NUhNMWJEcnQ4cFRIQXlQQnpVNlhxNDlCNnZGN1k5a0V5YnRoWkx6THI?oc=5",
@@ -236,12 +242,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTgwVG1YaWUxX0Z4ZU9wSVNHYmlQaXYwOGFoWms2QWR4cmszcEMtbGZhN2JCdlVObm90SEdrdy1tUlR1WkVYRE8xNkkxZ01rMnVCRkVuSmNZbnN5TVdvLXRsUWZKWHBSTzdzM2YyaGdvcjk1OTFWbmlGZjBwdU5VTS1wTHN4c2o0NTRLa2NtWVFwa3dy?oc=5",
         "fonte": "Vermelho",
         "data": "2026-10-06"
-      },
-      {
-        "titulo": "Ternium amplia investimentos na indústria brasileira",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmJzOFZWeEk4SFh6bVRGMXdsU0JZbTBHU1dLOThFQS13WUc2TmZfMjB1dUlzeGFlRFU2UDNVcjFOZm53VkpZS25pSFo2SlNZX0xEUWtDdmFEazhjTzREOER1djRLa0hUNng2VlZGRnJqcW1rczRjc0tXV3JLSnJKVFZJSXJHdlFnbmNkRmxFUGtyWVF0SHcxStIBmAFBVV95cUxORmJzOFZWeEk4SFh6bVRGMXdsU0JZbTBHU1dLOThFQS13WUc2TmZfMjB1dUlzeGFlRFU2UDNVcjFOZm53VkpZS25pSFo2SlNZX0xEUWtDdmFEazhjTzREOER1djRLa0hUNng2VlZGRnJqcW1rczRjc0tXV3JLSnJKVFZJSXJHdlFnbmNkRmxFUGtyWVF0SHcxSg?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-10-09"
       }
     ],
     "mineracao": [
@@ -293,16 +293,16 @@ window.NEWS = {
         "data": "2026-10-07"
       },
       {
+        "titulo": "Opinião - Mauricio Portugal Ribeiro: A nudez das licitações de concessão de saneamento",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMl9oSDBobW91bHh2OGdELUpoS25tV2tOMjJmSE1zbEpSaGV4clphUGpZV3poWXh6ajRsdjEyckh4Zy1wZGh5bmhLTnFVZGJlM2dLR0JLRVJaVjBOZ0tvS1I4dmdRUXQ2SzJOcWEtU29sNjdtbDZGLUJXbUZEd2dEbC0yVWktRDluNXk5M2tGUC1MUnlzbXlNck9oVG9ZdURGOUJob0pnYzhzemdEeGEyZTZicTRZLTdkSnJ3cnJpTHZ6UlYtRWc?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-10-07"
+      },
+      {
         "titulo": "Cagece marca leilão de saneamento para 16/12 e investimento será de R$ 6,3 bi - Portal IN - Pompeu Vasconcelos",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkU2R2xtS3dsNWFXUW5uWUdldHZhamVVNDg1QkJyeXA4eG0yT3ltRENqWFJCZ0NQZTF3NWRkWW1tNUtlZXdUVDBLek40azBjcW5lM29BZy1zYXlwZ0xhTkt3ZVFsNEN3cVd0SndlUnhLMGxBRk9paDFqNW9ROGk3aW5Yck14MjY0R2pCQnB0Y1FqeUVBR1RvTVhLSW9kcF9BejFMX0daT2tmN2VqTTlHWDdFZw?oc=5",
         "fonte": "Balada IN",
         "data": "2026-10-09"
-      },
-      {
-        "titulo": "Saneamento entra em nova fase com próximo ciclo político nos estados",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNlhDY1VWY1B6MVgyTDQ5dmRvU0tJMTlWSHRJVjZ0emp5YXJnd29EbDJfVVVPMkJRUHBZRUQ4ZmNJMUhtUklrc1d3VThZbEhDbEtJNHlSZnV5a29ZMkxNZWVTd1RZSlNKRUEwTVRtdzhkT2JyQ1NHSHRmNjQwRlpyckg3UjYxWUtaN0cxanByODg5U01NZ05YMG5oa25JSnRw?oc=5",
-        "fonte": "Agência iNFRA",
-        "data": "2026-10-07"
       }
     ],
     "siderurgia": [
@@ -310,7 +310,7 @@ window.NEWS = {
         "titulo": "GOAU4 - Metalúrgica Gerdau - Resultados, Dividendos, Cotação e Indicadores",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UU2Vld2JoMzRuQ055Rnc5eWZuRTdFTHNZMGxUY1ZFWnU3NVhFWUlwSHBEUFBLMUxucFNpQ1Vwc1p3YWN6bEtzV2otVkh6S25nUEE?oc=5",
         "fonte": "Investidor10",
-        "data": "2026-10-10"
+        "data": "2026-10-09"
       }
     ],
     "odontologia": [
