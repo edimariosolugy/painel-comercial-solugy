@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-09T20:39:27+00:00",
+  "atualizadoEm": "2026-10-10T00:34:08+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -70,16 +70,16 @@ window.NEWS = {
         "data": "2026-10-05"
       },
       {
-        "titulo": "Pessoas, escala e eficiência tecnológica: o novo desafio do etanol de milho está dentro da usina",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT2tlTHJWODVwMEFUMmZ5SHM1bXFINWZacmY0RUxqOFNUUXhXWFJTY0ViM21GMFZ1NkVrQVJZUF9IZEFkajNydUVLNHpBTXp5elJFYVJvUUVDTzdqWUdGVlFsVG9tTkJDQlg4ajVkUEtaUWVVMG16cS1ZUTdjdERDZV9FOUp5VFM3clE4cklPay1DckhZYmtwQ1lIN0xjYzRUekZRSUhiNXhQTTJDVFRnc2dkMTVOakhEeVd1X29odFl0NVZfNXJCdjM4eFo4UnJmODY3SlA2SkxiZw?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-10-02"
-      },
-      {
         "titulo": "Diversificação e eficiência ganham peso nas decisões de investimento da bioenergia, apontam líderes no Vision Tech Summit 2026",
         "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPdFRUaTQ1SHlTQk1NY1lYMFFSM3NLWnlWel9JVmNOZm5oQ0R3QWlWMTBrUjFBejRfRTVPMjk3WlB4TGhmTEduT0llcHhBR1M0VEVUajlpaUpWcEYzQUprM0I1WjhqNm5URTJSN2Q4QzhKeC1jeHFHMzhoa2s1MXV1OEI2d1NwNEVXMGNWQWlfcWFoMl9FeTVjLXBLdGxhdnV2dU1pcmFhOVNZQUxxRzZxRVhSdDBFbWdaTlV5NG1FT1Vkb21HRWpNeWNsQ1FOSUtRMDZ2VEVxT1VQM2NQQThodC1rbk91dw?oc=5",
         "fonte": "Visão Agro",
         "data": "2026-10-09"
+      },
+      {
+        "titulo": "Biocombustíveis já somam R$ 289 bilhões em investimentos registrados no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdVdhaWtSUDNhMnIzZ0FGNU92bmh6cGJsdUh4WEpTUkNMdTdfT1oxeVM4NDAzS010M2kzem82VjhTeWtwY2lLRmtKdVFUNTdyRzU5T2I0d3BSX0N3NzAxVU10NEFTQVd3TXZFZUozSGlST1FfaVZtNlVOZ1ZXQkNsTEJJY09WdHFmMlJTSVBKdDdBZ0hSTU1PMEl4UE55Y1RpaTBDZ3FBMzNPQXZm?oc=5",
+        "fonte": "Revista RPA NEWS",
+        "data": "2026-10-05"
       }
     ],
     "cimento": [
@@ -104,6 +104,12 @@ window.NEWS = {
     ],
     "comercio": [
       {
+        "titulo": "Como o Mercado Livre está reconfigurando o varejo brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZEMtNHhaNVZIZ3hnUkdTRFMzTTRGcFgtS3c2WVVCNDdTUWtmQmJCcldFSms1WTBVUHhlRXJxdzVIdnJndENlWk5ic1hrbHBHWWdBRU15Nm5yV1BCTC01ZDlUYVlpT2hUU3RzLWxwRnNqVGVQRV9CUVh3OUVLLXV3ZGsyd09Iam9BeGEtLXBHMjNGMm41OExEb21QZW56RW1tNGE1VdIBqgFBVV95cUxNcUhtVklwamg5Y0x6UUhLeWNzdGJGZ3kydldUQld0ZnlJanZ2SDhIMnFpdFYwaVVXTnFldG8teWg3Vkdqb196Tkt0dHlmNVpXZ29WU1UzRGpTeUJoVWNHS2dQczR0MG1WTXpkWk92NllOQm5SbVMzSzE0RnJJSmtHd2FYMzMwNV8tYnNaWVplSUtGV0IxcHVwRWNGd1lxUXJUNFdDT3hwV3lIZw?oc=5",
+        "fonte": "Estadão",
+        "data": "2026-10-07"
+      },
+      {
         "titulo": "Amazon anuncia novas demissões, principalmente no setor de varejo",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRW5EQ09zcjJiOFpLQmpWY0ZMM2dnLUQ1aW9EMHFFOGlsQWlOZHJHVTlHV2dmRjBtQkMzTXdhTWxPbjB4TG12Mjg3bVpwTDJXNktoaFp0NFRaUUs5S3RWcFhHTXh0UXI3VkxEUThPb1ViMFFTcVlXV2JVRDV4MHEtd2RGQkFJOGRKaEZMbk9rOA?oc=5",
         "fonte": "CNN Brasil",
@@ -114,12 +120,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSDYwTjNNVnFFUlJtV2JMUXpqV1pNMER0Q2phaDZORWZjdGZYNGwtNXhYcTByWHNZcFNIb2JqWUV4LVVTcHpodlVaSlh0MjdtYkpuSndoR1Q4SXdCakE0bzZVSnBJQktGbG5lQ3hkLVktTGt5QnpIN1BwRlpzLWFVS0h2RHgwc2g2WWFLeXpqYnd1TWNXc3A0ZFkwVzlJTS01THllQllqWjkzSVN0MXliWE41Zw?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-10-03"
-      },
-      {
-        "titulo": "Amazon corta menos de 1.000 vagas em Lojas durante o Prime Big Deal Days",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX21zeXNnZ0k5X0JmQk55dXhVNWttQkdqT0hJMnFuc2h6Rk82S25kU3p5bGxVMTlKOXBrTDhhcEZnZWVvLXhaZDJwZmk5WGxVNjlkajNUVHhUTmNOVkwzRl95ZGdvR01NeWtNd09vd0hjWU16bk55RjdxRS1zakQ0amhnb3VGdWR1cW1ibUh4TXZoWEo0RGUza2Y4YTNPZWFfdjRYWWlBNA?oc=5",
-        "fonte": "Paraíba Business",
-        "data": "2026-10-08"
       }
     ],
     "energia-gt": [
@@ -136,10 +136,10 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "Não é a Taesa (TAEE11): Ação paga bons dividendos, mas não é a favorita do Itaú BBA; veja as elétricas preferidas do banco",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnptNkhEVXF1bEs4QUdDOTVIVlpfQWJHTU0zV0FDZHcxckVfZERNZDNGejQ4TmdnMzBtOFBMMHFVbjBaU3RHNjkydG1DVk0tX1NKbTZfN3V4NGpOWFQwNVFqM2w5YW1oQnhwOHN5OGQyYjdZSkk3Q2tnYzRob0xDZjZaS0FMVWVhT0xWY0txYS1HMEZhdEs3bmd6UzB5Wm1nSzNoNTlvQ2lmUVdRM0FuZ3hIdFNqaWZFTXh2djJva0lQdXM5ek5Pc2x2QzdXX0l0S1hvY29QYnZUQWRDUUpDaE5CRTBXQkpUb05FMDZQQXRZdw?oc=5",
-        "fonte": "Seu Dinheiro",
-        "data": "2026-10-09"
+        "titulo": "Data centers ganham disputa por acesso a transmissão de energia em SP",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYjQyMGoyTWVYX25YeUhsU0VGZEk4LTA2dkluYmZCR1RTZG1MQWU1a0l5SV90YkpaY1MzVklYV1RtdW5ET1QzTGtST0Fia3JPWVYzQmRON2VWdkpPNE9KSVQwd2JGbEpiMTFyVUdGRlhWaHpuejh5VEpsd1VaOHhxbTVEWkk2T3JuZ1lBWnBiRGs3WlJSa0hKWkhsMzJPWjFwbGhySFpBODlZaGRnRzFj?oc=5",
+        "fonte": "Poder360",
+        "data": "2026-10-07"
       }
     ],
     "solar": [
@@ -177,10 +177,10 @@ window.NEWS = {
         "data": "2026-10-03"
       },
       {
-        "titulo": "GLP-1: aumento da demanda no Brasil redefine mercado de saúde e medicamentos",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByemU2NGVaU3diWk9LbzI2WFllUnI4STd3VEdHX3BQT25KaUVaYzRUcHdTYmVsT3BDV0NRRlkzU0NoNGVFMGJGLWpNOXdGazVZbTN2ZWV0WGRhbE5XZEwyNkczcno4eVpHZ3FpNmx5eHhIRW1W?oc=5",
-        "fonte": "Safra",
-        "data": "2026-10-07"
+        "titulo": "Ministério da Saúde e Hemobrás anunciam pacote histórico em ações de inovação para ampliar produção nacional de medicamentos",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTFVGTVA4d1A1SXZGTEpCaFdORXFKczdnUkcxQkh0SkhJTE5ITFg0ajlXandyc0RTd251WEFsbWVaN3c1NGU4dERKWU9kMmtiM2t6NU5UY05VLVloMElZLXFuTWh6a210QkJjTkxScWVXN0U5bldLWlBUZjJrbGZrdg?oc=5",
+        "fonte": "ABC Agora",
+        "data": "2026-10-03"
       }
     ],
     "fertilizantes": [],
@@ -312,10 +312,10 @@ window.NEWS = {
         "data": "2026-10-07"
       },
       {
-        "titulo": "Opinião - Mauricio Portugal Ribeiro: A nudez das licitações de concessão de saneamento",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMl9oSDBobW91bHh2OGdELUpoS25tV2tOMjJmSE1zbEpSaGV4clphUGpZV3poWXh6ajRsdjEyckh4Zy1wZGh5bmhLTnFVZGJlM2dLR0JLRVJaVjBOZ0tvS1I4dmdRUXQ2SzJOcWEtU29sNjdtbDZGLUJXbUZEd2dEbC0yVWktRDluNXk5M2tGUC1MUnlzbXlNck9oVG9ZdURGOUJob0pnYzhzemdEeGEyZTZicTRZLTdkSnJ3cnJpTHZ6UlYtRWc?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-10-07"
+        "titulo": "Cagece marca leilão de saneamento para 16/12 e investimento será de R$ 6,3 bi - Portal IN - Pompeu Vasconcelos",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkU2R2xtS3dsNWFXUW5uWUdldHZhamVVNDg1QkJyeXA4eG0yT3ltRENqWFJCZ0NQZTF3NWRkWW1tNUtlZXdUVDBLek40azBjcW5lM29BZy1zYXlwZ0xhTkt3ZVFsNEN3cVd0SndlUnhLMGxBRk9paDFqNW9ROGk3aW5Yck14MjY0R2pCQnB0Y1FqeUVBR1RvTVhLSW9kcF9BejFMX0daT2tmN2VqTTlHWDdFZw?oc=5",
+        "fonte": "Balada IN",
+        "data": "2026-10-09"
       }
     ],
     "siderurgia": [],
