@@ -1,19 +1,19 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-13T16:47:24+00:00",
+  "atualizadoEm": "2026-10-13T21:46:08+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "Lucas do Rio Verde entra no radar de investimentos de gigante americana ligada ao agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPNU1tdTBWVUlVWnpva0dBRnhSb29VaWV2bHJfeUhtbTc4ZmtoRmFaWVp5UVN6Z2E0REk0cWw3bFNsM0FUU3pvY3BnTl9MTGdlRVNxVE5yMDhUb2J4blhHa3pVNF9UUldrTEFQZzRzc3ZqTS1RLXpEVGk3amx2MlctNnpsNVFZMHpiS1FWanlLbUVwSTZzdjFUc1dUV0tEREczTkhGOE9WMW02SjMtRjVsaTdpMDZTaUhDUkkyVFZpTmxPNjR0R2RydE5oZEc4US0xSFRjczNUeDR4VkRDcjdrMVEzd2lLZw?oc=5",
-        "fonte": "Prefeitura de Lucas do Rio Verde",
-        "data": "2026-10-06"
-      },
       {
         "titulo": "São Paulo sediará a Cúpula da Inovação e Tecnologia do Agro Brasileiro",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaWJfZmc1Zlc5YjUxbExRUWpHZjBtaHpENWE2THdKdDR2MTBuTlFQS3lad3Y2cnZyTG0tYjU3N3NveU5NUXFOVmpoRlBleGtELVpoa0ZhU2djbHJmT1Q3YWhYSVZWUHpZQVdOTVhqclRjdV9QNWVkaUlCOWxLRFR3aFk0VlNyRElSaER3TG1PSVFHUWNBY1p5dnMzRkp2VmQ2T2JXcW5iWEpwOUJIQVB1enJieWs?oc=5",
         "fonte": "brasilagro.com.br",
         "data": "2026-10-07"
+      },
+      {
+        "titulo": "Brasil e Angola: o agro brasileiro ganha terreno em terras africanas?",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2RIUERlWGZybVdvNEdPWHAxTlB3czl2Y3JLUGNKMTNXcU92TUMzLUU2Qy1oc1VvNTVfWHVwaDM5YmpfdFJuZDdSX1BaR3NwbWN4M0N3RkN2Y3I2YkpSbVU5cWEyblRoR051X3NIWDEybWFScE5MdjNkcDFjMEpKanMxamItMnpzUDIwY3FCUUJUT2tEVHJNNUNsaGRZcWI2UFV0SW16SGExUnRyUnJjeHA1N3dPOGpwSUVVeUg1R1hTOXRh?oc=5",
+        "fonte": "Tribuna do Sertão",
+        "data": "2026-10-09"
       },
       {
         "titulo": "Infraestrutura do agro: o que Flávio Bolsonaro e Lula propõem para o setor",
@@ -36,9 +36,9 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "PepsiCo sente mudança no consumo e tenta se reinventar nos EUA",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPb29YQU5lOG1RQzlVaFR3LVd2eUxWb25xWmxkb052OE1MTzRrY3Y3dzd4bDZVOWxmMmxVX1NJWENFNlRmeGFXTHlnTWF6SFllQnhjNHJEcmFJWWVzUTBneEJHU05PeWRaS1M0WGhsMGh5M1NIQTNUOVRxN2lyaTlJOGNobkRQN0syVmNJQ1Jhb1A3X0lWa1M1Y0Q1dUstMjByN0lsRlFRalBYNHRyUU9xa0J3aFRhTTdNa1F1Vm1ObEg4UUR6TGVyVUh6YmRMWE5qQ0k1SjNR?oc=5",
-        "fonte": "CNN Brasil",
+        "titulo": "Apex: Brasil leva 156 empresas à Sial Paris e mira US$ 3,5 bilhões em negócios",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcDJyNkVyMVdZQVY1U2xWSTFOaVgxc3BYNDhUWHZhbVJPRUk2R182b3labWlGbElmNWZYZF9rMkIzTGtSbUJJcEt0N0lLckpZbGozTm5ieDgyUFVERE01N1JHcnoxX3c0OW42aG1GcE1NcmF4clhUWTlTYUh2SmlaNUVERUQ5Y2lOeENNai1sOEJ3N1c3dTVNeUx4NkpxY2U2Nm9IUElYLURMczUteV9LWDBYZ2JBMmU2akFMWmNVMTdfUThoQ1Z2UkdlampPZXhYb01rNkFUOTdHWHJfekVHZXphTEI?oc=5",
+        "fonte": "UOL Notícias",
         "data": "2026-10-13"
       }
     ],
@@ -144,6 +144,12 @@ window.NEWS = {
     ],
     "solar": [
       {
+        "titulo": "A eletrificação com energias renováveis é a chave para atender às necessidades energéticas do mundo",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUENidXZzTVZKRE0wVVM1T3BfYWtXTkpVdHZOQU5Jbmx4cjRzZnVzNTF4ekNTQmNla1I2MmxWWmx6TmR2bzMwOXNSekZONWlEV1V1czYxMll6NzVhdVJwT2hlT3FFWnZCRzBQTzEyYl9YTUtucmlDOWxvWnF6aXlxcDJXX3h5bFVHNFFQTHFMb1BYellJVHhlOFZOdmFVREN3bWxXREtxaVNVWlh3TXZTVjdFOEdXUGE0?oc=5",
+        "fonte": "IRENA – International Renewable Energy Agency",
+        "data": "2026-10-13"
+      },
+      {
         "titulo": "Brasil prevê R$ 3,3 trilhões em investimentos em energia até 2036",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2hOS3A4anZQenVieHRjTU8yTFZneXNBcjZzdGk4d3lWdEVMZTRLemo5Q20yOTJyRkNQWVBvNzJucFU1b01hYllRZV9KMlJNR3hwUmU1X0lfQ3dLTnRMZ0dCVHo4LXVGM0dUMldFcXdQZEFjeW5WR1ZVQ0wzMVhhc1JPNXQ0YzZsdllRZURFRVBmU1JQX3Zpa1JGTThIOWJmZjdBUEYxcw?oc=5",
         "fonte": "Times Brasil | CNBC",
@@ -154,15 +160,16 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSFhISlNSejJsT1V0RExSZjhlblJKdVRoNE9iWlgzU0FTelZXRENRVGpuTV9hekkwdWR1c19ZVHMwWU4za09tbjVONHdCWkU2Mzk0YlhaNUxfU0dpbEN0cXctOGx4amx3WWVCcnRrSURLZk82WU9oR2RxTC1CbFRrU1VVUmNCSlcyV2M0RS1xVURWRmhrbWRWR3Zicm5kaFZ4WW5xNHpleXBXQnNCNzJDcGNEMElMaXNjNC1TdkpYVEpNemd6RFpWUGN3dWp3UmkyN0lsbFpEU1gzX1ZxU3p3aG95ZXQzaU5fenJrc0JqeFFNZllJb2c5dFV1bFh6aDJPWmV0d3Zoc1pDZGVGOGl3?oc=5",
         "fonte": "Estadão Blue Studio",
         "data": "2026-10-09"
-      },
-      {
-        "titulo": "Guerra no Irã acelera corrida asiática por energia renovável",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNUxuX1hvZGg5elNzUHpEM1lBc3RGNVdhX1lXM1ptZHN0emthN2E2UkxBekJpZWhuQ2hiVF84TUZLTlhLSmFGRFhIZEI0a2dmQ25rWTVrQVB3ZU9Va1lQX21HTFdFbGQ0MUlYWUs4QmVhdE5GeFViN0ViVWlvRDlYR1Jfb2tkbDA3MEJYVXFBeUc1NHRsR0E3UFI4Mm5qUVhsYUFnQXBaUXdwbzhLcXliTzl3?oc=5",
-        "fonte": "brazileconomy.com.br",
-        "data": "2026-10-06"
       }
     ],
-    "epc": [],
+    "epc": [
+      {
+        "titulo": "Depois das urnas, infraestrutura hídrica entra na agenda do próximo ciclo: Brasil tem sete anos para avançar na universalização – Jornal diadia",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQnQ1SUtlSjBQRy1LeDFlc1U5Z3VnNnB0Sy1UUE96QUtlemhBQlh4TElSbTlnQkl1UF9mSkZGZ0V5Z2gzdXlHYjlOQ041eG1mYkVzV01tbzFXS1FFRjBPcU1KNndLMEZRN3BHM2dwWmJaNmMwdkExN1Iwb1oxMEl0dE9abG51TlU1VkZUaWpBNjRPTmRYOXg1RG5qMjB3LWpJZ3pyVFZNcmVMbzVuSDRHcGpnQXZlRFJaVGQxQ3F6elB2X2ZCVlkzSFVLa2s0N285eDhPMGtEQ1NXQkxDMkFJUnRtbTBraV84enc?oc=5",
+        "fonte": "Jornal Dia Dia",
+        "data": "2026-10-13"
+      }
+    ],
     "farma": [
       {
         "titulo": "Brasil prepara lista de insumos farmacêuticos prioritários para estimular produção nacional",
@@ -192,16 +199,16 @@ window.NEWS = {
         "data": "2026-10-07"
       },
       {
-        "titulo": "Mato Grosso do Sul chega aos 49 anos com indústria em expansão e novos investimentos",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2ZiaFJyZ1pFRGJ6WXRJOWdQTXBDNHNIN1YtalZ2aDU0YzUwQlhIX2NvM1hDZnhBUGxwdFZtWGZPS3g1WEtKdDdDTnAzU0wwZzlIV3R0enVvWEFSdW9fdDNGMjdRYzVTUkllSUFLeHVSUHlzVlNDbUJRLU1nVXJuc210dTBYRmg3TVhSNjVFQjFLbXN1UVZobW5XakV5U2NQNk1UWW9oTkQ4aUxIYmFHc3dHeGE0Y0c0aU80TnJYTndWWXVGWnQ4TkJ4RHZvMDljY1FUQWRZajByUQ?oc=5",
-        "fonte": "Capital News",
-        "data": "2026-10-11"
-      },
-      {
         "titulo": "China quer ir além das commodities e mira investimentos em tecnologia e indústria no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXdCOGdKQU9zZXJrT3pvSGFlUlExUDJRQWdJQnFfSGEwcExIQmc4WEFiaWxEOURGRUFGZUpDd0tOYVpDVkt5Z25vYlphOUZKY3RqRk1BVUctbGFXWW9LNkVXV2RLS0hlbnJvTW4wNUFZRHM1RmdTcmF4bXR4U2N1cjVuNUZhXzVYUDJic090d1N1YkwyMGNpY083dDZ6aHJrWk12UDBzNk12dFFPblRKREtrcmVlWE9jejJnLVhrVnJqOThpdWNIaXotTFA3akpJdnlF?oc=5",
         "fonte": "Estadão",
         "data": "2026-10-09"
+      },
+      {
+        "titulo": "Mato Grosso do Sul chega aos 49 anos com indústria em expansão e novos investimentos",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2ZiaFJyZ1pFRGJ6WXRJOWdQTXBDNHNIN1YtalZ2aDU0YzUwQlhIX2NvM1hDZnhBUGxwdFZtWGZPS3g1WEtKdDdDTnAzU0wwZzlIV3R0enVvWEFSdW9fdDNGMjdRYzVTUkllSUFLeHVSUHlzVlNDbUJRLU1nVXJuc210dTBYRmg3TVhSNjVFQjFLbXN1UVZobW5XakV5U2NQNk1UWW9oTkQ4aUxIYmFHc3dHeGE0Y0c0aU80TnJYTndWWXVGWnQ4TkJ4RHZvMDljY1FUQWRZajByUQ?oc=5",
+        "fonte": "Capital News",
+        "data": "2026-10-11"
       }
     ],
     "logistica": [
@@ -238,30 +245,30 @@ window.NEWS = {
         "data": "2026-10-13"
       },
       {
-        "titulo": "Vietnã cresce 9,95% com indústria e investimento público",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTgwVG1YaWUxX0Z4ZU9wSVNHYmlQaXYwOGFoWms2QWR4cmszcEMtbGZhN2JCdlVObm90SEdrdy1tUlR1WkVYRE8xNkkxZ01rMnVCRkVuSmNZbnN5TVdvLXRsUWZKWHBSTzdzM2YyaGdvcjk1OTFWbmlGZjBwdU5VTS1wTHN4c2o0NTRLa2NtWVFwa3dy?oc=5",
-        "fonte": "Vermelho",
-        "data": "2026-10-06"
+        "titulo": "Custo de energia elétrica respondeu por 48,2% da inflação de investimentos em 26 anos",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSVlhamhQZkRQYkM5bmp1Q2dxVFVFR3BvcjktcnFZaU42YTVNT3RDU2VoejlWZjBoWXg5cmppSWM5eXRRMl9VSG51ZTU4M2VYaXc1QkxTaTI3RF9fOTNFUDRvQmJfWE1JOHVmOWpqZmJoYWhTYU1qR19jY1pINGF1YzRHX3cwVWFMUkdjREFod1ZKdEtRdWswTHJEM3N1V3phVXNSbDdMWjdDVEx2cFVFbkZzUlczdjNWMXVINFF4OGRRQjZM?oc=5",
+        "fonte": "DComercio",
+        "data": "2026-10-13"
       }
     ],
     "mineracao": [
+      {
+        "titulo": "França amplia controle estatal sobre gigante de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFRhdEIzWkRUZk04bjVJaTdPV2JNOWxmZzE5N1VGWk1CQlhrdHdEX29BZGdzTFlHaHVwU3o1MWcwMFV0anNtN2xkXzdYTnNmUDNoVUE0TjBjeXltc0NvMzVmQWhTcTVkd01aRHVPYWdKYW4tUEFHZDd1RXlIS1ZjYUoxcHV4aFdqUklUOC00bXJjOGVQV3NoSHV1Y2ZPX1FBVzBZ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-13"
+      },
+      {
+        "titulo": "Quais incentivos existem no Brasil para investimentos em minerais críticos e estratégicos? Entenda cenário",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTJlbzBoSmVvYXlLN0ZEb3FMMWZKZF9yU2N1SktmM0s3R0xmOFlaWXVlWWU4aXhIZ1ZFU3NGY1lZak1YdjlPV2dpSzVDU2RpY24zYnZJZy1VVXNVZUVUbEdoemppR1ZYWFVPUHo2MGY5M01ncFg2X25tUnp3WjFaQUk0eHIxUFc4NVNRQ2g3NFVBWUVvUWdtWEwzUThRbnhFY0ZWWTRTRzk3dm0yWndiSmtNbkpLVndBVEwyazJqTkpUeHcwZVdHRE15TzI1NXVDM3pjUjhXOHQ4LVNhTFR1TlhXMjRhVWF6czYyTDlvUXp5UFFteV9SSTY0MGY?oc=5",
+        "fonte": "Rádio Itatiaia",
+        "data": "2026-10-13"
+      },
       {
         "titulo": "Demora do governo está travando negócios, diz setor de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3JBNWctX25yX3lsVHZsYVMwS2JTY3lfWjVsbWZFZUtuZVk0QVByOVpYcGdwalpnMTdJdGZRbjA3d1NmT25NSkFWblBnZTZZSW1haklvaGp2Q2k2bmZnbDB3R2prd3FMSFRFZGxUQzdGdlE5bXBrSUstUEhnTkluM05kdXF3S2J3RHVucEpwXzdnZ2xoTkk3Q1FDVXduaTAyTXJ6ZXhR?oc=5",
         "fonte": "Poder360",
         "data": "2026-10-08"
-      },
-      {
-        "titulo": "Brasil discute estratégia para transformar minerais críticos em valor e inovação",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1dRTW5VQnNONmRRdWp1V2JWRUdDNU9PajB1WHBGT3RqU0JQSVQ0UGlQOVR6SGVjdEFkUWJKRGRyaENaUi1NVm9YbTdVVGxPWC1CclNnd19GVTM0U21RTnlMcThCNDZyR3FpNmtTRHNudU5XcHZ0aUpJcXZQN1JOOHhHSHRhekhTcGpR?oc=5",
-        "fonte": "IBRAM - Mineração do Brasil",
-        "data": "2026-10-08"
-      },
-      {
-        "titulo": "Setor cobra agilidade do governo na regulamentação da política nacional de minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDZ3UmJWaEVMbXZiRHEzTUZMTXpYN20tTnVlZy0zSklDM3RNSWZKbU1uN2NsZU9aUDRvRzFFR3ZhRGdJMTE2M2hxUnNEa29Td19xUkJsc2YxaUtZSEVxQWktNE4weWhKS2Jpbmw4MXdPNjF3NnVzbnBKWHhFUXBKQlNZU19LdlFrTnZGMjhKZXZtdzN6Q3JGcTZRYXFxU1lZWWZaQlc0NWtfSTFYRGdYUlhHQ01qdmhBejNLSXZYc1hkekl1TG1QM2hZZW4wYUZpQkV4SV9DNERrZkZLcTJlNWFwdTY1dFl6WmE4dlNQSHRLdmNxX0tEX1FTZng1ckJ5UVE?oc=5",
-        "fonte": "Estadão Blue Studio",
-        "data": "2026-10-09"
       }
     ],
     "papel-celulose": [
