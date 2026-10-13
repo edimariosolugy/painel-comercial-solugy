@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-12T18:44:51+00:00",
+  "atualizadoEm": "2026-10-13T01:09:15+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -156,10 +156,10 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "A América Latina poderá dobrar sua capacidade de energia eólica onshore até 2035",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQODJlUnpIM1BoTFlOYmdsUmJ4WFItUVhzOGYtSHg5NWE0ek9RWTEyNFEzSVB1RFBhWjRwbFdIYU10Wl82UW1ocTUyTjM1TGFDcHUxZmpYMjhPdnpZODd6bWQ3NUROS0F3U2l3VlV3RUZRczh4RWpIU0NiRTZTeGVic0pFMU0ybkd0MzZOOE41QWk0LXNZOEF5ejdoZDAtMllQcjJ3Q0ZseWZtZFdzQ1ow?oc=5",
-        "fonte": "AEPET",
-        "data": "2026-10-05"
+        "titulo": "América Latina articula expansão da energia renovável e abre novas perspectivas para minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNSFhISlNSejJsT1V0RExSZjhlblJKdVRoNE9iWlgzU0FTelZXRENRVGpuTV9hekkwdWR1c19ZVHMwWU4za09tbjVONHdCWkU2Mzk0YlhaNUxfU0dpbEN0cXctOGx4amx3WWVCcnRrSURLZk82WU9oR2RxTC1CbFRrU1VVUmNCSlcyV2M0RS1xVURWRmhrbWRWR3Zicm5kaFZ4WW5xNHpleXBXQnNCNzJDcGNEMElMaXNjNC1TdkpYVEpNemd6RFpWUGN3dWp3UmkyN0lsbFpEU1gzX1ZxU3p3aG95ZXQzaU5fenJrc0JqeFFNZllJb2c5dFV1bFh6aDJPWmV0d3Zoc1pDZGVGOGl3?oc=5",
+        "fonte": "Estadão Blue Studio",
+        "data": "2026-10-09"
       }
     ],
     "epc": [],
@@ -186,12 +186,6 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Empresa de Rio Grande investirá R$ 15 milhões em nova sede no Distrito Industrial",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0RiRThnRVAydGRaT2huaGpkZVR6QXFtN1R0SWJhd2NBNUNIdURFbU1LSHMwUlhHbHRnVDVPZEl4VjdjZXNDX2ZmTHlTWnNJUlZoZ0x4eFJuVktwX0psaERlZ2VnWDNQTVVYSWd0TjFwNVdFc2ZpeEhHcEpmdFZxbVpOVWtPMS11czl6N0xYdWhGcEJzV2NLMjBnRmNsckl6d0ZrSHFFOUlQZTRZS1ZNWmlnM05rdjVLcy1aeW9vRmlTLVV4R0ktQjA1UUJMT0RfdVc2Rl9hY3FaS1NNTjJHSHFLWS10SDZJaHFFeVRic1B0dHVIVUc1cnIxenczQ00tTWloYVZqZXg?oc=5",
-        "fonte": "GZH",
-        "data": "2026-10-09"
-      },
-      {
         "titulo": "Mato Grosso do Sul chega aos 49 anos com indústria em expansão e novos investimentos",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2ZiaFJyZ1pFRGJ6WXRJOWdQTXBDNHNIN1YtalZ2aDU0YzUwQlhIX2NvM1hDZnhBUGxwdFZtWGZPS3g1WEtKdDdDTnAzU0wwZzlIV3R0enVvWEFSdW9fdDNGMjdRYzVTUkllSUFLeHVSUHlzVlNDbUJRLU1nVXJuc210dTBYRmg3TVhSNjVFQjFLbXN1UVZobW5XakV5U2NQNk1UWW9oTkQ4aUxIYmFHc3dHeGE0Y0c0aU80TnJYTndWWXVGWnQ4TkJ4RHZvMDljY1FUQWRZajByUQ?oc=5",
         "fonte": "Capital News",
@@ -202,6 +196,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXdCOGdKQU9zZXJrT3pvSGFlUlExUDJRQWdJQnFfSGEwcExIQmc4WEFiaWxEOURGRUFGZUpDd0tOYVpDVkt5Z25vYlphOUZKY3RqRk1BVUctbGFXWW9LNkVXV2RLS0hlbnJvTW4wNUFZRHM1RmdTcmF4bXR4U2N1cjVuNUZhXzVYUDJic090d1N1YkwyMGNpY083dDZ6aHJrWk12UDBzNk12dFFPblRKREtrcmVlWE9jejJnLVhrVnJqOThpdWNIaXotTFA3akpJdnlF?oc=5",
         "fonte": "Estadão",
         "data": "2026-10-09"
+      },
+      {
+        "titulo": "Rio Grande negocia instalação de fábrica de etanol de arroz de R$ 1 bilhão",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLU5RcVRuNmlUaldNRi0yM3g4SWZhN1ctVm5LZzFmN2ZBeGNKeWNMWVVoVU9KX200WXNBUDVyRHFiZXluRGtsNDFSbnppLTBGM2NvejRGS0ZUNG1uSkV6amNpdmsyRlFueTJILTh5N1JmZEh2ajFlczc2azV2ako5UUVsSXMxaDVHcTVvcGlmQzB4bVdaZ3dfeGJlWVZMQmd1VUo4bW52SVBGeWgyQ2NVQlRnVGhhNDNRZU5ER3R3?oc=5",
+        "fonte": "A Hora do Sul",
+        "data": "2026-10-06"
       }
     ],
     "logistica": [
@@ -226,6 +226,12 @@ window.NEWS = {
     ],
     "maquinas": [
       {
+        "titulo": "76% das indústrias com dificuldade de crédito apontam os juros como o maior vilão, diz CNI",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNE1oaTdTWGlOR3Q2bFJINzJHODRRWGVGLVJxUTBQLXFsTFM3UndvVW4weHlQa0x4Q1M1NXlaejJzaFFzTXVLTHFGOUY5Wl9DZzZuQ0VGNy10aE9raF9PQVh1TVF1R2hxS01uYUpJTS15czFOUDdXbXBqNXh4ek16ekRKTm11YmhLSElTenlBcGpZTmt1Y1Zuc1FHdlFrQ2hublhhVEpNc2lIZHNZN3Mta2d1X1BVM3N1cjh2U3VZbVNlbFZ4VHJIZlcyRklfblpRNVRIOHdoU3REYm1CdUlVQlZjQQ?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
+        "data": "2026-10-09"
+      },
+      {
         "titulo": "Vietnã cresce 9,95% com indústria e investimento público",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUTgwVG1YaWUxX0Z4ZU9wSVNHYmlQaXYwOGFoWms2QWR4cmszcEMtbGZhN2JCdlVObm90SEdrdy1tUlR1WkVYRE8xNkkxZ01rMnVCRkVuSmNZbnN5TVdvLXRsUWZKWHBSTzdzM2YyaGdvcjk1OTFWbmlGZjBwdU5VTS1wTHN4c2o0NTRLa2NtWVFwa3dy?oc=5",
         "fonte": "Vermelho",
@@ -236,32 +242,26 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORmJzOFZWeEk4SFh6bVRGMXdsU0JZbTBHU1dLOThFQS13WUc2TmZfMjB1dUlzeGFlRFU2UDNVcjFOZm53VkpZS25pSFo2SlNZX0xEUWtDdmFEazhjTzREOER1djRLa0hUNng2VlZGRnJqcW1rczRjc0tXV3JLSnJKVFZJSXJHdlFnbmNkRmxFUGtyWVF0SHcxStIBmAFBVV95cUxORmJzOFZWeEk4SFh6bVRGMXdsU0JZbTBHU1dLOThFQS13WUc2TmZfMjB1dUlzeGFlRFU2UDNVcjFOZm53VkpZS25pSFo2SlNZX0xEUWtDdmFEazhjTzREOER1djRLa0hUNng2VlZGRnJqcW1rczRjc0tXV3JLSnJKVFZJSXJHdlFnbmNkRmxFUGtyWVF0SHcxSg?oc=5",
         "fonte": "Estadão",
         "data": "2026-10-09"
-      },
-      {
-        "titulo": "Indústria aponta juros altos como principal barreira ao crédito",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQb21GR3FXVWNLN2V0ZWU4VmtqQ1ROZHlvUEY2T295ZGUwdU9RbHZOVnZ4a2Z2SG1ySndBN2U5ZDJVV2R5WEJjZTNhQWc4NVBiMEZLTGptdnJQYzhNdlh5TWp0LWRKdXNKcFM5RWczdWxDekVHbTQ1aE1pWldHcWtoZTBUclRrQjZSc2hjZHpaSTZQQWtXd0tCWVpISU9mTi03VVNNclVaUUV3clRtUjdnNGtSSGg3SmhOcnozMG13?oc=5",
-        "fonte": "Agência Brasil",
-        "data": "2026-10-09"
       }
     ],
     "mineracao": [
-      {
-        "titulo": "Brasil busca se manter neutro na disputa entre EUA e China por minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTnlDazFzMmEta2w0TTJzc0ZWRFNNWlp2WDhhWEI5RUQ5MUFOLVZJYnpVeG40V1pyNHlLUks5UnVLZ0NpMGdqWHhBeTJHX3pDcDhZTDBsV0dhVmVVWDFfVVpaN0VhX2poVml0T2s0Qy1nOFBLM1F0V01aYW13YkJMcnQ1UTBkZWZ2U0xpMXBTSE9xUjQxbjFzOEp0SEU1T1kyWWxMOWF5QWFXelBtZndOVElKcm82U3lKd3FDcDZOUGpvcE1YQXJiQUNxakYwLWlf?oc=5",
-        "fonte": "JOTA Info",
-        "data": "2026-10-05"
-      },
-      {
-        "titulo": "MINERAIS CRÍTICOS | BNDES mobiliza R$ 45,8 bilhões visando transformar o Brasil em potência",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQb3FtMWRrQkRaaXBmaWxacUJmNVdPOFVCS3FvQmx4MEFoV0tvemg1WFFNei05cnZuMFhkT0M5Vy10OEJlTUc3T3I2bVRMa0Z2OGVwcWprV3hlMjhDaTJHeVc4bkJnaDF6eks5ZlJKTmprTFpFdUY5S1VTcm1XQXB4dVBKODZWSTdUNndBcnQtcHFRRWFITFIwY2phT0RvbURRR3VzcWl0SmJoblU?oc=5",
-        "fonte": "Brasil Mineral",
-        "data": "2026-10-05"
-      },
       {
         "titulo": "Demora do governo está travando negócios, diz setor de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3JBNWctX25yX3lsVHZsYVMwS2JTY3lfWjVsbWZFZUtuZVk0QVByOVpYcGdwalpnMTdJdGZRbjA3d1NmT25NSkFWblBnZTZZSW1haklvaGp2Q2k2bmZnbDB3R2prd3FMSFRFZGxUQzdGdlE5bXBrSUstUEhnTkluM05kdXF3S2J3RHVucEpwXzdnZ2xoTkk3Q1FDVXduaTAyTXJ6ZXhR?oc=5",
         "fonte": "Poder360",
         "data": "2026-10-08"
+      },
+      {
+        "titulo": "Brasil discute estratégia para transformar minerais críticos em valor e inovação",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQS1dRTW5VQnNONmRRdWp1V2JWRUdDNU9PajB1WHBGT3RqU0JQSVQ0UGlQOVR6SGVjdEFkUWJKRGRyaENaUi1NVm9YbTdVVGxPWC1CclNnd19GVTM0U21RTnlMcThCNDZyR3FpNmtTRHNudU5XcHZ0aUpJcXZQN1JOOHhHSHRhekhTcGpR?oc=5",
+        "fonte": "IBRAM - Mineração do Brasil",
+        "data": "2026-10-08"
+      },
+      {
+        "titulo": "Setor cobra agilidade do governo na regulamentação da política nacional de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSDZ3UmJWaEVMbXZiRHEzTUZMTXpYN20tTnVlZy0zSklDM3RNSWZKbU1uN2NsZU9aUDRvRzFFR3ZhRGdJMTE2M2hxUnNEa29Td19xUkJsc2YxaUtZSEVxQWktNE4weWhKS2Jpbmw4MXdPNjF3NnVzbnBKWHhFUXBKQlNZU19LdlFrTnZGMjhKZXZtdzN6Q3JGcTZRYXFxU1lZWWZaQlc0NWtfSTFYRGdYUlhHQ01qdmhBejNLSXZYc1hkekl1TG1QM2hZZW4wYUZpQkV4SV9DNERrZkZLcTJlNWFwdTY1dFl6WmE4dlNQSHRLdmNxX0tEX1FTZng1ckJ5UVE?oc=5",
+        "fonte": "Estadão Blue Studio",
+        "data": "2026-10-09"
       }
     ],
     "papel-celulose": [
@@ -308,22 +308,16 @@ window.NEWS = {
     "siderurgia": [],
     "odontologia": [
       {
-        "titulo": "Mercado de equipamentos de imagem odontológica até 2035: adoção digital e experiência do paciente impulsionam o crescimento - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQWGpUc3ZmOFdHRklwampXYUVObXBBQ0w0YXgxSUpRaWNTUUZWWFZkX3B1cXhCUzNSQU43bmtYblp2Q1l6ZVppVFFta1loOXFaaU9NS3R3VGtwTnotSUxsYjM5enZpeVp2c1VNcF9rSlZaM3RFa0tkdldoc3lqWnJaRGw5Tk8wdUppaVE3bERkRVhtQ1gza3VWZGc5VWd4Z2hna2YxWVhXTHhCRFl4bnFJRVlGR0dDdWNteDFXZWU5QktOODk4V2MwT2R6Y1AxcXdiRUJUV1lxekhjS0NFVFZaWWVwUjRfNkk4cDlnc1lWQQ?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-10-07"
-      },
-      {
-        "titulo": "Indústria de equipamentos odontológicos cresce com apoio do BNDES em SP",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPSTA3dzctUzQxTmJ4eUx5UExLVVdmdlFwWEhHcnR5WlZEOUMyekhsMFVmRk9yaFBlQVZrQ1EyTGRzR2x4VGdMMV82dDd1dkxsM281Z0MzRGlSOFNVVFNDOTZvOHBJZV95eWF5bm9VbmlHYkpCZldiTXNkX19uYTN2MnIzYXpkazNaUHF4aENmV3hZNW5saTdKVFdJT2M1ZXpUUmZKS2Y0RmpDRENBUUtLaUZRUm9lQTJV?oc=5",
-        "fonte": "CPG Click Petróleo e Gás",
-        "data": "2026-10-05"
-      },
-      {
         "titulo": "Mercado global de sensores intrabucais digitais: Tamanho, Tendências e Previsão até 2035",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVzdVaVp5ZlFSamo0aF8zRXgzb0NNX2pSTHZXeDVuR05UVDFUc1VKX0xvNXFBNnVfVk9EN004a3FmdUFEeXZCZTBZTzZnRnUyOE9PZHB0RkJJa0Q2ZEt3cjg4WWd5MkxiT2pqOTlhUEd6REdTUEdKeHM5cjZaanpqLXRqc0UwZklXeHkwV3lhUzNqdk5EeWI1WGpzUVNfSGdYU1JCV3F5T3RmQTQ1b0h1cmJUc2tuSTdaQjBXREVyRnNaUldwZ09zUVdXLVRJTWhidjRnY3VEczlGRXR4NG83NG5CeFg?oc=5",
         "fonte": "IndexBox",
         "data": "2026-10-07"
+      },
+      {
+        "titulo": "Mercado de sistemas de raios X odontológicos até 2035: adoção digital e envelhecimento populacional impulsionam o crescimento - Notícias e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGpxZnEyOENoZ19NLUpYQ2dMaFhIbVBrTnVzMmNfX2Y0ZVVaTlhZVmMzeEhjTl9CVlBlUmREYnFRZjJkTi1jLVBFejBodnRPdWZGU0JKbFpiekZsN1dYdnYwRUxsWVYwWDBoWmIzVDhINlNzLXNuUl9CcG5sdm1iX056eko0M2RFb1NrOUJLLXFaejcwVS1CdGc0UFhhaG5ySWxsdHNkajZETmtSdF95cHpYUVczbloza3RzOXFlTmhRXzM1NWtobFpubEhEbzVadHJna1E4dGFsYzhyUDlENnN3LTlDMHM?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-10-09"
       }
     ]
   }
