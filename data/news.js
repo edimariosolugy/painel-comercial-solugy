@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-14T19:14:06+00:00",
+  "atualizadoEm": "2026-10-14T23:03:15+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "Opinião - Ciência Fundamental: Não existe agronegócio de sucesso sem ciência forte",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3NMTUx3dUdDamlKNjJEc240UXV2M3Qya3ZQbXhHVlVzYnM1aDQwNTRUQ1ZObk1Gb2xXTlFMYkdVU1JXSWM5UEh5Q1hzV1hvOVRHS05FMFotS0VwY3dzUlVDVVZBUmlvd1NrNTlobFBTSTJYM3BYRk5aQ2I1ZGlJRmJHcHRRZU5vcUJITlM5VUlLY3BEc2NkcnFmRmludFZ1M3lXaDFCUlNuVjRtWm5FN0lya1QzZ2w0ZG1nbENn?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-10-14"
-      },
-      {
         "titulo": "Brasil abre 700 destinos internacionais ao agronegócio no valor de US$ 4 bi",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWTRtbkhLeEpFUm5ZZ2puWWpxYXNvNWc4YmppdThJbUJxQWJhZjlFLTNCMERiVUNTQWhVaUV1MUVraDZHQURITTJvR1ZqTDBVWlkxV2YyRTMwaUQxLVFUTUxUS0U5Q21KTTBhVUUxMGtXQXJBRC1uMGJlaUlHYnVTM1FaNUxCN2swQTJteEJxMzAyYlR6U3Qwa1Q2d1RLX2g4WEFIOTdSNHA3WE9uUXc?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-13"
+      },
+      {
+        "titulo": "Opinião - Ciência Fundamental: Não existe agronegócio de sucesso sem ciência forte",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3NMTUx3dUdDamlKNjJEc240UXV2M3Qya3ZQbXhHVlVzYnM1aDQwNTRUQ1ZObk1Gb2xXTlFMYkdVU1JXSWM5UEh5Q1hzV1hvOVRHS05FMFotS0VwY3dzUlVDVVZBUmlvd1NrNTlobFBTSTJYM3BYRk5aQ2I1ZGlJRmJHcHRRZU5vcUJITlM5VUlLY3BEc2NkcnFmRmludFZ1M3lXaDFCUlNuVjRtWm5FN0lya1QzZ2w0ZG1nbENn?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-10-14"
       }
     ],
     "alimentos-bebidas": [
@@ -70,15 +70,15 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
+        "titulo": "Etanol e açúcar geram R$ 586,6 milhões em salários em Mato Grosso",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVU5pYnJrSnJBMWY5c1hDc1MwdE5iZXdPMzMySlU4alk0TXd0dkV6aks0eW5FamE4cDFJY3M4Yk1XbE91MllhenI4aUZqbHZ3ZEFkZUxNVHptQ2JvTFEtMUtsYTM4bmhEc0xrcmpMX0xOQ2JaSm56WlRjV1YtOEliOUhZZks2UHZQYm1raUxaV0ZLeVlvZ19jU2htdUZVVnl5NXU4OGJaRkFqNDJJMkt4WFBKTDl6UjhEdWdsXy1uVlNqNFRXa25wVlVjZlpOdmMxRTJTVUlSWnk0WW15VVNRTjhB?oc=5",
+        "fonte": "Portal do Agronegócio",
+        "data": "2026-10-14"
+      },
+      {
         "titulo": "Grupo Maringá investe R$ 120 milhões em geração de energia com biomassa",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZGkxUFFYRlljdkQyd2E1TXNSVkNjOERfZW1XU0FXVVV2M0Q5eWpHSl9YODhDaThFVU1hRlJpZExKTWFKay1fdlpQWm9ZQ1ZCMDA5VFhWTHluZnFISVRYRzNPampCR0NlaUJlY3VZN2tVV1h3M0MxU2FJdGRPYU15T0pVa2pNRXd6dGJtbWpUR0NLRFFxZ1FGLUxTcFRna01jLU5sNjVOZG5QMUp6M1g2bzBKbk0?oc=5",
         "fonte": "brasilagro.com.br",
-        "data": "2026-10-09"
-      },
-      {
-        "titulo": "Avanço dos biocombustíveis exige mais cibersegurança",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03Sk1ING9FbURJR1NkV2dlQUMxTzZjdW9VakluYUg0SE1KX0JMVEpvX2JNWlhCajFzSXFCRnlFWFRRMG01RjZDSW8ySWxjT1ppLV81RWdTM0JfTWJzRTFidTZfYlBUTU5RMXYyYl81VTZNTUUxVk1TSzRVQU8?oc=5",
-        "fonte": "Sociedade Nacional de Agricultura",
         "data": "2026-10-09"
       }
     ],
@@ -130,10 +130,10 @@ window.NEWS = {
         "data": "2026-10-08"
       },
       {
-        "titulo": "Projeto Nova Era Integração - Lote 5 do Leilão de Transmissão nº 1/2024 ANEEL",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2lsR1h5MTh3U0VZandSYnFwQWZpTmhDajFxSnhhZXhGQ1BBSTI5WDJ1N2YwS0c0RW5CM0l3SHdGZ0tkaGJaZDBQX05WSUpUbkY2YVBFMTJRZkJrSXJ3b2VsRERGVGxlS0dJNlBxQUtYeW5ZMzhJUnBmTktFbkFrN2hVUW5KV0J1aFpLSDFjb29IbzF3R2c?oc=5",
+        "titulo": "Manchetes do dia: Os riscos por trás do leilão de 20GW no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQktucE81UXgtT2EwSlZHRGJlNW05T19tb3YtdHNVazlZZ1RFdEZjTjI3X0ptWDdnLXdxUUMwSTM1TlpEaEpGZXJvbVpiY0ZDb3otd1NJaWxrcVFHMFJUSGx4QjZYZDFHMWhlVHpJR0x6VDlTVXlSdjJXUFlGQndJekJIYUhtSjRRUW1xQTFLOF90bkhLNFNpTlJ1ZHBZTEEtNmZ2Sw?oc=5",
         "fonte": "BNamericas",
-        "data": "2026-10-13"
+        "data": "2026-10-12"
       },
       {
         "titulo": "Não é a Taesa (TAEE11): Ação paga bons dividendos, mas não é a favorita do Itaú BBA; veja as elétricas preferidas do banco",
@@ -178,16 +178,16 @@ window.NEWS = {
         "data": "2026-10-08"
       },
       {
+        "titulo": "Pesquisa de Biotecnologia exige investimentos para inovação chegar ao mercado",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1FMYU5OUHQyLVQzQXY4aklxM3pWLXJjb1ZyS3Z1ZGhUU2x2eGpKRncyUFpxemNNemQ2OV83MUVJOXNLVU1iQmZmVXd4YXV2Y0EtTlBtWXY4Y0h6NmNnNzRWM0hnbDJmWHFVQWxHbGo1UEp1Vlc0ZTJpcGE1LXpLNXJDLUg3N0VicGpoN0pjaVVzSldnS0ZnWFlZTGwwcm5WQ0tJekVVdzZEWmNjbG82RkFhQTJhTDVfOWgwR2pB?oc=5",
+        "fonte": "Saúde Digital News",
+        "data": "2026-10-08"
+      },
+      {
         "titulo": "Geolab® celebra 27 anos de história e inovação na saúde",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLW9QdWpIQTRqalNaaW91UUdJVE5YYk43dEs2bGo1LXU5RlplT1ZQM1FkTG4tYTNaLS1aR0pLbTFqcUNuTWhKVE54QWlMU0lyX2xVM29HUnQwYTBrZl9xVVhpVkxzZ0pkOXhBUkFtM0FINEh1eE9PendkdjI2ZWhMOUFKVXY1NjNaa3BacmFB?oc=5",
         "fonte": "Guia da Farmácia",
         "data": "2026-10-13"
-      },
-      {
-        "titulo": "Com 18 lançamentos previstos até 2031, Libbs reforça liderança em produtos para o Sistema Nervoso Central",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOXNZVE1Takx1bS0xUlNiZmZXV2Z1QXZEMzRMNHEtMEtpdGpOcThVOV9YVDJqSFNyWExIeTdzbGk5aFM4cXoyeUtMYjB1SVU2WEJSa1VCcjBNNjhnelU3bzZoMl81MnJZOWhtREVaYUpxV3ZnY0NyRnJfelI4TlVfWFZGU1RnWE93M1BXbEZQZnhkd1pYV2NpdTdndGNxYjVCaUo0TUZWMjBYYTh2WFI3UXBscWl1cFpIZWVQdE5jcUZNY2F4MS1IQmU1NWZOZjljbU4tS04wQjAwd3ZIazJaME9TSU1teGxjdHN4b0NjVXBUNzRyWGo5cDlza2xLWVh1aWc?oc=5",
-        "fonte": "PFARMA.com.br",
-        "data": "2026-10-08"
       }
     ],
     "fertilizantes": [],
@@ -199,16 +199,16 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "Prefeitura Municipal de Pouso Alegre",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51dnhPMzVmb0tQekxUR1M0MzVWR2hrMnJSVDY3R1lmTDRtZFg0Zjc0OGpxRHBhTWFBRWVobGVDNlB1SWFaQkNGMjIyZDR4eWluX3Z5akxJTUVOeVdPMUxGRi1sd3E?oc=5",
-        "fonte": "Prefeitura Municipal de Pouso Alegre",
-        "data": "2026-10-07"
-      },
-      {
         "titulo": "Mato Grosso do Sul chega aos 49 anos com indústria em expansão e novos investimentos",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2ZiaFJyZ1pFRGJ6WXRJOWdQTXBDNHNIN1YtalZ2aDU0YzUwQlhIX2NvM1hDZnhBUGxwdFZtWGZPS3g1WEtKdDdDTnAzU0wwZzlIV3R0enVvWEFSdW9fdDNGMjdRYzVTUkllSUFLeHVSUHlzVlNDbUJRLU1nVXJuc210dTBYRmg3TVhSNjVFQjFLbXN1UVZobW5XakV5U2NQNk1UWW9oTkQ4aUxIYmFHc3dHeGE0Y0c0aU80TnJYTndWWXVGWnQ4TkJ4RHZvMDljY1FUQWRZajByUQ?oc=5",
         "fonte": "Capital News",
         "data": "2026-10-11"
+      },
+      {
+        "titulo": "Empresa de Rio Grande investirá R$ 15 milhões em nova sede no Distrito Industrial",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0RiRThnRVAydGRaT2huaGpkZVR6QXFtN1R0SWJhd2NBNUNIdURFbU1LSHMwUlhHbHRnVDVPZEl4VjdjZXNDX2ZmTHlTWnNJUlZoZ0x4eFJuVktwX0psaERlZ2VnWDNQTVVYSWd0TjFwNVdFc2ZpeEhHcEpmdFZxbVpOVWtPMS11czl6N0xYdWhGcEJzV2NLMjBnRmNsckl6d0ZrSHFFOUlQZTRZS1ZNWmlnM05rdjVLcy1aeW9vRmlTLVV4R0ktQjA1UUJMT0RfdVc2Rl9hY3FaS1NNTjJHSHFLWS10SDZJaHFFeVRic1B0dHVIVUc1cnIxenczQ00tTWloYVZqZXg?oc=5",
+        "fonte": "GZH",
+        "data": "2026-10-09"
       }
     ],
     "logistica": [
@@ -219,16 +219,16 @@ window.NEWS = {
         "data": "2026-10-13"
       },
       {
+        "titulo": "George Santoro: governo inicia leilões de rodovias e ferrovias no primeiro semestre de 2027",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzAxTnltbmVJTUEwb1Vub3Rjck9MaFhTM2NNMmpsQzU4SFpwZURjU2pibjk1dmhhbFlIUXM4RkM0d2hGeXR4WmJkSFFvLV9KX1g2T0NsTEI2WmllNkgxb0dxbS1YS1FfaU1LM2p5RFQ5ck03aHBfMUkzcnpiRTVyeWthQjJ4N1dEbGN5U19sb2tvVHI0YzlVWVBoZFlPR0dJcHFkOHJiU1lFbWFtdkhHYUd0R2xyQ0pjWlJ0NGV0enFib1dzZzNqMFFUMDNPal9vcGZGYzlPZHI2a2FaYm9nOE1sWQ?oc=5",
+        "fonte": "Tribuna do Sertão",
+        "data": "2026-10-14"
+      },
+      {
         "titulo": "Infraestrutura do agro: o que Flávio Bolsonaro e Lula propõem para o setor",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVrbVJ5Ump1QnhOYlhza2tUd1FQdVUtdFdRdkNLVE5zdXA0aGtJd0p5RUxiNkQ5RmFteTVCYXdManNsdjhjUEpZN0pZQXRQbWVnSXRMajk3bXdEVXNKQlVjbDNrNDRqUHdpbHppMG5iVXB3NzJ2eEk1LV9Cb0t6LW1rQUZVSHoycEtud3htY1VQbWtYck9QOVlWUXY5UWlpS2t0RFgyNGR2Q2xq?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-12"
-      },
-      {
-        "titulo": "Rodovias, ferrovia e impostos: os desafios da nova bancada federal do ES",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTVaOHlONXZLdy1sRm0zaGU1QmFXeldOM2tSeWJhVUJ3aEtOTnFlcE95SEc4MkdFMFRzdDE2Q2tTcEl2X3EyOVc4VGJ1NV9hRmZtdnhYM3RfNE5DRnY1NkhDRm9IU2NEZFQzN1p2RUtTZGt4N3p5MnlyQndaaF9aUUozcGRIN0lKanFGcjk4VmcySU54V1ZUd200SWdLcjBHcm1fTmpYOGw3WmdVRzJkclRB?oc=5",
-        "fonte": "Folha Vitória",
-        "data": "2026-10-09"
       }
     ],
     "maquinas": [
@@ -253,6 +253,12 @@ window.NEWS = {
     ],
     "mineracao": [
       {
+        "titulo": "Portal de Minerais Críticos e Estratégicos reúne dados sobre mineração em um só ambiente",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTNPNjEtek85Z0ZOcXY4UWdoVlF2dEFJckZUSi1raFhrRW10M0RXdTFqZWc1cTlkbGtIUnU0RVBsamRmS3doSE5KWUFXSkJHSGxWMWM4R0tlQlJhZWRsZVJyMjlGemRMY0VFYmJubFU1Z2hpLTVSR18yVHdXTjBUMkprMnQzY2sxNmh2M3UyQUJqVXpqRFU1TFJ6dThEY3daZWtDRlJBNnBiUm0zZ0VBaDVUOWJPcDUtbmhjUFdxM3NxdlV2UUV4ckR6dVY2bERi?oc=5",
+        "fonte": "www.gov.br",
+        "data": "2026-10-14"
+      },
+      {
         "titulo": "França amplia controle estatal sobre gigante de minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFRhdEIzWkRUZk04bjVJaTdPV2JNOWxmZzE5N1VGWk1CQlhrdHdEX29BZGdzTFlHaHVwU3o1MWcwMFV0anNtN2xkXzdYTnNmUDNoVUE0TjBjeXltc0NvMzVmQWhTcTVkd01aRHVPYWdKYW4tUEFHZDd1RXlIS1ZjYUoxcHV4aFdqUklUOC00bXJjOGVQV3NoSHV1Y2ZPX1FBVzBZ?oc=5",
         "fonte": "CNN Brasil",
@@ -263,12 +269,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTJlbzBoSmVvYXlLN0ZEb3FMMWZKZF9yU2N1SktmM0s3R0xmOFlaWXVlWWU4aXhIZ1ZFU3NGY1lZak1YdjlPV2dpSzVDU2RpY24zYnZJZy1VVXNVZUVUbEdoemppR1ZYWFVPUHo2MGY5M01ncFg2X25tUnp3WjFaQUk0eHIxUFc4NVNRQ2g3NFVBWUVvUWdtWEwzUThRbnhFY0ZWWTRTRzk3dm0yWndiSmtNbkpLVndBVEwyazJqTkpUeHcwZVdHRE15TzI1NXVDM3pjUjhXOHQ4LVNhTFR1TlhXMjRhVWF6czYyTDlvUXp5UFFteV9SSTY0MGY?oc=5",
         "fonte": "Rádio Itatiaia",
         "data": "2026-10-13"
-      },
-      {
-        "titulo": "Demora do governo está travando negócios, diz setor de minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNX3JBNWctX25yX3lsVHZsYVMwS2JTY3lfWjVsbWZFZUtuZVk0QVByOVpYcGdwalpnMTdJdGZRbjA3d1NmT25NSkFWblBnZTZZSW1haklvaGp2Q2k2bmZnbDB3R2prd3FMSFRFZGxUQzdGdlE5bXBrSUstUEhnTkluM05kdXF3S2J3RHVucEpwXzdnZ2xoTkk3Q1FDVXduaTAyTXJ6ZXhR?oc=5",
-        "fonte": "Poder360",
-        "data": "2026-10-08"
       }
     ],
     "papel-celulose": [
@@ -285,10 +285,10 @@ window.NEWS = {
         "data": "2026-10-08"
       },
       {
-        "titulo": "Área de florestas cultivadas cresceu em Mato Grosso do Sul, diz Ibá",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdENqV29xTmJnYzdIbG43dFZRM2F6NFFvUWtwaFlhSE12dHV4dmJZYl9CdEdsQmsyU0NpNEpCc2xuaEZrUmFvaE00bW43cEwxOGRDa29XT3YyMXMtN1plYzNPY0RueEhkYm9RUC00MVViekRFcGRiaUt1WFo1QnJ2eG9uVWI2WlgzYUdKOVVZTUYxNHhmNExZWmw4OHk2SzlvMGx3?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-09"
+        "titulo": "Maior fábrica do mundo terá ferrovia própria de R$ 2,4 bilhões e vai empregar 6.000 pessoas no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWl9kd2hRNXV5aFVWVS1GTi1tbkp0a2RkMHRWcFpOYTFMZnlVSDRHdElDcFVjUW9zXzNyaFlMZWtZMUVET2NWQktDb3ppRHNlSFNhZjRlSW15Mnh3R2pKWUxJaG5DT3lzdWFxUThXcHYtUW5DcE53SHJlcXBDR211djB5MzZ5ZlpjbVNhV3Y1cTF2VmtBMTVTM2ZVQ3I4TXJHY1MxaUFOYk94b2RLN29mZVhjTHZOU3ZrVWx5azM4Q09jQXRnMDd1NTBEYk1hVGpRblpMUUM4U3JFbENOdlE?oc=5",
+        "fonte": "www.jornalcruzeiro.com.br",
+        "data": "2026-10-11"
       }
     ],
     "quimica": [
@@ -333,12 +333,6 @@ window.NEWS = {
     ],
     "siderurgia": [],
     "odontologia": [
-      {
-        "titulo": "Mercado global de sensores intrabucais digitais: Tamanho, Tendências e Previsão até 2035",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNVzdVaVp5ZlFSamo0aF8zRXgzb0NNX2pSTHZXeDVuR05UVDFUc1VKX0xvNXFBNnVfVk9EN004a3FmdUFEeXZCZTBZTzZnRnUyOE9PZHB0RkJJa0Q2ZEt3cjg4WWd5MkxiT2pqOTlhUEd6REdTUEdKeHM5cjZaanpqLXRqc0UwZklXeHkwV3lhUzNqdk5EeWI1WGpzUVNfSGdYU1JCV3F5T3RmQTQ1b0h1cmJUc2tuSTdaQjBXREVyRnNaUldwZ09zUVdXLVRJTWhidjRnY3VEczlGRXR4NG83NG5CeFg?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-10-07"
-      },
       {
         "titulo": "Mercado de sistemas de raios X odontológicos até 2035: adoção digital e envelhecimento populacional impulsionam o crescimento - Notícias e Estatísticas",
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGpxZnEyOENoZ19NLUpYQ2dMaFhIbVBrTnVzMmNfX2Y0ZVVaTlhZVmMzeEhjTl9CVlBlUmREYnFRZjJkTi1jLVBFejBodnRPdWZGU0JKbFpiekZsN1dYdnYwRUxsWVYwWDBoWmIzVDhINlNzLXNuUl9CcG5sdm1iX056eko0M2RFb1NrOUJLLXFaejcwVS1CdGc0UFhhaG5ySWxsdHNkajZETmtSdF95cHpYUVczbloza3RzOXFlTmhRXzM1NWtobFpubEhEbzVadHJna1E4dGFsYzhyUDlENnN3LTlDMHM?oc=5",
