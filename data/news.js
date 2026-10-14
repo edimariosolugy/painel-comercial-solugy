@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-13T21:46:08+00:00",
+  "atualizadoEm": "2026-10-14T00:57:16+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-10-07"
       },
       {
-        "titulo": "Brasil e Angola: o agro brasileiro ganha terreno em terras africanas?",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2RIUERlWGZybVdvNEdPWHAxTlB3czl2Y3JLUGNKMTNXcU92TUMzLUU2Qy1oc1VvNTVfWHVwaDM5YmpfdFJuZDdSX1BaR3NwbWN4M0N3RkN2Y3I2YkpSbVU5cWEyblRoR051X3NIWDEybWFScE5MdjNkcDFjMEpKanMxamItMnpzUDIwY3FCUUJUT2tEVHJNNUNsaGRZcWI2UFV0SW16SGExUnRyUnJjeHA1N3dPOGpwSUVVeUg1R1hTOXRh?oc=5",
-        "fonte": "Tribuna do Sertão",
-        "data": "2026-10-09"
-      },
-      {
         "titulo": "Infraestrutura do agro: o que Flávio Bolsonaro e Lula propõem para o setor",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVrbVJ5Ump1QnhOYlhza2tUd1FQdVUtdFdRdkNLVE5zdXA0aGtJd0p5RUxiNkQ5RmFteTVCYXdManNsdjhjUEpZN0pZQXRQbWVnSXRMajk3bXdEVXNKQlVjbDNrNDRqUHdpbHppMG5iVXB3NzJ2eEk1LV9Cb0t6LW1rQUZVSHoycEtud3htY1VQbWtYck9QOVlWUXY5UWlpS2t0RFgyNGR2Q2xq?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-12"
+      },
+      {
+        "titulo": "Brasil e Angola: o agro brasileiro ganha terreno em terras africanas?",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNU2RIUERlWGZybVdvNEdPWHAxTlB3czl2Y3JLUGNKMTNXcU92TUMzLUU2Qy1oc1VvNTVfWHVwaDM5YmpfdFJuZDdSX1BaR3NwbWN4M0N3RkN2Y3I2YkpSbVU5cWEyblRoR051X3NIWDEybWFScE5MdjNkcDFjMEpKanMxamItMnpzUDIwY3FCUUJUT2tEVHJNNUNsaGRZcWI2UFV0SW16SGExUnRyUnJjeHA1N3dPOGpwSUVVeUg1R1hTOXRh?oc=5",
+        "fonte": "Tribuna do Sertão",
+        "data": "2026-10-09"
       }
     ],
     "alimentos-bebidas": [
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-10-10"
       },
       {
+        "titulo": "Sudene aprova 27 pleitos de incentivos fiscais para empreendimentos em sete estados",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWndVWXZudFdpYVpzdlhuTmpzNmJpTVVkQ0pCenFKZThTVWtveDUtLTRTUGRFSlp2ZDkzcGtKSko2R1YydXFWQ2VSdXFCT2JEbVpfR0Qzb2NoeG4wZlMxYVJ3OENVd0ZhMmdyRFBUV2NBdngzLTRmc28zajdfNk5XQ0ZweTd5Uk9wU3ZEMTdjdnNPcWV1cUc5TVhMaEVuQjBUdXZKTzJrbmw0eXduWDhOM09CcTZGeF9hbHdPZlBpcFk3MXV4UkNUNlZoOGtuUQ?oc=5",
+        "fonte": "Governo Federal",
+        "data": "2026-10-08"
+      },
+      {
         "titulo": "EXCLUSIVO: Scanntech fecha rodada de US$ 180 milhões; Warburg faz saída parcial",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZWt0VDlxSkZSRmJjSGFxMXdPRXJnUHhqSVlTOEs3SFEzb0RfcFpLWjhVekN2ZmFxUnFqcWZvSC1lXzE2dW8wYlF6M0pHZFR5Umgzcm55VXhXcjlxUnF2T2ptT0lSVDBFZk84V2tiUjVxQTNRYjU0VGFrM1NNTjJsVzMwTTVrcHpMc2ZOXzF1cEVLOXpkQndtWEpuOWNZMkl3WHRENg?oc=5",
         "fonte": "Brazil Journal",
         "data": "2026-10-09"
-      },
-      {
-        "titulo": "Apex: Brasil leva 156 empresas à Sial Paris e mira US$ 3,5 bilhões em negócios",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcDJyNkVyMVdZQVY1U2xWSTFOaVgxc3BYNDhUWHZhbVJPRUk2R182b3labWlGbElmNWZYZF9rMkIzTGtSbUJJcEt0N0lLckpZbGozTm5ieDgyUFVERE01N1JHcnoxX3c0OW42aG1GcE1NcmF4clhUWTlTYUh2SmlaNUVERUQ5Y2lOeENNai1sOEJ3N1c3dTVNeUx4NkpxY2U2Nm9IUElYLURMczUteV9LWDBYZ2JBMmU2akFMWmNVMTdfUThoQ1Z2UkdlampPZXhYb01rNkFUOTdHWHJfekVHZXphTEI?oc=5",
-        "fonte": "UOL Notícias",
-        "data": "2026-10-13"
       }
     ],
     "automotivo": [
@@ -213,6 +213,12 @@ window.NEWS = {
     ],
     "logistica": [
       {
+        "titulo": "Porto de Paranaguá faz primeira conexão do Moegão com terminal",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkU2NjdrLWEyZW9WVGFzcDhQd29HbVZUYmNDNUpIYTBvWmVpSHVBMW1KU3ZnUkN3ODNwWGNPQzZ4VV9vNjZRMkZERTRUQ1ZJWURvVlRrXzdmWDRBekQwbkY0NXVZLTVjQ0JvbFZUVS04WC1oMV81azVlaFR4RDhVZWxHb2JjUUI2bzBjaUJfZVlZMnZna3NFbHZLV29YelR3?oc=5",
+        "fonte": "Folha de Cianorte",
+        "data": "2026-10-13"
+      },
+      {
         "titulo": "Infraestrutura do agro: o que Flávio Bolsonaro e Lula propõem para o setor",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVrbVJ5Ump1QnhOYlhza2tUd1FQdVUtdFdRdkNLVE5zdXA0aGtJd0p5RUxiNkQ5RmFteTVCYXdManNsdjhjUEpZN0pZQXRQbWVnSXRMajk3bXdEVXNKQlVjbDNrNDRqUHdpbHppMG5iVXB3NzJ2eEk1LV9Cb0t6LW1rQUZVSHoycEtud3htY1VQbWtYck9QOVlWUXY5UWlpS2t0RFgyNGR2Q2xq?oc=5",
         "fonte": "CNN Brasil",
@@ -223,12 +229,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaXNVMzU3NThvQUhSQlFySmF1clNqeXJ4SnFEZFZrdEx2OVIxU3ZOSTdRZE9qcWY5TWVGX2VMSG1pRUNKOC1qQ1Y5dkIzTm9IMF9qVXp0UWtlM19yQmhBbDE1MDN5a2lHSDJLRFBXak5PeVhpRlNKclY4Qk1MUDZnczN0M2RjSDF6?oc=5",
         "fonte": "A Gazeta",
         "data": "2026-10-07"
-      },
-      {
-        "titulo": "Rodovias, ferrovia e impostos: os desafios da nova bancada federal do ES",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTVaOHlONXZLdy1sRm0zaGU1QmFXeldOM2tSeWJhVUJ3aEtOTnFlcE95SEc4MkdFMFRzdDE2Q2tTcEl2X3EyOVc4VGJ1NV9hRmZtdnhYM3RfNE5DRnY1NkhDRm9IU2NEZFQzN1p2RUtTZGt4N3p5MnlyQndaaF9aUUozcGRIN0lKanFGcjk4VmcySU54V1ZUd200SWdLcjBHcm1fTmpYOGw3WmdVRzJkclRB?oc=5",
-        "fonte": "Folha Vitória",
-        "data": "2026-10-09"
       }
     ],
     "maquinas": [
@@ -241,13 +241,13 @@ window.NEWS = {
       {
         "titulo": "Indústria quer ampliar capacidade, mas incertezas sobre trajetória dos juros faz metade delas não buscar crédito para novas máquinas",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQXdOUHpYZXgtTWhtRklVaVlCZXZuV19WQzZTdENUdWFGU2pveG9yWnBWSE5KVk5oa2ZMcmo3RV9WNThVWlZDYm9RRHlWWnZfcndTV2tidjUxN3JCdlRWTTdhVmZQUnBUZzBmcFhnUml3WlkzSnhoTWRwb2ZzYW1XT1haZUluV2dGVk1lTDQ4VWZKcUlDQTVHNFFNck5mTnMxYV82QkV3aEhOZWZndXd2Um5RaXpWQVZIeVQ2Rkl4eEs3TEU2YkZxUXloLTJ4eWEteHJuQXdCblY2dUtjR0U3U3A2LVlmVHV1SmsxQWpCMUVqbUdYYzI3ZHAxZldpcTMzcG0yWHFfVkIyQmZNOEVvN09ESmtNS19l?oc=5",
-        "fonte": "JC",
+        "fonte": "JC Uol",
         "data": "2026-10-13"
       },
       {
-        "titulo": "Custo de energia elétrica respondeu por 48,2% da inflação de investimentos em 26 anos",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSVlhamhQZkRQYkM5bmp1Q2dxVFVFR3BvcjktcnFZaU42YTVNT3RDU2VoejlWZjBoWXg5cmppSWM5eXRRMl9VSG51ZTU4M2VYaXc1QkxTaTI3RF9fOTNFUDRvQmJfWE1JOHVmOWpqZmJoYWhTYU1qR19jY1pINGF1YzRHX3cwVWFMUkdjREFod1ZKdEtRdWswTHJEM3N1V3phVXNSbDdMWjdDVEx2cFVFbkZzUlczdjNWMXVINFF4OGRRQjZM?oc=5",
-        "fonte": "DComercio",
+        "titulo": "Abrace: custo de energia elétrica respondeu por 48,2% da inflação de investimentos em 26 anos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHhCeU1jMFAycGEyZTVPbXB5eXQ4MjgxbUhOTDlrQUt6cjhicmo1UDNrQ2JOOEVoZEJHOVdIa1hETHU4UjhIZHJ0WXdHSUMzeVlxLXVDOHhXd25lZG9Cb2dCSU5ac01MYTMzbXNIby10RkQyQ2pOUjQ3NVhhNnhHb2xpR3ZMSHFSMlVWQzdvY2xxZHkzT0MxUmgxMGdhSDVPaEpqUVVSNDd0Z1BRVkVlQy130gGyAUFVX3lxTFA0eEJ5TWMwUDJwYTJlNU9tcHl5dDgyODFtSE5MOWtBS3pyOGJyajVQM2tDYk44RWhkQkc5V0hrWERMdThSOEhkcnRZd0dJQzN5WXEtdUM4eFd3bmVkb0JvZ0JJTlpzTUxhMzNtc0hvLXRGRDJDak5SNDc1WGE2eEdvbGlHdkxIcVIyVVZDN29jbHFkeTNPQzFSaDEwZ2FINU9oSmpRVVI0N3RnUFFWRWVDLXc?oc=5",
+        "fonte": "Folha PE",
         "data": "2026-10-13"
       }
     ],
@@ -300,16 +300,16 @@ window.NEWS = {
         "data": "2026-10-07"
       },
       {
+        "titulo": "Cagece lança edital de PPP para universalizar esgotamento sanitário em 104 municípios do Ceará",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNElyTXNLYzZnYUQ4aWRObGhtelQyVVRDSzFMM1k0V1p6YW1EZHJJeUNrbW4xNC1uRzhQX2F6VDYyZnlTUmpJQ2NmT3kxdGc1TU5kQWVrallOT0NQcFRRQU15elRwNmdwSmkzREk2bERxU29ZMlJXcDFEOGUwTEc1SHBGTGhyUngwSU1wdW82UGV2ZmRnVGM5Zmo3N3JJWmRldHV2OGdFS0o3akQwLXgyX1Awb3pSVHJ2N1JqVjhB?oc=5",
+        "fonte": "Portal Cagece",
+        "data": "2026-10-09"
+      },
+      {
         "titulo": "Opinião - Mauricio Portugal Ribeiro: A nudez das licitações de concessão de saneamento",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMl9oSDBobW91bHh2OGdELUpoS25tV2tOMjJmSE1zbEpSaGV4clphUGpZV3poWXh6ajRsdjEyckh4Zy1wZGh5bmhLTnFVZGJlM2dLR0JLRVJaVjBOZ0tvS1I4dmdRUXQ2SzJOcWEtU29sNjdtbDZGLUJXbUZEd2dEbC0yVWktRDluNXk5M2tGUC1MUnlzbXlNck9oVG9ZdURGOUJob0pnYzhzemdEeGEyZTZicTRZLTdkSnJ3cnJpTHZ6UlYtRWc?oc=5",
         "fonte": "Folha de S.Paulo",
         "data": "2026-10-07"
-      },
-      {
-        "titulo": "Cagece marca leilão de saneamento para 16/12 e investimento será de R$ 6,3 bi - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkU2R2xtS3dsNWFXUW5uWUdldHZhamVVNDg1QkJyeXA4eG0yT3ltRENqWFJCZ0NQZTF3NWRkWW1tNUtlZXdUVDBLek40azBjcW5lM29BZy1zYXlwZ0xhTkt3ZVFsNEN3cVd0SndlUnhLMGxBRk9paDFqNW9ROGk3aW5Yck14MjY0R2pCQnB0Y1FqeUVBR1RvTVhLSW9kcF9BejFMX0daT2tmN2VqTTlHWDdFZw?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-10-09"
       }
     ],
     "siderurgia": [],
