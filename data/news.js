@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-14T14:24:43+00:00",
+  "atualizadoEm": "2026-10-14T19:14:06+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,21 +10,21 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "Infraestrutura do agro: o que Flávio Bolsonaro e Lula propõem para o setor",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVrbVJ5Ump1QnhOYlhza2tUd1FQdVUtdFdRdkNLVE5zdXA0aGtJd0p5RUxiNkQ5RmFteTVCYXdManNsdjhjUEpZN0pZQXRQbWVnSXRMajk3bXdEVXNKQlVjbDNrNDRqUHdpbHppMG5iVXB3NzJ2eEk1LV9Cb0t6LW1rQUZVSHoycEtud3htY1VQbWtYck9QOVlWUXY5UWlpS2t0RFgyNGR2Q2xq?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-12"
-      },
-      {
         "titulo": "Opinião - Ciência Fundamental: Não existe agronegócio de sucesso sem ciência forte",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3NMTUx3dUdDamlKNjJEc240UXV2M3Qya3ZQbXhHVlVzYnM1aDQwNTRUQ1ZObk1Gb2xXTlFMYkdVU1JXSWM5UEh5Q1hzV1hvOVRHS05FMFotS0VwY3dzUlVDVVZBUmlvd1NrNTlobFBTSTJYM3BYRk5aQ2I1ZGlJRmJHcHRRZU5vcUJITlM5VUlLY3BEc2NkcnFmRmludFZ1M3lXaDFCUlNuVjRtWm5FN0lya1QzZ2w0ZG1nbENn?oc=5",
         "fonte": "Folha de S.Paulo",
         "data": "2026-10-14"
+      },
+      {
+        "titulo": "Brasil abre 700 destinos internacionais ao agronegócio no valor de US$ 4 bi",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWTRtbkhLeEpFUm5ZZ2puWWpxYXNvNWc4YmppdThJbUJxQWJhZjlFLTNCMERiVUNTQWhVaUV1MUVraDZHQURITTJvR1ZqTDBVWlkxV2YyRTMwaUQxLVFUTUxUS0U5Q21KTTBhVUUxMGtXQXJBRC1uMGJlaUlHYnVTM1FaNUxCN2swQTJteEJxMzAyYlR6U3Qwa1Q2d1RLX2g4WEFIOTdSNHA3WE9uUXc?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-13"
       }
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Indústria de alimentos e bebidas do Paraná aposta em tecnologia para a",
+        "titulo": "Indústria de alimentos e bebidas do Paraná aposta em tecnologia para ampliar produtividade",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDFUMHVENWU2R25QcHJrWWNnNTdFNjJkV2tKOWVxT2I3NkhhWkxNRTNuM3hwNk0yVnhWTmkzTUpCWDU5U2JWWGEtRGl3M1VvbFVORUtaRk9JVHJsS2xwRm1ReDk1ZG5nNFU5b21OeUR3VjVBeUJNbHlaSE1TWWtFZ1dtV1FCTTZoelJQd0l5VEhGNldIN3RuaW5DaHd2Q0ZzaTFXdHZJbHJEQ2JtSVFsV1I0eWliY0lGaEZyVzBEVzJQN0JvOXpPRTVzVlRTX1MzdDI0?oc=5",
         "fonte": "jornaluniao.com.br",
         "data": "2026-10-14"
@@ -124,12 +124,6 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
-        "titulo": "Data centers arrematam toda capacidade ofertada em leilão de acesso à rede de transmissão de energia | Café com ESG, 08/10",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZkNYRGtHVTRDNFl0VV9QMHotbTZmdzFWTHNtSFBOODRjaDBpNjZEMWo2b1B0NnluT1B4anktaV91RzJXSERMT2N6dE54SkZ4cF9ydTd5Tlk2enZMb0VHUEI2S29VS1pRbkpXM2xkak1uREUtb1dTVk03YkRzYWlrcGNseGZnYk96LUlyUXRvTXRlMEVxckFlSDktQ1BieHBEWnR6UlRzVndQdUxvUG8tNnNJUnAtaEJ2RHFrX01WN1N1dTNwbXY3ZGw0cFQ?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-10-08"
-      },
-      {
         "titulo": "Eletrificação cria nova corrida por energia no Brasil até 2036",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0tmUHNSYmNoamhXYmstUndWMkdMX1lxUXJOZEo4QjZjTDFMSUtqM1hvdlJScnJiY2VfdWJBZ1FSVVBKTHZoUXlMY0hNZGJSd0dGdGtTVGtidVdCbWJZUVdvbXRpMGEtenJmNU5LTDZnNTVHc3ByWFY5NFNuRC1GZDhLSy1Kbkh5bUhNUXlaNWMyLUJQRkh3ZDRaZXJkRkhnNnQ3dk03eWZZSG5UUE9pYTE0VUd4amZoMEE?oc=5",
         "fonte": "Agência eixos",
@@ -140,9 +134,21 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2lsR1h5MTh3U0VZandSYnFwQWZpTmhDajFxSnhhZXhGQ1BBSTI5WDJ1N2YwS0c0RW5CM0l3SHdGZ0tkaGJaZDBQX05WSUpUbkY2YVBFMTJRZkJrSXJ3b2VsRERGVGxlS0dJNlBxQUtYeW5ZMzhJUnBmTktFbkFrN2hVUW5KV0J1aFpLSDFjb29IbzF3R2c?oc=5",
         "fonte": "BNamericas",
         "data": "2026-10-13"
+      },
+      {
+        "titulo": "Não é a Taesa (TAEE11): Ação paga bons dividendos, mas não é a favorita do Itaú BBA; veja as elétricas preferidas do banco",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnptNkhEVXF1bEs4QUdDOTVIVlpfQWJHTU0zV0FDZHcxckVfZERNZDNGejQ4TmdnMzBtOFBMMHFVbjBaU3RHNjkydG1DVk0tX1NKbTZfN3V4NGpOWFQwNVFqM2w5YW1oQnhwOHN5OGQyYjdZSkk3Q2tnYzRob0xDZjZaS0FMVWVhT0xWY0txYS1HMEZhdEs3bmd6UzB5Wm1nSzNoNTlvQ2lmUVdRM0FuZ3hIdFNqaWZFTXh2djJva0lQdXM5ek5Pc2x2QzdXX0l0S1hvY29QYnZUQWRDUUpDaE5CRTBXQkpUb05FMDZQQXRZdw?oc=5",
+        "fonte": "Seu Dinheiro",
+        "data": "2026-10-09"
       }
     ],
     "solar": [
+      {
+        "titulo": "Geração distribuída de energia está em crise — os fundos vão às compras",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkZtd0lnNnJZV2JPV2lfYUFTN3hmWFZWOTVwOFhHTElIQjhwdVlFdnBudHZweW0xQ3FBb3ZicEhsd2N2ZkJkLUg1VTdNWjUtRnRwTElUUThidmJGQ3YxZW5kQjJrbGUxa3Z0ZFNKVVI0WWJ0UGY1YktLU3J4RVZXYkNxVWd5WjVvUnczb0RQZURMSHpnODdOWDFPaEJpaThYYWUzZUhjN0JmY2tGYlAyX3JacEJoZFpnT1JHUEJkckF1aUN6SHRidUhCbXc0RXpJdUpDOA?oc=5",
+        "fonte": "Capital Reset",
+        "data": "2026-10-13"
+      },
       {
         "titulo": "A eletrificação com energias renováveis é a chave para atender às necessidades energéticas do mundo",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUENidXZzTVZKRE0wVVM1T3BfYWtXTkpVdHZOQU5Jbmx4cjRzZnVzNTF4ekNTQmNla1I2MmxWWmx6TmR2bzMwOXNSekZONWlEV1V1czYxMll6NzVhdVJwT2hlT3FFWnZCRzBQTzEyYl9YTUtucmlDOWxvWnF6aXlxcDJXX3h5bFVHNFFQTHFMb1BYellJVHhlOFZOdmFVREN3bWxXREtxaVNVWlh3TXZTVjdFOEdXUGE0?oc=5",
@@ -154,21 +160,9 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2hOS3A4anZQenVieHRjTU8yTFZneXNBcjZzdGk4d3lWdEVMZTRLemo5Q20yOTJyRkNQWVBvNzJucFU1b01hYllRZV9KMlJNR3hwUmU1X0lfQ3dLTnRMZ0dCVHo4LXVGM0dUMldFcXdQZEFjeW5WR1ZVQ0wzMVhhc1JPNXQ0YzZsdllRZURFRVBmU1JQX3Zpa1JGTThIOWJmZjdBUEYxcw?oc=5",
         "fonte": "Times Brasil | CNBC",
         "data": "2026-10-09"
-      },
-      {
-        "titulo": "Geração distribuída de energia está em crise — os fundos vão às compras",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkZtd0lnNnJZV2JPV2lfYUFTN3hmWFZWOTVwOFhHTElIQjhwdVlFdnBudHZweW0xQ3FBb3ZicEhsd2N2ZkJkLUg1VTdNWjUtRnRwTElUUThidmJGQ3YxZW5kQjJrbGUxa3Z0ZFNKVVI0WWJ0UGY1YktLU3J4RVZXYkNxVWd5WjVvUnczb0RQZURMSHpnODdOWDFPaEJpaThYYWUzZUhjN0JmY2tGYlAyX3JacEJoZFpnT1JHUEJkckF1aUN6SHRidUhCbXc0RXpJdUpDOA?oc=5",
-        "fonte": "Capital Reset",
-        "data": "2026-10-13"
       }
     ],
     "epc": [
-      {
-        "titulo": "Governo brasileiro libera R$3 bilhões para construção da Ponte Salvador–Ilha de Itaparica",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYzc2RWVHOGVTMFJxSUg4X19XZVh1M2szeDRnWkg3WUJkS0x1VUJyZVNLUFFIb1FvMS1HWlRMUVlsQTFOUlZOQXdVWVkwalBXa1REUTlodllMQXBkOF93WGtjSUhma1ZBYUlVd1hZd05vNTRmOHREcHlSdHc0b2cyVzB1YXB0SzM3bmpiSFQxaXJQZnlpdDA5RWdKWHNGS296SHQxWDlHVERYUDhaNFpibDNzMndyLU5sZVp5NlBSZFdqMTZI?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-10-14"
-      },
       {
         "titulo": "Depois das urnas, infraestrutura hídrica entra na agenda do próximo ciclo: Brasil tem sete anos para avançar na universalização – Jornal diadia",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQnQ1SUtlSjBQRy1LeDFlc1U5Z3VnNnB0Sy1UUE96QUtlemhBQlh4TElSbTlnQkl1UF9mSkZGZ0V5Z2gzdXlHYjlOQ041eG1mYkVzV01tbzFXS1FFRjBPcU1KNndLMEZRN3BHM2dwWmJaNmMwdkExN1Iwb1oxMEl0dE9abG51TlU1VkZUaWpBNjRPTmRYOXg1RG5qMjB3LWpJZ3pyVFZNcmVMbzVuSDRHcGpnQXZlRFJaVGQxQ3F6elB2X2ZCVlkzSFVLa2s0N285eDhPMGtEQ1NXQkxDMkFJUnRtbTBraV84enc?oc=5",
@@ -184,31 +178,31 @@ window.NEWS = {
         "data": "2026-10-08"
       },
       {
-        "titulo": "GLP-1: aumento da demanda no Brasil redefine mercado de saúde e medicamentos",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFByemU2NGVaU3diWk9LbzI2WFllUnI4STd3VEdHX3BQT25KaUVaYzRUcHdTYmVsT3BDV0NRRlkzU0NoNGVFMGJGLWpNOXdGazVZbTN2ZWV0WGRhbE5XZEwyNkczcno4eVpHZ3FpNmx5eHhIRW1W?oc=5",
-        "fonte": "Safra",
-        "data": "2026-10-07"
-      },
-      {
         "titulo": "Geolab® celebra 27 anos de história e inovação na saúde",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLW9QdWpIQTRqalNaaW91UUdJVE5YYk43dEs2bGo1LXU5RlplT1ZQM1FkTG4tYTNaLS1aR0pLbTFqcUNuTWhKVE54QWlMU0lyX2xVM29HUnQwYTBrZl9xVVhpVkxzZ0pkOXhBUkFtM0FINEh1eE9PendkdjI2ZWhMOUFKVXY1NjNaa3BacmFB?oc=5",
         "fonte": "Guia da Farmácia",
         "data": "2026-10-13"
+      },
+      {
+        "titulo": "Com 18 lançamentos previstos até 2031, Libbs reforça liderança em produtos para o Sistema Nervoso Central",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOXNZVE1Takx1bS0xUlNiZmZXV2Z1QXZEMzRMNHEtMEtpdGpOcThVOV9YVDJqSFNyWExIeTdzbGk5aFM4cXoyeUtMYjB1SVU2WEJSa1VCcjBNNjhnelU3bzZoMl81MnJZOWhtREVaYUpxV3ZnY0NyRnJfelI4TlVfWFZGU1RnWE93M1BXbEZQZnhkd1pYV2NpdTdndGNxYjVCaUo0TUZWMjBYYTh2WFI3UXBscWl1cFpIZWVQdE5jcUZNY2F4MS1IQmU1NWZOZjljbU4tS04wQjAwd3ZIazJaME9TSU1teGxjdHN4b0NjVXBUNzRyWGo5cDlza2xLWVh1aWc?oc=5",
+        "fonte": "PFARMA.com.br",
+        "data": "2026-10-08"
       }
     ],
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Prefeitura Municipal de Pouso Alegre",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51dnhPMzVmb0tQekxUR1M0MzVWR2hrMnJSVDY3R1lmTDRtZFg0Zjc0OGpxRHBhTWFBRWVobGVDNlB1SWFaQkNGMjIyZDR4eWluX3Z5akxJTUVOeVdPMUxGRi1sd3E?oc=5",
-        "fonte": "Prefeitura Municipal de Pouso Alegre",
-        "data": "2026-10-07"
-      },
-      {
         "titulo": "China quer ir além das commodities e mira investimentos em tecnologia e indústria no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXdCOGdKQU9zZXJrT3pvSGFlUlExUDJRQWdJQnFfSGEwcExIQmc4WEFiaWxEOURGRUFGZUpDd0tOYVpDVkt5Z25vYlphOUZKY3RqRk1BVUctbGFXWW9LNkVXV2RLS0hlbnJvTW4wNUFZRHM1RmdTcmF4bXR4U2N1cjVuNUZhXzVYUDJic090d1N1YkwyMGNpY083dDZ6aHJrWk12UDBzNk12dFFPblRKREtrcmVlWE9jejJnLVhrVnJqOThpdWNIaXotTFA3akpJdnlF?oc=5",
         "fonte": "Estadão",
         "data": "2026-10-09"
+      },
+      {
+        "titulo": "Prefeitura Municipal de Pouso Alegre",
+        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE51dnhPMzVmb0tQekxUR1M0MzVWR2hrMnJSVDY3R1lmTDRtZFg0Zjc0OGpxRHBhTWFBRWVobGVDNlB1SWFaQkNGMjIyZDR4eWluX3Z5akxJTUVOeVdPMUxGRi1sd3E?oc=5",
+        "fonte": "Prefeitura Municipal de Pouso Alegre",
+        "data": "2026-10-07"
       },
       {
         "titulo": "Mato Grosso do Sul chega aos 49 anos com indústria em expansão e novos investimentos",
@@ -239,12 +233,6 @@ window.NEWS = {
     ],
     "maquinas": [
       {
-        "titulo": "76% das indústrias com dificuldade de crédito apontam os juros como o maior vilão, diz CNI",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQNE1oaTdTWGlOR3Q2bFJINzJHODRRWGVGLVJxUTBQLXFsTFM3UndvVW4weHlQa0x4Q1M1NXlaejJzaFFzTXVLTHFGOUY5Wl9DZzZuQ0VGNy10aE9raF9PQVh1TVF1R2hxS01uYUpJTS15czFOUDdXbXBqNXh4ek16ekRKTm11YmhLSElTenlBcGpZTmt1Y1Zuc1FHdlFrQ2hublhhVEpNc2lIZHNZN3Mta2d1X1BVM3N1cjh2U3VZbVNlbFZ4VHJIZlcyRklfblpRNVRIOHdoU3REYm1CdUlVQlZjQQ?oc=5",
-        "fonte": "Agência de Notícias da Indústria",
-        "data": "2026-10-09"
-      },
-      {
         "titulo": "Indústria quer ampliar capacidade, mas incertezas sobre trajetória dos juros faz metade delas não buscar crédito para novas máquinas",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQXdOUHpYZXgtTWhtRklVaVlCZXZuV19WQzZTdENUdWFGU2pveG9yWnBWSE5KVk5oa2ZMcmo3RV9WNThVWlZDYm9RRHlWWnZfcndTV2tidjUxN3JCdlRWTTdhVmZQUnBUZzBmcFhnUml3WlkzSnhoTWRwb2ZzYW1XT1haZUluV2dGVk1lTDQ4VWZKcUlDQTVHNFFNck5mTnMxYV82QkV3aEhOZWZndXd2Um5RaXpWQVZIeVQ2Rkl4eEs3TEU2YkZxUXloLTJ4eWEteHJuQXdCblY2dUtjR0U3U3A2LVlmVHV1SmsxQWpCMUVqbUdYYzI3ZHAxZldpcTMzcG0yWHFfVkIyQmZNOEVvN09ESmtNS19l?oc=5",
         "fonte": "JC Uol",
@@ -255,6 +243,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkgwdzhUVGd0VElHdXRCc2VyU0tFWnY3X2JQSXlWb2RuUUtmZUgtUFhFZF8wTmFnZGdqN0RsUFQtT1NIZ3l1Q1g2YjNTUDlOUjhZX29CSUQ5RTRGekJzSzdhMUs2NnBHZnNZR1pjOWN4c2RUSzZORGFnbWs0TFJ0MTdsWFdqWVZ6ZFNMRVNyZkllcHZDNW9Meg?oc=5",
         "fonte": "Monitor Mercantil",
         "data": "2026-10-14"
+      },
+      {
+        "titulo": "Abrace: custo de energia elétrica respondeu por 48,2% da inflação de investimentos em 26 anos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHhCeU1jMFAycGEyZTVPbXB5eXQ4MjgxbUhOTDlrQUt6cjhicmo1UDNrQ2JOOEVoZEJHOVdIa1hETHU4UjhIZHJ0WXdHSUMzeVlxLXVDOHhXd25lZG9Cb2dCSU5ac01MYTMzbXNIby10RkQyQ2pOUjQ3NVhhNnhHb2xpR3ZMSHFSMlVWQzdvY2xxZHkzT0MxUmgxMGdhSDVPaEpqUVVSNDd0Z1BRVkVlQy130gGyAUFVX3lxTFA0eEJ5TWMwUDJwYTJlNU9tcHl5dDgyODFtSE5MOWtBS3pyOGJyajVQM2tDYk44RWhkQkc5V0hrWERMdThSOEhkcnRZd0dJQzN5WXEtdUM4eFd3bmVkb0JvZ0JJTlpzTUxhMzNtc0hvLXRGRDJDak5SNDc1WGE2eEdvbGlHdkxIcVIyVVZDN29jbHFkeTNPQzFSaDEwZ2FINU9oSmpRVVI0N3RnUFFWRWVDLXc?oc=5",
+        "fonte": "Folha PE",
+        "data": "2026-10-13"
       }
     ],
     "mineracao": [
@@ -279,12 +273,6 @@ window.NEWS = {
     ],
     "papel-celulose": [
       {
-        "titulo": "CMPC em clima de indecisão sobre megaprojeto de celulose no RS",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMGJIU0JsU1hsVkJFX1JfbzQ5TXY2anJQbEZ6SU03U1FCdC1wZTVRTmxfVEFHMEozRmRLZHFla2ZXWHZHZmEwWlFGZ2JaUkJQN2Rnc1NyV0JSN0hNa3J3Nm1oQXVCZnlLLW1lZzd6eGZTYjJjNGw3dUQtUnV5azN6UC1DMXFGWFRCQk5wMGNNRTBLNkxJX0dtbEhITVp6dHBfUTFXOEV5aWxhbktaMmJPWA?oc=5",
-        "fonte": "Extra Classe",
-        "data": "2026-10-07"
-      },
-      {
         "titulo": "China quer ir além das commodities e mira investimentos em tecnologia e indústria no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXdCOGdKQU9zZXJrT3pvSGFlUlExUDJRQWdJQnFfSGEwcExIQmc4WEFiaWxEOURGRUFGZUpDd0tOYVpDVkt5Z25vYlphOUZKY3RqRk1BVUctbGFXWW9LNkVXV2RLS0hlbnJvTW4wNUFZRHM1RmdTcmF4bXR4U2N1cjVuNUZhXzVYUDJic090d1N1YkwyMGNpY083dDZ6aHJrWk12UDBzNk12dFFPblRKREtrcmVlWE9jejJnLVhrVnJqOThpdWNIaXotTFA3akpJdnlF?oc=5",
         "fonte": "Estadão",
@@ -295,9 +283,21 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFlyc3Y2Q09FdWh1aVlUQkVNTE10dTk0M2xiSkNXQVdXZGc2ejFqRGJQNXNwYWFvenVOX1FkcjlXWV9BMnNsbU9lQjk5OW51YUQyaFNQekdSdW1OUFFZNm9HWjRHaE9xYkdBWFVDQ05UWi1kM2hYX0c1di1mNFg5X0xKSFQycDJoS19FU1NyWXhIQkwyV05UTQ?oc=5",
         "fonte": "Tissue Online",
         "data": "2026-10-08"
+      },
+      {
+        "titulo": "Área de florestas cultivadas cresceu em Mato Grosso do Sul, diz Ibá",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdENqV29xTmJnYzdIbG43dFZRM2F6NFFvUWtwaFlhSE12dHV4dmJZYl9CdEdsQmsyU0NpNEpCc2xuaEZrUmFvaE00bW43cEwxOGRDa29XT3YyMXMtN1plYzNPY0RueEhkYm9RUC00MVViekRFcGRiaUt1WFo1QnJ2eG9uVWI2WlgzYUdKOVVZTUYxNHhmNExZWmw4OHk2SzlvMGx3?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-09"
       }
     ],
     "quimica": [
+      {
+        "titulo": "Linde, odisseia de 101 anos: a história da maior empresa de gases industriais do mundo",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0JieDgwUmxrelZmNWp4Z3FmT21JM29UR1dPUnYzVS1HNzJ5M2pVVzlGVDRYeXNVUGR4Y2c4YmJBTnpKZW9CNVphMXg0YXBLcmJNRWl1bjZILTQzeTl5SU0wS19ZX1JLR1lMdXZ2VkxmWjQyYUdzNUpwTzdtWW9CNmp4dDIyZW4ySmtoM9IBkgFBVV95cUxOLWVaQjE0RGhfWFV0dzFFY1ZtVGVNMW1pQk11azExWUdsZjFPX1dyc3F6djBoZmJPcUUyX1dFeXNnSWNZeTVvZEtLYWVqY2txcXNxeFdTRXBKWnFuSm5mVjIwdVIzUm41Mk9yQWxfVm5nZUxxZExsRmtpTnI4YlVLUDAxS3pWcGlhakR1ZE5BTDJRdw?oc=5",
+        "fonte": "Nord Investimentos",
+        "data": "2026-10-14"
+      },
       {
         "titulo": "AUMENTAR A COMPETITIVIDADE É A PRINCIPAL RAZÃO DE APOIO DA ABIQUIM AO LEILÃO DO GÁS MARCADO PARA O DIA 22",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTjNOV3R6UmFJNzVNVmZJeklsRGRDR3lQaXBHT3RvMmFOTTl2ODJIa0dnSkJfWHhRRk16ZExhVWlQZXM4V29QWUh6R3JhRWQ1LWR5M05HQS1Md1J3SHB5UHVyS0tNX0JlMEdQQ2dRN2FhcmdvRDFyRTFWSEFCUE1DUXVwTEpjTU9KdU4xVWJEeUhXSnNjYXBWVGg2Tl9OR1M4ZklQT0NLclB6NGdBYV91b2hfdWxuRENvRXlraEZNQ3BnVmdURlFLWEMxQWVkNXJS?oc=5",
