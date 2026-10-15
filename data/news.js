@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-15T14:02:01+00:00",
+  "atualizadoEm": "2026-10-15T18:57:07+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -110,19 +110,25 @@ window.NEWS = {
         "data": "2026-10-14"
       },
       {
-        "titulo": "Santa Catarina no mapa dos marketplaces",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1YX21QWDhXNUcxMXdzaXhTRkQwTWlLcVVmYWZxWHdKSmRJV25QTnhTdndrMmxnTmg3TzQyOWpaRjVvQ0ZSMmtZVHR2ZHlmVmN0ejNVTTZsYzVnLThma2x3M05pek5Jek9TU3lPb1o3WTJ5UHpMaG5LV2FBQmhfUWs?oc=5",
-        "fonte": "Insane Championship Wrestling",
-        "data": "2026-10-12"
+        "titulo": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW8ta3ZaNUtPTTZNaG1XTzBuemMyLVNTcHdNRG5CTnR2T3JIeVFtSFJvTU13U3l1X0w3QXZKUWJ3ajZqcjlZOUJnb2dnOUR0UXYzVGVFTlRUX1ZlOHZ3OXRNWldJMFQtWXhaWHBwZ2pNaHhzVGpYY2lFV0Y3WVFkZHRpdmVoelk2ZmtDUTBvcV9menJzeGRBU2RjUXRWRnp5eVZvUFpLY1hwSUVFZXVkSGxuUTlYempFSTFKT3JDalRGVzg?oc=5",
+        "fonte": "Revista Oeste",
+        "data": "2026-10-11"
       },
       {
-        "titulo": "Prioridade 10 chega ao Nordeste e prevê faturamento de R$ 265 milhões no ano",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUFIydjBTRGNKNWp6a08tSk45aFlHaGlQYmwydDVvaS1wOV9FV0g1TkZuOV9hMGFwWXZEaDdTMnFsSkNJTUNSOUp6OVBOTkp5dUNQV1dLd3pYNGNTYTBwNmNFUl9kNzcxc051dFZmUy1qZzdSbURjNDFuY1JfMF9VYnFMSXZKekdtM0VQUmUzN1VyV1N4Nmt4d3BONTZiMU9nZ2tsUDF6WTN0MVdmNVBsRlVhdGk5OVBrVEZucWI2cWVENHM1N0VKcjVaVms1Tno3Q0h4ZtIB1AFBVV95cUxOUFIydjBTRGNKNWp6a08tSk45aFlHaGlQYmwydDVvaS1wOV9FV0g1TkZuOV9hMGFwWXZEaDdTMnFsSkNJTUNSOUp6OVBOTkp5dUNQV1dLd3pYNGNTYTBwNmNFUl9kNzcxc051dFZmUy1qZzdSbURjNDFuY1JfMF9VYnFMSXZKekdtM0VQUmUzN1VyV1N4Nmt4d3BONTZiMU9nZ2tsUDF6WTN0MVdmNVBsRlVhdGk5OVBrVEZucWI2cWVENHM1N0VKcjVaVms1Tno3Q0h4Zg?oc=5",
-        "fonte": "Mercado&Consumo",
-        "data": "2026-10-13"
+        "titulo": "Hisense e Haier negociam fábricas de eletrodomésticos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalk4MlMyRE5GNWlFbUpsYlVfNXdUS3YxalExeXVqUkRHa2FBZjNRSUFON0FxR2RzUHdBaG5OeEpWSERZc2tMeEdPNHNWN2N0enNQUmo3NFNmNm1PZUlLQ0Fsdy0wQkpWV2ZSamxvM3FzQ0FjdFN2MXZsT05FVURjY3M0N2NCeWNMRXdxcW1YZ1BSSjRlWWc?oc=5",
+        "fonte": "allconnected.media",
+        "data": "2026-10-14"
       }
     ],
     "energia-gt": [
+      {
+        "titulo": "Setorial Setor Elétrico e Saneamento | Outubro de 2026",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRG0tLXYzYmE2dVJXa1BFY2pSRHo3T2tYektLQlZuWTNJdFdnZG9QaEREYU01TS04WmRFbHcxY2NnVEVfMmx3NzNFXy1wWEpYRWtKUFBFQlF1SV9uT1BBUk5yazJFaXZRT3RMWWpMR29JRGROWG5YX05ZMzR2UVNoN3psTE1pMnA4RXoycEQzdk0?oc=5",
+        "fonte": "InvesTalk",
+        "data": "2026-10-15"
+      },
       {
         "titulo": "Eletrificação cria nova corrida por energia no Brasil até 2036",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0tmUHNSYmNoamhXYmstUndWMkdMX1lxUXJOZEo4QjZjTDFMSUtqM1hvdlJScnJiY2VfdWJBZ1FSVVBKTHZoUXlMY0hNZGJSd0dGdGtTVGtidVdCbWJZUVdvbXRpMGEtenJmNU5LTDZnNTVHc3ByWFY5NFNuRC1GZDhLSy1Kbkh5bUhNUXlaNWMyLUJQRkh3ZDRaZXJkRkhnNnQ3dk03eWZZSG5UUE9pYTE0VUd4amZoMEE?oc=5",
@@ -134,12 +140,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2lsR1h5MTh3U0VZandSYnFwQWZpTmhDajFxSnhhZXhGQ1BBSTI5WDJ1N2YwS0c0RW5CM0l3SHdGZ0tkaGJaZDBQX05WSUpUbkY2YVBFMTJRZkJrSXJ3b2VsRERGVGxlS0dJNlBxQUtYeW5ZMzhJUnBmTktFbkFrN2hVUW5KV0J1aFpLSDFjb29IbzF3R2c?oc=5",
         "fonte": "BNamericas",
         "data": "2026-10-13"
-      },
-      {
-        "titulo": "Não é a Taesa (TAEE11): Ação paga bons dividendos, mas não é a favorita do Itaú BBA; veja as elétricas preferidas do banco",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnptNkhEVXF1bEs4QUdDOTVIVlpfQWJHTU0zV0FDZHcxckVfZERNZDNGejQ4TmdnMzBtOFBMMHFVbjBaU3RHNjkydG1DVk0tX1NKbTZfN3V4NGpOWFQwNVFqM2w5YW1oQnhwOHN5OGQyYjdZSkk3Q2tnYzRob0xDZjZaS0FMVWVhT0xWY0txYS1HMEZhdEs3bmd6UzB5Wm1nSzNoNTlvQ2lmUVdRM0FuZ3hIdFNqaWZFTXh2djJva0lQdXM5ek5Pc2x2QzdXX0l0S1hvY29QYnZUQWRDUUpDaE5CRTBXQkpUb05FMDZQQXRZdw?oc=5",
-        "fonte": "Seu Dinheiro",
-        "data": "2026-10-09"
       }
     ],
     "solar": [
@@ -150,16 +150,16 @@ window.NEWS = {
         "data": "2026-10-13"
       },
       {
+        "titulo": "WEG será parceira da GreenYellow em projeto de geração solar para 54 lojas do Carrefour Brasil",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzZVVTYtblVmVW9qbE9KemFfYm5Wc0QtbWduR2Z3VU9tMUwxOGNKQVJMVzhuUnBBYk85T2MycVV5RWUySVd6M2p5NU1RUm1XdnBhVloySXlzUEpVYVRQdHNQbTBXWXlSMEdPU2hoUFN1dEdNWDBtZUwtZGhTZVJxaQ?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-10-15"
+      },
+      {
         "titulo": "A eletrificação com energias renováveis é a chave para atender às necessidades energéticas do mundo",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUENidXZzTVZKRE0wVVM1T3BfYWtXTkpVdHZOQU5Jbmx4cjRzZnVzNTF4ekNTQmNla1I2MmxWWmx6TmR2bzMwOXNSekZONWlEV1V1czYxMll6NzVhdVJwT2hlT3FFWnZCRzBQTzEyYl9YTUtucmlDOWxvWnF6aXlxcDJXX3h5bFVHNFFQTHFMb1BYellJVHhlOFZOdmFVREN3bWxXREtxaVNVWlh3TXZTVjdFOEdXUGE0?oc=5",
         "fonte": "IRENA – International Renewable Energy Agency",
         "data": "2026-10-13"
-      },
-      {
-        "titulo": "Brasil prevê R$ 3,3 trilhões em investimentos em energia até 2036",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPM2hOS3A4anZQenVieHRjTU8yTFZneXNBcjZzdGk4d3lWdEVMZTRLemo5Q20yOTJyRkNQWVBvNzJucFU1b01hYllRZV9KMlJNR3hwUmU1X0lfQ3dLTnRMZ0dCVHo4LXVGM0dUMldFcXdQZEFjeW5WR1ZVQ0wzMVhhc1JPNXQ0YzZsdllRZURFRVBmU1JQX3Zpa1JGTThIOWJmZjdBUEYxcw?oc=5",
-        "fonte": "Times Brasil | CNBC",
-        "data": "2026-10-09"
       }
     ],
     "epc": [
@@ -205,19 +205,13 @@ window.NEWS = {
         "data": "2026-10-11"
       },
       {
-        "titulo": "Empresa de Rio Grande investirá R$ 15 milhões em nova sede no Distrito Industrial",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPc0RiRThnRVAydGRaT2huaGpkZVR6QXFtN1R0SWJhd2NBNUNIdURFbU1LSHMwUlhHbHRnVDVPZEl4VjdjZXNDX2ZmTHlTWnNJUlZoZ0x4eFJuVktwX0psaERlZ2VnWDNQTVVYSWd0TjFwNVdFc2ZpeEhHcEpmdFZxbVpOVWtPMS11czl6N0xYdWhGcEJzV2NLMjBnRmNsckl6d0ZrSHFFOUlQZTRZS1ZNWmlnM05rdjVLcy1aeW9vRmlTLVV4R0ktQjA1UUJMT0RfdVc2Rl9hY3FaS1NNTjJHSHFLWS10SDZJaHFFeVRic1B0dHVIVUc1cnIxenczQ00tTWloYVZqZXg?oc=5",
-        "fonte": "GZH",
-        "data": "2026-10-09"
+        "titulo": "Indústria de estruturas metálicas investirá R$ 15 milhões em Rio Grande",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX1VzOFM1R0EtbjFUeENMa0xoMmN4Vy1NbWhNTFhFWTBnVG9RdTFvVUNuYXZxT3duV2FreF9McVUwbmRLMDJDS0VhbVhXSlNEUFdhZEV3TC1YLTJ4d3NwZXowUTE0QVRyTnpvNjZKMEhCRWV3Q3o5dlduWVdWT0s4ZTM1QnhkeVB0bGRnRDZLTDF2NVhpbUl0RmZlZU5vRzVIZnN2TklZYzRTOER0RkJXZHNTei1reDVWbVI1dFdkbFdIYjk3VF8xSWxhWFUya3U2Yl9yMnJPMGNXVURSMWhISEk4VGN0ZEhTTXYtVXRfeUdTdw?oc=5",
+        "fonte": "Jornal do Comércio",
+        "data": "2026-10-13"
       }
     ],
     "logistica": [
-      {
-        "titulo": "Transportes prevê leilões de rodovias e ferrovias no primeiro semestre de 2027",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFktV05hN0wzZW1wNUxaSGVtWVlZb1FRZmdPYlRiVWVSQkNPQjE4dVk5eFdxM2xFb2RxT3NWcGJGWHJBbFZId2w5OGQtZ3N4Y0VZSEoya0IwNHRLSzhDaGh1cktGS2RYQVQ4Q3dXVmthTGh1NHUxeDItcUJOT0FqNWxXd25Fd1dBbkJ1X0tNN0Z0bk1tbUhwcmRNYV9WZktQU2FTb2ZldmhnYldiS1M1R2tHNkRwVlBUb1E?oc=5",
-        "fonte": "Canal Rural",
-        "data": "2026-10-14"
-      },
       {
         "titulo": "Porto de Paranaguá faz primeira conexão do Moegão com terminal",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkU2NjdrLWEyZW9WVGFzcDhQd29HbVZUYmNDNUpIYTBvWmVpSHVBMW1KU3ZnUkN3ODNwWGNPQzZ4VV9vNjZRMkZERTRUQ1ZJWURvVlRrXzdmWDRBekQwbkY0NXVZLTVjQ0JvbFZUVS04WC1oMV81azVlaFR4RDhVZWxHb2JjUUI2bzBjaUJfZVlZMnZna3NFbHZLV29YelR3?oc=5",
@@ -229,13 +223,25 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVrbVJ5Ump1QnhOYlhza2tUd1FQdVUtdFdRdkNLVE5zdXA0aGtJd0p5RUxiNkQ5RmFteTVCYXdManNsdjhjUEpZN0pZQXRQbWVnSXRMajk3bXdEVXNKQlVjbDNrNDRqUHdpbHppMG5iVXB3NzJ2eEk1LV9Cb0t6LW1rQUZVSHoycEtud3htY1VQbWtYck9QOVlWUXY5UWlpS2t0RFgyNGR2Q2xq?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-12"
+      },
+      {
+        "titulo": "Presidente da CNI cobra conexão de portos da Bahia com ferrovias",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekdkRVRma3ozSXQzSzloQjZJNlczYVlyakNYZ196bjd4VEREbjhZR2hEdV9BSWZhOU1CbmZEQjlqMmFUNjRmLXAyVTJEcThzS2k1eXVlQjZFYmhCa0dhOWRIcmNyWjdJMzI3cXlhZktTZ2loakk0eXlvTTd6Um5Ba0xzSFN2QkVOak15cFVqSFdNWVA2TnVDc2JZTHU?oc=5",
+        "fonte": "Política ao Ponto",
+        "data": "2026-10-15"
       }
     ],
     "maquinas": [
       {
+        "titulo": "Energia cara responde por quase metade da alta do custo de investir no Brasil, aponta estudo",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2pzaFp6MVdVajgyRURtOU8xcmpxekw0OXFiWTlPeXYyelNoVDlVNndDUDdCcWZiaXp3SnZFWENVcGgyYU1fYWNKNmtCN2o5aUFXSTdmcTlMMkFtQjVUUE1VcnY1UTkxT2Vwam51bk5nd25tN3JubDNtcnJRaEdaRDA3UmRlOUFqNjdHZmNneC1vVWlMaDhrZ0c5NnNJclN4ZTlaajNGX2hBQUhDN0NublZNMC1iVC1XM0NteDB6TTg1MUZ3?oc=5",
+        "fonte": "FIEMG",
+        "data": "2026-10-15"
+      },
+      {
         "titulo": "Indústria quer ampliar capacidade, mas incertezas sobre trajetória dos juros faz metade delas não buscar crédito para novas máquinas",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQXdOUHpYZXgtTWhtRklVaVlCZXZuV19WQzZTdENUdWFGU2pveG9yWnBWSE5KVk5oa2ZMcmo3RV9WNThVWlZDYm9RRHlWWnZfcndTV2tidjUxN3JCdlRWTTdhVmZQUnBUZzBmcFhnUml3WlkzSnhoTWRwb2ZzYW1XT1haZUluV2dGVk1lTDQ4VWZKcUlDQTVHNFFNck5mTnMxYV82QkV3aEhOZWZndXd2Um5RaXpWQVZIeVQ2Rkl4eEs3TEU2YkZxUXloLTJ4eWEteHJuQXdCblY2dUtjR0U3U3A2LVlmVHV1SmsxQWpCMUVqbUdYYzI3ZHAxZldpcTMzcG0yWHFfVkIyQmZNOEVvN09ESmtNS19l?oc=5",
-        "fonte": "JC Uol",
+        "fonte": "JC",
         "data": "2026-10-13"
       },
       {
@@ -243,12 +249,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkgwdzhUVGd0VElHdXRCc2VyU0tFWnY3X2JQSXlWb2RuUUtmZUgtUFhFZF8wTmFnZGdqN0RsUFQtT1NIZ3l1Q1g2YjNTUDlOUjhZX29CSUQ5RTRGekJzSzdhMUs2NnBHZnNZR1pjOWN4c2RUSzZORGFnbWs0TFJ0MTdsWFdqWVZ6ZFNMRVNyZkllcHZDNW9Meg?oc=5",
         "fonte": "Monitor Mercantil",
         "data": "2026-10-14"
-      },
-      {
-        "titulo": "Abrace: custo de energia elétrica respondeu por 48,2% da inflação de investimentos em 26 anos",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHhCeU1jMFAycGEyZTVPbXB5eXQ4MjgxbUhOTDlrQUt6cjhicmo1UDNrQ2JOOEVoZEJHOVdIa1hETHU4UjhIZHJ0WXdHSUMzeVlxLXVDOHhXd25lZG9Cb2dCSU5ac01MYTMzbXNIby10RkQyQ2pOUjQ3NVhhNnhHb2xpR3ZMSHFSMlVWQzdvY2xxZHkzT0MxUmgxMGdhSDVPaEpqUVVSNDd0Z1BRVkVlQy130gGyAUFVX3lxTFA0eEJ5TWMwUDJwYTJlNU9tcHl5dDgyODFtSE5MOWtBS3pyOGJyajVQM2tDYk44RWhkQkc5V0hrWERMdThSOEhkcnRZd0dJQzN5WXEtdUM4eFd3bmVkb0JvZ0JJTlpzTUxhMzNtc0hvLXRGRDJDak5SNDc1WGE2eEdvbGlHdkxIcVIyVVZDN29jbHFkeTNPQzFSaDEwZ2FINU9oSmpRVVI0N3RnUFFWRWVDLXc?oc=5",
-        "fonte": "Folha PE",
-        "data": "2026-10-13"
       }
     ],
     "mineracao": [
@@ -259,10 +259,10 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Portal de Minerais Críticos e Estratégicos reúne dados sobre mineração em um só ambiente",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTNPNjEtek85Z0ZOcXY4UWdoVlF2dEFJckZUSi1raFhrRW10M0RXdTFqZWc1cTlkbGtIUnU0RVBsamRmS3doSE5KWUFXSkJHSGxWMWM4R0tlQlJhZWRsZVJyMjlGemRMY0VFYmJubFU1Z2hpLTVSR18yVHdXTjBUMkprMnQzY2sxNmh2M3UyQUJqVXpqRFU1TFJ6dThEY3daZWtDRlJBNnBiUm0zZ0VBaDVUOWJPcDUtbmhjUFdxM3NxdlV2UUV4ckR6dVY2bERi?oc=5",
+        "titulo": "Novo portal reúne dados para orientar políticas e investimentos em minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbU9SaGVVc1RPNEMzVzRTYXlwR2J0OVozVGZHQk9WTnVvV3VtNHJNTlNXWkFoS2ZHNG5ZVC1kaHYyRlBPMUFmUjk3MEs5UWpMclF6cWFPV2FzcjJETDZieXF0NUszY0IxRXNSNmN1ZklnN0R0WFlPRDJSb2cxcEdfaHZibkV5cVZ3VllxbVlyN3o1ekdIR3dYb1FtZ2pLTG1oYmhDU0tOcUEzTEhIZUJYYWlMT0Q0YndVR1ctRjk2WDFsUFNrR1B1NDlrNA?oc=5",
         "fonte": "www.gov.br",
-        "data": "2026-10-14"
+        "data": "2026-10-15"
       },
       {
         "titulo": "Minerais críticos atraem R$ 39,4 bilhões em investimentos no Brasil",
@@ -313,6 +313,12 @@ window.NEWS = {
     ],
     "saneamento": [
       {
+        "titulo": "Leilões de saneamento passam por choque de realidade para destravar quase R$ 17 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWQzay1sdDdPTDdUQnRCbE5KZGcxeGtoeHpGQ2xEUU1tWEIwb0U1cmE5RENZT2tVMmxVaW81cGk5S2JhQWItX21EQUppS0FmRGhGX195Z2pJYmVYRktYNG91M1lDaTdYcGhsb3B3dnlzdHpGSHNMekw2eUZpUVMtNGdTSnRFMzdsbmFrY21NcFJKY0h6NTREVmp3WnotUWVXTEdfQTd4REpMMWFPcGxrZmNoaXRUcnNqcjlj?oc=5",
+        "fonte": "NeoFeed",
+        "data": "2026-10-15"
+      },
+      {
         "titulo": "Cagece lança edital de PPP para universalizar esgotamento sanitário em 104 municípios do Ceará",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNElyTXNLYzZnYUQ4aWRObGhtelQyVVRDSzFMM1k0V1p6YW1EZHJJeUNrbW4xNC1uRzhQX2F6VDYyZnlTUmpJQ2NmT3kxdGc1TU5kQWVrallOT0NQcFRRQU15elRwNmdwSmkzREk2bERxU29ZMlJXcDFEOGUwTEc1SHBGTGhyUngwSU1wdW82UGV2ZmRnVGM5Zmo3N3JJWmRldHV2OGdFS0o3akQwLXgyX1Awb3pSVHJ2N1JqVjhB?oc=5",
         "fonte": "Portal Cagece",
@@ -323,12 +329,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkU2R2xtS3dsNWFXUW5uWUdldHZhamVVNDg1QkJyeXA4eG0yT3ltRENqWFJCZ0NQZTF3NWRkWW1tNUtlZXdUVDBLek40azBjcW5lM29BZy1zYXlwZ0xhTkt3ZVFsNEN3cVd0SndlUnhLMGxBRk9paDFqNW9ROGk3aW5Yck14MjY0R2pCQnB0Y1FqeUVBR1RvTVhLSW9kcF9BejFMX0daT2tmN2VqTTlHWDdFZw?oc=5",
         "fonte": "Balada IN",
         "data": "2026-10-09"
-      },
-      {
-        "titulo": "Leilões de saneamento passam por choque de realidade para destravar quase R$ 17 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWQzay1sdDdPTDdUQnRCbE5KZGcxeGtoeHpGQ2xEUU1tWEIwb0U1cmE5RENZT2tVMmxVaW81cGk5S2JhQWItX21EQUppS0FmRGhGX195Z2pJYmVYRktYNG91M1lDaTdYcGhsb3B3dnlzdHpGSHNMekw2eUZpUVMtNGdTSnRFMzdsbmFrY21NcFJKY0h6NTREVmp3WnotUWVXTEdfQTd4REpMMWFPcGxrZmNoaXRUcnNqcjlj?oc=5",
-        "fonte": "NeoFeed",
-        "data": "2026-10-15"
       }
     ],
     "siderurgia": [],
