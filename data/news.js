@@ -1,19 +1,19 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-14T23:03:15+00:00",
+  "atualizadoEm": "2026-10-15T14:02:01+00:00",
   "itens": {
     "agronegocio": [
+      {
+        "titulo": "Brasil abriu 700 mercados para agropecuária desde 2023",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkhYQjgxdkhDRTdDQklLdHA1NjkxS19BaDZ3MUFQa19GM2dRcE93UGlCUXA5Um4wWFlzOWpkdmhINGs5OURFNlpEVG9odVIybkZsYUpPa0tHMndfWGd1cEc2c3QzekN0bkxrb2tIRmFEQTVOOHk4VGZ6OUtoTTlEUTdSSTR2bHRPQVFjd0hSOUkyUDNNT2NFbElNRFhpMV95ZUZkQ2djQnFOYl8xb0YyRHBB?oc=5",
+        "fonte": "Agência Brasil",
+        "data": "2026-10-13"
+      },
       {
         "titulo": "Por que o agro defende equilíbrio entre China e EUA após eleição",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQM2pSTnV2UWZWRG1XbEpFNktfYTRUSkxhRUV6cmNhNEx5M0RrWWx6WDdEZzk5MkVOZ19ULTZ6YzBBN0MyTVc2eFgwZGxkU3pVTFdDdGx4VlJWczIyVElzRloweGhUM3FaZzFmcDJ3LU5yUHNadTU3eFNIVXBhY2p1YU40LVNua1NLdnFZeXNFbC1HemtDMTdyMXVpbDA5dklZbFJBS0UwamhEVTlo?oc=5",
         "fonte": "brasilagro.com.br",
         "data": "2026-10-09"
-      },
-      {
-        "titulo": "Brasil abre 700 destinos internacionais ao agronegócio no valor de US$ 4 bi",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOWTRtbkhLeEpFUm5ZZ2puWWpxYXNvNWc4YmppdThJbUJxQWJhZjlFLTNCMERiVUNTQWhVaUV1MUVraDZHQURITTJvR1ZqTDBVWlkxV2YyRTMwaUQxLVFUTUxUS0U5Q21KTTBhVUUxMGtXQXJBRC1uMGJlaUlHYnVTM1FaNUxCN2swQTJteEJxMzAyYlR6U3Qwa1Q2d1RLX2g4WEFIOTdSNHA3WE9uUXc?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-13"
       },
       {
         "titulo": "Opinião - Ciência Fundamental: Não existe agronegócio de sucesso sem ciência forte",
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-10-10"
       },
       {
-        "titulo": "Sudene aprova 27 pleitos de incentivos fiscais para empreendimentos em sete estados",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWndVWXZudFdpYVpzdlhuTmpzNmJpTVVkQ0pCenFKZThTVWtveDUtLTRTUGRFSlp2ZDkzcGtKSko2R1YydXFWQ2VSdXFCT2JEbVpfR0Qzb2NoeG4wZlMxYVJ3OENVd0ZhMmdyRFBUV2NBdngzLTRmc28zajdfNk5XQ0ZweTd5Uk9wU3ZEMTdjdnNPcWV1cUc5TVhMaEVuQjBUdXZKTzJrbmw0eXduWDhOM09CcTZGeF9hbHdPZlBpcFk3MXV4UkNUNlZoOGtuUQ?oc=5",
-        "fonte": "Governo Federal",
-        "data": "2026-10-08"
+        "titulo": "EXCLUSIVO: Scanntech fecha rodada de US$ 180 milhões; Warburg faz saída parcial",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZWt0VDlxSkZSRmJjSGFxMXdPRXJnUHhqSVlTOEs3SFEzb0RfcFpLWjhVekN2ZmFxUnFqcWZvSC1lXzE2dW8wYlF6M0pHZFR5Umgzcm55VXhXcjlxUnF2T2ptT0lSVDBFZk84V2tiUjVxQTNRYjU0VGFrM1NNTjJsVzMwTTVrcHpMc2ZOXzF1cEVLOXpkQndtWEpuOWNZMkl3WHRENg?oc=5",
+        "fonte": "Brazil Journal",
+        "data": "2026-10-09"
       }
     ],
     "automotivo": [
@@ -84,10 +84,10 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "MPA Cymru pede ao novo governo galês que amplie a construção de moradias e o investimento em infraestrutura",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQQUFBWF9NNTZKVDQ0cHd3SUdtVHRka2R1M2N0b2lHYUVVbU53LW8ybGxrN2RBVXp4cVgxaU02NHVHWlM5eFc2aWhFS3pxM1JaVXMxN0gtM1JsWDFTdGtUU19rdGRUcjg1dGJ6SmVuUGxqMU5TNFBhMVBqOGpUeXNoQVQ0RGY4bnFCZWJDeWE1MUdkVUh1VHluVzIyZl95ZWY5Ql8yaUJrMVlCLVdlZ0FWMndSTW9fbnl4dzFMcVdueFVkdTFm?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-10-08"
+        "titulo": "Como investir na indústria de transformação saudita: guia",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFYWjA3cTA5d3hfNmVLRG5CX1JjQTJ1QTBORTJwS2FTa1locmdnVEtfX2RzREN2SkoyOGVRQ0pNMlljUG5ReUFiaHJpbFB3MTZLR0RuYms1Zi02b2N5NnFxVERCSmJMMV9fczBUOXRsbFVqMWlUN24ydVNNRms5clBwb1Z1MDgzOXNfcDkxWWZWVENpQkZvWDJCWTBrVnE0VFE?oc=5",
+        "fonte": "vision2030.ai",
+        "data": "2026-10-15"
       },
       {
         "titulo": "Desde os materiais até as soluções, o INSEE promove um ecossistema de construção sustentável.",
@@ -130,10 +130,10 @@ window.NEWS = {
         "data": "2026-10-08"
       },
       {
-        "titulo": "Manchetes do dia: Os riscos por trás do leilão de 20GW no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQktucE81UXgtT2EwSlZHRGJlNW05T19tb3YtdHNVazlZZ1RFdEZjTjI3X0ptWDdnLXdxUUMwSTM1TlpEaEpGZXJvbVpiY0ZDb3otd1NJaWxrcVFHMFJUSGx4QjZYZDFHMWhlVHpJR0x6VDlTVXlSdjJXUFlGQndJekJIYUhtSjRRUW1xQTFLOF90bkhLNFNpTlJ1ZHBZTEEtNmZ2Sw?oc=5",
+        "titulo": "Projeto Nova Era Integração - Lote 5 do Leilão de Transmissão nº 1/2024 ANEEL",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2lsR1h5MTh3U0VZandSYnFwQWZpTmhDajFxSnhhZXhGQ1BBSTI5WDJ1N2YwS0c0RW5CM0l3SHdGZ0tkaGJaZDBQX05WSUpUbkY2YVBFMTJRZkJrSXJ3b2VsRERGVGxlS0dJNlBxQUtYeW5ZMzhJUnBmTktFbkFrN2hVUW5KV0J1aFpLSDFjb29IbzF3R2c?oc=5",
         "fonte": "BNamericas",
-        "data": "2026-10-12"
+        "data": "2026-10-13"
       },
       {
         "titulo": "Não é a Taesa (TAEE11): Ação paga bons dividendos, mas não é a favorita do Itaú BBA; veja as elétricas preferidas do banco",
@@ -172,15 +172,15 @@ window.NEWS = {
     ],
     "farma": [
       {
-        "titulo": "Brasil prepara lista de insumos farmacêuticos prioritários para estimular produção nacional",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcHB1R1oyeFA5QjVCcWZpcUZHbnJ1QTVPZlA3WUxpb2JEckFXRjZsLVhkUnZEY1ZvWTZKSzJXaGdwanZ1N0JLbEpUN1RqNWR1SDUwV3hHNC1zQV9GNXFib0R1Z0pIaWN6VFM5RGE4SmdzU2Y1RzFZdVRqV2xoUjlwSGY1YUc1eWY1OHFJZkFwZEREb2VUR2p5NzBn?oc=5",
+        "titulo": "Chiesi investe R$124 milhões para ampliar fábrica no país e mira nova geração de inaladores",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0pnMnpBQVM2NUJGTzJiUFVhSFh5VEhBaGVqQmRHNTNfTGlaV0tkbzlOSVN6VmlSc2tEaTRuR2VhWXAxb3VsLVdqYjN4Z0dmT2pvMWJuMXJrSFdMUU12ZE1yeVI3TFdBX2pmTDlNOUZqZW1zZVRSdDM2cXVVZlNxUFdnanMycHM0OW5EQlJTTEtfa3BrVkVPSzZqUlg5SXJlVGhr?oc=5",
         "fonte": "Futuro da Saúde",
-        "data": "2026-10-08"
+        "data": "2026-10-14"
       },
       {
-        "titulo": "Pesquisa de Biotecnologia exige investimentos para inovação chegar ao mercado",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT1FMYU5OUHQyLVQzQXY4aklxM3pWLXJjb1ZyS3Z1ZGhUU2x2eGpKRncyUFpxemNNemQ2OV83MUVJOXNLVU1iQmZmVXd4YXV2Y0EtTlBtWXY4Y0h6NmNnNzRWM0hnbDJmWHFVQWxHbGo1UEp1Vlc0ZTJpcGE1LXpLNXJDLUg3N0VicGpoN0pjaVVzSldnS0ZnWFlZTGwwcm5WQ0tJekVVdzZEWmNjbG82RkFhQTJhTDVfOWgwR2pB?oc=5",
-        "fonte": "Saúde Digital News",
+        "titulo": "Com 18 lançamentos previstos até 2031, Libbs reforça liderança em produtos para o Sistema Nervoso Central",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOXNZVE1Takx1bS0xUlNiZmZXV2Z1QXZEMzRMNHEtMEtpdGpOcThVOV9YVDJqSFNyWExIeTdzbGk5aFM4cXoyeUtMYjB1SVU2WEJSa1VCcjBNNjhnelU3bzZoMl81MnJZOWhtREVaYUpxV3ZnY0NyRnJfelI4TlVfWFZGU1RnWE93M1BXbEZQZnhkd1pYV2NpdTdndGNxYjVCaUo0TUZWMjBYYTh2WFI3UXBscWl1cFpIZWVQdE5jcUZNY2F4MS1IQmU1NWZOZjljbU4tS04wQjAwd3ZIazJaME9TSU1teGxjdHN4b0NjVXBUNzRyWGo5cDlza2xLWVh1aWc?oc=5",
+        "fonte": "PFARMA.com.br",
         "data": "2026-10-08"
       },
       {
@@ -213,16 +213,16 @@ window.NEWS = {
     ],
     "logistica": [
       {
+        "titulo": "Transportes prevê leilões de rodovias e ferrovias no primeiro semestre de 2027",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQNFktV05hN0wzZW1wNUxaSGVtWVlZb1FRZmdPYlRiVWVSQkNPQjE4dVk5eFdxM2xFb2RxT3NWcGJGWHJBbFZId2w5OGQtZ3N4Y0VZSEoya0IwNHRLSzhDaGh1cktGS2RYQVQ4Q3dXVmthTGh1NHUxeDItcUJOT0FqNWxXd25Fd1dBbkJ1X0tNN0Z0bk1tbUhwcmRNYV9WZktQU2FTb2ZldmhnYldiS1M1R2tHNkRwVlBUb1E?oc=5",
+        "fonte": "Canal Rural",
+        "data": "2026-10-14"
+      },
+      {
         "titulo": "Porto de Paranaguá faz primeira conexão do Moegão com terminal",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkU2NjdrLWEyZW9WVGFzcDhQd29HbVZUYmNDNUpIYTBvWmVpSHVBMW1KU3ZnUkN3ODNwWGNPQzZ4VV9vNjZRMkZERTRUQ1ZJWURvVlRrXzdmWDRBekQwbkY0NXVZLTVjQ0JvbFZUVS04WC1oMV81azVlaFR4RDhVZWxHb2JjUUI2bzBjaUJfZVlZMnZna3NFbHZLV29YelR3?oc=5",
         "fonte": "Folha de Cianorte",
         "data": "2026-10-13"
-      },
-      {
-        "titulo": "George Santoro: governo inicia leilões de rodovias e ferrovias no primeiro semestre de 2027",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzAxTnltbmVJTUEwb1Vub3Rjck9MaFhTM2NNMmpsQzU4SFpwZURjU2pibjk1dmhhbFlIUXM4RkM0d2hGeXR4WmJkSFFvLV9KX1g2T0NsTEI2WmllNkgxb0dxbS1YS1FfaU1LM2p5RFQ5ck03aHBfMUkzcnpiRTVyeWthQjJ4N1dEbGN5U19sb2tvVHI0YzlVWVBoZFlPR0dJcHFkOHJiU1lFbWFtdkhHYUd0R2xyQ0pjWlJ0NGV0enFib1dzZzNqMFFUMDNPal9vcGZGYzlPZHI2a2FaYm9nOE1sWQ?oc=5",
-        "fonte": "Tribuna do Sertão",
-        "data": "2026-10-14"
       },
       {
         "titulo": "Infraestrutura do agro: o que Flávio Bolsonaro e Lula propõem para o setor",
@@ -253,22 +253,22 @@ window.NEWS = {
     ],
     "mineracao": [
       {
+        "titulo": "Minerais críticos já atraem R$ 39 bilhões em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa1o0NWNjVUVGUE55V1dTbkxDaGU0TmJkMkpVQTA0SFRNUkRsMVBORTk1dk1KTlQ3RXdSY2ZIUTFYUTUzYXdRX3pzN09DLVZxWVRwSm55TGVVYi1SWHRIbDJfa1BhblhoWTFuMUJIWHZicGozYktNTDB2WDNmRDhzeFpfT3R3TFU2NHJSekdJWU5rWlVpSE9tS0xVckE4RXFud1poTk5lbFg4elRGX3FLODVocjk0TWdld3pPdjdGZjE1SXZ1RHBzZE00UmtjaHfSAd4BQVVfeXFMT3RIWk1zVDdCc21VSTVyZlhLZDRnOUVJY29qbVVXbTB6TUUwSmFMUzNobzNBcmwxZ0RMUmctRVVVeTZJYXhFRVNsTVMxQm05RTE2Ynk0anVSU2dTOHVFN3BwMmtJcGxwMXdvMVREM04yYmNMbmZnRjRvd1otR0M4N25odnlydHBvX1hiQVljd05EaVM1em43QXYzMkE5Q3VFa0FKZUpWTXNKMjlhQ2d4NGFnTEtVSm5zcWV4cFBwTUtWTURfYXhOU0MwWkUzVTRMZ3RKbTZLbmJOTTh4ZG1R?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-10-15"
+      },
+      {
         "titulo": "Portal de Minerais Críticos e Estratégicos reúne dados sobre mineração em um só ambiente",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPLTNPNjEtek85Z0ZOcXY4UWdoVlF2dEFJckZUSi1raFhrRW10M0RXdTFqZWc1cTlkbGtIUnU0RVBsamRmS3doSE5KWUFXSkJHSGxWMWM4R0tlQlJhZWRsZVJyMjlGemRMY0VFYmJubFU1Z2hpLTVSR18yVHdXTjBUMkprMnQzY2sxNmh2M3UyQUJqVXpqRFU1TFJ6dThEY3daZWtDRlJBNnBiUm0zZ0VBaDVUOWJPcDUtbmhjUFdxM3NxdlV2UUV4ckR6dVY2bERi?oc=5",
         "fonte": "www.gov.br",
         "data": "2026-10-14"
       },
       {
-        "titulo": "França amplia controle estatal sobre gigante de minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNTFRhdEIzWkRUZk04bjVJaTdPV2JNOWxmZzE5N1VGWk1CQlhrdHdEX29BZGdzTFlHaHVwU3o1MWcwMFV0anNtN2xkXzdYTnNmUDNoVUE0TjBjeXltc0NvMzVmQWhTcTVkd01aRHVPYWdKYW4tUEFHZDd1RXlIS1ZjYUoxcHV4aFdqUklUOC00bXJjOGVQV3NoSHV1Y2ZPX1FBVzBZ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-13"
-      },
-      {
-        "titulo": "Quais incentivos existem no Brasil para investimentos em minerais críticos e estratégicos? Entenda cenário",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTJlbzBoSmVvYXlLN0ZEb3FMMWZKZF9yU2N1SktmM0s3R0xmOFlaWXVlWWU4aXhIZ1ZFU3NGY1lZak1YdjlPV2dpSzVDU2RpY24zYnZJZy1VVXNVZUVUbEdoemppR1ZYWFVPUHo2MGY5M01ncFg2X25tUnp3WjFaQUk0eHIxUFc4NVNRQ2g3NFVBWUVvUWdtWEwzUThRbnhFY0ZWWTRTRzk3dm0yWndiSmtNbkpLVndBVEwyazJqTkpUeHcwZVdHRE15TzI1NXVDM3pjUjhXOHQ4LVNhTFR1TlhXMjRhVWF6czYyTDlvUXp5UFFteV9SSTY0MGY?oc=5",
-        "fonte": "Rádio Itatiaia",
-        "data": "2026-10-13"
+        "titulo": "Minerais críticos atraem R$ 39,4 bilhões em investimentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1dIV01ENWVnb1U5MTRYbXdkTTRhVmZEXzV1MVFsbFRfMFowSks5YkJhcmpUVW9WM0E4d0FoVjVVMm9JZ0JBU2JuTElyaTlFYnR6NW5lRllRMkFJRWluZ21JVEZMcGsxTkJsNGFVaUh4YzhBNHlkZVMyWkR1WkstRUp3SXhnaURPREhHd1o2bnJQT2lsTmtWMnBvM3ZXakJjaDc4?oc=5",
+        "fonte": "Brasil 247",
+        "data": "2026-10-15"
       }
     ],
     "papel-celulose": [
@@ -279,10 +279,10 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "Brasil ganha destaque no cenário global da indústria de celulose",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWFlyc3Y2Q09FdWh1aVlUQkVNTE10dTk0M2xiSkNXQVdXZGc2ejFqRGJQNXNwYWFvenVOX1FkcjlXWV9BMnNsbU9lQjk5OW51YUQyaFNQekdSdW1OUFFZNm9HWjRHaE9xYkdBWFVDQ05UWi1kM2hYX0c1di1mNFg5X0xKSFQycDJoS19FU1NyWXhIQkwyV05UTQ?oc=5",
-        "fonte": "Tissue Online",
-        "data": "2026-10-08"
+        "titulo": "Área de florestas cultivadas cresceu em Mato Grosso do Sul, diz Ibá",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdENqV29xTmJnYzdIbG43dFZRM2F6NFFvUWtwaFlhSE12dHV4dmJZYl9CdEdsQmsyU0NpNEpCc2xuaEZrUmFvaE00bW43cEwxOGRDa29XT3YyMXMtN1plYzNPY0RueEhkYm9RUC00MVViekRFcGRiaUt1WFo1QnJ2eG9uVWI2WlgzYUdKOVVZTUYxNHhmNExZWmw4OHk2SzlvMGx3?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-09"
       },
       {
         "titulo": "Maior fábrica do mundo terá ferrovia própria de R$ 2,4 bilhões e vai empregar 6.000 pessoas no Brasil",
@@ -325,10 +325,10 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "Novo edital de PPP de esgoto no Ceará traz maior flexibilidade, diz Cohen",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOM0c3R1A5VlVsR1pPTUJmMGsxNE9BejRzbXhMSWczQUQydVhjTi1IUkpmS1NBbTlhTlJwNGdYcnFoMWxHaGJ2b1Z1VVRpVGpZNGJsSlZuVjFYNDFfd2pMdlVpcWRrWE1qNHVjd2NoMDR2NGl1blFfTHVFdno5UWItQ0hYTGMzQWVGUXFzNE1yb2JXcGtDbFdJTHo4TWh5VVc4dG9MYW44V0FoZmd0?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-12"
+        "titulo": "Leilões de saneamento passam por choque de realidade para destravar quase R$ 17 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWQzay1sdDdPTDdUQnRCbE5KZGcxeGtoeHpGQ2xEUU1tWEIwb0U1cmE5RENZT2tVMmxVaW81cGk5S2JhQWItX21EQUppS0FmRGhGX195Z2pJYmVYRktYNG91M1lDaTdYcGhsb3B3dnlzdHpGSHNMekw2eUZpUVMtNGdTSnRFMzdsbmFrY21NcFJKY0h6NTREVmp3WnotUWVXTEdfQTd4REpMMWFPcGxrZmNoaXRUcnNqcjlj?oc=5",
+        "fonte": "NeoFeed",
+        "data": "2026-10-15"
       }
     ],
     "siderurgia": [],
