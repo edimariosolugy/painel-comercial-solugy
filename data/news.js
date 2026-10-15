@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-15T18:57:07+00:00",
+  "atualizadoEm": "2026-10-15T22:05:55+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -114,12 +114,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW8ta3ZaNUtPTTZNaG1XTzBuemMyLVNTcHdNRG5CTnR2T3JIeVFtSFJvTU13U3l1X0w3QXZKUWJ3ajZqcjlZOUJnb2dnOUR0UXYzVGVFTlRUX1ZlOHZ3OXRNWldJMFQtWXhaWHBwZ2pNaHhzVGpYY2lFV0Y3WVFkZHRpdmVoelk2ZmtDUTBvcV9menJzeGRBU2RjUXRWRnp5eVZvUFpLY1hwSUVFZXVkSGxuUTlYempFSTFKT3JDalRGVzg?oc=5",
         "fonte": "Revista Oeste",
         "data": "2026-10-11"
-      },
-      {
-        "titulo": "Hisense e Haier negociam fábricas de eletrodomésticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalk4MlMyRE5GNWlFbUpsYlVfNXdUS3YxalExeXVqUkRHa2FBZjNRSUFON0FxR2RzUHdBaG5OeEpWSERZc2tMeEdPNHNWN2N0enNQUmo3NFNmNm1PZUlLQ0Fsdy0wQkpWV2ZSamxvM3FzQ0FjdFN2MXZsT05FVURjY3M0N2NCeWNMRXdxcW1YZ1BSSjRlWWc?oc=5",
-        "fonte": "allconnected.media",
-        "data": "2026-10-14"
       }
     ],
     "energia-gt": [
@@ -130,16 +124,16 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Eletrificação cria nova corrida por energia no Brasil até 2036",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR0tmUHNSYmNoamhXYmstUndWMkdMX1lxUXJOZEo4QjZjTDFMSUtqM1hvdlJScnJiY2VfdWJBZ1FSVVBKTHZoUXlMY0hNZGJSd0dGdGtTVGtidVdCbWJZUVdvbXRpMGEtenJmNU5LTDZnNTVHc3ByWFY5NFNuRC1GZDhLSy1Kbkh5bUhNUXlaNWMyLUJQRkh3ZDRaZXJkRkhnNnQ3dk03eWZZSG5UUE9pYTE0VUd4amZoMEE?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-10-08"
-      },
-      {
         "titulo": "Projeto Nova Era Integração - Lote 5 do Leilão de Transmissão nº 1/2024 ANEEL",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQR2lsR1h5MTh3U0VZandSYnFwQWZpTmhDajFxSnhhZXhGQ1BBSTI5WDJ1N2YwS0c0RW5CM0l3SHdGZ0tkaGJaZDBQX05WSUpUbkY2YVBFMTJRZkJrSXJ3b2VsRERGVGxlS0dJNlBxQUtYeW5ZMzhJUnBmTktFbkFrN2hVUW5KV0J1aFpLSDFjb29IbzF3R2c?oc=5",
         "fonte": "BNamericas",
         "data": "2026-10-13"
+      },
+      {
+        "titulo": "Não é a Taesa (TAEE11): Ação paga bons dividendos, mas não é a favorita do Itaú BBA; veja as elétricas preferidas do banco",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOZnptNkhEVXF1bEs4QUdDOTVIVlpfQWJHTU0zV0FDZHcxckVfZERNZDNGejQ4TmdnMzBtOFBMMHFVbjBaU3RHNjkydG1DVk0tX1NKbTZfN3V4NGpOWFQwNVFqM2w5YW1oQnhwOHN5OGQyYjdZSkk3Q2tnYzRob0xDZjZaS0FMVWVhT0xWY0txYS1HMEZhdEs3bmd6UzB5Wm1nSzNoNTlvQ2lmUVdRM0FuZ3hIdFNqaWZFTXh2djJva0lQdXM5ek5Pc2x2QzdXX0l0S1hvY29QYnZUQWRDUUpDaE5CRTBXQkpUb05FMDZQQXRZdw?oc=5",
+        "fonte": "Seu Dinheiro",
+        "data": "2026-10-09"
       }
     ],
     "solar": [
@@ -172,22 +166,22 @@ window.NEWS = {
     ],
     "farma": [
       {
+        "titulo": "Participação do Brasil em pesquisas clínicas cresce após marco legal",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR2lPTFFJdVk2Z2lQbERpaXhOeEJHb25mYVdFaVk5NUFMam1zTE82anpha081eTI1bk84V2JJaHlpRTdvMWlYS1p1Z1JUbEx5ZXJoRlJ1VEZsaGZOQVJRZUFqcEVCUktGSFkxNjZjSWpWaHZTaFhkSlRwZklUN3lHV1QxaDhGajY3WXdKanFBTEM4YWJkaG9jTWl0Q2hDSTY2N3Q3MTRlem83bkI4NFZtTk9PYWRPdmd6NHBkT3dxaS0?oc=5",
+        "fonte": "Agência Brasil",
+        "data": "2026-10-15"
+      },
+      {
         "titulo": "Chiesi investe R$124 milhões para ampliar fábrica no país e mira nova geração de inaladores",
         "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0pnMnpBQVM2NUJGTzJiUFVhSFh5VEhBaGVqQmRHNTNfTGlaV0tkbzlOSVN6VmlSc2tEaTRuR2VhWXAxb3VsLVdqYjN4Z0dmT2pvMWJuMXJrSFdMUU12ZE1yeVI3TFdBX2pmTDlNOUZqZW1zZVRSdDM2cXVVZlNxUFdnanMycHM0OW5EQlJTTEtfa3BrVkVPSzZqUlg5SXJlVGhr?oc=5",
         "fonte": "Futuro da Saúde",
         "data": "2026-10-14"
       },
       {
-        "titulo": "Com 18 lançamentos previstos até 2031, Libbs reforça liderança em produtos para o Sistema Nervoso Central",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPOXNZVE1Takx1bS0xUlNiZmZXV2Z1QXZEMzRMNHEtMEtpdGpOcThVOV9YVDJqSFNyWExIeTdzbGk5aFM4cXoyeUtMYjB1SVU2WEJSa1VCcjBNNjhnelU3bzZoMl81MnJZOWhtREVaYUpxV3ZnY0NyRnJfelI4TlVfWFZGU1RnWE93M1BXbEZQZnhkd1pYV2NpdTdndGNxYjVCaUo0TUZWMjBYYTh2WFI3UXBscWl1cFpIZWVQdE5jcUZNY2F4MS1IQmU1NWZOZjljbU4tS04wQjAwd3ZIazJaME9TSU1teGxjdHN4b0NjVXBUNzRyWGo5cDlza2xLWVh1aWc?oc=5",
-        "fonte": "PFARMA.com.br",
-        "data": "2026-10-08"
-      },
-      {
-        "titulo": "Geolab® celebra 27 anos de história e inovação na saúde",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLW9QdWpIQTRqalNaaW91UUdJVE5YYk43dEs2bGo1LXU5RlplT1ZQM1FkTG4tYTNaLS1aR0pLbTFqcUNuTWhKVE54QWlMU0lyX2xVM29HUnQwYTBrZl9xVVhpVkxzZ0pkOXhBUkFtM0FINEh1eE9PendkdjI2ZWhMOUFKVXY1NjNaa3BacmFB?oc=5",
-        "fonte": "Guia da Farmácia",
-        "data": "2026-10-13"
+        "titulo": "Brasil avança em pesquisas clínicas com novo marco legal e investimentos significativos",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUh3Sy1acVJJZEp4S1E5MGp3dEF6cjJFNDRvVG1tb1ExbFoxdVZMV2pxOUYybUdVVk10OWpacFltNHhjZVg0RnNMRzlTMHlOdkd0R0djM2tsTkRpWkFodHdzSGttVHZXSmdDQlFvZGdtUnpLTUlpejJvd21zM01IVlc1LTlNWHVnZjY3SmlZcGxlTEcwc2V3U2pFZy1yZ2RNZ1VCZjg0Sk1pLUVwWGhJYVN4Zw?oc=5",
+        "fonte": "Metrô News Jornal",
+        "data": "2026-10-15"
       }
     ],
     "fertilizantes": [],
@@ -279,10 +273,10 @@ window.NEWS = {
         "data": "2026-10-09"
       },
       {
-        "titulo": "Área de florestas cultivadas cresceu em Mato Grosso do Sul, diz Ibá",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdENqV29xTmJnYzdIbG43dFZRM2F6NFFvUWtwaFlhSE12dHV4dmJZYl9CdEdsQmsyU0NpNEpCc2xuaEZrUmFvaE00bW43cEwxOGRDa29XT3YyMXMtN1plYzNPY0RueEhkYm9RUC00MVViekRFcGRiaUt1WFo1QnJ2eG9uVWI2WlgzYUdKOVVZTUYxNHhmNExZWmw4OHk2SzlvMGx3?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-09"
+        "titulo": "O futuro da produção de celulose no Brasil em quatro caminhos",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXZEX2I3NmpGaWpFZ3h6NWVsZFB6SGgzODdOUnQ1amdZUlBNZUo1TnN5M05hZ1loakJNTHFmVW5URHNUZ1RyWnlMX1ZXWmQwR2wwYzBCUTZLNE0yaDI3OU5veld3a3dySXdfRjdXb0lJYmZVckVId0k5NzZIUFpPODhSNno5eTZJVXN5NFZkWmhRSUN6d2J3?oc=5",
+        "fonte": "Portal Celulose",
+        "data": "2026-10-15"
       },
       {
         "titulo": "Maior fábrica do mundo terá ferrovia própria de R$ 2,4 bilhões e vai empregar 6.000 pessoas no Brasil",
