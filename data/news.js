@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-15T22:05:55+00:00",
+  "atualizadoEm": "2026-10-16T01:03:10+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -219,10 +219,10 @@ window.NEWS = {
         "data": "2026-10-12"
       },
       {
-        "titulo": "Presidente da CNI cobra conexão de portos da Bahia com ferrovias",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekdkRVRma3ozSXQzSzloQjZJNlczYVlyakNYZ196bjd4VEREbjhZR2hEdV9BSWZhOU1CbmZEQjlqMmFUNjRmLXAyVTJEcThzS2k1eXVlQjZFYmhCa0dhOWRIcmNyWjdJMzI3cXlhZktTZ2loakk0eXlvTTd6Um5Ba0xzSFN2QkVOak15cFVqSFdNWVA2TnVDc2JZTHU?oc=5",
-        "fonte": "Política ao Ponto",
-        "data": "2026-10-15"
+        "titulo": "Rodovias, ferrovia e impostos: os desafios da nova bancada federal do ES",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTVaOHlONXZLdy1sRm0zaGU1QmFXeldOM2tSeWJhVUJ3aEtOTnFlcE95SEc4MkdFMFRzdDE2Q2tTcEl2X3EyOVc4VGJ1NV9hRmZtdnhYM3RfNE5DRnY1NkhDRm9IU2NEZFQzN1p2RUtTZGt4N3p5MnlyQndaaF9aUUozcGRIN0lKanFGcjk4VmcySU54V1ZUd200SWdLcjBHcm1fTmpYOGw3WmdVRzJkclRB?oc=5",
+        "fonte": "Folha Vitória",
+        "data": "2026-10-09"
       }
     ],
     "maquinas": [
