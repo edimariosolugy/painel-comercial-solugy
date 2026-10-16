@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-16T13:48:41+00:00",
+  "atualizadoEm": "2026-10-16T17:51:26+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -70,12 +70,6 @@ window.NEWS = {
         "data": "2026-10-14"
       },
       {
-        "titulo": "Avanço dos biocombustíveis exige mais cibersegurança",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE03Sk1ING9FbURJR1NkV2dlQUMxTzZjdW9VakluYUg0SE1KX0JMVEpvX2JNWlhCajFzSXFCRnlFWFRRMG01RjZDSW8ySWxjT1ppLV81RWdTM0JfTWJzRTFidTZfYlBUTU5RMXYyYl81VTZNTUUxVk1TSzRVQU8?oc=5",
-        "fonte": "Sociedade Nacional de Agricultura",
-        "data": "2026-10-09"
-      },
-      {
         "titulo": "Usinas de bioenergia guiam a nova corrida do ouro no interior de Mato Grosso",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVm5LanRnb0NBcjIzeGFEeTFMcFR2cmRFR2dvNHlpakZZUVZDRTY2SUJ2MTZxYkpWYkt4OGsxTmM1ZU1rdEpyMHowaXhpSllzMGNVY2J0UTlOTVRTTjc5TUh4VWRxN0xWMmxobUxFbWVLZ2lMZ25YUHBOVExJQXRMSHpqMm80MHFDS0pMQjJiVUlxRUpxbi1QTngyYV82YmJyc1c2OE9SbjlPVWxkbFRUY0hPeTQ?oc=5",
         "fonte": "CenárioMT",
@@ -103,12 +97,6 @@ window.NEWS = {
       }
     ],
     "comercio": [
-      {
-        "titulo": "Santa Catarina atrai investimentos dos grandes marketplaces e amplia presença no e-commerce",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQNWZZVm9DM2hfcGlHRkpFNnliUW5jZnBXQnhoSTNveGV0UU1kNXhyRGN4VmdzdlJKYkJWUUJvX2FZeEdwaHloZ0hxZFNETnktQXU1eWE3M0xCTXNwT180U2RKUUVVb2dQX1d3TlBaejZpNFliUzYxYkNVd0o0b1FibHdhWnVsMHVzMl9lMWVTY3E4eHpseTlPV09FYmVUM2cyWlR0eU5OYnF5STN1YlQyRlVIZUdEV04xTVJPb1Jtc3JzOEMzRzV0RTMtSFRTSHN0c1FHcllIOA?oc=5",
-        "fonte": "Acontecendo Aqui",
-        "data": "2026-10-14"
-      },
       {
         "titulo": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW8ta3ZaNUtPTTZNaG1XTzBuemMyLVNTcHdNRG5CTnR2T3JIeVFtSFJvTU13U3l1X0w3QXZKUWJ3ajZqcjlZOUJnb2dnOUR0UXYzVGVFTlRUX1ZlOHZ3OXRNWldJMFQtWXhaWHBwZ2pNaHhzVGpYY2lFV0Y3WVFkZHRpdmVoelk2ZmtDUTBvcV9menJzeGRBU2RjUXRWRnp5eVZvUFpLY1hwSUVFZXVkSGxuUTlYempFSTFKT3JDalRGVzg?oc=5",
@@ -187,12 +175,6 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "China quer ir além das commodities e mira investimentos em tecnologia e indústria no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXdCOGdKQU9zZXJrT3pvSGFlUlExUDJRQWdJQnFfSGEwcExIQmc4WEFiaWxEOURGRUFGZUpDd0tOYVpDVkt5Z25vYlphOUZKY3RqRk1BVUctbGFXWW9LNkVXV2RLS0hlbnJvTW4wNUFZRHM1RmdTcmF4bXR4U2N1cjVuNUZhXzVYUDJic090d1N1YkwyMGNpY083dDZ6aHJrWk12UDBzNk12dFFPblRKREtrcmVlWE9jejJnLVhrVnJqOThpdWNIaXotTFA3akpJdnlF?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-10-09"
-      },
-      {
         "titulo": "Indústria de estruturas metálicas investirá R$ 15 milhões em Rio Grande",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNX1VzOFM1R0EtbjFUeENMa0xoMmN4Vy1NbWhNTFhFWTBnVG9RdTFvVUNuYXZxT3duV2FreF9McVUwbmRLMDJDS0VhbVhXSlNEUFdhZEV3TC1YLTJ4d3NwZXowUTE0QVRyTnpvNjZKMEhCRWV3Q3o5dlduWVdWT0s4ZTM1QnhkeVB0bGRnRDZLTDF2NVhpbUl0RmZlZU5vRzVIZnN2TklZYzRTOER0RkJXZHNTei1reDVWbVI1dFdkbFdIYjk3VF8xSWxhWFUya3U2Yl9yMnJPMGNXVURSMWhISEk4VGN0ZEhTTXYtVXRfeUdTdw?oc=5",
         "fonte": "Jornal do Comércio",
@@ -202,6 +184,12 @@ window.NEWS = {
         "titulo": "Fábrica de água mineral de Cristiano Ronaldo não traz novidade frente à indústria brasileira",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3lLWVdiUDc2WS1iNTBjU0tiTUFJcDlRUF9HVGNNQzV3QjFhYUVqbW1oczhGeWhBUGwtNjNQM21ldl9ocHgtejRqT2VvNHhoZWVsbVJCS0hCUmR4NHZjbkR1T3pTUE9TRmZtaTJ2LWlxcXZ6cXpmdlU5ck5iOXlJX3FEN0d5VGgzSDNhZDFfUWt2Z3dDY0E?oc=5",
         "fonte": "Economic News Brasil",
+        "data": "2026-10-14"
+      },
+      {
+        "titulo": "GlobalFoundries operará duas fábricas em NY em acordo entre Japão e EUA",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTlNvOFZMTm9fOHBNYkMza3huWGxMVDJwTlZXRTVrN2JrMjFFTnhvTi1XRm5sNFhfSWJsbHRjY3BVQ211UXZmMmNTX1A0NmdCT2FmWW9DM1FQVHFtVGNBOVMxM1JEckloZ1RPa2FLcE1WYm5kQkk4RW5UelVJQjZ2Z1NhbE5sc2xOdWgtRTFFb09PU05XR1VONVFTWHNfdHRKWjg5eW85OGhkS2ZLeWJHRU9yeEk0Nk9RQnhQWnVTdnZlN2M?oc=5",
+        "fonte": "CNN Brasil",
         "data": "2026-10-14"
       }
     ],
@@ -219,10 +207,10 @@ window.NEWS = {
         "data": "2026-10-12"
       },
       {
-        "titulo": "Rodovias, ferrovia e impostos: os desafios da nova bancada federal do ES",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTVaOHlONXZLdy1sRm0zaGU1QmFXeldOM2tSeWJhVUJ3aEtOTnFlcE95SEc4MkdFMFRzdDE2Q2tTcEl2X3EyOVc4VGJ1NV9hRmZtdnhYM3RfNE5DRnY1NkhDRm9IU2NEZFQzN1p2RUtTZGt4N3p5MnlyQndaaF9aUUozcGRIN0lKanFGcjk4VmcySU54V1ZUd200SWdLcjBHcm1fTmpYOGw3WmdVRzJkclRB?oc=5",
-        "fonte": "Folha Vitória",
-        "data": "2026-10-09"
+        "titulo": "Presidente da CNI cobra conexão de portos da Bahia com ferrovias",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekdkRVRma3ozSXQzSzloQjZJNlczYVlyakNYZ196bjd4VEREbjhZR2hEdV9BSWZhOU1CbmZEQjlqMmFUNjRmLXAyVTJEcThzS2k1eXVlQjZFYmhCa0dhOWRIcmNyWjdJMzI3cXlhZktTZ2loakk0eXlvTTd6Um5Ba0xzSFN2QkVOak15cFVqSFdNWVA2TnVDc2JZTHU?oc=5",
+        "fonte": "Política ao Ponto",
+        "data": "2026-10-15"
       }
     ],
     "maquinas": [
@@ -247,30 +235,30 @@ window.NEWS = {
     ],
     "mineracao": [
       {
+        "titulo": "Portal de minerais críticos e estratégicos organiza dados e amplia transparência do setor",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNEo2T3RSUVZzaDVNalA5WU9qcWFjOG5uOVlUOW03WFphYlkzSU1uSk5IZUxSZ1Z2UldwS3pBTjRpNlE2dUZEbDV5UGRMc0Y3VXJxdjNsS0l2d0l3dDhicUpzUUh4QWpBQXIxTjNMek1iMWk0WEZKeW9WU01pX3BnTzJFQS1saXlqUWdqRGd5d3lERmJ5WDFNckFaakMzb09vbFNDcVZFOFpCTXdvMF9xbTRCcUc3dXEyOXZqbHpCWGhrYUpBbFlTV3ZKRlBMR1lvNFE?oc=5",
+        "fonte": "www.gov.br",
+        "data": "2026-10-14"
+      },
+      {
         "titulo": "Minerais críticos já atraem R$ 39 bilhões em investimentos",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQa1o0NWNjVUVGUE55V1dTbkxDaGU0TmJkMkpVQTA0SFRNUkRsMVBORTk1dk1KTlQ3RXdSY2ZIUTFYUTUzYXdRX3pzN09DLVZxWVRwSm55TGVVYi1SWHRIbDJfa1BhblhoWTFuMUJIWHZicGozYktNTDB2WDNmRDhzeFpfT3R3TFU2NHJSekdJWU5rWlVpSE9tS0xVckE4RXFud1poTk5lbFg4elRGX3FLODVocjk0TWdld3pPdjdGZjE1SXZ1RHBzZE00UmtjaHfSAd4BQVVfeXFMT3RIWk1zVDdCc21VSTVyZlhLZDRnOUVJY29qbVVXbTB6TUUwSmFMUzNobzNBcmwxZ0RMUmctRVVVeTZJYXhFRVNsTVMxQm05RTE2Ynk0anVSU2dTOHVFN3BwMmtJcGxwMXdvMVREM04yYmNMbmZnRjRvd1otR0M4N25odnlydHBvX1hiQVljd05EaVM1em43QXYzMkE5Q3VFa0FKZUpWTXNKMjlhQ2d4NGFnTEtVSm5zcWV4cFBwTUtWTURfYXhOU0MwWkUzVTRMZ3RKbTZLbmJOTTh4ZG1R?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-10-15"
       },
       {
-        "titulo": "Novo portal reúne dados para orientar políticas e investimentos em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNbU9SaGVVc1RPNEMzVzRTYXlwR2J0OVozVGZHQk9WTnVvV3VtNHJNTlNXWkFoS2ZHNG5ZVC1kaHYyRlBPMUFmUjk3MEs5UWpMclF6cWFPV2FzcjJETDZieXF0NUszY0IxRXNSNmN1ZklnN0R0WFlPRDJSb2cxcEdfaHZibkV5cVZ3VllxbVlyN3o1ekdIR3dYb1FtZ2pLTG1oYmhDU0tOcUEzTEhIZUJYYWlMT0Q0YndVR1ctRjk2WDFsUFNrR1B1NDlrNA?oc=5",
-        "fonte": "www.gov.br",
+        "titulo": "Minerais críticos atraem R$ 39,4 bilhões em investimentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1dIV01ENWVnb1U5MTRYbXdkTTRhVmZEXzV1MVFsbFRfMFowSks5YkJhcmpUVW9WM0E4d0FoVjVVMm9JZ0JBU2JuTElyaTlFYnR6NW5lRllRMkFJRWluZ21JVEZMcGsxTkJsNGFVaUh4YzhBNHlkZVMyWkR1WkstRUp3SXhnaURPREhHd1o2bnJQT2lsTmtWMnBvM3ZXakJjaDc4?oc=5",
+        "fonte": "Brasil 247",
         "data": "2026-10-15"
-      },
-      {
-        "titulo": "Quais incentivos existem no Brasil para investimentos em minerais críticos e estratégicos? Entenda cenário",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQdTJlbzBoSmVvYXlLN0ZEb3FMMWZKZF9yU2N1SktmM0s3R0xmOFlaWXVlWWU4aXhIZ1ZFU3NGY1lZak1YdjlPV2dpSzVDU2RpY24zYnZJZy1VVXNVZUVUbEdoemppR1ZYWFVPUHo2MGY5M01ncFg2X25tUnp3WjFaQUk0eHIxUFc4NVNRQ2g3NFVBWUVvUWdtWEwzUThRbnhFY0ZWWTRTRzk3dm0yWndiSmtNbkpLVndBVEwyazJqTkpUeHcwZVdHRE15TzI1NXVDM3pjUjhXOHQ4LVNhTFR1TlhXMjRhVWF6czYyTDlvUXp5UFFteV9SSTY0MGY?oc=5",
-        "fonte": "Rádio Itatiaia",
-        "data": "2026-10-13"
       }
     ],
     "papel-celulose": [
       {
-        "titulo": "China quer ir além das commodities e mira investimentos em tecnologia e indústria no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNVXdCOGdKQU9zZXJrT3pvSGFlUlExUDJRQWdJQnFfSGEwcExIQmc4WEFiaWxEOURGRUFGZUpDd0tOYVpDVkt5Z25vYlphOUZKY3RqRk1BVUctbGFXWW9LNkVXV2RLS0hlbnJvTW4wNUFZRHM1RmdTcmF4bXR4U2N1cjVuNUZhXzVYUDJic090d1N1YkwyMGNpY083dDZ6aHJrWk12UDBzNk12dFFPblRKREtrcmVlWE9jejJnLVhrVnJqOThpdWNIaXotTFA3akpJdnlF?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-10-09"
+        "titulo": "SUZB3 - Suzano - Resultados, Dividendos, Cotação e Indicadores",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTG1odkhVUVZ2ckhlc1NaMzhPZGlsNlJZS1MxVEJoQlU3Y2tJU2drbHJOQUVTNngyemc4UW90X3FWUXZPd3N6RXpEU0dYWHVlaHc?oc=5",
+        "fonte": "Investidor10",
+        "data": "2026-10-16"
       },
       {
         "titulo": "O futuro da produção de celulose no Brasil em quatro caminhos",
@@ -320,13 +308,6 @@ window.NEWS = {
       }
     ],
     "siderurgia": [],
-    "odontologia": [
-      {
-        "titulo": "Mercado de sistemas de raios X odontológicos até 2035: adoção digital e envelhecimento populacional impulsionam o crescimento - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPOGpxZnEyOENoZ19NLUpYQ2dMaFhIbVBrTnVzMmNfX2Y0ZVVaTlhZVmMzeEhjTl9CVlBlUmREYnFRZjJkTi1jLVBFejBodnRPdWZGU0JKbFpiekZsN1dYdnYwRUxsWVYwWDBoWmIzVDhINlNzLXNuUl9CcG5sdm1iX056eko0M2RFb1NrOUJLLXFaejcwVS1CdGc0UFhhaG5ySWxsdHNkajZETmtSdF95cHpYUVczbloza3RzOXFlTmhRXzM1NWtobFpubEhEbzVadHJna1E4dGFsYzhyUDlENnN3LTlDMHM?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-10-09"
-      }
-    ]
+    "odontologia": []
   }
 };
