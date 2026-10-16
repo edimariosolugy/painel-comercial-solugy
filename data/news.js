@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-16T17:51:26+00:00",
+  "atualizadoEm": "2026-10-16T20:40:20+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -44,12 +44,6 @@ window.NEWS = {
     ],
     "automotivo": [
       {
-        "titulo": "Políticas industriais de Lula e Bolsonaro revelam caminhos distintos para emprego e produção",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZjFSVVlSZGtuTnFPb1dkRFlpU0dseTJ6RFJlRUM4VVlKeGE3VTJBQTVGc1JVLXNaUWlBOWRNOGY5UVotU2FaVC1LdTlBc0t5SHFvNmpnTzJnUHRvaG9uUmU1SVRWRHdkWEhSOFJDcXhLanlzZWN4VU56bnQ4TjJucXlHbl9TbVNnMFJPekZfaW1OdUVEamV3UjJVYmR5ZlBBa3daVU5IeXNtUjhGVWJZRUV4SHM?oc=5",
-        "fonte": "SMABC",
-        "data": "2026-10-09"
-      },
-      {
         "titulo": "Fabricante de motores vai investir R$ 120 milhões para se instalar em Pouso Alegre",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEpfTy12ZXRVdEE4bTcxMVVPOVdzcnAzODRQVUdrSDlRXzBsbFNVWHJ6cGpPeU9ROGxMWWxIZUVHSXVqbXowdkxicXdMQ01VcDNMWk1xRlFHbmNnOEw4bVRPc1lrRnpla094Z1R6UXBFQ2pqMURkaXpncktSNi1KbWZ0aTVfWm16ZVB4enRhUmFEYTRVeWVYNUFRMWs1TEE5YWtGT0dIUjRWWGkyelFv0gG0AUFVX3lxTE5YU3JBek9idlA0RkFLUjJ4MjcxdUQ4OG5SU1FGWnNHdmFOOTNXZFpxbmF4VENZZzNuZE9qdDVKSWhIaVpQSzRnMGs5SG95NkN0NWd5dWQ0Y0pyS2M0RnVBMHczYmFvNGsyQWcwcTFSeGJycm9WVlpZaWdpU2d3cTFmS2piLWZtbnA1U3pDcGluSkFpbnRaNTNHTXl4LV9QTGxMZHFSUWZfTWlTM2dhbFlZbEJ3bw?oc=5",
         "fonte": "Rede Moinho 24",
@@ -60,6 +54,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnh6UTdUTnJmRTZtMkcweHhURHdBZEVCSzNpc0x0ajNITmlaY0swdVg3TngtcnpaS2FaUFc0eU9lV0NRRW81cnBKM2Qta0d6YkFiR0VieExmRXU4R3hJeUY3d3BTQjdXNEZwVXdsdno3Z281ZUdVaXh0Tlc5WkYwYndUR0o1NjFrY0lrR01EdjNrVVQwTWY4QV9XdzZhSmV2WGZON0hQREFRSW9VNXpFUERSQQ?oc=5",
         "fonte": "TV Sim Brasil",
         "data": "2026-10-13"
+      },
+      {
+        "titulo": "Expansão de montadoras chinesas e acordo com UE transformam mercado automotivo no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11Ti02c0J1NVotaTlyeUJDMTdXcnNJLXRsdm5TdUZzRzBrMUY2NEVqUXdrNWY4YVcteFJCY1ZqRXRuQXltd0dBU21mZ2NvNjBJcnFZTFVhcmZ6ZWNNT2hNWUJBc2kwWFJEUWJ2SEFndV9LMWFnczhFUUZkUXRQaFE?oc=5",
+        "fonte": "boca.com.br",
+        "data": "2026-10-15"
       }
     ],
     "bioenergia": [
@@ -97,6 +97,12 @@ window.NEWS = {
       }
     ],
     "comercio": [
+      {
+        "titulo": "Transição energética vai além da troca de tecnologia",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVBTTzFseEUxbk1DZlVMQmhBMnJidHVUSkJlTTdGSlBZYVRXYmtJazZfQ0s2TV9WM0J2ejVQNkp5VnQzeWYyZy1hRWl6S3NGVmVQUWhQRERRanprOVdvcU0tMUlKR0R2LVRGQkxFX3RldTBNd2lxZzE0d2RObl8xWXpCdXFUeGtUaGw2NTdvNm83QXpZeGVWc2dlZy0?oc=5",
+        "fonte": "FecomercioSP",
+        "data": "2026-10-16"
+      },
       {
         "titulo": "Casas Bahia mudou estratégia em 2026, fechou lojas e concentrou investimento em 3 regiões",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeW8ta3ZaNUtPTTZNaG1XTzBuemMyLVNTcHdNRG5CTnR2T3JIeVFtSFJvTU13U3l1X0w3QXZKUWJ3ajZqcjlZOUJnb2dnOUR0UXYzVGVFTlRUX1ZlOHZ3OXRNWldJMFQtWXhaWHBwZ2pNaHhzVGpYY2lFV0Y3WVFkZHRpdmVoelk2ZmtDUTBvcV9menJzeGRBU2RjUXRWRnp5eVZvUFpLY1hwSUVFZXVkSGxuUTlYempFSTFKT3JDalRGVzg?oc=5",
@@ -207,19 +213,13 @@ window.NEWS = {
         "data": "2026-10-12"
       },
       {
-        "titulo": "Presidente da CNI cobra conexão de portos da Bahia com ferrovias",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOekdkRVRma3ozSXQzSzloQjZJNlczYVlyakNYZ196bjd4VEREbjhZR2hEdV9BSWZhOU1CbmZEQjlqMmFUNjRmLXAyVTJEcThzS2k1eXVlQjZFYmhCa0dhOWRIcmNyWjdJMzI3cXlhZktTZ2loakk0eXlvTTd6Um5Ba0xzSFN2QkVOak15cFVqSFdNWVA2TnVDc2JZTHU?oc=5",
-        "fonte": "Política ao Ponto",
-        "data": "2026-10-15"
+        "titulo": "Rodovias, ferrovia e impostos: os desafios da nova bancada federal do ES",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRTVaOHlONXZLdy1sRm0zaGU1QmFXeldOM2tSeWJhVUJ3aEtOTnFlcE95SEc4MkdFMFRzdDE2Q2tTcEl2X3EyOVc4VGJ1NV9hRmZtdnhYM3RfNE5DRnY1NkhDRm9IU2NEZFQzN1p2RUtTZGt4N3p5MnlyQndaaF9aUUozcGRIN0lKanFGcjk4VmcySU54V1ZUd200SWdLcjBHcm1fTmpYOGw3WmdVRzJkclRB?oc=5",
+        "fonte": "Folha Vitória",
+        "data": "2026-10-09"
       }
     ],
     "maquinas": [
-      {
-        "titulo": "Energia cara responde por quase metade da alta do custo de investir no Brasil, aponta estudo",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmJEQ1hBdlRlLUF2MGU1VEhLamp6bTZyc3NjdlZhTEEwcFd6YlkwUlUxMnVGZ1lJSEpROHUyWGlCZVQxVnh1Yzc3MU5BQlZpclRzbDRFY0RpS0pYRzJBbWllZ1hrc1hqLUZpNjFjZ25fTEhMQTZ3UWotd1ZTZ1c5dl9iNERpMGYzM0NzbkMzY2tJdmtaRWRvLXcyN2xTSDlxZElHM3Bwd1BidmRMTXBua05WQzJmZElLQmFzUU5ZRTR0cjhCMHVpZDdPNWw?oc=5",
-        "fonte": "FIEMG",
-        "data": "2026-10-15"
-      },
       {
         "titulo": "Indústria quer ampliar capacidade, mas incertezas sobre trajetória dos juros faz metade delas não buscar crédito para novas máquinas",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQXdOUHpYZXgtTWhtRklVaVlCZXZuV19WQzZTdENUdWFGU2pveG9yWnBWSE5KVk5oa2ZMcmo3RV9WNThVWlZDYm9RRHlWWnZfcndTV2tidjUxN3JCdlRWTTdhVmZQUnBUZzBmcFhnUml3WlkzSnhoTWRwb2ZzYW1XT1haZUluV2dGVk1lTDQ4VWZKcUlDQTVHNFFNck5mTnMxYV82QkV3aEhOZWZndXd2Um5RaXpWQVZIeVQ2Rkl4eEs3TEU2YkZxUXloLTJ4eWEteHJuQXdCblY2dUtjR0U3U3A2LVlmVHV1SmsxQWpCMUVqbUdYYzI3ZHAxZldpcTMzcG0yWHFfVkIyQmZNOEVvN09ESmtNS19l?oc=5",
@@ -227,10 +227,16 @@ window.NEWS = {
         "data": "2026-10-13"
       },
       {
-        "titulo": "BNDES: R$ 150 milhões para a Soli3 investir em máquinas verdes",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkgwdzhUVGd0VElHdXRCc2VyU0tFWnY3X2JQSXlWb2RuUUtmZUgtUFhFZF8wTmFnZGdqN0RsUFQtT1NIZ3l1Q1g2YjNTUDlOUjhZX29CSUQ5RTRGekJzSzdhMUs2NnBHZnNZR1pjOWN4c2RUSzZORGFnbWs0TFJ0MTdsWFdqWVZ6ZFNMRVNyZkllcHZDNW9Meg?oc=5",
-        "fonte": "Monitor Mercantil",
-        "data": "2026-10-14"
+        "titulo": "Energia cara responde por quase metade da alta do custo de investir no Brasil, aponta estudo",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR2pzaFp6MVdVajgyRURtOU8xcmpxekw0OXFiWTlPeXYyelNoVDlVNndDUDdCcWZiaXp3SnZFWENVcGgyYU1fYWNKNmtCN2o5aUFXSTdmcTlMMkFtQjVUUE1VcnY1UTkxT2Vwam51bk5nd25tN3JubDNtcnJRaEdaRDA3UmRlOUFqNjdHZmNneC1vVWlMaDhrZ0c5NnNJclN4ZTlaajNGX2hBQUhDN0NublZNMC1iVC1XM0NteDB6TTg1MUZ3?oc=5",
+        "fonte": "FIEMG",
+        "data": "2026-10-15"
+      },
+      {
+        "titulo": "Abrace: custo de energia elétrica respondeu por 48,2% da inflação de investimentos em 26 anos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHhCeU1jMFAycGEyZTVPbXB5eXQ4MjgxbUhOTDlrQUt6cjhicmo1UDNrQ2JOOEVoZEJHOVdIa1hETHU4UjhIZHJ0WXdHSUMzeVlxLXVDOHhXd25lZG9Cb2dCSU5ac01MYTMzbXNIby10RkQyQ2pOUjQ3NVhhNnhHb2xpR3ZMSHFSMlVWQzdvY2xxZHkzT0MxUmgxMGdhSDVPaEpqUVVSNDd0Z1BRVkVlQy130gGyAUFVX3lxTFA0eEJ5TWMwUDJwYTJlNU9tcHl5dDgyODFtSE5MOWtBS3pyOGJyajVQM2tDYk44RWhkQkc5V0hrWERMdThSOEhkcnRZd0dJQzN5WXEtdUM4eFd3bmVkb0JvZ0JJTlpzTUxhMzNtc0hvLXRGRDJDak5SNDc1WGE2eEdvbGlHdkxIcVIyVVZDN29jbHFkeTNPQzFSaDEwZ2FINU9oSmpRVVI0N3RnUFFWRWVDLXc?oc=5",
+        "fonte": "Folha PE",
+        "data": "2026-10-13"
       }
     ],
     "mineracao": [
@@ -247,19 +253,13 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Minerais críticos atraem R$ 39,4 bilhões em investimentos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQb1dIV01ENWVnb1U5MTRYbXdkTTRhVmZEXzV1MVFsbFRfMFowSks5YkJhcmpUVW9WM0E4d0FoVjVVMm9JZ0JBU2JuTElyaTlFYnR6NW5lRllRMkFJRWluZ21JVEZMcGsxTkJsNGFVaUh4YzhBNHlkZVMyWkR1WkstRUp3SXhnaURPREhHd1o2bnJQT2lsTmtWMnBvM3ZXakJjaDc4?oc=5",
-        "fonte": "Brasil 247",
-        "data": "2026-10-15"
+        "titulo": "Governo de Sergipe",
+        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdW5kczN1S3NDeFJnbmNKR0V5dW5qTThwXzJBSXY4Z29KamhfTURwYmFvd2Z0M0V5dV94ME54MVdxTWlJbWEtWkUxLTdaMGRSVEF4YmFaSzRyM1pZXzRiMmNubmJ4enlqQnh5bGFkbloxX3ZaWTJzd2l2dUhxY2JUX185N1RwSU51Z2FOR0hMQmRvYlRmdDZGMW1iRDhJRjVwdkN3amJ5RVlocFBodWF5NnNVak42ZURtV3JNZFJSdzRRcHFkY3E3QUJaX1FSdENpSnk2Y0o4SUplOXVuaWFBaVNvaVAtOWQt?oc=5",
+        "fonte": "www.se.gov.br",
+        "data": "2026-10-16"
       }
     ],
     "papel-celulose": [
-      {
-        "titulo": "SUZB3 - Suzano - Resultados, Dividendos, Cotação e Indicadores",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPTG1odkhVUVZ2ckhlc1NaMzhPZGlsNlJZS1MxVEJoQlU3Y2tJU2drbHJOQUVTNngyemc4UW90X3FWUXZPd3N6RXpEU0dYWHVlaHc?oc=5",
-        "fonte": "Investidor10",
-        "data": "2026-10-16"
-      },
       {
         "titulo": "O futuro da produção de celulose no Brasil em quatro caminhos",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXZEX2I3NmpGaWpFZ3h6NWVsZFB6SGgzODdOUnQ1amdZUlBNZUo1TnN5M05hZ1loakJNTHFmVW5URHNUZ1RyWnlMX1ZXWmQwR2wwYzBCUTZLNE0yaDI3OU5veld3a3dySXdfRjdXb0lJYmZVckVId0k5NzZIUFpPODhSNno5eTZJVXN5NFZkWmhRSUN6d2J3?oc=5",
@@ -270,6 +270,12 @@ window.NEWS = {
         "titulo": "Maior fábrica do mundo terá ferrovia própria de R$ 2,4 bilhões e vai empregar 6.000 pessoas no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWl9kd2hRNXV5aFVWVS1GTi1tbkp0a2RkMHRWcFpOYTFMZnlVSDRHdElDcFVjUW9zXzNyaFlMZWtZMUVET2NWQktDb3ppRHNlSFNhZjRlSW15Mnh3R2pKWUxJaG5DT3lzdWFxUThXcHYtUW5DcE53SHJlcXBDR211djB5MzZ5ZlpjbVNhV3Y1cTF2VmtBMTVTM2ZVQ3I4TXJHY1MxaUFOYk94b2RLN29mZVhjTHZOU3ZrVWx5azM4Q09jQXRnMDd1NTBEYk1hVGpRblpMUUM4U3JFbENOdlE?oc=5",
         "fonte": "www.jornalcruzeiro.com.br",
+        "data": "2026-10-11"
+      },
+      {
+        "titulo": "Mato Grosso do Sul chega aos 49 anos com indústria em expansão e novos investimentos",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2ZiaFJyZ1pFRGJ6WXRJOWdQTXBDNHNIN1YtalZ2aDU0YzUwQlhIX2NvM1hDZnhBUGxwdFZtWGZPS3g1WEtKdDdDTnAzU0wwZzlIV3R0enVvWEFSdW9fdDNGMjdRYzVTUkllSUFLeHVSUHlzVlNDbUJRLU1nVXJuc210dTBYRmg3TVhSNjVFQjFLbXN1UVZobW5XakV5U2NQNk1UWW9oTkQ4aUxIYmFHc3dHeGE0Y0c0aU80TnJYTndWWXVGWnQ4TkJ4RHZvMDljY1FUQWRZajByUQ?oc=5",
+        "fonte": "Capital News",
         "data": "2026-10-11"
       }
     ],
@@ -295,16 +301,16 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Cagece lança edital de PPP para universalizar esgotamento sanitário em 104 municípios do Ceará",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNElyTXNLYzZnYUQ4aWRObGhtelQyVVRDSzFMM1k0V1p6YW1EZHJJeUNrbW4xNC1uRzhQX2F6VDYyZnlTUmpJQ2NmT3kxdGc1TU5kQWVrallOT0NQcFRRQU15elRwNmdwSmkzREk2bERxU29ZMlJXcDFEOGUwTEc1SHBGTGhyUngwSU1wdW82UGV2ZmRnVGM5Zmo3N3JJWmRldHV2OGdFS0o3akQwLXgyX1Awb3pSVHJ2N1JqVjhB?oc=5",
-        "fonte": "Portal Cagece",
-        "data": "2026-10-09"
-      },
-      {
         "titulo": "Cagece marca leilão de saneamento para 16/12 e investimento será de R$ 6,3 bi - Portal IN - Pompeu Vasconcelos",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkU2R2xtS3dsNWFXUW5uWUdldHZhamVVNDg1QkJyeXA4eG0yT3ltRENqWFJCZ0NQZTF3NWRkWW1tNUtlZXdUVDBLek40azBjcW5lM29BZy1zYXlwZ0xhTkt3ZVFsNEN3cVd0SndlUnhLMGxBRk9paDFqNW9ROGk3aW5Yck14MjY0R2pCQnB0Y1FqeUVBR1RvTVhLSW9kcF9BejFMX0daT2tmN2VqTTlHWDdFZw?oc=5",
         "fonte": "Balada IN",
         "data": "2026-10-09"
+      },
+      {
+        "titulo": "A urgência do saneamento básico",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dFlKc3F5MHBBUWpuMTNWcGE0QkVMUXBTa1hVaElnSHVOOE02dDNPZXZWcWY2Wi1aYkJSM0Joc1lSVEFTY042eWE0eTJhMjJTVFpSZF8xdUJHYWhDWW4yejVJXzlONjFCNlJNR1A1RjdjWEtEYmc?oc=5",
+        "fonte": "Estadão",
+        "data": "2026-10-15"
       }
     ],
     "siderurgia": [],
