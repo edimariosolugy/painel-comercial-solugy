@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-17T19:05:21+00:00",
+  "atualizadoEm": "2026-10-17T22:01:31+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -132,10 +132,10 @@ window.NEWS = {
         "data": "2026-10-13"
       },
       {
-        "titulo": "Brasil deve ter o segundo menor custo de energia solar firme do mundo até 2035, projeta Irena",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZHRkTlE1Y3FOWU5kX0dqOVUxRWdGdTVtNVJGaHVFSlN6QkRtNVozOFplQjVsRHdITGJIeElsd2ZiZ2RneHFHNTlxZXhQZjFKbEZFMzgwMFgyYWxYQVBMdUU2cU9NUVY4TGZEU2pFM1NRMzB5d1prUy1XT1R0Q1NEcGs2bVJFMzFjTm1SQ3d1NWJOdy02djZ0NUMzYXEtcXJNcTNZU1dTZUVVQjcwUGtDVmo4WXU2bGJvckRGcTFhRDhOTkExcktKLWhRb1JiNFY0TUUyNnF1aXU0NnltOHhzU0pR?oc=5",
-        "fonte": "Times Brasil | CNBC",
-        "data": "2026-10-16"
+        "titulo": "Brasil poderá ter 2ª energia solar mais barata do mundo em 2035 - Portal IN - Pompeu Vasconcelos",
+        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1V2VlMjZJX1ZSNTdVY0F4cVBHU09QLTdEa0lOVlljaTVvZGJrWHl2WjNMOWxEZFI2R1BSaWJVRTFqSWw3UWRaMHNRZjM2UQ?oc=5",
+        "fonte": "Portal IN - Pompeu Vasconcelos",
+        "data": "2026-10-17"
       }
     ],
     "epc": [
@@ -175,6 +175,12 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
+        "titulo": "Depois do software, Índia quer descer da nuvem para o chão de fábrica",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUUyWWlRdWFXU0pLd3haUFRnZGlFcXhUMmUwMWpSUEoyYXpoUVZqdTZiVDY3TGpmazQ0UEtscWl0SElQeFB3c2J3ZXRCeDJQUUtOM3VrYWNBQkkxMXdLRUNhQjFTSUx6eXFFcmJhODVDNk5rYzN2SHY4T3VIQllwR2ROcm1lUGJwdGpKUDdYbzN0d1B1Q1UwMXR5MTRDRjlibHNjMW5rbFBnUzNPbHpLOGFGUjA4VDVwYVd1LQ?oc=5",
+        "fonte": "Folha de S.Paulo",
+        "data": "2026-10-17"
+      },
+      {
         "titulo": "Mato Grosso do Sul chega aos 49 anos com indústria em expansão e novos investimentos",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2ZiaFJyZ1pFRGJ6WXRJOWdQTXBDNHNIN1YtalZ2aDU0YzUwQlhIX2NvM1hDZnhBUGxwdFZtWGZPS3g1WEtKdDdDTnAzU0wwZzlIV3R0enVvWEFSdW9fdDNGMjdRYzVTUkllSUFLeHVSUHlzVlNDbUJRLU1nVXJuc210dTBYRmg3TVhSNjVFQjFLbXN1UVZobW5XakV5U2NQNk1UWW9oTkQ4aUxIYmFHc3dHeGE0Y0c0aU80TnJYTndWWXVGWnQ4TkJ4RHZvMDljY1FUQWRZajByUQ?oc=5",
         "fonte": "Capital News",
@@ -185,12 +191,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3lLWVdiUDc2WS1iNTBjU0tiTUFJcDlRUF9HVGNNQzV3QjFhYUVqbW1oczhGeWhBUGwtNjNQM21ldl9ocHgtejRqT2VvNHhoZWVsbVJCS0hCUmR4NHZjbkR1T3pTUE9TRmZtaTJ2LWlxcXZ6cXpmdlU5ck5iOXlJX3FEN0d5VGgzSDNhZDFfUWt2Z3dDY0E?oc=5",
         "fonte": "Economic News Brasil",
         "data": "2026-10-14"
-      },
-      {
-        "titulo": "Com investimento de R$ 140 milhões, indústria calçadista deve abrir 4 mil empregos",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblEyWlFiamN6WGhNREVFdlFwd1hJQXFnUHhZQ3oySW9tc0xncWZYZG9mQVlUc2RFTFFJYTY5dlhsX0xLMHRkWGk5cUdUS1RTcHluMl9kSlNlNVRuSFFJSG5EOGhzT2c1Zng0eXpMTi1vQlNBVXlra056RlJpaUNpXzF1OG15ajhISWpFV1NBcFFLMkt1MTJMTVVCVDBTaVZZdjNLWjJqVnRMY0dPaC1FY1RXOVd0QdIBuwFBVV95cUxNTnFva1VEb01ZaUpWVU5tRkZVTno1TnRIRldYYzJpU3JtZ0l6Y1VudTJRaWNmaHRkUjFueURxWHJUZk9tU2R6cWQ0dklBM2w3bVZNd3JsNkRLNTNFekNUM0Y1RGNheERQQ0hBZHdPS19RRGJ3RmJTR0x4ZURXUjJCYWp1TTdNa0tIbGFkaGZVU1Q3RnFtYkcwcE5PMzVhakhONkJWbWhKUzNTMDlXZWxuOEJvUGFUUUxGb3F3?oc=5",
-        "fonte": "Jornal Exclusivo",
-        "data": "2026-10-16"
       }
     ],
     "logistica": [
