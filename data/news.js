@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-17T12:46:00+00:00",
+  "atualizadoEm": "2026-10-17T16:11:41+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -72,10 +72,10 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "Como investir na indústria de transformação saudita: guia",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFYWjA3cTA5d3hfNmVLRG5CX1JjQTJ1QTBORTJwS2FTa1locmdnVEtfX2RzREN2SkoyOGVRQ0pNMlljUG5ReUFiaHJpbFB3MTZLR0RuYms1Zi02b2N5NnFxVERCSmJMMV9fczBUOXRsbFVqMWlUN24ydVNNRms5clBwb1Z1MDgzOXNfcDkxWWZWVENpQkZvWDJCWTBrVnE0VFE?oc=5",
+        "titulo": "Construção na Visão 2030: empreiteiras, megaprojetos e carteira",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNTVqSERSMXY2dml6Y25mMG4zRnlqbnd4S1ktV21aV3lnM25RZktKcmdpZThFRXJ3ZlVzZ0ZfZHhvQVJELTFMNGxRNWgtY3NWcFlPN0hvOEN2ZnRKR1hUODd5c3ZCeFJsbVRKc0xhb2VIMWQ4aVhjR2tn?oc=5",
         "fonte": "vision2030.ai",
-        "data": "2026-10-15"
+        "data": "2026-10-17"
       },
       {
         "titulo": "A província de Phu Tho está reforçando a transparência e a abertura nos preços dos materiais de construção.",
@@ -84,10 +84,10 @@ window.NEWS = {
         "data": "2026-10-13"
       },
       {
-        "titulo": "Construir em Minas custa R$ 133 a menos por metro quadrado que a média nacional; veja o impacto",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXVrSm80cGlDYnBNV0gzUklBUXltYjlKWmRJcktqakhIZ2stYWl2Y2hiaHc0SF9tYU41RGNGREhHRG5TYlZNT1FyYzhMNVI0UWdUU0NKRWw3eHNtQXo1a29RQmV2Zjg0dVppcXd1Ym9ZcFAtS3BCNFZNcmloVE1Hc1pNSE1ZU2R3dUJVMWtBMHJVYjR4dEZONmtqRQ?oc=5",
-        "fonte": "Moon BH",
-        "data": "2026-10-14"
+        "titulo": "Como investir na indústria de transformação saudita: guia",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFYWjA3cTA5d3hfNmVLRG5CX1JjQTJ1QTBORTJwS2FTa1locmdnVEtfX2RzREN2SkoyOGVRQ0pNMlljUG5ReUFiaHJpbFB3MTZLR0RuYms1Zi02b2N5NnFxVERCSmJMMV9fczBUOXRsbFVqMWlUN24ydVNNRms5clBwb1Z1MDgzOXNfcDkxWWZWVENpQkZvWDJCWTBrVnE0VFE?oc=5",
+        "fonte": "vision2030.ai",
+        "data": "2026-10-15"
       }
     ],
     "comercio": [
@@ -172,10 +172,10 @@ window.NEWS = {
         "data": "2026-10-14"
       },
       {
-        "titulo": "Brasil avança em pesquisas clínicas com novo marco legal e investimentos significativos",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUh3Sy1acVJJZEp4S1E5MGp3dEF6cjJFNDRvVG1tb1ExbFoxdVZMV2pxOUYybUdVVk10OWpacFltNHhjZVg0RnNMRzlTMHlOdkd0R0djM2tsTkRpWkFodHdzSGttVHZXSmdDQlFvZGdtUnpLTUlpejJvd21zM01IVlc1LTlNWHVnZjY3SmlZcGxlTEcwc2V3U2pFZy1yZ2RNZ1VCZjg0Sk1pLUVwWGhJYVN4Zw?oc=5",
-        "fonte": "Metrô News Jornal",
-        "data": "2026-10-15"
+        "titulo": "Chiesi dá salto tecnológico no Brasil com investimento de R$ 124 milhões e nova geração de inaladores",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObjlVSnN3UUVOaDFnQ05xRTBqQjczVjRfMzB3VERoZXBNVzZUWVNzN1FrMVpTR0NmQU93eTM1VGU1eWRVaEw2eE9xcUpsNHAzZkdGRGZXMkgtNVpGaFN6MXRuQWp3OVVGOXdpX2NYaFU0a0lmdWNtZVNBcXY5SGIzcFYyLTZiV0NYTmlEM0RZTW1BWUVmSVM2WjA1eHk2SjBPdFBFeU1Fd2JrTDVZckQ5ODZUUHJFcV92NVFGaThraFNNaGxkaUdaZmtPaXdLS2drRERCT3QzSjlNQ0xEaFJKYU9waDBDZi1YTGpTVUNVWWc1aEdZSUQ5QlhGZUY?oc=5",
+        "fonte": "PFARMA.com.br",
+        "data": "2026-10-17"
       }
     ],
     "fertilizantes": [],
@@ -201,22 +201,22 @@ window.NEWS = {
     ],
     "logistica": [
       {
-        "titulo": "Investimento em logística saudita | Guia de portos e ferrovias",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRZHREMVllU1VYZUpNMUZuOTZiYU9LZnZzTVdndVB4N0cyTGtzcnZqTkpNZXhscXdZbzdiSV9WQVFsUVlpRkprbTlpdGJrQWJURUUyWUxsNXRFYkRwUGc?oc=5",
-        "fonte": "vision2030.ai",
-        "data": "2026-10-17"
-      },
-      {
         "titulo": "Porto de Paranaguá faz primeira conexão do Moegão com terminal",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkU2NjdrLWEyZW9WVGFzcDhQd29HbVZUYmNDNUpIYTBvWmVpSHVBMW1KU3ZnUkN3ODNwWGNPQzZ4VV9vNjZRMkZERTRUQ1ZJWURvVlRrXzdmWDRBekQwbkY0NXVZLTVjQ0JvbFZUVS04WC1oMV81azVlaFR4RDhVZWxHb2JjUUI2bzBjaUJfZVlZMnZna3NFbHZLV29YelR3?oc=5",
         "fonte": "Folha de Cianorte",
         "data": "2026-10-13"
       },
       {
-        "titulo": "Infraestrutura do agro: o que Flávio Bolsonaro e Lula propõem para o setor",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVrbVJ5Ump1QnhOYlhza2tUd1FQdVUtdFdRdkNLVE5zdXA0aGtJd0p5RUxiNkQ5RmFteTVCYXdManNsdjhjUEpZN0pZQXRQbWVnSXRMajk3bXdEVXNKQlVjbDNrNDRqUHdpbHppMG5iVXB3NzJ2eEk1LV9Cb0t6LW1rQUZVSHoycEtud3htY1VQbWtYck9QOVlWUXY5UWlpS2t0RFgyNGR2Q2xq?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-12"
+        "titulo": "George Santoro: governo inicia leilões de rodovias e ferrovias no primeiro semestre de 2027",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzAxTnltbmVJTUEwb1Vub3Rjck9MaFhTM2NNMmpsQzU4SFpwZURjU2pibjk1dmhhbFlIUXM4RkM0d2hGeXR4WmJkSFFvLV9KX1g2T0NsTEI2WmllNkgxb0dxbS1YS1FfaU1LM2p5RFQ5ck03aHBfMUkzcnpiRTVyeWthQjJ4N1dEbGN5U19sb2tvVHI0YzlVWVBoZFlPR0dJcHFkOHJiU1lFbWFtdkhHYUd0R2xyQ0pjWlJ0NGV0enFib1dzZzNqMFFUMDNPal9vcGZGYzlPZHI2a2FaYm9nOE1sWQ?oc=5",
+        "fonte": "Tribuna do Sertão",
+        "data": "2026-10-14"
+      },
+      {
+        "titulo": "Governo prevê leilão da ferrovia Vitória-Rio em abril; projeto mira cargas e portos",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0MxNVlER1pUSkl4TVVuNFBwajJoWV9RM2Nid0RyaUUtTENxNk1SZ01pOG9WYWdnZlppMUk3dnAwZGRYd2VxUDVMQzFRMmNVMGQ2ZDI1eE9OT2hfSDdkNkdFMmpSQlBjZkFFUVdZUHhIcy1xRkxNN3BFc3JnVzVoM0lCY2hfWTczM0p5RkI0ay1uYjc5ZW9ibGdGLWc5SGJoSjJ1bXNyQnFuMjhZYkxRNjJOa0o2ZUpSVjV1elFPY1lDdw?oc=5",
+        "fonte": "Folha Vitória",
+        "data": "2026-10-16"
       }
     ],
     "maquinas": [
