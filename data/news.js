@@ -1,8 +1,14 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-16T23:19:15+00:00",
+  "atualizadoEm": "2026-10-17T12:46:00+00:00",
   "itens": {
     "agronegocio": [
+      {
+        "titulo": "O Brasil está prestes a desbancar os EUA no agro, quem ganha com isso?",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMElkeWEwa2puWk5faDRQREEtS2p6eEtZTG81ak9uU3hmWFpyZWRScjFvbzJHR09DQWRkc3JZajZvU1NSS2J1LWVueG96bHJKUTZGWW9CYm9hdXdfMHlQMHZrQlBaRG1vSkdENXl0UHNIV2szQWtaejhlRF9IQTdscnk3UjZaZWRnUURyRXN4RXc3MFFYY0tPeV9vdjdjMmVTNjE0UWE3eUE3MXhoUVhkQXhVWktGQkZEcTYtbnRZZXNZQjh1VVFnMDNlNFpmQ1dpUDhfQ2JDTE1Vd0xkVDlJ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-16"
+      },
       {
         "titulo": "Brasil abriu 700 mercados para agropecuária desde 2023",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTkhYQjgxdkhDRTdDQklLdHA1NjkxS19BaDZ3MUFQa19GM2dRcE93UGlCUXA5Um4wWFlzOWpkdmhINGs5OURFNlpEVG9odVIybkZsYUpPa0tHMndfWGd1cEc2c3QzekN0bkxrb2tIRmFEQTVOOHk4VGZ6OUtoTTlEUTdSSTR2bHRPQVFjd0hSOUkyUDNNT2NFbElNRFhpMV95ZUZkQ2djQnFOYl8xb0YyRHBB?oc=5",
@@ -14,12 +20,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3NMTUx3dUdDamlKNjJEc240UXV2M3Qya3ZQbXhHVlVzYnM1aDQwNTRUQ1ZObk1Gb2xXTlFMYkdVU1JXSWM5UEh5Q1hzV1hvOVRHS05FMFotS0VwY3dzUlVDVVZBUmlvd1NrNTlobFBTSTJYM3BYRk5aQ2I1ZGlJRmJHcHRRZU5vcUJITlM5VUlLY3BEc2NkcnFmRmludFZ1M3lXaDFCUlNuVjRtWm5FN0lya1QzZ2w0ZG1nbENn?oc=5",
         "fonte": "Folha de S.Paulo",
         "data": "2026-10-14"
-      },
-      {
-        "titulo": "Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzQxNnV5WVUtbzFOLTNnbVRUdjA3bW52eHdwbXl5ODJKRHRvc0FSWXhGNnNYYWdMMl8wSGJzYnh1b1pNZlcyVGRkOXF0TUtyQ3d3WlBaY2lwU0Z3QlZLSDY5eU1NNjNZVmw0aklLZHdQV0hFUTV0czNOVlRWRFExd096aFNPTDExZ2o1NlF6Nm1Ha0R3c3NuR0lEMW1zYnFWN1lLQjlnRWJIZHJMNkJpYzV0aEROeE9lWlpEMjlwQUJ4b1VsOTJlVHkwNF91YVB5MEE?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-10-15"
       }
     ],
     "alimentos-bebidas": [
@@ -30,10 +30,10 @@ window.NEWS = {
         "data": "2026-10-14"
       },
       {
-        "titulo": "GAFFFF 2026: inovação, sustentabilidade e investimentos no agro marcam o 2º dia do evento; veja os destaques",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1oWlUyNXFFc3hoVDZ1ckJWWENmcEdPNHdkZU9YVEhHcWhHaDRWQnhsUmNhLVB4VUtZbDI3TmpUTzMwTlhoM0ZiUEhsSnkxY084U01fN0xtN25TMDdaSHJtY2NxNFoySEFON1l5aWx0ZkZyQmg5X0hFN1dERHJ5LXc?oc=5",
-        "fonte": "XP Investimentos",
-        "data": "2026-10-10"
+        "titulo": "Invest RS reúne empresas e representantes gaúchos em encontro sobre negócios e investimentos em Paris",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tejNfR3FEUFp3aHktU1M5RjV3anBYNy00VTR6R0dVTjlBMkhWckJvT1hIdzk3aWFFbTZFNWdXM1RyUlRuaUN3N0EyeDhRZDBFYVZfY1VsSl9rMnFpV04xRl9aMjJ2TEN3YUQzSzVHUQ?oc=5",
+        "fonte": "Consumidor RS",
+        "data": "2026-10-13"
       },
       {
         "titulo": "Com investimento de R$ 40,8 milhões, nova escola do SENAI é inaugurada no Piauí",
@@ -43,12 +43,6 @@ window.NEWS = {
       }
     ],
     "automotivo": [
-      {
-        "titulo": "Fabricante de motores vai investir R$ 120 milhões para se instalar em Pouso Alegre",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNOEpfTy12ZXRVdEE4bTcxMVVPOVdzcnAzODRQVUdrSDlRXzBsbFNVWHJ6cGpPeU9ROGxMWWxIZUVHSXVqbXowdkxicXdMQ01VcDNMWk1xRlFHbmNnOEw4bVRPc1lrRnpla094Z1R6UXBFQ2pqMURkaXpncktSNi1KbWZ0aTVfWm16ZVB4enRhUmFEYTRVeWVYNUFRMWs1TEE5YWtGT0dIUjRWWGkyelFv0gG0AUFVX3lxTE5YU3JBek9idlA0RkFLUjJ4MjcxdUQ4OG5SU1FGWnNHdmFOOTNXZFpxbmF4VENZZzNuZE9qdDVKSWhIaVpQSzRnMGs5SG95NkN0NWd5dWQ0Y0pyS2M0RnVBMHczYmFvNGsyQWcwcTFSeGJycm9WVlpZaWdpU2d3cTFmS2piLWZtbnA1U3pDcGluSkFpbnRaNTNHTXl4LV9QTGxMZHFSUWZfTWlTM2dhbFlZbEJ3bw?oc=5",
-        "fonte": "Rede Moinho 24",
-        "data": "2026-10-09"
-      },
       {
         "titulo": "GM quer regra dos EUA valendo no Brasil para trazer o Cadillac Escalade",
         "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMnh6UTdUTnJmRTZtMkcweHhURHdBZEVCSzNpc0x0ajNITmlaY0swdVg3TngtcnpaS2FaUFc0eU9lV0NRRW81cnBKM2Qta0d6YkFiR0VieExmRXU4R3hJeUY3d3BTQjdXNEZwVXdsdno3Z281ZUdVaXh0Tlc5WkYwYndUR0o1NjFrY0lrR01EdjNrVVQwTWY4QV9XdzZhSmV2WGZON0hQREFRSW9VNXpFUERSQQ?oc=5",
@@ -118,30 +112,30 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Brasil pode encerrar 2026 com mais de R$100bi de capex em leilões de elétrica e petróleo",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQUXdPMWZJdTJrdnB2dWV1QmlidTdMcHNsc01wSG9QRV9HTW0wVmFMU2ZlMW4wTDRYZ1JPNi1lOERuMmRBYkQ2M1k0ZnZIdkJhOTN4QTN5VEtrOEhnQ3FwbmZSRWNGRFJMWnllR3R4Z0VZMHp0WEY5VmUtRVVpOGE1akpnX0hWN3VmaDNQSGJXa21xRHo2dkZ5ejNWUENDLW91SzZLNXVubU5kZmQwdnFMN2h3WjJHUFVMZTljN2F5a0J6QW8?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-10-15"
+        "titulo": "Leilões de infraestrutura após eleições podem gerar investimentos de R$ 54 bi",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDl0UlBGTXZwZGlXZ0tJUWxDaTRSVXE0NmQyaTVva1ZJMnRncTBEd256cHlQbTVXTTlLTkRlNTdFN1lpYlN0TllYV1RJcUVOOWVtbWVTY2tMZFZGUW9vUklYaTRfX2FyMEFzWjBkNnJCZTlOblZlcWRFQUk5d2wzcEF3R2t1ejgtZFRjQVVBU0ljeFkySmF0Q2IzdGtrNktWSnVwVDlwVUlwdjRSdk55NS1ScHFkYUU5d3pCZGpKUXYzMjZRTDNfaW9qLWxobk3SAd4BQVVfeXFMTnhtdHFqWExiVHhFUG5iYnF5M091NXNhTGptcUJrZ1FZMVhHNVRJVC02VDZlTHVVRnFXR1hRTUpPOWxsWUlYdUlXWElkVnhCbzg2dG9XRjlteVhnSUxubEpRVEowQWdubUI4bGpnbVBnS3BPa21hTzM5MXpWM3BFZ2lHQktjbUdSQ2lpZWpfN241VmNjeGRtclpiZm5jSFlUazg5Y3pnajduNkRxcUtlYkFMc2dpSHp2MDN3MFA1M3JMMzc1T0dNdWFUSmJfckFLZ3M4QTJvMl9oRG9vR0FR?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-10-16"
       },
       {
-        "titulo": "Leilões de infraestrutura após eleições podem gerar investimentos de R$ 54 bi",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeG10cWpYTGJUeEVQbmJicXkzT3U1c2FMam1xQmtnUVkxWEc1VElULTZUNmVMdVVGcVdHWFFNSk85bGxZSVh1SVdYSWRWeEJvODZ0b1dGOW15WGdJTG5sSlFUSjBBZ25tQjhsamdtUGdLcE9rbWFPMzkxelYzcEVnaUdCS2NtR1JDaWllal83bjVWY2N4ZG1yWmJmbmNIWVRrODljemdqN242RHFxS2ViQUxzZ2lIenYwM3cwUDUzckwzNzVPR011YVRKYl9yQUtnczhBMm8yX2hEb29HQVE?oc=5",
-        "fonte": "Valor Econômico",
+        "titulo": "Manchetes do dia: Baterias fecham o ano de leilões de R$100bi no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbG1KdG5acGJfQVNpZDZsY0hQVk82SUVsZ3JVTkdlT2tPbGR3MkhQd0pGOW5lUU50MTVzUEpxbHRaNU5odkdLLU02Q3lrSkNOb3AtMFdZa0w0UENYMjlYYXNYcjEyUGR6c0gtaGJXTWNXR1RzSzZXS1QwTmt6eWpXcWxlZ1QxeWdaSXp1dDUyZWF1OWZneUlIU01oZkRBSjdLQU1xWjNlTVRSNEZt?oc=5",
+        "fonte": "BNamericas",
         "data": "2026-10-16"
       }
     ],
     "solar": [
       {
-        "titulo": "Geração distribuída de energia está em crise — os fundos vão às compras",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkZtd0lnNnJZV2JPV2lfYUFTN3hmWFZWOTVwOFhHTElIQjhwdVlFdnBudHZweW0xQ3FBb3ZicEhsd2N2ZkJkLUg1VTdNWjUtRnRwTElUUThidmJGQ3YxZW5kQjJrbGUxa3Z0ZFNKVVI0WWJ0UGY1YktLU3J4RVZXYkNxVWd5WjVvUnczb0RQZURMSHpnODdOWDFPaEJpaThYYWUzZUhjN0JmY2tGYlAyX3JacEJoZFpnT1JHUEJkckF1aUN6SHRidUhCbXc0RXpJdUpDOA?oc=5",
-        "fonte": "Capital Reset",
-        "data": "2026-10-13"
-      },
-      {
         "titulo": "WEG será parceira da GreenYellow em projeto de geração solar para 54 lojas do Carrefour Brasil",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzZVVTYtblVmVW9qbE9KemFfYm5Wc0QtbWduR2Z3VU9tMUwxOGNKQVJMVzhuUnBBYk85T2MycVV5RWUySVd6M2p5NU1RUm1XdnBhVloySXlzUEpVYVRQdHNQbTBXWXlSMEdPU2hoUFN1dEdNWDBtZUwtZGhTZVJxaQ?oc=5",
         "fonte": "Canal Solar",
         "data": "2026-10-15"
+      },
+      {
+        "titulo": "Geração distribuída de energia está em crise — os fundos vão às compras",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNSkZtd0lnNnJZV2JPV2lfYUFTN3hmWFZWOTVwOFhHTElIQjhwdVlFdnBudHZweW0xQ3FBb3ZicEhsd2N2ZkJkLUg1VTdNWjUtRnRwTElUUThidmJGQ3YxZW5kQjJrbGUxa3Z0ZFNKVVI0WWJ0UGY1YktLU3J4RVZXYkNxVWd5WjVvUnczb0RQZURMSHpnODdOWDFPaEJpaThYYWUzZUhjN0JmY2tGYlAyX3JacEJoZFpnT1JHUEJkckF1aUN6SHRidUhCbXc0RXpJdUpDOA?oc=5",
+        "fonte": "Capital Reset",
+        "data": "2026-10-13"
       },
       {
         "titulo": "Brasil deve ter o segundo menor custo de energia solar firme do mundo até 2035, projeta Irena",
@@ -151,6 +145,12 @@ window.NEWS = {
       }
     ],
     "epc": [
+      {
+        "titulo": "Infraestrutura brasileira pede mais investimentos públicos para destravar projetos",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaVd3cVFpZVhnX1RyXzJsOV9oUFlOZVlSTURWengwVmhXUmpqRk9jeVk0eWIzSi1IbTJVVGhWdFM0ZEdIdTQtajQweGpKN21Zejc4RTVjdGh6VEducVk3VTFiWXAweENTMGhlWXFGQ0RwREVrLUV6TW4zR2trUDk2RlY5djlKSkNQczNRdURKUEhxS1JGM3FVZkV3bWIzVkVUUTBpbVpGa1FnclQxRkc4MjZiRFNyQWhNTXg2MHB3?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-16"
+      },
       {
         "titulo": "Depois das urnas, infraestrutura hídrica entra na agenda do próximo ciclo: Brasil tem sete anos para avançar na universalização – Jornal diadia",
         "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNQnQ1SUtlSjBQRy1LeDFlc1U5Z3VnNnB0Sy1UUE96QUtlemhBQlh4TElSbTlnQkl1UF9mSkZGZ0V5Z2gzdXlHYjlOQ041eG1mYkVzV01tbzFXS1FFRjBPcU1KNndLMEZRN3BHM2dwWmJaNmMwdkExN1Iwb1oxMEl0dE9abG51TlU1VkZUaWpBNjRPTmRYOXg1RG5qMjB3LWpJZ3pyVFZNcmVMbzVuSDRHcGpnQXZlRFJaVGQxQ3F6elB2X2ZCVlkzSFVLa2s0N285eDhPMGtEQ1NXQkxDMkFJUnRtbTBraV84enc?oc=5",
@@ -181,25 +181,31 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
+        "titulo": "Mato Grosso do Sul chega aos 49 anos com indústria em expansão e novos investimentos",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2ZiaFJyZ1pFRGJ6WXRJOWdQTXBDNHNIN1YtalZ2aDU0YzUwQlhIX2NvM1hDZnhBUGxwdFZtWGZPS3g1WEtKdDdDTnAzU0wwZzlIV3R0enVvWEFSdW9fdDNGMjdRYzVTUkllSUFLeHVSUHlzVlNDbUJRLU1nVXJuc210dTBYRmg3TVhSNjVFQjFLbXN1UVZobW5XakV5U2NQNk1UWW9oTkQ4aUxIYmFHc3dHeGE0Y0c0aU80TnJYTndWWXVGWnQ4TkJ4RHZvMDljY1FUQWRZajByUQ?oc=5",
+        "fonte": "Capital News",
+        "data": "2026-10-11"
+      },
+      {
         "titulo": "Fábrica de água mineral de Cristiano Ronaldo não traz novidade frente à indústria brasileira",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3lLWVdiUDc2WS1iNTBjU0tiTUFJcDlRUF9HVGNNQzV3QjFhYUVqbW1oczhGeWhBUGwtNjNQM21ldl9ocHgtejRqT2VvNHhoZWVsbVJCS0hCUmR4NHZjbkR1T3pTUE9TRmZtaTJ2LWlxcXZ6cXpmdlU5ck5iOXlJX3FEN0d5VGgzSDNhZDFfUWt2Z3dDY0E?oc=5",
         "fonte": "Economic News Brasil",
         "data": "2026-10-14"
       },
       {
-        "titulo": "GlobalFoundries operará duas fábricas em NY em acordo entre Japão e EUA",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTlNvOFZMTm9fOHBNYkMza3huWGxMVDJwTlZXRTVrN2JrMjFFTnhvTi1XRm5sNFhfSWJsbHRjY3BVQ211UXZmMmNTX1A0NmdCT2FmWW9DM1FQVHFtVGNBOVMxM1JEckloZ1RPa2FLcE1WYm5kQkk4RW5UelVJQjZ2Z1NhbE5sc2xOdWgtRTFFb09PU05XR1VONVFTWHNfdHRKWjg5eW85OGhkS2ZLeWJHRU9yeEk0Nk9RQnhQWnVTdnZlN2M?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-14"
-      },
-      {
-        "titulo": "Grupo José Alves projeta faturamento de R$ 10 bilhões até 2034",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT2swU0xwdWZTMGx6Tk5hSldMeHVycDhQdVRrbFl1b2w1R0xIaC15SHlPQTZLRHJyQlc4RUlIUzk5MXpGaVp0VWMtVjYtMVlMSzlZZGtoNmx4QzhIVGxYY2FzQU8tRWk0c0dkSWVhTUdJd053VmdSclAybHp1V0RjVTFsTk9Pb0Z6TEptUnFmZXFxTTZfNzVWcHlfS3g4WlBwSER5RW83V0o?oc=5",
-        "fonte": "Engarrafador Moderno",
-        "data": "2026-10-15"
+        "titulo": "Com investimento de R$ 140 milhões, indústria calçadista deve abrir 4 mil empregos",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblEyWlFiamN6WGhNREVFdlFwd1hJQXFnUHhZQ3oySW9tc0xncWZYZG9mQVlUc2RFTFFJYTY5dlhsX0xLMHRkWGk5cUdUS1RTcHluMl9kSlNlNVRuSFFJSG5EOGhzT2c1Zng0eXpMTi1vQlNBVXlra056RlJpaUNpXzF1OG15ajhISWpFV1NBcFFLMkt1MTJMTVVCVDBTaVZZdjNLWjJqVnRMY0dPaC1FY1RXOVd0QdIBuwFBVV95cUxNTnFva1VEb01ZaUpWVU5tRkZVTno1TnRIRldYYzJpU3JtZ0l6Y1VudTJRaWNmaHRkUjFueURxWHJUZk9tU2R6cWQ0dklBM2w3bVZNd3JsNkRLNTNFekNUM0Y1RGNheERQQ0hBZHdPS19RRGJ3RmJTR0x4ZURXUjJCYWp1TTdNa0tIbGFkaGZVU1Q3RnFtYkcwcE5PMzVhakhONkJWbWhKUzNTMDlXZWxuOEJvUGFUUUxGb3F3?oc=5",
+        "fonte": "Jornal Exclusivo",
+        "data": "2026-10-16"
       }
     ],
     "logistica": [
+      {
+        "titulo": "Investimento em logística saudita | Guia de portos e ferrovias",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRZHREMVllU1VYZUpNMUZuOTZiYU9LZnZzTVdndVB4N0cyTGtzcnZqTkpNZXhscXdZbzdiSV9WQVFsUVlpRkprbTlpdGJrQWJURUUyWUxsNXRFYkRwUGc?oc=5",
+        "fonte": "vision2030.ai",
+        "data": "2026-10-17"
+      },
       {
         "titulo": "Porto de Paranaguá faz primeira conexão do Moegão com terminal",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkU2NjdrLWEyZW9WVGFzcDhQd29HbVZUYmNDNUpIYTBvWmVpSHVBMW1KU3ZnUkN3ODNwWGNPQzZ4VV9vNjZRMkZERTRUQ1ZJWURvVlRrXzdmWDRBekQwbkY0NXVZLTVjQ0JvbFZUVS04WC1oMV81azVlaFR4RDhVZWxHb2JjUUI2bzBjaUJfZVlZMnZna3NFbHZLV29YelR3?oc=5",
@@ -211,12 +217,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUmVrbVJ5Ump1QnhOYlhza2tUd1FQdVUtdFdRdkNLVE5zdXA0aGtJd0p5RUxiNkQ5RmFteTVCYXdManNsdjhjUEpZN0pZQXRQbWVnSXRMajk3bXdEVXNKQlVjbDNrNDRqUHdpbHppMG5iVXB3NzJ2eEk1LV9Cb0t6LW1rQUZVSHoycEtud3htY1VQbWtYck9QOVlWUXY5UWlpS2t0RFgyNGR2Q2xq?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-12"
-      },
-      {
-        "titulo": "Governo prevê leilão da ferrovia Vitória-Rio em abril; projeto mira cargas e portos",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0MxNVlER1pUSkl4TVVuNFBwajJoWV9RM2Nid0RyaUUtTENxNk1SZ01pOG9WYWdnZlppMUk3dnAwZGRYd2VxUDVMQzFRMmNVMGQ2ZDI1eE9OT2hfSDdkNkdFMmpSQlBjZkFFUVdZUHhIcy1xRkxNN3BFc3JnVzVoM0lCY2hfWTczM0p5RkI0ay1uYjc5ZW9ibGdGLWc5SGJoSjJ1bXNyQnFuMjhZYkxRNjJOa0o2ZUpSVjV1elFPY1lDdw?oc=5",
-        "fonte": "Folha Vitória",
-        "data": "2026-10-16"
       }
     ],
     "maquinas": [
@@ -233,10 +233,10 @@ window.NEWS = {
         "data": "2026-10-13"
       },
       {
-        "titulo": "BNDES: R$ 150 milhões para a Soli3 investir em máquinas verdes",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkgwdzhUVGd0VElHdXRCc2VyU0tFWnY3X2JQSXlWb2RuUUtmZUgtUFhFZF8wTmFnZGdqN0RsUFQtT1NIZ3l1Q1g2YjNTUDlOUjhZX29CSUQ5RTRGekJzSzdhMUs2NnBHZnNZR1pjOWN4c2RUSzZORGFnbWs0TFJ0MTdsWFdqWVZ6ZFNMRVNyZkllcHZDNW9Meg?oc=5",
-        "fonte": "Monitor Mercantil",
-        "data": "2026-10-14"
+        "titulo": "Brasil e União Europeia discutem parceria industrial e investimentos",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUZiRmNHSDVaY3hvd05kenRzUU9uM0lpN2JQSkE1N3JESU1iVWI1Qjc5SHhleGJldHNOUW1JX1JNdHBzR1YwS0l6VkF0TTlpSkszaGx1YTlzMktaeU5DZEVocmVObzJ4YUxNMXhuOFVTTkVBVzcxNWQ0c2Z4SnJuTDdrM3BVZ1FxLUxzM2lZejk5NE9XSXFYMWI3cFVVeWZ2RTFBNDc1cGRfQQ?oc=5",
+        "fonte": "Canal Rural",
+        "data": "2026-10-16"
       }
     ],
     "mineracao": [
@@ -301,10 +301,10 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Cagece marca leilão de saneamento para 16/12 e investimento será de R$ 6,3 bi - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWkU2R2xtS3dsNWFXUW5uWUdldHZhamVVNDg1QkJyeXA4eG0yT3ltRENqWFJCZ0NQZTF3NWRkWW1tNUtlZXdUVDBLek40azBjcW5lM29BZy1zYXlwZ0xhTkt3ZVFsNEN3cVd0SndlUnhLMGxBRk9paDFqNW9ROGk3aW5Yck14MjY0R2pCQnB0Y1FqeUVBR1RvTVhLSW9kcF9BejFMX0daT2tmN2VqTTlHWDdFZw?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-10-09"
+        "titulo": "Leilões de infraestrutura após eleições podem gerar investimentos de R$ 54 bi",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDl0UlBGTXZwZGlXZ0tJUWxDaTRSVXE0NmQyaTVva1ZJMnRncTBEd256cHlQbTVXTTlLTkRlNTdFN1lpYlN0TllYV1RJcUVOOWVtbWVTY2tMZFZGUW9vUklYaTRfX2FyMEFzWjBkNnJCZTlOblZlcWRFQUk5d2wzcEF3R2t1ejgtZFRjQVVBU0ljeFkySmF0Q2IzdGtrNktWSnVwVDlwVUlwdjRSdk55NS1ScHFkYUU5d3pCZGpKUXYzMjZRTDNfaW9qLWxobk3SAd4BQVVfeXFMTnhtdHFqWExiVHhFUG5iYnF5M091NXNhTGptcUJrZ1FZMVhHNVRJVC02VDZlTHVVRnFXR1hRTUpPOWxsWUlYdUlXWElkVnhCbzg2dG9XRjlteVhnSUxubEpRVEowQWdubUI4bGpnbVBnS3BPa21hTzM5MXpWM3BFZ2lHQktjbUdSQ2lpZWpfN241VmNjeGRtclpiZm5jSFlUazg5Y3pnajduNkRxcUtlYkFMc2dpSHp2MDN3MFA1M3JMMzc1T0dNdWFUSmJfckFLZ3M4QTJvMl9oRG9vR0FR?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-10-16"
       },
       {
         "titulo": "A urgência do saneamento básico",
