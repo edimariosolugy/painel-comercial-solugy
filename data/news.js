@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-17T16:11:41+00:00",
+  "atualizadoEm": "2026-10-17T19:05:21+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,12 +24,6 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Indústria de alimentos e bebidas do Paraná aposta em tecnologia para ampliar produtividade",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDFUMHVENWU2R25QcHJrWWNnNTdFNjJkV2tKOWVxT2I3NkhhWkxNRTNuM3hwNk0yVnhWTmkzTUpCWDU5U2JWWGEtRGl3M1VvbFVORUtaRk9JVHJsS2xwRm1ReDk1ZG5nNFU5b21OeUR3VjVBeUJNbHlaSE1TWWtFZ1dtV1FCTTZoelJQd0l5VEhGNldIN3RuaW5DaHd2Q0ZzaTFXdHZJbHJEQ2JtSVFsV1I0eWliY0lGaEZyVzBEVzJQN0JvOXpPRTVzVlRTX1MzdDI0?oc=5",
-        "fonte": "jornaluniao.com.br",
-        "data": "2026-10-14"
-      },
-      {
         "titulo": "Invest RS reúne empresas e representantes gaúchos em encontro sobre negócios e investimentos em Paris",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8tejNfR3FEUFp3aHktU1M5RjV3anBYNy00VTR6R0dVTjlBMkhWckJvT1hIdzk3aWFFbTZFNWdXM1RyUlRuaUN3N0EyeDhRZDBFYVZfY1VsSl9rMnFpV04xRl9aMjJ2TEN3YUQzSzVHUQ?oc=5",
         "fonte": "Consumidor RS",
@@ -40,6 +34,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0pTeDl0N2RUa2dhb3NVQjJobXVSSW1POHkxb2x3Mi0yWHI0V1FCTDNidWw4WUJCakFyR3o0XzB0NEVjSldoTTlmS0FBbGd3MzRYU0FFdnowUHhKY1pScmJOVUNyUld4eWdTNXNLYUluU291WG4xdlFmRU51ak5iUjAwRWNWZGpSMWcyei02S3JtYmUzUHR1M2RMZm9CZzNGbWxqanhwR3pBaGN3YXVxWHhmdWwwY2Rqb1ZjZ0RldS1LMWdOVGxNSjByZjNWdW4yLVk0?oc=5",
         "fonte": "Agência de Notícias da Indústria",
         "data": "2026-10-15"
+      },
+      {
+        "titulo": "Invest RS envia missão a Paris com foco em atração de investimentos nos setores de alimentos e biocombustíveis",
+        "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOY0h6Q291WUVpTUljZzV5Q3Fzd1d5UV9CeW40c29rOFM3dFc0d05nTVVTVnlQUmRaX2l4UWhmb3FlcGxQYXB3ZFZQOVVqTmxwWHE3NWhFX2lVWGlDaVhXbUxQZk1tODFBbjJmSDAxNDAyWDkxaFhMNlh0eXBrQndEc1Nna2lvUlhBOTFhWV9EdnRMazdlLXI2SWZqVWp4RHZ0OXM3UlBHaDR6REZTbVNoWTRiTzF4S3JTWXJCMjZFRmdWamRHZENLcXJtU2pDTGxSTk1jUTdLeXpTSC1OTWlBaTJjdEstaDRGTlNWVlNfd3FEaWI0OWJ6Q3dBNWtCelF3cUszbHZtZlQzZi10VkF0bXRXeG40TWxVSXpqYmlfMUZYNHBRX1NQVzZ1Y2FBb2kyNUQ0dVJZSWFhZw?oc=5",
+        "fonte": "GZH",
+        "data": "2026-10-13"
       }
     ],
     "automotivo": [
@@ -62,12 +62,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVU5pYnJrSnJBMWY5c1hDc1MwdE5iZXdPMzMySlU4alk0TXd0dkV6aks0eW5FamE4cDFJY3M4Yk1XbE91MllhenI4aUZqbHZ3ZEFkZUxNVHptQ2JvTFEtMUtsYTM4bmhEc0xrcmpMX0xOQ2JaSm56WlRjV1YtOEliOUhZZks2UHZQYm1raUxaV0ZLeVlvZ19jU2htdUZVVnl5NXU4OGJaRkFqNDJJMkt4WFBKTDl6UjhEdWdsXy1uVlNqNFRXa25wVlVjZlpOdmMxRTJTVUlSWnk0WW15VVNRTjhB?oc=5",
         "fonte": "Portal do Agronegócio",
         "data": "2026-10-14"
-      },
-      {
-        "titulo": "Usinas de bioenergia guiam a nova corrida do ouro no interior de Mato Grosso",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVm5LanRnb0NBcjIzeGFEeTFMcFR2cmRFR2dvNHlpakZZUVZDRTY2SUJ2MTZxYkpWYkt4OGsxTmM1ZU1rdEpyMHowaXhpSllzMGNVY2J0UTlOTVRTTjc5TUh4VWRxN0xWMmxobUxFbWVLZ2lMZ25YUHBOVExJQXRMSHpqMm80MHFDS0pMQjJiVUlxRUpxbi1QTngyYV82YmJyc1c2OE9SbjlPVWxkbFRUY0hPeTQ?oc=5",
-        "fonte": "CenárioMT",
-        "data": "2026-10-15"
       }
     ],
     "cimento": [
@@ -201,16 +195,16 @@ window.NEWS = {
     ],
     "logistica": [
       {
+        "titulo": "Investimento em logística saudita | Guia de portos e ferrovias",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRZHREMVllU1VYZUpNMUZuOTZiYU9LZnZzTVdndVB4N0cyTGtzcnZqTkpNZXhscXdZbzdiSV9WQVFsUVlpRkprbTlpdGJrQWJURUUyWUxsNXRFYkRwUGc?oc=5",
+        "fonte": "vision2030.ai",
+        "data": "2026-10-17"
+      },
+      {
         "titulo": "Porto de Paranaguá faz primeira conexão do Moegão com terminal",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkU2NjdrLWEyZW9WVGFzcDhQd29HbVZUYmNDNUpIYTBvWmVpSHVBMW1KU3ZnUkN3ODNwWGNPQzZ4VV9vNjZRMkZERTRUQ1ZJWURvVlRrXzdmWDRBekQwbkY0NXVZLTVjQ0JvbFZUVS04WC1oMV81azVlaFR4RDhVZWxHb2JjUUI2bzBjaUJfZVlZMnZna3NFbHZLV29YelR3?oc=5",
         "fonte": "Folha de Cianorte",
         "data": "2026-10-13"
-      },
-      {
-        "titulo": "George Santoro: governo inicia leilões de rodovias e ferrovias no primeiro semestre de 2027",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObzAxTnltbmVJTUEwb1Vub3Rjck9MaFhTM2NNMmpsQzU4SFpwZURjU2pibjk1dmhhbFlIUXM4RkM0d2hGeXR4WmJkSFFvLV9KX1g2T0NsTEI2WmllNkgxb0dxbS1YS1FfaU1LM2p5RFQ5ck03aHBfMUkzcnpiRTVyeWthQjJ4N1dEbGN5U19sb2tvVHI0YzlVWVBoZFlPR0dJcHFkOHJiU1lFbWFtdkhHYUd0R2xyQ0pjWlJ0NGV0enFib1dzZzNqMFFUMDNPal9vcGZGYzlPZHI2a2FaYm9nOE1sWQ?oc=5",
-        "fonte": "Tribuna do Sertão",
-        "data": "2026-10-14"
       },
       {
         "titulo": "Governo prevê leilão da ferrovia Vitória-Rio em abril; projeto mira cargas e portos",
