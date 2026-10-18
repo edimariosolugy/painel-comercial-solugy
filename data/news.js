@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-17T22:01:31+00:00",
+  "atualizadoEm": "2026-10-18T00:42:28+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Invest RS envia missão a Paris com foco em atração de investimentos nos setores de alimentos e biocombustíveis",
-        "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxOY0h6Q291WUVpTUljZzV5Q3Fzd1d5UV9CeW40c29rOFM3dFc0d05nTVVTVnlQUmRaX2l4UWhmb3FlcGxQYXB3ZFZQOVVqTmxwWHE3NWhFX2lVWGlDaVhXbUxQZk1tODFBbjJmSDAxNDAyWDkxaFhMNlh0eXBrQndEc1Nna2lvUlhBOTFhWV9EdnRMazdlLXI2SWZqVWp4RHZ0OXM3UlBHaDR6REZTbVNoWTRiTzF4S3JTWXJCMjZFRmdWamRHZENLcXJtU2pDTGxSTk1jUTdLeXpTSC1OTWlBaTJjdEstaDRGTlNWVlNfd3FEaWI0OWJ6Q3dBNWtCelF3cUszbHZtZlQzZi10VkF0bXRXeG40TWxVSXpqYmlfMUZYNHBRX1NQVzZ1Y2FBb2kyNUQ0dVJZSWFhZw?oc=5",
-        "fonte": "GZH",
-        "data": "2026-10-13"
+        "titulo": "Agronegócio brasileiro: conheça 4 gigantes do setor na bolsa",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12UmNCeXFPUUZjM1I1NFpmYU9LMkJubUp6UWZIM2VuSHNfYUtaMkpmSkE1QmRlUTZyUDNEWXRqVFpRcVIxMWJ6c01HMkg5Q21UWVdyNUNfNGt1b0QyeE0ySmlFQjJKZHdkeGJYOWdjMUh2SmY0bXkwMzZidw?oc=5",
+        "fonte": "EuQueroInvestir",
+        "data": "2026-10-17"
       }
     ],
     "automotivo": [
@@ -54,6 +54,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11Ti02c0J1NVotaTlyeUJDMTdXcnNJLXRsdm5TdUZzRzBrMUY2NEVqUXdrNWY4YVcteFJCY1ZqRXRuQXltd0dBU21mZ2NvNjBJcnFZTFVhcmZ6ZWNNT2hNWUJBc2kwWFJEUWJ2SEFndV9LMWFnczhFUUZkUXRQaFE?oc=5",
         "fonte": "boca.com.br",
         "data": "2026-10-15"
+      },
+      {
+        "titulo": "Modelo da BYD ameaça emprego no setor automotivo",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjBqN21RS0tjZmhzNTFlTUt6YXJfMHp3TXktTWFtSWxhWk1ja3NlTzJTUk1lRFVneDRqY3BYYnJQVlhrOGFmR3ZCaWUzdmtualJnYkpLa2lBODNmMC1WTEgzQ01jVm1aWnJtb2laeTFoNVVWUmRUS2h4Zzlka29PMjh1TnRqcTlj?oc=5",
+        "fonte": "Diário do Estado",
+        "data": "2026-10-17"
       }
     ],
     "bioenergia": [
@@ -66,10 +72,10 @@ window.NEWS = {
     ],
     "cimento": [
       {
-        "titulo": "Construção na Visão 2030: empreiteiras, megaprojetos e carteira",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNTVqSERSMXY2dml6Y25mMG4zRnlqbnd4S1ktV21aV3lnM25RZktKcmdpZThFRXJ3ZlVzZ0ZfZHhvQVJELTFMNGxRNWgtY3NWcFlPN0hvOEN2ZnRKR1hUODd5c3ZCeFJsbVRKc0xhb2VIMWQ4aVhjR2tn?oc=5",
+        "titulo": "Como investir na indústria de transformação saudita: guia",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFYWjA3cTA5d3hfNmVLRG5CX1JjQTJ1QTBORTJwS2FTa1locmdnVEtfX2RzREN2SkoyOGVRQ0pNMlljUG5ReUFiaHJpbFB3MTZLR0RuYms1Zi02b2N5NnFxVERCSmJMMV9fczBUOXRsbFVqMWlUN24ydVNNRms5clBwb1Z1MDgzOXNfcDkxWWZWVENpQkZvWDJCWTBrVnE0VFE?oc=5",
         "fonte": "vision2030.ai",
-        "data": "2026-10-17"
+        "data": "2026-10-15"
       },
       {
         "titulo": "A província de Phu Tho está reforçando a transparência e a abertura nos preços dos materiais de construção.",
@@ -78,10 +84,10 @@ window.NEWS = {
         "data": "2026-10-13"
       },
       {
-        "titulo": "Como investir na indústria de transformação saudita: guia",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFYWjA3cTA5d3hfNmVLRG5CX1JjQTJ1QTBORTJwS2FTa1locmdnVEtfX2RzREN2SkoyOGVRQ0pNMlljUG5ReUFiaHJpbFB3MTZLR0RuYms1Zi02b2N5NnFxVERCSmJMMV9fczBUOXRsbFVqMWlUN24ydVNNRms5clBwb1Z1MDgzOXNfcDkxWWZWVENpQkZvWDJCWTBrVnE0VFE?oc=5",
-        "fonte": "vision2030.ai",
-        "data": "2026-10-15"
+        "titulo": "Construir em Minas custa R$ 133 a menos por metro quadrado que a média nacional; veja o impacto",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXVrSm80cGlDYnBNV0gzUklBUXltYjlKWmRJcktqakhIZ2stYWl2Y2hiaHc0SF9tYU41RGNGREhHRG5TYlZNT1FyYzhMNVI0UWdUU0NKRWw3eHNtQXo1a29RQmV2Zjg0dVppcXd1Ym9ZcFAtS3BCNFZNcmloVE1Hc1pNSE1ZU2R3dUJVMWtBMHJVYjR4dEZONmtqRQ?oc=5",
+        "fonte": "Moon BH",
+        "data": "2026-10-14"
       }
     ],
     "comercio": [
@@ -175,12 +181,6 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Depois do software, Índia quer descer da nuvem para o chão de fábrica",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaUUyWWlRdWFXU0pLd3haUFRnZGlFcXhUMmUwMWpSUEoyYXpoUVZqdTZiVDY3TGpmazQ0UEtscWl0SElQeFB3c2J3ZXRCeDJQUUtOM3VrYWNBQkkxMXdLRUNhQjFTSUx6eXFFcmJhODVDNk5rYzN2SHY4T3VIQllwR2ROcm1lUGJwdGpKUDdYbzN0d1B1Q1UwMXR5MTRDRjlibHNjMW5rbFBnUzNPbHpLOGFGUjA4VDVwYVd1LQ?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-10-17"
-      },
-      {
         "titulo": "Mato Grosso do Sul chega aos 49 anos com indústria em expansão e novos investimentos",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY2ZiaFJyZ1pFRGJ6WXRJOWdQTXBDNHNIN1YtalZ2aDU0YzUwQlhIX2NvM1hDZnhBUGxwdFZtWGZPS3g1WEtKdDdDTnAzU0wwZzlIV3R0enVvWEFSdW9fdDNGMjdRYzVTUkllSUFLeHVSUHlzVlNDbUJRLU1nVXJuc210dTBYRmg3TVhSNjVFQjFLbXN1UVZobW5XakV5U2NQNk1UWW9oTkQ4aUxIYmFHc3dHeGE0Y0c0aU80TnJYTndWWXVGWnQ4TkJ4RHZvMDljY1FUQWRZajByUQ?oc=5",
         "fonte": "Capital News",
@@ -191,6 +191,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3lLWVdiUDc2WS1iNTBjU0tiTUFJcDlRUF9HVGNNQzV3QjFhYUVqbW1oczhGeWhBUGwtNjNQM21ldl9ocHgtejRqT2VvNHhoZWVsbVJCS0hCUmR4NHZjbkR1T3pTUE9TRmZtaTJ2LWlxcXZ6cXpmdlU5ck5iOXlJX3FEN0d5VGgzSDNhZDFfUWt2Z3dDY0E?oc=5",
         "fonte": "Economic News Brasil",
         "data": "2026-10-14"
+      },
+      {
+        "titulo": "Com investimento de R$ 140 milhões, indústria calçadista deve abrir 4 mil empregos",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblEyWlFiamN6WGhNREVFdlFwd1hJQXFnUHhZQ3oySW9tc0xncWZYZG9mQVlUc2RFTFFJYTY5dlhsX0xLMHRkWGk5cUdUS1RTcHluMl9kSlNlNVRuSFFJSG5EOGhzT2c1Zng0eXpMTi1vQlNBVXlra056RlJpaUNpXzF1OG15ajhISWpFV1NBcFFLMkt1MTJMTVVCVDBTaVZZdjNLWjJqVnRMY0dPaC1FY1RXOVd0QdIBuwFBVV95cUxNTnFva1VEb01ZaUpWVU5tRkZVTno1TnRIRldYYzJpU3JtZ0l6Y1VudTJRaWNmaHRkUjFueURxWHJUZk9tU2R6cWQ0dklBM2w3bVZNd3JsNkRLNTNFekNUM0Y1RGNheERQQ0hBZHdPS19RRGJ3RmJTR0x4ZURXUjJCYWp1TTdNa0tIbGFkaGZVU1Q3RnFtYkcwcE5PMzVhakhONkJWbWhKUzNTMDlXZWxuOEJvUGFUUUxGb3F3?oc=5",
+        "fonte": "Jornal Exclusivo",
+        "data": "2026-10-16"
       }
     ],
     "logistica": [
@@ -227,10 +233,10 @@ window.NEWS = {
         "data": "2026-10-13"
       },
       {
-        "titulo": "Brasil e União Europeia discutem parceria industrial e investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYUZiRmNHSDVaY3hvd05kenRzUU9uM0lpN2JQSkE1N3JESU1iVWI1Qjc5SHhleGJldHNOUW1JX1JNdHBzR1YwS0l6VkF0TTlpSkszaGx1YTlzMktaeU5DZEVocmVObzJ4YUxNMXhuOFVTTkVBVzcxNWQ0c2Z4SnJuTDdrM3BVZ1FxLUxzM2lZejk5NE9XSXFYMWI3cFVVeWZ2RTFBNDc1cGRfQQ?oc=5",
-        "fonte": "Canal Rural",
-        "data": "2026-10-16"
+        "titulo": "Juros seguem como principal barreira ao crédito da indústria",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPazFsWEpNSVppdTJfWWNYdGhBaXFWRWh2MGxhX3RYbWsyYi1zaTVUZVl1SS1ySDlRdFM1MTNBVFM4a0ZVR1E2NXA5MWQtUFMtNDg4N0lTaHFNc3pRR2VNb2w4Qm82Zkh2WGdIaC0xRkp3V1E5NUpDU3QxY0ItY25YZGNvWUR2SzRLcFRnY1hhOWFZV0VsT0NlcmZlXzltSE02S2NZUllUdnJPUl9YTS1qSmxtZGQwZHdVOE0w?oc=5",
+        "fonte": "Rede Catarinense de Noticias",
+        "data": "2026-10-14"
       }
     ],
     "mineracao": [
@@ -274,12 +280,6 @@ window.NEWS = {
       }
     ],
     "quimica": [
-      {
-        "titulo": "Linde, odisseia de 101 anos: a história da maior empresa de gases industriais do mundo",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0JieDgwUmxrelZmNWp4Z3FmT21JM29UR1dPUnYzVS1HNzJ5M2pVVzlGVDRYeXNVUGR4Y2c4YmJBTnpKZW9CNVphMXg0YXBLcmJNRWl1bjZILTQzeTl5SU0wS19ZX1JLR1lMdXZ2VkxmWjQyYUdzNUpwTzdtWW9CNmp4dDIyZW4ySmtoM9IBkgFBVV95cUxOLWVaQjE0RGhfWFV0dzFFY1ZtVGVNMW1pQk11azExWUdsZjFPX1dyc3F6djBoZmJPcUUyX1dFeXNnSWNZeTVvZEtLYWVqY2txcXNxeFdTRXBKWnFuSm5mVjIwdVIzUm41Mk9yQWxfVm5nZUxxZExsRmtpTnI4YlVLUDAxS3pWcGlhakR1ZE5BTDJRdw?oc=5",
-        "fonte": "Nord Investimentos",
-        "data": "2026-10-14"
-      },
       {
         "titulo": "AUMENTAR A COMPETITIVIDADE É A PRINCIPAL RAZÃO DE APOIO DA ABIQUIM AO LEILÃO DO GÁS MARCADO PARA O DIA 22",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTjNOV3R6UmFJNzVNVmZJeklsRGRDR3lQaXBHT3RvMmFOTTl2ODJIa0dnSkJfWHhRRk16ZExhVWlQZXM4V29QWUh6R3JhRWQ1LWR5M05HQS1Md1J3SHB5UHVyS0tNX0JlMEdQQ2dRN2FhcmdvRDFyRTFWSEFCUE1DUXVwTEpjTU9KdU4xVWJEeUhXSnNjYXBWVGg2Tl9OR1M4ZklQT0NLclB6NGdBYV91b2hfdWxuRENvRXlraEZNQ3BnVmdURlFLWEMxQWVkNXJS?oc=5",
