@@ -1,14 +1,8 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-19T16:18:06+00:00",
+  "atualizadoEm": "2026-10-19T21:22:38+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "Lucas do Rio Verde entra no radar de investimentos de gigante americana ligada ao agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKZGUtdmVxNE85Z0s5S2pWZFdhLU0zM3RpMGdUWEJWZ2t5b1pFMDFfRDFXZWlFUWFSSHpjMVRqTWdDd2V6X3ZHTkZPellyVDRQSnhVbjg5V0hGdFVhdkpMTTluVQ?oc=5",
-        "fonte": "Prefeitura de Lucas do Rio Verde",
-        "data": "2026-10-12"
-      },
       {
         "titulo": "O Brasil está prestes a desbancar os EUA no agro, quem ganha com isso?",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMElkeWEwa2puWk5faDRQREEtS2p6eEtZTG81ak9uU3hmWFpyZWRScjFvbzJHR09DQWRkc3JZajZvU1NSS2J1LWVueG96bHJKUTZGWW9CYm9hdXdfMHlQMHZrQlBaRG1vSkdENXl0UHNIV2szQWtaejhlRF9IQTdscnk3UjZaZWRnUURyRXN4RXc3MFFYY0tPeV9vdjdjMmVTNjE0UWE3eUE3MXhoUVhkQXhVWktGQkZEcTYtbnRZZXNZQjh1VVFnMDNlNFpmQ1dpUDhfQ2JDTE1Vd0xkVDlJ?oc=5",
@@ -20,6 +14,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzQxNnV5WVUtbzFOLTNnbVRUdjA3bW52eHdwbXl5ODJKRHRvc0FSWXhGNnNYYWdMMl8wSGJzYnh1b1pNZlcyVGRkOXF0TUtyQ3d3WlBaY2lwU0Z3QlZLSDY5eU1NNjNZVmw0aklLZHdQV0hFUTV0czNOVlRWRFExd096aFNPTDExZ2o1NlF6Nm1Ha0R3c3NuR0lEMW1zYnFWN1lLQjlnRWJIZHJMNkJpYzV0aEROeE9lWlpEMjlwQUJ4b1VsOTJlVHkwNF91YVB5MEE?oc=5",
         "fonte": "AgFeed",
         "data": "2026-10-15"
+      },
+      {
+        "titulo": "Agronegócio brasileiro: conheça 4 gigantes do setor na bolsa",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12UmNCeXFPUUZjM1I1NFpmYU9LMkJubUp6UWZIM2VuSHNfYUtaMkpmSkE1QmRlUTZyUDNEWXRqVFpRcVIxMWJ6c01HMkg5Q21UWVdyNUNfNGt1b0QyeE0ySmlFQjJKZHdkeGJYOWdjMUh2SmY0bXkwMzZidw?oc=5",
+        "fonte": "EuQueroInvestir",
+        "data": "2026-10-16"
       }
     ],
     "alimentos-bebidas": [
@@ -54,18 +54,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11Ti02c0J1NVotaTlyeUJDMTdXcnNJLXRsdm5TdUZzRzBrMUY2NEVqUXdrNWY4YVcteFJCY1ZqRXRuQXltd0dBU21mZ2NvNjBJcnFZTFVhcmZ6ZWNNT2hNWUJBc2kwWFJEUWJ2SEFndV9LMWFnczhFUUZkUXRQaFE?oc=5",
         "fonte": "boca.com.br",
         "data": "2026-10-15"
-      },
-      {
-        "titulo": "Modelo da BYD ameaça emprego no setor automotivo",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjBqN21RS0tjZmhzNTFlTUt6YXJfMHp3TXktTWFtSWxhWk1ja3NlTzJTUk1lRFVneDRqY3BYYnJQVlhrOGFmR3ZCaWUzdmtualJnYkpLa2lBODNmMC1WTEgzQ01jVm1aWnJtb2laeTFoNVVWUmRUS2h4Zzlka29PMjh1TnRqcTlj?oc=5",
-        "fonte": "Diário do Estado",
-        "data": "2026-10-17"
       }
     ],
     "bioenergia": [
       {
-        "titulo": "Agro e eleições: O que Flávio Bolsonaro e Lula propõem sobre bioenergia e biocombustíveis",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTk4MnJpdVVWNlpCMUJrVnlNOVdtcFAzSDlTc1ZuVXZxdmFkWnA1Z1RtYUVOb2J5LWNXejM1aWVlclBwYTUzbEU0SWY1WEYxY3pGX3FWSmZqcXAyb01wYzB6a09mM2lqNjRGNHdwN1V2dUNwVDdiQUxEaVlFdWFnX29oNmtYeWRJU2lyUXJkMk9abGlYMUYzUzVIQ3haVlZucmlNWXN4SkRJTmRwaHFxTEJweGw5aTJVR2tsT3RFMA?oc=5",
+        "titulo": "“Garapeiros” e “pipoqueiros” fazem as contas para investir em etanol",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFBBamh5d0lFZDZWSmliU0tNVUdEMmxxZFlNMkNnX0huQXhudXdTMDc3S2VTMlB1b2dqUFlVTFdCeFUzTm52MW9pRnFVeVpCQXNxYlpnc0k0bFFuVzh5MDZpSG54LVVGZHdUdC04Rkh1WTg0SWVOOVNHd05Cd3RKQkp3anVkV1BYQWlqc2EtVnJ1SC1VSmJlMVVpVjF3cFk?oc=5",
         "fonte": "NovaCana",
         "data": "2026-10-19"
       },
@@ -114,12 +108,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWC1BQkd6Q2loNTFuUjl6WjRLYUQ5YjZSSVMzYXktdVFsb0NRVzFtU2hTWUJUaHBHallvak92V3NaRzRSdHB1VWhjR1hKd25UU0V6WWhiMENSbUw1VzJFUzdCaTNMcVY4T3FCamRfeE1qdk9qcnpTbjRZMXZCdUpFZ2JVUHI4TXR6anQ5OUhQeGIxSXNwVXR3ZDVjZlgzMXA4SFpEdDZRdmUtZUY0Tk90OGdqOG1CMExqNlhBMW5R?oc=5",
         "fonte": "NSC Total",
         "data": "2026-10-19"
-      },
-      {
-        "titulo": "Hisense e Haier negociam fábricas de eletrodomésticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNalk4MlMyRE5GNWlFbUpsYlVfNXdUS3YxalExeXVqUkRHa2FBZjNRSUFON0FxR2RzUHdBaG5OeEpWSERZc2tMeEdPNHNWN2N0enNQUmo3NFNmNm1PZUlLQ0Fsdy0wQkpWV2ZSamxvM3FzQ0FjdFN2MXZsT05FVURjY3M0N2NCeWNMRXdxcW1YZ1BSSjRlWWc?oc=5",
-        "fonte": "allconnected.media",
-        "data": "2026-10-14"
       }
     ],
     "energia-gt": [
@@ -186,22 +174,22 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Lucas do Rio Verde entra no radar de investimentos de gigante americana ligada ao agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKZGUtdmVxNE85Z0s5S2pWZFdhLU0zM3RpMGdUWEJWZ2t5b1pFMDFfRDFXZWlFUWFSSHpjMVRqTWdDd2V6X3ZHTkZPellyVDRQSnhVbjg5V0hGdFVhdkpMTTluVQ?oc=5",
-        "fonte": "Prefeitura de Lucas do Rio Verde",
-        "data": "2026-10-12"
-      },
-      {
         "titulo": "Serra: quando a indústria cresce, a oportunidade atravessa os portões da fábrica",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDFLSGtNckZnWDlDc0tzTWxrSnNvdGVwcElSVWg0bF9JNU1Benl5Znd6NTRJNk9ZeWVxSmM0OGNCYUtJUXZDcFFEWTZtLVJTS0UyM1J1dHlfUEwtR21qRlpYMW1vMmZfSkxDSnZFeGd2TVFOdWNqd25YVUNoc3BEdUFlcWJKQzhQSWJ1aElkS2NLbWRlaEc4eDVQSUs5RmhJWGFIU1dUS1QzMlFpVklBTzZ2TTh6dWJ5SWc?oc=5",
         "fonte": "A Gazeta",
         "data": "2026-10-19"
       },
       {
-        "titulo": "Com investimento de R$ 140 milhões, indústria calçadista deve abrir 4 mil empregos",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOblEyWlFiamN6WGhNREVFdlFwd1hJQXFnUHhZQ3oySW9tc0xncWZYZG9mQVlUc2RFTFFJYTY5dlhsX0xLMHRkWGk5cUdUS1RTcHluMl9kSlNlNVRuSFFJSG5EOGhzT2c1Zng0eXpMTi1vQlNBVXlra056RlJpaUNpXzF1OG15ajhISWpFV1NBcFFLMkt1MTJMTVVCVDBTaVZZdjNLWjJqVnRMY0dPaC1FY1RXOVd0QdIBuwFBVV95cUxNTnFva1VEb01ZaUpWVU5tRkZVTno1TnRIRldYYzJpU3JtZ0l6Y1VudTJRaWNmaHRkUjFueURxWHJUZk9tU2R6cWQ0dklBM2w3bVZNd3JsNkRLNTNFekNUM0Y1RGNheERQQ0hBZHdPS19RRGJ3RmJTR0x4ZURXUjJCYWp1TTdNa0tIbGFkaGZVU1Q3RnFtYkcwcE5PMzVhakhONkJWbWhKUzNTMDlXZWxuOEJvUGFUUUxGb3F3?oc=5",
-        "fonte": "Jornal Exclusivo",
-        "data": "2026-10-16"
+        "titulo": "Fábrica de água mineral de Cristiano Ronaldo não traz novidade frente à indústria brasileira",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3lLWVdiUDc2WS1iNTBjU0tiTUFJcDlRUF9HVGNNQzV3QjFhYUVqbW1oczhGeWhBUGwtNjNQM21ldl9ocHgtejRqT2VvNHhoZWVsbVJCS0hCUmR4NHZjbkR1T3pTUE9TRmZtaTJ2LWlxcXZ6cXpmdlU5ck5iOXlJX3FEN0d5VGgzSDNhZDFfUWt2Z3dDY0E?oc=5",
+        "fonte": "Economic News Brasil",
+        "data": "2026-10-14"
+      },
+      {
+        "titulo": "KTM inaugura fábrica própria no Polo Industrial de Manaus",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlNRM2hzMzRnV2E5RTBjc2FONWpXTUZvUmtvMHZxNHR2TVlWVGdiQzQ4dGNPeW1SQ0J6UHJaOExfRURKRHNnYl9EOGZJWks3dHdndWc4eWhzNTNxdTEyYm9zS0JqLUJnbmNPU0RpM1VHQk1vN18zVXFOX19PdUxYZWMwSzhwajdLclNrRnFGdmlfNjFHbkZ1SERKOTQ0X216TDQ3NNIBqgFBVV95cUxNTEt2ajJtLVlrb1hwR2JMNXJJM3JfY1VyWXBBTk1QTGhkUUwyb0JhTENZR2hZa195ZjVIcEFFc3V2RnBPUjdZbXVFLThNX05aMGpnRDZZSktSMDNGOFM1aWFvZHNCWWdBUWNnWVExbDJ5c1lfeFJIejNwM1RZb0h6aVJfWnJOclpQRWdOMkNraVhUODM1dlJGaWFUTmhUUWxnYS1icTdGS0g0dw?oc=5",
+        "fonte": "AutoIndústria",
+        "data": "2026-10-14"
       }
     ],
     "logistica": [
@@ -278,10 +266,10 @@ window.NEWS = {
         "data": "2026-10-16"
       },
       {
-        "titulo": "O futuro da produção de celulose no Brasil em quatro caminhos",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeXZEX2I3NmpGaWpFZ3h6NWVsZFB6SGgzODdOUnQ1amdZUlBNZUo1TnN5M05hZ1loakJNTHFmVW5URHNUZ1RyWnlMX1ZXWmQwR2wwYzBCUTZLNE0yaDI3OU5veld3a3dySXdfRjdXb0lJYmZVckVId0k5NzZIUFpPODhSNno5eTZJVXN5NFZkWmhRSUN6d2J3?oc=5",
-        "fonte": "Portal Celulose",
-        "data": "2026-10-15"
+        "titulo": "Celulose ganha força no mercado global e movimenta ações na Bolsa",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmpTZ1JwSTRwTk5rZWdvdmM4Z3VjdFZIYWJLRkN5eWgySGUwVkhGSkowY2pBM0c2ZmRIZWJNTWFVbFQxYUtvQUc5WndpbEh1akNFY1pxRVppbWZKWDY2R1VvOGJJRVJSZENvZTFBLU1kdmJKVUVRY0d4eUp1akhYRm9CY0NJMjBxazIyaVJxdGFoNldxTXFaWE1Bakx1QUZybUZlckk1YWdIY0tRY0dyVUhhS2lZc0lOR05nVEJRZjRBX0JZQ2RCS0lYcE9rbG03bHFr?oc=5",
+        "fonte": "Hojemais.com.br",
+        "data": "2026-10-19"
       }
     ],
     "quimica": [
@@ -300,8 +288,8 @@ window.NEWS = {
     ],
     "saneamento": [
       {
-        "titulo": "Leilões de saneamento passam por choque de realidade para destravar quase R$ 17 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSWQzay1sdDdPTDdUQnRCbE5KZGcxeGtoeHpGQ2xEUU1tWEIwb0U1cmE5RENZT2tVMmxVaW81cGk5S2JhQWItX21EQUppS0FmRGhGX195Z2pJYmVYRktYNG91M1lDaTdYcGhsb3B3dnlzdHpGSHNMekw2eUZpUVMtNGdTSnRFMzdsbmFrY21NcFJKY0h6NTREVmp3WnotUWVXTEdfQTd4REpMMWFPcGxrZmNoaXRUcnNqcjlj?oc=5",
+        "titulo": "Governo avança em concessão de rodovias e desenha herança de R$ 160 bilhões em ferrovias",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTXVFdFM1OVd1a0pVMWVHbVdvQ3VEdGNlejM4WGQ2V2l5NUVmQ25OUU1LdjVSbkl1VFQ0eUthdG82eWJVOXc5SlJmOHYtZWxTdFBRLU9rTV9hVS03WVBYNmJ5N2Q3elJ1bmtaelVTLVIyb3hZYzRjdmxVRnN6MFJiSzFOOFRSdGdFX0drelBVaGhzWjk0WUtLSGxnMjlySzYzYXgzUF9BcGoxeDY0eVl5cTYxNGdtTnJFVFlwZg?oc=5",
         "fonte": "NeoFeed",
         "data": "2026-10-15"
       },
