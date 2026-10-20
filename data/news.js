@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-20T14:11:06+00:00",
+  "atualizadoEm": "2026-10-20T19:01:58+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,19 +10,25 @@ window.NEWS = {
         "data": "2026-10-16"
       },
       {
-        "titulo": "Opinião - Ciência Fundamental: Não existe agronegócio de sucesso sem ciência forte",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPa3NMTUx3dUdDamlKNjJEc240UXV2M3Qya3ZQbXhHVlVzYnM1aDQwNTRUQ1ZObk1Gb2xXTlFMYkdVU1JXSWM5UEh5Q1hzV1hvOVRHS05FMFotS0VwY3dzUlVDVVZBUmlvd1NrNTlobFBTSTJYM3BYRk5aQ2I1ZGlJRmJHcHRRZU5vcUJITlM5VUlLY3BEc2NkcnFmRmludFZ1M3lXaDFCUlNuVjRtWm5FN0lya1QzZ2w0ZG1nbENn?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-10-14"
-      },
-      {
         "titulo": "Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzQxNnV5WVUtbzFOLTNnbVRUdjA3bW52eHdwbXl5ODJKRHRvc0FSWXhGNnNYYWdMMl8wSGJzYnh1b1pNZlcyVGRkOXF0TUtyQ3d3WlBaY2lwU0Z3QlZLSDY5eU1NNjNZVmw0aklLZHdQV0hFUTV0czNOVlRWRFExd096aFNPTDExZ2o1NlF6Nm1Ha0R3c3NuR0lEMW1zYnFWN1lLQjlnRWJIZHJMNkJpYzV0aEROeE9lWlpEMjlwQUJ4b1VsOTJlVHkwNF91YVB5MEE?oc=5",
         "fonte": "AgFeed",
         "data": "2026-10-15"
+      },
+      {
+        "titulo": "Agronegócio brasileiro: conheça 4 gigantes do setor na bolsa",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12UmNCeXFPUUZjM1I1NFpmYU9LMkJubUp6UWZIM2VuSHNfYUtaMkpmSkE1QmRlUTZyUDNEWXRqVFpRcVIxMWJ6c01HMkg5Q21UWVdyNUNfNGt1b0QyeE0ySmlFQjJKZHdkeGJYOWdjMUh2SmY0bXkwMzZidw?oc=5",
+        "fonte": "EuQueroInvestir",
+        "data": "2026-10-16"
       }
     ],
     "alimentos-bebidas": [
+      {
+        "titulo": "Exporta Mais Brasil apresenta potencial da indústria brasileira de pescados a compradores estrangeiros",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXdoWk05MmhscnBsV2dsQzI2b2NjdUo2YlJVWmtCNVZIRkNPNWx6RFJobG1tR1hyc3ZHV29uWDZqcVRTZjVXeFhwZm4yU3VtaXpPMnRXSmw5NldNVTZxZmN4djlzSHlJWUduc3NLMDlKODdDVnRfaUN6RDFfS1VUdUJydWVDbDEwbTVjd0lRVTRWX1Z6R0RUTUlvcDlRR3dla0RwV3hmcmVEQ0dYVzJCYmRuM1EyYmhQejl2ZzdORnBsNWxaSGM0SXI2MmVVb3J6YmxrYg?oc=5",
+        "fonte": "Apex Brasil",
+        "data": "2026-10-20"
+      },
       {
         "titulo": "Com investimento de R$ 40,8 milhões, nova escola do SENAI é inaugurada no Piauí",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0pTeDl0N2RUa2dhb3NVQjJobXVSSW1POHkxb2x3Mi0yWHI0V1FCTDNidWw4WUJCakFyR3o0XzB0NEVjSldoTTlmS0FBbGd3MzRYU0FFdnowUHhKY1pScmJOVUNyUld4eWdTNXNLYUluU291WG4xdlFmRU51ak5iUjAwRWNWZGpSMWcyei02S3JtYmUzUHR1M2RMZm9CZzNGbWxqanhwR3pBaGN3YXVxWHhmdWwwY2Rqb1ZjZ0RldS1LMWdOVGxNSjByZjNWdW4yLVk0?oc=5",
@@ -34,12 +40,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlhtbkxBM3JKTTRmREZkUUVlOU5GSjlGQ3pMaGxwNGt0SnZhN3dGbHZFNVVic2JuT0x6eEpSOFhUdjdQZ1pfX2ZiRHRpZTdoQndMZTJOTGpxTFBET2NLS2MyY3JBQTdJWll5bC1lR1pKeDlPUmxrTDlSZlMtYmNBUUZhcGVjVTVrcWFnR1VCdzJFWjVVdDVzM2kxSml5RG5CTllBaWVIb054cVJtWlZSVzF3bjZRSzRlWWstMTNQRTFVdkVoTlFjVmVHV2M?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-10-13"
-      },
-      {
-        "titulo": "Agronegócio brasileiro: conheça 4 gigantes do setor na bolsa",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12UmNCeXFPUUZjM1I1NFpmYU9LMkJubUp6UWZIM2VuSHNfYUtaMkpmSkE1QmRlUTZyUDNEWXRqVFpRcVIxMWJ6c01HMkg5Q21UWVdyNUNfNGt1b0QyeE0ySmlFQjJKZHdkeGJYOWdjMUh2SmY0bXkwMzZidw?oc=5",
-        "fonte": "EuQueroInvestir",
-        "data": "2026-10-16"
       }
     ],
     "automotivo": [
@@ -84,19 +84,25 @@ window.NEWS = {
         "data": "2026-10-18"
       },
       {
-        "titulo": "Construção na Visão 2030: empreiteiras, megaprojetos e carteira",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNTVqSERSMXY2dml6Y25mMG4zRnlqbnd4S1ktV21aV3lnM25RZktKcmdpZThFRXJ3ZlVzZ0ZfZHhvQVJELTFMNGxRNWgtY3NWcFlPN0hvOEN2ZnRKR1hUODd5c3ZCeFJsbVRKc0xhb2VIMWQ4aVhjR2tn?oc=5",
-        "fonte": "vision2030.ai",
-        "data": "2026-10-17"
+        "titulo": "Cientistas misturaram plástico, isopor e concreto reciclado na massa de cimento e, após 28 dias de testes, descobriram que o material ficou mais leve",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRzE2c0I5aWtOMUpQWVFtMC1jNE15amJMaEs3b3Rway16a3FvN0gxbGNBTDYzVXNjUFFlUzZYNDJnMkZjbjB2a0R5YWJqVTFvd25uOFc3ZnBzeE9kR2Z1cDJUWi01T0Vud2JpSVJRT2ZiUnRFbFFhU2t4OXEwWmlhZ1NHX3kzNXZqR29nNU1jQjJNbkd0ckVjQUJtZ1pZd1lRa1ktS2ZFUnEzVnFOR2dWMlVwV2xpMXVqMEl0ajEyaXNkd3VrWk10bmg1S182aS1KYkdkM2FDMmhlNHE0Sk1fV1F2SFhHNmNVblZLeW5YTlJyT194eC0yZ1JEMEYtcHk4N2ow?oc=5",
+        "fonte": "Super Rádio Tupi",
+        "data": "2026-10-19"
       },
       {
-        "titulo": "Como investir na indústria de transformação saudita: guia",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFYWjA3cTA5d3hfNmVLRG5CX1JjQTJ1QTBORTJwS2FTa1locmdnVEtfX2RzREN2SkoyOGVRQ0pNMlljUG5ReUFiaHJpbFB3MTZLR0RuYms1Zi02b2N5NnFxVERCSmJMMV9fczBUOXRsbFVqMWlUN24ydVNNRms5clBwb1Z1MDgzOXNfcDkxWWZWVENpQkZvWDJCWTBrVnE0VFE?oc=5",
-        "fonte": "vision2030.ai",
-        "data": "2026-10-15"
+        "titulo": "Construir em Minas custa R$ 133 a menos por metro quadrado que a média nacional; veja o impacto",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXVrSm80cGlDYnBNV0gzUklBUXltYjlKWmRJcktqakhIZ2stYWl2Y2hiaHc0SF9tYU41RGNGREhHRG5TYlZNT1FyYzhMNVI0UWdUU0NKRWw3eHNtQXo1a29RQmV2Zjg0dVppcXd1Ym9ZcFAtS3BCNFZNcmloVE1Hc1pNSE1ZU2R3dUJVMWtBMHJVYjR4dEZONmtqRQ?oc=5",
+        "fonte": "Moon BH",
+        "data": "2026-10-14"
       }
     ],
     "comercio": [
+      {
+        "titulo": "Nuvemshop reforça investimento em logística e abre CD no Rio",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUY1NFpLNGQ5Q2pyaVYtaHJqZ2NKNlJ4QTN1VzVtcDJHcnN5S2U5aUstcXdvN3JmTDdRamhWYmoxbkduTVBwUkRLa0pJa0ctQXlwSXRfdEdnbUpDRkpEUk5HSmozS2FPaEtmaU03YnFOaE1jcG5iUVZJUE9KTDVLaEZWeHFtalB3bDVWRnB6YTNpX1dNSGRyY3JUYVlGTE9qZnJYYQ?oc=5",
+        "fonte": "startups.com.br",
+        "data": "2026-10-20"
+      },
       {
         "titulo": "Transição energética vai além da troca de tecnologia",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVBTTzFseEUxbk1DZlVMQmhBMnJidHVUSkJlTTdGSlBZYVRXYmtJazZfQ0s2TV9WM0J2ejVQNkp5VnQzeWYyZy1hRWl6S3NGVmVQUWhQRERRanprOVdvcU0tMUlKR0R2LVRGQkxFX3RldTBNd2lxZzE0d2RObl8xWXpCdXFUeGtUaGw2NTdvNm83QXpZeGVWc2dlZy0?oc=5",
@@ -108,12 +114,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dqcVljZnlQdEc3aF9hRjlQcEVJOFMtNkRsc0RfeEJMT3dBU2ZqdFFMczhWaDRHakxPNFVSRExvZU9BTmVuY1NMb1E0dC1nVnlwQ1RmYkNWSXVkLWNMdGw5ekp2MS1Td04xaFBYU3dNQkFuTHZjUnRVZk0xM01ESGdsd1BlYXhCbkhhUUtvV1o4Z2M4TlZCZ1hWaVF4MDJsMUpoYml2MVg?oc=5",
         "fonte": "Times Brasil | CNBC",
         "data": "2026-10-20"
-      },
-      {
-        "titulo": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado da Havan",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZmc5eFZzRDFGQm50NTBMNm1xcmtTTy1hRnZVR2FxaWs4YmIzWUdrOHhLUXdBbnFuMmVrN1UxTUpLbU9HcXlSVUVtSGlCTU80LWtPLUcxNUsza2xfRGczNVZyV2pWS2FmU054aHhIblphbUVmMU5ZVHljVE1kNTNSVU5Rc1N0bHY1em82RmZncU5wQVk3ZlEyU0ZFQXFuLU1UM2NFUmVfRm1hQ2hVQmo0YUlEWnc5TFE4YlRuOXo5ajRqZWRob1VLeVlaaVZEcDJRa2Ntc0ZPemNNQk1n?oc=5",
-        "fonte": "Diario de Pernambuco",
-        "data": "2026-10-19"
       }
     ],
     "energia-gt": [
@@ -138,10 +138,10 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "WEG será parceira da GreenYellow em projeto de geração solar para 54 lojas do Carrefour Brasil",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUzZVVTYtblVmVW9qbE9KemFfYm5Wc0QtbWduR2Z3VU9tMUwxOGNKQVJMVzhuUnBBYk85T2MycVV5RWUySVd6M2p5NU1RUm1XdnBhVloySXlzUEpVYVRQdHNQbTBXWXlSMEdPU2hoUFN1dEdNWDBtZUwtZGhTZVJxaQ?oc=5",
+        "titulo": "Custo da energia solar com bateria no Brasil caminha para ser a segunda mais barata do planeta, diz Irena",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5UZlVGT0dUc0VSc0hYd3ZHTTdTelZoWGpicUF5UHR4UWc5VmpteHQwQ3plR0VRRzI0bVNZcE0zYzhtZTdmUy1MbEZxNmR0aTdMTnRyTGczR0E5Sm5xWDV5NTA5LXJrZ25IUXAtc2R0ako5Q0g2cTlMNHh1X0ktdw?oc=5",
         "fonte": "Canal Solar",
-        "data": "2026-10-15"
+        "data": "2026-10-20"
       },
       {
         "titulo": "Brasil poderá ter 2ª energia solar mais barata do mundo em 2035 - Portal IN - Pompeu Vasconcelos",
@@ -212,10 +212,10 @@ window.NEWS = {
         "data": "2026-10-17"
       },
       {
-        "titulo": "Agro e eleições: O que Flávio Bolsonaro e Lula propõem para a infraestrutura do setor",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZmNqMDljbU5wWUtuZWR3ZGJ1NkR4eTd4N2xkVUZJVVV2N0hzUWtOQjJIaWhDMmpRejZvUWtaQUkwcDVfZG42dUFQTmRvb0dSSXllRldTVWtxbklTMGRoVXZmQzQwZkNXdG1uUmhXNnRMNHRLbmJXSThJU3R2WXZGZUR4R3BNRWlyZGMteGlZYnMyNTkzTlp2YzFCQTdtZ3dQUFRVQkVJaEFwV19LVnF4aWlZUWF0aXFjWkE?oc=5",
-        "fonte": "NovaCana",
-        "data": "2026-10-15"
+        "titulo": "Porto de Paranaguá faz primeira conexão do Moegão com terminal",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkU2NjdrLWEyZW9WVGFzcDhQd29HbVZUYmNDNUpIYTBvWmVpSHVBMW1KU3ZnUkN3ODNwWGNPQzZ4VV9vNjZRMkZERTRUQ1ZJWURvVlRrXzdmWDRBekQwbkY0NXVZLTVjQ0JvbFZUVS04WC1oMV81azVlaFR4RDhVZWxHb2JjUUI2bzBjaUJfZVlZMnZna3NFbHZLV29YelR3?oc=5",
+        "fonte": "Folha de Cianorte",
+        "data": "2026-10-13"
       }
     ],
     "maquinas": [
@@ -232,10 +232,10 @@ window.NEWS = {
         "data": "2026-10-19"
       },
       {
-        "titulo": "BNDES: R$ 150 milhões para a Soli3 investir em máquinas verdes",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVkgwdzhUVGd0VElHdXRCc2VyU0tFWnY3X2JQSXlWb2RuUUtmZUgtUFhFZF8wTmFnZGdqN0RsUFQtT1NIZ3l1Q1g2YjNTUDlOUjhZX29CSUQ5RTRGekJzSzdhMUs2NnBHZnNZR1pjOWN4c2RUSzZORGFnbWs0TFJ0MTdsWFdqWVZ6ZFNMRVNyZkllcHZDNW9Meg?oc=5",
-        "fonte": "Monitor Mercantil",
-        "data": "2026-10-14"
+        "titulo": "Indústria avalia custo total em projetos de automação",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2ZZUVRrdWZwSENfOG8tU1BCLUhNOVZaOXFWMGpFU2ZrRklfVVpJUGM3N3hlSi0wSWd2cnRScThXNkJZSTloWU5aOW5pUkM1R1EwT0o0NVljTUF5aE9ITFYxOFRvdm9zSnFWWjZZU2FBMVFVWHYyMkVMOXRxSDVScjFFSUJsdGQ0MWtWNDAxblI2ZlZDR1E?oc=5",
+        "fonte": "REDE BRASIL DE TELEVISÃO",
+        "data": "2026-10-16"
       }
     ],
     "mineracao": [
@@ -280,10 +280,10 @@ window.NEWS = {
     ],
     "quimica": [
       {
-        "titulo": "AUMENTAR A COMPETITIVIDADE É A PRINCIPAL RAZÃO DE APOIO DA ABIQUIM AO LEILÃO DO GÁS MARCADO PARA O DIA 22",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTjNOV3R6UmFJNzVNVmZJeklsRGRDR3lQaXBHT3RvMmFOTTl2ODJIa0dnSkJfWHhRRk16ZExhVWlQZXM4V29QWUh6R3JhRWQ1LWR5M05HQS1Md1J3SHB5UHVyS0tNX0JlMEdQQ2dRN2FhcmdvRDFyRTFWSEFCUE1DUXVwTEpjTU9KdU4xVWJEeUhXSnNjYXBWVGg2Tl9OR1M4ZklQT0NLclB6NGdBYV91b2hfdWxuRENvRXlraEZNQ3BnVmdURlFLWEMxQWVkNXJS?oc=5",
-        "fonte": "Petronotícias",
-        "data": "2026-10-13"
+        "titulo": "Leilão do gás",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYjFSbk0zaFQyanFoWlo0a1kwTmxmVmVEWW1fT085RTJxLTRnQnhqNU5RZkwzengxZlhXR1BKZHo4c1owdjZJZUU2LXVsV00zNi10TWlITkZ1akZPbEhKb3p1SUY2OWFOWnBoTTU0OHBhemxYazNtMllLbkdrQWoyVWVkV2FydERXTEtOV3VBeEhBQm9yVkkxUEdheWNMTlJ0Tm1hTmZpRWtHdXZGZ3phQnJtOHZjOGtBYUx5TUNOWk5sTF9idktkWDdQc2xuaTd5QjFyMm91bFczcWkxOVc1aw?oc=5",
+        "fonte": "Revista Meio Filtrante",
+        "data": "2026-10-14"
       },
       {
         "titulo": "Investimento em petroquímicos sauditas | SABIC e Aramco",
