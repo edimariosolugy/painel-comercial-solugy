@@ -1,13 +1,13 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-20T19:01:58+00:00",
+  "atualizadoEm": "2026-10-20T23:00:32+00:00",
   "itens": {
     "agronegocio": [
       {
-        "titulo": "O Brasil está prestes a desbancar os EUA no agro, quem ganha com isso?",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMElkeWEwa2puWk5faDRQREEtS2p6eEtZTG81ak9uU3hmWFpyZWRScjFvbzJHR09DQWRkc3JZajZvU1NSS2J1LWVueG96bHJKUTZGWW9CYm9hdXdfMHlQMHZrQlBaRG1vSkdENXl0UHNIV2szQWtaejhlRF9IQTdscnk3UjZaZWRnUURyRXN4RXc3MFFYY0tPeV9vdjdjMmVTNjE0UWE3eUE3MXhoUVhkQXhVWktGQkZEcTYtbnRZZXNZQjh1VVFnMDNlNFpmQ1dpUDhfQ2JDTE1Vd0xkVDlJ?oc=5",
+        "titulo": "Crédito rural: o que Flávio Bolsonaro e Lula propõem para o Plano Safra",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkduQVFCVU1EMlg2V1pQeENBaHN1ZjNtNWhRRnJXdUFzaGNUY3k3OGhUd2VKVjdKNVhzSGhmMkxwSzhHSGhZRHpmZVc5QlFyNmYtdS1HMzJHNjNvQTM0SHExaUFMa2JxRmxCZW9yeFB3VDlnLXQwYkotT21pNkNTZmpGdklkbThmZWNCQXd6UFFhVUtCWGZPVG9NR245RDQ?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-10-16"
+        "data": "2026-10-19"
       },
       {
         "titulo": "Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas",
@@ -24,9 +24,9 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Exporta Mais Brasil apresenta potencial da indústria brasileira de pescados a compradores estrangeiros",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXdoWk05MmhscnBsV2dsQzI2b2NjdUo2YlJVWmtCNVZIRkNPNWx6RFJobG1tR1hyc3ZHV29uWDZqcVRTZjVXeFhwZm4yU3VtaXpPMnRXSmw5NldNVTZxZmN4djlzSHlJWUduc3NLMDlKODdDVnRfaUN6RDFfS1VUdUJydWVDbDEwbTVjd0lRVTRWX1Z6R0RUTUlvcDlRR3dla0RwV3hmcmVEQ0dYVzJCYmRuM1EyYmhQejl2ZzdORnBsNWxaSGM0SXI2MmVVb3J6YmxrYg?oc=5",
-        "fonte": "Apex Brasil",
+        "titulo": "EXCLUSIVO: Indústria de bebidas lidera consultas de FIDCs por necessidade de capital de giro entre pagar e receber, mostra estudo",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamlmQUI1VExDNjRNSGNPNmV0eGxKUFJ2a3VVZlZJcGtIZ0YzNXpyV1Z2VElrZjNaNGhTVUdWZEthMXpoQ2JfLVhNVEFRTGJhN1lHZXFsWktVLWVNTFRKTlBSYWRfSmFJMkNTYVRaX0JfOGpfM0YtaDFGUUlSNmtMdFR1dmNPUUZLTEFmVnY3NmhhZ1ZyTFBZOEtHbk9EMmJpWDlTMEltRWFuWm1WSWZKWmFRMHJybWhM?oc=5",
+        "fonte": "Times Brasil | CNBC",
         "data": "2026-10-20"
       },
       {
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Indústria de alimentos aposta em proteínas vegetais e upcycling para diversificar produtos cotidianos",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPdlhtbkxBM3JKTTRmREZkUUVlOU5GSjlGQ3pMaGxwNGt0SnZhN3dGbHZFNVVic2JuT0x6eEpSOFhUdjdQZ1pfX2ZiRHRpZTdoQndMZTJOTGpxTFBET2NLS2MyY3JBQTdJWll5bC1lR1pKeDlPUmxrTDlSZlMtYmNBUUZhcGVjVTVrcWFnR1VCdzJFWjVVdDVzM2kxSml5RG5CTllBaWVIb054cVJtWlZSVzF3bjZRSzRlWWstMTNQRTFVdkVoTlFjVmVHV2M?oc=5",
-        "fonte": "Brasil Inovador",
-        "data": "2026-10-13"
+        "titulo": "Brasil leva 156 empresas à SIAL Paris 2026 e busca ampliar exportações de alimentos para a Europa",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ3lsNGIzWDhCS0xnV0tYOVYxd0xMMVNYbGU4dUdSMVhJeU94aFhwTWVmODNGMUFfZVBncmJ6UVo1MGY2WjN4LUtuTG15YVdwS3J4cXFuVlFWeU4wUmstc0Q5Q01YOHNGcm9ucnZ2OG1teEV4MzZkUGZwNmNoY1IxUkgxdmZvWFdqcS00cWJGRTRVZy1sd01tamFVcUNtVmtIdWNkRUxOTjg2VHpKWVg3T1VURnhYZ0Z1YUk4TXhzT3VyVFN6eHc2QnlaZUtIbmZRWVM2X1I5ZFRuSWlrWmVZMnY1U1hUVnNWOW1MTzk0d1pINktfSW9xQmpfUnEzSUhvZVRDd2tUQ0s?oc=5",
+        "fonte": "Portal do Agronegócio",
+        "data": "2026-10-20"
       }
     ],
     "automotivo": [
@@ -100,20 +100,20 @@ window.NEWS = {
       {
         "titulo": "Nuvemshop reforça investimento em logística e abre CD no Rio",
         "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaUY1NFpLNGQ5Q2pyaVYtaHJqZ2NKNlJ4QTN1VzVtcDJHcnN5S2U5aUstcXdvN3JmTDdRamhWYmoxbkduTVBwUkRLa0pJa0ctQXlwSXRfdEdnbUpDRkpEUk5HSmozS2FPaEtmaU03YnFOaE1jcG5iUVZJUE9KTDVLaEZWeHFtalB3bDVWRnB6YTNpX1dNSGRyY3JUYVlGTE9qZnJYYQ?oc=5",
-        "fonte": "startups.com.br",
+        "fonte": "Startups",
         "data": "2026-10-20"
-      },
-      {
-        "titulo": "Transição energética vai além da troca de tecnologia",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQUVBTTzFseEUxbk1DZlVMQmhBMnJidHVUSkJlTTdGSlBZYVRXYmtJazZfQ0s2TV9WM0J2ejVQNkp5VnQzeWYyZy1hRWl6S3NGVmVQUWhQRERRanprOVdvcU0tMUlKR0R2LVRGQkxFX3RldTBNd2lxZzE0d2RObl8xWXpCdXFUeGtUaGw2NTdvNm83QXpZeGVWc2dlZy0?oc=5",
-        "fonte": "FecomercioSP",
-        "data": "2026-10-16"
       },
       {
         "titulo": "“Juros estão matando o varejo”, diz executivo do Petz Cobasi - Times Brasil | CNBC",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dqcVljZnlQdEc3aF9hRjlQcEVJOFMtNkRsc0RfeEJMT3dBU2ZqdFFMczhWaDRHakxPNFVSRExvZU9BTmVuY1NMb1E0dC1nVnlwQ1RmYkNWSXVkLWNMdGw5ekp2MS1Td04xaFBYU3dNQkFuTHZjUnRVZk0xM01ESGdsd1BlYXhCbkhhUUtvV1o4Z2M4TlZCZ1hWaVF4MDJsMUpoYml2MVg?oc=5",
         "fonte": "Times Brasil | CNBC",
         "data": "2026-10-20"
+      },
+      {
+        "titulo": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado da Havan",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZmc5eFZzRDFGQm50NTBMNm1xcmtTTy1hRnZVR2FxaWs4YmIzWUdrOHhLUXdBbnFuMmVrN1UxTUpLbU9HcXlSVUVtSGlCTU80LWtPLUcxNUsza2xfRGczNVZyV2pWS2FmU054aHhIblphbUVmMU5ZVHljVE1kNTNSVU5Rc1N0bHY1em82RmZncU5wQVk3ZlEyU0ZFQXFuLU1UM2NFUmVfRm1hQ2hVQmo0YUlEWnc5TFE4YlRuOXo5ajRqZWRob1VLeVlaaVZEcDJRa2Ntc0ZPemNNQk1n?oc=5",
+        "fonte": "Diario de Pernambuco",
+        "data": "2026-10-19"
       }
     ],
     "energia-gt": [
@@ -130,10 +130,10 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Leilões de infraestrutura após eleições podem gerar investimentos de R$ 54 bi",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDl0UlBGTXZwZGlXZ0tJUWxDaTRSVXE0NmQyaTVva1ZJMnRncTBEd256cHlQbTVXTTlLTkRlNTdFN1lpYlN0TllYV1RJcUVOOWVtbWVTY2tMZFZGUW9vUklYaTRfX2FyMEFzWjBkNnJCZTlOblZlcWRFQUk5d2wzcEF3R2t1ejgtZFRjQVVBU0ljeFkySmF0Q2IzdGtrNktWSnVwVDlwVUlwdjRSdk55NS1ScHFkYUU5d3pCZGpKUXYzMjZRTDNfaW9qLWxobk3SAd4BQVVfeXFMTnhtdHFqWExiVHhFUG5iYnF5M091NXNhTGptcUJrZ1FZMVhHNVRJVC02VDZlTHVVRnFXR1hRTUpPOWxsWUlYdUlXWElkVnhCbzg2dG9XRjlteVhnSUxubEpRVEowQWdubUI4bGpnbVBnS3BPa21hTzM5MXpWM3BFZ2lHQktjbUdSQ2lpZWpfN241VmNjeGRtclpiZm5jSFlUazg5Y3pnajduNkRxcUtlYkFMc2dpSHp2MDN3MFA1M3JMMzc1T0dNdWFUSmJfckFLZ3M4QTJvMl9oRG9vR0FR?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-10-16"
+        "titulo": "Área técnica da Aneel quer repasse de transmissoras no leilão de baterias",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMHlMcUsySS1nbW9RMkh4bGZXeXlkQXRWZGRUbGJTSDVMNElNdHJMUFlqd3Y5LXZzdGhQRmpBT2dfMXc3SFRoRXA0bUh0TWxHUmN4ZzIwZDRqZVZteGx1WFhVWmN0UUh5aG1jSmp1Y2tkVlUzaEVvQlhZU21hdnExc0pra2tRSU1rUGxueXB1TzRrYmVuVS1ySS1VaUk4VjN5UGpEOTRQNU9lNGVqREE?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-19"
       }
     ],
     "solar": [
@@ -212,10 +212,10 @@ window.NEWS = {
         "data": "2026-10-17"
       },
       {
-        "titulo": "Porto de Paranaguá faz primeira conexão do Moegão com terminal",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUkU2NjdrLWEyZW9WVGFzcDhQd29HbVZUYmNDNUpIYTBvWmVpSHVBMW1KU3ZnUkN3ODNwWGNPQzZ4VV9vNjZRMkZERTRUQ1ZJWURvVlRrXzdmWDRBekQwbkY0NXVZLTVjQ0JvbFZUVS04WC1oMV81azVlaFR4RDhVZWxHb2JjUUI2bzBjaUJfZVlZMnZna3NFbHZLV29YelR3?oc=5",
-        "fonte": "Folha de Cianorte",
-        "data": "2026-10-13"
+        "titulo": "Frete de grãos no Brasil pode cair até 40% com expansão de ferrovias e corredor bioceânico",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOWgybEpEMTF1N2tEVGgxOG9Rc3RTV0QzNW9ZeXZVbTJZeTdvUi1CenBKb3lBdENZZkZVY2I1YzhtdTR0NXF0YjhmR2RhTS1QbFhieExYVHFNeHZ2YUVpYVBCMlAyR1ZzcklxbFp1RndvQjMwSHRpOGtTbUhycnlrdm5BYXR4WF94VTBkUzEzOEpPSm02ZVVPdjFkejZxVXUyM0RIUUtNRm9IQjJGcGNMSXRneDZ1enpNdlU5eno5QU41YUNvNmF6ZGdpVlFlMVo1U0VHZXMtakIwZzVoOElVbV9qSDlVQ3ZWV1FrYkNvUWZZdXRuQ0F2Y0FESTIxeUtFQWRv?oc=5",
+        "fonte": "Portal do Agronegócio",
+        "data": "2026-10-20"
       }
     ],
     "maquinas": [
@@ -300,16 +300,16 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Leilões de infraestrutura após eleições podem gerar investimentos de R$ 54 bi",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDl0UlBGTXZwZGlXZ0tJUWxDaTRSVXE0NmQyaTVva1ZJMnRncTBEd256cHlQbTVXTTlLTkRlNTdFN1lpYlN0TllYV1RJcUVOOWVtbWVTY2tMZFZGUW9vUklYaTRfX2FyMEFzWjBkNnJCZTlOblZlcWRFQUk5d2wzcEF3R2t1ejgtZFRjQVVBU0ljeFkySmF0Q2IzdGtrNktWSnVwVDlwVUlwdjRSdk55NS1ScHFkYUU5d3pCZGpKUXYzMjZRTDNfaW9qLWxobk3SAd4BQVVfeXFMTnhtdHFqWExiVHhFUG5iYnF5M091NXNhTGptcUJrZ1FZMVhHNVRJVC02VDZlTHVVRnFXR1hRTUpPOWxsWUlYdUlXWElkVnhCbzg2dG9XRjlteVhnSUxubEpRVEowQWdubUI4bGpnbVBnS3BPa21hTzM5MXpWM3BFZ2lHQktjbUdSQ2lpZWpfN241VmNjeGRtclpiZm5jSFlUazg5Y3pnajduNkRxcUtlYkFMc2dpSHp2MDN3MFA1M3JMMzc1T0dNdWFUSmJfckFLZ3M4QTJvMl9oRG9vR0FR?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-10-16"
-      },
-      {
         "titulo": "A urgência do saneamento básico",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE14dFlKc3F5MHBBUWpuMTNWcGE0QkVMUXBTa1hVaElnSHVOOE02dDNPZXZWcWY2Wi1aYkJSM0Joc1lSVEFTY042eWE0eTJhMjJTVFpSZF8xdUJHYWhDWW4yejVJXzlONjFCNlJNR1A1RjdjWEtEYmc?oc=5",
         "fonte": "Estadão",
         "data": "2026-10-15"
+      },
+      {
+        "titulo": "Leilões de infraestrutura após eleições podem gerar investimentos de R$ 54 bi",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDl0UlBGTXZwZGlXZ0tJUWxDaTRSVXE0NmQyaTVva1ZJMnRncTBEd256cHlQbTVXTTlLTkRlNTdFN1lpYlN0TllYV1RJcUVOOWVtbWVTY2tMZFZGUW9vUklYaTRfX2FyMEFzWjBkNnJCZTlOblZlcWRFQUk5d2wzcEF3R2t1ejgtZFRjQVVBU0ljeFkySmF0Q2IzdGtrNktWSnVwVDlwVUlwdjRSdk55NS1ScHFkYUU5d3pCZGpKUXYzMjZRTDNfaW9qLWxobk3SAd4BQVVfeXFMTnhtdHFqWExiVHhFUG5iYnF5M091NXNhTGptcUJrZ1FZMVhHNVRJVC02VDZlTHVVRnFXR1hRTUpPOWxsWUlYdUlXWElkVnhCbzg2dG9XRjlteVhnSUxubEpRVEowQWdubUI4bGpnbVBnS3BPa21hTzM5MXpWM3BFZ2lHQktjbUdSQ2lpZWpfN241VmNjeGRtclpiZm5jSFlUazg5Y3pnajduNkRxcUtlYkFMc2dpSHp2MDN3MFA1M3JMMzc1T0dNdWFUSmJfckFLZ3M4QTJvMl9oRG9vR0FR?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-10-16"
       }
     ],
     "siderurgia": [],
