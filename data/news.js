@@ -1,13 +1,13 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-19T21:22:38+00:00",
+  "atualizadoEm": "2026-10-20T00:57:37+00:00",
   "itens": {
     "agronegocio": [
       {
-        "titulo": "O Brasil está prestes a desbancar os EUA no agro, quem ganha com isso?",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMElkeWEwa2puWk5faDRQREEtS2p6eEtZTG81ak9uU3hmWFpyZWRScjFvbzJHR09DQWRkc3JZajZvU1NSS2J1LWVueG96bHJKUTZGWW9CYm9hdXdfMHlQMHZrQlBaRG1vSkdENXl0UHNIV2szQWtaejhlRF9IQTdscnk3UjZaZWRnUURyRXN4RXc3MFFYY0tPeV9vdjdjMmVTNjE0UWE3eUE3MXhoUVhkQXhVWktGQkZEcTYtbnRZZXNZQjh1VVFnMDNlNFpmQ1dpUDhfQ2JDTE1Vd0xkVDlJ?oc=5",
+        "titulo": "Crédito rural: o que Flávio Bolsonaro e Lula propõem para o Plano Safra",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkduQVFCVU1EMlg2V1pQeENBaHN1ZjNtNWhRRnJXdUFzaGNUY3k3OGhUd2VKVjdKNVhzSGhmMkxwSzhHSGhZRHpmZVc5QlFyNmYtdS1HMzJHNjNvQTM0SHExaUFMa2JxRmxCZW9yeFB3VDlnLXQwYkotT21pNkNTZmpGdklkbThmZWNCQXd6UFFhVUtCWGZPVG9NR245RDQ?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-10-16"
+        "data": "2026-10-19"
       },
       {
         "titulo": "Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas",
@@ -58,8 +58,8 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
-        "titulo": "“Garapeiros” e “pipoqueiros” fazem as contas para investir em etanol",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWFBBamh5d0lFZDZWSmliU0tNVUdEMmxxZFlNMkNnX0huQXhudXdTMDc3S2VTMlB1b2dqUFlVTFdCeFUzTm52MW9pRnFVeVpCQXNxYlpnc0k0bFFuVzh5MDZpSG54LVVGZHdUdC04Rkh1WTg0SWVOOVNHd05Cd3RKQkp3anVkV1BYQWlqc2EtVnJ1SC1VSmJlMVVpVjF3cFk?oc=5",
+        "titulo": "Agro e eleições: O que Flávio Bolsonaro e Lula propõem sobre bioenergia e biocombustíveis",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNYTk4MnJpdVVWNlpCMUJrVnlNOVdtcFAzSDlTc1ZuVXZxdmFkWnA1Z1RtYUVOb2J5LWNXejM1aWVlclBwYTUzbEU0SWY1WEYxY3pGX3FWSmZqcXAyb01wYzB6a09mM2lqNjRGNHdwN1V2dUNwVDdiQUxEaVlFdWFnX29oNmtYeWRJU2lyUXJkMk9abGlYMUYzUzVIQ3haVlZucmlNWXN4SkRJTmRwaHFxTEJweGw5aTJVR2tsT3RFMA?oc=5",
         "fonte": "NovaCana",
         "data": "2026-10-19"
       },
@@ -107,6 +107,12 @@ window.NEWS = {
         "titulo": "Havan e WAP lançam panela elétrica no maior centro de distribuição da América Latina",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWC1BQkd6Q2loNTFuUjl6WjRLYUQ5YjZSSVMzYXktdVFsb0NRVzFtU2hTWUJUaHBHallvak92V3NaRzRSdHB1VWhjR1hKd25UU0V6WWhiMENSbUw1VzJFUzdCaTNMcVY4T3FCamRfeE1qdk9qcnpTbjRZMXZCdUpFZ2JVUHI4TXR6anQ5OUhQeGIxSXNwVXR3ZDVjZlgzMXA4SFpEdDZRdmUtZUY0Tk90OGdqOG1CMExqNlhBMW5R?oc=5",
         "fonte": "NSC Total",
+        "data": "2026-10-19"
+      },
+      {
+        "titulo": "Profarma (PFRM3): Uma small cap com histórico consistente e potencial de valorização",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcFVSdEVkb0dFMks1WHFQNWV4TjR5VW5yR2o3QWlaeGUzQVpsNV9BM2w1QW43d2g2dmplOXd4UFdfRFlBaXNTU1J0RjAxZFBvSGwzZUlZSTNBM2czRVNJRXBHZ0lZWWN5X3MwRVNaNi1IanVrbFdNTWFHZEs1T2xNQ0RBM1ZhWlFIR0xSTXFNbUp0aTlLcnE3X1Nody1RdFR5R3M0SjFiZnotRkR3bExDYQ?oc=5",
+        "fonte": "SmallCaps.com.br",
         "data": "2026-10-19"
       }
     ],
@@ -174,6 +180,12 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
+        "titulo": "“Estamos usando bem os ativos, tendo bom retorno do investimento”",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkpCMEd3UENIdHBpNUF1M2k1TWdvRHlWd0h6VGlBVDBGMWg2Tm9SLVB3ZDhhcjhTMk1MODVZZkc0TlNld2xWVElQcEszS0k3NWppdnVTbWtJWDMyWmRzVHlQd0Q4T1d3VzFPSW11Ym8xSzNMVERVeG1YODZIRVBIWGtUc1lwUngwbko1UHhSMG5FeUZydDRkeERlbFRLblBVYWpyT2doSnZXMTDSAbABQVVfeXFMUERjd1RfdUlWVzZPaDZCLU9pbFVCNTFNbFZrRDJ6TFNzYjg1YWZBTG9sSFZkdTVreTV4bFNBekVZbVVXa2oxOWtJWVo3RXFudUF4OWNBaUt3MFRFWEZ3Zk5XUkRLU3BtTGRSWHJ6Q2l6bFgzYm53azFabFdSdHVmTGVQbnRhQ3lQOTJoeDY4Yllwc2ZMeTV6S1MzYjBUaHdINUNHSTAzUWZwbGVmT1JUcHc?oc=5",
+        "fonte": "AutoIndústria",
+        "data": "2026-10-19"
+      },
+      {
         "titulo": "Serra: quando a indústria cresce, a oportunidade atravessa os portões da fábrica",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDFLSGtNckZnWDlDc0tzTWxrSnNvdGVwcElSVWg0bF9JNU1Benl5Znd6NTRJNk9ZeWVxSmM0OGNCYUtJUXZDcFFEWTZtLVJTS0UyM1J1dHlfUEwtR21qRlpYMW1vMmZfSkxDSnZFeGd2TVFOdWNqd25YVUNoc3BEdUFlcWJKQzhQSWJ1aElkS2NLbWRlaEc4eDVQSUs5RmhJWGFIU1dUS1QzMlFpVklBTzZ2TTh6dWJ5SWc?oc=5",
         "fonte": "A Gazeta",
@@ -183,12 +195,6 @@ window.NEWS = {
         "titulo": "Fábrica de água mineral de Cristiano Ronaldo não traz novidade frente à indústria brasileira",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3lLWVdiUDc2WS1iNTBjU0tiTUFJcDlRUF9HVGNNQzV3QjFhYUVqbW1oczhGeWhBUGwtNjNQM21ldl9ocHgtejRqT2VvNHhoZWVsbVJCS0hCUmR4NHZjbkR1T3pTUE9TRmZtaTJ2LWlxcXZ6cXpmdlU5ck5iOXlJX3FEN0d5VGgzSDNhZDFfUWt2Z3dDY0E?oc=5",
         "fonte": "Economic News Brasil",
-        "data": "2026-10-14"
-      },
-      {
-        "titulo": "KTM inaugura fábrica própria no Polo Industrial de Manaus",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZlNRM2hzMzRnV2E5RTBjc2FONWpXTUZvUmtvMHZxNHR2TVlWVGdiQzQ4dGNPeW1SQ0J6UHJaOExfRURKRHNnYl9EOGZJWks3dHdndWc4eWhzNTNxdTEyYm9zS0JqLUJnbmNPU0RpM1VHQk1vN18zVXFOX19PdUxYZWMwSzhwajdLclNrRnFGdmlfNjFHbkZ1SERKOTQ0X216TDQ3NNIBqgFBVV95cUxNTEt2ajJtLVlrb1hwR2JMNXJJM3JfY1VyWXBBTk1QTGhkUUwyb0JhTENZR2hZa195ZjVIcEFFc3V2RnBPUjdZbXVFLThNX05aMGpnRDZZSktSMDNGOFM1aWFvZHNCWWdBUWNnWVExbDJ5c1lfeFJIejNwM1RZb0h6aVJfWnJOclpQRWdOMkNraVhUODM1dlJGaWFUTmhUUWxnYS1icTdGS0g0dw?oc=5",
-        "fonte": "AutoIndústria",
         "data": "2026-10-14"
       }
     ],
@@ -220,16 +226,16 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
+        "titulo": "Confiança industrial sobe, mas energia cara trava investimento em MG",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcE44X29mVUhRZTQ4U3lBTWZHNUtNTWEwT1l1Wndzc0tVT0licGkyNVpCVnBWakhGemw5clBDNjEtQUtnT3AyQUVNcW1tZ0s3azNxQnAwZ2sxNXdkMEdmTGl1cjFMX2l3d01nRHMwOHNFT1hES3Rmbk9GeGo0TngtMFQ1aFVnMUJqX1VGTWYxQkx0ckZXT0Fob0lYaUNsLVB1dGhxZXVWWGJla1E?oc=5",
+        "fonte": "Metrópoles",
+        "data": "2026-10-19"
+      },
+      {
         "titulo": "Indústria quer ampliar capacidade, mas incertezas sobre trajetória dos juros faz metade delas não buscar crédito para novas máquinas",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxOQXdOUHpYZXgtTWhtRklVaVlCZXZuV19WQzZTdENUdWFGU2pveG9yWnBWSE5KVk5oa2ZMcmo3RV9WNThVWlZDYm9RRHlWWnZfcndTV2tidjUxN3JCdlRWTTdhVmZQUnBUZzBmcFhnUml3WlkzSnhoTWRwb2ZzYW1XT1haZUluV2dGVk1lTDQ4VWZKcUlDQTVHNFFNck5mTnMxYV82QkV3aEhOZWZndXd2Um5RaXpWQVZIeVQ2Rkl4eEs3TEU2YkZxUXloLTJ4eWEteHJuQXdCblY2dUtjR0U3U3A2LVlmVHV1SmsxQWpCMUVqbUdYYzI3ZHAxZldpcTMzcG0yWHFfVkIyQmZNOEVvN09ESmtNS19l?oc=5",
         "fonte": "JC",
         "data": "2026-10-13"
-      },
-      {
-        "titulo": "Indústria avalia custo total em projetos de automação",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2ZZUVRrdWZwSENfOG8tU1BCLUhNOVZaOXFWMGpFU2ZrRklfVVpJUGM3N3hlSi0wSWd2cnRScThXNkJZSTloWU5aOW5pUkM1R1EwT0o0NVljTUF5aE9ITFYxOFRvdm9zSnFWWjZZU2FBMVFVWHYyMkVMOXRxSDVScjFFSUJsdGQ0MWtWNDAxblI2ZlZDR1E?oc=5",
-        "fonte": "REDE BRASIL DE TELEVISÃO",
-        "data": "2026-10-16"
       }
     ],
     "mineracao": [
@@ -260,16 +266,16 @@ window.NEWS = {
         "data": "2026-10-16"
       },
       {
-        "titulo": "BlackRock eleva participação na Suzano e supera 5% das ações ordinárias",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVRyWjFUZ1ZKR3V6VFhoczJXNnZxUGRfTmNyODc1TldpXzFLMzdvVVY4UDZYWWFaejFOeXA3NV9ucm54YmEtSzdlMXc5Y3NWYTZXQ0cwdzB5dERobzZySFhuWG9qTEZ3Y2tXLXU4TXVrWHhlTVVDUGo4aE00VzFDbkxzU2RDZXF1ZHJiU09aRXRsUFZPMFVXWGlUVVY2Uk1idXp2aGJ4SHcxQQ?oc=5",
-        "fonte": "ADVFN",
-        "data": "2026-10-16"
-      },
-      {
         "titulo": "Celulose ganha força no mercado global e movimenta ações na Bolsa",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQRmpTZ1JwSTRwTk5rZWdvdmM4Z3VjdFZIYWJLRkN5eWgySGUwVkhGSkowY2pBM0c2ZmRIZWJNTWFVbFQxYUtvQUc5WndpbEh1akNFY1pxRVppbWZKWDY2R1VvOGJJRVJSZENvZTFBLU1kdmJKVUVRY0d4eUp1akhYRm9CY0NJMjBxazIyaVJxdGFoNldxTXFaWE1Bakx1QUZybUZlckk1YWdIY0tRY0dyVUhhS2lZc0lOR05nVEJRZjRBX0JZQ2RCS0lYcE9rbG03bHFr?oc=5",
         "fonte": "Hojemais.com.br",
         "data": "2026-10-19"
+      },
+      {
+        "titulo": "BlackRock eleva participação na Suzano e supera 5% das ações ordinárias",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVRyWjFUZ1ZKR3V6VFhoczJXNnZxUGRfTmNyODc1TldpXzFLMzdvVVY4UDZYWWFaejFOeXA3NV9ucm54YmEtSzdlMXc5Y3NWYTZXQ0cwdzB5dERobzZySFhuWG9qTEZ3Y2tXLXU4TXVrWHhlTVVDUGo4aE00VzFDbkxzU2RDZXF1ZHJiU09aRXRsUFZPMFVXWGlUVVY2Uk1idXp2aGJ4SHcxQQ?oc=5",
+        "fonte": "ADVFN",
+        "data": "2026-10-16"
       }
     ],
     "quimica": [
