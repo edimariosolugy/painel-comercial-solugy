@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-21T14:23:40+00:00",
+  "atualizadoEm": "2026-10-21T19:09:58+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -50,16 +50,16 @@ window.NEWS = {
         "data": "2026-10-21"
       },
       {
+        "titulo": "Hyundai anuncia investimento de US$ 15,5 bilhões para ampliar fábricas e desenvolver novos carros",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNblY5UDU4S2Y3d0c3eTRlb2dHYnNEblZTY3BJaFl2WXdDeElpTk1GUkRXM255azVTSHRNbG5LSjJ5YmwxWkxuNVllbEl2N1c4V2lUUl82NUJKY3ZuLWh6LU9ndjYzeDBrbjlzeFVkcXU1WVlaX0RJV2pUemFPWEZKSEhENFc5cGRMX1NKa0prNUE?oc=5",
+        "fonte": "CPG Click Petróleo e Gás",
+        "data": "2026-10-20"
+      },
+      {
         "titulo": "Expansão de montadoras chinesas e acordo com UE transformam mercado automotivo no Brasil",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11Ti02c0J1NVotaTlyeUJDMTdXcnNJLXRsdm5TdUZzRzBrMUY2NEVqUXdrNWY4YVcteFJCY1ZqRXRuQXltd0dBU21mZ2NvNjBJcnFZTFVhcmZ6ZWNNT2hNWUJBc2kwWFJEUWJ2SEFndV9LMWFnczhFUUZkUXRQaFE?oc=5",
         "fonte": "boca.com.br",
         "data": "2026-10-15"
-      },
-      {
-        "titulo": "Montadoras chinesas expandem no Brasil; JAC enfrenta desafios",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdmRwMVFqVTJUUGdIMkRaQVFfR1BKUk9rX1gtcm9TeUZSRmF3X0V6YUdFdGN1VHFiRWc2aTJVNDBncExZaVJaU1hTc3JkcmwzdElWSG5relYzSUVWTDk0R3VvT0h4a0hVOUlTVkFLblZNcjExRDN6X2JWb1pXdjFQWHpoWWVfb00wR2FjbjdSUThHX3dLdkZNVQ?oc=5",
-        "fonte": "Diário do Estado",
-        "data": "2026-10-20"
       }
     ],
     "bioenergia": [
@@ -76,10 +76,10 @@ window.NEWS = {
         "data": "2026-10-19"
       },
       {
-        "titulo": "Etanol e açúcar geram R$ 586,6 milhões em salários em Mato Grosso",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOVU5pYnJrSnJBMWY5c1hDc1MwdE5iZXdPMzMySlU4alk0TXd0dkV6aks0eW5FamE4cDFJY3M4Yk1XbE91MllhenI4aUZqbHZ3ZEFkZUxNVHptQ2JvTFEtMUtsYTM4bmhEc0xrcmpMX0xOQ2JaSm56WlRjV1YtOEliOUhZZks2UHZQYm1raUxaV0ZLeVlvZ19jU2htdUZVVnl5NXU4OGJaRkFqNDJJMkt4WFBKTDl6UjhEdWdsXy1uVlNqNFRXa25wVlVjZlpOdmMxRTJTVUlSWnk0WW15VVNRTjhB?oc=5",
-        "fonte": "Portal do Agronegócio",
-        "data": "2026-10-14"
+        "titulo": "Usina de álcool em Porto Xavier (RS) será reativada com investimento de R$ 15 milhões da G2X",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOWw1VF9pRDM3b29VUFZ1Z2l2ZkUxQl96OUhkSW9KUFFIcVREMG92RGstRDJTWXowVlZxSHEzYWRfMTdqLUtPRlRmZ1ZtUlpiajQyMk1fWmtYbHZkVFR6Y0hrZnVpRDVWTnBpbzdiZEdSV19USm85enlCVmpzeHBsTUQ0bFBjNmZGS1RNT3U2RzdXME14NWdsQWxpVGpWTWM1NE56Q2U3TE5wRUZyTDR5cTFpb1J6TXFMek16cklB?oc=5",
+        "fonte": "JornalCana",
+        "data": "2026-10-19"
       }
     ],
     "cimento": [
@@ -164,6 +164,12 @@ window.NEWS = {
     ],
     "epc": [
       {
+        "titulo": "Disputa entre Lula e Flávio Bolsonaro coloca futuro da infraestrutura brasileira em foco",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeEpMR1QtZVRpMHlhOVZDNVlQemhrOGdqS2hDRHVmTktGVXFGSzU2QVlXUTZqOGpZMGdiUDFvSW1uVVppb043MS1xdFp3SjBjMm91aHVEZ2NneF8zRkpFeHRvN1c5akl2Vk1kalR1YjB3X2VmY3hEdWZXQk5TS1c4a2VlMkpiSk55OUN4Q2RCNlkzcTlUUVltcDQ1N01lSlFFekRSQ0N5UzY3ZjdveUdxRnBLU1N2SkNURkM1b2htbFNsaFNYTmdJNjln?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-21"
+      },
+      {
         "titulo": "Os potenciais impactos da eleição presidencial no Brasil sobre a agenda de infraestrutura",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjhVQTR6TG9DbTF0YlRXX1RkNnc3WjI2bWgwaXhpVklmUjVwM3ZtWjNtdTR3QzBLc1B6NXFRdk1wdlRpdGlKMDNJbjZMOGlYSHNrYzJSSnJjZmFSTGZlX1F0S2VKR1hRLVNjT2ZNcjVpTmZOaHZhZER3TzcwLVBEMkFkUGpGcXJnbDlXUHVOWVZkSkNxbG1Ybml2WnVCbE5JcURMblFvLXNiQzdCMVBsVFJ6ZGFFOEVacUxZa0F0T3VXWlB6WHkySHlnWQ?oc=5",
         "fonte": "BNamericas",
@@ -178,20 +184,26 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
+        "titulo": "Ministério da Saúde inicia oferta no SUS de nove medicamentos oncológicos de alta tecnologia em todas as regiões do país",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOYUpBTHpHTkxpaEREc1ZiMm1VMmtmaU5YNnJ6TDhVVXlPdlRwZ1cxY2xYT2puVEk0SFpRRzVlWEVHMXNKMEJsV0NhREpXaHAtbUZCbzBHRjk1bnJnTmtoSHFuc2tBcDlIdm1NVllHMkd4Qm1ETm5MS3N6UENacHBGbW9RM0t6SHhkR2tHVHJTbVVyQ3N5QzBQUnliSjJjQUxrMjVmZmt1bDlLSWhpMDdrWWNhc1ZBRVFzSVVlWEtITUNYY2o4RXVlWnhuQkhaQTJubEw4SmtHNVVXQ241N2NXNnU3cjk5TDJmQ0NpWnJHWmF2WkY1S2s2YWZtUmZnWVNpS1JqZ2FtNmZNR0xtbGVocXNtNA?oc=5",
+        "fonte": "Governo Federal",
+        "data": "2026-10-20"
+      },
+      {
         "titulo": "Marco legal faz Brasil avançar em ranking global de pesquisas clínicas de medicamentos",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNEFiam0xTVF4M2RpNVQ1OWtNVmUyR2VOQUpxNWtfdkN0WHFQS3dhdHJ2V092VGFWMmhKd0NFTVNNNkRYRUliN0ZVUFZuczNUdkZwTlE1ZExZUzJfODFmbFFKRjI2d0Q2QU51eWZabjI1OXlGMXVZY3Q2SDJGZjZlckFaVERCcjZ1UHhLcTZhWGVYMFkzWDY4ZGFJMm9odEhUajg0NU1fWlpPeXpPX2pTMW1SZktzejBoYU40WnNtR3B4c2E2NWVpbEtsSndrRWRYMklPYVE0Z2xkZU5aNFE?oc=5",
         "fonte": "A Tribuna",
         "data": "2026-10-20"
-      },
-      {
-        "titulo": "Chiesi dá salto tecnológico no Brasil com investimento de R$ 124 milhões e nova geração de inaladores",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObjlVSnN3UUVOaDFnQ05xRTBqQjczVjRfMzB3VERoZXBNVzZUWVNzN1FrMVpTR0NmQU93eTM1VGU1eWRVaEw2eE9xcUpsNHAzZkdGRGZXMkgtNVpGaFN6MXRuQWp3OVVGOXdpX2NYaFU0a0lmdWNtZVNBcXY5SGIzcFYyLTZiV0NYTmlEM0RZTW1BWUVmSVM2WjA1eHk2SjBPdFBFeU1Fd2JrTDVZckQ5ODZUUHJFcV92NVFGaThraFNNaGxkaUdaZmtPaXdLS2drRERCT3QzSjlNQ0xEaFJKYU9waDBDZi1YTGpTVUNVWWc1aEdZSUQ5QlhGZUY?oc=5",
-        "fonte": "PFARMA.com.br",
-        "data": "2026-10-17"
       }
     ],
     "fertilizantes": [],
     "industria-geral": [
+      {
+        "titulo": "Horse inaugura nova linha industrial com investimento de R$ 200 milhões em São José dos Pinhais",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGRRMmVRelF0YWF6aFVKcm80UnRjTVF4Y0tKWUFvQXFDZjdpY3pJWWczMGNJRE12bE1pSWlzcEhZSVkxMktmamE5ajB6T3dSejdmU3Y0QUtveXZVVF9UbV84UVJfbm5WNDBxd1hMYUJIb1lmWXlOdzk4RFktYkgyd0NYYnp2N2d3ZWd5MF9KbWFlVk1xNGdBbE5vLTFCRzNQTm9CcktzUk5qdVJBOUw5bzdaZHRoQ3ZjLUVOSTRR?oc=5",
+        "fonte": "Prefeitura de São José dos Pinhais - PR",
+        "data": "2026-10-21"
+      },
       {
         "titulo": "Com investimento de R$ 80 milhões, Paraná receberá fábrica de mandioca",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1gtMnplU3dYSU1EdmdQaWFLeVg4cjFDa2NhUnQ0N2p5Ml9kanFBSm84NnFvelJDY3Q1WDI1akhTMUZyYzJvTDhsN0ZiYTROZ19Gd05kVXJlajEybkozclIwYzlPMi1TakVmR0VRQlQ4bHBEMGFIenVMTVh0MjJYSzhLMjJ5MFlaNzNqcTlSWEpSYW1LUDNSaXBFVEZVOW5KaEVnSU5B?oc=5",
@@ -202,12 +214,6 @@ window.NEWS = {
         "titulo": "“Estamos usando bem os ativos, tendo bom retorno do investimento”",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkpCMEd3UENIdHBpNUF1M2k1TWdvRHlWd0h6VGlBVDBGMWg2Tm9SLVB3ZDhhcjhTMk1MODVZZkc0TlNld2xWVElQcEszS0k3NWppdnVTbWtJWDMyWmRzVHlQd0Q4T1d3VzFPSW11Ym8xSzNMVERVeG1YODZIRVBIWGtUc1lwUngwbko1UHhSMG5FeUZydDRkeERlbFRLblBVYWpyT2doSnZXMTDSAbABQVVfeXFMUERjd1RfdUlWVzZPaDZCLU9pbFVCNTFNbFZrRDJ6TFNzYjg1YWZBTG9sSFZkdTVreTV4bFNBekVZbVVXa2oxOWtJWVo3RXFudUF4OWNBaUt3MFRFWEZ3Zk5XUkRLU3BtTGRSWHJ6Q2l6bFgzYm53azFabFdSdHVmTGVQbnRhQ3lQOTJoeDY4Yllwc2ZMeTV6S1MzYjBUaHdINUNHSTAzUWZwbGVmT1JUcHc?oc=5",
         "fonte": "AutoIndústria",
-        "data": "2026-10-19"
-      },
-      {
-        "titulo": "Serra: quando a indústria cresce, a oportunidade atravessa os portões da fábrica",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDFLSGtNckZnWDlDc0tzTWxrSnNvdGVwcElSVWg0bF9JNU1Benl5Znd6NTRJNk9ZeWVxSmM0OGNCYUtJUXZDcFFEWTZtLVJTS0UyM1J1dHlfUEwtR21qRlpYMW1vMmZfSkxDSnZFeGd2TVFOdWNqd25YVUNoc3BEdUFlcWJKQzhQSWJ1aElkS2NLbWRlaEc4eDVQSUs5RmhJWGFIU1dUS1QzMlFpVklBTzZ2TTh6dWJ5SWc?oc=5",
-        "fonte": "A Gazeta",
         "data": "2026-10-19"
       }
     ],
@@ -246,7 +252,7 @@ window.NEWS = {
       },
       {
         "titulo": "5G e IA avançam na indústria, mas o retorno financeiro ainda determina os investimentos",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm8yT3NGWFlRV2tlTXRxNWZwbkVJSlBDUk9Mci1CTnN4NUkzLVI2bWNhSG02enpIMnFfcmtCNzN3Ulg1cnR1VE5BYWFtYmxhREp5Rm1kM0FMa2N1b0J2UkRhUDgyYmNxR0ViM3d3VW5JMGtDN0lHREN0WWdUd3ZPbjVwQkNRVkRnaEpKTHVXcFNkdkxLMWhqNHRuYWk1ZU1CWXlUczNWaGNmekVRMWw3bGs2aFFzMkJnbE5oTndlSQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWNtbmdvWnQyUkQxT1VLN2pYczgwQ3FKY1ZUbUxZaEVRLWprQjA4NFFPY2hfZVNYaDV6VlpHeGcwczFhMFhaWWhYYWdTU3JQUUZxTDZLejFrSWM4NGRVUkJiWGNPM0dDb2hBNERRbkV3eG9HcklacnZmZXN0dzhCcC1lWHF2QkZURVE0QXN5a0JhbkNfQlgxOGx3b0R1TWpVeGtubTdYMXAyaGZoUXdVMXpCOG5WQTlZRHNORHNhcGVLYVk?oc=5",
         "fonte": "TI INSIDE Online",
         "data": "2026-10-19"
       }
