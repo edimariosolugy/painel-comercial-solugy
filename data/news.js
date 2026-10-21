@@ -1,25 +1,25 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-21T19:09:58+00:00",
+  "atualizadoEm": "2026-10-21T23:04:03+00:00",
   "itens": {
     "agronegocio": [
       {
-        "titulo": "Crédito rural: o que Flávio Bolsonaro e Lula propõem para o Plano Safra",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkduQVFCVU1EMlg2V1pQeENBaHN1ZjNtNWhRRnJXdUFzaGNUY3k3OGhUd2VKVjdKNVhzSGhmMkxwSzhHSGhZRHpmZVc5QlFyNmYtdS1HMzJHNjNvQTM0SHExaUFMa2JxRmxCZW9yeFB3VDlnLXQwYkotT21pNkNTZmpGdklkbThmZWNCQXd6UFFhVUtCWGZPVG9NR245RDQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-19"
-      },
-      {
-        "titulo": "Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzQxNnV5WVUtbzFOLTNnbVRUdjA3bW52eHdwbXl5ODJKRHRvc0FSWXhGNnNYYWdMMl8wSGJzYnh1b1pNZlcyVGRkOXF0TUtyQ3d3WlBaY2lwU0Z3QlZLSDY5eU1NNjNZVmw0aklLZHdQV0hFUTV0czNOVlRWRFExd096aFNPTDExZ2o1NlF6Nm1Ha0R3c3NuR0lEMW1zYnFWN1lLQjlnRWJIZHJMNkJpYzV0aEROeE9lWlpEMjlwQUJ4b1VsOTJlVHkwNF91YVB5MEE?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-10-15"
+        "titulo": "O agro no vermelho: setor mais pujante da economia se vê ameaçado por crise de crédito",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdGpvRG9FallNQ2JNNkxhZmdqZFJ1NnFlSnVnV3Qyb2VtZmFQVkRkc054QVdXZGFBR1c4WDZZTElsVGx0b0NkcVlDNnk4bUpaVUdUZ0dwcjVOVng2ZnVob3o1WExLTHprVG1iSXpLeVFVTDNKeENFcDJ1Z0FxNnVadWlRNG5INWFzTE0xWTg3aExiNVk2TUxvQ2xPOHhla19VVzhTTnVZN1ctWU1pcDhSOW5mNTRNSnlfVFkyTVpR?oc=5",
+        "fonte": "VEJA",
+        "data": "2026-10-18"
       },
       {
         "titulo": "Bruno Silva cobra debate sobre futuro do agronegócio e investimentos em infraestrutura no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDlodzRKTGFYYkxWdFRHMnZVMEU0OXI0c3Rxa2JlSE9iaTdESGtUWnc4Zzc0LVFzQ1VDMXhMTnF3ZDRBWUt6VTVWWjRWN1FxdUlON2daeUpyNDVDTWwxQmJBd0dfSGpkVmhCNmotdTA3NzgzNXFLbS1GQk5ONlJ1czVfcG9KbjFLd2twcnMwTktObXdYd3JDZEdva1lrYUlHbS1oNHBjOTZkX0JiX2lDTHZpZjFjT0RGdy1CY3dfamVKUQ?oc=5",
         "fonte": "CBN Ribeirão",
         "data": "2026-10-21"
+      },
+      {
+        "titulo": "Crédito rural: o que Flávio Bolsonaro e Lula propõem para o Plano Safra",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkduQVFCVU1EMlg2V1pQeENBaHN1ZjNtNWhRRnJXdUFzaGNUY3k3OGhUd2VKVjdKNVhzSGhmMkxwSzhHSGhZRHpmZVc5QlFyNmYtdS1HMzJHNjNvQTM0SHExaUFMa2JxRmxCZW9yeFB3VDlnLXQwYkotT21pNkNTZmpGdklkbThmZWNCQXd6UFFhVUtCWGZPVG9NR245RDQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-19"
       }
     ],
     "alimentos-bebidas": [
@@ -221,7 +221,7 @@ window.NEWS = {
       {
         "titulo": "Mais recorde: Ministério dos Transportes prevê 29 projetos para 2027",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHpIVWE0bDh5TEZRQ1NZUEFfLXRKNWZ5V2dwWVdDQVdRcU44cHdlRk1VdkFHTjFIaVBLdHhwVldPZENNcHJuMVJoWTREVXlXMVplZms1QTlMSEtHM0NFYkZnb2ZFalo2eUtGeVNLdEFWZUdDSF8xLTlYc2pWSWJKZTNnejYzSThhMnFZaFYwa0Z3Z3lRV2NaMWNlZGIwTWpGaW1YckE1SmRkZUtKSzBrRXNpeGNxSm9xVnNpWnJqRnJoYmhVcUpBZnphTQ?oc=5",
-        "fonte": "GOV.BR",
+        "fonte": "www.gov.br",
         "data": "2026-10-15"
       },
       {
