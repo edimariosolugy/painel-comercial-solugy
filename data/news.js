@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-20T23:00:32+00:00",
+  "atualizadoEm": "2026-10-21T01:28:48+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,6 +24,12 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
+        "titulo": "Indústria de alimentos e bebidas do Paraná aposta em tecnologia para a",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDFUMHVENWU2R25QcHJrWWNnNTdFNjJkV2tKOWVxT2I3NkhhWkxNRTNuM3hwNk0yVnhWTmkzTUpCWDU5U2JWWGEtRGl3M1VvbFVORUtaRk9JVHJsS2xwRm1ReDk1ZG5nNFU5b21OeUR3VjVBeUJNbHlaSE1TWWtFZ1dtV1FCTTZoelJQd0l5VEhGNldIN3RuaW5DaHd2Q0ZzaTFXdHZJbHJEQ2JtSVFsV1I0eWliY0lGaEZyVzBEVzJQN0JvOXpPRTVzVlRTX1MzdDI0?oc=5",
+        "fonte": "jornaluniao.com.br",
+        "data": "2026-10-14"
+      },
+      {
         "titulo": "EXCLUSIVO: Indústria de bebidas lidera consultas de FIDCs por necessidade de capital de giro entre pagar e receber, mostra estudo",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamlmQUI1VExDNjRNSGNPNmV0eGxKUFJ2a3VVZlZJcGtIZ0YzNXpyV1Z2VElrZjNaNGhTVUdWZEthMXpoQ2JfLVhNVEFRTGJhN1lHZXFsWktVLWVNTFRKTlBSYWRfSmFJMkNTYVRaX0JfOGpfM0YtaDFGUUlSNmtMdFR1dmNPUUZLTEFmVnY3NmhhZ1ZyTFBZOEtHbk9EMmJpWDlTMEltRWFuWm1WSWZKWmFRMHJybWhM?oc=5",
         "fonte": "Times Brasil | CNBC",
@@ -34,12 +40,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0pTeDl0N2RUa2dhb3NVQjJobXVSSW1POHkxb2x3Mi0yWHI0V1FCTDNidWw4WUJCakFyR3o0XzB0NEVjSldoTTlmS0FBbGd3MzRYU0FFdnowUHhKY1pScmJOVUNyUld4eWdTNXNLYUluU291WG4xdlFmRU51ak5iUjAwRWNWZGpSMWcyei02S3JtYmUzUHR1M2RMZm9CZzNGbWxqanhwR3pBaGN3YXVxWHhmdWwwY2Rqb1ZjZ0RldS1LMWdOVGxNSjByZjNWdW4yLVk0?oc=5",
         "fonte": "Agência de Notícias da Indústria",
         "data": "2026-10-15"
-      },
-      {
-        "titulo": "Brasil leva 156 empresas à SIAL Paris 2026 e busca ampliar exportações de alimentos para a Europa",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ3lsNGIzWDhCS0xnV0tYOVYxd0xMMVNYbGU4dUdSMVhJeU94aFhwTWVmODNGMUFfZVBncmJ6UVo1MGY2WjN4LUtuTG15YVdwS3J4cXFuVlFWeU4wUmstc0Q5Q01YOHNGcm9ucnZ2OG1teEV4MzZkUGZwNmNoY1IxUkgxdmZvWFdqcS00cWJGRTRVZy1sd01tamFVcUNtVmtIdWNkRUxOTjg2VHpKWVg3T1VURnhYZ0Z1YUk4TXhzT3VyVFN6eHc2QnlaZUtIbmZRWVM2X1I5ZFRuSWlrWmVZMnY1U1hUVnNWOW1MTzk0d1pINktfSW9xQmpfUnEzSUhvZVRDd2tUQ0s?oc=5",
-        "fonte": "Portal do Agronegócio",
-        "data": "2026-10-20"
       }
     ],
     "automotivo": [
@@ -84,16 +84,16 @@ window.NEWS = {
         "data": "2026-10-18"
       },
       {
-        "titulo": "Cientistas misturaram plástico, isopor e concreto reciclado na massa de cimento e, após 28 dias de testes, descobriram que o material ficou mais leve",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQRzE2c0I5aWtOMUpQWVFtMC1jNE15amJMaEs3b3Rway16a3FvN0gxbGNBTDYzVXNjUFFlUzZYNDJnMkZjbjB2a0R5YWJqVTFvd25uOFc3ZnBzeE9kR2Z1cDJUWi01T0Vud2JpSVJRT2ZiUnRFbFFhU2t4OXEwWmlhZ1NHX3kzNXZqR29nNU1jQjJNbkd0ckVjQUJtZ1pZd1lRa1ktS2ZFUnEzVnFOR2dWMlVwV2xpMXVqMEl0ajEyaXNkd3VrWk10bmg1S182aS1KYkdkM2FDMmhlNHE0Sk1fV1F2SFhHNmNVblZLeW5YTlJyT194eC0yZ1JEMEYtcHk4N2ow?oc=5",
-        "fonte": "Super Rádio Tupi",
-        "data": "2026-10-19"
+        "titulo": "Construção na Visão 2030: empreiteiras, megaprojetos e carteira",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNTVqSERSMXY2dml6Y25mMG4zRnlqbnd4S1ktV21aV3lnM25RZktKcmdpZThFRXJ3ZlVzZ0ZfZHhvQVJELTFMNGxRNWgtY3NWcFlPN0hvOEN2ZnRKR1hUODd5c3ZCeFJsbVRKc0xhb2VIMWQ4aVhjR2tn?oc=5",
+        "fonte": "vision2030.ai",
+        "data": "2026-10-17"
       },
       {
-        "titulo": "Construir em Minas custa R$ 133 a menos por metro quadrado que a média nacional; veja o impacto",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNRXVrSm80cGlDYnBNV0gzUklBUXltYjlKWmRJcktqakhIZ2stYWl2Y2hiaHc0SF9tYU41RGNGREhHRG5TYlZNT1FyYzhMNVI0UWdUU0NKRWw3eHNtQXo1a29RQmV2Zjg0dVppcXd1Ym9ZcFAtS3BCNFZNcmloVE1Hc1pNSE1ZU2R3dUJVMWtBMHJVYjR4dEZONmtqRQ?oc=5",
-        "fonte": "Moon BH",
-        "data": "2026-10-14"
+        "titulo": "Como investir na indústria de transformação saudita: guia",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQWHFYWjA3cTA5d3hfNmVLRG5CX1JjQTJ1QTBORTJwS2FTa1locmdnVEtfX2RzREN2SkoyOGVRQ0pNMlljUG5ReUFiaHJpbFB3MTZLR0RuYms1Zi02b2N5NnFxVERCSmJMMV9fczBUOXRsbFVqMWlUN24ydVNNRms5clBwb1Z1MDgzOXNfcDkxWWZWVENpQkZvWDJCWTBrVnE0VFE?oc=5",
+        "fonte": "vision2030.ai",
+        "data": "2026-10-15"
       }
     ],
     "comercio": [
@@ -156,7 +156,14 @@ window.NEWS = {
         "data": "2026-10-16"
       }
     ],
-    "epc": [],
+    "epc": [
+      {
+        "titulo": "Os potenciais impactos da eleição presidencial no Brasil sobre a agenda de infraestrutura",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjhVQTR6TG9DbTF0YlRXX1RkNnc3WjI2bWgwaXhpVklmUjVwM3ZtWjNtdTR3QzBLc1B6NXFRdk1wdlRpdGlKMDNJbjZMOGlYSHNrYzJSSnJjZmFSTGZlX1F0S2VKR1hRLVNjT2ZNcjVpTmZOaHZhZER3TzcwLVBEMkFkUGpGcXJnbDlXUHVOWVZkSkNxbG1Ybml2WnVCbE5JcURMblFvLXNiQzdCMVBsVFJ6ZGFFOEVacUxZa0F0T3VXWlB6WHkySHlnWQ?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-15"
+      }
+    ],
     "farma": [
       {
         "titulo": "Participação do Brasil em pesquisas clínicas cresce após marco legal",
@@ -232,10 +239,10 @@ window.NEWS = {
         "data": "2026-10-19"
       },
       {
-        "titulo": "Indústria avalia custo total em projetos de automação",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU2ZZUVRrdWZwSENfOG8tU1BCLUhNOVZaOXFWMGpFU2ZrRklfVVpJUGM3N3hlSi0wSWd2cnRScThXNkJZSTloWU5aOW5pUkM1R1EwT0o0NVljTUF5aE9ITFYxOFRvdm9zSnFWWjZZU2FBMVFVWHYyMkVMOXRxSDVScjFFSUJsdGQ0MWtWNDAxblI2ZlZDR1E?oc=5",
-        "fonte": "REDE BRASIL DE TELEVISÃO",
-        "data": "2026-10-16"
+        "titulo": "5G e IA avançam na indústria, mas o retorno financeiro ainda determina os investimentos",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm8yT3NGWFlRV2tlTXRxNWZwbkVJSlBDUk9Mci1CTnN4NUkzLVI2bWNhSG02enpIMnFfcmtCNzN3Ulg1cnR1VE5BYWFtYmxhREp5Rm1kM0FMa2N1b0J2UkRhUDgyYmNxR0ViM3d3VW5JMGtDN0lHREN0WWdUd3ZPbjVwQkNRVkRnaEpKTHVXcFNkdkxLMWhqNHRuYWk1ZU1CWXlUczNWaGNmekVRMWw3bGs2aFFzMkJnbE5oTndlSQ?oc=5",
+        "fonte": "TI INSIDE Online",
+        "data": "2026-10-19"
       }
     ],
     "mineracao": [
