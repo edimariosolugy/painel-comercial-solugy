@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-21T01:28:48+00:00",
+  "atualizadoEm": "2026-10-21T14:23:40+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,19 +16,13 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Agronegócio brasileiro: conheça 4 gigantes do setor na bolsa",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12UmNCeXFPUUZjM1I1NFpmYU9LMkJubUp6UWZIM2VuSHNfYUtaMkpmSkE1QmRlUTZyUDNEWXRqVFpRcVIxMWJ6c01HMkg5Q21UWVdyNUNfNGt1b0QyeE0ySmlFQjJKZHdkeGJYOWdjMUh2SmY0bXkwMzZidw?oc=5",
-        "fonte": "EuQueroInvestir",
-        "data": "2026-10-16"
+        "titulo": "Bruno Silva cobra debate sobre futuro do agronegócio e investimentos em infraestrutura no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDlodzRKTGFYYkxWdFRHMnZVMEU0OXI0c3Rxa2JlSE9iaTdESGtUWnc4Zzc0LVFzQ1VDMXhMTnF3ZDRBWUt6VTVWWjRWN1FxdUlON2daeUpyNDVDTWwxQmJBd0dfSGpkVmhCNmotdTA3NzgzNXFLbS1GQk5ONlJ1czVfcG9KbjFLd2twcnMwTktObXdYd3JDZEdva1lrYUlHbS1oNHBjOTZkX0JiX2lDTHZpZjFjT0RGdy1CY3dfamVKUQ?oc=5",
+        "fonte": "CBN Ribeirão",
+        "data": "2026-10-21"
       }
     ],
     "alimentos-bebidas": [
-      {
-        "titulo": "Indústria de alimentos e bebidas do Paraná aposta em tecnologia para a",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZDFUMHVENWU2R25QcHJrWWNnNTdFNjJkV2tKOWVxT2I3NkhhWkxNRTNuM3hwNk0yVnhWTmkzTUpCWDU5U2JWWGEtRGl3M1VvbFVORUtaRk9JVHJsS2xwRm1ReDk1ZG5nNFU5b21OeUR3VjVBeUJNbHlaSE1TWWtFZ1dtV1FCTTZoelJQd0l5VEhGNldIN3RuaW5DaHd2Q0ZzaTFXdHZJbHJEQ2JtSVFsV1I0eWliY0lGaEZyVzBEVzJQN0JvOXpPRTVzVlRTX1MzdDI0?oc=5",
-        "fonte": "jornaluniao.com.br",
-        "data": "2026-10-14"
-      },
       {
         "titulo": "EXCLUSIVO: Indústria de bebidas lidera consultas de FIDCs por necessidade de capital de giro entre pagar e receber, mostra estudo",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamlmQUI1VExDNjRNSGNPNmV0eGxKUFJ2a3VVZlZJcGtIZ0YzNXpyV1Z2VElrZjNaNGhTVUdWZEthMXpoQ2JfLVhNVEFRTGJhN1lHZXFsWktVLWVNTFRKTlBSYWRfSmFJMkNTYVRaX0JfOGpfM0YtaDFGUUlSNmtMdFR1dmNPUUZLTEFmVnY3NmhhZ1ZyTFBZOEtHbk9EMmJpWDlTMEltRWFuWm1WSWZKWmFRMHJybWhM?oc=5",
@@ -40,9 +34,21 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOY0pTeDl0N2RUa2dhb3NVQjJobXVSSW1POHkxb2x3Mi0yWHI0V1FCTDNidWw4WUJCakFyR3o0XzB0NEVjSldoTTlmS0FBbGd3MzRYU0FFdnowUHhKY1pScmJOVUNyUld4eWdTNXNLYUluU291WG4xdlFmRU51ak5iUjAwRWNWZGpSMWcyei02S3JtYmUzUHR1M2RMZm9CZzNGbWxqanhwR3pBaGN3YXVxWHhmdWwwY2Rqb1ZjZ0RldS1LMWdOVGxNSjByZjNWdW4yLVk0?oc=5",
         "fonte": "Agência de Notícias da Indústria",
         "data": "2026-10-15"
+      },
+      {
+        "titulo": "Brasil leva 156 empresas à SIAL Paris 2026 e busca ampliar exportações de alimentos para a Europa",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ3lsNGIzWDhCS0xnV0tYOVYxd0xMMVNYbGU4dUdSMVhJeU94aFhwTWVmODNGMUFfZVBncmJ6UVo1MGY2WjN4LUtuTG15YVdwS3J4cXFuVlFWeU4wUmstc0Q5Q01YOHNGcm9ucnZ2OG1teEV4MzZkUGZwNmNoY1IxUkgxdmZvWFdqcS00cWJGRTRVZy1sd01tamFVcUNtVmtIdWNkRUxOTjg2VHpKWVg3T1VURnhYZ0Z1YUk4TXhzT3VyVFN6eHc2QnlaZUtIbmZRWVM2X1I5ZFRuSWlrWmVZMnY1U1hUVnNWOW1MTzk0d1pINktfSW9xQmpfUnEzSUhvZVRDd2tUQ0s?oc=5",
+        "fonte": "Portal do Agronegócio",
+        "data": "2026-10-20"
       }
     ],
     "automotivo": [
+      {
+        "titulo": "Goiás negocia centro de autopeças chinesas e hotel para MotoGP durante missão na China",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR1BVZlVBRWxydUFDeTdvLTUwVWJWLUJDZVBIeWZHOG9ZWlZtblhjcF9KTUE5a3BuRm1zTUt2aWR5NndUOW5BNG9RdzdYNGNSaFZ2YTNSWW9MZldJWHlDUElXeGxIT1RrNmFXcnh5QUt5LWx1VzVEY3FSTnMya0xCeElJRHpEUlhVc1F1Z0dkcnp4WDQzV2d0N0pkUXBtY0lycllrQzdNS1lQb2tEWGRPV3huS1pGWklWSzh0c3BGSlBDQk9aRGpjSEVJcmRyWkE0NzdUOUhDMDhtUQ?oc=5",
+        "fonte": "Jornal Opção",
+        "data": "2026-10-21"
+      },
       {
         "titulo": "Expansão de montadoras chinesas e acordo com UE transformam mercado automotivo no Brasil",
         "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11Ti02c0J1NVotaTlyeUJDMTdXcnNJLXRsdm5TdUZzRzBrMUY2NEVqUXdrNWY4YVcteFJCY1ZqRXRuQXltd0dBU21mZ2NvNjBJcnFZTFVhcmZ6ZWNNT2hNWUJBc2kwWFJEUWJ2SEFndV9LMWFnczhFUUZkUXRQaFE?oc=5",
@@ -172,20 +178,26 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Chiesi investe R$124 milhões para ampliar fábrica no país e mira nova geração de inaladores",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0pnMnpBQVM2NUJGTzJiUFVhSFh5VEhBaGVqQmRHNTNfTGlaV0tkbzlOSVN6VmlSc2tEaTRuR2VhWXAxb3VsLVdqYjN4Z0dmT2pvMWJuMXJrSFdMUU12ZE1yeVI3TFdBX2pmTDlNOUZqZW1zZVRSdDM2cXVVZlNxUFdnanMycHM0OW5EQlJTTEtfa3BrVkVPSzZqUlg5SXJlVGhr?oc=5",
-        "fonte": "Futuro da Saúde",
-        "data": "2026-10-14"
-      },
-      {
         "titulo": "Marco legal faz Brasil avançar em ranking global de pesquisas clínicas de medicamentos",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNEFiam0xTVF4M2RpNVQ1OWtNVmUyR2VOQUpxNWtfdkN0WHFQS3dhdHJ2V092VGFWMmhKd0NFTVNNNkRYRUliN0ZVUFZuczNUdkZwTlE1ZExZUzJfODFmbFFKRjI2d0Q2QU51eWZabjI1OXlGMXVZY3Q2SDJGZjZlckFaVERCcjZ1UHhLcTZhWGVYMFkzWDY4ZGFJMm9odEhUajg0NU1fWlpPeXpPX2pTMW1SZktzejBoYU40WnNtR3B4c2E2NWVpbEtsSndrRWRYMklPYVE0Z2xkZU5aNFE?oc=5",
         "fonte": "A Tribuna",
         "data": "2026-10-20"
+      },
+      {
+        "titulo": "Chiesi dá salto tecnológico no Brasil com investimento de R$ 124 milhões e nova geração de inaladores",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObjlVSnN3UUVOaDFnQ05xRTBqQjczVjRfMzB3VERoZXBNVzZUWVNzN1FrMVpTR0NmQU93eTM1VGU1eWRVaEw2eE9xcUpsNHAzZkdGRGZXMkgtNVpGaFN6MXRuQWp3OVVGOXdpX2NYaFU0a0lmdWNtZVNBcXY5SGIzcFYyLTZiV0NYTmlEM0RZTW1BWUVmSVM2WjA1eHk2SjBPdFBFeU1Fd2JrTDVZckQ5ODZUUHJFcV92NVFGaThraFNNaGxkaUdaZmtPaXdLS2drRERCT3QzSjlNQ0xEaFJKYU9waDBDZi1YTGpTVUNVWWc1aEdZSUQ5QlhGZUY?oc=5",
+        "fonte": "PFARMA.com.br",
+        "data": "2026-10-17"
       }
     ],
     "fertilizantes": [],
     "industria-geral": [
+      {
+        "titulo": "Com investimento de R$ 80 milhões, Paraná receberá fábrica de mandioca",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1gtMnplU3dYSU1EdmdQaWFLeVg4cjFDa2NhUnQ0N2p5Ml9kanFBSm84NnFvelJDY3Q1WDI1akhTMUZyYzJvTDhsN0ZiYTROZ19Gd05kVXJlajEybkozclIwYzlPMi1TakVmR0VRQlQ4bHBEMGFIenVMTVh0MjJYSzhLMjJ5MFlaNzNqcTlSWEpSYW1LUDNSaXBFVEZVOW5KaEVnSU5B?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-21"
+      },
       {
         "titulo": "“Estamos usando bem os ativos, tendo bom retorno do investimento”",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkpCMEd3UENIdHBpNUF1M2k1TWdvRHlWd0h6VGlBVDBGMWg2Tm9SLVB3ZDhhcjhTMk1MODVZZkc0TlNld2xWVElQcEszS0k3NWppdnVTbWtJWDMyWmRzVHlQd0Q4T1d3VzFPSW11Ym8xSzNMVERVeG1YODZIRVBIWGtUc1lwUngwbko1UHhSMG5FeUZydDRkeERlbFRLblBVYWpyT2doSnZXMTDSAbABQVVfeXFMUERjd1RfdUlWVzZPaDZCLU9pbFVCNTFNbFZrRDJ6TFNzYjg1YWZBTG9sSFZkdTVreTV4bFNBekVZbVVXa2oxOWtJWVo3RXFudUF4OWNBaUt3MFRFWEZ3Zk5XUkRLU3BtTGRSWHJ6Q2l6bFgzYm53azFabFdSdHVmTGVQbnRhQ3lQOTJoeDY4Yllwc2ZMeTV6S1MzYjBUaHdINUNHSTAzUWZwbGVmT1JUcHc?oc=5",
@@ -197,15 +209,15 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaDFLSGtNckZnWDlDc0tzTWxrSnNvdGVwcElSVWg0bF9JNU1Benl5Znd6NTRJNk9ZeWVxSmM0OGNCYUtJUXZDcFFEWTZtLVJTS0UyM1J1dHlfUEwtR21qRlpYMW1vMmZfSkxDSnZFeGd2TVFOdWNqd25YVUNoc3BEdUFlcWJKQzhQSWJ1aElkS2NLbWRlaEc4eDVQSUs5RmhJWGFIU1dUS1QzMlFpVklBTzZ2TTh6dWJ5SWc?oc=5",
         "fonte": "A Gazeta",
         "data": "2026-10-19"
-      },
-      {
-        "titulo": "Fábrica de água mineral de Cristiano Ronaldo não traz novidade frente à indústria brasileira",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQ3lLWVdiUDc2WS1iNTBjU0tiTUFJcDlRUF9HVGNNQzV3QjFhYUVqbW1oczhGeWhBUGwtNjNQM21ldl9ocHgtejRqT2VvNHhoZWVsbVJCS0hCUmR4NHZjbkR1T3pTUE9TRmZtaTJ2LWlxcXZ6cXpmdlU5ck5iOXlJX3FEN0d5VGgzSDNhZDFfUWt2Z3dDY0E?oc=5",
-        "fonte": "Economic News Brasil",
-        "data": "2026-10-14"
       }
     ],
     "logistica": [
+      {
+        "titulo": "Mais recorde: Ministério dos Transportes prevê 29 projetos para 2027",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHpIVWE0bDh5TEZRQ1NZUEFfLXRKNWZ5V2dwWVdDQVdRcU44cHdlRk1VdkFHTjFIaVBLdHhwVldPZENNcHJuMVJoWTREVXlXMVplZms1QTlMSEtHM0NFYkZnb2ZFalo2eUtGeVNLdEFWZUdDSF8xLTlYc2pWSWJKZTNnejYzSThhMnFZaFYwa0Z3Z3lRV2NaMWNlZGIwTWpGaW1YckE1SmRkZUtKSzBrRXNpeGNxSm9xVnNpWnJqRnJoYmhVcUpBZnphTQ?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-10-15"
+      },
       {
         "titulo": "Governo quer reativar 10 mil km de ferrovias ociosas e abre caminho para shortlines privadas",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdndGQVV4N2ZtamJIMHpUaVVKRGNlWHhFZG40Xy1BaDFkR1ZsXzlDVW9IOVo2Nk1fYXZwYU1RdlBMUTBDdE9PdDk5TjlXaTJ6V3o4ZzZHQUJ6SUxHSG1jZjg1cy1Ka1U5aTlhSUlqcHdKMERvOTJnbk1BNDlKZ2Y2WmxRTk4yRTVVenoxeURfSFY2YjNLWm5jRTluNkRmZG9oZGplLVVSbmJsMlFHZk5MdVgxZm5HYm40Z3FjTEdKdHJ4TV9qN0sweEZOTTZQLVdBMWJOYWdSS3hjVVVmTmsxMl8xRzBNM1dDbHJr?oc=5",
@@ -217,12 +229,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBRZHREMVllU1VYZUpNMUZuOTZiYU9LZnZzTVdndVB4N0cyTGtzcnZqTkpNZXhscXdZbzdiSV9WQVFsUVlpRkprbTlpdGJrQWJURUUyWUxsNXRFYkRwUGc?oc=5",
         "fonte": "vision2030.ai",
         "data": "2026-10-17"
-      },
-      {
-        "titulo": "Frete de grãos no Brasil pode cair até 40% com expansão de ferrovias e corredor bioceânico",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOWgybEpEMTF1N2tEVGgxOG9Rc3RTV0QzNW9ZeXZVbTJZeTdvUi1CenBKb3lBdENZZkZVY2I1YzhtdTR0NXF0YjhmR2RhTS1QbFhieExYVHFNeHZ2YUVpYVBCMlAyR1ZzcklxbFp1RndvQjMwSHRpOGtTbUhycnlrdm5BYXR4WF94VTBkUzEzOEpPSm02ZVVPdjFkejZxVXUyM0RIUUtNRm9IQjJGcGNMSXRneDZ1enpNdlU5eno5QU41YUNvNmF6ZGdpVlFlMVo1U0VHZXMtakIwZzVoOElVbV9qSDlVQ3ZWV1FrYkNvUWZZdXRuQ0F2Y0FESTIxeUtFQWRv?oc=5",
-        "fonte": "Portal do Agronegócio",
-        "data": "2026-10-20"
       }
     ],
     "maquinas": [
@@ -286,12 +292,6 @@ window.NEWS = {
       }
     ],
     "quimica": [
-      {
-        "titulo": "Leilão do gás",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYjFSbk0zaFQyanFoWlo0a1kwTmxmVmVEWW1fT085RTJxLTRnQnhqNU5RZkwzengxZlhXR1BKZHo4c1owdjZJZUU2LXVsV00zNi10TWlITkZ1akZPbEhKb3p1SUY2OWFOWnBoTTU0OHBhemxYazNtMllLbkdrQWoyVWVkV2FydERXTEtOV3VBeEhBQm9yVkkxUEdheWNMTlJ0Tm1hTmZpRWtHdXZGZ3phQnJtOHZjOGtBYUx5TUNOWk5sTF9idktkWDdQc2xuaTd5QjFyMm91bFczcWkxOVc1aw?oc=5",
-        "fonte": "Revista Meio Filtrante",
-        "data": "2026-10-14"
-      },
       {
         "titulo": "Investimento em petroquímicos sauditas | SABIC e Aramco",
         "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04T2lwZFNxT09xdTFoSGpWQ1FLbnFSS25KMzhrMHdOcEdDNzNYQjhhT2w1SG5KYWZFZVJRNUpRTEhFNTlGOFV5c3NlcUh2amJtTVp1YmhJRG1wNDdHY0FiRHRn?oc=5",
