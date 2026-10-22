@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-22T14:24:39+00:00",
+  "atualizadoEm": "2026-10-22T19:05:07+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,13 +16,19 @@ window.NEWS = {
         "data": "2026-10-21"
       },
       {
-        "titulo": "Como os investidores europeus veem o agro brasileiro? O Itaú BBA ouviu deles mais perguntas que respostas",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOXzQxNnV5WVUtbzFOLTNnbVRUdjA3bW52eHdwbXl5ODJKRHRvc0FSWXhGNnNYYWdMMl8wSGJzYnh1b1pNZlcyVGRkOXF0TUtyQ3d3WlBaY2lwU0Z3QlZLSDY5eU1NNjNZVmw0aklLZHdQV0hFUTV0czNOVlRWRFExd096aFNPTDExZ2o1NlF6Nm1Ha0R3c3NuR0lEMW1zYnFWN1lLQjlnRWJIZHJMNkJpYzV0aEROeE9lWlpEMjlwQUJ4b1VsOTJlVHkwNF91YVB5MEE?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-10-15"
+        "titulo": "Comércio exterior e agro: o que Flávio e Lula propõem para o segmento",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWQyanlaU2ctWXJVVmNEbmNvRDdOeHBzdkFTWTVEaUZQa25aNUlpRV9sd09Ed1h6WEItVlZkX1ZNTjhlRHJTSTNrcXM5M0JoY2JsMWRqaUhqblNRVTliWVFBWU54SnN4WGluVHUtSmgtNUhiUkhsaW1FY29LLW84RDJCV3RWS2oxSUhUajd3bG8wSkdJYkpTdE5XWXRMaFJMMm0xSWtn?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-17"
       }
     ],
     "alimentos-bebidas": [
+      {
+        "titulo": "EXCLUSIVO: Indústria de bebidas lidera consultas de FIDCs por necessidade de capital de giro entre pagar e receber, mostra estudo",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamlmQUI1VExDNjRNSGNPNmV0eGxKUFJ2a3VVZlZJcGtIZ0YzNXpyV1Z2VElrZjNaNGhTVUdWZEthMXpoQ2JfLVhNVEFRTGJhN1lHZXFsWktVLWVNTFRKTlBSYWRfSmFJMkNTYVRaX0JfOGpfM0YtaDFGUUlSNmtMdFR1dmNPUUZLTEFmVnY3NmhhZ1ZyTFBZOEtHbk9EMmJpWDlTMEltRWFuWm1WSWZKWmFRMHJybWhM?oc=5",
+        "fonte": "Times Brasil | CNBC",
+        "data": "2026-10-20"
+      },
       {
         "titulo": "Brasil leva 156 empresas à SIAL Paris 2026 e busca ampliar exportações de alimentos para a Europa",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ3lsNGIzWDhCS0xnV0tYOVYxd0xMMVNYbGU4dUdSMVhJeU94aFhwTWVmODNGMUFfZVBncmJ6UVo1MGY2WjN4LUtuTG15YVdwS3J4cXFuVlFWeU4wUmstc0Q5Q01YOHNGcm9ucnZ2OG1teEV4MzZkUGZwNmNoY1IxUkgxdmZvWFdqcS00cWJGRTRVZy1sd01tamFVcUNtVmtIdWNkRUxOTjg2VHpKWVg3T1VURnhYZ0Z1YUk4TXhzT3VyVFN6eHc2QnlaZUtIbmZRWVM2X1I5ZFRuSWlrWmVZMnY1U1hUVnNWOW1MTzk0d1pINktfSW9xQmpfUnEzSUhvZVRDd2tUQ0s?oc=5",
@@ -34,15 +40,15 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE12UmNCeXFPUUZjM1I1NFpmYU9LMkJubUp6UWZIM2VuSHNfYUtaMkpmSkE1QmRlUTZyUDNEWXRqVFpRcVIxMWJ6c01HMkg5Q21UWVdyNUNfNGt1b0QyeE0ySmlFQjJKZHdkeGJYOWdjMUh2SmY0bXkwMzZidw?oc=5",
         "fonte": "EuQueroInvestir",
         "data": "2026-10-16"
-      },
-      {
-        "titulo": "SIAL Paris 2026: Brasil busca ampliar e diversificar exportações de alimentos para o mercado europeu",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0pDeG5DTUpUWkhvWGxhSW9TUXdGc01WdUFHb1FhYmR4RG1qNnl6NlFYek9ySktSUDEyQkRLdUh0amRoUXRUeWVqZE12R0o0dTRhUW54Vi1scHU5alZvQTFPSm9WNlhjeEtSeXhvc2N5c3NtTUh4S0xpZUVYeW9DRWstT1p5dDBENXlkVFBHc1NhbDZmV2p2LTZtM3NWLTdCYzdTUGM4Ymp2MW9kS29fN0V4U0d3UHdMOHBHd3BKRFZkNklE?oc=5",
-        "fonte": "Comex do Brasil",
-        "data": "2026-10-19"
       }
     ],
     "automotivo": [
+      {
+        "titulo": "Chinesas vivem boom no Brasil, mas JAC Motors enfrenta crise; entenda",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYjRneGlONkplTlA1T25QbE9DdmktZEY3SEZLaWkxeHRSU2xrQ2I1WEpRU2RxY2NyNGF4YnloSXk4YXI3X2ZsRHlzVXVmMzJtdWVKTm41QWh5RXV1ejhvYUNzU3VkR2Y3cXBXU3htMDUyVDFFNUNQRnNYLVdoNGR4amZLWUNwWG5zRTAwRFlWUkpoZS1QNW1nQWwyYnhMclBaSTdVLVYwTXJiOVo3RWtBRWl1ank3Rk82Xy1VSUs3VldRVnF0SUVYb1EzNGNUMl9GZFNjWA?oc=5",
+        "fonte": "UOL Economia",
+        "data": "2026-10-20"
+      },
       {
         "titulo": "Goiás negocia centro de autopeças chinesas e hotel para MotoGP durante missão na China",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR1BVZlVBRWxydUFDeTdvLTUwVWJWLUJDZVBIeWZHOG9ZWlZtblhjcF9KTUE5a3BuRm1zTUt2aWR5NndUOW5BNG9RdzdYNGNSaFZ2YTNSWW9MZldJWHlDUElXeGxIT1RrNmFXcnh5QUt5LWx1VzVEY3FSTnMya0xCeElJRHpEUlhVc1F1Z0dkcnp4WDQzV2d0N0pkUXBtY0lycllrQzdNS1lQb2tEWGRPV3huS1pGWklWSzh0c3BGSlBDQk9aRGpjSEVJcmRyWkE0NzdUOUhDMDhtUQ?oc=5",
@@ -54,12 +60,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNblY5UDU4S2Y3d0c3eTRlb2dHYnNEblZTY3BJaFl2WXdDeElpTk1GUkRXM255azVTSHRNbG5LSjJ5YmwxWkxuNVllbEl2N1c4V2lUUl82NUJKY3ZuLWh6LU9ndjYzeDBrbjlzeFVkcXU1WVlaX0RJV2pUemFPWEZKSEhENFc5cGRMX1NKa0prNUE?oc=5",
         "fonte": "CPG Click Petróleo e Gás",
         "data": "2026-10-20"
-      },
-      {
-        "titulo": "Expansão de montadoras chinesas e acordo com UE transformam mercado automotivo no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11Ti02c0J1NVotaTlyeUJDMTdXcnNJLXRsdm5TdUZzRzBrMUY2NEVqUXdrNWY4YVcteFJCY1ZqRXRuQXltd0dBU21mZ2NvNjBJcnFZTFVhcmZ6ZWNNT2hNWUJBc2kwWFJEUWJ2SEFndV9LMWFnczhFUUZkUXRQaFE?oc=5",
-        "fonte": "boca.com.br",
-        "data": "2026-10-15"
       }
     ],
     "bioenergia": [
@@ -96,8 +96,8 @@ window.NEWS = {
         "data": "2026-10-17"
       },
       {
-        "titulo": "Regulamentos sobre a gestão de minerais do Grupo II utilizados como aditivos para cimento, minerais do Grupo III utilizados como materiais de construção comuns e minerais do Grupo IV na cidade de Ho Chi Minh.",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTERjLTlSZkdIbmZseWNvMmV2Wk5wOGg0cW1EQVZqdzkzWVBuelpaMFBxb0h5T1pHMmNBWXY1a2lyQ0JiaW9RazV5UzI1aXJ5RWJnaDBHMnpObTMtb21Jc0h0aHZJSGpvNlJSbU1TQ25SX1R4UGFQSlVZS0RIZlN0SzE1YlZWVE11R0JKTjN5Y09WdTZ3NVRJaC1zQjh4eFNXZWNfMllQYkJBVkZ3UkR1ak5NVm4wamZiMV93cngyVVo2aEFhbmhmRUVha0RPalV6RXg5LWptYWNJVjZzYXdlQzl2YTBfTHhmd1l1aHRDaWx3cnFMalNraHRrSQ?oc=5",
+        "titulo": "Perfil do empresário que quer arrecadar 1 trilhão de VND por ano para o futebol vietnamita.",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbWRQaVkyWldQVFRJQXJpcVlSMUFFRlBPUTdHSFkxR2dudXQtM2F0S2NZZVVtQV8zWEp3RmVwYThEa19tWFA1MkxDYVJYeHc1S3Bsa05LMDlIOFRRYi1GQlhZLWhiQ1JkR21LVDhBY2JoNi0xbzBHN1pxcXA0blcwd0FxY1FmMmUzODdnbXlhU2RCOHlvbUY3dVBCaFVrOG05?oc=5",
         "fonte": "Vietnam.vn",
         "data": "2026-10-22"
       }
@@ -150,30 +150,30 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
+        "titulo": "Baterias podem transformar Brasil no segundo mercado mais competitivo em energia solar do mundo, diz Irena",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2pMS1JYeEtIX3dzeHh4eGo2bWVjdUpTRXZsQUN0eHh6N0VyQXZqRk94dG0xdHU3Z1ozb2RwUlV5M0dTODh4a3h5WVpTdW5fOHhweUtMZy1rc3lRZ2IyNjdoSW53enpBUWcteVR6U1dNRzlxMUc4UHo0SnRQZm5GZVZ5Z1VXRnNrdVJ3bVdpXzBwRm92R0lxcFdLTDRiTDRIS3piczFqNUVLY1hKRFVUV3ZEdnNDaWdYd2lwUjZqa1pQemVpNTNhaURKb2dxdw?oc=5",
+        "fonte": "eixos",
+        "data": "2026-10-20"
+      },
+      {
         "titulo": "Brasil deve ter o segundo menor custo de energia solar firme do mundo até 2035, projeta Irena",
         "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZHRkTlE1Y3FOWU5kX0dqOVUxRWdGdTVtNVJGaHVFSlN6QkRtNVozOFplQjVsRHdITGJIeElsd2ZiZ2RneHFHNTlxZXhQZjFKbEZFMzgwMFgyYWxYQVBMdUU2cU9NUVY4TGZEU2pFM1NRMzB5d1prUy1XT1R0Q1NEcGs2bVJFMzFjTm1SQ3d1NWJOdy02djZ0NUMzYXEtcXJNcTNZU1dTZUVVQjcwUGtDVmo4WXU2bGJvckRGcTFhRDhOTkExcktKLWhRb1JiNFY0TUUyNnF1aXU0NnltOHhzU0pR?oc=5",
         "fonte": "Times Brasil | CNBC",
         "data": "2026-10-16"
-      },
-      {
-        "titulo": "Brasil poderá ter 2ª energia solar mais barata do mundo em 2035 - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1V2VlMjZJX1ZSNTdVY0F4cVBHU09QLTdEa0lOVlljaTVvZGJrWHl2WjNMOWxEZFI2R1BSaWJVRTFqSWw3UWRaMHNRZjM2UQ?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-10-17"
       }
     ],
     "epc": [
+      {
+        "titulo": "Os destaques da planejada agenda de infraestrutura da América Latina para 2027",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnB0SGdOM1Q4c045OGN1UENLUEpBemktZXE1NU5pRThTc0pDYWVvZzlmY2dHbGRaS0x6Z0gwU05fNUlNbkkzbnBrYzNFeXFKeU1KdDFTcVN6cHE3OFlINnlaaHFvdTFVV1hyLWRLaFotQWtpM09Oa2xqb1Z5ekV1cWVKSW9fRlB6YVFYTzRvXzNCLVktemMxY1ZZRmJrTHE1MUY5bmRpRFhfNkpoNVVveEp1UUF2N0FTLVVhQkY3cw?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-22"
+      },
       {
         "titulo": "Disputa entre Lula e Flávio Bolsonaro coloca futuro da infraestrutura brasileira em foco",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQeEpMR1QtZVRpMHlhOVZDNVlQemhrOGdqS2hDRHVmTktGVXFGSzU2QVlXUTZqOGpZMGdiUDFvSW1uVVppb043MS1xdFp3SjBjMm91aHVEZ2NneF8zRkpFeHRvN1c5akl2Vk1kalR1YjB3X2VmY3hEdWZXQk5TS1c4a2VlMkpiSk55OUN4Q2RCNlkzcTlUUVltcDQ1N01lSlFFekRSQ0N5UzY3ZjdveUdxRnBLU1N2SkNURkM1b2htbFNsaFNYTmdJNjln?oc=5",
         "fonte": "BNamericas",
         "data": "2026-10-21"
-      },
-      {
-        "titulo": "Setor privado deve liderar investimentos em infraestrutura na América Latina em 2027",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbnB0SGdOM1Q4c045OGN1UENLUEpBemktZXE1NU5pRThTc0pDYWVvZzlmY2dHbGRaS0x6Z0gwU05fNUlNbkkzbnBrYzNFeXFKeU1KdDFTcVN6cHE3OFlINnlaaHFvdTFVV1hyLWRLaFotQWtpM09Oa2xqb1Z5ekV1cWVKSW9fRlB6YVFYTzRvXzNCLVktemMxY1ZZRmJrTHE1MUY5bmRpRFhfNkpoNVVveEp1UUF2N0FTLVVhQkY3cw?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-10-22"
       }
     ],
     "farma": [
@@ -205,25 +205,19 @@ window.NEWS = {
         "data": "2026-10-22"
       },
       {
+        "titulo": "Com investimento de R$ 80 milhões, Paraná receberá fábrica de mandioca",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1gtMnplU3dYSU1EdmdQaWFLeVg4cjFDa2NhUnQ0N2p5Ml9kanFBSm84NnFvelJDY3Q1WDI1akhTMUZyYzJvTDhsN0ZiYTROZ19Gd05kVXJlajEybkozclIwYzlPMi1TakVmR0VRQlQ4bHBEMGFIenVMTVh0MjJYSzhLMjJ5MFlaNzNqcTlSWEpSYW1LUDNSaXBFVEZVOW5KaEVnSU5B?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-22"
+      },
+      {
         "titulo": "“Estamos usando bem os ativos, tendo bom retorno do investimento”",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMkpCMEd3UENIdHBpNUF1M2k1TWdvRHlWd0h6VGlBVDBGMWg2Tm9SLVB3ZDhhcjhTMk1MODVZZkc0TlNld2xWVElQcEszS0k3NWppdnVTbWtJWDMyWmRzVHlQd0Q4T1d3VzFPSW11Ym8xSzNMVERVeG1YODZIRVBIWGtUc1lwUngwbko1UHhSMG5FeUZydDRkeERlbFRLblBVYWpyT2doSnZXMTDSAbABQVVfeXFMUERjd1RfdUlWVzZPaDZCLU9pbFVCNTFNbFZrRDJ6TFNzYjg1YWZBTG9sSFZkdTVreTV4bFNBekVZbVVXa2oxOWtJWVo3RXFudUF4OWNBaUt3MFRFWEZ3Zk5XUkRLU3BtTGRSWHJ6Q2l6bFgzYm53azFabFdSdHVmTGVQbnRhQ3lQOTJoeDY4Yllwc2ZMeTV6S1MzYjBUaHdINUNHSTAzUWZwbGVmT1JUcHc?oc=5",
         "fonte": "AutoIndústria",
         "data": "2026-10-19"
-      },
-      {
-        "titulo": "Com investimento de R$ 80 milhões, Paraná receberá fábrica de mandioca",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1gtMnplU3dYSU1EdmdQaWFLeVg4cjFDa2NhUnQ0N2p5Ml9kanFBSm84NnFvelJDY3Q1WDI1akhTMUZyYzJvTDhsN0ZiYTROZ19Gd05kVXJlajEybkozclIwYzlPMi1TakVmR0VRQlQ4bHBEMGFIenVMTVh0MjJYSzhLMjJ5MFlaNzNqcTlSWEpSYW1LUDNSaXBFVEZVOW5KaEVnSU5B?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-21"
       }
     ],
     "logistica": [
-      {
-        "titulo": "Mais recorde: Ministério dos Transportes prevê 29 projetos para 2027",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNHpIVWE0bDh5TEZRQ1NZUEFfLXRKNWZ5V2dwWVdDQVdRcU44cHdlRk1VdkFHTjFIaVBLdHhwVldPZENNcHJuMVJoWTREVXlXMVplZms1QTlMSEtHM0NFYkZnb2ZFalo2eUtGeVNLdEFWZUdDSF8xLTlYc2pWSWJKZTNnejYzSThhMnFZaFYwa0Z3Z3lRV2NaMWNlZGIwTWpGaW1YckE1SmRkZUtKSzBrRXNpeGNxSm9xVnNpWnJqRnJoYmhVcUpBZnphTQ?oc=5",
-        "fonte": "www.gov.br",
-        "data": "2026-10-15"
-      },
       {
         "titulo": "Governo quer reativar 10 mil km de ferrovias ociosas e abre caminho para shortlines privadas",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdndGQVV4N2ZtamJIMHpUaVVKRGNlWHhFZG40Xy1BaDFkR1ZsXzlDVW9IOVo2Nk1fYXZwYU1RdlBMUTBDdE9PdDk5TjlXaTJ6V3o4ZzZHQUJ6SUxHSG1jZjg1cy1Ka1U5aTlhSUlqcHdKMERvOTJnbk1BNDlKZ2Y2WmxRTk4yRTVVenoxeURfSFY2YjNLWm5jRTluNkRmZG9oZGplLVVSbmJsMlFHZk5MdVgxZm5HYm40Z3FjTEdKdHJ4TV9qN0sweEZOTTZQLVdBMWJOYWdSS3hjVVVmTmsxMl8xRzBNM1dDbHJr?oc=5",
@@ -235,15 +229,15 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOWgybEpEMTF1N2tEVGgxOG9Rc3RTV0QzNW9ZeXZVbTJZeTdvUi1CenBKb3lBdENZZkZVY2I1YzhtdTR0NXF0YjhmR2RhTS1QbFhieExYVHFNeHZ2YUVpYVBCMlAyR1ZzcklxbFp1RndvQjMwSHRpOGtTbUhycnlrdm5BYXR4WF94VTBkUzEzOEpPSm02ZVVPdjFkejZxVXUyM0RIUUtNRm9IQjJGcGNMSXRneDZ1enpNdlU5eno5QU41YUNvNmF6ZGdpVlFlMVo1U0VHZXMtakIwZzVoOElVbV9qSDlVQ3ZWV1FrYkNvUWZZdXRuQ0F2Y0FESTIxeUtFQWRv?oc=5",
         "fonte": "Portal do Agronegócio",
         "data": "2026-10-20"
+      },
+      {
+        "titulo": "Flávio Bolsonaro propõe construção de ferrovia de 1.400 quilômetros no Nordeste brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSjRSZzZGbzJhTWo0b0VKc3dOeDJ1dk9mYTdSd0haZ0lsUmhfMm1lOUVWMkVoeXJnYVpsMjFfNnRHMUw4Wi1qTDFnMEY5QzVUeG5FM1MwTWcybDRvVjI1dHFRZkpZWlFJRHZwUkFad2lOWkZvZ2JTUVBsZDZMRU9ickFUVXZYSVBrZ1pUZkplSnU2ZXFPTlRadlFUYm12T3FvcVVhTk5DcGREQW5YNjhTUlFKUncwLUhWVmRkb0p1U1pIbFc0YkMw?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-22"
       }
     ],
     "maquinas": [
-      {
-        "titulo": "Energia cara responde por quase metade da alta do custo de investir no Brasil, aponta estudo",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYmJEQ1hBdlRlLUF2MGU1VEhLamp6bTZyc3NjdlZhTEEwcFd6YlkwUlUxMnVGZ1lJSEpROHUyWGlCZVQxVnh1Yzc3MU5BQlZpclRzbDRFY0RpS0pYRzJBbWllZ1hrc1hqLUZpNjFjZ25fTEhMQTZ3UWotd1ZTZ1c5dl9iNERpMGYzM0NzbkMzY2tJdmtaRWRvLXcyN2xTSDlxZElHM3Bwd1BidmRMTXBua05WQzJmZElLQmFzUU5ZRTR0cjhCMHVpZDdPNWw?oc=5",
-        "fonte": "FIEMG",
-        "data": "2026-10-15"
-      },
       {
         "titulo": "Confiança industrial sobe, mas energia cara trava investimento em MG",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcE44X29mVUhRZTQ4U3lBTWZHNUtNTWEwT1l1Wndzc0tVT0licGkyNVpCVnBWakhGemw5clBDNjEtQUtnT3AyQUVNcW1tZ0s3azNxQnAwZ2sxNXdkMEdmTGl1cjFMX2l3d01nRHMwOHNFT1hES3Rmbk9GeGo0TngtMFQ1aFVnMUJqX1VGTWYxQkx0ckZXT0Fob0lYaUNsLVB1dGhxZXVWWGJla1E?oc=5",
@@ -254,6 +248,12 @@ window.NEWS = {
         "titulo": "NEGÓCIOS | Siderúrgicas começam a retirar planos de investimentos da gaveta, com menor pressão das importações ⁣ ⁣ Depois do tsunami das importações de aço, principalmente da China, a partir de meados de 2023, a indústria siderúrgica no Brasil já s",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UGpPSFVHZWVVRTd2YlFYeW55R2pqeWxTeW40YTE0LWhrUkszVXdveUVHVGJORWVrX0F0WHYyQzJNTHBCY2s2bnpKZDFXVEtOY2c?oc=5",
         "fonte": "Instagram",
+        "data": "2026-10-19"
+      },
+      {
+        "titulo": "5G e IA avançam na indústria, mas o retorno financeiro ainda determina os investimentos",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPLWNtbmdvWnQyUkQxT1VLN2pYczgwQ3FKY1ZUbUxZaEVRLWprQjA4NFFPY2hfZVNYaDV6VlpHeGcwczFhMFhaWWhYYWdTU3JQUUZxTDZLejFrSWM4NGRVUkJiWGNPM0dDb2hBNERRbkV3eG9HcklacnZmZXN0dzhCcC1lWHF2QkZURVE0QXN5a0JhbkNfQlgxOGx3b0R1TWpVeGtubTdYMXAyaGZoUXdVMXpCOG5WQTlZRHNORHNhcGVLYVk?oc=5",
+        "fonte": "TI INSIDE Online",
         "data": "2026-10-19"
       }
     ],
@@ -319,15 +319,15 @@ window.NEWS = {
         "data": "2026-10-15"
       },
       {
-        "titulo": "Cinco empresas disputam concessão de água e esgoto em Lavras, com R$ 257 milhões em investimentos previstos",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzB6THo1eHdlMWtpbFpWbXg3UHRsZ01TczduY29XXzllTElXZDNxcXFRNGdyS2NGVnhFb3JGZzNieVgtZHNxTTVYWVNGQzVVRVNwQmdmM2hmTU5tM0NFYXNyV3hBdk12aFFNSGl2el9QdVRUTE1SN3F0YWNmbGQzenA1bFE?oc=5",
-        "fonte": "Diário do Comércio",
-        "data": "2026-10-21"
-      },
-      {
         "titulo": "Leilões de infraestrutura após eleições podem gerar investimentos de R$ 54 bi",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVDl0UlBGTXZwZGlXZ0tJUWxDaTRSVXE0NmQyaTVva1ZJMnRncTBEd256cHlQbTVXTTlLTkRlNTdFN1lpYlN0TllYV1RJcUVOOWVtbWVTY2tMZFZGUW9vUklYaTRfX2FyMEFzWjBkNnJCZTlOblZlcWRFQUk5d2wzcEF3R2t1ejgtZFRjQVVBU0ljeFkySmF0Q2IzdGtrNktWSnVwVDlwVUlwdjRSdk55NS1ScHFkYUU5d3pCZGpKUXYzMjZRTDNfaW9qLWxobk3SAd4BQVVfeXFMTnhtdHFqWExiVHhFUG5iYnF5M091NXNhTGptcUJrZ1FZMVhHNVRJVC02VDZlTHVVRnFXR1hRTUpPOWxsWUlYdUlXWElkVnhCbzg2dG9XRjlteVhnSUxubEpRVEowQWdubUI4bGpnbVBnS3BPa21hTzM5MXpWM3BFZ2lHQktjbUdSQ2lpZWpfN241VmNjeGRtclpiZm5jSFlUazg5Y3pnajduNkRxcUtlYkFMc2dpSHp2MDN3MFA1M3JMMzc1T0dNdWFUSmJfckFLZ3M4QTJvMl9oRG9vR0FR?oc=5",
         "fonte": "Valor Econômico",
+        "data": "2026-10-16"
+      },
+      {
+        "titulo": "Cagece relança edital de PPP de esgoto para blocos não arrematados",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUW1UNnR6S29SQkczQnVvMG5DWFdlN1BaSFZoM0ZXY25nVjNrOVZvWWljVUdvTlRVMllVS21OelBhT1JjVFlhLW9TWHZkb2NqUC1VOU9NUWtuT04wSE1yNU9IRmZXdU5mMWh1MnBDWnZWUEM5aTBUcjAxRGk4MW1xQlRMWXkxQ3pBT2pZLXYxN2VPTFBGY2t1UllfZk9UNTZUVzN0LQ?oc=5",
+        "fonte": "CNN Brasil",
         "data": "2026-10-16"
       }
     ],
