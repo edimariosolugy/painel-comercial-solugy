@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-23T18:55:15+00:00",
+  "atualizadoEm": "2026-10-23T21:55:34+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,22 +24,22 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Gabriel Souza apresenta oportunidades de negócios e investimentos no RS na abertura da missão à França",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc2FoOG1ub21tN1J5eFhNMDdFY21fcGRibEZxUmhlSDQ4UWhRdkhBTW42OWxXVndBckNwbXlybTdmck9odllrekhDNlA4b0lkb0d4NWk2UWR1cy1kTEM0ZVBIM3o0a01KTGFSN0JXc3hzZy1qQi1oRUxEMmNkUndkVER5VWg2WXNHSXRTSXIwTXZVVk85ZFpiYmhfY25sM0NnS0dOeTNaR3NRODNSTmVHTnRsRVVicENmUC1UZmdRcElTSVI5UGc?oc=5",
-        "fonte": "Portal do Estado do Rio Grande do Sul",
-        "data": "2026-10-16"
-      },
-      {
-        "titulo": "Acordo entre Mercosul e União Europeia abre mercado e cria nova rota de crescimento para empresas brasileiras",
-        "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxPM2xtUEhNRVROc1BsVGF4YUFUVzZFcV9TMkFORkdEU0cwa3BfaUtTRTZOejJwcXJLMEFSQnVEbzJxZHFGRHNCSGpEYlVUZjAxd1p1WUNsckVNdHNpVUM5UFJGSE1HSkU2UHFyV2dCY2tHSjdQZDIwVWNGSTROZ25jZzFJY2JDbjBEUGM4SWhxTWVlU0xmZndmX3dreldpVnI1SEtWdmFvY2Iwb1RieVlISmZfYjBaWHplbURBeE1JVVVjWDM2RWtMOC1zQmJueFl6ZGhhME1XWjhXZEY2bUpWMHZlVTFVSW0taVdnQ196d29vZldIYjdhdHYzSEp5OFloaXV0M3hXWHJVc29FdUhLajQzMzZCWDlkTWFHcHJmQTZBcXdlWHViYXQxQVM4V2FYaFRaSjdXVFhPTTBzUjZHdGdxVDVPSzJmdkVybng2bkZKZThFWlFRZjRQSVVOZzBvWUNaVFB5V0FMS3l2NkZGcjJFLXpWSHZic2I2V2tn?oc=5",
-        "fonte": "FecomercioSP",
-        "data": "2026-10-18"
-      },
-      {
-        "titulo": "EXCLUSIVO: Indústria de bebidas lidera consultas de FIDCs por necessidade de capital de giro entre pagar e receber, mostra estudo",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamlmQUI1VExDNjRNSGNPNmV0eGxKUFJ2a3VVZlZJcGtIZ0YzNXpyV1Z2VElrZjNaNGhTVUdWZEthMXpoQ2JfLVhNVEFRTGJhN1lHZXFsWktVLWVNTFRKTlBSYWRfSmFJMkNTYVRaX0JfOGpfM0YtaDFGUUlSNmtMdFR1dmNPUUZLTEFmVnY3NmhhZ1ZyTFBZOEtHbk9EMmJpWDlTMEltRWFuWm1WSWZKWmFRMHJybWhM?oc=5",
-        "fonte": "Times Brasil | CNBC",
+        "titulo": "Brasil leva 156 empresas à SIAL Paris 2026 e busca ampliar exportações de alimentos para a Europa",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ3lsNGIzWDhCS0xnV0tYOVYxd0xMMVNYbGU4dUdSMVhJeU94aFhwTWVmODNGMUFfZVBncmJ6UVo1MGY2WjN4LUtuTG15YVdwS3J4cXFuVlFWeU4wUmstc0Q5Q01YOHNGcm9ucnZ2OG1teEV4MzZkUGZwNmNoY1IxUkgxdmZvWFdqcS00cWJGRTRVZy1sd01tamFVcUNtVmtIdWNkRUxOTjg2VHpKWVg3T1VURnhYZ0Z1YUk4TXhzT3VyVFN6eHc2QnlaZUtIbmZRWVM2X1I5ZFRuSWlrWmVZMnY1U1hUVnNWOW1MTzk0d1pINktfSW9xQmpfUnEzSUhvZVRDd2tUQ0s?oc=5",
+        "fonte": "Portal do Agronegócio",
         "data": "2026-10-20"
+      },
+      {
+        "titulo": "GP Investimentos compra fatia de fabricante de bebida saudável da Califórnia por R$ 100 milhões",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckdHcnc0VlpJRnJGMkxraDI1YkJYQS1GMi1ONFlsZDQ0elRzY0Q2TFBodzVYRklqeE1vZkQ3b3VxYkRTajJqMHY5SV9CX1NOM2d6cWYwWnEzRW1yMFBFU3cwb0J5dTZPMXZkVmE0SXYwTlFMdU1GakhoZnNURkQ5aDBpZ2FFX21GbTRMcWczS29wWHhPTGptTjc2ZXpCWmM4a2o2SXp6Z1I2ZVFyRTF3U1RyOXltTnc1V1pUSWI0YnFyOXdMcVBqNjhMZVdEWjREWTNKSGdYMNIB3AFBVV95cUxPVjRyWHV4TS1HQkFuMDJfNk1oZGszQWhBQmlpcXo5WkpfTEl6RXVCSDJmSndSU0RNZ3FIX2kzbUdXbzZSUFRwOU9iUklVOEpHUW5YT3NaVm1hUFprQTJ1Q1E1S1lSekFKODVkVmRkMm5UNGFMUXhqajVVMGpiTFFHZmdMRWtiNDNoMEpuaEVLWG1YNG05STFWM2E1YllPOVB0cmdIdmQtS0V4djZ0ZUN5Q2tvdDhGampESk9XV0tmc3I3Rkl3SzFfNGN6OGQ4NlEwQ2FWeGFraGsyNEVS?oc=5",
+        "fonte": "Estadão",
+        "data": "2026-10-22"
+      },
+      {
+        "titulo": "SIAL Paris 2026: Brasil busca ampliar e diversificar exportações de alimentos para o mercado europeu",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0pDeG5DTUpUWkhvWGxhSW9TUXdGc01WdUFHb1FhYmR4RG1qNnl6NlFYek9ySktSUDEyQkRLdUh0amRoUXRUeWVqZE12R0o0dTRhUW54Vi1scHU5alZvQTFPSm9WNlhjeEtSeXhvc2N5c3NtTUh4S0xpZUVYeW9DRWstT1p5dDBENXlkVFBHc1NhbDZmV2p2LTZtM3NWLTdCYzdTUGM4Ymp2MW9kS29fN0V4U0d3UHdMOHBHd3BKRFZkNklE?oc=5",
+        "fonte": "Comex do Brasil",
+        "data": "2026-10-19"
       }
     ],
     "automotivo": [
@@ -96,10 +96,10 @@ window.NEWS = {
         "data": "2026-10-18"
       },
       {
-        "titulo": "Construção na Visão 2030: empreiteiras, megaprojetos e carteira",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0xNTVqSERSMXY2dml6Y25mMG4zRnlqbnd4S1ktV21aV3lnM25RZktKcmdpZThFRXJ3ZlVzZ0ZfZHhvQVJELTFMNGxRNWgtY3NWcFlPN0hvOEN2ZnRKR1hUODd5c3ZCeFJsbVRKc0xhb2VIMWQ4aVhjR2tn?oc=5",
-        "fonte": "vision2030.ai",
-        "data": "2026-10-17"
+        "titulo": "Identificados Cinco Projectos Para Transformar Minerais em Produtos Industriais de Maior Valor",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1d1anJkOTNJWG5IRW4zVkx0TDk0aWJ2SkRnQ29OMmNGOUw0SGQ0T3Z3VVh2Z2NMMzZORld6ZUltZm82Q0NFYjJ6dnN1Z2RJZG5kbHlWNW1mMGtSNWlxNnktdlRfR2wxZDJBeHV4TlpDZUdwbk9DdTBJaXdHZEd1dVBXeDNDZUVvUW9ETkZJdmZId293ZENQVmVFTkc4MnJIbGduUUNzSXNkWW03bFZ3MGxUTm95ZUZmR2VLQm1GVQ?oc=5",
+        "fonte": "O.Económico",
+        "data": "2026-10-21"
       }
     ],
     "comercio": [
@@ -110,10 +110,10 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Gigante de R$ 20 bilhões lança nova geração de supermercados sem caixas no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNXoza0pjVGlCRjFQeXJIQzh3OTRpZGFjZU5oN09pYWQ4YjNrTVBJampHLVVpa2V4RTZLTEF4T2xqZlVjY2c3ZHUtNTB2MC1lYndKbk10dHdnOVRLYTVudXhramZaWG94LVNQZTQtYUpIaDJQMHJmTGs2N3dtSmxXUXJjTzNlaDFlcmxJVi0xTHZvOVgxZm1sNGxaWlZGVGJOMHVmcFpEeHJKVmRn?oc=5",
-        "fonte": "Exame",
-        "data": "2026-10-20"
+        "titulo": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado da Havan",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZmc5eFZzRDFGQm50NTBMNm1xcmtTTy1hRnZVR2FxaWs4YmIzWUdrOHhLUXdBbnFuMmVrN1UxTUpLbU9HcXlSVUVtSGlCTU80LWtPLUcxNUsza2xfRGczNVZyV2pWS2FmU054aHhIblphbUVmMU5ZVHljVE1kNTNSVU5Rc1N0bHY1em82RmZncU5wQVk3ZlEyU0ZFQXFuLU1UM2NFUmVfRm1hQ2hVQmo0YUlEWnc5TFE4YlRuOXo5ajRqZWRob1VLeVlaaVZEcDJRa2Ntc0ZPemNNQk1n?oc=5",
+        "fonte": "Diario de Pernambuco",
+        "data": "2026-10-19"
       },
       {
         "titulo": "“Juros estão matando o varejo”, diz executivo do Petz Cobasi - Times Brasil | CNBC",
@@ -237,10 +237,10 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Governo prevê leilão da ferrovia Vitória-Rio em abril; projeto mira cargas e portos",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN0MxNVlER1pUSkl4TVVuNFBwajJoWV9RM2Nid0RyaUUtTENxNk1SZ01pOG9WYWdnZlppMUk3dnAwZGRYd2VxUDVMQzFRMmNVMGQ2ZDI1eE9OT2hfSDdkNkdFMmpSQlBjZkFFUVdZUHhIcy1xRkxNN3BFc3JnVzVoM0lCY2hfWTczM0p5RkI0ay1uYjc5ZW9ibGdGLWc5SGJoSjJ1bXNyQnFuMjhZYkxRNjJOa0o2ZUpSVjV1elFPY1lDdw?oc=5",
-        "fonte": "Folha Vitória",
-        "data": "2026-10-16"
+        "titulo": "Recordes nos portos mostram nova escala da logística e aumentam pressão sobre os acessos terrestres",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFctc0Y1YjllUEhiQzhXbVotS2FZdkFnV2hNOXhKZVlRODRkLWhSc1B6NWVSc3dzdVpqQ1dHN2Zfb3EtVEVYX20zbHlnRXNlUk9YTUFnR2x3a1laQ0Q2V0dWVlJaWXc2ZkptM1prc0U3S0F1R1dtZXBrZnl2X3ZMcFA0bU9DOG5uSG9aMUJrM2N6ZmNmS01TNUpLZmJiVG1Jelo5UE9YV1poZGQ4ejU3Yi0wLWhfMmY3dUJKZ0lxazVIY0NMN1RKN1EtZEZsZV9aT0E?oc=5",
+        "fonte": "DatamarNews",
+        "data": "2026-10-19"
       }
     ],
     "maquinas": [
@@ -251,16 +251,16 @@ window.NEWS = {
         "data": "2026-10-19"
       },
       {
+        "titulo": "5G e IA avançam na indústria, mas o retorno financeiro ainda determina os investimentos",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm8yT3NGWFlRV2tlTXRxNWZwbkVJSlBDUk9Mci1CTnN4NUkzLVI2bWNhSG02enpIMnFfcmtCNzN3Ulg1cnR1VE5BYWFtYmxhREp5Rm1kM0FMa2N1b0J2UkRhUDgyYmNxR0ViM3d3VW5JMGtDN0lHREN0WWdUd3ZPbjVwQkNRVkRnaEpKTHVXcFNkdkxLMWhqNHRuYWk1ZU1CWXlUczNWaGNmekVRMWw3bGs2aFFzMkJnbE5oTndlSQ?oc=5",
+        "fonte": "TI INSIDE Online",
+        "data": "2026-10-19"
+      },
+      {
         "titulo": "NEGÓCIOS | Siderúrgicas começam a retirar planos de investimentos da gaveta, com menor pressão das importações ⁣ ⁣ Depois do tsunami das importações de aço, principalmente da China, a partir de meados de 2023, a indústria siderúrgica no Brasil já s",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UGpPSFVHZWVVRTd2YlFYeW55R2pqeWxTeW40YTE0LWhrUkszVXdveUVHVGJORWVrX0F0WHYyQzJNTHBCY2s2bnpKZDFXVEtOY2c?oc=5",
         "fonte": "Instagram",
         "data": "2026-10-19"
-      },
-      {
-        "titulo": "Os desafios do próximo governo para a indústria brasileira",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWVExbmt3WmlURnhEQ2NOcnB0MWZsUDh3cG1SZU45T1kwaUJGTFVsUFV3RmlfaHNYWmlMZV92N0QzcjgyUnI2N2Zrd29Xd2ZVbzlUamQ5U0tsNEFXdVd2MnB0dFZTckd5b3FuYUplNmF5aUhtTkRXcnhLZGV3alByVmg2dEtvbFNDUERqczZWVzgxTlZNTUVnS1hUUzM1YzhTNjlRRTVoVnczd3ctdFpZb1Q0ZXJwMThOZlByajh2VVV2eGtsdVl0ajh0TElkUdIBzgFBVV95cUxOWVExbmt3WmlURnhEQ2NOcnB0MWZsUDh3cG1SZU45T1kwaUJGTFVsUFV3RmlfaHNYWmlMZV92N0QzcjgyUnI2N2Zrd29Xd2ZVbzlUamQ5U0tsNEFXdVd2MnB0dFZTckd5b3FuYUplNmF5aUhtTkRXcnhLZGV3alByVmg2dEtvbFNDUERqczZWVzgxTlZNTUVnS1hUUzM1YzhTNjlRRTVoVnczd3ctdFpZb1Q0ZXJwMThOZlByajh2VVV2eGtsdVl0ajh0TElkUQ?oc=5",
-        "fonte": "Notícias Agrícolas",
-        "data": "2026-10-21"
       }
     ],
     "mineracao": [
@@ -271,16 +271,16 @@ window.NEWS = {
         "data": "2026-10-19"
       },
       {
-        "titulo": "Regulamentação de minerais críticos e estratégicos desafia setor mineral brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTXZPcTdCUi1SazFaRGNaRzB6RFUwaUQtVm5jOUcwNTREcUJfNVZ1eHFvakNGcjFVLWRsTlltallUM01naWE3U2R5LUlGeFM2ZE9Pd0I0SThseDRsdHUxLU9xNVByeDI2M3VDWHo2OFNsWHVyQ0E4c0tZTlJiQ3hMRmdXa1FGNG1TRloxOHBoV1hXYTYta0VqQTkta0k5WFMzc2ZhRWJPTjV6Nk0yU3hqNTdLMnpzRDBscjNtRnFwYVhoS1d5djVGV0Jn?oc=5",
+        "titulo": "Regulação forte dá previsibilidade ao investimento em minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVJJM3VhZ3pzLWdNYmdXcDA0TE9CRTlULTc5dnVxSmdoSWZvalN6XzlGY29LbmVzOWRvOEpZUnN5SnZRVEhQTEgzNXhkcGZpbEl1Q0hVQ0tsTm9US09qX1p3UW1lZUd6QkRiRDFjeXBOX3owZFYzNVBFY19kcTF2Z0Fvc0RUbnkzZkNUa1A4Y191U2RyWEJ6Y2VmOFFvT1RSbkMzdjZiTkI3OGFfcm9ZaE5UMzR4bzl1Q1E?oc=5",
         "fonte": "www.gov.br",
-        "data": "2026-10-19"
+        "data": "2026-10-21"
       },
       {
-        "titulo": "Agência de Comunicação - Brasil precisa de regras claras para atrair investimentos em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVDcteUtBWkg5V0xDN0Zya04xaHg2TldmU3FqcUpCWXc3V21jQ3d2c1F1Slk4LWNXMlNlUloyOVlWZVRiLUF6V3Y1T1RJMlNFTWs5VG10MzFoTThoS1pqdjVYa1hKQWlqeFhvNHpqT0F6MWk3ZUpabUFzeHRETFhvMGgwamQ2YVpvdDlSSTlMMmQ4LURnTUY4dnlfR2dZbGhCWVlBYmU2TjlZUXNMQk51Tmlrd0dxVDJQWFA2ckppMlNqSWpPVlZCZ2UxTDJVTTFKenhodi1xcWhMX3hyZXpMVlRCSDZ6QVNEaE9jMUMwUQ?oc=5",
-        "fonte": "Estadão Blue Studio",
-        "data": "2026-10-21"
+        "titulo": "Nova lei de minerais críticos coloca o Brasil no jogo global",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWs0R2k5TXJRdUtmQVNlb0ZiaWNFaVdyLUlTNHVRdDN6UmhvWmphVTNBMHlpLWlNelJ3MXpYd1ZNUHdpVGt3bWdiVVBzazFucGQ4Z3FDaDN1NVdlUVVSdmZtTU9maHFmUHlsaXQ4elREa3l6OFJBZXVrQmF0dzAtYmV6Nmc5WXZBSWRiOTVhblowTFhmTmpzbFk1aWNPTldvLTVPZ0RuczhoYzkz?oc=5",
+        "fonte": "JOTA Info",
+        "data": "2026-10-20"
       }
     ],
     "papel-celulose": [
@@ -291,16 +291,16 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Projeto de R$ 27 bilhões: CMPC avança com maior investimento da história do Rio Grande do Sul",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNWGRMbzhFZ0pHcU4wUVA5cEtjTGxCdTl0SUVkNWZGMFBXZFpkUEhqdlV0cjR2UzlEclN1aTQzcEtlR3ZaVmhjNmc5THEtTnE4ZGNzcDl5MXlLcjNHcTFFcUFtZk5MOUpxLVJ6bUVFVG9TTWpEMEktSTlkejh0VURMVlFRRHhXMi1sdnlPNk41TnVwRWJfRVMxYzhsM2lPQVdUQjl3ZkpSOHUwVE14czRxai14Y25DSThKNG9Fa1h0bVRsRHVPLW1IYlo5cE1lR1FJSC040gHYAUFVX3lxTFBFYk9GRk1qbFpvdTJkOU1pc0JqN1d0c01kNmpSTllXV0VhYlRpNDVhdWw5R0ZIUEJ6RExQaE9Ed0FtNHoxOGZwcGtLamUwZkFzeVhDcHpDMzFqTGJROEs1M2NtWC14WW9fZ2ZXWXVQQVlMU285Y2JDSTJkczBPeGdtVnFkSzloajhSV1dhSTdKbEtNLThVYlZVWHJndU9ybmhPWWh2ZVV4SVBwMVVTNDNhNldTZ2c1OHhNaVZOalpiSDdwNDdTdXA0dnoteUEwajRNTmtXRXBrMw?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-10-16"
-      },
-      {
         "titulo": "Fabricantes de equipamentos para papel e celulose priorizam modernização e serviços na América Latina",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNHVEZEx6cXROVVJaQjBnLTFzMmZqSmRjNXc5V2F5azh4NjRUOUxxMTMweFdfYUU4eVhXT0NZRXIxblY0LWJfWHBVR2JnZVFIVlRxMGVid2pZc2QxZ095bE4tYVlUc0g1SU0yMVF2bm0yQm0tSmlIUFAtQUxxTzVJd1RoV1ZDdThsZUFrRnNWSkRWOVNHRWhCeEdGZi1JTGFJb29La3lUOVpYRFVOSk44YmkwdHFqQUMtdWI4aHBYN1Eya2ZZY0dtQi1aQUd5Zw?oc=5",
         "fonte": "Portal Packaging",
         "data": "2026-10-22"
+      },
+      {
+        "titulo": "Leite entrega licença para diretor da CMPC e celebra avanço na instalação de fábrica",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOTJ0Ry1jaS03LXN0REljY1dGdTI1Uzh4dE5RT0FIU3FkZ3ZieG4weElKQ3dVck5DS1NVc0o3TWhUTFZDc25SUjNLcVZqTHpvRGZKZFZWUjN1TDZQc1Nhb1JGLWYyTEtLLW1BZlN2WTYzX3E5X0h5bjRkdkJ5ckJqaDVJZkx1RFJCV1dzSVQzYmx2Sjk4dU1DX1BjVm5salRBQWdyOTNIV0pjekhBdEZOTkJtd3Z3c2FGaXhUZ1pzdW52OVEtYmFLMHpKYXRXTW1mYWl3?oc=5",
+        "fonte": "Sul 21",
+        "data": "2026-10-23"
       }
     ],
     "quimica": [
