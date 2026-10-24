@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-23T21:55:34+00:00",
+  "atualizadoEm": "2026-10-24T00:22:35+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -96,10 +96,10 @@ window.NEWS = {
         "data": "2026-10-18"
       },
       {
-        "titulo": "Identificados Cinco Projectos Para Transformar Minerais em Produtos Industriais de Maior Valor",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1d1anJkOTNJWG5IRW4zVkx0TDk0aWJ2SkRnQ29OMmNGOUw0SGQ0T3Z3VVh2Z2NMMzZORld6ZUltZm82Q0NFYjJ6dnN1Z2RJZG5kbHlWNW1mMGtSNWlxNnktdlRfR2wxZDJBeHV4TlpDZUdwbk9DdTBJaXdHZEd1dVBXeDNDZUVvUW9ETkZJdmZId293ZENQVmVFTkc4MnJIbGduUUNzSXNkWW03bFZ3MGxUTm95ZUZmR2VLQm1GVQ?oc=5",
-        "fonte": "O.Económico",
-        "data": "2026-10-21"
+        "titulo": "O que contribuiu para o aumento acentuado dos lucros das empresas de materiais de construção após nove meses?",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcG1Ta0lwR0tSQlBfeHI5NDRwLTJsYUowM3d1Qm9FS2FGRk5CSklwRkVSSkhicGlzUXVoLVpodWNmMENiQWZGRzRvQ1VnQnFMcTF5WG1PbHQxU1U4cHVaQzF0MUpBNXk2VURXTXhXY2hPS3hjcElpX2kxNWJNYmRCNkpmWGJNUXEyaHRrcGlyVTV5dm9ZcGJ1SEJlemZ5NngwdUE?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-10-23"
       }
     ],
     "comercio": [
@@ -110,15 +110,15 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado da Havan",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZmc5eFZzRDFGQm50NTBMNm1xcmtTTy1hRnZVR2FxaWs4YmIzWUdrOHhLUXdBbnFuMmVrN1UxTUpLbU9HcXlSVUVtSGlCTU80LWtPLUcxNUsza2xfRGczNVZyV2pWS2FmU054aHhIblphbUVmMU5ZVHljVE1kNTNSVU5Rc1N0bHY1em82RmZncU5wQVk3ZlEyU0ZFQXFuLU1UM2NFUmVfRm1hQ2hVQmo0YUlEWnc5TFE4YlRuOXo5ajRqZWRob1VLeVlaaVZEcDJRa2Ntc0ZPemNNQk1n?oc=5",
-        "fonte": "Diario de Pernambuco",
-        "data": "2026-10-19"
-      },
-      {
         "titulo": "“Juros estão matando o varejo”, diz executivo do Petz Cobasi - Times Brasil | CNBC",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dqcVljZnlQdEc3aF9hRjlQcEVJOFMtNkRsc0RfeEJMT3dBU2ZqdFFMczhWaDRHakxPNFVSRExvZU9BTmVuY1NMb1E0dC1nVnlwQ1RmYkNWSXVkLWNMdGw5ekp2MS1Td04xaFBYU3dNQkFuTHZjUnRVZk0xM01ESGdsd1BlYXhCbkhhUUtvV1o4Z2M4TlZCZ1hWaVF4MDJsMUpoYml2MVg?oc=5",
         "fonte": "Times Brasil | CNBC",
+        "data": "2026-10-20"
+      },
+      {
+        "titulo": "Gigante de R$ 20 bilhões lança nova geração de supermercados sem caixas no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNXoza0pjVGlCRjFQeXJIQzh3OTRpZGFjZU5oN09pYWQ4YjNrTVBJampHLVVpa2V4RTZLTEF4T2xqZlVjY2c3ZHUtNTB2MC1lYndKbk10dHdnOVRLYTVudXhramZaWG94LVNQZTQtYUpIaDJQMHJmTGs2N3dtSmxXUXJjTzNlaDFlcmxJVi0xTHZvOVgxZm1sNGxaWlZGVGJOMHVmcFpEeHJKVmRn?oc=5",
+        "fonte": "Exame",
         "data": "2026-10-20"
       }
     ],
@@ -130,15 +130,15 @@ window.NEWS = {
         "data": "2026-10-18"
       },
       {
-        "titulo": "“Setor elétrico crescerá e será sustentável por alguns bons anos, não só no Brasil”, afirma diretor da Hitachi",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBodElVVTFud2pnUlIwb05BNE4yZFUxX1ptSFhPYnk0VTRTQzZfcUl2WkVmUDhrdFNib052X01uM0NhY2tyNl9FT1F0Wi1CMzVDbENwaThkMXhMeGtOazRld2YwOHZXYlcyelBJVGZvbWNES2tHX2pHMjZR?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-10-23"
-      },
-      {
         "titulo": "Hitachi Energy amplia fábricas de olho em leilões de transmissão",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTRNOFNFZmRxbEhrclctUkxOM25hUlAwRHhaYnljdzJTeWRWTDdLSk5tQWhMREhaTnJNdTdaSW5mTXdPTVpPYmYyRlZ5dk9HZ3pMcmRCMVdqeGEzdlZxS1o5dl9uNUxfcUpTM21qSzVLcFlhMnBwZGplaFc5d1hSMF94QjJEdlF6UHUxbGdmb3NkeHhoV0RDOXFlY3FLTElIVk9UeVUzelQtc2NxUHU4cDluWU9ENU02QkhzVHJudw?oc=5",
         "fonte": "MegaWhat",
+        "data": "2026-10-23"
+      },
+      {
+        "titulo": "“Setor elétrico crescerá e será sustentável por alguns bons anos, não só no Brasil”, afirma diretor da Hitachi",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBodElVVTFud2pnUlIwb05BNE4yZFUxX1ptSFhPYnk0VTRTQzZfcUl2WkVmUDhrdFNib052X01uM0NhY2tyNl9FT1F0Wi1CMzVDbENwaThkMXhMeGtOazRld2YwOHZXYlcyelBJVGZvbWNES2tHX2pHMjZR?oc=5",
+        "fonte": "Canal Solar",
         "data": "2026-10-23"
       }
     ],
@@ -176,8 +176,8 @@ window.NEWS = {
         "data": "2026-10-22"
       },
       {
-        "titulo": "As possíveis mudanças na agenda de infraestrutura brasileira",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNT3lFYU1mczYtSDdmR0daNFFRdWRCU2cwMTBVVUtTYTlrN1JJMGlvUWloc0tVUFVpMDJJcUpTRHVEdVdYNmFtVEtzOU9xdGJqN3NMNHU1Z1h5TkxiMjlYRFR1T2NsaXZPa3JmSXRmclpUTkxUazFKVk9GUmlUWE5zd3RQYllDVnphU0NlVzFfNkpKSWhyRkhWR1Bwd2QyQUpCUUlwUw?oc=5",
+        "titulo": "Investimentos de US$10 bilhões de gigantes chilenas da celulose movimentam a infraestrutura no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN1NhWnlTR3FkYThaLUZDTTM5ZFc2dmlOOTFBQkhuSXRhVFdKbmdjUC1OR1Jmc01sWVljM1FmZUJabXg1cHlPMVFBRVZIeFZfMVlsd1BFa3d5NFhFemFtQnZvcEJNZHpjNktGamUxaW8xWTB5bldLeDg1N2swNUk2aGNYcGxGUlUydFNMSVJxSm9IRERSNk9WYmpqdmdFSnhPcDE1XzVDYVRUdkpSTGM5bjg2SlpZRC1YQmczbGtxY0NVdzdFMzRfLWpSUnNsblZaVWlBaTNZQQ?oc=5",
         "fonte": "BNamericas",
         "data": "2026-10-23"
       }
@@ -217,10 +217,10 @@ window.NEWS = {
         "data": "2026-10-23"
       },
       {
-        "titulo": "Com investimento de R$ 80 milhões, Paraná receberá fábrica de mandioca",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOV1gtMnplU3dYSU1EdmdQaWFLeVg4cjFDa2NhUnQ0N2p5Ml9kanFBSm84NnFvelJDY3Q1WDI1akhTMUZyYzJvTDhsN0ZiYTROZ19Gd05kVXJlajEybkozclIwYzlPMi1TakVmR0VRQlQ4bHBEMGFIenVMTVh0MjJYSzhLMjJ5MFlaNzNqcTlSWEpSYW1LUDNSaXBFVEZVOW5KaEVnSU5B?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-21"
+        "titulo": "Governo do Estado entrega Licença Prévia para o Projeto Natureza, da CMPC, em Barra do Ribeiro",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2xtYlBQZ1RDU1lqOUp5a3VhMl94Q2VyLWFRYmwyMTBIckF3LXdwYkwxT2J6TDN6cHBjbC1RZTBlc3hiU0RVeUY0MHJpM19yaUFlYkl1eU9JWi1oT1BKSDEzLUdyU1IyZUwwcnJzQmp2a1gzMXlQZE1RMVB0cDFYNFowTzlUMTJJLWF0T1RoUGg1MHlGaE1ULTRtUUkzUzhYNWhUNzctNUxOQVdpMnd4djhCTVh3NGM0?oc=5",
+        "fonte": "Portal do Estado do Rio Grande do Sul",
+        "data": "2026-10-23"
       }
     ],
     "logistica": [
@@ -251,16 +251,16 @@ window.NEWS = {
         "data": "2026-10-19"
       },
       {
-        "titulo": "5G e IA avançam na indústria, mas o retorno financeiro ainda determina os investimentos",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTm8yT3NGWFlRV2tlTXRxNWZwbkVJSlBDUk9Mci1CTnN4NUkzLVI2bWNhSG02enpIMnFfcmtCNzN3Ulg1cnR1VE5BYWFtYmxhREp5Rm1kM0FMa2N1b0J2UkRhUDgyYmNxR0ViM3d3VW5JMGtDN0lHREN0WWdUd3ZPbjVwQkNRVkRnaEpKTHVXcFNkdkxLMWhqNHRuYWk1ZU1CWXlUczNWaGNmekVRMWw3bGs2aFFzMkJnbE5oTndlSQ?oc=5",
-        "fonte": "TI INSIDE Online",
-        "data": "2026-10-19"
-      },
-      {
         "titulo": "NEGÓCIOS | Siderúrgicas começam a retirar planos de investimentos da gaveta, com menor pressão das importações ⁣ ⁣ Depois do tsunami das importações de aço, principalmente da China, a partir de meados de 2023, a indústria siderúrgica no Brasil já s",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE04UGpPSFVHZWVVRTd2YlFYeW55R2pqeWxTeW40YTE0LWhrUkszVXdveUVHVGJORWVrX0F0WHYyQzJNTHBCY2s2bnpKZDFXVEtOY2c?oc=5",
         "fonte": "Instagram",
         "data": "2026-10-19"
+      },
+      {
+        "titulo": "Os desafios do próximo governo para a indústria brasileira",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWVExbmt3WmlURnhEQ2NOcnB0MWZsUDh3cG1SZU45T1kwaUJGTFVsUFV3RmlfaHNYWmlMZV92N0QzcjgyUnI2N2Zrd29Xd2ZVbzlUamQ5U0tsNEFXdVd2MnB0dFZTckd5b3FuYUplNmF5aUhtTkRXcnhLZGV3alByVmg2dEtvbFNDUERqczZWVzgxTlZNTUVnS1hUUzM1YzhTNjlRRTVoVnczd3ctdFpZb1Q0ZXJwMThOZlByajh2VVV2eGtsdVl0ajh0TElkUdIBzgFBVV95cUxOWVExbmt3WmlURnhEQ2NOcnB0MWZsUDh3cG1SZU45T1kwaUJGTFVsUFV3RmlfaHNYWmlMZV92N0QzcjgyUnI2N2Zrd29Xd2ZVbzlUamQ5U0tsNEFXdVd2MnB0dFZTckd5b3FuYUplNmF5aUhtTkRXcnhLZGV3alByVmg2dEtvbFNDUERqczZWVzgxTlZNTUVnS1hUUzM1YzhTNjlRRTVoVnczd3ctdFpZb1Q0ZXJwMThOZlByajh2VVV2eGtsdVl0ajh0TElkUQ?oc=5",
+        "fonte": "Notícias Agrícolas",
+        "data": "2026-10-21"
       }
     ],
     "mineracao": [
