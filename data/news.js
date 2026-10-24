@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-24T13:10:53+00:00",
+  "atualizadoEm": "2026-10-24T17:15:31+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-10-18"
       },
       {
+        "titulo": "Crédito rural: o que Flávio Bolsonaro e Lula propõem para o Plano Safra",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkduQVFCVU1EMlg2V1pQeENBaHN1ZjNtNWhRRnJXdUFzaGNUY3k3OGhUd2VKVjdKNVhzSGhmMkxwSzhHSGhZRHpmZVc5QlFyNmYtdS1HMzJHNjNvQTM0SHExaUFMa2JxRmxCZW9yeFB3VDlnLXQwYkotT21pNkNTZmpGdklkbThmZWNCQXd6UFFhVUtCWGZPVG9NR245RDQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-19"
+      },
+      {
         "titulo": "Checagem BP: Lula aumentou investimento no Agro, mas governo criou entraves",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONm8wc25TZzdkaHEyOW1mbGZ2ZDViVFFrdkhZb2dIWF81VFQtc0c4T0hRWWZSVngyZjdxcHI3NFR0LUMxbTFKcW04Z0JDeU91SkptS0NGMXFYeV9RY3ZsdHdodHpYc3JoR0R5dnhLNWNvT0RiTFRPQTZBREJSUnpmRjZuU2Uxbnkzd20yYXdoM2ZoRVpZcjVocnhhZVo?oc=5",
         "fonte": "Brasil Paralelo",
         "data": "2026-10-24"
-      },
-      {
-        "titulo": "Bruno Silva cobra debate sobre futuro do agronegócio e investimentos em infraestrutura no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDlodzRKTGFYYkxWdFRHMnZVMEU0OXI0c3Rxa2JlSE9iaTdESGtUWnc4Zzc0LVFzQ1VDMXhMTnF3ZDRBWUt6VTVWWjRWN1FxdUlON2daeUpyNDVDTWwxQmJBd0dfSGpkVmhCNmotdTA3NzgzNXFLbS1GQk5ONlJ1czVfcG9KbjFLd2twcnMwTktObXdYd3JDZEdva1lrYUlHbS1oNHBjOTZkX0JiX2lDTHZpZjFjT0RGdy1CY3dfamVKUQ?oc=5",
-        "fonte": "CBN Ribeirão",
-        "data": "2026-10-21"
       }
     ],
     "alimentos-bebidas": [
@@ -90,16 +90,16 @@ window.NEWS = {
         "data": "2026-10-21"
       },
       {
+        "titulo": "Administração de Ituporanga busca recursos para implantar usina de concreto e pavimentar estradas rurais",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU45UklzMmlXV2VOWWhZZjFxcFQtTm44Mk1GbWJPUjZXckE2eXlDeVBORHFUdGc1TnhyNHBJYndvc01RLWJGNHVpZ3VoRG9leWlGd09Va0JockRwZ3FNcXd1akVRTkxOQ0I0NFBBcmN1c0NuZ2hETjdyaVd0TzR4LVJZQk9ySjBpbG9vM3VHNFRuUkx3VnhTeVdpNDNHLXNJR2s2MzVZRl9uekZTMFozOVNjcEY3N2FabElUSXFuOXRWRUJoLUQzX0NSdHRwWXVYTldlbmJXRnJJb1JDSklvUA?oc=5",
+        "fonte": "Rádio Sintonia FM",
+        "data": "2026-10-24"
+      },
+      {
         "titulo": "Quanto custa construir uma casa de 100 m² em 2026? Veja os valores de materiais, mão de obra e despesas extras",
         "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQV3hoVGVQU3RkSHJId29JZ25IZGpNZnNfaXNTRmhwUmtjSm5IVEQ3allvSFBHVU1HblpTcGg1Z05UdUlZUV95cnZnV2k1RVdZa3VfY0k2eG56Z1ozRFVvdjFVZFZkZHFtdkMzMWFqemUyNEdINWU5SmpGTFl1dUdFeVBEODFrNGVTMDNHcERQX0IwNnI3LWo1ZDRCNW1pM09tNVNBTjRFVXNlYmNmb0pIR0dCODdPTWM3OEoydGdUUnNZbk01Q3JvX29QQk4xeDlYdXh4RDRXU1ZJVUxfU0VDcUdhRUhyMzlkMl8weThrU3VtNzQ?oc=5",
         "fonte": "Portal UAI",
         "data": "2026-10-18"
-      },
-      {
-        "titulo": "Identificados Cinco Projectos Para Transformar Minerais em Produtos Industriais de Maior Valor",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1d1anJkOTNJWG5IRW4zVkx0TDk0aWJ2SkRnQ29OMmNGOUw0SGQ0T3Z3VVh2Z2NMMzZORld6ZUltZm82Q0NFYjJ6dnN1Z2RJZG5kbHlWNW1mMGtSNWlxNnktdlRfR2wxZDJBeHV4TlpDZUdwbk9DdTBJaXdHZEd1dVBXeDNDZUVvUW9ETkZJdmZId293ZENQVmVFTkc4MnJIbGduUUNzSXNkWW03bFZ3MGxUTm95ZUZmR2VLQm1GVQ?oc=5",
-        "fonte": "O.Económico",
-        "data": "2026-10-21"
       }
     ],
     "comercio": [
@@ -110,15 +110,15 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
+        "titulo": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado da Havan",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZmc5eFZzRDFGQm50NTBMNm1xcmtTTy1hRnZVR2FxaWs4YmIzWUdrOHhLUXdBbnFuMmVrN1UxTUpLbU9HcXlSVUVtSGlCTU80LWtPLUcxNUsza2xfRGczNVZyV2pWS2FmU054aHhIblphbUVmMU5ZVHljVE1kNTNSVU5Rc1N0bHY1em82RmZncU5wQVk3ZlEyU0ZFQXFuLU1UM2NFUmVfRm1hQ2hVQmo0YUlEWnc5TFE4YlRuOXo5ajRqZWRob1VLeVlaaVZEcDJRa2Ntc0ZPemNNQk1n?oc=5",
+        "fonte": "Diario de Pernambuco",
+        "data": "2026-10-19"
+      },
+      {
         "titulo": "“Juros estão matando o varejo”, diz executivo do Petz Cobasi - Times Brasil | CNBC",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dqcVljZnlQdEc3aF9hRjlQcEVJOFMtNkRsc0RfeEJMT3dBU2ZqdFFMczhWaDRHakxPNFVSRExvZU9BTmVuY1NMb1E0dC1nVnlwQ1RmYkNWSXVkLWNMdGw5ekp2MS1Td04xaFBYU3dNQkFuTHZjUnRVZk0xM01ESGdsd1BlYXhCbkhhUUtvV1o4Z2M4TlZCZ1hWaVF4MDJsMUpoYml2MVg?oc=5",
         "fonte": "Times Brasil | CNBC",
-        "data": "2026-10-20"
-      },
-      {
-        "titulo": "Gigante de R$ 20 bilhões lança nova geração de supermercados sem caixas no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNXoza0pjVGlCRjFQeXJIQzh3OTRpZGFjZU5oN09pYWQ4YjNrTVBJampHLVVpa2V4RTZLTEF4T2xqZlVjY2c3ZHUtNTB2MC1lYndKbk10dHdnOVRLYTVudXhramZaWG94LVNQZTQtYUpIaDJQMHJmTGs2N3dtSmxXUXJjTzNlaDFlcmxJVi0xTHZvOVgxZm1sNGxaWlZGVGJOMHVmcFpEeHJKVmRn?oc=5",
-        "fonte": "Exame",
         "data": "2026-10-20"
       }
     ],
@@ -304,12 +304,6 @@ window.NEWS = {
       }
     ],
     "quimica": [
-      {
-        "titulo": "Investimento em petroquímicos sauditas | SABIC e Aramco",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE04T2lwZFNxT09xdTFoSGpWQ1FLbnFSS25KMzhrMHdOcEdDNzNYQjhhT2w1SG5KYWZFZVJRNUpRTEhFNTlGOFV5c3NlcUh2amJtTVp1YmhJRG1wNDdHY0FiRHRn?oc=5",
-        "fonte": "vision2030.ai",
-        "data": "2026-10-17"
-      },
       {
         "titulo": "Bruxelas escolhe 77 projetos de tecnologias limpas para atribuir 3,4 mil milhões",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMDZib1kxY1FDTzR2ejJRejg4R25CbHlBT1BwWFJrd19Ec1FsUmNIbndTSnNtU0dvcXlKX2ZVTmNUcW5wWWRYX1pHalpULVBhN2FMMmZiZlpfNDNtNUJlRER1VTVWODEwQ1AxUzlMQm9FWnA2bU5jb3ZseU9ZN1J3QmFfcGhkMXltVXkxVWwzallWS3l6UWRLTzVrdV9VYllITjgzSWZabjAyNUN4bm9sT1RFanEtNGNSb0FLVnpPN3Y4dkdNTGoxdlBaeGFTNGhPZ25aaW5vNmNWMDJTLWZaMQ?oc=5",
