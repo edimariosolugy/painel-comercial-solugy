@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-24T17:15:31+00:00",
+  "atualizadoEm": "2026-10-24T20:26:15+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-10-18"
       },
       {
-        "titulo": "Crédito rural: o que Flávio Bolsonaro e Lula propõem para o Plano Safra",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVkduQVFCVU1EMlg2V1pQeENBaHN1ZjNtNWhRRnJXdUFzaGNUY3k3OGhUd2VKVjdKNVhzSGhmMkxwSzhHSGhZRHpmZVc5QlFyNmYtdS1HMzJHNjNvQTM0SHExaUFMa2JxRmxCZW9yeFB3VDlnLXQwYkotT21pNkNTZmpGdklkbThmZWNCQXd6UFFhVUtCWGZPVG9NR245RDQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-19"
-      },
-      {
         "titulo": "Checagem BP: Lula aumentou investimento no Agro, mas governo criou entraves",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONm8wc25TZzdkaHEyOW1mbGZ2ZDViVFFrdkhZb2dIWF81VFQtc0c4T0hRWWZSVngyZjdxcHI3NFR0LUMxbTFKcW04Z0JDeU91SkptS0NGMXFYeV9RY3ZsdHdodHpYc3JoR0R5dnhLNWNvT0RiTFRPQTZBREJSUnpmRjZuU2Uxbnkzd20yYXdoM2ZoRVpZcjVocnhhZVo?oc=5",
         "fonte": "Brasil Paralelo",
         "data": "2026-10-24"
+      },
+      {
+        "titulo": "Bruno Silva cobra debate sobre futuro do agronegócio e investimentos em infraestrutura no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDlodzRKTGFYYkxWdFRHMnZVMEU0OXI0c3Rxa2JlSE9iaTdESGtUWnc4Zzc0LVFzQ1VDMXhMTnF3ZDRBWUt6VTVWWjRWN1FxdUlON2daeUpyNDVDTWwxQmJBd0dfSGpkVmhCNmotdTA3NzgzNXFLbS1GQk5ONlJ1czVfcG9KbjFLd2twcnMwTktObXdYd3JDZEdva1lrYUlHbS1oNHBjOTZkX0JiX2lDTHZpZjFjT0RGdy1CY3dfamVKUQ?oc=5",
+        "fonte": "CBN Ribeirão",
+        "data": "2026-10-21"
       }
     ],
     "alimentos-bebidas": [
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Gabriel Souza visita empresas gaúchas e reforça apoio às exportações na Sial Paris",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVRwN1VNamFiRTdVdTRQOThXR1BwaFd3YUNFSWxFNmlRWkUtVmN6SENWS0ZzR05jclk0d1RSeHBNRjktNTczdWNOck1yNGRXakJUcVV1S0h5RTdFZ1EwbEg1dTA5bE5KYllER3o5cmJ6NDQ3QVYyQTdJa2QyRUpTX0JHLUs2Yk5NOFI3dHczckdSREZvNFpsTGRCRElQVWFIdWFQLXUwXzhLUnBPQUx1bg?oc=5",
-        "fonte": "Portal do Estado do Rio Grande do Sul",
-        "data": "2026-10-17"
-      },
-      {
         "titulo": "Brasil leva 156 empresas à SIAL Paris 2026 e busca ampliar exportações de alimentos para a Europa",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ3lsNGIzWDhCS0xnV0tYOVYxd0xMMVNYbGU4dUdSMVhJeU94aFhwTWVmODNGMUFfZVBncmJ6UVo1MGY2WjN4LUtuTG15YVdwS3J4cXFuVlFWeU4wUmstc0Q5Q01YOHNGcm9ucnZ2OG1teEV4MzZkUGZwNmNoY1IxUkgxdmZvWFdqcS00cWJGRTRVZy1sd01tamFVcUNtVmtIdWNkRUxOTjg2VHpKWVg3T1VURnhYZ0Z1YUk4TXhzT3VyVFN6eHc2QnlaZUtIbmZRWVM2X1I5ZFRuSWlrWmVZMnY1U1hUVnNWOW1MTzk0d1pINktfSW9xQmpfUnEzSUhvZVRDd2tUQ0s?oc=5",
         "fonte": "Portal do Agronegócio",
         "data": "2026-10-20"
+      },
+      {
+        "titulo": "GP Investimentos compra fatia de fabricante de bebida saudável da Califórnia por R$ 100 milhões",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckdHcnc0VlpJRnJGMkxraDI1YkJYQS1GMi1ONFlsZDQ0elRzY0Q2TFBodzVYRklqeE1vZkQ3b3VxYkRTajJqMHY5SV9CX1NOM2d6cWYwWnEzRW1yMFBFU3cwb0J5dTZPMXZkVmE0SXYwTlFMdU1GakhoZnNURkQ5aDBpZ2FFX21GbTRMcWczS29wWHhPTGptTjc2ZXpCWmM4a2o2SXp6Z1I2ZVFyRTF3U1RyOXltTnc1V1pUSWI0YnFyOXdMcVBqNjhMZVdEWjREWTNKSGdYMNIB3AFBVV95cUxPVjRyWHV4TS1HQkFuMDJfNk1oZGszQWhBQmlpcXo5WkpfTEl6RXVCSDJmSndSU0RNZ3FIX2kzbUdXbzZSUFRwOU9iUklVOEpHUW5YT3NaVm1hUFprQTJ1Q1E1S1lSekFKODVkVmRkMm5UNGFMUXhqajVVMGpiTFFHZmdMRWtiNDNoMEpuaEVLWG1YNG05STFWM2E1YllPOVB0cmdIdmQtS0V4djZ0ZUN5Q2tvdDhGampESk9XV0tmc3I3Rkl3SzFfNGN6OGQ4NlEwQ2FWeGFraGsyNEVS?oc=5",
+        "fonte": "Estadão",
+        "data": "2026-10-22"
       }
     ],
     "automotivo": [
@@ -76,24 +76,24 @@ window.NEWS = {
         "data": "2026-10-19"
       },
       {
-        "titulo": "Usina de álcool em Porto Xavier (RS) será reativada com investimento de R$ 15 milhões da G2X",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOWw1VF9pRDM3b29VUFZ1Z2l2ZkUxQl96OUhkSW9KUFFIcVREMG92RGstRDJTWXowVlZxSHEzYWRfMTdqLUtPRlRmZ1ZtUlpiajQyMk1fWmtYbHZkVFR6Y0hrZnVpRDVWTnBpbzdiZEdSV19USm85enlCVmpzeHBsTUQ0bFBjNmZGS1RNT3U2RzdXME14NWdsQWxpVGpWTWM1NE56Q2U3TE5wRUZyTDR5cTFpb1J6TXFMek16cklB?oc=5",
-        "fonte": "JornalCana",
-        "data": "2026-10-19"
+        "titulo": "Arrecadação com ICMS de usinas de etanol de MT supera incentivos fiscais",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnU1UUhISkM2ZzdiQTViTUt4MVNwdFAyaVlXRUVaUmxMTlNncWl5U1hNMzRTMms5dzFpaVh2YVVxSHY2N0lVTzJTM3dYUlEtNU5tZUZHbmF2YnVBWlBDOWRpMWFfRjNIU01jblExRjBwZ04ydGszLVplQ3FWU2xfN05YVHNFMjdNMWxJU3k1MnZ0c3REb2NpdmdxWGRkWFhaNWZEcnRISlVuWFJLVEVZWHRIZ3JWV28?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-10-22"
       }
     ],
     "cimento": [
-      {
-        "titulo": "Construção global crescerá mais de 70% até 2050 e chegará a US$ 16,6 trilhões",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUhSUFVtM081LXVNWGRXZlpIbkI3cWxKOEJvQWk0RUhJWDhDMGg0cl9PRHdJaHhObTFqT1V4SXR0LWgybkE4dHhLS3B3d3BpSDdnaXBnTW5xcHBfQXVKZEVWSGNKS0xlaWczZUc5b1h2UENlbGZfM3o1U21hUURxWnJkY2dJZWlLbEhnT2VDY0o2LUtOYzBmcFpkR2NHSjJEVUEyTHNn?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-10-21"
-      },
       {
         "titulo": "Administração de Ituporanga busca recursos para implantar usina de concreto e pavimentar estradas rurais",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOQU45UklzMmlXV2VOWWhZZjFxcFQtTm44Mk1GbWJPUjZXckE2eXlDeVBORHFUdGc1TnhyNHBJYndvc01RLWJGNHVpZ3VoRG9leWlGd09Va0JockRwZ3FNcXd1akVRTkxOQ0I0NFBBcmN1c0NuZ2hETjdyaVd0TzR4LVJZQk9ySjBpbG9vM3VHNFRuUkx3VnhTeVdpNDNHLXNJR2s2MzVZRl9uekZTMFozOVNjcEY3N2FabElUSXFuOXRWRUJoLUQzX0NSdHRwWXVYTldlbmJXRnJJb1JDSklvUA?oc=5",
         "fonte": "Rádio Sintonia FM",
         "data": "2026-10-24"
+      },
+      {
+        "titulo": "Construção global crescerá mais de 70% até 2050 e chegará a US$ 16,6 trilhões",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUhSUFVtM081LXVNWGRXZlpIbkI3cWxKOEJvQWk0RUhJWDhDMGg0cl9PRHdJaHhObTFqT1V4SXR0LWgybkE4dHhLS3B3d3BpSDdnaXBnTW5xcHBfQXVKZEVWSGNKS0xlaWczZUc5b1h2UENlbGZfM3o1U21hUURxWnJkY2dJZWlLbEhnT2VDY0o2LUtOYzBmcFpkR2NHSjJEVUEyTHNn?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-10-21"
       },
       {
         "titulo": "Quanto custa construir uma casa de 100 m² em 2026? Veja os valores de materiais, mão de obra e despesas extras",
@@ -257,10 +257,10 @@ window.NEWS = {
         "data": "2026-10-19"
       },
       {
-        "titulo": "Os desafios do próximo governo para a indústria brasileira",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOWVExbmt3WmlURnhEQ2NOcnB0MWZsUDh3cG1SZU45T1kwaUJGTFVsUFV3RmlfaHNYWmlMZV92N0QzcjgyUnI2N2Zrd29Xd2ZVbzlUamQ5U0tsNEFXdVd2MnB0dFZTckd5b3FuYUplNmF5aUhtTkRXcnhLZGV3alByVmg2dEtvbFNDUERqczZWVzgxTlZNTUVnS1hUUzM1YzhTNjlRRTVoVnczd3ctdFpZb1Q0ZXJwMThOZlByajh2VVV2eGtsdVl0ajh0TElkUdIBzgFBVV95cUxOWVExbmt3WmlURnhEQ2NOcnB0MWZsUDh3cG1SZU45T1kwaUJGTFVsUFV3RmlfaHNYWmlMZV92N0QzcjgyUnI2N2Zrd29Xd2ZVbzlUamQ5U0tsNEFXdVd2MnB0dFZTckd5b3FuYUplNmF5aUhtTkRXcnhLZGV3alByVmg2dEtvbFNDUERqczZWVzgxTlZNTUVnS1hUUzM1YzhTNjlRRTVoVnczd3ctdFpZb1Q0ZXJwMThOZlByajh2VVV2eGtsdVl0ajh0TElkUQ?oc=5",
-        "fonte": "Notícias Agrícolas",
-        "data": "2026-10-21"
+        "titulo": "CNH inicia produção de plataformas de colheita Draper em Curitiba com investimento de R$ 100 milhões",
+        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNZFFjSWkxbTY2Y3hFN2dCTDVOOXo1ZlVDTExGZjFOdlVibDFBcEdLdmpRYjFEcGF1S1F2NzNRb3AtMkQ5X2lIUnBCQlE4Y0lxRmpmV005a3lWeWlSV29EbE5DbXUwYzc0XzJ0ZUxRYzR4QVRaWGdXSElXSFJDUE51V3NMNENKS3Zwb2pTTXBBWTc1T240RDEtbm9KNzUteUg3eW0weE54SDJZWl84bmsxZlM2OGhiekF2bkp1YllOeE4xQjZyQ3p0QlBlRVhNN05ZVVh2Rk5TZG8zN2ZicVFydHJYTmlZaDAzcU1lUVYwSk50Q3RJVkdGbFExUDBpNTFlOXQ5ZnMxYy1aQkNIeW00UjBnclFFUzlrdFJtR3ozSFA0NjdqVk91LQ?oc=5",
+        "fonte": "CNH Newsroom",
+        "data": "2026-10-22"
       }
     ],
     "mineracao": [
@@ -309,12 +309,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMDZib1kxY1FDTzR2ejJRejg4R25CbHlBT1BwWFJrd19Ec1FsUmNIbndTSnNtU0dvcXlKX2ZVTmNUcW5wWWRYX1pHalpULVBhN2FMMmZiZlpfNDNtNUJlRER1VTVWODEwQ1AxUzlMQm9FWnA2bU5jb3ZseU9ZN1J3QmFfcGhkMXltVXkxVWwzallWS3l6UWRLTzVrdV9VYllITjgzSWZabjAyNUN4bm9sT1RFanEtNGNSb0FLVnpPN3Y4dkdNTGoxdlBaeGFTNGhPZ25aaW5vNmNWMDJTLWZaMQ?oc=5",
         "fonte": "Jornal de Negócios",
         "data": "2026-10-23"
-      },
-      {
-        "titulo": "A Vinachem amplia a cooperação internacional nas áreas de cosméticos e energia.",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQ0IyTmdKVlZpSno0RW05QURwMzZkT3owYTVmaE9DRE0yclVxSU96R3JybUtUSWhhNE54N0gyWmZsYnEwcTd1LWppYTJWX2VGX1R4WnN0dzN0dk10M3lmT1JfOU5BYl9ubGVQdXF1LTRiQUs2VGlUdmlFSU9vR1d6ZENXZDBYX2lGcHY1SHdrR21FdmNNbjhsX3Ytb2xZQ2ds?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-10-19"
       }
     ],
     "saneamento": [
