@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-24T00:22:35+00:00",
+  "atualizadoEm": "2026-10-24T13:10:53+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,36 +10,36 @@ window.NEWS = {
         "data": "2026-10-18"
       },
       {
+        "titulo": "Checagem BP: Lula aumentou investimento no Agro, mas governo criou entraves",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONm8wc25TZzdkaHEyOW1mbGZ2ZDViVFFrdkhZb2dIWF81VFQtc0c4T0hRWWZSVngyZjdxcHI3NFR0LUMxbTFKcW04Z0JDeU91SkptS0NGMXFYeV9RY3ZsdHdodHpYc3JoR0R5dnhLNWNvT0RiTFRPQTZBREJSUnpmRjZuU2Uxbnkzd20yYXdoM2ZoRVpZcjVocnhhZVo?oc=5",
+        "fonte": "Brasil Paralelo",
+        "data": "2026-10-24"
+      },
+      {
         "titulo": "Bruno Silva cobra debate sobre futuro do agronegócio e investimentos em infraestrutura no Brasil",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDlodzRKTGFYYkxWdFRHMnZVMEU0OXI0c3Rxa2JlSE9iaTdESGtUWnc4Zzc0LVFzQ1VDMXhMTnF3ZDRBWUt6VTVWWjRWN1FxdUlON2daeUpyNDVDTWwxQmJBd0dfSGpkVmhCNmotdTA3NzgzNXFLbS1GQk5ONlJ1czVfcG9KbjFLd2twcnMwTktObXdYd3JDZEdva1lrYUlHbS1oNHBjOTZkX0JiX2lDTHZpZjFjT0RGdy1CY3dfamVKUQ?oc=5",
         "fonte": "CBN Ribeirão",
         "data": "2026-10-21"
-      },
-      {
-        "titulo": "Comércio exterior e agro: o que Flávio e Lula propõem para o segmento",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSWQyanlaU2ctWXJVVmNEbmNvRDdOeHBzdkFTWTVEaUZQa25aNUlpRV9sd09Ed1h6WEItVlZkX1ZNTjhlRHJTSTNrcXM5M0JoY2JsMWRqaUhqblNRVTliWVFBWU54SnN4WGluVHUtSmgtNUhiUkhsaW1FY29LLW84RDJCV3RWS2oxSUhUajd3bG8wSkdJYkpTdE5XWXRMaFJMMm0xSWtn?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-17"
       }
     ],
     "alimentos-bebidas": [
+      {
+        "titulo": "EXCLUSIVO: Indústria de bebidas lidera consultas de FIDCs por necessidade de capital de giro entre pagar e receber, mostra estudo",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamlmQUI1VExDNjRNSGNPNmV0eGxKUFJ2a3VVZlZJcGtIZ0YzNXpyV1Z2VElrZjNaNGhTVUdWZEthMXpoQ2JfLVhNVEFRTGJhN1lHZXFsWktVLWVNTFRKTlBSYWRfSmFJMkNTYVRaX0JfOGpfM0YtaDFGUUlSNmtMdFR1dmNPUUZLTEFmVnY3NmhhZ1ZyTFBZOEtHbk9EMmJpWDlTMEltRWFuWm1WSWZKWmFRMHJybWhM?oc=5",
+        "fonte": "Times Brasil | CNBC",
+        "data": "2026-10-20"
+      },
+      {
+        "titulo": "Gabriel Souza visita empresas gaúchas e reforça apoio às exportações na Sial Paris",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVRwN1VNamFiRTdVdTRQOThXR1BwaFd3YUNFSWxFNmlRWkUtVmN6SENWS0ZzR05jclk0d1RSeHBNRjktNTczdWNOck1yNGRXakJUcVV1S0h5RTdFZ1EwbEg1dTA5bE5KYllER3o5cmJ6NDQ3QVYyQTdJa2QyRUpTX0JHLUs2Yk5NOFI3dHczckdSREZvNFpsTGRCRElQVWFIdWFQLXUwXzhLUnBPQUx1bg?oc=5",
+        "fonte": "Portal do Estado do Rio Grande do Sul",
+        "data": "2026-10-17"
+      },
       {
         "titulo": "Brasil leva 156 empresas à SIAL Paris 2026 e busca ampliar exportações de alimentos para a Europa",
         "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ3lsNGIzWDhCS0xnV0tYOVYxd0xMMVNYbGU4dUdSMVhJeU94aFhwTWVmODNGMUFfZVBncmJ6UVo1MGY2WjN4LUtuTG15YVdwS3J4cXFuVlFWeU4wUmstc0Q5Q01YOHNGcm9ucnZ2OG1teEV4MzZkUGZwNmNoY1IxUkgxdmZvWFdqcS00cWJGRTRVZy1sd01tamFVcUNtVmtIdWNkRUxOTjg2VHpKWVg3T1VURnhYZ0Z1YUk4TXhzT3VyVFN6eHc2QnlaZUtIbmZRWVM2X1I5ZFRuSWlrWmVZMnY1U1hUVnNWOW1MTzk0d1pINktfSW9xQmpfUnEzSUhvZVRDd2tUQ0s?oc=5",
         "fonte": "Portal do Agronegócio",
         "data": "2026-10-20"
-      },
-      {
-        "titulo": "GP Investimentos compra fatia de fabricante de bebida saudável da Califórnia por R$ 100 milhões",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOckdHcnc0VlpJRnJGMkxraDI1YkJYQS1GMi1ONFlsZDQ0elRzY0Q2TFBodzVYRklqeE1vZkQ3b3VxYkRTajJqMHY5SV9CX1NOM2d6cWYwWnEzRW1yMFBFU3cwb0J5dTZPMXZkVmE0SXYwTlFMdU1GakhoZnNURkQ5aDBpZ2FFX21GbTRMcWczS29wWHhPTGptTjc2ZXpCWmM4a2o2SXp6Z1I2ZVFyRTF3U1RyOXltTnc1V1pUSWI0YnFyOXdMcVBqNjhMZVdEWjREWTNKSGdYMNIB3AFBVV95cUxPVjRyWHV4TS1HQkFuMDJfNk1oZGszQWhBQmlpcXo5WkpfTEl6RXVCSDJmSndSU0RNZ3FIX2kzbUdXbzZSUFRwOU9iUklVOEpHUW5YT3NaVm1hUFprQTJ1Q1E1S1lSekFKODVkVmRkMm5UNGFMUXhqajVVMGpiTFFHZmdMRWtiNDNoMEpuaEVLWG1YNG05STFWM2E1YllPOVB0cmdIdmQtS0V4djZ0ZUN5Q2tvdDhGampESk9XV0tmc3I3Rkl3SzFfNGN6OGQ4NlEwQ2FWeGFraGsyNEVS?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-10-22"
-      },
-      {
-        "titulo": "SIAL Paris 2026: Brasil busca ampliar e diversificar exportações de alimentos para o mercado europeu",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ0pDeG5DTUpUWkhvWGxhSW9TUXdGc01WdUFHb1FhYmR4RG1qNnl6NlFYek9ySktSUDEyQkRLdUh0amRoUXRUeWVqZE12R0o0dTRhUW54Vi1scHU5alZvQTFPSm9WNlhjeEtSeXhvc2N5c3NtTUh4S0xpZUVYeW9DRWstT1p5dDBENXlkVFBHc1NhbDZmV2p2LTZtM3NWLTdCYzdTUGM4Ymp2MW9kS29fN0V4U0d3UHdMOHBHd3BKRFZkNklE?oc=5",
-        "fonte": "Comex do Brasil",
-        "data": "2026-10-19"
       }
     ],
     "automotivo": [
@@ -96,10 +96,10 @@ window.NEWS = {
         "data": "2026-10-18"
       },
       {
-        "titulo": "O que contribuiu para o aumento acentuado dos lucros das empresas de materiais de construção após nove meses?",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcG1Ta0lwR0tSQlBfeHI5NDRwLTJsYUowM3d1Qm9FS2FGRk5CSklwRkVSSkhicGlzUXVoLVpodWNmMENiQWZGRzRvQ1VnQnFMcTF5WG1PbHQxU1U4cHVaQzF0MUpBNXk2VURXTXhXY2hPS3hjcElpX2kxNWJNYmRCNkpmWGJNUXEyaHRrcGlyVTV5dm9ZcGJ1SEJlemZ5NngwdUE?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-10-23"
+        "titulo": "Identificados Cinco Projectos Para Transformar Minerais em Produtos Industriais de Maior Valor",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNb1d1anJkOTNJWG5IRW4zVkx0TDk0aWJ2SkRnQ29OMmNGOUw0SGQ0T3Z3VVh2Z2NMMzZORld6ZUltZm82Q0NFYjJ6dnN1Z2RJZG5kbHlWNW1mMGtSNWlxNnktdlRfR2wxZDJBeHV4TlpDZUdwbk9DdTBJaXdHZEd1dVBXeDNDZUVvUW9ETkZJdmZId293ZENQVmVFTkc4MnJIbGduUUNzSXNkWW03bFZ3MGxUTm95ZUZmR2VLQm1GVQ?oc=5",
+        "fonte": "O.Económico",
+        "data": "2026-10-21"
       }
     ],
     "comercio": [
@@ -156,10 +156,10 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Brasil poderá ter 2ª energia solar mais barata do mundo em 2035 - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1V2VlMjZJX1ZSNTdVY0F4cVBHU09QLTdEa0lOVlljaTVvZGJrWHl2WjNMOWxEZFI2R1BSaWJVRTFqSWw3UWRaMHNRZjM2UQ?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-10-17"
+        "titulo": "Parque Solar Marangatu consolida o potencial do Piauí na geração de energia renovável",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOWjJzc1BFclgwUXRJbm9jQWNpZS1valo1ZllOWGRLUS1UbDRYUGEzZlI2ME5ablNOZGpzSXptUDFWS1JjeEh5NHR3Ym1pSFhDdUp4eXlzSllocXQ4X1lOVkh0dmpVUXlFbXpyWDIwSVNxc3VlYUVJUHJTeDk0UF93VXZwRlQtM2pCLUJIOUNkczZ0dWx4UGhhQzR6MUd0QkpMU2hXcHkteUN6S1NETGNoNWFrbVM2MWFpTFpwTXBsNTA?oc=5",
+        "fonte": "REDE BRASIL DE TELEVISÃO",
+        "data": "2026-10-20"
       }
     ],
     "epc": [
@@ -205,16 +205,16 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Horse inaugura nova linha industrial com investimento de R$ 200 milhões em São José dos Pinhais",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGRRMmVRelF0YWF6aFVKcm80UnRjTVF4Y0tKWUFvQXFDZjdpY3pJWWczMGNJRE12bE1pSWlzcEhZSVkxMktmamE5ajB6T3dSejdmU3Y0QUtveXZVVF9UbV84UVJfbm5WNDBxd1hMYUJIb1lmWXlOdzk4RFktYkgyd0NYYnp2N2d3ZWd5MF9KbWFlVk1xNGdBbE5vLTFCRzNQTm9CcktzUk5qdVJBOUw5bzdaZHRoQ3ZjLUVOSTRR?oc=5",
-        "fonte": "Prefeitura de São José dos Pinhais - PR",
-        "data": "2026-10-22"
-      },
-      {
         "titulo": "A ambição da \"hermana\" Nova no Brasil, com planos para fábrica e receita de R$ 600 milhões no País",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbF8xbWpxZVlxTE95LWdrcjNIUzRUd2lUc0s5bTFKWmFVMGpCQ2ZNM1FNYzVsUFJGcWhnU3NyNFZScE8tQndaNzNYMV9uT2czRC12dTNuX09MVlVUVDBoOGZoXy14THM4SnRUZk1DdnptTTJrUEdmNVFTYUNxNHIyWUlIdENIX2xWbm50aGl6WjZwbS13QTQwSk5Ba1U5MFdZQUpTWXNlYnJZRW1RUkZJR25Rd2l6Q2xmYjBzTkl2ZDRLbWZS?oc=5",
         "fonte": "AgFeed",
         "data": "2026-10-23"
+      },
+      {
+        "titulo": "Horse inaugura nova linha industrial com investimento de R$ 200 milhões em São José dos Pinhais",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGRRMmVRelF0YWF6aFVKcm80UnRjTVF4Y0tKWUFvQXFDZjdpY3pJWWczMGNJRE12bE1pSWlzcEhZSVkxMktmamE5ajB6T3dSejdmU3Y0QUtveXZVVF9UbV84UVJfbm5WNDBxd1hMYUJIb1lmWXlOdzk4RFktYkgyd0NYYnp2N2d3ZWd5MF9KbWFlVk1xNGdBbE5vLTFCRzNQTm9CcktzUk5qdVJBOUw5bzdaZHRoQ3ZjLUVOSTRR?oc=5",
+        "fonte": "Prefeitura de São José dos Pinhais - PR",
+        "data": "2026-10-22"
       },
       {
         "titulo": "Governo do Estado entrega Licença Prévia para o Projeto Natureza, da CMPC, em Barra do Ribeiro",
@@ -237,10 +237,10 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Recordes nos portos mostram nova escala da logística e aumentam pressão sobre os acessos terrestres",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFctc0Y1YjllUEhiQzhXbVotS2FZdkFnV2hNOXhKZVlRODRkLWhSc1B6NWVSc3dzdVpqQ1dHN2Zfb3EtVEVYX20zbHlnRXNlUk9YTUFnR2x3a1laQ0Q2V0dWVlJaWXc2ZkptM1prc0U3S0F1R1dtZXBrZnl2X3ZMcFA0bU9DOG5uSG9aMUJrM2N6ZmNmS01TNUpLZmJiVG1Jelo5UE9YV1poZGQ4ejU3Yi0wLWhfMmY3dUJKZ0lxazVIY0NMN1RKN1EtZEZsZV9aT0E?oc=5",
-        "fonte": "DatamarNews",
-        "data": "2026-10-19"
+        "titulo": "Logística é decisiva para a competitividade da mineração brasileira, diz José Carlos Martins",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZHBRN1BUR2xNcDIzLU1Jb0lodURjLWFyT0I4VFI4cWIxYzlycGdEVmpHV1cyOFVObXhNSmpwb2VFaGcyeUN6RkdqTmROVkE4MEEyanh4R0hJbTlrVFB0SGpoVEFBSW5HLWR0YmlCVDJwN0Nzd2J2TmlwV21rT3Q5V3hsXzNjM002VDVrOU9UTjVFdmRFSV9ka1R3OWlzM09BY0kySXRneEtYcXluZUpaNGFOX2FtZHJJSnlGMjJSYnJCZ04wRUQxbGp4TnBiWEFoeUdDd3E1UmIteWhNWFFN?oc=5",
+        "fonte": "Rádio Itatiaia",
+        "data": "2026-10-24"
       }
     ],
     "maquinas": [
@@ -329,6 +329,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlp4T2stV29CMmtkMlZrNkNROUZpbXlwWE5ZXzRGbTBGSDlDZ093WEFHN1BRSHQzdHV3dDFUeFFTMG5oa1lQZkNoWGo0ejdFMnd1RUNsbk1HaXhzQ1N1cFJhY1U0djRabWZKMWJmTUNUQk5oYzlsa3lhNlh0Smt3ekpjbHhNY2RGUk9xdTRUekRsdE5KZTNUMGZFWjBoZnlQVXdEM2xVb09oNGJWbXFTZ05hS3kwSTRrRkFvTTVEYThrcGxuRXNKSWVXZ1NuNGxsMWxYbmVYSzY?oc=5",
         "fonte": "Movimento Econômico",
         "data": "2026-10-23"
+      },
+      {
+        "titulo": "Debate na Globo: Quem mais investiu em infraestrutura: Lula ou Bolsonaro?",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTR1cTVmYUZPVjdfcGltM2lsSmV2VWo0RGxOQWU2MzY3Y0dzbDlDV2loM0RNM1NqcXc2RzNacU5HVWdmNXRWRExCQU9jMFBsbFpUQjlTRG1laUc2ZWxYZVZ5TkZXdUlteDdqTmE4VVdQekhNdnJBUDFac2NSQTd5MW1rM0JaYWtTVE1NODJxSENqS05QaXdQSDNYVG9nQVB6RnlN?oc=5",
+        "fonte": "Nitro News Brasil",
+        "data": "2026-10-24"
       }
     ],
     "siderurgia": [],
