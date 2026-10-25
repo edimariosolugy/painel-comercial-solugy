@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-24T20:26:15+00:00",
+  "atualizadoEm": "2026-10-25T01:00:48+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -76,10 +76,10 @@ window.NEWS = {
         "data": "2026-10-19"
       },
       {
-        "titulo": "Arrecadação com ICMS de usinas de etanol de MT supera incentivos fiscais",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnU1UUhISkM2ZzdiQTViTUt4MVNwdFAyaVlXRUVaUmxMTlNncWl5U1hNMzRTMms5dzFpaVh2YVVxSHY2N0lVTzJTM3dYUlEtNU5tZUZHbmF2YnVBWlBDOWRpMWFfRjNIU01jblExRjBwZ04ydGszLVplQ3FWU2xfN05YVHNFMjdNMWxJU3k1MnZ0c3REb2NpdmdxWGRkWFhaNWZEcnRISlVuWFJLVEVZWHRIZ3JWV28?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-10-22"
+        "titulo": "Usina de álcool em Porto Xavier (RS) será reativada com investimento de R$ 15 milhões da G2X",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNOWw1VF9pRDM3b29VUFZ1Z2l2ZkUxQl96OUhkSW9KUFFIcVREMG92RGstRDJTWXowVlZxSHEzYWRfMTdqLUtPRlRmZ1ZtUlpiajQyMk1fWmtYbHZkVFR6Y0hrZnVpRDVWTnBpbzdiZEdSV19USm85enlCVmpzeHBsTUQ0bFBjNmZGS1RNT3U2RzdXME14NWdsQWxpVGpWTWM1NE56Q2U3TE5wRUZyTDR5cTFpb1J6TXFMek16cklB?oc=5",
+        "fonte": "JornalCana",
+        "data": "2026-10-19"
       }
     ],
     "cimento": [
