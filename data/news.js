@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-26T15:57:19+00:00",
+  "atualizadoEm": "2026-10-26T20:58:34+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,24 +10,24 @@ window.NEWS = {
         "data": "2026-10-24"
       },
       {
+        "titulo": "Agro e eleições: O que Flávio Bolsonaro e Lula propõem para o Plano Safra",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS01oZjI1Z3JxT3M1VlBDdkwwcXh2dW1GdFN5THVyNkF5dW9XSGpEUF9oZ1V1RktjbV9ycENyeGMxTlhEQXQ5N3owQkZEeV9RdTVqTkNrdmpEVDktTlRGclhOTHk2Y000TEtiZ285ZmNPUkZrampqU2I4TlZxN2NnMWo5TlRuN1V5d0NZbDM4a002MmhIRnR2UTdoYUtSV2JUa1hjWHh0NFBaR3FBeFRfM2Q1V2dsTkNxb1hRTUoydjdBVHA5b0Jv?oc=5",
+        "fonte": "BiodieselBR",
+        "data": "2026-10-19"
+      },
+      {
         "titulo": "Análise: Lula terá de superar resistência do agro e negociar com Congresso",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3BTUDRxa0g0UzlBdkJjU0ZBUkIwVF9CXzNtb1JzUlpyVGIyck1MQW5CTWJpYm9zTmFQUlo4TGQwcGVsSnlsZENVd3ZXT3dWZFcyMlcyazZEX3lUUncydWxndmR1SmYyUURCNW1mNEVGbmZ5N3RQaEpacU85MVNwNTdMTS1SdERoVUhxNlZyMF9GMlJfWWRiUUUyYkhDaWR4VENZYmNWSVRNdm03SFRBTkpsSnBLLTFpUlJibXhjc2RtbWF1aE55d21SRE1oZUk?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-26"
-      },
-      {
-        "titulo": "Agronegócio, mercado financeiro e bem-estar: como incentivos fiscais minam políticas sociais",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPXzVMZnNZaFVPSmwtbHZGWWl2SmxIemM1NnFuRHVhTEEybUFhdkFpWENWNWxyVS11UjhYU0U5X3psaFpmXzBscVUwYjhGcmxvWFo5enJ5T2xZRTdWVGNqMmZ2cTBzZWdPTDJwMEdINnZ2Y1JDbjdVN1N3NDNZUk1lb1Q3ZnVUUEx5WHpVazR2ck90TXpIeGoyVjJ2N3FqeW9pWG9iMEIyeHlCc3cyVks2VXV3NlR0QUp0U3JINnZDVQ?oc=5",
-        "fonte": "O Joio e O Trigo",
-        "data": "2026-10-22"
       }
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Panorama dos setores de Agro, Alimentos e Bebidas - Outubro 26",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQckVkdFNBSnpCS3NxQ1BULXFITlVmYmhLdlpKQ0NFRTRrbmh1ektPTUtvZkh2c04yM2VTR1BYUXJBNmFwaDlCMkNQdDVoM0R6ZFRtVWJZLU5xbGJWNXlRVHBucFVNRGhITThFTWlIQWxqVkI0c1plN1NSV1ZIR2kzb3RlYXhROEpHRnNMYklDQTNjb0Q0NmRyVEFCM2JZdHRKRkE?oc=5",
-        "fonte": "InvesTalk",
-        "data": "2026-10-19"
+        "titulo": "Brasil reforça posição de fornecedor de alimentos de qualidade para o mundo durante a Sial Paris",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmRXd3Q2Y1l3dHk4aWoyMW1UZUYwQkptdjB5V0JEXy1oT0tQSG9ZYkRUdkxMVm5wTUVSaWxWWlBxVWdTVFN2WWFzYzYtQ3BGWUJyTnBOLWgyUTlIZVRrOS1OZTd2Yk5CUFRKUHdiVXFNeVcyYWpLenRkTHd2cE5nZUIyc1I3VUl4QmtpUHdWLVktWmJka3VRWVdfU3d4VFktS2pxTm1yQzVNeWlVQVlWRUhKVURwTDBlcnFRdFFOUVhaeGhib2FBaUQzT1VxRFkwVGx6Vg?oc=5",
+        "fonte": "Apex Brasil",
+        "data": "2026-10-26"
       },
       {
         "titulo": "Brasil despenca do 28º para o 62º lugar em ranking de crescimento da indústria",
@@ -36,9 +36,9 @@ window.NEWS = {
         "data": "2026-10-25"
       },
       {
-        "titulo": "Brasil leva 156 empresas à SIAL Paris 2026 e busca ampliar exportações de alimentos para a Europa",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNZ3lsNGIzWDhCS0xnV0tYOVYxd0xMMVNYbGU4dUdSMVhJeU94aFhwTWVmODNGMUFfZVBncmJ6UVo1MGY2WjN4LUtuTG15YVdwS3J4cXFuVlFWeU4wUmstc0Q5Q01YOHNGcm9ucnZ2OG1teEV4MzZkUGZwNmNoY1IxUkgxdmZvWFdqcS00cWJGRTRVZy1sd01tamFVcUNtVmtIdWNkRUxOTjg2VHpKWVg3T1VURnhYZ0Z1YUk4TXhzT3VyVFN6eHc2QnlaZUtIbmZRWVM2X1I5ZFRuSWlrWmVZMnY1U1hUVnNWOW1MTzk0d1pINktfSW9xQmpfUnEzSUhvZVRDd2tUQ0s?oc=5",
-        "fonte": "Portal do Agronegócio",
+        "titulo": "EXCLUSIVO: Indústria de bebidas lidera consultas de FIDCs por necessidade de capital de giro entre pagar e receber, mostra estudo",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOamlmQUI1VExDNjRNSGNPNmV0eGxKUFJ2a3VVZlZJcGtIZ0YzNXpyV1Z2VElrZjNaNGhTVUdWZEthMXpoQ2JfLVhNVEFRTGJhN1lHZXFsWktVLWVNTFRKTlBSYWRfSmFJMkNTYVRaX0JfOGpfM0YtaDFGUUlSNmtMdFR1dmNPUUZLTEFmVnY3NmhhZ1ZyTFBZOEtHbk9EMmJpWDlTMEltRWFuWm1WSWZKWmFRMHJybWhM?oc=5",
+        "fonte": "Times Brasil | CNBC",
         "data": "2026-10-20"
       }
     ],
@@ -70,19 +70,38 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Arrecadação com ICMS de usinas de etanol de MT supera incentivos fiscais",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcnU1UUhISkM2ZzdiQTViTUt4MVNwdFAyaVlXRUVaUmxMTlNncWl5U1hNMzRTMms5dzFpaVh2YVVxSHY2N0lVTzJTM3dYUlEtNU5tZUZHbmF2YnVBWlBDOWRpMWFfRjNIU01jblExRjBwZ04ydGszLVplQ3FWU2xfN05YVHNFMjdNMWxJU3k1MnZ0c3REb2NpdmdxWGRkWFhaNWZEcnRISlVuWFJLVEVZWHRIZ3JWV28?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-10-22"
+        "titulo": "Agro e eleições: O que Flávio Bolsonaro e Lula propõem sobre bioenergia e biocombustíveis",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWGV5d2QxZy12Sm9EbUtYdVp2UUlpR3J6Rmcya0VBOEg5bzFicWQzQjgzVjJBZ2MtS1ZEazdUMDllaUxmbkNrdHBOYmhHQ0s5ZkY1T0VwN2JCdk9kaUdNQzRhNHlCcmNidFBsUFZZTDRvRjhtakE2eHNRMldleGFrUTMwZF8wT0pPN19VazYzWUVUYk9USFZfRlVWbWlOZTZRZmRSdU9wVjBrdXBaNk44dURjVl9sMkNZSHkwRC1JdE1Ubkljak8tVU9HdVppVDAySW1wdWIzSmgwNURq?oc=5",
+        "fonte": "BiodieselBR",
+        "data": "2026-10-19"
       },
       {
-        "titulo": "Etanol de grãos impulsiona bioeconomia e transforma Brasil em hub de processamento",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPN2t3dlBGOWpOemJTXzFfTnZRN1FPRGVmeHJzQzNFT0JYSGhfVFpBTkpuYlhxd3BaV3pmTkJQdWNOdjVzOUROOWRpbHdjV1ZOTC1nNjNxUFNIV2JhcDNWUXJDTy1rbFA2TUdzY2pLQmQxRFJfcVVjMU1PbWRkZW85Wm9wREtvbk5EVUJRaC0xY0JGM0t3X3lmaEJYemZocENxZ1laUnR4TEgyUTdyeVVkYXNIZDZkdFc5eDBmV0lYVEJTU0E0MTJoclhhcw?oc=5",
-        "fonte": "JornalCana",
+        "titulo": "Incentivo ao etanol atrai R$ 27 bilhões em investimentos para usinas de Mato Grosso",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUl5ZUN3d0cxdVFkWl9EMmFQOUFoWlMxNnRDWmdZWlR6M1M2SVBHcWVBRUQ3cHFpamR3eTZWQTFxZkpfLWN3QWxNNEhhZEF4SVFZWGtlc2JmalVwLVhOWFFRVjZwalE0ZkY2b0tlcjBBdHFIWG5rUDZ4SG03V2MzYUpuQUswZ2plTjloVVRUN1lnTC1KcWlJYnJzUjhiaXVlb1dOVkV6bWc2a2I5VlE?oc=5",
+        "fonte": "Sapicuá",
+        "data": "2026-10-20"
+      }
+    ],
+    "cimento": [
+      {
+        "titulo": "Construção global crescerá mais de 70% até 2050 e chegará a US$ 16,6 trilhões",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdUhSUFVtM081LXVNWGRXZlpIbkI3cWxKOEJvQWk0RUhJWDhDMGg0cl9PRHdJaHhObTFqT1V4SXR0LWgybkE4dHhLS3B3d3BpSDdnaXBnTW5xcHBfQXVKZEVWSGNKS0xlaWczZUc5b1h2UENlbGZfM3o1U21hUURxWnJkY2dJZWlLbEhnT2VDY0o2LUtOYzBmcFpkR2NHSjJEVUEyTHNn?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-10-21"
+      },
+      {
+        "titulo": "O que contribuiu para o aumento acentuado dos lucros das empresas de materiais de construção após nove meses?",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcG1Ta0lwR0tSQlBfeHI5NDRwLTJsYUowM3d1Qm9FS2FGRk5CSklwRkVSSkhicGlzUXVoLVpodWNmMENiQWZGRzRvQ1VnQnFMcTF5WG1PbHQxU1U4cHVaQzF0MUpBNXk2VURXTXhXY2hPS3hjcElpX2kxNWJNYmRCNkpmWGJNUXEyaHRrcGlyVTV5dm9ZcGJ1SEJlemZ5NngwdUE?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-10-23"
+      },
+      {
+        "titulo": "Vicem deve resolver definitivamente a série de projetos pendentes.",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQTklRbi1DalVIZ3lHdDVWamJPOXk3eWlNRlAwQUUyUDlVV09Nb3FSV0tFYWJ1VWhtT3lJdzhPMWZqMXh2bzlPWFJxVUhKbXpUeW13bmpPT2tpeW0wNjFqdG1waXVBRldtdUdaUGRsTUpiNUE5UEhCZVlXaw?oc=5",
+        "fonte": "Vietnam.vn",
         "data": "2026-10-26"
       }
     ],
-    "cimento": [],
     "comercio": [
       {
         "titulo": "Nuvemshop reforça investimento em logística e abre CD no Rio",
@@ -212,16 +231,16 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Governo quer reativar 10 mil km de ferrovias ociosas e abre caminho para shortlines privadas",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdndGQVV4N2ZtamJIMHpUaVVKRGNlWHhFZG40Xy1BaDFkR1ZsXzlDVW9IOVo2Nk1fYXZwYU1RdlBMUTBDdE9PdDk5TjlXaTJ6V3o4ZzZHQUJ6SUxHSG1jZjg1cy1Ka1U5aTlhSUlqcHdKMERvOTJnbk1BNDlKZ2Y2WmxRTk4yRTVVenoxeURfSFY2YjNLWm5jRTluNkRmZG9oZGplLVVSbmJsMlFHZk5MdVgxZm5HYm40Z3FjTEdKdHJ4TV9qN0sweEZOTTZQLVdBMWJOYWdSS3hjVVVmTmsxMl8xRzBNM1dDbHJr?oc=5",
-        "fonte": "Portogente",
-        "data": "2026-10-19"
-      },
-      {
         "titulo": "Setor portuário vê riscos à cadeia logística com saturação dos portos",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUZlTC1zejE0cjhxLUpPaF92ZkVzWkpNRnRBN0FmQklxYlloVXR1QnFNTkpmZVBnRHRiNldkekZRS00zNWxpNnZYdjdUeGZ5RUFieUJXaWVlVEt4V3NEU3gxTUVBVnJGZXV3WDN5cFhhQzhvT2duZ0EyUjB5ZGRuaEhkbzJwSkJFUmZ4anYwOUlxS1h3Tmpkc253anVuaEtIOGZqSHVLenI?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-26"
+      },
+      {
+        "titulo": "Governo quer reativar 10 mil km de ferrovias ociosas e abre caminho para shortlines privadas",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdndGQVV4N2ZtamJIMHpUaVVKRGNlWHhFZG40Xy1BaDFkR1ZsXzlDVW9IOVo2Nk1fYXZwYU1RdlBMUTBDdE9PdDk5TjlXaTJ6V3o4ZzZHQUJ6SUxHSG1jZjg1cy1Ka1U5aTlhSUlqcHdKMERvOTJnbk1BNDlKZ2Y2WmxRTk4yRTVVenoxeURfSFY2YjNLWm5jRTluNkRmZG9oZGplLVVSbmJsMlFHZk5MdVgxZm5HYm40Z3FjTEdKdHJ4TV9qN0sweEZOTTZQLVdBMWJOYWdSS3hjVVVmTmsxMl8xRzBNM1dDbHJr?oc=5",
+        "fonte": "Portogente",
+        "data": "2026-10-19"
       }
     ],
     "maquinas": [
@@ -238,10 +257,10 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Dona da Brastemp e Consul fecha fábrica na Argentina e investe R$ 300 milhões no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPellwRm9Iam1paTlzUUY2MDNQa205TjBvRDdmaTRydnI0cmtONHA2azhERnpJelhCOGM4QWNVaGQwMWE5YjVPQVV6YjZPRlBzYVcxZ3dDUGlFTU1NWmgyejBOLU5Xa2VfOFh2T3diR0pqQUdkQ0tqR2tEQmlEYXRtYXNCcVdsYS1SQmFuUG1mQnlmbXdMaU4zRENyUzBkUlBLUktlVHd2TjZmWGgyNVpRSU9fcmU1VE10U3NUeW5WSDBWVlQ0MFHSAcsBQVVfeXFMTnM1NXVwbjQwT0xjcnRaMDRLamRIWTdGbTRhdUhWLXZGTzcyREZSTFcwYUVCYmUxZXJKcElrQUVmZDdudk5ZNUJjVjBta21KMndvN0RHMkpLYTMtMzhqN3gzTm9GdHRPNHhKQnZnWXRoV2M3allqU3VDaC1xemZQX0Vsc0RzbC1IOURvdEliQVFFVXVVUFFCdHhDTHQ1TDVQakJjcnlreGpWeVBPc1NjSklRYnlaUmN1MXBZSmlzQ0NvaHRfajhHajYzM2c?oc=5",
-        "fonte": "GMC Online",
-        "data": "2026-10-20"
+        "titulo": "Abimóvel e ApexBrasil renovam convênio do Brazilian Furniture",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmZRN2NmVF8tZUp4YWNWX0pMaHczcHVfZmJWem4tdENMUnEzdDFHY1BCam5RZV9GRVBGalg0ejFGa1h2LWw1TGtvVkxFcVh3UzhTdmZ6aG83U25VUnNUdWpYT2pyclhOajBVX0hRc3JxRzV5Um1aakFXMkk5cm5UTjAzend3Y2REVGNXY2o5NklQRXp2NGtmNm1tN2R3by12S3c?oc=5",
+        "fonte": "eMóbile",
+        "data": "2026-10-26"
       }
     ],
     "mineracao": [
@@ -300,10 +319,10 @@ window.NEWS = {
         "data": "2026-10-23"
       },
       {
-        "titulo": "Debate na Globo: Quem mais investiu em infraestrutura: Lula ou Bolsonaro?",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTR1cTVmYUZPVjdfcGltM2lsSmV2VWo0RGxOQWU2MzY3Y0dzbDlDV2loM0RNM1NqcXc2RzNacU5HVWdmNXRWRExCQU9jMFBsbFpUQjlTRG1laUc2ZWxYZVZ5TkZXdUlteDdqTmE4VVdQekhNdnJBUDFac2NSQTd5MW1rM0JaYWtTVE1NODJxSENqS05QaXdQSDNYVG9nQVB6RnlN?oc=5",
-        "fonte": "Nitro News Brasil",
-        "data": "2026-10-24"
+        "titulo": "A agenda de infraestrutura no novo mandato de Lula no Brasil pode movimentar pelo menos R$383 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXBkVWFnQjdoRmZuVjNkZWhzTk44YUx4RFpkWTVQc3MtSDlNR1Jqd3JDLVpXYWNVRG9LZUYtRW1NWDF2a1QtczNBcXlCZV9KU1E3QVBPSnJKd3pfVldPNWlxQ1NkTXhGeEZYWGJrWC1ubm4zbjRZSWllNzYzT0N2VDVHTDRlUTNBbEJWY1N2Q19lNDZKWDZMRUFXR0tmd09IdEF6cEk1N1l3UmpPM1BMUzJrVmxDdXZUMWIyU0hPVGw4bmJVUVFpVHowZW9zR1NiTU1VbWl3?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-26"
       }
     ],
     "siderurgia": [],
