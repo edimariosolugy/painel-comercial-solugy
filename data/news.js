@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-26T20:58:34+00:00",
+  "atualizadoEm": "2026-10-27T00:21:07+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,24 +10,24 @@ window.NEWS = {
         "data": "2026-10-24"
       },
       {
-        "titulo": "Agro e eleições: O que Flávio Bolsonaro e Lula propõem para o Plano Safra",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNS01oZjI1Z3JxT3M1VlBDdkwwcXh2dW1GdFN5THVyNkF5dW9XSGpEUF9oZ1V1RktjbV9ycENyeGMxTlhEQXQ5N3owQkZEeV9RdTVqTkNrdmpEVDktTlRGclhOTHk2Y000TEtiZ285ZmNPUkZrampqU2I4TlZxN2NnMWo5TlRuN1V5d0NZbDM4a002MmhIRnR2UTdoYUtSV2JUa1hjWHh0NFBaR3FBeFRfM2Q1V2dsTkNxb1hRTUoydjdBVHA5b0Jv?oc=5",
-        "fonte": "BiodieselBR",
-        "data": "2026-10-19"
-      },
-      {
         "titulo": "Análise: Lula terá de superar resistência do agro e negociar com Congresso",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3BTUDRxa0g0UzlBdkJjU0ZBUkIwVF9CXzNtb1JzUlpyVGIyck1MQW5CTWJpYm9zTmFQUlo4TGQwcGVsSnlsZENVd3ZXT3dWZFcyMlcyazZEX3lUUncydWxndmR1SmYyUURCNW1mNEVGbmZ5N3RQaEpacU85MVNwNTdMTS1SdERoVUhxNlZyMF9GMlJfWWRiUUUyYkhDaWR4VENZYmNWSVRNdm03SFRBTkpsSnBLLTFpUlJibXhjc2RtbWF1aE55d21SRE1oZUk?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-26"
+      },
+      {
+        "titulo": "Bruno Silva cobra debate sobre futuro do agronegócio e investimentos em infraestrutura no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZDlodzRKTGFYYkxWdFRHMnZVMEU0OXI0c3Rxa2JlSE9iaTdESGtUWnc4Zzc0LVFzQ1VDMXhMTnF3ZDRBWUt6VTVWWjRWN1FxdUlON2daeUpyNDVDTWwxQmJBd0dfSGpkVmhCNmotdTA3NzgzNXFLbS1GQk5ONlJ1czVfcG9KbjFLd2twcnMwTktObXdYd3JDZEdva1lrYUlHbS1oNHBjOTZkX0JiX2lDTHZpZjFjT0RGdy1CY3dfamVKUQ?oc=5",
+        "fonte": "CBN Ribeirão",
+        "data": "2026-10-21"
       }
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Brasil reforça posição de fornecedor de alimentos de qualidade para o mundo durante a Sial Paris",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmRXd3Q2Y1l3dHk4aWoyMW1UZUYwQkptdjB5V0JEXy1oT0tQSG9ZYkRUdkxMVm5wTUVSaWxWWlBxVWdTVFN2WWFzYzYtQ3BGWUJyTnBOLWgyUTlIZVRrOS1OZTd2Yk5CUFRKUHdiVXFNeVcyYWpLenRkTHd2cE5nZUIyc1I3VUl4QmtpUHdWLVktWmJka3VRWVdfU3d4VFktS2pxTm1yQzVNeWlVQVlWRUhKVURwTDBlcnFRdFFOUVhaeGhib2FBaUQzT1VxRFkwVGx6Vg?oc=5",
+        "titulo": "Exporta Mais Brasil apresenta potencial da indústria brasileira de pescados a compradores estrangeiros",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQYXdoWk05MmhscnBsV2dsQzI2b2NjdUo2YlJVWmtCNVZIRkNPNWx6RFJobG1tR1hyc3ZHV29uWDZqcVRTZjVXeFhwZm4yU3VtaXpPMnRXSmw5NldNVTZxZmN4djlzSHlJWUduc3NLMDlKODdDVnRfaUN6RDFfS1VUdUJydWVDbDEwbTVjd0lRVTRWX1Z6R0RUTUlvcDlRR3dla0RwV3hmcmVEQ0dYVzJCYmRuM1EyYmhQejl2ZzdORnBsNWxaSGM0SXI2MmVVb3J6YmxrYg?oc=5",
         "fonte": "Apex Brasil",
-        "data": "2026-10-26"
+        "data": "2026-10-20"
       },
       {
         "titulo": "Brasil despenca do 28º para o 62º lugar em ranking de crescimento da indústria",
@@ -70,15 +70,15 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Agro e eleições: O que Flávio Bolsonaro e Lula propõem sobre bioenergia e biocombustíveis",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNWGV5d2QxZy12Sm9EbUtYdVp2UUlpR3J6Rmcya0VBOEg5bzFicWQzQjgzVjJBZ2MtS1ZEazdUMDllaUxmbkNrdHBOYmhHQ0s5ZkY1T0VwN2JCdk9kaUdNQzRhNHlCcmNidFBsUFZZTDRvRjhtakE2eHNRMldleGFrUTMwZF8wT0pPN19VazYzWUVUYk9USFZfRlVWbWlOZTZRZmRSdU9wVjBrdXBaNk44dURjVl9sMkNZSHkwRC1JdE1Ubkljak8tVU9HdVppVDAySW1wdWIzSmgwNURq?oc=5",
-        "fonte": "BiodieselBR",
-        "data": "2026-10-19"
-      },
-      {
         "titulo": "Incentivo ao etanol atrai R$ 27 bilhões em investimentos para usinas de Mato Grosso",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMUl5ZUN3d0cxdVFkWl9EMmFQOUFoWlMxNnRDWmdZWlR6M1M2SVBHcWVBRUQ3cHFpamR3eTZWQTFxZkpfLWN3QWxNNEhhZEF4SVFZWGtlc2JmalVwLVhOWFFRVjZwalE0ZkY2b0tlcjBBdHFIWG5rUDZ4SG03V2MzYUpuQUswZ2plTjloVVRUN1lnTC1KcWlJYnJzUjhiaXVlb1dOVkV6bWc2a2I5VlE?oc=5",
         "fonte": "Sapicuá",
+        "data": "2026-10-20"
+      },
+      {
+        "titulo": "Arrecadação com ICMS de usinas de etanol de Mato Grosso supera incentivos fiscais",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbElFWTQtaHZLcVhZZkFLRnhWdE9DWmEwLTlNYjZTU21pb3B1aTIyQWFQOFVxdFNUNVljNkxhamZjZ2V0WEMyTjMwYUJ6WTNrOEtQODlTQlg3TnBYVWZDbVRxRktIbUt4dHNPU2dTbzd4Z2RxUTVtc19zbFhzbXdHemc5SUFKbzdDNmZ0ODZMT3ZRcFFWdWkzYW16bVppQ1BGRHB3bnBybHBpcEo4Q1ljRExER2QzQQ?oc=5",
+        "fonte": "NovaCana",
         "data": "2026-10-20"
       }
     ],
@@ -110,15 +110,15 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
-        "titulo": "Maior centro de distribuição da América Latina abre as portas para lançamento inusitado da Havan",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNZmc5eFZzRDFGQm50NTBMNm1xcmtTTy1hRnZVR2FxaWs4YmIzWUdrOHhLUXdBbnFuMmVrN1UxTUpLbU9HcXlSVUVtSGlCTU80LWtPLUcxNUsza2xfRGczNVZyV2pWS2FmU054aHhIblphbUVmMU5ZVHljVE1kNTNSVU5Rc1N0bHY1em82RmZncU5wQVk3ZlEyU0ZFQXFuLU1UM2NFUmVfRm1hQ2hVQmo0YUlEWnc5TFE4YlRuOXo5ajRqZWRob1VLeVlaaVZEcDJRa2Ntc0ZPemNNQk1n?oc=5",
-        "fonte": "Diario de Pernambuco",
-        "data": "2026-10-19"
-      },
-      {
         "titulo": "“Juros estão matando o varejo”, diz executivo do Petz Cobasi - Times Brasil | CNBC",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY0dqcVljZnlQdEc3aF9hRjlQcEVJOFMtNkRsc0RfeEJMT3dBU2ZqdFFMczhWaDRHakxPNFVSRExvZU9BTmVuY1NMb1E0dC1nVnlwQ1RmYkNWSXVkLWNMdGw5ekp2MS1Td04xaFBYU3dNQkFuTHZjUnRVZk0xM01ESGdsd1BlYXhCbkhhUUtvV1o4Z2M4TlZCZ1hWaVF4MDJsMUpoYml2MVg?oc=5",
         "fonte": "Times Brasil | CNBC",
+        "data": "2026-10-20"
+      },
+      {
+        "titulo": "Gigante de R$ 20 bilhões lança nova geração de supermercados sem caixas no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNXoza0pjVGlCRjFQeXJIQzh3OTRpZGFjZU5oN09pYWQ4YjNrTVBJampHLVVpa2V4RTZLTEF4T2xqZlVjY2c3ZHUtNTB2MC1lYndKbk10dHdnOVRLYTVudXhramZaWG94LVNQZTQtYUpIaDJQMHJmTGs2N3dtSmxXUXJjTzNlaDFlcmxJVi0xTHZvOVgxZm1sNGxaWlZGVGJOMHVmcFpEeHJKVmRn?oc=5",
+        "fonte": "Exame",
         "data": "2026-10-20"
       }
     ],
@@ -150,16 +150,16 @@ window.NEWS = {
         "data": "2026-10-20"
       },
       {
+        "titulo": "Baterias podem transformar Brasil no segundo mercado mais competitivo em energia solar do mundo, diz Irena",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ2pMS1JYeEtIX3dzeHh4eGo2bWVjdUpTRXZsQUN0eHh6N0VyQXZqRk94dG0xdHU3Z1ozb2RwUlV5M0dTODh4a3h5WVpTdW5fOHhweUtMZy1rc3lRZ2IyNjdoSW53enpBUWcteVR6U1dNRzlxMUc4UHo0SnRQZm5GZVZ5Z1VXRnNrdVJ3bVdpXzBwRm92R0lxcFdLTDRiTDRIS3piczFqNUVLY1hKRFVUV3ZEdnNDaWdYd2lwUjZqa1pQemVpNTNhaURKb2dxdw?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-10-20"
+      },
+      {
         "titulo": "Usina solar leva energia renovável à produção de frutas em Juazeiro (BA)",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVU5YcWl1Z1pKTkx1Zk1nb2VXR2ZaNUx1djBVSGdFT05LalZUYjdWMExUbWFjdHlBaVNVX0d4cVZNektqQXMwTjc4NDBvYk1YOVZDRG9jZ0ptVHpTZkJ0ZWJ3VzVCTDZHYmh1Tzg1bXN2bWxZaWl3T2Vycl83V0FkRE84eDZ0R0xmejhVc2hpLUN0ZkxaejI2eUZPUGw4U1RwTm5FY3J6eVl6Um5wTGxnckNqZUFGTjZqRUNFaHZNMmd6YVNwWEE?oc=5",
         "fonte": "Codevasf",
         "data": "2026-10-26"
-      },
-      {
-        "titulo": "Parque Solar Marangatu consolida o potencial do Piauí na geração de energia renovável",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQV0JVdTFfdGRobTFzaFB3eENKbG1rbHBJQlZESi1oX1BJY3FXRnZ2VU5NVjljSWt5RDR5NWt2cWF4aVlBbDJkMFRQNUpwM20tYmY0YkNhWlhGQTBMeVQ2Z3pVYWROakRFbmNZTHh4MXpmendUMEVZODJCQ3ZzMXpLYUJ2a21MMF9CejEta2tCUXB3M25DWGtxWXY0QjZidVhWTERaVTZjR2VPb1Nra1FieUhtMDl6eG1YNkI4?oc=5",
-        "fonte": "REDE BRASIL DE TELEVISÃO",
-        "data": "2026-10-20"
       }
     ],
     "epc": [
@@ -211,15 +211,15 @@ window.NEWS = {
         "data": "2026-10-22"
       },
       {
-        "titulo": "Governo do Estado entrega Licença Prévia para o Projeto Natureza, da CMPC, em Barra do Ribeiro",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2xtYlBQZ1RDU1lqOUp5a3VhMl94Q2VyLWFRYmwyMTBIckF3LXdwYkwxT2J6TDN6cHBjbC1RZTBlc3hiU0RVeUY0MHJpM19yaUFlYkl1eU9JWi1oT1BKSDEzLUdyU1IyZUwwcnJzQmp2a1gzMXlQZE1RMVB0cDFYNFowTzlUMTJJLWF0T1RoUGg1MHlGaE1ULTRtUUkzUzhYNWhUNzctNUxOQVdpMnd4djhCTVh3NGM0?oc=5",
-        "fonte": "Portal do Estado do Rio Grande do Sul",
-        "data": "2026-10-23"
-      },
-      {
         "titulo": "A ambição da \"hermana\" Nova no Brasil, com planos para fábrica e receita de R$ 600 milhões no País",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbF8xbWpxZVlxTE95LWdrcjNIUzRUd2lUc0s5bTFKWmFVMGpCQ2ZNM1FNYzVsUFJGcWhnU3NyNFZScE8tQndaNzNYMV9uT2czRC12dTNuX09MVlVUVDBoOGZoXy14THM4SnRUZk1DdnptTTJrUEdmNVFTYUNxNHIyWUlIdENIX2xWbm50aGl6WjZwbS13QTQwSk5Ba1U5MFdZQUpTWXNlYnJZRW1RUkZJR25Rd2l6Q2xmYjBzTkl2ZDRLbWZS?oc=5",
         "fonte": "AgFeed",
+        "data": "2026-10-23"
+      },
+      {
+        "titulo": "Governo do Estado entrega Licença Prévia para o Projeto Natureza, da CMPC, em Barra do Ribeiro",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2xtYlBQZ1RDU1lqOUp5a3VhMl94Q2VyLWFRYmwyMTBIckF3LXdwYkwxT2J6TDN6cHBjbC1RZTBlc3hiU0RVeUY0MHJpM19yaUFlYkl1eU9JWi1oT1BKSDEzLUdyU1IyZUwwcnJzQmp2a1gzMXlQZE1RMVB0cDFYNFowTzlUMTJJLWF0T1RoUGg1MHlGaE1ULTRtUUkzUzhYNWhUNzctNUxOQVdpMnd4djhCTVh3NGM0?oc=5",
+        "fonte": "Portal do Estado do Rio Grande do Sul",
         "data": "2026-10-23"
       }
     ],
@@ -237,19 +237,13 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Governo quer reativar 10 mil km de ferrovias ociosas e abre caminho para shortlines privadas",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPdndGQVV4N2ZtamJIMHpUaVVKRGNlWHhFZG40Xy1BaDFkR1ZsXzlDVW9IOVo2Nk1fYXZwYU1RdlBMUTBDdE9PdDk5TjlXaTJ6V3o4ZzZHQUJ6SUxHSG1jZjg1cy1Ka1U5aTlhSUlqcHdKMERvOTJnbk1BNDlKZ2Y2WmxRTk4yRTVVenoxeURfSFY2YjNLWm5jRTluNkRmZG9oZGplLVVSbmJsMlFHZk5MdVgxZm5HYm40Z3FjTEdKdHJ4TV9qN0sweEZOTTZQLVdBMWJOYWdSS3hjVVVmTmsxMl8xRzBNM1dDbHJr?oc=5",
-        "fonte": "Portogente",
-        "data": "2026-10-19"
+        "titulo": "Frete de grãos no Brasil pode cair até 40% com expansão de ferrovias e corredor bioceânico",
+        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPOWgybEpEMTF1N2tEVGgxOG9Rc3RTV0QzNW9ZeXZVbTJZeTdvUi1CenBKb3lBdENZZkZVY2I1YzhtdTR0NXF0YjhmR2RhTS1QbFhieExYVHFNeHZ2YUVpYVBCMlAyR1ZzcklxbFp1RndvQjMwSHRpOGtTbUhycnlrdm5BYXR4WF94VTBkUzEzOEpPSm02ZVVPdjFkejZxVXUyM0RIUUtNRm9IQjJGcGNMSXRneDZ1enpNdlU5eno5QU41YUNvNmF6ZGdpVlFlMVo1U0VHZXMtakIwZzVoOElVbV9qSDlVQ3ZWV1FrYkNvUWZZdXRuQ0F2Y0FESTIxeUtFQWRv?oc=5",
+        "fonte": "Portal do Agronegócio",
+        "data": "2026-10-20"
       }
     ],
     "maquinas": [
-      {
-        "titulo": "Confiança industrial sobe, mas energia cara trava investimento em MG",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcE44X29mVUhRZTQ4U3lBTWZHNUtNTWEwT1l1Wndzc0tVT0licGkyNVpCVnBWakhGemw5clBDNjEtQUtnT3AyQUVNcW1tZ0s3azNxQnAwZ2sxNXdkMEdmTGl1cjFMX2l3d01nRHMwOHNFT1hES3Rmbk9GeGo0TngtMFQ1aFVnMUJqX1VGTWYxQkx0ckZXT0Fob0lYaUNsLVB1dGhxZXVWWGJla1E?oc=5",
-        "fonte": "Metrópoles",
-        "data": "2026-10-19"
-      },
       {
         "titulo": "Fabricantes de equipamentos priorizam eficiência e modernização na indústria de papel e celulose",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVZyMzZjd2tvVWd4eHY4bWpKVWhxVHdRQmN5RUZpMjh3U3VHZjQtdlJxSUJWbFZPeTNQaVA5LXlDc29xVmVndko5NUJUcGF3YzRtbmQxLXpvd3BzZ3JKTGlPeUN0bHdJcDBKTnVfT0ZtVDE5WEN5bDN3TlF0TlBMMXVsck54RFZwVmNWd1I0aEdmcTlpYTl5TnU2enFmc2NPRHZocEpmYWpKSGJWSVNtUzhGc2JxS1c3NTh6NDlfQ215VXRMVFE?oc=5",
@@ -261,6 +255,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmZRN2NmVF8tZUp4YWNWX0pMaHczcHVfZmJWem4tdENMUnEzdDFHY1BCam5RZV9GRVBGalg0ejFGa1h2LWw1TGtvVkxFcVh3UzhTdmZ6aG83U25VUnNUdWpYT2pyclhOajBVX0hRc3JxRzV5Um1aakFXMkk5cm5UTjAzend3Y2REVGNXY2o5NklQRXp2NGtmNm1tN2R3by12S3c?oc=5",
         "fonte": "eMóbile",
         "data": "2026-10-26"
+      },
+      {
+        "titulo": "Dona da Brastemp e Consul fecha fábrica na Argentina e investe R$ 300 milhões no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPellwRm9Iam1paTlzUUY2MDNQa205TjBvRDdmaTRydnI0cmtONHA2azhERnpJelhCOGM4QWNVaGQwMWE5YjVPQVV6YjZPRlBzYVcxZ3dDUGlFTU1NWmgyejBOLU5Xa2VfOFh2T3diR0pqQUdkQ0tqR2tEQmlEYXRtYXNCcVdsYS1SQmFuUG1mQnlmbXdMaU4zRENyUzBkUlBLUktlVHd2TjZmWGgyNVpRSU9fcmU1VE10U3NUeW5WSDBWVlQ0MFHSAcsBQVVfeXFMTnM1NXVwbjQwT0xjcnRaMDRLamRIWTdGbTRhdUhWLXZGTzcyREZSTFcwYUVCYmUxZXJKcElrQUVmZDdudk5ZNUJjVjBta21KMndvN0RHMkpLYTMtMzhqN3gzTm9GdHRPNHhKQnZnWXRoV2M3allqU3VDaC1xemZQX0Vsc0RzbC1IOURvdEliQVFFVXVVUFFCdHhDTHQ1TDVQakJjcnlreGpWeVBPc1NjSklRYnlaUmN1MXBZSmlzQ0NvaHRfajhHajYzM2c?oc=5",
+        "fonte": "GMC Online",
+        "data": "2026-10-20"
       }
     ],
     "mineracao": [
@@ -319,10 +319,10 @@ window.NEWS = {
         "data": "2026-10-23"
       },
       {
-        "titulo": "A agenda de infraestrutura no novo mandato de Lula no Brasil pode movimentar pelo menos R$383 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXBkVWFnQjdoRmZuVjNkZWhzTk44YUx4RFpkWTVQc3MtSDlNR1Jqd3JDLVpXYWNVRG9LZUYtRW1NWDF2a1QtczNBcXlCZV9KU1E3QVBPSnJKd3pfVldPNWlxQ1NkTXhGeEZYWGJrWC1ubm4zbjRZSWllNzYzT0N2VDVHTDRlUTNBbEJWY1N2Q19lNDZKWDZMRUFXR0tmd09IdEF6cEk1N1l3UmpPM1BMUzJrVmxDdXZUMWIyU0hPVGw4bmJVUVFpVHowZW9zR1NiTU1VbWl3?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-10-26"
+        "titulo": "Debate na Globo: Quem mais investiu em infraestrutura: Lula ou Bolsonaro?",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeTR1cTVmYUZPVjdfcGltM2lsSmV2VWo0RGxOQWU2MzY3Y0dzbDlDV2loM0RNM1NqcXc2RzNacU5HVWdmNXRWRExCQU9jMFBsbFpUQjlTRG1laUc2ZWxYZVZ5TkZXdUlteDdqTmE4VVdQekhNdnJBUDFac2NSQTd5MW1rM0JaYWtTVE1NODJxSENqS05QaXdQSDNYVG9nQVB6RnlN?oc=5",
+        "fonte": "Nitro News Brasil",
+        "data": "2026-10-24"
       }
     ],
     "siderurgia": [],
