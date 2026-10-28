@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-28T15:48:31+00:00",
+  "atualizadoEm": "2026-10-28T20:51:27+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,6 +24,12 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
+        "titulo": "Brasil reforça posição de fornecedor de alimentos de qualidade para o mundo durante a Sial Paris",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmRXd3Q2Y1l3dHk4aWoyMW1UZUYwQkptdjB5V0JEXy1oT0tQSG9ZYkRUdkxMVm5wTUVSaWxWWlBxVWdTVFN2WWFzYzYtQ3BGWUJyTnBOLWgyUTlIZVRrOS1OZTd2Yk5CUFRKUHdiVXFNeVcyYWpLenRkTHd2cE5nZUIyc1I3VUl4QmtpUHdWLVktWmJka3VRWVdfU3d4VFktS2pxTm1yQzVNeWlVQVlWRUhKVURwTDBlcnFRdFFOUVhaeGhib2FBaUQzT1VxRFkwVGx6Vg?oc=5",
+        "fonte": "Apex Brasil",
+        "data": "2026-10-26"
+      },
+      {
         "titulo": "Agronegócio é responsável por 60% da energia renovável do Brasil, aponta FGV",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzSGlacVRiaDlTS0RKQUdSMFlaUlJYMHlSaHM2R0FtVnlVTmN0QkNQY1Y4NS1pT05FZWY5VUd5bGFHcVNsZ242amtzRUxjcENraDdQMDRsYy1xdWlZRm9IRE54RlpEb1VuR21LNEcyRVhjV3Fmd3c?oc=5",
         "fonte": "Canal Solar",
@@ -34,12 +40,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGlVekdQaFRsZTBfTlpNLWs2UnFUY2wzbVptM2FrQS1mQzVXcFpycnRmMG1ZZFdKd2xVdGFQY19HdXJzdzdzT0dqWWdEN0tHQ0lvcUJuY2JaQmZ3dTJrN1ZTb1V4MXZHN1pCQU5lQjEwbVVfMXpjakZPN2JNUFZsTi1RNmFmeC13dkdXcUxPaWZBenY2N0ZZQmFEaTVqLVdOOFMtaTFqdUtRVmZlNkhueWZWUVNQTVQ0ZUpSWE5zQ1lidHVZSUFJMUVn?oc=5",
         "fonte": "Folha de S.Paulo",
         "data": "2026-10-25"
-      },
-      {
-        "titulo": "Brasil reforça posição de fornecedor de alimentos de qualidade para o mundo durante a Sial Paris",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPT29vVXFaaXhCbW0wNlZfWWp6Sm9pQi1XQnhHRWdONW9LRmlINTJQaHRySXFsRk01TkJiNmZJX3N6T3pHU2hKV2tlVjZQSlVFbHdOVUctakprUFRmVzQySUJlYnhCc0o1TFdNRjZvSGJpa1hwWVE4WTlPc1lQQ1MySDhQVC1oOTZLdGV5RW5LbVF5c0FwNHU0S1lrS1BIajB6TmhZbHNQLUJlYjdDT1dVdXF1QW0xd1RRWnBubzZBWkZ2VHlvQ3MtUWZBeVRlNTlZOGc?oc=5",
-        "fonte": "SBA1",
-        "data": "2026-10-26"
       }
     ],
     "automotivo": [
@@ -104,6 +104,12 @@ window.NEWS = {
     ],
     "comercio": [
       {
+        "titulo": "Gigantes do varejo movimentam mais de R$ 2,2 bilhões no Brasil e vacância dos galpões logísticos despenca para 5,5% em 2026",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR0JRM0JRT3gtbDZzWWdzVnVhcklSUm5kWURNQUVQNkY4VzhlNFFXYVZ6RlJNYkhNU3ZYUkdRcksyUERFR2IyUUt6a1h4T0RxQnVQODJIOGVPWV93dy1XQ3liYVJ4T3hUTXI2M3I5eHJBOG5HYWQ2YldNcGtLeHdSQlhsLWZtWXdMV0NncG4tU0Q3T2s5TlgzUnZIZEVHc0xVbVRMN3VEcGdldUEtNVNkZmgwSElVUzZrRmhjVW1KMnJydzVONW9jeFNRai1WRHZ2ZDZ4U2tBUmMxVks2eWZ4bC1pTQ?oc=5",
+        "fonte": "Confederação Nacional de Dirigentes Lojistas",
+        "data": "2026-10-23"
+      },
+      {
         "titulo": "Shopee inaugura 4 centros de distribuição e anuncia R$ 48 milhões em cupons na Black Friday e 11.11",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGhWb2NDWUpQYklYWFhtaVNKUTRjRXFBNm0yb0tZNko3Z1NadnMwVTVnWm1URE1paGo5V3VkczcxdTRaSnplOTIySnFmME9NOHZ2Y0FzUUtvbFJEaTZvV2szVG92Tkd3QzNlMGdFWlRzVVhvMkpqS3ZXQU1idnE0M2Y3Q1BDVVB5eHN0S2s4OFRrSGM0Y1BRbzFRdGxRM1p4SDdvWGlEN285Y0dHR1lKWG93a1pzTWJqZDB4bjFmQjNqTU1sZERVVml6S1kwdw?oc=5",
         "fonte": "Exame",
@@ -114,12 +120,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnlldVR0cldzS0pjZXJsRzNxb2Z1ZjJ4c0s5bW9ZTkxKd2l1YTNTM2tnOHRTMGFsUE0xQlJSbmZQM3hfcjM1d1ZaRGtzOUtNcTRBQ3UtWTdCYUpzcmFtLXd5OFhUa1lKNnJNTVNaVHphRDNyOHdZbUZ6OXkyV3NSSGRlZ1llMDc2UkJDMVpxWEJYaU9BVWRHc3F6b1pSTTEtdERCcHdWU19IdkFmakRXekFjWkRiUGxmZmM0djJZWnFyUDJsSGtRaVRVYVM1RWlHWHJ0YUtCMEQ?oc=5",
         "fonte": "Money Times",
         "data": "2026-10-27"
-      },
-      {
-        "titulo": "Shopee amplia capacidade em 60% e chega a 30 centros de distribuição no Brasil - Portal IN - Pompeu Vasconcelos",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkhTbTgyQ0kwUy1MQTNJYjlaNzQwTWRvNUZnZnFzODV5bGxvbGY3RHpKcEw5UmkzOS00OS1LVk1zeEx0X0toaWZqdHNRcExjS2gwS1I3SDNYX1RIMkVFNmlHZjJ2NFNnZjllX0FnaVprNTlpZVpwNHRRMUhkSXRMS3NHUkVyQ2s0akFOemlXaWFSM0dfbWZFUzRycWdyekpjV3RqeHh4Wm5ZRm1vUUdrSTI0SWJhUQ?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-10-28"
       }
     ],
     "energia-gt": [
@@ -225,16 +225,16 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
+        "titulo": "CNT defende navegação interior e ferrovias para equilibrar a matriz de transporte",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVNDZ3NRZVRhNE1XT2lITzF3QjgxcmRPUHl6SWZLcjJnNm43VnV0VG5nanBEak1BcklraXVyWFdxME54TzlPTVFOMDh0SUxkR1YtaWJZQkJqeUcwbXdzVGd6RHRrRE5sRHRlZC1lNWJkWmpVVDBLMVZLMUdEaERMLTFUcko0SzczcnoyX1d3aGR6MFpUZ0VTMHdlUC1HMHMzTFZrUm1EMFBsakNHQ0J0czJCQVFPOVlSd1l6REQ4SkhuZU4wRU91NjREMA?oc=5",
+        "fonte": "Confederação Nacional do Transporte - CNT",
+        "data": "2026-10-28"
+      },
+      {
         "titulo": "Setor portuário vê riscos à cadeia logística com saturação dos portos",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUZlTC1zejE0cjhxLUpPaF92ZkVzWkpNRnRBN0FmQklxYlloVXR1QnFNTkpmZVBnRHRiNldkekZRS00zNWxpNnZYdjdUeGZ5RUFieUJXaWVlVEt4V3NEU3gxTUVBVnJGZXV3WDN5cFhhQzhvT2duZ0EyUjB5ZGRuaEhkbzJwSkJFUmZ4anYwOUlxS1h3Tmpkc253anVuaEtIOGZqSHVLenI?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-26"
-      },
-      {
-        "titulo": "Logística é decisiva para a competitividade da mineração brasileira, diz José Carlos Martins",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZHBRN1BUR2xNcDIzLU1Jb0lodURjLWFyT0I4VFI4cWIxYzlycGdEVmpHV1cyOFVObXhNSmpwb2VFaGcyeUN6RkdqTmROVkE4MEEyanh4R0hJbTlrVFB0SGpoVEFBSW5HLWR0YmlCVDJwN0Nzd2J2TmlwV21rT3Q5V3hsXzNjM002VDVrOU9UTjVFdmRFSV9ka1R3OWlzM09BY0kySXRneEtYcXluZUpaNGFOX2FtZHJJSnlGMjJSYnJCZ04wRUQxbGp4TnBiWEFoeUdDd3E1UmIteWhNWFFN?oc=5",
-        "fonte": "Rádio Itatiaia",
-        "data": "2026-10-24"
       }
     ],
     "maquinas": [
@@ -259,10 +259,10 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Regulação forte dá previsibilidade ao investimento em minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObVJJM3VhZ3pzLWdNYmdXcDA0TE9CRTlULTc5dnVxSmdoSWZvalN6XzlGY29LbmVzOWRvOEpZUnN5SnZRVEhQTEgzNXhkcGZpbEl1Q0hVQ0tsTm9US09qX1p3UW1lZUd6QkRiRDFjeXBOX3owZFYzNVBFY19kcTF2Z0Fvc0RUbnkzZkNUa1A4Y191U2RyWEJ6Y2VmOFFvT1RSbkMzdjZiTkI3OGFfcm9ZaE5UMzR4bzl1Q1E?oc=5",
-        "fonte": "GOV.BR",
-        "data": "2026-10-21"
+        "titulo": "Lula 4: o que muda para o setor de minerais críticos após a reeleição",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTRlYnhOSE9YRXRoMGlTSUp0dmVaNVROY2s4MGhUdDhuWlpLTDNDa0JZLXRibThNMUlzS1RLczAwcF9qLTVqalhqY3NBMFQyTncwc0R3Ylo1U3JxM09LbkVsb19QVHExMExnVjliYzZNOUl5SnVMMlFVajg0WGVoNG5yOHdId3d0V1NmVFRiRDRuM195YVFybUVVTjczc1FFRm11cUUxVQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-26"
       },
       {
         "titulo": "Minerais críticos: 'Brasil deve negociar com todos', diz CEO da Anglo American no Brasil",
@@ -271,13 +271,19 @@ window.NEWS = {
         "data": "2026-10-27"
       },
       {
-        "titulo": "Lula 4: o que muda para o setor de minerais críticos após a reeleição",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTRlYnhOSE9YRXRoMGlTSUp0dmVaNVROY2s4MGhUdDhuWlpLTDNDa0JZLXRibThNMUlzS1RLczAwcF9qLTVqalhqY3NBMFQyTncwc0R3Ylo1U3JxM09LbkVsb19QVHExMExnVjliYzZNOUl5SnVMMlFVajg0WGVoNG5yOHdId3d0V1NmVFRiRDRuM195YVFybUVVTjczc1FFRm11cUUxVQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-26"
+        "titulo": "Brasil deve ‘negociar com todos’ em minerais críticos, diz Anglo",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2pzeE84d3lEQnZWeTJ1TExKTGZWWkxoLU1oV0Nrd3lfN0U4TFJDbEVWNVRUNlNfNzdhWG1lZHVoNHdtWmVoOWNPYmZCaEpwTnBsNTh5MVptQUV1bHdqSzF6UG1DNHlrX0E1cnp5cEZDSklaYXY3aGpjNGM1bVhxRjNhcVJEdGNVWkR3U24zODdVWXVLQVdGb0h3Y0VxVnNudDdj0gGjAUFVX3lxTE1fanN4Tzh3eURCdlZ5MnVMTEpMZlZaTGgtTWhXQ2t3eV83RThMUkNsRVY1VFQ2U183N2FYbWVkdWg0d21aZWg5Y09iZkJoSnBOcGw1OHkxWm1BRXVsd2pLMXpQbUM0eWtfQTVyenlwRkNKSVphdjdoamM0YzVtWHFGM2FxUkR0Y1VaRHdTbjM4N1VZdUtBV0ZvSHdjRXFWc250N2M?oc=5",
+        "fonte": "InvestNews",
+        "data": "2026-10-27"
       }
     ],
     "papel-celulose": [
+      {
+        "titulo": "Klabin acelera investimentos, mas lucro cai no trimestre com aumento de custos",
+        "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZdXo4bTZIYzVBTXY1Y2ZyX21sNU9aQnhsQ0ZkcGotZUhaRXdfZlR6c2RDeThBWHJkaTZsd01LY1dLYmN5MFpodng3ZGsySHM?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-10-28"
+      },
       {
         "titulo": "Carteira Lula: quais ações e investimentos podem ganhar com a reeleição do presidente?",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbUN4cWZpVzZTOERNRURCbm5JbE9ubHZzbGxmODdsMmFjUUtRMzFnak9JWjJ3VmlJMnY1YU1VMnRuaG5tZDF6WHhlUTRybVFWb05wbzFUdmdodEhnTXBUMndzWS1QSGlzYjFsSklkTWVmQWhaMHo1THltVGR0OUx1Y201TmUyUmhWbFJJcTB6Y1hvMzNmZTd3QkV2eXJyMC1yNE0tRExNOF80bktPLVFEV2NMS1F6VTlKRWRyMnlyMUFJd2xuR2lHYlZWYWRwTWhzbU1XMk5vWUs1YUtZa3lEVmpWQV8td3BrUnVFNUliTjk1bWd4SFpFZGFn0gGIAkFVX3lxTE8tWFk3M2RPaGozNHd5cU9IZVFUY2E0WVVCRGprMVlXaU94YmhzNGRaVGZVTkprYVBvYTZmVUhBTVZ6RmJodWM3RGtKSTR2UTI5S1VBRFEwREZ5R1NXalhYTGZfUmdkZGVSOC1pS0c5VU5YOW9hMmhSN3VpUkhCUE1NVkdlbHUyZWdITkw4VTZrWl9xUFlpZS1OTmJmcjJKN08yS3lzcXhkUmVnMlZ5M21zeFYzUHhteDNlWTBPU2lnVl9FWEs4azRDbEVyQUp5LWpTX00tQTBSV1d3MWE2SkVhbXg4Y3JGeUxsNFM3eS1jTmMzcHZkdFhIZzJSUFh2N0FvQWNoampVNQ?oc=5",
@@ -289,12 +295,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNHVEZEx6cXROVVJaQjBnLTFzMmZqSmRjNXc5V2F5azh4NjRUOUxxMTMweFdfYUU4eVhXT0NZRXIxblY0LWJfWHBVR2JnZVFIVlRxMGVid2pZc2QxZ095bE4tYVlUc0g1SU0yMVF2bm0yQm0tSmlIUFAtQUxxTzVJd1RoV1ZDdThsZUFrRnNWSkRWOVNHRWhCeEdGZi1JTGFJb29La3lUOVpYRFVOSk44YmkwdHFqQUMtdWI4aHBYN1Eya2ZZY0dtQi1aQUd5Zw?oc=5",
         "fonte": "Portal Packaging",
         "data": "2026-10-22"
-      },
-      {
-        "titulo": "Leite entrega licença para diretor da CMPC e celebra avanço na instalação de fábrica",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPOTJ0Ry1jaS03LXN0REljY1dGdTI1Uzh4dE5RT0FIU3FkZ3ZieG4weElKQ3dVck5DS1NVc0o3TWhUTFZDc25SUjNLcVZqTHpvRGZKZFZWUjN1TDZQc1Nhb1JGLWYyTEtLLW1BZlN2WTYzX3E5X0h5bjRkdkJ5ckJqaDVJZkx1RFJCV1dzSVQzYmx2Sjk4dU1DX1BjVm5salRBQWdyOTNIV0pjekhBdEZOTkJtd3Z3c2FGaXhUZ1pzdW52OVEtYmFLMHpKYXRXTW1mYWl3?oc=5",
-        "fonte": "Sul 21",
-        "data": "2026-10-23"
       }
     ],
     "quimica": [
@@ -319,13 +319,20 @@ window.NEWS = {
         "data": "2026-10-23"
       },
       {
-        "titulo": "A concessão que redesenhou a água do Sertão",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOM2dyb2ZqaFppbnRzaWVZVDNINkNidWJDOHp0NlFqUHE1dzN3MzdVMERuNV9XWHJLTE4zUFpsZk5hY3lDYThfdEtmSWdtSDhSMUpRTDNSVWhQbEdhMmVJWllvTG9YcUFrOTU3b0ZPejZrd2RUSENxZW5VUGF1a1BaQ0NGVW15TzMzYm1Ib3RWcjBYM0dYbzg5SkpYR21JMTA?oc=5",
-        "fonte": "Correio Notícia",
+        "titulo": "Águas do Paraná vence leilão para sistema de abastecimento integrado da Sanepar",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQem8zY0J0WHZWX3pENzhNdWo4c0Y3VVZIaGdfRkNQT21qMUN4djhIYlZxX2h0MjJnSjJoOVprbWg4eXNLQzk2TUgyc1E4RnIyd1hfV1Z1ZW51ZlBSeUJxQVZLOC1qbTl1WWJIaDdDOXZhZ1lXVTQxV0QwU1ZWUHFqcWRaOVVjQ1g2LTRfbXYtUl9odFdDZFhVemh6dVJVcDVWRXB5UzNFZEpnZC1qcm5VOA?oc=5",
+        "fonte": "Band News FM Curitiba",
         "data": "2026-10-28"
       }
     ],
-    "siderurgia": [],
+    "siderurgia": [
+      {
+        "titulo": "Gerdau vê energia e data centers sustentarem demanda por aço nos EUA",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRE1BVURDRng2MThtVnhoWWszZjZteEJ0ajVDN0VjR0x5bjNrcWxGZ0Y5MXRqemV0WDBPQ3o2bDlPMS1CTFV6UVYwQkpDdUlINWQ2ZXpKcWZPZWRRRERTWjJ3NGNOcHV3VTRlVFpJRkhCbUo2TEh2eDdUYUp3QW1WeldFb3dJaWNvM3laa25Semx3Y0F3MmFDdU1SLVRDUjM4aEpLSjJybjFYV3JENWRndHZhYXVrZFVuZy1HNGdYZXBoX3FZ?oc=5",
+        "fonte": "MegaWhat",
+        "data": "2026-10-28"
+      }
+    ],
     "odontologia": []
   }
 };
