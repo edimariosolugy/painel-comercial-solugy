@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-28T20:51:27+00:00",
+  "atualizadoEm": "2026-10-29T00:39:51+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,12 +24,6 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Brasil reforça posição de fornecedor de alimentos de qualidade para o mundo durante a Sial Paris",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmRXd3Q2Y1l3dHk4aWoyMW1UZUYwQkptdjB5V0JEXy1oT0tQSG9ZYkRUdkxMVm5wTUVSaWxWWlBxVWdTVFN2WWFzYzYtQ3BGWUJyTnBOLWgyUTlIZVRrOS1OZTd2Yk5CUFRKUHdiVXFNeVcyYWpLenRkTHd2cE5nZUIyc1I3VUl4QmtpUHdWLVktWmJka3VRWVdfU3d4VFktS2pxTm1yQzVNeWlVQVlWRUhKVURwTDBlcnFRdFFOUVhaeGhib2FBaUQzT1VxRFkwVGx6Vg?oc=5",
-        "fonte": "Apex Brasil",
-        "data": "2026-10-26"
-      },
-      {
         "titulo": "Agronegócio é responsável por 60% da energia renovável do Brasil, aponta FGV",
         "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzSGlacVRiaDlTS0RKQUdSMFlaUlJYMHlSaHM2R0FtVnlVTmN0QkNQY1Y4NS1pT05FZWY5VUd5bGFHcVNsZ242amtzRUxjcENraDdQMDRsYy1xdWlZRm9IRE54RlpEb1VuR21LNEcyRVhjV3Fmd3c?oc=5",
         "fonte": "Canal Solar",
@@ -40,6 +34,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGlVekdQaFRsZTBfTlpNLWs2UnFUY2wzbVptM2FrQS1mQzVXcFpycnRmMG1ZZFdKd2xVdGFQY19HdXJzdzdzT0dqWWdEN0tHQ0lvcUJuY2JaQmZ3dTJrN1ZTb1V4MXZHN1pCQU5lQjEwbVVfMXpjakZPN2JNUFZsTi1RNmFmeC13dkdXcUxPaWZBenY2N0ZZQmFEaTVqLVdOOFMtaTFqdUtRVmZlNkhueWZWUVNQTVQ0ZUpSWE5zQ1lidHVZSUFJMUVn?oc=5",
         "fonte": "Folha de S.Paulo",
         "data": "2026-10-25"
+      },
+      {
+        "titulo": "Mercado sem glúten impulsiona investimentos no Paraná",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQS2FiS1RoWjNKbFRDbVBoWHcxRHNMRWczMHdWMnVmMDJRMTZyMmlDS2J1Z1JBWFRUaFl3NlY4Um9vZE5iNllWMDU4cXRuWW8yempHQ0ZfbC1DQ1p6MEJ0NENReGdqeFAweG5ySmN6VkJqTVVTOHp3QWhzd3UzOXVLYm9XZnJ1RzVUYkQ1SEx3?oc=5",
+        "fonte": "Band News FM Curitiba",
+        "data": "2026-10-28"
       }
     ],
     "automotivo": [
@@ -116,24 +116,24 @@ window.NEWS = {
         "data": "2026-10-27"
       },
       {
-        "titulo": "Shopee turbina logística e prepara R$ 48 milhões em cupons para fisgar clientes no 11.11 e na Black Friday",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnlldVR0cldzS0pjZXJsRzNxb2Z1ZjJ4c0s5bW9ZTkxKd2l1YTNTM2tnOHRTMGFsUE0xQlJSbmZQM3hfcjM1d1ZaRGtzOUtNcTRBQ3UtWTdCYUpzcmFtLXd5OFhUa1lKNnJNTVNaVHphRDNyOHdZbUZ6OXkyV3NSSGRlZ1llMDc2UkJDMVpxWEJYaU9BVWRHc3F6b1pSTTEtdERCcHdWU19IdkFmakRXekFjWkRiUGxmZmM0djJZWnFyUDJsSGtRaVRVYVM1RWlHWHJ0YUtCMEQ?oc=5",
-        "fonte": "Money Times",
-        "data": "2026-10-27"
+        "titulo": "Shopee amplia capacidade em 60% e chega a 30 centros de distribuição no Brasil - Portal IN - Pompeu Vasconcelos",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkhTbTgyQ0kwUy1MQTNJYjlaNzQwTWRvNUZnZnFzODV5bGxvbGY3RHpKcEw5UmkzOS00OS1LVk1zeEx0X0toaWZqdHNRcExjS2gwS1I3SDNYX1RIMkVFNmlHZjJ2NFNnZjllX0FnaVprNTlpZVpwNHRRMUhkSXRMS3NHUkVyQ2s0akFOemlXaWFSM0dfbWZFUzRycWdyekpjV3RqeHh4Wm5ZRm1vUUdrSTI0SWJhUQ?oc=5",
+        "fonte": "Balada IN",
+        "data": "2026-10-28"
       }
     ],
     "energia-gt": [
-      {
-        "titulo": "ANEEL realiza novo leilão de transmissão nesta semana",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRRnlLX0M4RmdPWHpwcVdodE9LUVJ0OXAtblJuR1lFZEQzWHdYa0JMM0lpd0d1UW5CZVpTNnRNZ1V2Z1lIbjN3TTExbERiNlBxZExXZkE5bHlCcURvOHZKc3U5bEx3SnhSX0JuakR5N2pRdFF0VThZ?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-10-26"
-      },
       {
         "titulo": "Leilão de transmissão terá oito lotes e R$ 8,9 bi em investimento",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1o0elczTk1ZcGRTVlJXYXVNd0ZOcERSaGxOYVlOWG1WVGUzNVpmbTR5QVladmpJeERXMHE5em9QWlVrc3I3SmhBWURUNkZNemNWRkJxckVlcjVYNEVXcTBNSlpicHZsYldYT2NRYWtlN3dBYzY0cmxGcDY2MVVaMC04ZUJqUkNJSjYwSEpmSFRudGlrbjZXZWZwOXcxY3ZXQmdLSS11Mk1WSkNwa0VkVGRTeU1KWGUtYjh1aUFB0gHMAUFVX3lxTE5kWmluSDNxSGpZcFVUNDhqb3dwQXJUMGktSWRJT0xFem1KNzhVOGhnOXV6ajdZejg4eURCUDFQazdGRU9QLVdQbVB3aVhHQVM5TGZ1eE9LZmNBTmJkdGVZYXI4Z1ZqSkluNVZrd0QwSzgxeTJaM3I4Znd6M21CSnBlUXMzcTN1cXpqRmJZaXJlNHhETXdmMGJLazIyOEthZVl1QWs3VWZwdC1rODRHeV9EMVEzSmdyZ0t1b0t6M1F3Wkd0eGV5X2VFQlV2eg?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-10-28"
+      },
+      {
+        "titulo": "ANEEL realiza novo leilão de transmissão nesta semana",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRRnlLX0M4RmdPWHpwcVdodE9LUVJ0OXAtblJuR1lFZEQzWHdYa0JMM0lpd0d1UW5CZVpTNnRNZ1V2Z1lIbjN3TTExbERiNlBxZExXZkE5bHlCcURvOHZKc3U5bEx3SnhSX0JuakR5N2pRdFF0VThZ?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-10-26"
       },
       {
         "titulo": "Leilão de transmissão nº 4/2026 de 2026 será realizado na próxima sexta-feira (30/10)",
@@ -199,12 +199,6 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Horse inaugura nova linha industrial com investimento de R$ 200 milhões em São José dos Pinhais",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOGRRMmVRelF0YWF6aFVKcm80UnRjTVF4Y0tKWUFvQXFDZjdpY3pJWWczMGNJRE12bE1pSWlzcEhZSVkxMktmamE5ajB6T3dSejdmU3Y0QUtveXZVVF9UbV84UVJfbm5WNDBxd1hMYUJIb1lmWXlOdzk4RFktYkgyd0NYYnp2N2d3ZWd5MF9KbWFlVk1xNGdBbE5vLTFCRzNQTm9CcktzUk5qdVJBOUw5bzdaZHRoQ3ZjLUVOSTRR?oc=5",
-        "fonte": "Prefeitura de São José dos Pinhais - PR",
-        "data": "2026-10-22"
-      },
-      {
         "titulo": "Governo do Estado entrega Licença Prévia para o Projeto Natureza, da CMPC, em Barra do Ribeiro",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2xtYlBQZ1RDU1lqOUp5a3VhMl94Q2VyLWFRYmwyMTBIckF3LXdwYkwxT2J6TDN6cHBjbC1RZTBlc3hiU0RVeUY0MHJpM19yaUFlYkl1eU9JWi1oT1BKSDEzLUdyU1IyZUwwcnJzQmp2a1gzMXlQZE1RMVB0cDFYNFowTzlUMTJJLWF0T1RoUGg1MHlGaE1ULTRtUUkzUzhYNWhUNzctNUxOQVdpMnd4djhCTVh3NGM0?oc=5",
         "fonte": "Portal do Estado do Rio Grande do Sul",
@@ -215,6 +209,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbF8xbWpxZVlxTE95LWdrcjNIUzRUd2lUc0s5bTFKWmFVMGpCQ2ZNM1FNYzVsUFJGcWhnU3NyNFZScE8tQndaNzNYMV9uT2czRC12dTNuX09MVlVUVDBoOGZoXy14THM4SnRUZk1DdnptTTJrUEdmNVFTYUNxNHIyWUlIdENIX2xWbm50aGl6WjZwbS13QTQwSk5Ba1U5MFdZQUpTWXNlYnJZRW1RUkZJR25Rd2l6Q2xmYjBzTkl2ZDRLbWZS?oc=5",
         "fonte": "AgFeed",
         "data": "2026-10-23"
+      },
+      {
+        "titulo": "Suframa conhece investimentos da Diebold Nixdorf em inovação e produtividade no PIM",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYnpsampuOGhtWThlOWFWZmdSNGRkRHFoNlpIcHMyMWZZSmVyLXAwSng4ODMyR3gxcjVvUjVqX3YyZVA0Yzd2SzRHSmdfR1ZfN1hoc0dzWTVkc2RkTmc5MFpSMXN4TndtaktCWENCOHpoZzZ6YUVOMHdiRWEzcTk5S3FiRUNaU1d5cEo3dnRNZFphVC1xb3cwR1BEWTkyWnJjeDdWZzhPRFVXcXVWWVJjU3VfNEIwTERHbElMV0cwUXpVYXBQTnFsclgtcjlhVGc?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-10-26"
       }
     ],
     "logistica": [
@@ -245,16 +245,16 @@ window.NEWS = {
         "data": "2026-10-27"
       },
       {
+        "titulo": "Desafios do próximo governo para a indústria brasileira",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRllfenc3XzFhSUQ2Y2lQMjQ3V29sZ09PY21mcUZIMGVBLTFLUzZHanpFclFSMGRWRmE0Y0pjVmd1NnB5ZndLZTJ2a3ZYaXhZdVJ4MGlobzdQbEtxdTZWV2pMSUdEUms2ZWYxMGlLbXNFcWhOZjVIeU9hQVRPUWZjd1FJTW8zY3EtZW5WYWpR?oc=5",
+        "fonte": "Folha da Vila Prudente",
+        "data": "2026-10-24"
+      },
+      {
         "titulo": "Investimentos verdes avançam no Brasil, mas capital segue concentrado no mundo",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGdLcm92OXJDcjEydTY3ZDNLNlNSNERKLWF5eWRWaFNxZW5EUXJ4d1E1YUllUkpyNThSNHZFSUYtVi1FOENuLUJkeGkwTTFCaldiSnBJRUtQN1p0OFpGbFg4S0pOZTZLMEZOTmNNcFlEY3ZIV1hnWGdWeTJDYS02V2VtSXNwTEZ0Z05BYWd1ZElrQ3J2dmtoOGRvS1hBSE9wWVlEODl0bHJmZFB0V1RYWTM2Vk92bVFpSm9PYjlNVE04NGo0eE1GT3E5YkFOQQ?oc=5",
         "fonte": "Agência eixos",
         "data": "2026-10-27"
-      },
-      {
-        "titulo": "Brasil despenca do 28º para o 62º lugar em ranking de crescimento da indústria",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTGlVekdQaFRsZTBfTlpNLWs2UnFUY2wzbVptM2FrQS1mQzVXcFpycnRmMG1ZZFdKd2xVdGFQY19HdXJzdzdzT0dqWWdEN0tHQ0lvcUJuY2JaQmZ3dTJrN1ZTb1V4MXZHN1pCQU5lQjEwbVVfMXpjakZPN2JNUFZsTi1RNmFmeC13dkdXcUxPaWZBenY2N0ZZQmFEaTVqLVdOOFMtaTFqdUtRVmZlNkhueWZWUVNQTVQ0ZUpSWE5zQ1lidHVZSUFJMUVn?oc=5",
-        "fonte": "Folha de S.Paulo",
-        "data": "2026-10-25"
       }
     ],
     "mineracao": [
