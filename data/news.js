@@ -1,8 +1,14 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-29T15:56:07+00:00",
+  "atualizadoEm": "2026-10-29T20:57:31+00:00",
   "itens": {
     "agronegocio": [
+      {
+        "titulo": "Lucas do Rio Verde entra no radar de investimentos de gigante americana ligada ao agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNUGRBRkZCY2s2R2p4TWtvblRtZ2Zpa25jdncxQy1PY0R0V3JMREdldzJXVEVUSF80V1FIdEMtdE9xNExiV2pjcVNuZU5FeHFZenRqaXZCTm5BcXpTdnNNeDlGa2U4NWZEWGd6YUk0bExrNTkzWjdXcEtFQ1J6bDktUk9HQ0F5TURSZENnMVozbVhDQW4wNHRhMHl4bEplQW52ek1xM0ZmbEljS1dIR1YwQ2VvbEtKeFZBOEw0eVdLbXk3eDg2cm9mQmlxMlVGUFFxOUFmcXVYX0tFMWdXbGhsaA?oc=5",
+        "fonte": "Prefeitura de Lucas do Rio Verde",
+        "data": "2026-10-29"
+      },
       {
         "titulo": "Checagem BP: Lula aumentou investimento no Agro, mas governo criou entraves",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONm8wc25TZzdkaHEyOW1mbGZ2ZDViVFFrdkhZb2dIWF81VFQtc0c4T0hRWWZSVngyZjdxcHI3NFR0LUMxbTFKcW04Z0JDeU91SkptS0NGMXFYeV9RY3ZsdHdodHpYc3JoR0R5dnhLNWNvT0RiTFRPQTZBREJSUnpmRjZuU2Uxbnkzd20yYXdoM2ZoRVpZcjVocnhhZVo?oc=5",
@@ -14,12 +20,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3BTUDRxa0g0UzlBdkJjU0ZBUkIwVF9CXzNtb1JzUlpyVGIyck1MQW5CTWJpYm9zTmFQUlo4TGQwcGVsSnlsZENVd3ZXT3dWZFcyMlcyazZEX3lUUncydWxndmR1SmYyUURCNW1mNEVGbmZ5N3RQaEpacU85MVNwNTdMTS1SdERoVUhxNlZyMF9GMlJfWWRiUUUyYkhDaWR4VENZYmNWSVRNdm03SFRBTkpsSnBLLTFpUlJibXhjc2RtbWF1aE55d21SRE1oZUk?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-26"
-      },
-      {
-        "titulo": "O Brasil é uma potência do agronegócio. Então por que investir nas empresas do setor pode ser uma armadilha?",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRVNQNFJMMjNVLWdsZzdIWmRLOEE4RTZqQVdVZzV0Ui0wTHpCR1B6WElhTEhlRDFvNjBTZFBzUnA4TWNldGMta3pBUTVfaTlBUTUtMDJHTWdwOUQ2Y0VQZGE2dlhMa29IaV9VMy1TUjFyUng0VVZtakllLTFrbUJRVksxTlN5ZjVzNHRpbjI2LWRnVDVZSC1URzh6WkhUaGdEbk1VM0J2MmdGejktc1NSSGVZY1dPcURZYlRLU1NQTmNGc0Q5ZU1iR0I4OV8?oc=5",
-        "fonte": "O Petróleo",
-        "data": "2026-10-23"
       }
     ],
     "alimentos-bebidas": [
@@ -44,6 +44,12 @@ window.NEWS = {
     ],
     "automotivo": [
       {
+        "titulo": "Paula Gama: Domínio das montadoras chinesas? Como fica indústria com reeleição de Lula",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZEZmQU8zR3hJMTlndDNWM09VSGVWOXY1U2JaNEo5T0YwSlBqYURNS29kQkRGMXdRZjNzVnBuS3F4Wk1QZmJXd0ktSmtDbU9FRnpfZUpQY0xxM0tKTzZtZTNGZ0pmVVhxTWxjSkRsakp2VFRUdjV4YVdSeWVoU2Y3VmlQdElyZU9LN2xjZ0RiOXVCa1Y2VEtQdDBhTE5Ma0RjSVFRM3Ffckw4djJhNWpGZTItbzRwT3J3R1lxSWx5Vy1GSmNYQXhOSk9Yb3hmZU0?oc=5",
+        "fonte": "UOL",
+        "data": "2026-10-29"
+      },
+      {
         "titulo": "Maior montadora fecha fábrica no Brasil com 1,5 mil",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40SDBGYmtnREtRRGpGaTVRTmFwd3p3R0h4Q3pwTE9WaUVzNEx2b3RTZVVBYnpZZ3ZpUS1tTV82LXJEa1RPdlQ3Sm93OV9jdXZ6ZmR6Sm1KTmUtbkFiMVJhUVgwZkpXdTVHTlgtVW51ckhwS2YyWjBEejlB?oc=5",
         "fonte": "Acia Araçatuba",
@@ -54,12 +60,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSlRvTEJjUG5DMHFyQzlocmtFNE01ZzlZakdsR29vUDJWNzl1NDRkaXBvbEJJeS1SR1BHU0dua1FxV0FmcFA3SGw2X0NKRXNpcFV2S0dsTkRHem9WZ1VxLVFqSVN1eElUOHp4Y1BQYWVjX2o0VXBKa2FJNmNFMVhvam13S2RSdkhWN29adUhZUQ?oc=5",
         "fonte": "Economic News Brasil",
         "data": "2026-10-23"
-      },
-      {
-        "titulo": "Tailândia alerta o Brasil: carros chineses podem ameaçar empregos e fábricas",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOWVE0dFJEakNJc01sTURMLXVrcU9SUXJUS1A5Yk5fUVJpaEx5ejZ6LWJLcU1WZEVFTHNMVE5uX0FjdzUtS1NWclhkT090cmJUN3UwSWhBZFRYRUVVb2UzemI4WjVEMi0ycE5mTkxDS2NWUjZEb3VpbnpnbnF4c0tfbUFNY0J6bGp1bmlGR3JCSHNNRE1OWV9jZjBPLTJsdEJfTHRSRg?oc=5",
-        "fonte": "Ver-o-Fato",
-        "data": "2026-10-22"
       }
     ],
     "bioenergia": [
@@ -104,12 +104,6 @@ window.NEWS = {
     ],
     "comercio": [
       {
-        "titulo": "Gigantes do varejo movimentam mais de R$ 2,2 bilhões no Brasil e vacância dos galpões logísticos despenca para 5,5% em 2026",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR0JRM0JRT3gtbDZzWWdzVnVhcklSUm5kWURNQUVQNkY4VzhlNFFXYVZ6RlJNYkhNU3ZYUkdRcksyUERFR2IyUUt6a1h4T0RxQnVQODJIOGVPWV93dy1XQ3liYVJ4T3hUTXI2M3I5eHJBOG5HYWQ2YldNcGtLeHdSQlhsLWZtWXdMV0NncG4tU0Q3T2s5TlgzUnZIZEVHc0xVbVRMN3VEcGdldUEtNVNkZmgwSElVUzZrRmhjVW1KMnJydzVONW9jeFNRai1WRHZ2ZDZ4U2tBUmMxVks2eWZ4bC1pTQ?oc=5",
-        "fonte": "Confederação Nacional de Dirigentes Lojistas",
-        "data": "2026-10-23"
-      },
-      {
         "titulo": "Chile mira mercado brasileiro para ampliar exportações e atrair investimentos",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbzRLMmNaUWdxUEtucnA2V2xYQUFCUjFzdUhfT3BkSmVLeC1ldlI3TzFkVzlkT2g5NGw5amVxWVdRWlFfbDNKYTFNalR3S1FmUkpyMXA0UjlkWDFQOEJkNE5SR2E4RlZ2MEtMTjFPYUFZYzU0dFVmV2NxWXJza3ZXMEpPV3ZaMWF3YmhWM1ZjXzRjZ015ZElFaW0zRnR4UHFITkpqTGFsR2piRE9Fa3JlSg?oc=5",
         "fonte": "FecomercioSP",
@@ -120,6 +114,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGhWb2NDWUpQYklYWFhtaVNKUTRjRXFBNm0yb0tZNko3Z1NadnMwVTVnWm1URE1paGo5V3VkczcxdTRaSnplOTIySnFmME9NOHZ2Y0FzUUtvbFJEaTZvV2szVG92Tkd3QzNlMGdFWlRzVVhvMkpqS3ZXQU1idnE0M2Y3Q1BDVVB5eHN0S2s4OFRrSGM0Y1BRbzFRdGxRM1p4SDdvWGlEN285Y0dHR1lKWG93a1pzTWJqZDB4bjFmQjNqTU1sZERVVml6S1kwdw?oc=5",
         "fonte": "Exame",
         "data": "2026-10-27"
+      },
+      {
+        "titulo": "Shopee amplia capacidade em 60% e chega a 30 centros de distribuição no Brasil - Portal IN - Pompeu Vasconcelos",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkhTbTgyQ0kwUy1MQTNJYjlaNzQwTWRvNUZnZnFzODV5bGxvbGY3RHpKcEw5UmkzOS00OS1LVk1zeEx0X0toaWZqdHNRcExjS2gwS1I3SDNYX1RIMkVFNmlHZjJ2NFNnZjllX0FnaVprNTlpZVpwNHRRMUhkSXRMS3NHUkVyQ2s0akFOemlXaWFSM0dfbWZFUzRycWdyekpjV3RqeHh4Wm5ZRm1vUUdrSTI0SWJhUQ?oc=5",
+        "fonte": "Balada IN",
+        "data": "2026-10-28"
       }
     ],
     "energia-gt": [
@@ -136,10 +136,10 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Leilão de transmissão nº 4/2026 de 2026 será realizado na próxima sexta-feira (30/10)",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPRGJSbnVuaG5KeWVZQ1MwVnY3QlpEOEhBb0pkRU52QllKdDJscnJRYkR4MkY0cm1wV3hLNFdYVEdFbklrcWdPT0NTaF85dFl0UUR5bG1lX1FIVXZ2TFBJZTJ4OHppY1ItRGU5QWJIUUNzU0hjODdzaEFESWhtQmtXUDN4YzBZRTNYbW5NRnFXSjktekdsRGNDUXo2ejF4NWZCYmlWWHVhOE5KQW9NY002TmI3bVQyM0ZvcEc2cHhJUF9FNDBKZmI1SmJBSEFvQVJjOWo4?oc=5",
-        "fonte": "GOV.BR",
-        "data": "2026-10-26"
+        "titulo": "Leilões de transmissão de 2027 no Brasil podem atrair mais de R$40 bilhões em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVmUtOVpqSGhNcnNKLU9lLW1pY2tCTk00aG5NVjl0b2EtNlYtbmdweENvTE9peU1zV1RUaVdBX2xfREFMM3N3Q2EtZXdTZklGWHhHZkVVbjFmWFBfWm1jNUk4eWFPaWt3aEJYWWxZeFJHRWZOZm1pZWhYd0lLRHlWU2QxckxqbHkta2c3dUc0UENGY0F5T1pkRFdDQzZtWl9RcEpoa3doZDA1dTVQODJibTRmNVdzNFJ1QkE?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-27"
       }
     ],
     "solar": [
@@ -178,16 +178,16 @@ window.NEWS = {
         "data": "2026-10-28"
       },
       {
+        "titulo": "Mercado de medicamentos para emagrecer pode movimentar US$ 22 bilhões até 2035 no Brasil, China e Índia",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZWdaQ0hEWXZQWnA4ZzRub2N0LU1VZ2t3eGJwaUpUeDI2TkllYXBDMjdWbHFUV1NtbjJEQ2VFM3ZmenQ0RXN1LVJDYzFJenRQOXNFYm14Uk8zd2J3YjFNZnJMRHk4cmdvbUsyazBlemFwdUxhOUxxTjZibDJqUW0tbzN1dzdZa3ZGX0lhTEFJd1ZZVGc1dlZUUmdpZzlETV9kLTNiVXAySFhtZmRVV191c2hiNFVBYmc1S0lMbjZyazdyQXlISEluRXZZMWpOQ3hhbTlxU2R3?oc=5",
+        "fonte": "Balada IN",
+        "data": "2026-10-23"
+      },
+      {
         "titulo": "Brasil amplia presença na produção de medicamentos estratégicos",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGNGR2pjZUt2M1JLdVUtZno3bnhwbEUtVVBDNG9OWW1md0tDLXhwYVZ6Zl9xSlZtVnpZRWNTQ0J6S1I2NUQ1RFNuM2NaTW9sU0tObnZfYk54N1p2d01SV2FZYlkzSVpnVTdicFJoWDY2SGdPdTZFR01yZ2Yxc0Y0c01STzlMdGtXbFhIWW1rSGIyWUp4ckhlTHpRMEZjWlg0ZExHMUtRMjIydVdMeDRnZXhQb0Rkd0oyYjFmTTQxdw?oc=5",
         "fonte": "Panorama Farmacêutico",
         "data": "2026-10-27"
-      },
-      {
-        "titulo": "Lula x Flávio Bolsonaro: o que cada um propõe para a saúde e o SUS?",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRV9jWE83cEdKbmJLemotMm9XTS1taXJpUHZUN0lQLVM1QldHTy1SVC1zelkyeE1sZnhBYVN4clZQMVlPVFVFLWQtV2tqNnlQVGo5Xzc2V1RYZTZacGFQVGx6Vmk1dVdzM1cwSnZWbHpmanFmOG1OU2ZlcldxV2JTWmFMeHFsOEJBY18zYjAzRk5ObjAtM2c?oc=5",
-        "fonte": "Exame",
-        "data": "2026-10-26"
       }
     ],
     "fertilizantes": [],
@@ -213,6 +213,12 @@ window.NEWS = {
     ],
     "logistica": [
       {
+        "titulo": "Espírito Santo pode atrair R$ 5 bi em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1lsOFd5ZkF3UXdlSnIzTjhRVDllSUs3MEhfblZYR1lPX19LM3dRRnRhTThCMkRFREMtenV4NHZZdGZ5MmFlalM2UkNlZU01Z3lYbVM2MVVMNnMtdEFOQ2dxVDdyWWxCSmk2bjI1MVQ3X0wyRF8wa3FjajJfcXZNcllfTmhFZENub29VdUF4czZpWWRj?oc=5",
+        "fonte": "Mundo Logística",
+        "data": "2026-10-26"
+      },
+      {
         "titulo": "CNT defende navegação interior e ferrovias para equilibrar a matriz de transporte",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMVNDZ3NRZVRhNE1XT2lITzF3QjgxcmRPUHl6SWZLcjJnNm43VnV0VG5nanBEak1BcklraXVyWFdxME54TzlPTVFOMDh0SUxkR1YtaWJZQkJqeUcwbXdzVGd6RHRrRE5sRHRlZC1lNWJkWmpVVDBLMVZLMUdEaERMLTFUcko0SzczcnoyX1d3aGR6MFpUZ0VTMHdlUC1HMHMzTFZrUm1EMFBsakNHQ0J0czJCQVFPOVlSd1l6REQ4SkhuZU4wRU91NjREMA?oc=5",
         "fonte": "Confederação Nacional do Transporte - CNT",
@@ -223,12 +229,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxQdGZ1SHE2ckdDbmtEYjUwVEZKb1A3QTl4OXcyeUpRVkZMUG5BYUw3REZNQXlmaC1JNVFmaUlTMGxLdTVGZWgtNnp4NlV4a3R4Z2RQR0VaTElNb1JleUNweHpkdzJyWWRMTVBhVjhhZ1dmX0tBTnZqcVZVaXRFTWdCQk4wRzc5ODJpOGpXdUdwQm12RFQ0UWtpcERMckNTVnRCdjVSWkY4dUV2MFlNQ3ZYMkxpQjRiSTdrc3VJazVQSW4tY2hwVzIxeGsyYWU0UnQzdUlIMHRTVjZmdmdXTWJzckp2SDhGOHZob25Ca3hLQlVHVTVFSkswRlBMWFNRUzVvQlAw?oc=5",
         "fonte": "Petronotícias",
         "data": "2026-10-28"
-      },
-      {
-        "titulo": "Espírito Santo pode atrair R$ 5 bi em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1lsOFd5ZkF3UXdlSnIzTjhRVDllSUs3MEhfblZYR1lPX19LM3dRRnRhTThCMkRFREMtenV4NHZZdGZ5MmFlalM2UkNlZU01Z3lYbVM2MVVMNnMtdEFOQ2dxVDdyWWxCSmk2bjI1MVQ3X0wyRF8wa3FjajJfcXZNcllfTmhFZENub29VdUF4czZpWWRj?oc=5",
-        "fonte": "Mundo Logística",
-        "data": "2026-10-26"
       }
     ],
     "maquinas": [
@@ -245,10 +245,10 @@ window.NEWS = {
         "data": "2026-10-28"
       },
       {
-        "titulo": "Desafios do próximo governo para a indústria brasileira",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRllfenc3XzFhSUQ2Y2lQMjQ3V29sZ09PY21mcUZIMGVBLTFLUzZHanpFclFSMGRWRmE0Y0pjVmd1NnB5ZndLZTJ2a3ZYaXhZdVJ4MGlobzdQbEtxdTZWV2pMSUdEUms2ZWYxMGlLbXNFcWhOZjVIeU9hQVRPUWZjd1FJTW8zY3EtZW5WYWpR?oc=5",
-        "fonte": "Folha da Vila Prudente",
-        "data": "2026-10-24"
+        "titulo": "Investimentos verdes avançam no Brasil, mas capital segue concentrado no mundo",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGdLcm92OXJDcjEydTY3ZDNLNlNSNERKLWF5eWRWaFNxZW5EUXJ4d1E1YUllUkpyNThSNHZFSUYtVi1FOENuLUJkeGkwTTFCaldiSnBJRUtQN1p0OFpGbFg4S0pOZTZLMEZOTmNNcFlEY3ZIV1hnWGdWeTJDYS02V2VtSXNwTEZ0Z05BYWd1ZElrQ3J2dmtoOGRvS1hBSE9wWVlEODl0bHJmZFB0V1RYWTM2Vk92bVFpSm9PYjlNVE04NGo0eE1GT3E5YkFOQQ?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-10-27"
       }
     ],
     "mineracao": [
@@ -301,16 +301,16 @@ window.NEWS = {
     ],
     "saneamento": [
       {
-        "titulo": "Análise: Leilões vazios no saneamento indicam investidor mais seletivo",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPejNqOUxadVZmLXNUbVBfN0tfVHprR2ZQRHNIQmlRbDk2VW1QanlnTnRpajdHRzh6Sl9Mbkh5SVMxd2xYWkpIdXdMem5wR2RfUWNuVXhKdXhoRUg3bVgwU2g5UEJEWUlZdFdBbzl6YXRpbDJ2MzlDT1MwSWJxQTFHbXc2Z2NxOWFZc283WktQX2hXUnRZc2pHSEpUTUZkWUd2S0tDLXJYVGhFTjQxb3h4VjVR?oc=5",
-        "fonte": "Migalhas",
-        "data": "2026-10-28"
-      },
-      {
         "titulo": "Concessão parcial de água e esgoto em PE é adiada para 23 de novembro, diz Compesa",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlp4T2stV29CMmtkMlZrNkNROUZpbXlwWE5ZXzRGbTBGSDlDZ093WEFHN1BRSHQzdHV3dDFUeFFTMG5oa1lQZkNoWGo0ejdFMnd1RUNsbk1HaXhzQ1N1cFJhY1U0djRabWZKMWJmTUNUQk5oYzlsa3lhNlh0Smt3ekpjbHhNY2RGUk9xdTRUekRsdE5KZTNUMGZFWjBoZnlQVXdEM2xVb09oNGJWbXFTZ05hS3kwSTRrRkFvTTVEYThrcGxuRXNKSWVXZ1NuNGxsMWxYbmVYSzY?oc=5",
         "fonte": "Movimento Econômico",
         "data": "2026-10-23"
+      },
+      {
+        "titulo": "Terracom Saneamento faz 10 anos com salto no esgoto tratado",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaEFVS2FOcU0ySlhONnh0N000V2p3c2h4SkJreUFrekNoOFk2UUFjV0J0NXFFSTVLS1JvRHQ0aWY2bWl4TFpIVFhhTXNMeVBUNnpTa0dmdXliVUlXZndWbnF0d0luS1FVTncybEE1ekRrMXVoWWYzR3FZdDI0aE1YMW0xWHFGbzBRc0dkbmNMTVdDYmRwRVhDTjVmaWN5WGdEaVpyRFN0ZldBV1VrWFZfc2czSVZUV05pWUpRRU5YanA4X1RLcDdHMTdfbThTaldFZ1Azd01B?oc=5",
+        "fonte": "Terra",
+        "data": "2026-10-29"
       },
       {
         "titulo": "Águas do Paraná vence leilão para sistema de abastecimento integrado da Sanepar",
