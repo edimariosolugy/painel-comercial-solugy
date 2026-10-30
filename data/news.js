@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-29T20:57:31+00:00",
+  "atualizadoEm": "2026-10-30T00:46:43+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-10-24"
       },
       {
-        "titulo": "Análise: Lula terá de superar resistência do agro e negociar com Congresso",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPM3BTUDRxa0g0UzlBdkJjU0ZBUkIwVF9CXzNtb1JzUlpyVGIyck1MQW5CTWJpYm9zTmFQUlo4TGQwcGVsSnlsZENVd3ZXT3dWZFcyMlcyazZEX3lUUncydWxndmR1SmYyUURCNW1mNEVGbmZ5N3RQaEpacU85MVNwNTdMTS1SdERoVUhxNlZyMF9GMlJfWWRiUUUyYkhDaWR4VENZYmNWSVRNdm03SFRBTkpsSnBLLTFpUlJibXhjc2RtbWF1aE55d21SRE1oZUk?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-26"
+        "titulo": "O Brasil é uma potência do agronegócio. Então por que investir nas empresas do setor pode ser uma armadilha?",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRVNQNFJMMjNVLWdsZzdIWmRLOEE4RTZqQVdVZzV0Ui0wTHpCR1B6WElhTEhlRDFvNjBTZFBzUnA4TWNldGMta3pBUTVfaTlBUTUtMDJHTWdwOUQ2Y0VQZGE2dlhMa29IaV9VMy1TUjFyUng0VVZtakllLTFrbUJRVksxTlN5ZjVzNHRpbjI2LWRnVDVZSC1URzh6WkhUaGdEbk1VM0J2MmdGejktc1NSSGVZY1dPcURZYlRLU1NQTmNGc0Q5ZU1iR0I4OV8?oc=5",
+        "fonte": "O Petróleo",
+        "data": "2026-10-23"
       }
     ],
     "alimentos-bebidas": [
@@ -44,16 +44,16 @@ window.NEWS = {
     ],
     "automotivo": [
       {
-        "titulo": "Paula Gama: Domínio das montadoras chinesas? Como fica indústria com reeleição de Lula",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZEZmQU8zR3hJMTlndDNWM09VSGVWOXY1U2JaNEo5T0YwSlBqYURNS29kQkRGMXdRZjNzVnBuS3F4Wk1QZmJXd0ktSmtDbU9FRnpfZUpQY0xxM0tKTzZtZTNGZ0pmVVhxTWxjSkRsakp2VFRUdjV4YVdSeWVoU2Y3VmlQdElyZU9LN2xjZ0RiOXVCa1Y2VEtQdDBhTE5Ma0RjSVFRM3Ffckw4djJhNWpGZTItbzRwT3J3R1lxSWx5Vy1GSmNYQXhOSk9Yb3hmZU0?oc=5",
-        "fonte": "UOL",
-        "data": "2026-10-29"
-      },
-      {
         "titulo": "Maior montadora fecha fábrica no Brasil com 1,5 mil",
         "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40SDBGYmtnREtRRGpGaTVRTmFwd3p3R0h4Q3pwTE9WaUVzNEx2b3RTZVVBYnpZZ3ZpUS1tTV82LXJEa1RPdlQ3Sm93OV9jdXZ6ZmR6Sm1KTmUtbkFiMVJhUVgwZkpXdTVHTlgtVW51ckhwS2YyWjBEejlB?oc=5",
         "fonte": "Acia Araçatuba",
         "data": "2026-10-27"
+      },
+      {
+        "titulo": "Paula Gama: Domínio das montadoras chinesas? Como fica indústria com reeleição de Lula",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZEZmQU8zR3hJMTlndDNWM09VSGVWOXY1U2JaNEo5T0YwSlBqYURNS29kQkRGMXdRZjNzVnBuS3F4Wk1QZmJXd0ktSmtDbU9FRnpfZUpQY0xxM0tKTzZtZTNGZ0pmVVhxTWxjSkRsakp2VFRUdjV4YVdSeWVoU2Y3VmlQdElyZU9LN2xjZ0RiOXVCa1Y2VEtQdDBhTE5Ma0RjSVFRM3Ffckw4djJhNWpGZTItbzRwT3J3R1lxSWx5Vy1GSmNYQXhOSk9Yb3hmZU0?oc=5",
+        "fonte": "UOL",
+        "data": "2026-10-29"
       },
       {
         "titulo": "Economic News Brasil amplia cobertura de negócios com nova editoria do setor automotivo",
@@ -77,31 +77,12 @@ window.NEWS = {
       },
       {
         "titulo": "Agrion lança fábrica em parceria com a Cerradão e acelera modelo de produção fertilizantes em usinas",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUmhPM3piM0VaRDlXVHhKNDZFR0xjUzY5OEhmTExCSWEybURqSmFISVAxY1NqVVBFdzFhZ01FVlRDTlhkUV9jWk8weVlXd0NJdnhWTzdFU0Jac19xS2V1VWNoMXJxUzZ6c05qVzRNUHJOQUJ0WVFzUzdGU3RUWWtKYlFDMnJqQ3dUMHduSWNRWi1BQlhFV0pNTGZXOTlRNUFPLTNKdGh4UUNxdzNEY2dVWW83b3BSTmk1VVpUbjd5aU41Zl9WRElwRy0zU04?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPY0x1WWFyMWtPb3Q0eUhJZWs4UEh0Y0JvX3BJdzEyLUdxOVBpbGVQM1NvRWtmS0Y0aUxPZEkwbzFhUy1TVklTcUJCZUlqV0NPUU55cWkySHF0R2ljdG9nRS14Ukp0THpNSVZPVmZzZ09SWGlnS09FNU1WUXpUMnp6Q0o1Qkt0VF9Zd3laSWMyZ3VDMGx2MmFta0ZVSkhkSGpodktQOWFRWmdaNFZfMWh6azQ2OTgwVEJ2cmo4WlducGxzNEVTQUtYbmwwaw?oc=5",
         "fonte": "AgFeed",
         "data": "2026-10-27"
       }
     ],
-    "cimento": [
-      {
-        "titulo": "Song Da Cao Cuong: Transformando subprodutos industriais em recursos para a economia verde.",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQU3pxRENLTGIxV1ZMUHlWbU5keFlCNHladlp1YTljM2dQQU1WS2NabEFwWGdLd2R1dHB5eEJCOVpBYmdiY0ZzQ2l5ZnVlRVpEczhwVGNONk00UkUzZTYxVzlUSUNrOU55X2Y3ZFplTHZRdWExUTZEVnVndXdfS1JuaFJZc2EyUkFERVRNN2dmMnN3QUE1dGh5WmZHV1ZIN1FRbjdqTQ?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-10-25"
-      },
-      {
-        "titulo": "Futuro da construção “imprime-se” em 3D através da Havelar by CIMPOR",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVhnUDE4VWV6ODNxZkdJeUs4aUxwWXpjRFR5dzJQUGNhMkxBODhEMWZMMExGZXgyWk84N2d0aEYwQmd3UXZqRlB4NGpZQ0ZwNTl4cXJXb0JyUmQwMDgxYmJfdGo3dE1aY0tYVW9ZelVGdS1QcGxZWHdaR3hTNm1nMmdXcS1aYlZhRGRaZXJhOWtSQ2Z0dGF4eko2c242bXVTNnRpMFBkdlQwRHktQW93aHpMTERZbnRjQ1RkaHRFRE1NOFlMQTA0Y3Z1d21zTko3a0E?oc=5",
-        "fonte": "Idealista",
-        "data": "2026-10-27"
-      },
-      {
-        "titulo": "Com o aumento acelerado do investimento estrangeiro direto, o setor imobiliário industrial do Vietnã está preparado para um novo ciclo de crescimento.",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQa0hUeW12MDdNSXZOMUdPRVhfbk9VWkVSVWVIMFM3Q2hFajdaSXhURnBYY3lZZXllT1c5OHlUS3VfaWtUdC05LW1VSmFrWHVrWFYzMm51c2YtMkJxZEdod3JXUDE3NXVpclNLamdwbmtpd1o2SWgzVjdpcjRuRi16ZnMyR0ZUWU1YZWFnTWhQSXIwbnIyRnctckJ1SXJrS0ItMHAzems0ZjdMQQ?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-10-23"
-      }
-    ],
+    "cimento": [],
     "comercio": [
       {
         "titulo": "Chile mira mercado brasileiro para ampliar exportações e atrair investimentos",
@@ -164,6 +145,12 @@ window.NEWS = {
     ],
     "epc": [
       {
+        "titulo": "A agenda de infraestrutura no novo mandato de Lula no Brasil pode movimentar pelo menos R$383 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXBkVWFnQjdoRmZuVjNkZWhzTk44YUx4RFpkWTVQc3MtSDlNR1Jqd3JDLVpXYWNVRG9LZUYtRW1NWDF2a1QtczNBcXlCZV9KU1E3QVBPSnJKd3pfVldPNWlxQ1NkTXhGeEZYWGJrWC1ubm4zbjRZSWllNzYzT0N2VDVHTDRlUTNBbEJWY1N2Q19lNDZKWDZMRUFXR0tmd09IdEF6cEk1N1l3UmpPM1BMUzJrVmxDdXZUMWIyU0hPVGw4bmJVUVFpVHowZW9zR1NiTU1VbWl3?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-26"
+      },
+      {
         "titulo": "Investimentos de US$10 bilhões de gigantes chilenas da celulose movimentam a infraestrutura no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN1NhWnlTR3FkYThaLUZDTTM5ZFc2dmlOOTFBQkhuSXRhVFdKbmdjUC1OR1Jmc01sWVljM1FmZUJabXg1cHlPMVFBRVZIeFZfMVlsd1BFa3d5NFhFemFtQnZvcEJNZHpjNktGamUxaW8xWTB5bldLeDg1N2swNUk2aGNYcGxGUlUydFNMSVJxSm9IRERSNk9WYmpqdmdFSnhPcDE1XzVDYVRUdkpSTGM5bjg2SlpZRC1YQmczbGtxY0NVdzdFMzRfLWpSUnNsblZaVWlBaTNZQQ?oc=5",
         "fonte": "BNamericas",
@@ -175,18 +162,18 @@ window.NEWS = {
         "titulo": "Extensão de patentes ameaça novamente o SUS",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0k4bXh0b0h0LU45czhBNXAwWWR5MndHY2RJOUstV1ZpUUZtSUs4Nm1qZVFBNktvZHR4N1FOeEdoZngteEdsSXR1SVhoaTU3WTIyYU9LV3Fxb1paeV9uV0dCU01SWGRra21hZXFUYUJzMjMtcHFGbEJONGhkZlFKdldvZU1UejQwTGc?oc=5",
         "fonte": "Outras Palavras",
-        "data": "2026-10-28"
-      },
-      {
-        "titulo": "Mercado de medicamentos para emagrecer pode movimentar US$ 22 bilhões até 2035 no Brasil, China e Índia",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZWdaQ0hEWXZQWnA4ZzRub2N0LU1VZ2t3eGJwaUpUeDI2TkllYXBDMjdWbHFUV1NtbjJEQ2VFM3ZmenQ0RXN1LVJDYzFJenRQOXNFYm14Uk8zd2J3YjFNZnJMRHk4cmdvbUsyazBlemFwdUxhOUxxTjZibDJqUW0tbzN1dzdZa3ZGX0lhTEFJd1ZZVGc1dlZUUmdpZzlETV9kLTNiVXAySFhtZmRVV191c2hiNFVBYmc1S0lMbjZyazdyQXlISEluRXZZMWpOQ3hhbTlxU2R3?oc=5",
-        "fonte": "Balada IN",
-        "data": "2026-10-23"
+        "data": "2026-10-29"
       },
       {
         "titulo": "Brasil amplia presença na produção de medicamentos estratégicos",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGNGR2pjZUt2M1JLdVUtZno3bnhwbEUtVVBDNG9OWW1md0tDLXhwYVZ6Zl9xSlZtVnpZRWNTQ0J6S1I2NUQ1RFNuM2NaTW9sU0tObnZfYk54N1p2d01SV2FZYlkzSVpnVTdicFJoWDY2SGdPdTZFR01yZ2Yxc0Y0c01STzlMdGtXbFhIWW1rSGIyWUp4ckhlTHpRMEZjWlg0ZExHMUtRMjIydVdMeDRnZXhQb0Rkd0oyYjFmTTQxdw?oc=5",
         "fonte": "Panorama Farmacêutico",
+        "data": "2026-10-27"
+      },
+      {
+        "titulo": "Anvisa proíbe venda de picolé e suplemento alimentar",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmJJMmw0MXZYVWh2WU1TNGdJRFhTd2NERVEyQ2ZhYjNmblNBUFZhNl85YWN6V1hKUTRlajc1Y1BjaEw2N3VJLTNieEt6UVR1MVVJQTI1U210YkFiYU1jM0UybDA2QTloR0N3YjBFRkxrZTgzWUZORUlQTTFfamVzbEN3dXV3OGd5YkdaZllWMGtENjc0VWRrS2RaX3lGdkQ1c1B5ZlhhT0tfOW5yT2FENzhockZweFJVckxlcFdlY3NYS2lZWVE?oc=5",
+        "fonte": "Agência Brasil",
         "data": "2026-10-27"
       }
     ],
@@ -205,10 +192,10 @@ window.NEWS = {
         "data": "2026-10-23"
       },
       {
-        "titulo": "Suframa conhece investimentos da Diebold Nixdorf em inovação e produtividade no PIM",
-        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYnpsampuOGhtWThlOWFWZmdSNGRkRHFoNlpIcHMyMWZZSmVyLXAwSng4ODMyR3gxcjVvUjVqX3YyZVA0Yzd2SzRHSmdfR1ZfN1hoc0dzWTVkc2RkTmc5MFpSMXN4TndtaktCWENCOHpoZzZ6YUVOMHdiRWEzcTk5S3FiRUNaU1d5cEo3dnRNZFphVC1xb3cwR1BEWTkyWnJjeDdWZzhPRFVXcXVWWVJjU3VfNEIwTERHbElMV0cwUXpVYXBQTnFsclgtcjlhVGc?oc=5",
-        "fonte": "GOV.BR",
-        "data": "2026-10-26"
+        "titulo": "Maior montadora fecha fábrica no Brasil com 1,5 mil",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40SDBGYmtnREtRRGpGaTVRTmFwd3p3R0h4Q3pwTE9WaUVzNEx2b3RTZVVBYnpZZ3ZpUS1tTV82LXJEa1RPdlQ3Sm93OV9jdXZ6ZmR6Sm1KTmUtbkFiMVJhUVgwZkpXdTVHTlgtVW51ckhwS2YyWjBEejlB?oc=5",
+        "fonte": "Acia Araçatuba",
+        "data": "2026-10-27"
       }
     ],
     "logistica": [
@@ -245,10 +232,10 @@ window.NEWS = {
         "data": "2026-10-28"
       },
       {
-        "titulo": "Investimentos verdes avançam no Brasil, mas capital segue concentrado no mundo",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGdLcm92OXJDcjEydTY3ZDNLNlNSNERKLWF5eWRWaFNxZW5EUXJ4d1E1YUllUkpyNThSNHZFSUYtVi1FOENuLUJkeGkwTTFCaldiSnBJRUtQN1p0OFpGbFg4S0pOZTZLMEZOTmNNcFlEY3ZIV1hnWGdWeTJDYS02V2VtSXNwTEZ0Z05BYWd1ZElrQ3J2dmtoOGRvS1hBSE9wWVlEODl0bHJmZFB0V1RYWTM2Vk92bVFpSm9PYjlNVE04NGo0eE1GT3E5YkFOQQ?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-10-27"
+        "titulo": "Desafios do próximo governo para a indústria brasileira",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNRllfenc3XzFhSUQ2Y2lQMjQ3V29sZ09PY21mcUZIMGVBLTFLUzZHanpFclFSMGRWRmE0Y0pjVmd1NnB5ZndLZTJ2a3ZYaXhZdVJ4MGlobzdQbEtxdTZWV2pMSUdEUms2ZWYxMGlLbXNFcWhOZjVIeU9hQVRPUWZjd1FJTW8zY3EtZW5WYWpR?oc=5",
+        "fonte": "Folha da Vila Prudente",
+        "data": "2026-10-24"
       }
     ],
     "mineracao": [
@@ -265,10 +252,10 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Brasil deve ‘negociar com todos’ em minerais críticos, diz Anglo",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2pzeE84d3lEQnZWeTJ1TExKTGZWWkxoLU1oV0Nrd3lfN0U4TFJDbEVWNVRUNlNfNzdhWG1lZHVoNHdtWmVoOWNPYmZCaEpwTnBsNTh5MVptQUV1bHdqSzF6UG1DNHlrX0E1cnp5cEZDSklaYXY3aGpjNGM1bVhxRjNhcVJEdGNVWkR3U24zODdVWXVLQVdGb0h3Y0VxVnNudDdj0gGjAUFVX3lxTE1fanN4Tzh3eURCdlZ5MnVMTEpMZlZaTGgtTWhXQ2t3eV83RThMUkNsRVY1VFQ2U183N2FYbWVkdWg0d21aZWg5Y09iZkJoSnBOcGw1OHkxWm1BRXVsd2pLMXpQbUM0eWtfQTVyenlwRkNKSVphdjdoamM0YzVtWHFGM2FxUkR0Y1VaRHdTbjM4N1VZdUtBV0ZvSHdjRXFWc250N2M?oc=5",
-        "fonte": "InvestNews",
-        "data": "2026-10-27"
+        "titulo": "Bahia participa de agenda internacional para atrair investimentos para o setor mineral",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZV9pLVREZHd4UndmY3BWb0lzYzhEZmJ2ZVRvN2dVSTZLSXhURWNPYmtET0xQbnJJWUNvQWVyOVl2NTdyNEdmbzdMS2ZyZUJFelBBSHVZTjNocGViVjdUQ2htTmtsQkFHU3VMWkJuaUw0a1plS19mSG5qNHBMajJwUlc1MW1nejhmemFCdzItREdvMHZLd1RiNmk4d0hkY2hEVmtzOWJLUUM3STZub1FBdXBob0VrRzFCbUY5MnhacVUtTjNHYkx2ZGVB?oc=5",
+        "fonte": "ba.gov.br",
+        "data": "2026-10-26"
       }
     ],
     "papel-celulose": [
@@ -301,22 +288,16 @@ window.NEWS = {
     ],
     "saneamento": [
       {
-        "titulo": "Concessão parcial de água e esgoto em PE é adiada para 23 de novembro, diz Compesa",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYlp4T2stV29CMmtkMlZrNkNROUZpbXlwWE5ZXzRGbTBGSDlDZ093WEFHN1BRSHQzdHV3dDFUeFFTMG5oa1lQZkNoWGo0ejdFMnd1RUNsbk1HaXhzQ1N1cFJhY1U0djRabWZKMWJmTUNUQk5oYzlsa3lhNlh0Smt3ekpjbHhNY2RGUk9xdTRUekRsdE5KZTNUMGZFWjBoZnlQVXdEM2xVb09oNGJWbXFTZ05hS3kwSTRrRkFvTTVEYThrcGxuRXNKSWVXZ1NuNGxsMWxYbmVYSzY?oc=5",
-        "fonte": "Movimento Econômico",
-        "data": "2026-10-23"
-      },
-      {
         "titulo": "Terracom Saneamento faz 10 anos com salto no esgoto tratado",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOaEFVS2FOcU0ySlhONnh0N000V2p3c2h4SkJreUFrekNoOFk2UUFjV0J0NXFFSTVLS1JvRHQ0aWY2bWl4TFpIVFhhTXNMeVBUNnpTa0dmdXliVUlXZndWbnF0d0luS1FVTncybEE1ekRrMXVoWWYzR3FZdDI0aE1YMW0xWHFGbzBRc0dkbmNMTVdDYmRwRVhDTjVmaWN5WGdEaVpyRFN0ZldBV1VrWFZfc2czSVZUV05pWUpRRU5YanA4X1RLcDdHMTdfbThTaldFZ1Azd01B?oc=5",
         "fonte": "Terra",
         "data": "2026-10-29"
       },
       {
-        "titulo": "Águas do Paraná vence leilão para sistema de abastecimento integrado da Sanepar",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQem8zY0J0WHZWX3pENzhNdWo4c0Y3VVZIaGdfRkNQT21qMUN4djhIYlZxX2h0MjJnSjJoOVprbWg4eXNLQzk2TUgyc1E4RnIyd1hfV1Z1ZW51ZlBSeUJxQVZLOC1qbTl1WWJIaDdDOXZhZ1lXVTQxV0QwU1ZWUHFqcWRaOVVjQ1g2LTRfbXYtUl9odFdDZFhVemh6dVJVcDVWRXB5UzNFZEpnZC1qcm5VOA?oc=5",
-        "fonte": "Band News FM Curitiba",
-        "data": "2026-10-28"
+        "titulo": "Na Espanha, Raquel Lyra se reúne com Acciona e discute investimentos em água e saneamento em Pernambuco",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ2dPSVZxaWJZWHQwOHVVcHp5SFQyWGJyZnprUjFqTHlKaFpRcGVpLWhFb1p1dnVFbWtNb2VnV0JST3dKYUFQTXk1clo4aUhrMXgyV3hXaFhOb1ExSkYtT0ctN2JIVVlYN1RqcFRYYmN5UHBobnhPYlcwMTlnRFUzOW9adERXZ3JWRTBVR0wyVTBtZkp1VFpaNzBYZDJTd3pFLVlOZm1GM3B4TGd5Sno2dVh6VFZtWGJ0Y3RneTVvVkpSbmFibko1aA?oc=5",
+        "fonte": "Nill Junior",
+        "data": "2026-10-27"
       }
     ],
     "siderurgia": [
