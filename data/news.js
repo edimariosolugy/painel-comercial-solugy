@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-30T15:41:33+00:00",
+  "atualizadoEm": "2026-10-30T20:31:45+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -94,15 +94,15 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNR2NIdThYdGhRVG5zOVpzaWVTM0g3R3IzUHM5TVp1b0tXems1dGhFeDdpVnJfOTlFWEs3Z3FhSlljY0tBclVVWjRpSThEcS1ZTEdJX2ZqYVA5V3p1d05tRy02QjlkajBveG14eWpLcnEydVRJZkNWZ2l3MlNMUkc5a2RLUHhnaUJJTWpFbEpIV25xU201R0VWZWtqM3VVMXVhelpOV3JsbzQzN1p0d0FubkdCbGJhUQ?oc=5",
         "fonte": "Exame",
         "data": "2026-10-30"
+      },
+      {
+        "titulo": "“Havelar by CIMPOR” nasce para acelerar a construção 3D de baixo carbono à escala global",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObUZxYWJiNWZhS3NUZG1zVlhZdUpYbklaMWtyVmR1TUVQLUNOdk5mQnZMUVpqdktQRU13MUNpbzNkRWh4czdFNWtTM24xenl2dzh3UllwNkhCd0ZBd1VpNmJCci1XRjRxZWFOTjZlMGRmSFh6QlRaZ3RSWnJnOXd5SEFUZk82aE12eVRzT1AzUmtYcFRCS0kwaVRKUThYX3RoNnJyVExDR3haaUF0VnUtX2FPSndxNVprVklZ?oc=5",
+        "fonte": "welectric.pt",
+        "data": "2026-10-30"
       }
     ],
     "comercio": [
-      {
-        "titulo": "Gigantes do varejo movimentam mais de R$ 2,2 bilhões no Brasil e vacância dos galpões logísticos despenca para 5,5% em 2026",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOR0JRM0JRT3gtbDZzWWdzVnVhcklSUm5kWURNQUVQNkY4VzhlNFFXYVZ6RlJNYkhNU3ZYUkdRcksyUERFR2IyUUt6a1h4T0RxQnVQODJIOGVPWV93dy1XQ3liYVJ4T3hUTXI2M3I5eHJBOG5HYWQ2YldNcGtLeHdSQlhsLWZtWXdMV0NncG4tU0Q3T2s5TlgzUnZIZEVHc0xVbVRMN3VEcGdldUEtNVNkZmgwSElVUzZrRmhjVW1KMnJydzVONW9jeFNRai1WRHZ2ZDZ4U2tBUmMxVks2eWZ4bC1pTQ?oc=5",
-        "fonte": "Confederação Nacional de Dirigentes Lojistas",
-        "data": "2026-10-23"
-      },
       {
         "titulo": "Shopee inaugura 4 centros de distribuição e anuncia R$ 48 milhões em cupons na Black Friday e 11.11",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNdGhWb2NDWUpQYklYWFhtaVNKUTRjRXFBNm0yb0tZNko3Z1NadnMwVTVnWm1URE1paGo5V3VkczcxdTRaSnplOTIySnFmME9NOHZ2Y0FzUUtvbFJEaTZvV2szVG92Tkd3QzNlMGdFWlRzVVhvMkpqS3ZXQU1idnE0M2Y3Q1BDVVB5eHN0S2s4OFRrSGM0Y1BRbzFRdGxRM1p4SDdvWGlEN285Y0dHR1lKWG93a1pzTWJqZDB4bjFmQjNqTU1sZERVVml6S1kwdw?oc=5",
@@ -114,9 +114,21 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUkhTbTgyQ0kwUy1MQTNJYjlaNzQwTWRvNUZnZnFzODV5bGxvbGY3RHpKcEw5UmkzOS00OS1LVk1zeEx0X0toaWZqdHNRcExjS2gwS1I3SDNYX1RIMkVFNmlHZjJ2NFNnZjllX0FnaVprNTlpZVpwNHRRMUhkSXRMS3NHUkVyQ2s0akFOemlXaWFSM0dfbWZFUzRycWdyekpjV3RqeHh4Wm5ZRm1vUUdrSTI0SWJhUQ?oc=5",
         "fonte": "Balada IN",
         "data": "2026-10-28"
+      },
+      {
+        "titulo": "Shopee turbina logística e prepara R$ 48 milhões em cupons para fisgar clientes no 11.11 e na Black Friday",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObnlldVR0cldzS0pjZXJsRzNxb2Z1ZjJ4c0s5bW9ZTkxKd2l1YTNTM2tnOHRTMGFsUE0xQlJSbmZQM3hfcjM1d1ZaRGtzOUtNcTRBQ3UtWTdCYUpzcmFtLXd5OFhUa1lKNnJNTVNaVHphRDNyOHdZbUZ6OXkyV3NSSGRlZ1llMDc2UkJDMVpxWEJYaU9BVWRHc3F6b1pSTTEtdERCcHdWU19IdkFmakRXekFjWkRiUGxmZmM0djJZWnFyUDJsSGtRaVRVYVM1RWlHWHJ0YUtCMEQ?oc=5",
+        "fonte": "Money Times",
+        "data": "2026-10-27"
       }
     ],
     "energia-gt": [
+      {
+        "titulo": "Com muita disputa, Aneel leiloou oito lotes de transmissão de energia",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaHUyVHVvNXZ3eHNyd3BiMHd4MWFQSVczTWFpQjM0eVBYaC1ueWxqQUU2TURyVUNrTEtxR2lORERadDFScUxyaDlPbldhS0JyenZKLURaelNzZTB3b3cySkVpTGlrejl4bUFRbzNTbFp3QnBOYTNwVVdJNXVxYUhWNmpaVFpxaWRuQnZIYy1jdEUyTDJ6X3lrekMtZVpnV3dTVUlkQnpYc2lvQUtDN2JEbUJXVnA4OTdSdkJCNUJUTllzS09T?oc=5",
+        "fonte": "Agência Brasil",
+        "data": "2026-10-30"
+      },
       {
         "titulo": "Leilão de transmissão terá oito lotes e R$ 8,9 bi em investimento",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1o0elczTk1ZcGRTVlJXYXVNd0ZOcERSaGxOYVlOWG1WVGUzNVpmbTR5QVladmpJeERXMHE5em9QWlVrc3I3SmhBWURUNkZNemNWRkJxckVlcjVYNEVXcTBNSlpicHZsYldYT2NRYWtlN3dBYzY0cmxGcDY2MVVaMC04ZUJqUkNJSjYwSEpmSFRudGlrbjZXZWZwOXcxY3ZXQmdLSS11Mk1WSkNwa0VkVGRTeU1KWGUtYjh1aUFB0gHMAUFVX3lxTE5kWmluSDNxSGpZcFVUNDhqb3dwQXJUMGktSWRJT0xFem1KNzhVOGhnOXV6ajdZejg4eURCUDFQazdGRU9QLVdQbVB3aVhHQVM5TGZ1eE9LZmNBTmJkdGVZYXI4Z1ZqSkluNVZrd0QwSzgxeTJaM3I4Znd6M21CSnBlUXMzcTN1cXpqRmJZaXJlNHhETXdmMGJLazIyOEthZVl1QWs3VWZwdC1rODRHeV9EMVEzSmdyZ0t1b0t6M1F3Wkd0eGV5X2VFQlV2eg?oc=5",
@@ -124,15 +136,9 @@ window.NEWS = {
         "data": "2026-10-28"
       },
       {
-        "titulo": "ANEEL realiza novo leilão de transmissão nesta semana",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRRnlLX0M4RmdPWHpwcVdodE9LUVJ0OXAtblJuR1lFZEQzWHdYa0JMM0lpd0d1UW5CZVpTNnRNZ1V2Z1lIbjN3TTExbERiNlBxZExXZkE5bHlCcURvOHZKc3U5bEx3SnhSX0JuakR5N2pRdFF0VThZ?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-10-26"
-      },
-      {
-        "titulo": "Aneel leiloa hoje projetos de transmissão com R$ 8,9 bi em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcUsxbVctdzcyTXhXVElfR0VNbk5UZDQ2VGVRTFpuZFFRcXVRdmdYR0pMQ0lfVzlydUZVZXBoWU9IeWNVcENKRG9jczJKQ0lxVDJrd05xRkYyb256dlluQlpBek5zYVNGWEJGRXJlOVdRT2c1dmRINm9YV2gwWURwYU50d2Fld1pyc1hjaWlza2dTdHl2OEp4N3RWdlJlcEpXQ1NKZUJxeVoxQQ?oc=5",
-        "fonte": "CNN Brasil",
+        "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
+        "fonte": "Governo Federal",
         "data": "2026-10-30"
       }
     ],
@@ -156,15 +162,14 @@ window.NEWS = {
         "data": "2026-10-27"
       }
     ],
-    "epc": [
-      {
-        "titulo": "Novo aeroporto de R$400 milhões em São Paulo obtém licença prévia",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQcENWVFJIOXpCVEZpbm9Gb0d6WjhCQXZuckp5UjRrQk9OcHk4M2UzZFc4bTV3VWRmV1VuMFRMMjBOd3NBSFpUYzdhZ3AzTV9ycURQUGZvV3YzMW96MUpRaUZDbHZHUzN5U1RTNEVzaGlrY2lvWVl6blAxSS1vU2p3VkNUZ0pwc194WFpwTWdmck1yZ2hkdFNUdGJRZ0ttdGhPVHRVUWF3?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-10-30"
-      }
-    ],
+    "epc": [],
     "farma": [
+      {
+        "titulo": "Censo inédito vai revelar investimentos de 168 farmacêuticas no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbEJxX2luR3NMR1pEdUY2SVdhb0F1cENoc2tWZmVKSVl6Rk01aW5hLVFHd0JKbFg5QTdQdHNkVXFJMHE0UnU4SFlQUHh6UkQxaHhDbTBva0x2QURsLTlWTWFFTlBlRE50NEpPNzBKNXNVVXZJZWZmSVdsbTRpYlRDb3BmandhaE9GVmZDYWxfV3dBdzZHc2plSmN0dklFQ1lmNEFSTVdqZGY4QQ?oc=5",
+        "fonte": "VEJA",
+        "data": "2026-10-30"
+      },
       {
         "titulo": "Extensão de patentes ameaça novamente o SUS",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0k4bXh0b0h0LU45czhBNXAwWWR5MndHY2RJOUstV1ZpUUZtSUs4Nm1qZVFBNktvZHR4N1FOeEdoZngteEdsSXR1SVhoaTU3WTIyYU9LV3Fxb1paeV9uV0dCU01SWGRra21hZXFUYUJzMjMtcHFGbEJONGhkZlFKdldvZU1UejQwTGc?oc=5",
@@ -175,12 +180,6 @@ window.NEWS = {
         "titulo": "Brasil amplia presença na produção de medicamentos estratégicos",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGNGR2pjZUt2M1JLdVUtZno3bnhwbEUtVVBDNG9OWW1md0tDLXhwYVZ6Zl9xSlZtVnpZRWNTQ0J6S1I2NUQ1RFNuM2NaTW9sU0tObnZfYk54N1p2d01SV2FZYlkzSVpnVTdicFJoWDY2SGdPdTZFR01yZ2Yxc0Y0c01STzlMdGtXbFhIWW1rSGIyWUp4ckhlTHpRMEZjWlg0ZExHMUtRMjIydVdMeDRnZXhQb0Rkd0oyYjFmTTQxdw?oc=5",
         "fonte": "Panorama Farmacêutico",
-        "data": "2026-10-27"
-      },
-      {
-        "titulo": "Anvisa proíbe venda de picolé e suplemento alimentar",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSmJJMmw0MXZYVWh2WU1TNGdJRFhTd2NERVEyQ2ZhYjNmblNBUFZhNl85YWN6V1hKUTRlajc1Y1BjaEw2N3VJLTNieEt6UVR1MVVJQTI1U210YkFiYU1jM0UybDA2QTloR0N3YjBFRkxrZTgzWUZORUlQTTFfamVzbEN3dXV3OGd5YkdaZllWMGtENjc0VWRrS2RaX3lGdkQ1c1B5ZlhhT0tfOW5yT2FENzhockZweFJVckxlcFdlY3NYS2lZWVE?oc=5",
-        "fonte": "Agência Brasil",
         "data": "2026-10-27"
       }
     ],
@@ -219,19 +218,13 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Ferrovias lideram propostas para o Plano Estadual de Logística de Transportes de Santa Catarina",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWDRFc2daOXZLazlMcFc5V0ZyRi1YTVpMaTdmUnpZMnNKbEZCcjFfLUN6b0pPTUMzQXJWTExPZUk2NzREWkdlMkVpdFpZcXRHN09jdndoRDlGVXZ4Y1lsMGM5cUhWSF84SWFXbUhNU2NVNHcwVUFKQW9xWm9qb3BqWEplRWFqc1hjUE9sRFg0OEI5bmlsWXhmRUVFMmZXU2xJbzhnR3hrZ1I2ODJ6b2ROWUtRSDBHTkRDeERNYWVXbXpjSktFM1o0U0FmYkxKUVJzWndRcTRfLU1YbVRUb3c?oc=5",
-        "fonte": "Oeste Mais",
-        "data": "2026-10-30"
+        "titulo": "Logística é decisiva para a competitividade da mineração brasileira, diz José Carlos Martins",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZHBRN1BUR2xNcDIzLU1Jb0lodURjLWFyT0I4VFI4cWIxYzlycGdEVmpHV1cyOFVObXhNSmpwb2VFaGcyeUN6RkdqTmROVkE4MEEyanh4R0hJbTlrVFB0SGpoVEFBSW5HLWR0YmlCVDJwN0Nzd2J2TmlwV21rT3Q5V3hsXzNjM002VDVrOU9UTjVFdmRFSV9ka1R3OWlzM09BY0kySXRneEtYcXluZUpaNGFOX2FtZHJJSnlGMjJSYnJCZ04wRUQxbGp4TnBiWEFoeUdDd3E1UmIteWhNWFFN?oc=5",
+        "fonte": "Rádio Itatiaia",
+        "data": "2026-10-24"
       }
     ],
     "maquinas": [
-      {
-        "titulo": "Quanto crédito chega à indústria? R$ 755 bilhões financiaram 610 mil projetos em 3 anos",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLU1DNVg3Z05RWjBrTjhQVUNrcGt1U3dFTUY5d2VhS3FoUTFiTDF4S25GZHVMeXp2YkVyak9CdGZsS0c5UzBpRlRDQVJja3BpeUZqVTJjYzNPQk1nOWpwQ2NLSFBOUzVtZkRmS2xsWXZUazAwYVBQUDdzRWtvdHdUd1laR2JBVlBsVVRReGFzNjFwVUJ6RTdBVWprcVVVUk1yNXB4QWpmeGYtTHZsZXF5RDRKMW90M1VVMncwM252Y2ZMSnFMV0toVldVLU84T0F1RndIY213Wmc2Z3BLZFZsQW9SQ2ttOGMwdzUzaWt3?oc=5",
-        "fonte": "Agência de Notícias da Indústria",
-        "data": "2026-10-27"
-      },
       {
         "titulo": "Tecnometal anuncia investimento de R$ 30 mi em Vespasiano",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRVlWcHFfWGJIVUJ2SExOVUFsUjdQNlZsNVMxNjZEeXl4NkV3SHNEdHNEMzZyUVdOMGs4a1JfY2dRNXRXdllrQW9jQUZDTjB3emEzUlRSZ0FDcUxjSl9JdjJqb0FXLWR3eF9iOE9KcDZVc21FTXgzZWl6c19oNGhyZm1EOF82N0hISXZKLW9RY25VWmlOOTF2b0Y2bi1mYVJFVThBdkl5amc?oc=5",
@@ -243,6 +236,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFI0bHNyYXdRS0xtcDJ1b05fMFlOdkxXWkFxYUtvT1FhNVdhbjJLb0J1QkVJVE5FQWNfYWszUGpodUJZRjZ1UWJuRlFjT0diN1JhR0RzRjlrTF9PNVdScEFMeDBPN1dFTk9DUTZhRUM2Qm1qZ090NW1IaHhPdTBfRWw3QmRzcV93Sm1PTnl5NEpBTEdUWU9qd0ZrVTNxZjBsZER5Nm5PZVZfWTk4TGlBRjFyeTl6R1o3VHNkNVlpXzFBZ0nSAdIBQVVfeXFMUFY5UDdIZzIzMWxfVl9ZbnM1NjhIWjdKMDQzeE5rNVhaN2lzOUZZZzBsZEY1RVhZUVN1eXRUU2otTVdmUllOdDUwdHlkcHpfQnY5am04MU5vZEtpa1Q0Q2dnalV1bkh2MGoxUkotQ0NXVDdYcFU4Y3ZQdlItSDZTSTQyQWhycFpoa0RRZmxCY3dtcjluWUtkNy1yTWNjVkNkRUdhUVJ1Yzc1OG9KNWxpZTdkTmhIbkRLU2NvemxuOTlnN3N1N2loQm5WUTNsZHV2TENR?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-10-28"
+      },
+      {
+        "titulo": "Investimentos verdes avançam no Brasil, mas capital segue concentrado no mundo",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGdLcm92OXJDcjEydTY3ZDNLNlNSNERKLWF5eWRWaFNxZW5EUXJ4d1E1YUllUkpyNThSNHZFSUYtVi1FOENuLUJkeGkwTTFCaldiSnBJRUtQN1p0OFpGbFg4S0pOZTZLMEZOTmNNcFlEY3ZIV1hnWGdWeTJDYS02V2VtSXNwTEZ0Z05BYWd1ZElrQ3J2dmtoOGRvS1hBSE9wWVlEODl0bHJmZFB0V1RYWTM2Vk92bVFpSm9PYjlNVE04NGo0eE1GT3E5YkFOQQ?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-10-27"
       }
     ],
     "mineracao": [
@@ -259,10 +258,10 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Bahia participa de agenda internacional para atrair investimentos para o setor mineral",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZV9pLVREZHd4UndmY3BWb0lzYzhEZmJ2ZVRvN2dVSTZLSXhURWNPYmtET0xQbnJJWUNvQWVyOVl2NTdyNEdmbzdMS2ZyZUJFelBBSHVZTjNocGViVjdUQ2htTmtsQkFHU3VMWkJuaUw0a1plS19mSG5qNHBMajJwUlc1MW1nejhmemFCdzItREdvMHZLd1RiNmk4d0hkY2hEVmtzOWJLUUM3STZub1FBdXBob0VrRzFCbUY5MnhacVUtTjNHYkx2ZGVB?oc=5",
-        "fonte": "ba.gov.br",
-        "data": "2026-10-26"
+        "titulo": "Brasil deve ‘negociar com todos’ em minerais críticos, diz Anglo",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2pzeE84d3lEQnZWeTJ1TExKTGZWWkxoLU1oV0Nrd3lfN0U4TFJDbEVWNVRUNlNfNzdhWG1lZHVoNHdtWmVoOWNPYmZCaEpwTnBsNTh5MVptQUV1bHdqSzF6UG1DNHlrX0E1cnp5cEZDSklaYXY3aGpjNGM1bVhxRjNhcVJEdGNVWkR3U24zODdVWXVLQVdGb0h3Y0VxVnNudDdj0gGjAUFVX3lxTE1fanN4Tzh3eURCdlZ5MnVMTEpMZlZaTGgtTWhXQ2t3eV83RThMUkNsRVY1VFQ2U183N2FYbWVkdWg0d21aZWg5Y09iZkJoSnBOcGw1OHkxWm1BRXVsd2pLMXpQbUM0eWtfQTVyenlwRkNKSVphdjdoamM0YzVtWHFGM2FxUkR0Y1VaRHdTbjM4N1VZdUtBV0ZvSHdjRXFWc250N2M?oc=5",
+        "fonte": "InvestNews",
+        "data": "2026-10-27"
       }
     ],
     "papel-celulose": [
