@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-31T00:32:27+00:00",
+  "atualizadoEm": "2026-10-31T15:10:16+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-10-29"
       },
       {
-        "titulo": "Checagem BP: Lula aumentou investimento no Agro, mas governo criou entraves",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONm8wc25TZzdkaHEyOW1mbGZ2ZDViVFFrdkhZb2dIWF81VFQtc0c4T0hRWWZSVngyZjdxcHI3NFR0LUMxbTFKcW04Z0JDeU91SkptS0NGMXFYeV9RY3ZsdHdodHpYc3JoR0R5dnhLNWNvT0RiTFRPQTZBREJSUnpmRjZuU2Uxbnkzd20yYXdoM2ZoRVpZcjVocnhhZVo?oc=5",
-        "fonte": "Brasil Paralelo",
-        "data": "2026-10-24"
+        "titulo": "As 100 Maiores Empresas do Agronegócio Faturam R$ 2,1 Trilhões em 2025",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalprWHplTGRPelcxemtFbVZHSThPRkpROS1JZk5veTlSWmlPX0pmUUg4NVVNNnVlYVM2V3loR0p0ZGxwcHltRDlpbXFpMTlzTkNzRWZ4Tll4WFNrZVp6bEZhT1BXV3F5QnhWT3FpU29ZZGtZRXhQdmFramtFd1dOZWV4aE9RRzE0ckNuU3p2Z0p1VHU4b2VhMG52MXpDQmptSi1lcHVYbDd1cmxaVnltOA?oc=5",
+        "fonte": "Forbes Brasil",
+        "data": "2026-10-28"
       },
       {
-        "titulo": "Agronegócio é responsável por 60% da energia renovável do Brasil, aponta FGV",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzSGlacVRiaDlTS0RKQUdSMFlaUlJYMHlSaHM2R0FtVnlVTmN0QkNQY1Y4NS1pT05FZWY5VUd5bGFHcVNsZ242amtzRUxjcENraDdQMDRsYy1xdWlZRm9IRE54RlpEb1VuR21LNEcyRVhjV3Fmd3c?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-10-27"
+        "titulo": "Dívidas, crédito e seguro rural: as demandas do agro ao próximo presidente",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObzJaUldKbHRYZHZBckkwdElnQ3pGcWtxTGhweEp5UTA3MXZOV1VtNXY3UkhPQUYtRUZpbVpTLTlhYThRcXRMUVdaeTlsZ3hhMWdyNl9KSzVuazZzZ0V3dUhOQWxDNFZLN1JPZVg5S3hlQWtGSUNnVUhlRGEtWlBQRFh4UjkwUmJoekdxN295VFkzTDBNOVBJam1EQW8xeFB1ZFg5UkVnVXdrRFFTb0NTOTJRQkRqQzVFeWhsNHRiVWw0eXRLSTQ2OA?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-24"
       }
     ],
     "alimentos-bebidas": [
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-10-29"
       },
       {
+        "titulo": "Brasil reforça posição de fornecedor de alimentos de qualidade para o mundo durante a Sial Paris",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmRXd3Q2Y1l3dHk4aWoyMW1UZUYwQkptdjB5V0JEXy1oT0tQSG9ZYkRUdkxMVm5wTUVSaWxWWlBxVWdTVFN2WWFzYzYtQ3BGWUJyTnBOLWgyUTlIZVRrOS1OZTd2Yk5CUFRKUHdiVXFNeVcyYWpLenRkTHd2cE5nZUIyc1I3VUl4QmtpUHdWLVktWmJka3VRWVdfU3d4VFktS2pxTm1yQzVNeWlVQVlWRUhKVURwTDBlcnFRdFFOUVhaeGhib2FBaUQzT1VxRFkwVGx6Vg?oc=5",
+        "fonte": "Apex Brasil",
+        "data": "2026-10-26"
+      },
+      {
         "titulo": "82% da indústria de alimentos quer investir em IA. Quantas estão com os dados prontos?",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNejQ0R08yYXo1TFYxbjBHYUNnc0FzdzdROEJaRTBlS29YT1VwWWVnRW9ScTFtRzNKcUFxYlBGUVJrajdLdnBmaUpISmlubTFSUUNyZWpha1l2a1hBWUFyMGU2Z2xGMUEwMi1RYmNwMFlmZElyRmc3WExxSWhxQ1JLb2xNTkItX2otb2c?oc=5",
         "fonte": "Food Connection",
         "data": "2026-10-29"
-      },
-      {
-        "titulo": "Agronegócio é responsável por 60% da energia renovável do Brasil, aponta FGV",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzSGlacVRiaDlTS0RKQUdSMFlaUlJYMHlSaHM2R0FtVnlVTmN0QkNQY1Y4NS1pT05FZWY5VUd5bGFHcVNsZ242amtzRUxjcENraDdQMDRsYy1xdWlZRm9IRE54RlpEb1VuR21LNEcyRVhjV3Fmd3c?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-10-27"
       }
     ],
     "automotivo": [
@@ -96,10 +96,10 @@ window.NEWS = {
         "data": "2026-10-30"
       },
       {
-        "titulo": "Futuro da construção “imprime-se” em 3D através da Havelar by CIMPOR",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVhnUDE4VWV6ODNxZkdJeUs4aUxwWXpjRFR5dzJQUGNhMkxBODhEMWZMMExGZXgyWk84N2d0aEYwQmd3UXZqRlB4NGpZQ0ZwNTl4cXJXb0JyUmQwMDgxYmJfdGo3dE1aY0tYVW9ZelVGdS1QcGxZWHdaR3hTNm1nMmdXcS1aYlZhRGRaZXJhOWtSQ2Z0dGF4eko2c242bXVTNnRpMFBkdlQwRHktQW93aHpMTERZbnRjQ1RkaHRFRE1NOFlMQTA0Y3Z1d21zTko3a0E?oc=5",
-        "fonte": "Idealista",
-        "data": "2026-10-27"
+        "titulo": "O magnata do aço Tran Dinh Long e diversas empresas comemoram o novo impulso proveniente do investimento público.",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVpxUnctR2ZUblhxaFZHZnFfYTFXOHkybFRlVjdCdk43blNXQk9wZ3pMaTdhLU05dWNSS3JHVDJWekE2dmhpa3E0N2dMaDZmY1VGQURkaUdIMHpnOUszU0ZHZ3FGeFlwb2pVRlVVdGJ4OURJLXdNbERBLUdEd05oM0VPcHhsNmtpQ2N2OXFNT1BsMHMxclM2SEgzZGpfY0lJdkk0?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-10-30"
       }
     ],
     "comercio": [
@@ -162,7 +162,14 @@ window.NEWS = {
         "data": "2026-10-27"
       }
     ],
-    "epc": [],
+    "epc": [
+      {
+        "titulo": "A agenda de infraestrutura no novo mandato de Lula no Brasil pode movimentar pelo menos R$383 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcXBkVWFnQjdoRmZuVjNkZWhzTk44YUx4RFpkWTVQc3MtSDlNR1Jqd3JDLVpXYWNVRG9LZUYtRW1NWDF2a1QtczNBcXlCZV9KU1E3QVBPSnJKd3pfVldPNWlxQ1NkTXhGeEZYWGJrWC1ubm4zbjRZSWllNzYzT0N2VDVHTDRlUTNBbEJWY1N2Q19lNDZKWDZMRUFXR0tmd09IdEF6cEk1N1l3UmpPM1BMUzJrVmxDdXZUMWIyU0hPVGw4bmJVUVFpVHowZW9zR1NiTU1VbWl3?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-10-26"
+      }
+    ],
     "farma": [
       {
         "titulo": "Censo inédito vai revelar investimentos de 168 farmacêuticas no Brasil",
@@ -171,16 +178,16 @@ window.NEWS = {
         "data": "2026-10-30"
       },
       {
-        "titulo": "Extensão de patentes ameaça novamente o SUS",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0k4bXh0b0h0LU45czhBNXAwWWR5MndHY2RJOUstV1ZpUUZtSUs4Nm1qZVFBNktvZHR4N1FOeEdoZngteEdsSXR1SVhoaTU3WTIyYU9LV3Fxb1paeV9uV0dCU01SWGRra21hZXFUYUJzMjMtcHFGbEJONGhkZlFKdldvZU1UejQwTGc?oc=5",
-        "fonte": "Outras Palavras",
-        "data": "2026-10-29"
-      },
-      {
         "titulo": "Brasil amplia presença na produção de medicamentos estratégicos",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGNGR2pjZUt2M1JLdVUtZno3bnhwbEUtVVBDNG9OWW1md0tDLXhwYVZ6Zl9xSlZtVnpZRWNTQ0J6S1I2NUQ1RFNuM2NaTW9sU0tObnZfYk54N1p2d01SV2FZYlkzSVpnVTdicFJoWDY2SGdPdTZFR01yZ2Yxc0Y0c01STzlMdGtXbFhIWW1rSGIyWUp4ckhlTHpRMEZjWlg0ZExHMUtRMjIydVdMeDRnZXhQb0Rkd0oyYjFmTTQxdw?oc=5",
         "fonte": "Panorama Farmacêutico",
         "data": "2026-10-27"
+      },
+      {
+        "titulo": "Sindusfarma realiza 1º Censo da Indústria Farmacêutica da América Latina",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEZnRW1laWhNNGJXTS15WVJfNHp6RWYtV3V6M3RzSUdwR0pIMVh3bG9tLWlFbl9aT1B3a01RYTNrZGF4XzZWdl9xY3d5SE14TU9Fakd2UGlYRzVYZkwxMVBya1V1SVhnd1pqdUNnazdtaUJueDNpSmhKTmZEbjg5dk5HYkdQZW1LYXRfODdyX2tQNE5SdWZKSXh3VDVXamR5ZmN5amRSVGNmeG5UaDMwOVRWekxaUzVJblJKQkVic3BUVVVEbnZLadIByAFBVV95cUxNUEZnRW1laWhNNGJXTS15WVJfNHp6RWYtV3V6M3RzSUdwR0pIMVh3bG9tLWlFbl9aT1B3a01RYTNrZGF4XzZWdl9xY3d5SE14TU9Fakd2UGlYRzVYZkwxMVBya1V1SVhnd1pqdUNnazdtaUJueDNpSmhKTmZEbjg5dk5HYkdQZW1LYXRfODdyX2tQNE5SdWZKSXh3VDVXamR5ZmN5amRSVGNmeG5UaDMwOVRWekxaUzVJblJKQkVic3BUVVVEbnZLaQ?oc=5",
+        "fonte": "Mercado&Consumo",
+        "data": "2026-10-29"
       }
     ],
     "fertilizantes": [],
@@ -194,7 +201,7 @@ window.NEWS = {
       {
         "titulo": "Suframa conhece investimentos da Diebold Nixdorf em inovação e produtividade no PIM",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYnpsampuOGhtWThlOWFWZmdSNGRkRHFoNlpIcHMyMWZZSmVyLXAwSng4ODMyR3gxcjVvUjVqX3YyZVA0Yzd2SzRHSmdfR1ZfN1hoc0dzWTVkc2RkTmc5MFpSMXN4TndtaktCWENCOHpoZzZ6YUVOMHdiRWEzcTk5S3FiRUNaU1d5cEo3dnRNZFphVC1xb3cwR1BEWTkyWnJjeDdWZzhPRFVXcXVWWVJjU3VfNEIwTERHbElMV0cwUXpVYXBQTnFsclgtcjlhVGc?oc=5",
-        "fonte": "www.gov.br",
+        "fonte": "GOV.BR",
         "data": "2026-10-26"
       },
       {
@@ -218,9 +225,9 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Ferrovias lideram propostas para o Plano Estadual de Logística de Transportes de Santa Catarina",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWDRFc2daOXZLazlMcFc5V0ZyRi1YTVpMaTdmUnpZMnNKbEZCcjFfLUN6b0pPTUMzQXJWTExPZUk2NzREWkdlMkVpdFpZcXRHN09jdndoRDlGVXZ4Y1lsMGM5cUhWSF84SWFXbUhNU2NVNHcwVUFKQW9xWm9qb3BqWEplRWFqc1hjUE9sRFg0OEI5bmlsWXhmRUVFMmZXU2xJbzhnR3hrZ1I2ODJ6b2ROWUtRSDBHTkRDeERNYWVXbXpjSktFM1o0U0FmYkxKUVJzWndRcTRfLU1YbVRUb3c?oc=5",
-        "fonte": "Oeste Mais",
+        "titulo": "Rodovia duplicada, voo a Porto Alegre e volta da ferrovia: anseios logísticos de regiões pujantes da economia do RS",
+        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQYjlWZS1IM3ZxRmZMaWpocnUwclN0REQxYi1XdEw1U0k0YTZZUkpGcURBVXBOWHJaSXJQelhGaTRfQzBwZ242eDFnRmdadFUtUVM1OHNMNUF6b2xwODduWE4xRGRwYWhZSDEtemF2b2szcXBOZTFOT1Fpam56NkhBd19vc2VFY1FUX0kzOGh6Tk5TUlFnVm5DZUtpN185LW4xWVN3TTlMT3lvU2h3MTJFRldZWFFnZ09Ec1hyOXVPd0J5THhXM1NRTUY1b2pFYjB4SDFsSHVKRl9nRnAwZUNCUm9NZ3lrd05uTjNHNWtkMmFDa2lkT29helpHSGF2MW0wTWFCZ2xfV3dmVFRlZkplS2xqZ0s5RTNq?oc=5",
+        "fonte": "GZH",
         "data": "2026-10-30"
       }
     ],
@@ -238,10 +245,10 @@ window.NEWS = {
         "data": "2026-10-28"
       },
       {
-        "titulo": "Vendas de máquinas acumulam queda de 13,4% no ano até setembro",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFI0bHNyYXdRS0xtcDJ1b05fMFlOdkxXWkFxYUtvT1FhNVdhbjJLb0J1QkVJVE5FQWNfYWszUGpodUJZRjZ1UWJuRlFjT0diN1JhR0RzRjlrTF9PNVdScEFMeDBPN1dFTk9DUTZhRUM2Qm1qZ090NW1IaHhPdTBfRWw3QmRzcV93Sm1PTnl5NEpBTEdUWU9qd0ZrVTNxZjBsZER5Nm5PZVZfWTk4TGlBRjFyeTl6R1o3VHNkNVlpXzFBZ0nSAdIBQVVfeXFMUFY5UDdIZzIzMWxfVl9ZbnM1NjhIWjdKMDQzeE5rNVhaN2lzOUZZZzBsZEY1RVhZUVN1eXRUU2otTVdmUllOdDUwdHlkcHpfQnY5am04MU5vZEtpa1Q0Q2dnalV1bkh2MGoxUkotQ0NXVDdYcFU4Y3ZQdlItSDZTSTQyQWhycFpoa0RRZmxCY3dtcjluWUtkNy1yTWNjVkNkRUdhUVJ1Yzc1OG9KNWxpZTdkTmhIbkRLU2NvemxuOTlnN3N1N2loQm5WUTNsZHV2TENR?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-10-28"
+        "titulo": "Política industrial recebeu R$ 755,2 bilhões em crédito em três anos",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeUlUV2lDYmR0Zlc4T2NVSVV5S0M5SWZ5eEQ2bVlDLU9ib21kMFNQRi0zTktFdk5WZ0EtUTRtS2M1ck5EdUthRk5IdGtic25xajJFMHVkbEtnNnVIdXFoS2VlODJ6Ykp1dVBZRGRqN2hWTGJCcEhpcjlUUEg2QzRIbFlsTnV0RlJpODhpUkkyTHNfa3NfNHcxWWtqVVV5TXNoY2FZ0gGoAUFVX3lxTE1UUjZwLVJOOUs0RmVFUVhOMXpqRi1vVUMzaGxEdlhQWW9ubloyWmhJQzVpR0xUbEF4NVZ5aWU2S1ZLd18yaThtN1RPSnRrb2xTVzNfbE1CdUloaU4tOEZIMUlHdHdfZmFBdlpWRzRHSE9UMGZLWFd0ZTBKMmJXWmlMWjJsSFl3QUtNb0JIRnhJT1NjdWFQSFJqUFd4MmxtUUV3M3hTTjRfVA?oc=5",
+        "fonte": "Brasil 61",
+        "data": "2026-10-31"
       }
     ],
     "mineracao": [
@@ -258,10 +265,10 @@ window.NEWS = {
         "data": "2026-10-30"
       },
       {
-        "titulo": "Brasil deve ‘negociar com todos’ em minerais críticos, diz Anglo",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNX2pzeE84d3lEQnZWeTJ1TExKTGZWWkxoLU1oV0Nrd3lfN0U4TFJDbEVWNVRUNlNfNzdhWG1lZHVoNHdtWmVoOWNPYmZCaEpwTnBsNTh5MVptQUV1bHdqSzF6UG1DNHlrX0E1cnp5cEZDSklaYXY3aGpjNGM1bVhxRjNhcVJEdGNVWkR3U24zODdVWXVLQVdGb0h3Y0VxVnNudDdj0gGjAUFVX3lxTE1fanN4Tzh3eURCdlZ5MnVMTEpMZlZaTGgtTWhXQ2t3eV83RThMUkNsRVY1VFQ2U183N2FYbWVkdWg0d21aZWg5Y09iZkJoSnBOcGw1OHkxWm1BRXVsd2pLMXpQbUM0eWtfQTVyenlwRkNKSVphdjdoamM0YzVtWHFGM2FxUkR0Y1VaRHdTbjM4N1VZdUtBV0ZvSHdjRXFWc250N2M?oc=5",
-        "fonte": "InvestNews",
-        "data": "2026-10-27"
+        "titulo": "Bahia participa de agenda internacional para atrair investimentos para o setor mineral",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZV9pLVREZHd4UndmY3BWb0lzYzhEZmJ2ZVRvN2dVSTZLSXhURWNPYmtET0xQbnJJWUNvQWVyOVl2NTdyNEdmbzdMS2ZyZUJFelBBSHVZTjNocGViVjdUQ2htTmtsQkFHU3VMWkJuaUw0a1plS19mSG5qNHBMajJwUlc1MW1nejhmemFCdzItREdvMHZLd1RiNmk4d0hkY2hEVmtzOWJLUUM3STZub1FBdXBob0VrRzFCbUY5MnhacVUtTjNHYkx2ZGVB?oc=5",
+        "fonte": "ba.gov.br",
+        "data": "2026-10-26"
       }
     ],
     "papel-celulose": [
