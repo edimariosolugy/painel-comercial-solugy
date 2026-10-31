@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-30T20:31:45+00:00",
+  "atualizadoEm": "2026-10-31T00:32:27+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-10-24"
       },
       {
-        "titulo": "O Brasil é uma potência do agronegócio. Então por que investir nas empresas do setor pode ser uma armadilha?",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRVNQNFJMMjNVLWdsZzdIWmRLOEE4RTZqQVdVZzV0Ui0wTHpCR1B6WElhTEhlRDFvNjBTZFBzUnA4TWNldGMta3pBUTVfaTlBUTUtMDJHTWdwOUQ2Y0VQZGE2dlhMa29IaV9VMy1TUjFyUng0VVZtakllLTFrbUJRVksxTlN5ZjVzNHRpbjI2LWRnVDVZSC1URzh6WkhUaGdEbk1VM0J2MmdGejktc1NSSGVZY1dPcURZYlRLU1NQTmNGc0Q5ZU1iR0I4OV8?oc=5",
-        "fonte": "O Petróleo",
-        "data": "2026-10-23"
+        "titulo": "Agronegócio é responsável por 60% da energia renovável do Brasil, aponta FGV",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzSGlacVRiaDlTS0RKQUdSMFlaUlJYMHlSaHM2R0FtVnlVTmN0QkNQY1Y4NS1pT05FZWY5VUd5bGFHcVNsZ242amtzRUxjcENraDdQMDRsYy1xdWlZRm9IRE54RlpEb1VuR21LNEcyRVhjV3Fmd3c?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-10-27"
       }
     ],
     "alimentos-bebidas": [
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-10-29"
       },
       {
-        "titulo": "Brasil reforça posição de fornecedor de alimentos de qualidade para o mundo durante a Sial Paris",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVmRXd3Q2Y1l3dHk4aWoyMW1UZUYwQkptdjB5V0JEXy1oT0tQSG9ZYkRUdkxMVm5wTUVSaWxWWlBxVWdTVFN2WWFzYzYtQ3BGWUJyTnBOLWgyUTlIZVRrOS1OZTd2Yk5CUFRKUHdiVXFNeVcyYWpLenRkTHd2cE5nZUIyc1I3VUl4QmtpUHdWLVktWmJka3VRWVdfU3d4VFktS2pxTm1yQzVNeWlVQVlWRUhKVURwTDBlcnFRdFFOUVhaeGhib2FBaUQzT1VxRFkwVGx6Vg?oc=5",
-        "fonte": "Apex Brasil",
-        "data": "2026-10-26"
-      },
-      {
         "titulo": "82% da indústria de alimentos quer investir em IA. Quantas estão com os dados prontos?",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNejQ0R08yYXo1TFYxbjBHYUNnc0FzdzdROEJaRTBlS29YT1VwWWVnRW9ScTFtRzNKcUFxYlBGUVJrajdLdnBmaUpISmlubTFSUUNyZWpha1l2a1hBWUFyMGU2Z2xGMUEwMi1RYmNwMFlmZElyRmc3WExxSWhxQ1JLb2xNTkItX2otb2c?oc=5",
         "fonte": "Food Connection",
         "data": "2026-10-29"
+      },
+      {
+        "titulo": "Agronegócio é responsável por 60% da energia renovável do Brasil, aponta FGV",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzSGlacVRiaDlTS0RKQUdSMFlaUlJYMHlSaHM2R0FtVnlVTmN0QkNQY1Y4NS1pT05FZWY5VUd5bGFHcVNsZ242amtzRUxjcENraDdQMDRsYy1xdWlZRm9IRE54RlpEb1VuR21LNEcyRVhjV3Fmd3c?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-10-27"
       }
     ],
     "automotivo": [
@@ -76,10 +76,10 @@ window.NEWS = {
         "data": "2026-10-27"
       },
       {
-        "titulo": "Etanol ganha força na segurança energética, afirma Nastari",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQXh6RE5iSDc3VnAzcmt2RzlteFBVUFNJNmJOQXlkYmc5ek1XSU5GdkZQMEZENzlWNEFZTDY3NHBFMW5GMEptX0stdEVidnNPc2dISEdERkVOZWh2YlhqUWwwSnppM0FURm5EcWZjekgyUGE1U1Y5eldfT0RzRUFydDRHX2NmWWhlbTBTLW5RZWJ3YVdHM2F3UkdUd25JdEFjR0NB?oc=5",
-        "fonte": "JornalCana",
-        "data": "2026-10-26"
+        "titulo": "Raízen avança na reestruturação e terá duas empresas com novos comandos",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmhsX2FDeEx2TGFvTDR1MEdnYndBQ0pwbjFibkJjU0VMQzhpb1VsWDlzY21IdXZHOFF1RkVkR041b3dvY0JnVm4xb3dMazJZUnZpeUNXbEpUbGFsOXlTeWZoQm9qelc5Y01Kb1hsT2hkMFBxbC1fQW1tejhRTk95cWxFUDV0Y1RNY0JpdXRoSTlJblJ0X0ZpWEplWWVkOVY5OFpEVEhJSEVXQQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-10-30"
       }
     ],
     "cimento": [
@@ -96,10 +96,10 @@ window.NEWS = {
         "data": "2026-10-30"
       },
       {
-        "titulo": "“Havelar by CIMPOR” nasce para acelerar a construção 3D de baixo carbono à escala global",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObUZxYWJiNWZhS3NUZG1zVlhZdUpYbklaMWtyVmR1TUVQLUNOdk5mQnZMUVpqdktQRU13MUNpbzNkRWh4czdFNWtTM24xenl2dzh3UllwNkhCd0ZBd1VpNmJCci1XRjRxZWFOTjZlMGRmSFh6QlRaZ3RSWnJnOXd5SEFUZk82aE12eVRzT1AzUmtYcFRCS0kwaVRKUThYX3RoNnJyVExDR3haaUF0VnUtX2FPSndxNVprVklZ?oc=5",
-        "fonte": "welectric.pt",
-        "data": "2026-10-30"
+        "titulo": "Futuro da construção “imprime-se” em 3D através da Havelar by CIMPOR",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVhnUDE4VWV6ODNxZkdJeUs4aUxwWXpjRFR5dzJQUGNhMkxBODhEMWZMMExGZXgyWk84N2d0aEYwQmd3UXZqRlB4NGpZQ0ZwNTl4cXJXb0JyUmQwMDgxYmJfdGo3dE1aY0tYVW9ZelVGdS1QcGxZWHdaR3hTNm1nMmdXcS1aYlZhRGRaZXJhOWtSQ2Z0dGF4eko2c242bXVTNnRpMFBkdlQwRHktQW93aHpMTERZbnRjQ1RkaHRFRE1NOFlMQTA0Y3Z1d21zTko3a0E?oc=5",
+        "fonte": "Idealista",
+        "data": "2026-10-27"
       }
     ],
     "comercio": [
@@ -124,6 +124,12 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
+        "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-10-30"
+      },
+      {
         "titulo": "Com muita disputa, Aneel leiloou oito lotes de transmissão de energia",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaHUyVHVvNXZ3eHNyd3BiMHd4MWFQSVczTWFpQjM0eVBYaC1ueWxqQUU2TURyVUNrTEtxR2lORERadDFScUxyaDlPbldhS0JyenZKLURaelNzZTB3b3cySkVpTGlrejl4bUFRbzNTbFp3QnBOYTNwVVdJNXVxYUhWNmpaVFpxaWRuQnZIYy1jdEUyTDJ6X3lrekMtZVpnV3dTVUlkQnpYc2lvQUtDN2JEbUJXVnA4OTdSdkJCNUJUTllzS09T?oc=5",
         "fonte": "Agência Brasil",
@@ -134,12 +140,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNb1o0elczTk1ZcGRTVlJXYXVNd0ZOcERSaGxOYVlOWG1WVGUzNVpmbTR5QVladmpJeERXMHE5em9QWlVrc3I3SmhBWURUNkZNemNWRkJxckVlcjVYNEVXcTBNSlpicHZsYldYT2NRYWtlN3dBYzY0cmxGcDY2MVVaMC04ZUJqUkNJSjYwSEpmSFRudGlrbjZXZWZwOXcxY3ZXQmdLSS11Mk1WSkNwa0VkVGRTeU1KWGUtYjh1aUFB0gHMAUFVX3lxTE5kWmluSDNxSGpZcFVUNDhqb3dwQXJUMGktSWRJT0xFem1KNzhVOGhnOXV6ajdZejg4eURCUDFQazdGRU9QLVdQbVB3aVhHQVM5TGZ1eE9LZmNBTmJkdGVZYXI4Z1ZqSkluNVZrd0QwSzgxeTJaM3I4Znd6M21CSnBlUXMzcTN1cXpqRmJZaXJlNHhETXdmMGJLazIyOEthZVl1QWs3VWZwdC1rODRHeV9EMVEzSmdyZ0t1b0t6M1F3Wkd0eGV5X2VFQlV2eg?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-10-28"
-      },
-      {
-        "titulo": "Leilão de Transmissão nº 4/2026 termina com os 8 lotes arrematados e economia para o consumidor",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPUWFmbVZybThmY290V3lEYkFvVU4zV28wZGJwbERsTjJYNURzalpnSjk4VDJWY3NELURsZ2F6ZFdBMDZaWDk1UTY1T0hxdnhFNnlBdXlLSlpxclpaWF8tLVp6R2xnTm5MSlNTNzl6ZnJiN1pFLVlaX3NoNHl1cWsyQ1d0Nk9BMDF5N3hObnE0dWlzMHBWZHlTRUMyU3RYUG9rSEM4bVRFU1ZvNlM2YzMxcjZHVUNoSGRraHVEMXc1MjF1TVcwX2g1d2VSYjY2MFlLa2RNQTVVYTBRcmZyVXVZQmZzcw?oc=5",
-        "fonte": "Governo Federal",
-        "data": "2026-10-30"
       }
     ],
     "solar": [
@@ -218,13 +218,19 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Logística é decisiva para a competitividade da mineração brasileira, diz José Carlos Martins",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZHBRN1BUR2xNcDIzLU1Jb0lodURjLWFyT0I4VFI4cWIxYzlycGdEVmpHV1cyOFVObXhNSmpwb2VFaGcyeUN6RkdqTmROVkE4MEEyanh4R0hJbTlrVFB0SGpoVEFBSW5HLWR0YmlCVDJwN0Nzd2J2TmlwV21rT3Q5V3hsXzNjM002VDVrOU9UTjVFdmRFSV9ka1R3OWlzM09BY0kySXRneEtYcXluZUpaNGFOX2FtZHJJSnlGMjJSYnJCZ04wRUQxbGp4TnBiWEFoeUdDd3E1UmIteWhNWFFN?oc=5",
-        "fonte": "Rádio Itatiaia",
-        "data": "2026-10-24"
+        "titulo": "Ferrovias lideram propostas para o Plano Estadual de Logística de Transportes de Santa Catarina",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPWDRFc2daOXZLazlMcFc5V0ZyRi1YTVpMaTdmUnpZMnNKbEZCcjFfLUN6b0pPTUMzQXJWTExPZUk2NzREWkdlMkVpdFpZcXRHN09jdndoRDlGVXZ4Y1lsMGM5cUhWSF84SWFXbUhNU2NVNHcwVUFKQW9xWm9qb3BqWEplRWFqc1hjUE9sRFg0OEI5bmlsWXhmRUVFMmZXU2xJbzhnR3hrZ1I2ODJ6b2ROWUtRSDBHTkRDeERNYWVXbXpjSktFM1o0U0FmYkxKUVJzWndRcTRfLU1YbVRUb3c?oc=5",
+        "fonte": "Oeste Mais",
+        "data": "2026-10-30"
       }
     ],
     "maquinas": [
+      {
+        "titulo": "Quanto crédito chega à indústria? R$ 755 bilhões financiaram 610 mil projetos em 3 anos",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOLU1DNVg3Z05RWjBrTjhQVUNrcGt1U3dFTUY5d2VhS3FoUTFiTDF4S25GZHVMeXp2YkVyak9CdGZsS0c5UzBpRlRDQVJja3BpeUZqVTJjYzNPQk1nOWpwQ2NLSFBOUzVtZkRmS2xsWXZUazAwYVBQUDdzRWtvdHdUd1laR2JBVlBsVVRReGFzNjFwVUJ6RTdBVWprcVVVUk1yNXB4QWpmeGYtTHZsZXF5RDRKMW90M1VVMncwM252Y2ZMSnFMV0toVldVLU84T0F1RndIY213Wmc2Z3BLZFZsQW9SQ2ttOGMwdzUzaWt3?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
+        "data": "2026-10-27"
+      },
       {
         "titulo": "Tecnometal anuncia investimento de R$ 30 mi em Vespasiano",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRVlWcHFfWGJIVUJ2SExOVUFsUjdQNlZsNVMxNjZEeXl4NkV3SHNEdHNEMzZyUVdOMGs4a1JfY2dRNXRXdllrQW9jQUZDTjB3emEzUlRSZ0FDcUxjSl9JdjJqb0FXLWR3eF9iOE9KcDZVc21FTXgzZWl6c19oNGhyZm1EOF82N0hISXZKLW9RY25VWmlOOTF2b0Y2bi1mYVJFVThBdkl5amc?oc=5",
@@ -236,12 +242,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbFI0bHNyYXdRS0xtcDJ1b05fMFlOdkxXWkFxYUtvT1FhNVdhbjJLb0J1QkVJVE5FQWNfYWszUGpodUJZRjZ1UWJuRlFjT0diN1JhR0RzRjlrTF9PNVdScEFMeDBPN1dFTk9DUTZhRUM2Qm1qZ090NW1IaHhPdTBfRWw3QmRzcV93Sm1PTnl5NEpBTEdUWU9qd0ZrVTNxZjBsZER5Nm5PZVZfWTk4TGlBRjFyeTl6R1o3VHNkNVlpXzFBZ0nSAdIBQVVfeXFMUFY5UDdIZzIzMWxfVl9ZbnM1NjhIWjdKMDQzeE5rNVhaN2lzOUZZZzBsZEY1RVhZUVN1eXRUU2otTVdmUllOdDUwdHlkcHpfQnY5am04MU5vZEtpa1Q0Q2dnalV1bkh2MGoxUkotQ0NXVDdYcFU4Y3ZQdlItSDZTSTQyQWhycFpoa0RRZmxCY3dtcjluWUtkNy1yTWNjVkNkRUdhUVJ1Yzc1OG9KNWxpZTdkTmhIbkRLU2NvemxuOTlnN3N1N2loQm5WUTNsZHV2TENR?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-10-28"
-      },
-      {
-        "titulo": "Investimentos verdes avançam no Brasil, mas capital segue concentrado no mundo",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWGdLcm92OXJDcjEydTY3ZDNLNlNSNERKLWF5eWRWaFNxZW5EUXJ4d1E1YUllUkpyNThSNHZFSUYtVi1FOENuLUJkeGkwTTFCaldiSnBJRUtQN1p0OFpGbFg4S0pOZTZLMEZOTmNNcFlEY3ZIV1hnWGdWeTJDYS02V2VtSXNwTEZ0Z05BYWd1ZElrQ3J2dmtoOGRvS1hBSE9wWVlEODl0bHJmZFB0V1RYWTM2Vk92bVFpSm9PYjlNVE04NGo0eE1GT3E5YkFOQQ?oc=5",
-        "fonte": "Agência eixos",
-        "data": "2026-10-27"
       }
     ],
     "mineracao": [
@@ -252,10 +252,10 @@ window.NEWS = {
         "data": "2026-10-27"
       },
       {
-        "titulo": "Lula 4: o que muda para o setor de minerais críticos após a reeleição",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNTRlYnhOSE9YRXRoMGlTSUp0dmVaNVROY2s4MGhUdDhuWlpLTDNDa0JZLXRibThNMUlzS1RLczAwcF9qLTVqalhqY3NBMFQyTncwc0R3Ylo1U3JxM09LbkVsb19QVHExMExnVjliYzZNOUl5SnVMMlFVajg0WGVoNG5yOHdId3d0V1NmVFRiRDRuM195YVFybUVVTjczc1FFRm11cUUxVQ?oc=5",
+        "titulo": "Vale vê na política de minerais críticos chance de ampliar investimentos",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFk0RWMtOWlYNzV3TzZpeHAtRng0ZGxyT3VzU09uM0RCWFVwYzBNb1RWamFMaEdNa2VDZDFnbm1idDk5R2JNWnNJU2h6WWU0TUNIVUxzc1pEWk1NZmlnbGxaYzFMOS1oalNsdXp6UllwODJuREJCOU5mV3V5V05wTlV5NWgtN1pucGtBQlU2bEltWnY3WjVwR2xmcnRRcGFQMHVKQ0Y5QUJETDN3?oc=5",
         "fonte": "CNN Brasil",
-        "data": "2026-10-26"
+        "data": "2026-10-30"
       },
       {
         "titulo": "Brasil deve ‘negociar com todos’ em minerais críticos, diz Anglo",
@@ -266,6 +266,12 @@ window.NEWS = {
     ],
     "papel-celulose": [
       {
+        "titulo": "Setorial Papel e Celulose | Outubro 2026",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWFJlOUtBY0RvN04xQWp1VjNXSjhKR0dVSENYR2U5d2UzY21MTGZ3dzZFemxUUlBtUTdJNW82OTl3Nnp6aWJjZzhHS3JaaUc0dDB0UDVjUEU3R2VZbndKWUlKdDFYRU9MaHRlYUdpNHBERnNNRjJxQlhrR0FhcFdwS040VkZ3N0hNZXlF?oc=5",
+        "fonte": "InvesTalk",
+        "data": "2026-10-30"
+      },
+      {
         "titulo": "Klabin acelera investimentos, mas lucro cai no trimestre com aumento de custos",
         "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZdXo4bTZIYzVBTXY1Y2ZyX21sNU9aQnhsQ0ZkcGotZUhaRXdfZlR6c2RDeThBWHJkaTZsd01LY1dLYmN5MFpodng3ZGsySHM?oc=5",
         "fonte": "AgFeed",
@@ -275,12 +281,6 @@ window.NEWS = {
         "titulo": "Carteira Lula: quais ações e investimentos podem ganhar com a reeleição do presidente?",
         "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQbUN4cWZpVzZTOERNRURCbm5JbE9ubHZzbGxmODdsMmFjUUtRMzFnak9JWjJ3VmlJMnY1YU1VMnRuaG5tZDF6WHhlUTRybVFWb05wbzFUdmdodEhnTXBUMndzWS1QSGlzYjFsSklkTWVmQWhaMHo1THltVGR0OUx1Y201TmUyUmhWbFJJcTB6Y1hvMzNmZTd3QkV2eXJyMC1yNE0tRExNOF80bktPLVFEV2NMS1F6VTlKRWRyMnlyMUFJd2xuR2lHYlZWYWRwTWhzbU1XMk5vWUs1YUtZa3lEVmpWQV8td3BrUnVFNUliTjk1bWd4SFpFZGFn0gGIAkFVX3lxTE8tWFk3M2RPaGozNHd5cU9IZVFUY2E0WVVCRGprMVlXaU94YmhzNGRaVGZVTkprYVBvYTZmVUhBTVZ6RmJodWM3RGtKSTR2UTI5S1VBRFEwREZ5R1NXalhYTGZfUmdkZGVSOC1pS0c5VU5YOW9hMmhSN3VpUkhCUE1NVkdlbHUyZWdITkw4VTZrWl9xUFlpZS1OTmJmcjJKN08yS3lzcXhkUmVnMlZ5M21zeFYzUHhteDNlWTBPU2lnVl9FWEs4azRDbEVyQUp5LWpTX00tQTBSV1d3MWE2SkVhbXg4Y3JGeUxsNFM3eS1jTmMzcHZkdFhIZzJSUFh2N0FvQWNoampVNQ?oc=5",
         "fonte": "Valor Investe",
-        "data": "2026-10-26"
-      },
-      {
-        "titulo": "Fabricantes de equipamentos priorizam eficiência e modernização na indústria de papel e celulose",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNYVZyMzZjd2tvVWd4eHY4bWpKVWhxVHdRQmN5RUZpMjh3U3VHZjQtdlJxSUJWbFZPeTNQaVA5LXlDc29xVmVndko5NUJUcGF3YzRtbmQxLXpvd3BzZ3JKTGlPeUN0bHdJcDBKTnVfT0ZtVDE5WEN5bDN3TlF0TlBMMXVsck54RFZwVmNWd1I0aEdmcTlpYTl5TnU2enFmc2NPRHZocEpmYWpKSGJWSVNtUzhGc2JxS1c3NTh6NDlfQ215VXRMVFE?oc=5",
-        "fonte": "Portal Celulose",
         "data": "2026-10-26"
       }
     ],
