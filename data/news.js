@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-10-31T15:10:16+00:00",
+  "atualizadoEm": "2026-10-31T19:47:02+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-10-29"
       },
       {
+        "titulo": "Políticas ambientais fortalecem a competitividade do agronegócio brasileiro no mercado internacional",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRUU0bklSTVc0SUI2M29rb3FyY1ZMSW5ucTMtMGlSeExndUhnMTd4SE5kMGt6OS1Md2JXcmdGXzBnRzlrWDhjb0NMS1JNQ291Q2tfR045amwzMFk0X2pjQmJhQV9DaWsxT2Q0RGRqSFVzWm9LOC1YLTJtYXcyeUxGTkVaUXhxSEpJZmtzQ1VqZTI2NEFwdFhJRmtwMFYySjZDTkdCUUZxRGt0T181eFBBdTFNS3poNW1MbHUtLU5rV3psX2Z6XzBySFprNjlENnFqY1RxR0pDcF9OcGhtOXFfck5pOFAtSkFoSTJFbFg4clU5UQ?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-10-27"
+      },
+      {
         "titulo": "As 100 Maiores Empresas do Agronegócio Faturam R$ 2,1 Trilhões em 2025",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalprWHplTGRPelcxemtFbVZHSThPRkpROS1JZk5veTlSWmlPX0pmUUg4NVVNNnVlYVM2V3loR0p0ZGxwcHltRDlpbXFpMTlzTkNzRWZ4Tll4WFNrZVp6bEZhT1BXV3F5QnhWT3FpU29ZZGtZRXhQdmFramtFd1dOZWV4aE9RRzE0ckNuU3p2Z0p1VHU4b2VhMG52MXpDQmptSi1lcHVYbDd1cmxaVnltOA?oc=5",
         "fonte": "Forbes Brasil",
         "data": "2026-10-28"
-      },
-      {
-        "titulo": "Dívidas, crédito e seguro rural: as demandas do agro ao próximo presidente",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObzJaUldKbHRYZHZBckkwdElnQ3pGcWtxTGhweEp5UTA3MXZOV1VtNXY3UkhPQUYtRUZpbVpTLTlhYThRcXRMUVdaeTlsZ3hhMWdyNl9KSzVuazZzZ0V3dUhOQWxDNFZLN1JPZVg5S3hlQWtGSUNnVUhlRGEtWlBQRFh4UjkwUmJoekdxN295VFkzTDBNOVBJam1EQW8xeFB1ZFg5UkVnVXdrRFFTb0NTOTJRQkRqQzVFeWhsNHRiVWw0eXRLSTQ2OA?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-10-24"
       }
     ],
     "alimentos-bebidas": [
@@ -44,12 +44,6 @@ window.NEWS = {
     ],
     "automotivo": [
       {
-        "titulo": "Maior montadora fecha fábrica no Brasil com 1,5 mil",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40SDBGYmtnREtRRGpGaTVRTmFwd3p3R0h4Q3pwTE9WaUVzNEx2b3RTZVVBYnpZZ3ZpUS1tTV82LXJEa1RPdlQ3Sm93OV9jdXZ6ZmR6Sm1KTmUtbkFiMVJhUVgwZkpXdTVHTlgtVW51ckhwS2YyWjBEejlB?oc=5",
-        "fonte": "Acia Araçatuba",
-        "data": "2026-10-27"
-      },
-      {
         "titulo": "Paula Gama: Domínio das montadoras chinesas? Como fica indústria com reeleição de Lula",
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZEZmQU8zR3hJMTlndDNWM09VSGVWOXY1U2JaNEo5T0YwSlBqYURNS29kQkRGMXdRZjNzVnBuS3F4Wk1QZmJXd0ktSmtDbU9FRnpfZUpQY0xxM0tKTzZtZTNGZ0pmVVhxTWxjSkRsakp2VFRUdjV4YVdSeWVoU2Y3VmlQdElyZU9LN2xjZ0RiOXVCa1Y2VEtQdDBhTE5Ma0RjSVFRM3Ffckw4djJhNWpGZTItbzRwT3J3R1lxSWx5Vy1GSmNYQXhOSk9Yb3hmZU0?oc=5",
         "fonte": "UOL",
@@ -60,6 +54,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb29SZkhvdS02U2hRTEFEdUwxOGdXNVlBQjJJWVpEU1pWenFRQ0RQdk55MEhDaFJLdnZ1enFET19nbXJzNEFJTFpMV0tMMktBdk82VmNUUEVmZWNhRUM4aXVTTWpQajdlSUNMOXQ0eFYzMEFHeUYwdllSWGEzT081U091bkdlS055eElVNWtMLWVYWnRjd2lnUTZuNlNCVFRXUmthNTFPMUo2akI2NmlIeFoyQVY?oc=5",
         "fonte": "TV Sim Brasil",
         "data": "2026-10-30"
+      },
+      {
+        "titulo": "Maior montadora fecha fábrica no Brasil com 1,5 mil",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40SDBGYmtnREtRRGpGaTVRTmFwd3p3R0h4Q3pwTE9WaUVzNEx2b3RTZVVBYnpZZ3ZpUS1tTV82LXJEa1RPdlQ3Sm93OV9jdXZ6ZmR6Sm1KTmUtbkFiMVJhUVgwZkpXdTVHTlgtVW51ckhwS2YyWjBEejlB?oc=5",
+        "fonte": "Acia Araçatuba",
+        "data": "2026-10-27"
       }
     ],
     "bioenergia": [
@@ -96,10 +96,10 @@ window.NEWS = {
         "data": "2026-10-30"
       },
       {
-        "titulo": "O magnata do aço Tran Dinh Long e diversas empresas comemoram o novo impulso proveniente do investimento público.",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQVpxUnctR2ZUblhxaFZHZnFfYTFXOHkybFRlVjdCdk43blNXQk9wZ3pMaTdhLU05dWNSS3JHVDJWekE2dmhpa3E0N2dMaDZmY1VGQURkaUdIMHpnOUszU0ZHZ3FGeFlwb2pVRlVVdGJ4OURJLXdNbERBLUdEd05oM0VPcHhsNmtpQ2N2OXFNT1BsMHMxclM2SEgzZGpfY0lJdkk0?oc=5",
-        "fonte": "Vietnam.vn",
-        "data": "2026-10-30"
+        "titulo": "Futuro da construção “imprime-se” em 3D através da Havelar by CIMPOR",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVhnUDE4VWV6ODNxZkdJeUs4aUxwWXpjRFR5dzJQUGNhMkxBODhEMWZMMExGZXgyWk84N2d0aEYwQmd3UXZqRlB4NGpZQ0ZwNTl4cXJXb0JyUmQwMDgxYmJfdGo3dE1aY0tYVW9ZelVGdS1QcGxZWHdaR3hTNm1nMmdXcS1aYlZhRGRaZXJhOWtSQ2Z0dGF4eko2c242bXVTNnRpMFBkdlQwRHktQW93aHpMTERZbnRjQ1RkaHRFRE1NOFlMQTA0Y3Z1d21zTko3a0E?oc=5",
+        "fonte": "Idealista",
+        "data": "2026-10-27"
       }
     ],
     "comercio": [
@@ -150,16 +150,16 @@ window.NEWS = {
         "data": "2026-10-27"
       },
       {
-        "titulo": "Agronegócio é responsável por 60% da energia renovável do Brasil, aponta FGV",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAzSGlacVRiaDlTS0RKQUdSMFlaUlJYMHlSaHM2R0FtVnlVTmN0QkNQY1Y4NS1pT05FZWY5VUd5bGFHcVNsZ242amtzRUxjcENraDdQMDRsYy1xdWlZRm9IRE54RlpEb1VuR21LNEcyRVhjV3Fmd3c?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-10-27"
-      },
-      {
         "titulo": "Niterói sedia Congresso Brasileiro de Energia Solar e destaca investimentos em ciência, inovação e sustentabilidade",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTXlzbDVIN2RPS2VCVkpRUjlVWDczQWJzYzR0QjBSWkNYMUtUUmlQME02bmFhTTJVamxtU0FMVnQ5T1VYWGJXeDZrcU9lWV9MQXdXX3liT09ocElzcHhkTHozRndDTnRscVR0OWtJNk9wOXplYkNOcDh1Tkg0VmhXcnhpRndPYjUwc0k3dXNaaExBdG5aUXVFZ2F2bVpLUXM5al9VMi1XbUZSS0oyTENwME0ydEZwVXZuYTdENXN5a3l4d2RteXNTdlpaaXV4ZnBXUG5NaGpqakc?oc=5",
         "fonte": "Prefeitura Municipal de Niterói",
         "data": "2026-10-27"
+      },
+      {
+        "titulo": "Usina solar leva energia renovável à produção de frutas em Juazeiro (BA)",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVU5YcWl1Z1pKTkx1Zk1nb2VXR2ZaNUx1djBVSGdFT05LalZUYjdWMExUbWFjdHlBaVNVX0d4cVZNektqQXMwTjc4NDBvYk1YOVZDRG9jZ0ptVHpTZkJ0ZWJ3VzVCTDZHYmh1Tzg1bXN2bWxZaWl3T2Vycl83V0FkRE84eDZ0R0xmejhVc2hpLUN0ZkxaejI2eUZPUGw4U1RwTm5FY3J6eVl6Um5wTGxnckNqZUFGTjZqRUNFaHZNMmd6YVNwWEE?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-10-26"
       }
     ],
     "epc": [
@@ -178,16 +178,16 @@ window.NEWS = {
         "data": "2026-10-30"
       },
       {
+        "titulo": "Extensão de patentes ameaça novamente o SUS",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ0k4bXh0b0h0LU45czhBNXAwWWR5MndHY2RJOUstV1ZpUUZtSUs4Nm1qZVFBNktvZHR4N1FOeEdoZngteEdsSXR1SVhoaTU3WTIyYU9LV3Fxb1paeV9uV0dCU01SWGRra21hZXFUYUJzMjMtcHFGbEJONGhkZlFKdldvZU1UejQwTGc?oc=5",
+        "fonte": "Outras Palavras",
+        "data": "2026-10-29"
+      },
+      {
         "titulo": "Brasil amplia presença na produção de medicamentos estratégicos",
         "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRGNGR2pjZUt2M1JLdVUtZno3bnhwbEUtVVBDNG9OWW1md0tDLXhwYVZ6Zl9xSlZtVnpZRWNTQ0J6S1I2NUQ1RFNuM2NaTW9sU0tObnZfYk54N1p2d01SV2FZYlkzSVpnVTdicFJoWDY2SGdPdTZFR01yZ2Yxc0Y0c01STzlMdGtXbFhIWW1rSGIyWUp4ckhlTHpRMEZjWlg0ZExHMUtRMjIydVdMeDRnZXhQb0Rkd0oyYjFmTTQxdw?oc=5",
         "fonte": "Panorama Farmacêutico",
         "data": "2026-10-27"
-      },
-      {
-        "titulo": "Sindusfarma realiza 1º Censo da Indústria Farmacêutica da América Latina",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUEZnRW1laWhNNGJXTS15WVJfNHp6RWYtV3V6M3RzSUdwR0pIMVh3bG9tLWlFbl9aT1B3a01RYTNrZGF4XzZWdl9xY3d5SE14TU9Fakd2UGlYRzVYZkwxMVBya1V1SVhnd1pqdUNnazdtaUJueDNpSmhKTmZEbjg5dk5HYkdQZW1LYXRfODdyX2tQNE5SdWZKSXh3VDVXamR5ZmN5amRSVGNmeG5UaDMwOVRWekxaUzVJblJKQkVic3BUVVVEbnZLadIByAFBVV95cUxNUEZnRW1laWhNNGJXTS15WVJfNHp6RWYtV3V6M3RzSUdwR0pIMVh3bG9tLWlFbl9aT1B3a01RYTNrZGF4XzZWdl9xY3d5SE14TU9Fakd2UGlYRzVYZkwxMVBya1V1SVhnd1pqdUNnazdtaUJueDNpSmhKTmZEbjg5dk5HYkdQZW1LYXRfODdyX2tQNE5SdWZKSXh3VDVXamR5ZmN5amRSVGNmeG5UaDMwOVRWekxaUzVJblJKQkVic3BUVVVEbnZLaQ?oc=5",
-        "fonte": "Mercado&Consumo",
-        "data": "2026-10-29"
       }
     ],
     "fertilizantes": [],
@@ -205,10 +205,10 @@ window.NEWS = {
         "data": "2026-10-26"
       },
       {
-        "titulo": "Maior montadora fecha fábrica no Brasil com 1,5 mil",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40SDBGYmtnREtRRGpGaTVRTmFwd3p3R0h4Q3pwTE9WaUVzNEx2b3RTZVVBYnpZZ3ZpUS1tTV82LXJEa1RPdlQ3Sm93OV9jdXZ6ZmR6Sm1KTmUtbkFiMVJhUVgwZkpXdTVHTlgtVW51ckhwS2YyWjBEejlB?oc=5",
-        "fonte": "Acia Araçatuba",
-        "data": "2026-10-27"
+        "titulo": "Hitachi Energy anuncia expansão da fábrica de Guarulhos no Parque Cecap",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVGYyRktFNTA0MVB3ZU5CMy1zWVFiWmFYYlJwMUloOXFsY29HcmhGajlNX1NUSU5fd3dQenlTb1JVR1N4UDUwTUgtVHRibnFuY29TZkhESlBQalI3aTIwMFBKTTllSHNMUU10Y3N1VGJpZ2NzOGVLVVdxcFFnRFIzR1NSb1BOY2JjNzN6N1ZaR1VYV0tNQVpWRUNVR1BaelY5MlEyeXNhRnZzZk9nRVNtbnpYZmUzUUdE?oc=5",
+        "fonte": "Click Guarulhos",
+        "data": "2026-10-30"
       }
     ],
     "logistica": [
@@ -219,16 +219,16 @@ window.NEWS = {
         "data": "2026-10-28"
       },
       {
+        "titulo": "Após inauguração do primeiro trecho, ferrovia coloca Lucas do Rio Verde no próximo capítulo da logística de Mato Grosso",
+        "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5VckY5WXNnWlVudnpCUlpXSmFXbmxsUThLVDQ2aGdSVmRmLU93N2ttLUZYZDdEN0NDYnFKNXF0T2FHMUVGSDVsS1Qyd0YwSUtFS292ZHp2TDJSNV9yMlJhQ01kYw?oc=5",
+        "fonte": "Prefeitura de Lucas do Rio Verde",
+        "data": "2026-10-30"
+      },
+      {
         "titulo": "Setor portuário vê riscos à cadeia logística com saturação dos portos",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUZlTC1zejE0cjhxLUpPaF92ZkVzWkpNRnRBN0FmQklxYlloVXR1QnFNTkpmZVBnRHRiNldkekZRS00zNWxpNnZYdjdUeGZ5RUFieUJXaWVlVEt4V3NEU3gxTUVBVnJGZXV3WDN5cFhhQzhvT2duZ0EyUjB5ZGRuaEhkbzJwSkJFUmZ4anYwOUlxS1h3Tmpkc253anVuaEtIOGZqSHVLenI?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-10-26"
-      },
-      {
-        "titulo": "Rodovia duplicada, voo a Porto Alegre e volta da ferrovia: anseios logísticos de regiões pujantes da economia do RS",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQYjlWZS1IM3ZxRmZMaWpocnUwclN0REQxYi1XdEw1U0k0YTZZUkpGcURBVXBOWHJaSXJQelhGaTRfQzBwZ242eDFnRmdadFUtUVM1OHNMNUF6b2xwODduWE4xRGRwYWhZSDEtemF2b2szcXBOZTFOT1Fpam56NkhBd19vc2VFY1FUX0kzOGh6Tk5TUlFnVm5DZUtpN185LW4xWVN3TTlMT3lvU2h3MTJFRldZWFFnZ09Ec1hyOXVPd0J5THhXM1NRTUY1b2pFYjB4SDFsSHVKRl9nRnAwZUNCUm9NZ3lrd05uTjNHNWtkMmFDa2lkT29helpHSGF2MW0wTWFCZ2xfV3dmVFRlZkplS2xqZ0s5RTNq?oc=5",
-        "fonte": "GZH",
-        "data": "2026-10-30"
       }
     ],
     "maquinas": [
