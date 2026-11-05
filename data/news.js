@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-04T22:29:46+00:00",
+  "atualizadoEm": "2026-11-05T03:18:34+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-10-29"
       },
       {
-        "titulo": "Coca-Cola anuncia US$ 7 bilhões em investimentos na América Latina: 'Estamos só começando'",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3h6NUxJcEtOSF83QWppa0hIeEl4N3hvQU1BZVJXcURTdEJ2UVJIdy1CclhScjVldzRrY0VQQk1TQkZWYVhVYUI0RW1lM2k1YjVucjlJRWpNcHNHbS0xVmxIVTllUUVYdFJjN2ZFcGhSdTYwS3FDak1hZV9ESHFpTmlLcmZVVXZRQjFQZkg0Z0lOSzRnZ09nZDJlNW8zN2NWN1R5ZWktNmpTYXBLNlpHcDV4dUE?oc=5",
-        "fonte": "Exame",
-        "data": "2026-11-04"
+        "titulo": "ApexBrasil promove Jornada Exportadora de Marcas Próprias no Canadá para ampliar oportunidades de negócios para empresas brasileiras",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ1lPLTdEczcxTWlzS0xmekVtd3pfdkdBMndzTWFqSkllemcybmFnMU9YX2ViUWt3c3h1ZGlydVRWSnpueTNnUno4OW1wOEFhZ25LXzBXQUhCWDY2Wm5VSml1b3M0c1lJTzBPMHlnMndBay1saGdFXzNKVkJDNnVER1JXZHpKWG9hNC15NTM1blJ2YXlNM2RfZUkyOXVPbThYc0tVbzFoaWhrcVdBZzFQTXdibFMyQjdtbjRQSTIzZ05PMldBZnZoR0FlaVBad0FPZjNRaQ?oc=5",
+        "fonte": "Apex Brasil",
+        "data": "2026-11-05"
       }
     ],
     "automotivo": [
@@ -84,10 +84,10 @@ window.NEWS = {
         "data": "2026-10-30"
       },
       {
-        "titulo": "AC3D recebe investimento da Transgulf Readymix para ampliar impressão 3D no CCG - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb3VoZ3NERXc3NlFhN2swVDJiNnJQZXRzdUNKRXVxVHVZRjRzX044NlRkUWtPeHRSeFZMempHU1RHdC01WnIyTmRXWUVGd2FIN3NZVmYtTXZKMVoyRjQzUUhvdTFXUmRYS1VhdDM5NnZPU2NsaGo1a3dsVmNBblhwR2xicjlJQ1hXZEtkOVhKcnRlTEdiY2FUN3FYem5QSzJjd0RLRzhJNHdJV1loSFdzVk44MEZPMUZGNElid05DaktJOXhRVUhVQUs0VllBdXRnNm1fMTFsRUx6Nm9V?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-10-31"
+        "titulo": "Mulher constrói casa no terreno do sogro, paga material e mão de obra e, depois da separação, ex-marido exige que ela deixe o imóvel sem receber nada",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUxqU05RQ1FrUUVUcWdIR2FZZW1ha0R5bjFBODU1cXhfbFVPaUFtT1BEbzQxdm0xMGlacVhwbXIxVUV1TnVyRVNzTy1nUzRVUXp2WmVpeDZmWk84LXlteENBZGllQ1BxdGRjZXE5Uk1VUGRvZGNYbGwyRzRiVEV4NjhXYXZhdWh1TXZtbl9IOXlmY1pjZmlhRWtlNWloY1BaNzNPem13?oc=5",
+        "fonte": "Correio Braziliense",
+        "data": "2026-11-05"
       }
     ],
     "comercio": [
@@ -98,9 +98,9 @@ window.NEWS = {
         "data": "2026-11-03"
       },
       {
-        "titulo": "DB inaugura unidade Atacado e Varejo em Manaus (AM) com investimento de R$ 50 milhões",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORnpISmtzSDJRQ2Vqdm5zQVZEaF9XV2phVDNUZWVneFc3VnQ3TjJDZWF0ZDBJUUJmdy1udmdhS3prTTdoUWIxNDljeExpaFhZWDdUTGVrTlpVUlZEbTBmZVVRbk9Ub1BEVGdPZWFnaW5IVXk5Y3FYV2FRVHYzc0h0N25pV3JQV3dWeGN0dUpuWXFreFFnVFp6bjFQM3RKdVJvZGtkR1M0bEJrb0xvdW8tNXdYOWExVTVaZzdGRg?oc=5",
-        "fonte": "SuperVarejo",
+        "titulo": "Marketplaces aceleram entregas e pressionam o comércio local: como pequenos lojistas podem competir?",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUlpGbThHaThpcDlwV252NWljc3doM1Q2WGx0OG5qMmRmakU1UkNNcXZqVWhWb3hXNHRPekxQemVPd2t4dmVDV1ZMTUhhWE1SSXFGbllzLXRHeGZydG8zZDYxaFFYaTB4d3pUWGJZamNhN1NmRjA1aTBPRUpyZlIxOC1PSVhpQzRBbDJJcUVwM1RuaVBDblVmbTVPN3l0V21DSW9tZFN6QmwtTkRiMUFaTG5KRE5GeFZwWGtGMFdfaDZKRTRhM3luTlFid2hsZmZXTFluNkJRRGs?oc=5",
+        "fonte": "E-Commerce Brasil",
         "data": "2026-10-30"
       },
       {
@@ -124,9 +124,9 @@ window.NEWS = {
         "data": "2026-10-30"
       },
       {
-        "titulo": "Leilão de transmissão de contrata R$ 8,9 bi em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeHNxR0NGM3hER24zOGhGUW1XUlVoaWQ0OWpQYkhYTDNlXzYzR3ZhUzhRVC1YSjFJczFkSEdreGlfVk1zcHVhcHJ3S3Y0SnU2TkozUVVoYm9RVEJ1XzFBZFYyVEVSdVVtU0o2UXFtdUYwSXJsbUZQelFpaXVsYkJhUHdzdDdHUVZSajZCdmY3S1lZZFZMU3ZkUUJmcDhEX2p1Ym1F?oc=5",
-        "fonte": "MegaWhat",
+        "titulo": "Celeo, Cymi e Neoenergia são maiores vencedores de leilão de transmissão, que teve deságio médio de 50,1%",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQN1pjWHhLOWd0Xy12RzNwZXdlZ25jamxNelNaYlpZVnVwcTdwdnBrUEl3Q0lPb2hxSmZPbWlVb1B1dDNPZHdlMEl3R1JyUjQ3T3I3MnB1NjJqaUxXVWVnYk9lOE9BRGJlbkdTVWZNU2Q3NFI0dnJHLTZIQmFtc1lYUXFxQnF5MXJ3a3d4azdtNXdsam5jTVI0NS1zb0ZvQlVncENrZEY0dlQ1WG9oTV9UQlZGeEstY2RNdTI5MklxUExMRVFFNm5McG8wZlRrclZXWjFUWDlrbFhIelZpSHRqQ0h2Y0xsMVVsaE9EX0JjU05IandwMk5jUzJFZGzSAYsCQVVfeXFMTUpVOGhVMGRBR1FjNmdPSXJhQkx3Q3NtQktWRjI0eXdoNHF6bEg2akR0bUlEQ3I3NWlZRE5hTVFFcHdUVk5CVkY0UDdZaWdZV21SWVZOS25QNWRXWU9IeVVmV2N4TmRFM3g3R2YwclpLczktd2VVQ1FPYWc5WjRPRDYyc1VBRi0zN1dzNXlDWG1nbzFObTRaV0lkNm1vSV9abmdWT29oeU41eHkyMHN2d3F2OUUxc09temFvaEt0ejdlZGFGTWZBY195ZVpPUnh0SGpZaXFvcG0tLWtqSEROTVI3OXFyVUZMV0g3RF9sZC1SakMwSDVUNGs3VUZ4MWdJM1Fxel9tRFhnejI0?oc=5",
+        "fonte": "Valor Econômico",
         "data": "2026-10-30"
       }
     ],
@@ -187,15 +187,15 @@ window.NEWS = {
         "data": "2026-10-29"
       },
       {
+        "titulo": "Setor produtivo critica manutenção da Selic em 13,75% ao ano",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZndIMks5Yml3cTYtZ3NKTVdTYjUwMHRQdTRFQkMzaElYY2t2cTZLVVUtY2N6SVNKTHRzN2VZQjBUOUFKZVhLX2lRaWJldkNmckZLd2l0cjlQUkNYTFYxMjNVZTlEeWR3MUpaVi1jT2lNdE1SQXlFZTNYSHJ6TS10ZlFjbDIwT1FtNDRWazdRWWVIWnFnWXAxM1ZUMmIwNkhPU2NvVkdnX1JnV1NyWmc0NU9xR1V3bFU?oc=5",
+        "fonte": "Agência Brasil",
+        "data": "2026-11-04"
+      },
+      {
         "titulo": "Futuro da indústria também se decide fora das fábricas",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZzJPMVZRUDVVTVVmWFBhcWMwdzYtWV84VG0xYlAtQUg2WVVIdVpza2E3cjFmU3Zuam5zbnRkRldJU1B4TjI0Zm9ZUU9aRndEbFZGM04zVW5Vakg5X01zSHlBdTk5UmFTbW5TQWRaWVVId2QzellUWTBfUWRUMm9tVHpWSzc0djZL?oc=5",
         "fonte": "Comex do Brasil",
-        "data": "2026-11-03"
-      },
-      {
-        "titulo": "Multinacional dos EUA fecha única fábrica no Brasil após investir mais de R$ 200 milhões",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaDNYNkVIVEVKem5IUFR1NFRMS1NGalBaRGpGeVFtQTVYYUhGN1ZmakJyc3czVTYzRmQ5WlBHQmN0bFdMX1VtSk9ySjBUSHVUM0RKUDllNDhBUjFCbHdOWEt1alRVdmVxQWJ3dm03MHF6dzdLcHNKbzlyY0JqeEVXWUtaSFRVRnpUSHp6b3dndW9FakVLTGw4S2pLSTh3clNKaTFVX29HamxFdTBLUnlJTjIwM09ud1dqNVYyVEg1NklpZnVPQWVJ0gHMAUFVX3lxTFA2N3gxY2dIeWVZcHdLYzNhMnc1ZGRZbWpXdm5nLUU3YXNzMGdLN0dSOUdEXzFaRFhOLWNIR3E4SVNaa3R3Z3FOTWRpZXZSWUJsdzYzemdGV3JRUXY3eC1TaHdWeGtOQnAxYlJtbThsaVFtQUs1RXpYSExBMmdTQjgzSms3UVhHNlg1LUZSYld1bjNRa3I3WnJPTFlZYThNWkdHV1E4TDFfNFVTNDhiaTRLdGt2M2l2QlNwUHEwU2FWREFmeWdVWWF3YUpaNA?oc=5",
-        "fonte": "GMC Online",
         "data": "2026-11-03"
       }
     ],
@@ -227,8 +227,8 @@ window.NEWS = {
         "data": "2026-10-31"
       },
       {
-        "titulo": "John Deere investe R$ 200 milhões para tornar Catalão seu centro mundial de colhedoras de cana",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEtBTVRXUXVuZ3VMd2tIc2ZJZThKaDRfYVllbl9SOFZMM0pNeGdxS1VBQ0pzMEQxM2xkQm5LdXZnMzRfdXUwd2xvVEhEUktwTlI1dVNvajAxM3hPVzhVSzFKMnFBV0MxOFppT1haWEpXa3JKV0ZDNmVrbWtybGJwVldHVDRrRy1ULTJMMm1yWGRveVMwc29ndFhZRU9xWnFIeXpPaU5YOGxkTTlHa2xjY2g0WGFaSzY5aGw3dV8wdWpLN1BmUXc?oc=5",
+        "titulo": "John Deere faz reorganização industrial e vai tornar Catalão seu centro mundial de colhedoras de cana",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPd1JQUkVGSlluMzcxbE83dzd2VWVQNzdMTEx3TW5xNlR5MVo0d0ZXN3V4NkFGeGFSU2xTZV9CWGJDM0tvZ0pSN1l5R19uekZ1SHQ0ZnUzV1FRQzJRSkNLUnExdXFsMDhwZHVkT2cydXZxanBYemR5WHFFdmVOaGIzLWJIbHprY3ZIRkE0TmpWckxnczZESi11SWM4b0FrcDVidnhhZldIU2tFMDFmcXU5YnhPS05DOHlZUGIyWFoyYjJqMjlC?oc=5",
         "fonte": "AgFeed",
         "data": "2026-11-04"
       },
@@ -287,16 +287,16 @@ window.NEWS = {
         "data": "2026-11-02"
       },
       {
-        "titulo": "Mercado de Refrigerante R717 até 2035: redução de HFC e resfriamento industrial impulsionam o crescimento - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXBIMTd3bDFmeGtIZ3BaSkF5d1hlb1NFdG1ISzhmUWNJZERsQnJ4dzVKaGk3Mzl0akVkYm9ZdDFxejBLLUNXZUNFZ2dNRTZkdVpzcUJoZG5JWEp5MXhSSzQ4SlA2eFlaZUdpSG93dy1vMDVVSnZkOHBOMWhrbGdDakdLLVdZS3poMEpaZ3Ywck5sTU9vbW9IVWUwSmFILXFjeUw0ei1VaHpQS2ZEa0pMcFRSMk1hbkZiYURaNWE1d0JPdXo1SG5aZlBURWF3c2pwWWxv?oc=5",
+        "titulo": "Mercado de adsorventes para separação de ar até 2035: oxigênio medicinal e gases industriais impulsionam o crescimento - Notícias e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZU1wb0twVzk5OXp5Ukc0LTFGampPYUZGMFlSQ0l4a2hCWU1FcWtiMUZUNHUtQXVoRTYzcFhtTGpFTk1aSk5DbmtYaGZIdjBoWjEtN0tGVkpEOWxvVW9LNE1GTnNwVmtBdG96eFRHbU9YRy1HVWJILTdJSGwzSm5qdF8zTENxY1BhdXNUMms1WUo4aE1jYTJKTVlneXo3RklZdkdIYm5CaEpETUhPQXUyRW1McHNDcjh0d3hHeFBNLUlwLWllZEdSZ3MxaXBwXy1KOGc?oc=5",
         "fonte": "IndexBox",
         "data": "2026-11-04"
       },
       {
-        "titulo": "Unidade de captura de carbono da Gulf Cryo em Abu Dhabi inicia produção - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQ2hXejkyV041SmJNUG1qYVc4NG1WY2l6X21LWUVNSUtYalJjM0RMVkJvaGp0VUwzWGVDdF9JQmY1aGhmdzJIQnZDdk1zMEFyZW1BWWxxWDNRQ3Q4TnZLMjVTM2FJbHBEVFN3UEZoamowUDdjZGF0Ry12eUFBZFp0S3FyOEVKZzYwMkFjY1JDZU5ibEtqVTF5c21rWFRHbTBMMWY5TjFDVHVoZw?oc=5",
+        "titulo": "Mercado de Refrigerante R717 até 2035: redução de HFC e resfriamento industrial impulsionam o crescimento - Notícias e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdXBIMTd3bDFmeGtIZ3BaSkF5d1hlb1NFdG1ISzhmUWNJZERsQnJ4dzVKaGk3Mzl0akVkYm9ZdDFxejBLLUNXZUNFZ2dNRTZkdVpzcUJoZG5JWEp5MXhSSzQ4SlA2eFlaZUdpSG93dy1vMDVVSnZkOHBOMWhrbGdDakdLLVdZS3poMEpaZ3Ywck5sTU9vbW9IVWUwSmFILXFjeUw0ei1VaHpQS2ZEa0pMcFRSMk1hbkZiYURaNWE1d0JPdXo1SG5aZlBURWF3c2pwWWxv?oc=5",
         "fonte": "IndexBox",
-        "data": "2026-11-03"
+        "data": "2026-11-04"
       }
     ],
     "saneamento": [
