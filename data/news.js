@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-06T21:58:28+00:00",
+  "atualizadoEm": "2026-11-07T01:46:33+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -24,15 +24,15 @@ window.NEWS = {
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Em parceria com o Governo de SP, Jundiaí lidera avanço do Município Global e é a primeira cidade a chegar à segunda fase do programa de internacionalização",
-        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNOXl4TWp0N2IzVWdkTm5ERUY5ejRJVldfazhJVzBvbEVaZVRoOEdoZjBZV2RJRDRzd21tbVFvLTF0ejFfWVFKUXNKNjBUQlFqa0NYMWl4UmY0UnFQSHJDTjNXR1VaTGNqZ0NwRDA5U3d3dWdzbmc0WFExN3ZlMmk3bmV5TVIxaEFpa0oxek9HbFZ3SlF1RHhwRVlPdlBuTEUzd3hvclpuV3F6MEdvMm5na0VNRFZNMGd6VE05blN3bVJzZ0FaRnZuVnVZTFZXZmRvU3hZNmdYcGIzQWhna3A0akFpYmpLNnc2ZzBKdnowLThvSFN1UUlUeDFjTV9aaGprRjk4VmxLWWJNR2FHUzhfRHVOUi1Ma0VMYWs1Qmkwbmx3MXlZemdtQlVvYzRSeVVkTjZ3M2hGSlRjUUxCODVVZQ?oc=5",
-        "fonte": "Prefeitura de Jundiaí",
-        "data": "2026-11-06"
-      },
-      {
         "titulo": "A Nova Realidade da Indústria de Alimentos: Crescer, Especializar-se ou Ser Comprada",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONnJRa1lyYjFlN0dsNnZ6dWo3eTVILVNPckFscG9uVHdUT1lsM2QzMjVJeXJKaVpzUUREWE1pZXVCcU1aU1pwMDZXeV9ud2ZhQmdaaDNfamUzeVVFaUpMby1EZlVYam5tTDJQc1lNSVNjT2xmdWcxcS1CdnA5V0R3WGhRbnNvVk5YcUlDdXBMV282bVRmZUFKY0h3bHZtVXlHckRsZVpWNTYxZUpaVVlTY2gwN2pzMlhXSjdyMWU2VzlpVHM?oc=5",
         "fonte": "Forbes Brasil",
+        "data": "2026-11-06"
+      },
+      {
+        "titulo": "Em parceria com o Governo de SP, Jundiaí lidera avanço do Município Global e é a primeira cidade a chegar à segunda fase do programa de internacionalização",
+        "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNOXl4TWp0N2IzVWdkTm5ERUY5ejRJVldfazhJVzBvbEVaZVRoOEdoZjBZV2RJRDRzd21tbVFvLTF0ejFfWVFKUXNKNjBUQlFqa0NYMWl4UmY0UnFQSHJDTjNXR1VaTGNqZ0NwRDA5U3d3dWdzbmc0WFExN3ZlMmk3bmV5TVIxaEFpa0oxek9HbFZ3SlF1RHhwRVlPdlBuTEUzd3hvclpuV3F6MEdvMm5na0VNRFZNMGd6VE05blN3bVJzZ0FaRnZuVnVZTFZXZmRvU3hZNmdYcGIzQWhna3A0akFpYmpLNnc2ZzBKdnowLThvSFN1UUlUeDFjTV9aaGprRjk4VmxLWWJNR2FHUzhfRHVOUi1Ma0VMYWs1Qmkwbmx3MXlZemdtQlVvYzRSeVVkTjZ3M2hGSlRjUUxCODVVZQ?oc=5",
+        "fonte": "Prefeitura de Jundiaí",
         "data": "2026-11-06"
       },
       {
@@ -47,7 +47,7 @@ window.NEWS = {
         "titulo": "Carro novo vai caber no bolso? Os desafios de Lula 4 para o setor automotivo",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNFdma3dYVjcxc2hEZXo4Rl9HMnExc0V5WXB6S3hVaE9KdC1oTHE5QUhxZTdwYjMtcWlCOTlKaVAyc0s1dUQ4b2NjZnBVV285amcySmtUR0RpbUtKbVUxTDkzeTFzTGRySnlwQXllNXFlaTV1eUNUb1V6QU9JYkh0bmNnVktqNmVadC1kSmtuQ1I3ZmRyQW5UVmtpOXhRSFZtVTIyVDZCTUtSYk1ROHVRclliTmRHZkRUb0RlSDROVXlvUGFrZFE?oc=5",
         "fonte": "Estadão",
-        "data": "2026-11-03"
+        "data": "2026-11-06"
       },
       {
         "titulo": "Carro novo vai caber no bolso? Os desafios de Lula 4 para o setor automotivo",
@@ -64,6 +64,12 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
+        "titulo": "Brasil pode ter déficit de 4,5 bilhões de litros de biodiesel em 2036 com mistura B25, aponta EPE",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOTjFmNjFaTDRwRnQtU0lJbF96WUFRSlQ2LXdKVHROVlVINEZVTW9qcHJISERIZXV6Q0RGZVhJSU16QTlrTWwxRmI3SFpfaFY3MU1IUUdFR2Z0YTRkQTU1SXZac1hJZGdkTWZIZXd6Qks3Szh3ZEFPN0ItekxFRUJPM1NTWE43cHhOeG1aQjJZR3Z3V2ZCYklFd0xDMGtLRzRlbFVzd2xLSTVpdmVRLThoMFNOaUptZC1YS0FreFVaZmJ2NUhraU1sX0c3dVlxcjJrejFOTkNGbmk2QkVONHVvaXVld3ZkVmk1Y25pcEktNW4?oc=5",
+        "fonte": "eixos",
+        "data": "2026-11-06"
+      },
+      {
         "titulo": "Brasil projeta 19 novas usinas de etanol de milho até 2028 e dobra capacidade de produção",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmZyZzdSS25HN21BbW1mQk9pb0xKUzBIQmJhWEl1WDU2YWZ3dkEwUTFRUkZRLVc3M2tiazhzV3hBRmdES1o5SVVGZjltYmtRTi1UM2t4UnB6Y3RrcDJTTGlRWFZkVXlLZkUzWFF5d0hZVDhhcThOS0Y3dk1pcTdLMjMtamt3by02d2VYb2pabnZGT1U?oc=5",
         "fonte": "JornalCana",
@@ -74,12 +80,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVzdnVob1JQNkJpVXVjYnRmVXJzMkh6a1F0WmpSamtJSXZzX2FmQmRyMFh3Y3hyS01sckFrWUlIQUlfQkxJTzFIZnhpSU1UMjdUWVRhZE9OQndiUWxXNzZuVVFFOTdYdmVxWWhlQ0w4X01iOW56WV83S1V3XzJoTE1PbXRWb2JkdnhjekdQVEJfVVZUV0pjV2c2RXdxMnN4WGlJR29qN0NSMHlrU2NiVEhLeTFKRVNYWnc?oc=5",
         "fonte": "Capital Reset",
         "data": "2026-11-05"
-      },
-      {
-        "titulo": "Raízen avança na reestruturação e terá duas empresas com novos comandos",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmhsX2FDeEx2TGFvTDR1MEdnYndBQ0pwbjFibkJjU0VMQzhpb1VsWDlzY21IdXZHOFF1RkVkR041b3dvY0JnVm4xb3dMazJZUnZpeUNXbEpUbGFsOXlTeWZoQm9qelc5Y01Kb1hsT2hkMFBxbC1fQW1tejhRTk95cWxFUDV0Y1RNY0JpdXRoSTlJblJ0X0ZpWEplWWVkOVY5OFpEVEhJSEVXQQ?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-11-03"
       }
     ],
     "cimento": [
@@ -136,10 +136,10 @@ window.NEWS = {
         "data": "2026-11-03"
       },
       {
-        "titulo": "Alupar amplia atuação no Chile com vitória em leilão de transmissão",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHZIVG90T25yTDBMVUtXaTdKT0xMNXlWQ2lJc2JXdEFJSG5FY0lmRi1ybWN3Qi0zYllmbGJjOTdqUFVjWE54LVZVSmJpWl8tWmJyLWh1bzNOeFR2WTRBZ2xwZmI4MzJnUTZHVFBmaDRvUXhnQjRZNEVXUkxkbmhLZHdySjZWdzhkVzdULV9ON0puRFNXZXZtc1VwR2hESzN4Q2Z6WkRYb0F4bUNpWmIwQzZjS1lfV2ZhNm9UejJKR2ZvQ1U?oc=5",
-        "fonte": "MegaWhat",
-        "data": "2026-11-04"
+        "titulo": "Leilões de transmissão de energia podem superar R$ 50 bilhões em 2027",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWhaX0pMcDRwVDNUSHJHQTVJVjc5MlRLY1poeEl4SGVwcEREaWFKZTBuR3JaQnZhLTlZVXRYcTJ4RGtiRWxSbmNIY2NtS1dzTHVSRm43UklhVmNjQjdYTjBEMWtlSzJ2SE9XNGhwRXBINld2dmFITlJNSi1JOFlIX3NMWHJIRmZ0VUQ3RzhyaUtuNkZxdDBhcEdvb1JmbWE4aUVPQmd1dw?oc=5",
+        "fonte": "VEJA",
+        "data": "2026-11-02"
       }
     ],
     "solar": [
@@ -231,10 +231,10 @@ window.NEWS = {
         "data": "2026-11-02"
       },
       {
-        "titulo": "CODEBA e Bahiainveste firmam parceria para fortalecer logística na Bahia",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQY2NGZGQzSFNteVo2UXhxMndCczlFY2ZnMWNRVmlXLXZOVEFhUnh4d0xhRXB1REJfUDFnNDNfRHV5RUl5dkpMNkNoTXRZXzZ5NVFpNUtZa0xoVk9zWC1wc0NrTTI2LU9PcWNOdGhtV1FNVTZqNEhGdEdXYlNvVzNKRXFJWlJlX2VWTWlBdmQ4N0tSdmJiS1JZcVJTYXNHZC12aTNpZjNsY0dVbFVQSTI0?oc=5",
-        "fonte": "REDE BRASIL DE TELEVISÃO",
-        "data": "2026-11-04"
+        "titulo": "Estrangeiros demonstram interesse em aquisições de concessionárias",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmozbHVEUGtENjRqbll1aHo4NGVMeXNPUHpFNzBPRHhTMTBLd3JtV2pDclhKWWtoRTR5Ry1QeWpXaGFNbUlIdWdzdWNOU08yU3lwdUNpazdxY0toOUV0bGpveHA4Z2Q5Y0VvZmhyVzhGRXZIRmdPaVU4bEdYdXY1ZXFYSlNyajIwdDdLVVBiT1BJd3R3ZHlnR2RoYzh2MEw2TkYzcDNsTmZMaUtEM19UanZPbUkwVE54Y0V30gHAAUFVX3lxTE93TnJXQWI3QmJKdVlxaEtrNEh4b0VObzZlaEZXc0VTQ0N5Zms4RmJXTEpLdGZuaDZqQWI4QzNuaVJGWGI1dF9wdnpmXzc2QkVhX0pTTGJVX3llcUt3X3pzbms0RnpBbFpyLVU1cDQwRjhBb1R5OTFyMS1RNXVqeUNsQ2ZfQVp1QWRqMGVrdk1SbHNOdEoxd0lyNWFsTVBfOUZianFUblFKQjk1aUxwWnFnOVNfOHBRNjZqaXItWDBBTQ?oc=5",
+        "fonte": "Estadão",
+        "data": "2026-11-03"
       }
     ],
     "maquinas": [
@@ -259,8 +259,8 @@ window.NEWS = {
     ],
     "mineracao": [
       {
-        "titulo": "Governo Federal aprova lista brasileira de minerais críticos e estratégicos — Casa Civil",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUlNLMmJMSjhEYmNjVHd2RE1pTlp6TzR6R3o1bG5VU1gtWUdONlVrV291WGpob0RXbkd6SUVrTEZZNU5RbU5wUG8zbWdDVHQ4S3FuQ1JULWdORm4yMWdJZzk3U2JLckNmOVU0X01MNzBzRDNXT3U5OS02VUlfeHNBbnpBUmhFX2thRmxnTV9zdGdnUzFQeWQ1ZTd5eXpIdkZRZUZRRVN5anNVTE9ERHZ0UkpBZmk0ZDBZVldkQ2NZRXNPeXozaG5iUDBGN2Z3OVZIbllLZ1dxVzUwdw?oc=5",
+        "titulo": "Governo Federal aprova lista brasileira de minerais críticos e estratégicos",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM2ZWa0pNdVFubTl1TFpmLTNPWlhjRktZTTN4WG93RkdCMl9ieF9EdkxPNWZxcWZFVWZjZWRzeUpQaThpZHJiY1BlNm5uYXAzTEFpRHZJUk1QM1JONkFFbWxFMEY2R1JQZ2s2dTRXSDc4dUlKVXJRNmVLMERnZW5sXzdtSHZKLU9SQ2pnUG9GVWJNVkZ6SUNyMndIVUg5VzZvZTFmVTc4dWlsYkVVVzE4aU5FeGRhc0ZFSjdNa0Z3dmd5Z2NhZU1pNHZPQWVrbXlwX1BR?oc=5",
         "fonte": "Governo Federal",
         "data": "2026-11-05"
       },
@@ -285,16 +285,16 @@ window.NEWS = {
         "data": "2026-11-03"
       },
       {
-        "titulo": "CNI apresenta propostas para reduzir entraves à competitividade",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNTVNvUVZpZm84RTgySV91YmNwRkhqaGtnV2JyV3Z6c042VFFxdGlrY1p1bDdUSVdpYWNIaW5ZX2laaFphVjNzcm1QOWxycUVMVElRenhlREJkTndyTTBNYlVPTFgxdVBoY3hmcENDUmY4YWdTc281ZE8wM3VibkdOSUdYWHFicWRuZ1JmZnNXUmZPcU84LTZJNFJFWXBPWTRYMWfSAacBQVVfeXFMTWRJUFZlMVFnQk95ZW9sOVRDLTE1MVNGeEMycHFPODE2d2pManBCN1pma090b18yUkotemJuOEIyNkplTEx5cGNFX1U0VHdJdEVDZFh6Y0ROZzdySmhsVWQ4Rm9GSUFRT2IyNWs0SG5xMXVLZ1RSYS1nTzNCM0pJOVhmcmZSc25oZjdEd2NwWHoyYnJJLUViZjVha1pmOUpBRk5MRHpwdm8?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-10-30"
-      },
-      {
         "titulo": "Tecnologias avançadas de regeneração de água da Veolia fortalecem a segurança ambiental da nova fábrica de celulose da Arauco no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMjZWbFNuVm9YZmV0eDkxd1Raa2Zqa2MwWF9ESHczT3lDT3Bwam03SWM5U0tZcU1acmMxNzNIRFMxYkd5VjlSd0doMGJva1ZhQVYwWFdsbS1ZR1REQkhzUGZpWHhkd1E4enZvbVUzeXBvVnI5MWZGOEMzSTZUMTRIZFFVVVpVUkROOXhwU1lxMzQwX0FQU3BLNFBGbjV6Y09oc1liUDMyZHhRckZNUjBDUU1sMXJOb0k4MGNCRld6UlFmRlZoOU9TMXRDUEFaVUZteWRaT2xfMlNGcTlnV1FSb2dSdXhPVTdfM2pubFh5X1MycDcwRkFJ?oc=5",
         "fonte": "Tissue Online",
         "data": "2026-11-04"
+      },
+      {
+        "titulo": "Vale da Celulose se aproxima da universalização do esgoto com investimentos em saneamento",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTV9uNVQxUHRQXzc0ZVktVmVJS2QwdXIzajA0cldRSWJrQm5KZjl5dlI4aF82cHlwU3lrMDBZLXoyc21iSnhDdFdXeFBOa2lfNXVQRTJSa0kxNjVnZUxXUGtjV0NUbzlaRUJwYXIzTnBIazFNSjJtYkEtazc2X1BoQTBiZkFISXlsaHVra0Y0ZWU0SGRfVTlLT2l3S3BhZnQ4ajh1RDhzN3FjT04wN0dNSEZkZnhPUnp1TGN4R1pIU2UxRGpsREE?oc=5",
+        "fonte": "REDE BRASIL DE TELEVISÃO",
+        "data": "2026-11-05"
       }
     ],
     "quimica": [
