@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-07T19:59:11+00:00",
+  "atualizadoEm": "2026-11-07T23:36:01+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -124,10 +124,10 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
-        "titulo": "Leilão de energia prevê R$ 8,9 bilhões em investimentos e 20 mil empregos",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVVZd1dVQ3k4VldCSnhJQUEtUTJ0bUFiUFVmQlBxMXVQb19GeGc1dk9uNHhPQTRJemdjSzAwQS1SUFNlN3RGdFlTLVhfRUhGMHB2TmN5TmFlRXR1dVRwUnZsTDlTTnBvLW1VWGxCNHc3MF9wZEo3bkpnZUV1bDhrQ1V5RWJJdzhKUjR4Tkc4TU5OUzYxUFNSaWRHRjlRUlJmYnh5SllaNHZReXJ0YzRlY2pUNG42dUk?oc=5",
+        "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
         "fonte": "Times Brasil | CNBC",
-        "data": "2026-11-03"
+        "data": "2026-11-07"
       },
       {
         "titulo": "Alupar amplia atuação no Chile com vitória em leilão de transmissão",
@@ -199,15 +199,15 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Honda completa 50 anos de produção de motocicletas no Brasil e anuncia investimento de R$ 3,3 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYkJldmNFVW1kWWdSUFJCYzdxY1Fqcl8zOHVOX2JNOFZVLXJZM0N5WG1CaTltbTBkZ1FzbERBZGttUU1Qd3ctSnJQQXp3Y2Naa05udFZEaG1DXzBWbkEwbTh0Ulh3b1VoNGtCbTVoYWhZVi1NVFdxZE9xbkV5X3ZRUXBPVHZqNzg3MmNLaWI5TDlmTkNjckpub2Zia2tsQVd5UW9DRUxfemkxYlpWU3Z2LVI4RGhUSGJMZE9LZWU2Wkk3NW9wbnBLVHdYSERlUQ?oc=5",
-        "fonte": "Honda",
-        "data": "2026-11-05"
-      },
-      {
         "titulo": "Grupo ZTT anuncia investimento de R$ 110 milhões para instalar fábrica e gerar 200 empregos em Três Corações, MG",
         "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOd0RtdTBXeUpPT3lIR3pidk9ZR194NVdBekVFRzVYdGRUbWN1TF9LRXc3NkEwTHFRUWczRzdhZEZXbzJjcFBzdXV3VUdUdzJWX1lTaE5YX185cEZYSWRxdHMyS29qQldncHZOaDQ2LW1NNHFXa0NleVRvRVFXdnpFejV6MnZmSFljSEF0bmd4dFV2bGI4aERWUjFGV083em1BYXh1Y2tkeXI1RFYySWVSWF91NWpWY2hMX2puMnE0R2xyNWhRc1V5SDVwUml2MU1tR1FYc1dNTlI4Rmt6QmE0MkNxUkh6VGI1czlDUHN0cjdaQ2ZYYjJ1aTN4bzJGM0h1WWfSAZACQVVfeXFMUG9lU0FaTlFWTXNrYlVlaS1YWEpGT3ZhQVpKR1Ixb0xMU3A0d2lSVlVXNEpyajBseHJZeV9keWVrZDdKQl9uZkk2VHVCQjItOEJiVlNZT3FzTlRkaVpkNEdEZ0RNWFdDMmpOWTlFTVBrSm9oR203V2xHaUxIdFQ1RVdBWHI3elIzYzJwX05TbU9NeWVkM1V2dmtZc3ZNVGZ2cnczcHJkWTdUMnVwc1RUWTBHeno1SnpvaTBMNkNhdFNwU00xNmRQNHpTcmJYS1FyaHdVM1VIZXAwSDF2RXJOZjFNT1g4MW5LWU1UOW5RTUdSUkZQVFhvR0hxRmxnb0JJdy15MS1oSFFjN2dVcDZKZnM?oc=5",
         "fonte": "G1",
+        "data": "2026-11-05"
+      },
+      {
+        "titulo": "Honda completa 50 anos de produção de motocicletas no Brasil e anuncia investimento de R$ 3,3 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYkJldmNFVW1kWWdSUFJCYzdxY1Fqcl8zOHVOX2JNOFZVLXJZM0N5WG1CaTltbTBkZ1FzbERBZGttUU1Qd3ctSnJQQXp3Y2Naa05udFZEaG1DXzBWbkEwbTh0Ulh3b1VoNGtCbTVoYWhZVi1NVFdxZE9xbkV5X3ZRUXBPVHZqNzg3MmNLaWI5TDlmTkNjckpub2Zia2tsQVd5UW9DRUxfemkxYlpWU3Z2LVI4RGhUSGJMZE9LZWU2Wkk3NW9wbnBLVHdYSERlUQ?oc=5",
+        "fonte": "Honda",
         "data": "2026-11-05"
       },
       {
@@ -291,10 +291,10 @@ window.NEWS = {
         "data": "2026-11-04"
       },
       {
-        "titulo": "Vale da Celulose se aproxima da universalização do esgoto com investimentos em saneamento",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTV9uNVQxUHRQXzc0ZVktVmVJS2QwdXIzajA0cldRSWJrQm5KZjl5dlI4aF82cHlwU3lrMDBZLXoyc21iSnhDdFdXeFBOa2lfNXVQRTJSa0kxNjVnZUxXUGtjV0NUbzlaRUJwYXIzTnBIazFNSjJtYkEtazc2X1BoQTBiZkFISXlsaHVra0Y0ZWU0SGRfVTlLT2l3S3BhZnQ4ajh1RDhzN3FjT04wN0dNSEZkZnhPUnp1TGN4R1pIU2UxRGpsREE?oc=5",
-        "fonte": "REDE BRASIL DE TELEVISÃO",
-        "data": "2026-11-05"
+        "titulo": "Suzano (SUZB3) lucra R$ 2,1 bilhões no 3T26, alta de 6%",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF8tVFZxc3JUWkpEZlF6SnpYUGNBZ3J5eGV0NFZsWlY5b1BzZWg3emZweEcyM3pCQjIyQ3VTaFUwLTJwcC1XWmE0LThWaGZkN2xuaURfSnhtdmNmTDZEQk5CQng0SlE1ZGZhekRMalVhVDI5MFg5MkIzei01elN0ZFhwUkJOb1J6SWs0akdMREQwV0FNb0ZqMDhzaVBaMzRo0gGgAUFVX3lxTE5wXy1UVnFzclRaSkRmUXpKelhQY0Fncnl4ZXQ0VmxaVjlvUHNlaDd6ZnB4RzIzekJCMjJDdVNoVTAtMnBwLVdaYTQtOFZoZmQ3bG5pRF9KeG12Y2ZMNkRCTkJCeDRKUTVkZmF6RExqVWFUMjkwWDkyQjN6LTV6U3RkWHBSQk5vUnpJazRqR0xERDBXQU1vRmowOHNpUFozNGg?oc=5",
+        "fonte": "Investidor10",
+        "data": "2026-11-06"
       }
     ],
     "quimica": [
