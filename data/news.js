@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-07T15:31:25+00:00",
+  "atualizadoEm": "2026-11-07T19:59:11+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -90,16 +90,16 @@ window.NEWS = {
         "data": "2026-10-31"
       },
       {
+        "titulo": "Mulher compra 3,4 hectares na Austrália, gasta 26 mil dólares australianos em aprovações e constrói casa de bolhas com concreto aerado",
+        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOR1pqa3FnYzhXVXU1SnlLTlo4WWd6dGRlcDJvaFNiYXIxV0N4SDlsVFNvRWlJZDYtTzlVQXhMU3N4Vlk0MGUxOExVME56ZlVKVF9YQ1BZbm5ia1hOSkw0Y2xFcVF5ZkJVMUZCLUpaM3V0ODJGLUFvQldzUzhjY0FRY0JyYUkydHF1S0VqMjVOOXNxdjJlZklyMXJHT2tSMVZtem0tX3VyMkdOVkI5eW9iY0dCd3l1VkZ2NzZycXJKODd0Vm12VUlwMmM5eXprV3NxNGZFbEpSRHROMl9uNTc0OG9JOGUxanVQQjg2Wm9fSFNVUUpiay14VkxOX2t1MFdVS0pnMTl3?oc=5",
+        "fonte": "Midiamax",
+        "data": "2026-11-07"
+      },
+      {
         "titulo": "Mulher constrói casa no terreno do sogro, paga material e mão de obra e, depois da separação, ex-marido exige que ela deixe o imóvel sem receber nada",
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUxqU05RQ1FrUUVUcWdIR2FZZW1ha0R5bjFBODU1cXhfbFVPaUFtT1BEbzQxdm0xMGlacVhwbXIxVUV1TnVyRVNzTy1nUzRVUXp2WmVpeDZmWk84LXlteENBZGllQ1BxdGRjZXE5Uk1VUGRvZGNYbGwyRzRiVEV4NjhXYXZhdWh1TXZtbl9IOXlmY1pjZmlhRWtlNWloY1BaNzNPem13?oc=5",
         "fonte": "Correio Braziliense",
         "data": "2026-11-05"
-      },
-      {
-        "titulo": "Filho constrói casa nos fundos do terreno da mãe, paga material e mão de obra e, depois da morte dela, os irmãos exigem que a construção entre na divisão da herança",
-        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxOdDdkaExPWThZMkxNOHluWjdqV0ZYdmFfdkxCQURaRVg5SHY4Qy03bmdTWmk5aU1BMkpxU3Zkb3BSNmNlYi1WV1R3Z1NhQmFJaTlRdnpzSlBEbmhMN3puTDRMcFdRWG9RTk8xQ212U0xnb3pTTDhvU09taTVrSjE1RXBxclVRMGNJUmI0RXM0RXVYMDFzM2NBT1JhQ1RWZXZMVm9IWXFuS1NHR0U1OWhGZUZ2Yi0wd1g1SklzY1dHNGp2aFdVYVo1eWlBWkl2VlQ0MXh4UGN5WUdDbGNUd3FTZHo1TFhfb0JXUWVCQXZOZmNKWTdRUDAwcFRyRVZGcmNaZURmZjhjZ0hmay15RHk1U2RZU3FmZ1ZFUV9Udm5DSEhoY2Y1QU9VZXJPMmJ2YWtyUWc?oc=5",
-        "fonte": "Correio Braziliense",
-        "data": "2026-11-02"
       }
     ],
     "comercio": [
@@ -130,30 +130,30 @@ window.NEWS = {
         "data": "2026-11-03"
       },
       {
-        "titulo": "Leilões de transmissão de energia podem superar R$ 50 bilhões em 2027",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWWhaX0pMcDRwVDNUSHJHQTVJVjc5MlRLY1poeEl4SGVwcEREaWFKZTBuR3JaQnZhLTlZVXRYcTJ4RGtiRWxSbmNIY2NtS1dzTHVSRm43UklhVmNjQjdYTjBEMWtlSzJ2SE9XNGhwRXBINld2dmFITlJNSi1JOFlIX3NMWHJIRmZ0VUQ3RzhyaUtuNkZxdDBhcEdvb1JmbWE4aUVPQmd1dw?oc=5",
-        "fonte": "VEJA",
-        "data": "2026-11-02"
-      },
-      {
         "titulo": "Alupar amplia atuação no Chile com vitória em leilão de transmissão",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaHZIVG90T25yTDBMVUtXaTdKT0xMNXlWQ2lJc2JXdEFJSG5FY0lmRi1ybWN3Qi0zYllmbGJjOTdqUFVjWE54LVZVSmJpWl8tWmJyLWh1bzNOeFR2WTRBZ2xwZmI4MzJnUTZHVFBmaDRvUXhnQjRZNEVXUkxkbmhLZHdySjZWdzhkVzdULV9ON0puRFNXZXZtc1VwR2hESzN4Q2Z6WkRYb0F4bUNpWmIwQzZjS1lfV2ZhNm9UejJKR2ZvQ1U?oc=5",
         "fonte": "MegaWhat",
         "data": "2026-11-04"
+      },
+      {
+        "titulo": "Governo planeja 113 leilões e R$ 470 bi em investimentos até 2030",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2duQ1FfbXc4QzU2ZE1oRl82QVJCMVM5Nm1lTWNVSW5RWGdCS2N3ZG1tU2o2ZFVsYXZSRGdRamlEYjZNQnRTS1YyVjZZUTUtcnRZaWxWN1J6N3dzNFhmRm9odVJrSVdMTVFoT1dJSVJUMW0zdW51RnBwWGk3OUlFQXUwQ1V2a0k1RndIU1FkNTJiUjNoZFE0UC1Dak92eTVnSk9oZm45Wk4wTDBveDRoMkluX28?oc=5",
+        "fonte": "Poder360",
+        "data": "2026-11-07"
       }
     ],
     "solar": [
-      {
-        "titulo": "First Solar dispara após vitória democrata nos EUA impulsionar ações de energia solar",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeFhRa2tGUHdISVBGeUxwOWR0Tk5BVUVYYTBXSFltRVpyNnR6ZFItVm1Zd09tYk9ZVXNjMno3cnNZV2xzWDA0MFV0a3hoTG1SenZGSjE1S19MdEVYNURfZlFjNGFVUWJGUm9lZGpORjhsSG1YcDRvV3ZmQkdlVVhuOXVyeUtadFlYb3o1WUVPQ29WaUNzZmRNb0R4dDlaMlE?oc=5",
-        "fonte": "ADVFN",
-        "data": "2026-11-04"
-      },
       {
         "titulo": "Investimentos em Baterias Ajudam a Conter Alta nos Preços de Energia nos Estados Unidos",
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPakswd0FkZ0dZb1I4RjM0YmdLZHVaSG5HcTA2ZS1ld1k1ZlFaSWlreG5sa3pTd3BvVnVGRUVkMHBHUi1nOV9zTUZOVl9GZ3c2RTZBNGZIeGZtTldzd2lxRDVVZ1l4ZDZVdzVvT1U1T05FU29ySFIzaGJtdkRVcmlWZGFFN1B5WFBxcEV2VksyNlh3SlFwc2dMeHRLcnRSM2g5YmZSOWZiYVBCMGkzWVpLcW81aURIb3FmR1RHRjA0UEoxN0ZoTkd3cExn?oc=5",
         "fonte": "Forbes Brasil",
         "data": "2026-11-04"
+      },
+      {
+        "titulo": "Renováveis ganham espaço, mas fósseis concentram 70% dos subsídios",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOMkxpWjJ1YVRkSW91bFVFem9VMXhpejNwM1E0a3RNSXZnSUhYd1BBSjZJYkJuVW5pS0ZvMzE0SXJMcHVHMGxwRXVrYXg2dXl3SWtBb2FkZXF5SzBZblV6cFdQbTMxQ29kdWgydHlCOHdTd2pxYWdXVi00NmNUeDIxaVR3ejJkZ0pNblVIS1hfWVJ6YnVTT3o5OENsMV9hdmk3Z1dQQUt0c1RZU2N5VFdsbWdUSU1BQl94U2NYRERoODdOclh6Tnc?oc=5",
+        "fonte": "Agência Brasil",
+        "data": "2026-11-05"
       },
       {
         "titulo": "Projeto solar de US$ 650 milhões busca reduzir dependência do Egito do gás natural",
@@ -184,16 +184,16 @@ window.NEWS = {
         "data": "2026-11-02"
       },
       {
-        "titulo": "1° Censo da Indústria farmacêutica da América Latina: levantamento inédito deve redefinir políticas públicas no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR3ZMLUM1a2hJR1kyVHVLU0JHRWtnbXlGc0tTeThnenVwUjUxV19BNlZSZEtkMUtfNGt4cHdEdHl4WHdGQmpFZGRLU2R0alE0THdJblptdmZKUHN2a3hfVFJTVklqZmpYYzJrckRJOWstUGNxZTNaeVRUcGRCOUZERngwMWVDQ2pXTUtDWWV6UVZ2M2dKdXczSno5UzF4aUpQWFFLd3RuWEJ1UUNYTk1jTTNBUWFyQXI5T2cwUlpVVDExRWx3MTQ2ZmhOQzhGWnBXcnJZ?oc=5",
-        "fonte": "CBDL",
-        "data": "2026-11-06"
-      },
-      {
         "titulo": "Brasil que não se vê: o desafio das doenças tropicais negligenciadas",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkxnMGlaUDFmYmE2SjBiWDBqSEdfbDBNQ1FlZDdHdl9UY0ZvbVQteThQSk9SOGVvSERJdVZnNl9kY2t2WTdMMlUyWHJJeS1abHpiTkx6UGk2eTZ1TUMwU2stX2tnd1VIbTF1SFY0T3d1eVhlYTZtSTRSbWxFNzFkbGdhUzgxc0ppWUkxQURLeVVjWjV2MDVVTjhnQ2ZBc0lINFpBcnFZNzl4LTB1cW5vWG5CQmo1UGVLUTVUOTRtVExOaE82dkFpOF9mNA?oc=5",
         "fonte": "Agência Brasil",
         "data": "2026-11-03"
+      },
+      {
+        "titulo": "1° Censo da Indústria farmacêutica da América Latina: levantamento inédito deve redefinir políticas públicas no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR3ZMLUM1a2hJR1kyVHVLU0JHRWtnbXlGc0tTeThnenVwUjUxV19BNlZSZEtkMUtfNGt4cHdEdHl4WHdGQmpFZGRLU2R0alE0THdJblptdmZKUHN2a3hfVFJTVklqZmpYYzJrckRJOWstUGNxZTNaeVRUcGRCOUZERngwMWVDQ2pXTUtDWWV6UVZ2M2dKdXczSno5UzF4aUpQWFFLd3RuWEJ1UUNYTk1jTTNBUWFyQXI5T2cwUlpVVDExRWx3MTQ2ZmhOQzhGWnBXcnJZ?oc=5",
+        "fonte": "CBDL",
+        "data": "2026-11-06"
       }
     ],
     "fertilizantes": [],
@@ -219,6 +219,12 @@ window.NEWS = {
     ],
     "logistica": [
       {
+        "titulo": "Movimentação em portos e ferrovias cresce em 2026; rodovia e aéreo recuam, aponta CNT",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUphZ0pwbFBVUnY3S3RnbGNtN24wODVVbEplUWlTcHByWGdsVXBhOThfelVReExDMXRqaWNCYU5oTXVXLVNKSTFDVW9pOWpBSTZMTE1JQlNwSjRIbHJIMXZDdkplOGM5dHFQRWR1VzJPWGdCQ3h2d0JYSjg0TU1PaHh6MHNHV05vRlo3d0FB?oc=5",
+        "fonte": "Mundo Logística",
+        "data": "2026-11-07"
+      },
+      {
         "titulo": "Setor portuário vê riscos à cadeia logística com saturação dos portos",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcUZlTC1zejE0cjhxLUpPaF92ZkVzWkpNRnRBN0FmQklxYlloVXR1QnFNTkpmZVBnRHRiNldkekZRS00zNWxpNnZYdjdUeGZ5RUFieUJXaWVlVEt4V3NEU3gxTUVBVnJGZXV3WDN5cFhhQzhvT2duZ0EyUjB5ZGRuaEhkbzJwSkJFUmZ4anYwOUlxS1h3Tmpkc253anVuaEtIOGZqSHVLenI?oc=5",
         "fonte": "CNN Brasil",
@@ -229,18 +235,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmozbHVEUGtENjRqbll1aHo4NGVMeXNPUHpFNzBPRHhTMTBLd3JtV2pDclhKWWtoRTR5Ry1QeWpXaGFNbUlIdWdzdWNOU08yU3lwdUNpazdxY0toOUV0bGpveHA4Z2Q5Y0VvZmhyVzhGRXZIRmdPaVU4bEdYdXY1ZXFYSlNyajIwdDdLVVBiT1BJd3R3ZHlnR2RoYzh2MEw2TkYzcDNsTmZMaUtEM19UanZPbUkwVE54Y0V30gHAAUFVX3lxTE93TnJXQWI3QmJKdVlxaEtrNEh4b0VObzZlaEZXc0VTQ0N5Zms4RmJXTEpLdGZuaDZqQWI4QzNuaVJGWGI1dF9wdnpmXzc2QkVhX0pTTGJVX3llcUt3X3pzbms0RnpBbFpyLVU1cDQwRjhBb1R5OTFyMS1RNXVqeUNsQ2ZfQVp1QWRqMGVrdk1SbHNOdEoxd0lyNWFsTVBfOUZianFUblFKQjk1aUxwWnFnOVNfOHBRNjZqaXItWDBBTQ?oc=5",
         "fonte": "Estadão",
         "data": "2026-11-03"
-      },
-      {
-        "titulo": "CODEBA e Bahiainveste firmam parceria para fortalecer logística na Bahia",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYnB3cmNHQ0ZsX04zeVdocm9GT3EtSjRiUlBmRVNEUnAybl9LRng4M3lsTDYxNkNpWkE5a25hdFpHdHFkQ2dPWmhHaVpjNGFWVVAwWTNCdk9hbWdwWVgtOC1BTURVSHJ4WGZCeEVKT2xHTGpmOE1id2Y5S2s2bkRobDAwa2Y0SDZEQ3F3YmUweUxmQjJzamx4QXFudWpRSEplTVpINW5NU0hQOWVnZC15ZENjR04?oc=5",
-        "fonte": "Portal BA News",
-        "data": "2026-11-04"
       }
     ],
     "maquinas": [
       {
-        "titulo": "John Deere faz reorganização industrial e vai tornar Catalão seu centro mundial de colhedoras de cana",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGN0Q2xlT3RtRzJUY2hNS3BxYVJETWMtYjNKZDBNMTY5bVlIbThjbDRubUJGTmZpelc0Mlp0bVBOc2xhYmprRVhXaFllTmFqTlljSWpzcnJXeXNqejhDQl96WXJ4bFFOQWJwS1NDeFhzTE9ySEVNU09sdEpOV214ZmJmM19BSWhHbExPSjVrdC0xX1ZCZHBWNEJYdlM5SnNTOVFQdzJRbE9DellQMk5vcUY2MXpBVjNRc1hVTGRzdExWcFlqNDNPM1FGWWNKQQ?oc=5",
+        "titulo": "John Deere investe R$ 200 milhões para tornar Catalão seu centro mundial de colhedoras de cana",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQMEtBTVRXUXVuZ3VMd2tIc2ZJZThKaDRfYVllbl9SOFZMM0pNeGdxS1VBQ0pzMEQxM2xkQm5LdXZnMzRfdXUwd2xvVEhEUktwTlI1dVNvajAxM3hPVzhVSzFKMnFBV0MxOFppT1haWEpXa3JKV0ZDNmVrbWtybGJwVldHVDRrRy1ULTJMMm1yWGRveVMwc29ndFhZRU9xWnFIeXpPaU5YOGxkTTlHa2xjY2g0WGFaSzY5aGw3dV8wdWpLN1BmUXc?oc=5",
         "fonte": "AgFeed",
         "data": "2026-11-04"
       },
@@ -291,10 +291,10 @@ window.NEWS = {
         "data": "2026-11-04"
       },
       {
-        "titulo": "Suzano (SUZB3) lucra R$ 2,1 bilhões no 3T26, alta de 6%",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcF8tVFZxc3JUWkpEZlF6SnpYUGNBZ3J5eGV0NFZsWlY5b1BzZWg3emZweEcyM3pCQjIyQ3VTaFUwLTJwcC1XWmE0LThWaGZkN2xuaURfSnhtdmNmTDZEQk5CQng0SlE1ZGZhekRMalVhVDI5MFg5MkIzei01elN0ZFhwUkJOb1J6SWs0akdMREQwV0FNb0ZqMDhzaVBaMzRo0gGgAUFVX3lxTE5wXy1UVnFzclRaSkRmUXpKelhQY0Fncnl4ZXQ0VmxaVjlvUHNlaDd6ZnB4RzIzekJCMjJDdVNoVTAtMnBwLVdaYTQtOFZoZmQ3bG5pRF9KeG12Y2ZMNkRCTkJCeDRKUTVkZmF6RExqVWFUMjkwWDkyQjN6LTV6U3RkWHBSQk5vUnpJazRqR0xERDBXQU1vRmowOHNpUFozNGg?oc=5",
-        "fonte": "Investidor10",
-        "data": "2026-11-06"
+        "titulo": "Vale da Celulose se aproxima da universalização do esgoto com investimentos em saneamento",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTV9uNVQxUHRQXzc0ZVktVmVJS2QwdXIzajA0cldRSWJrQm5KZjl5dlI4aF82cHlwU3lrMDBZLXoyc21iSnhDdFdXeFBOa2lfNXVQRTJSa0kxNjVnZUxXUGtjV0NUbzlaRUJwYXIzTnBIazFNSjJtYkEtazc2X1BoQTBiZkFISXlsaHVra0Y0ZWU0SGRfVTlLT2l3S3BhZnQ4ajh1RDhzN3FjT04wN0dNSEZkZnhPUnp1TGN4R1pIU2UxRGpsREE?oc=5",
+        "fonte": "REDE BRASIL DE TELEVISÃO",
+        "data": "2026-11-05"
       }
     ],
     "quimica": [
