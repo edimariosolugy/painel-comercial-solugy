@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-09T19:37:11+00:00",
+  "atualizadoEm": "2026-11-10T02:35:57+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-11-05"
       },
       {
+        "titulo": "Acordo de Escazú: mais investimentos, segurança jurídica e competitividade internacional para o agronegócio brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOTGJ2cVg3cUlaNnVtZnR5TF9XRVFqemdiV3NoY3FQZEt5U2FZbmtkR1ZUT1l4RUxSSGtLd1cyblRTN0FTYUFJOC1hUUhDLUt6TTRxQkM1NklhdDYtMTJTS2FZcDl2NGxIZmZWNTZLaXBURG5KMlY1N0tkN3hXc05tR0VPamwta2ZlQXJtQm1ZTFR1Rm9nWHBYUmRXY2hBcDZ6WWMxejk1ZFE4SDZsYmpTMzljVnJpOUtKNzFXUVgwdXVkNWo5Rm45b0k1aE5FT1JrbWhqZjdFd080T2c4dENmd3c4dFEyb0xfNkUwUmdrQTJNUnBGalA2REdkamVDelBQRzNLRENmYUhJWG9yUWM3Q3hfNA?oc=5",
+        "fonte": "Um só Planeta",
+        "data": "2026-11-09"
+      },
+      {
         "titulo": "Brasil prevê mais de R$ 140 bilhões em investimentos no agro até 2036",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORC1ad0lyYkhoVThxUlZCNzk2SUdhMnRXUWR5QU1wa25TLU9BaGU0amxnY1gxalVTeVYtQ0xSV0FLcllybWNaalRCNFVWb0J5MV9ueGZ1RXJhbDVPLTl5SEdPVTU2SDN1elZESzlncXhVQ3NFVjJaYUFnTmNVZTRCU2oyS1NrZnBHYkZBa1gwbVg2S1JmVHJ4Wnh1SXZIeHBIS095empFUjFTQQ?oc=5",
         "fonte": "Canal Rural",
         "data": "2026-11-06"
-      },
-      {
-        "titulo": "Precisamos transcender a discussão de estrangeiro investir em commodities no Brasil, avalia Itaú",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOZl93bnFrRmV5WHpYbFRpSW1tRUd0aFBaRmdNVDc3VU12eHhmaEdXUU5YQXFjRzNRWkp3Z3FpdGZZRFRuZWVqQlJKOGh0Zy0zR25EYVpBSERNSzlVNkdpcmlPYW1yMGZ5eHRGblh5UDF2eFZaU1k1d2hSRkhvNXBiUXZLc1VPWXdQSzA3aDdFN2Q1TDk0eU1MRG1VczVqS0N4ckNiTGZuVFlMaDFuT3RrLXlPTDFZU1JwTXBoZHdJRzdrZk8tTDBhVmNuNUd2akNKNHpqNTl0ODNaOTZqcEowUzdUNUdOdkkt0gH3AUFVX3lxTE5YLVhSVTFOV2F5VEFvb1BNQXQ0U1U1NGM5SjJENGhpUDdld0EtRFBDWkRwMlQyd2wycF9hVndwSDdMSGRwcnp4cVF2dTlyOWdHRjhsQTgzSGlIUExpcmZydGQxRHpaUkc5Y1F4LUZsTDZBc1FUb2NuQXRsRGZYclhnazhGNXZXdFJWWVE0UDVnaVV6QXNBanBLZWpUaFUwWGdXdVZyaXJSMVQyTGgtYkd3Q2x0VEdNNzdNR3QxdlNRTnUyQjkzUkVyU1FFOXNKZ3dCQXlHaS1yVVgxOG9hMEd3VDhVeTRDSzBPQVpSdDduY3RJZU1iSFU?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-11-07"
       }
     ],
     "alimentos-bebidas": [
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-11-06"
       },
       {
-        "titulo": "Quem é a gigante do Nordeste que acaba de comprar a dona dos sucos Maguary por R$ 500 milhões",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2p2d2dmZy1NVF9XU1gyUGVvMVp3eFM5NkE4dXpMUTd5cnhyclIzX2t4SFNhM05qZGhFaVBheDhkMnFyeDVCVm5WSWkzRDFJdV9ya0RwQ3E3cHNXSWJQenNlaVlkclNDekV4YnNxOHhlUnJLN2ZnN25Pd0I4R3laeC1oZ3dOMElEWkxFUndmWlBkZzNSOUR6SkFEdmFYMjhnNUxwZ2djbFN6UHNmSVpsZktNN1J6ank5TklWaA?oc=5",
+        "titulo": "Coca-Cola anuncia US$ 7 bilhões em investimentos na América Latina: 'Estamos só começando'",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3h6NUxJcEtOSF83QWppa0hIeEl4N3hvQU1BZVJXcURTdEJ2UVJIdy1CclhScjVldzRrY0VQQk1TQkZWYVhVYUI0RW1lM2k1YjVucjlJRWpNcHNHbS0xVmxIVTllUUVYdFJjN2ZFcGhSdTYwS3FDak1hZV9ESHFpTmlLcmZVVXZRQjFQZkg0Z0lOSzRnZ09nZDJlNW8zN2NWN1R5ZWktNmpTYXBLNlpHcDV4dUE?oc=5",
         "fonte": "Exame",
-        "data": "2026-11-09"
+        "data": "2026-11-04"
       }
     ],
     "automotivo": [
@@ -76,10 +76,10 @@ window.NEWS = {
         "data": "2026-11-05"
       },
       {
-        "titulo": "Com captura de CO2, FS vai produzir etanol carbono negativo no MT",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdjVzdnVob1JQNkJpVXVjYnRmVXJzMkh6a1F0WmpSamtJSXZzX2FmQmRyMFh3Y3hyS01sckFrWUlIQUlfQkxJTzFIZnhpSU1UMjdUWVRhZE9OQndiUWxXNzZuVVFFOTdYdmVxWWhlQ0w4X01iOW56WV83S1V3XzJoTE1PbXRWb2JkdnhjekdQVEJfVVZUV0pjV2c2RXdxMnN4WGlJR29qN0NSMHlrU2NiVEhLeTFKRVNYWnc?oc=5",
-        "fonte": "Capital Reset",
-        "data": "2026-11-05"
+        "titulo": "Raízen avança na reestruturação e terá duas empresas com novos comandos",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTmhsX2FDeEx2TGFvTDR1MEdnYndBQ0pwbjFibkJjU0VMQzhpb1VsWDlzY21IdXZHOFF1RkVkR041b3dvY0JnVm4xb3dMazJZUnZpeUNXbEpUbGFsOXlTeWZoQm9qelc5Y01Kb1hsT2hkMFBxbC1fQW1tejhRTk95cWxFUDV0Y1RNY0JpdXRoSTlJblJ0X0ZpWEplWWVkOVY5OFpEVEhJSEVXQQ?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-11-03"
       }
     ],
     "cimento": [
@@ -90,15 +90,15 @@ window.NEWS = {
         "data": "2026-11-08"
       },
       {
-        "titulo": "Gigante chinesa compra fabricante de cimento do Brasil por R$ 12,7 bi",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmlGRS1Vb0phd1hfUWc4OXlnUUk0emZ2MUhqVEFrcVEyR3RGYUxraDVqUnJ5RG82Y3ZBM0pmcHh3ckRHR3FhNTBDT2dzcU5Pbm02SXJsUTI0OEhKdG8wTU5Ec1NLWE9jUE9WRmxoZF9CSHFUMzRpTDZJU2NCc2JPV0xFdEZaMnJiYzZzS0xyR1I3VjVxb1BOUk9IcWVxYjZkQXR4bkxRb2dhbFNnS0xDQlpNVzcxSlltNHNZZ2VR?oc=5",
-        "fonte": "Notícias ao Minuto Brasil",
+        "titulo": "Concreto é o forte da Huaxin, mas o foco agora é estabilizar a CSN Cimentos após aquisição",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelhQM3BjMGVuWUM5V0p1MExkSWNrTjltU09KdWdVZEtnNERXRVIyejJpUi1JTFduX2tIbW9sdi1rTkQzRmJZQTY2TXd3UGkyeE4xbUlPT1o5aEJNdElhY2JKTzNaUkpWa09QZ1R4VEtKT0lrVnBSNUlkUWJyZWk5ZFNOcVoydE41Qk9WNmcySmdvNVlDUmRlRy1PWmRieFNSU05pTUhNMWNicmQxTmpyTExrNllUSjhjYk0xSlBhaldoejdYTGVBSkJMNDN5cXNv0gHWAUFVX3lxTE84a3oxQkN4eWU5Q2NPMGNSVFdfSjg0S19MQlBJVWRxbTkwRFNRU0k3eUk1NUVWQ2k1cXI3Qmx3Z3BLRm1Bd3JoNnFZZndHSFdyNFBQb3Nib0ZRMi1NS3g5eEs4UE14UXkwX2VDRHhrNkpVZ0o0bkc2N0d6WEpUNGoySElUNVp3MlNhS2JKMjdWaTVZUUYxUHdkUU1oVUY5TUVRWDNuMmZDTmRhUzVGeDRTX2VWOWVJNVZKZk9nUy1lN3ZUbzRZakJxb1Bfb3ZIWHg2RXB0elE?oc=5",
+        "fonte": "Estadão",
         "data": "2026-11-09"
       },
       {
-        "titulo": "Enorme fábrica chinesa de materiais compra setor de cimento do Brasil por 12,7 bilhões de reais",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUnJhalJ1VHJ5aXBGYXI5Mmo2bzlBVWNOdGltZ2FadFJOWFBDRnZVS2JJYlRHX3NaV2VCc2Y3THotaHFqby1YVXI0SHgwbGI0NGVBN0ZPMnVVemlFY2tVWS1kUy1vVVR5WVJXaDdwQzlpRWo3SW5xRk9sQ08wdXNaMW1IVnBmRlVBMklySXd6NTNpWDdRbDJKMXFHd21ibmZ5aWpaTFNBV2pfdG1hMDBLVHJOSFVmVjI4bUFEQ1FWUmRMS3MyQjZlSklWS2piLWJXN0VPTQ?oc=5",
-        "fonte": "bra1.com.br",
+        "titulo": "Gigante chinesa compra fabricante de cimento do Brasil por R$ 12,7 bi",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTmlGRS1Vb0phd1hfUWc4OXlnUUk0emZ2MUhqVEFrcVEyR3RGYUxraDVqUnJ5RG82Y3ZBM0pmcHh3ckRHR3FhNTBDT2dzcU5Pbm02SXJsUTI0OEhKdG8wTU5Ec1NLWE9jUE9WRmxoZF9CSHFUMzRpTDZJU2NCc2JPV0xFdEZaMnJiYzZzS0xyR1I3VjVxb1BOUk9IcWVxYjZkQXR4bkxRb2dhbFNnS0xDQlpNVzcxSlltNHNZZ2VR?oc=5",
+        "fonte": "Notícias ao Minuto Brasil",
         "data": "2026-11-09"
       }
     ],
@@ -136,10 +136,10 @@ window.NEWS = {
         "data": "2026-11-07"
       },
       {
-        "titulo": "Leilão de transmissão garante mais de 8 bilhões em investimentos para 7 estados brasileiros",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLW5zX3lnNk55Q1dkMGw1YmxqWWpLQlphbVU1LUdnZk5vdnUwMktEVmVWTmkxdlphNDIwbFZZaDdQVlYyM0RudlMybGdsa3J4am95SE1SQjhHaVJJbm9GdmN6d21EdXBySDlNZWpXelppU3BLdTR4cWxaaEtXWFhpVlBzT3ZsbE5vNmdBOC1tMEVwa2JUSTIwazVoN0xXTHp3Z2xYNXZ2STZtcUdoSkRUdTFWMmVnSWF4VHRUYjJLdmZ3N3JwWHNFd1B2MA?oc=5",
-        "fonte": "Coluna Política",
-        "data": "2026-11-05"
+        "titulo": "Leilão da Aneel prevê R$ 349,5 milhões para rede elétrica em Goiás",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdkUyNTlSN1ptVGNtYVFrSU5GbzN1T1ZsZEstQnl5TnlkR011OVlBb3NQVWVHNTd4NUJ4Y3ZXZEhDeUY2dVFaNlFTc0N5SHljNlJSRVdYa3VkcGxjaDFISFk4U2tNNW81RElVOUszemZKVzB2bk5HV3dlQzU3NGt2QUlYTjdPYmZnZmZ2N1o2Vmc0MHQxX0VIRmFjWFgzQWJETE00Um9pVFQ?oc=5",
+        "fonte": "Agência Goiás de Notícias",
+        "data": "2026-11-04"
       }
     ],
     "solar": [
@@ -218,19 +218,13 @@ window.NEWS = {
         "data": "2026-11-05"
       },
       {
-        "titulo": "Estrangeiros demonstram interesse em aquisições de concessionárias",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTmozbHVEUGtENjRqbll1aHo4NGVMeXNPUHpFNzBPRHhTMTBLd3JtV2pDclhKWWtoRTR5Ry1QeWpXaGFNbUlIdWdzdWNOU08yU3lwdUNpazdxY0toOUV0bGpveHA4Z2Q5Y0VvZmhyVzhGRXZIRmdPaVU4bEdYdXY1ZXFYSlNyajIwdDdLVVBiT1BJd3R3ZHlnR2RoYzh2MEw2TkYzcDNsTmZMaUtEM19UanZPbUkwVE54Y0V30gHAAUFVX3lxTE93TnJXQWI3QmJKdVlxaEtrNEh4b0VObzZlaEZXc0VTQ0N5Zms4RmJXTEpLdGZuaDZqQWI4QzNuaVJGWGI1dF9wdnpmXzc2QkVhX0pTTGJVX3llcUt3X3pzbms0RnpBbFpyLVU1cDQwRjhBb1R5OTFyMS1RNXVqeUNsQ2ZfQVp1QWRqMGVrdk1SbHNOdEoxd0lyNWFsTVBfOUZianFUblFKQjk1aUxwWnFnOVNfOHBRNjZqaXItWDBBTQ?oc=5",
-        "fonte": "Estadão",
-        "data": "2026-11-03"
+        "titulo": "Ferrovia de 1.360 km promete ligar Brasília ao litoral do Espírito Santo com investimento bilionário e rota por 38 municípios no País",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNTW0yaEJJMzRBbl9KN3NNQ0ZZTnlxcVVmVF93bDVOTXdsSW5UbGlvcE9oUm5UQm5wcDdfN1c1UGt6RmJQbXp0RFU0S1AzZHh3WE41bGdJSXFEeU9VLXhmRzFheWNOVUxWWl9EOUF3QWpNaGNNR1lZeUdFZ3hTbjFOVjBfd2FjU1c5WS1VZXZmMnBzckNKWkZYNG9LNU1WR256Z05NaW5qM1E0MU9KVHJHQnJWNll3cWNLM3lhOEZuNElnZ0NPbkNGZm1Ja0NERnV6QS1FR0VaaFJKRm5CRndsRjUtUEJCc0diLXRYSHNCMl82WHBrSkpLLUFQQ24yckE?oc=5",
+        "fonte": "Gazeta de São Paulo",
+        "data": "2026-11-07"
       }
     ],
     "maquinas": [
-      {
-        "titulo": "Queda além do esperado na produção industrial acende alerta para PIB e investimentos",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOW4yV1RwRGxSYkJ0LVpXdWl4anhTSEJqay12ZnVSdUFHZGZkZ2djelpsTlRNYjRXYmRZSkljX09FWE91TTN2Rng1TW5WYk5nNzhLMEVwRjZxczZRRE11SFZ0OTNwNzZlT1VWQ2oyajhaaVVwMmlWWGxwcm8wc2tUTlBFR3FOM2NVQ3N4M28yTWtKYWpNTUHSAZsBQVVfeXFMTTFwZTRiYjRQbXNYSUFlNTJ5OWxINEhoRjl3TFlYeEtGSFJqZmRsTnBIenRJbE5QWE1aYkVkRzdWbnpSM2l3TFBXbnZ4a1NKYUdfM3RycDZwU0dCbFdrUkZiZHVMa3BGaTduVjE0bGR3M2xybjNVd290cm1vaUV4T0pWc3JSdUlHRVpiMVpWa3NlOVY3bC02Mk1lcFU?oc=5",
-        "fonte": "InfoMoney",
-        "data": "2026-11-05"
-      },
       {
         "titulo": "John Deere faz reorganização industrial e vai tornar Catalão seu centro mundial de colhedoras de cana",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVGN0Q2xlT3RtRzJUY2hNS3BxYVJETWMtYjNKZDBNMTY5bVlIbThjbDRubUJGTmZpelc0Mlp0bVBOc2xhYmprRVhXaFllTmFqTlljSWpzcnJXeXNqejhDQl96WXJ4bFFOQWJwS1NDeFhzTE9ySEVNU09sdEpOV214ZmJmM19BSWhHbExPSjVrdC0xX1ZCZHBWNEJYdlM5SnNTOVFQdzJRbE9DellQMk5vcUY2MXpBVjNRc1hVTGRzdExWcFlqNDNPM1FGWWNKQQ?oc=5",
@@ -242,6 +236,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEFGSW9HUDZGZ19EYVg4Nlk0OVdXU2k3N196ZVNJVUVta0hRdVdWazJMX3o2bzZjOXNZcUxLYWtUdDVIM2xQQk4yUTB3cXN3aDQ1QnJ5LWQ3MS13bF9FZURzbmFLUkNkQUVac3FPYkI5ZFkxb20yR2dLS015OUx1LW53aGNudlZ1V2w4c1hBTEVHcWhnWDluVW12QnY1c1Fncmlja2otT3JNcW9VZ2VRMNIBvwFBVV95cUxNVW9Odm4xMnBHaVVZaVdsV3dqT0pxX281YTVVTmtocEptcTJCNVA3TkxlQ0x5SXNIMHJ3VEFRakl1T3dtTkh4UDV5bjVwd3FLbm9TNm5uLVhURWNHOEZJTWRyZ3RfbHg5cTV2Vmx1VkhqUTBEeUxMbzItS0dnbzZGLWZVMTh3dWhlTG91QkdoTmExNTJGejFYdDJaeDN3RTNKd0IwdUcxMHJ3RThoQmRYYWJBMFpZdk9QZTdtV3Qzdw?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-11-09"
+      },
+      {
+        "titulo": "Queda além do esperado na produção industrial acende alerta para PIB e investimentos",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOW4yV1RwRGxSYkJ0LVpXdWl4anhTSEJqay12ZnVSdUFHZGZkZ2djelpsTlRNYjRXYmRZSkljX09FWE91TTN2Rng1TW5WYk5nNzhLMEVwRjZxczZRRE11SFZ0OTNwNzZlT1VWQ2oyajhaaVVwMmlWWGxwcm8wc2tUTlBFR3FOM2NVQ3N4M28yTWtKYWpNTUHSAZsBQVVfeXFMTTFwZTRiYjRQbXNYSUFlNTJ5OWxINEhoRjl3TFlYeEtGSFJqZmRsTnBIenRJbE5QWE1aYkVkRzdWbnpSM2l3TFBXbnZ4a1NKYUdfM3RycDZwU0dCbFdrUkZiZHVMa3BGaTduVjE0bGR3M2xybjNVd290cm1vaUV4T0pWc3JSdUlHRVpiMVpWa3NlOVY3bC02Mk1lcFU?oc=5",
+        "fonte": "InfoMoney",
+        "data": "2026-11-05"
       }
     ],
     "mineracao": [
