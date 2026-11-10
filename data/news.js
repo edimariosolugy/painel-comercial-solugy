@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-10T16:51:55+00:00",
+  "atualizadoEm": "2026-11-10T22:12:05+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -124,16 +124,16 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
+        "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
+        "fonte": "Times Brasil | CNBC",
+        "data": "2026-11-09"
+      },
+      {
         "titulo": "Setorial Setor Elétrico e Saneamento | Outubro de 2026",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRG0tLXYzYmE2dVJXa1BFY2pSRHo3T2tYektLQlZuWTNJdFdnZG9QaEREYU01TS04WmRFbHcxY2NnVEVfMmx3NzNFXy1wWEpYRWtKUFBFQlF1SV9uT1BBUk5yazJFaXZRT3RMWWpMR29JRGROWG5YX05ZMzR2UVNoN3psTE1pMnA4RXoycEQzdk0?oc=5",
         "fonte": "InvesTalk",
         "data": "2026-11-05"
-      },
-      {
-        "titulo": "Leilão de energia prevê R$ 8,9 bilhões em investimentos e 20 mil empregos",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOVVZd1dVQ3k4VldCSnhJQUEtUTJ0bUFiUFVmQlBxMXVQb19GeGc1dk9uNHhPQTRJemdjSzAwQS1SUFNlN3RGdFlTLVhfRUhGMHB2TmN5TmFlRXR1dVRwUnZsTDlTTnBvLW1VWGxCNHc3MF9wZEo3bkpnZUV1bDhrQ1V5RWJJdzhKUjR4Tkc4TU5OUzYxUFNSaWRHRjlRUlJmYnh5SllaNHZReXJ0YzRlY2pUNG42dUk?oc=5",
-        "fonte": "Times Brasil | CNBC",
-        "data": "2026-11-03"
       },
       {
         "titulo": "Governo planeja 113 leilões e R$ 470 bi em investimentos até 2030",
@@ -156,13 +156,20 @@ window.NEWS = {
         "data": "2026-11-10"
       },
       {
-        "titulo": "O Metrô de Belo Horizonte concluiu a implantação de um parque solar fotovoltaico no Pátio São Gabriel. Em operação, a estrutura tem capacidade média de geração de 345 megawatts-hora (MWh) por mês, volume equivalente ao consumo mensal de aproxi",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1EZ0FNbm1BaTBlWVJjT0ZZTHh3TjZkTHIwbmF5SUd5MDNNemVCd05Ic01pN3FfMVpOTzhGTTRvZ3poT2JLakttU2pEYWI0czk0QlE?oc=5",
-        "fonte": "Instagram",
-        "data": "2026-11-09"
+        "titulo": "Industrialização verde: energia e indústria na COP31",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlU4LXhwNjBlMXlwNkdRT1Fvd3hUYl9QcTB3YUFtUG1sY3ZxX3RKOEJMSnFWWGZBcHpvY25IUzg4RHR2aGhVXzJ1S2w5T3ZPeDBDcjB5NHNRdHFjRUhoeXZxeUlLeDZTR3RUNHdBQUtRZmpIdEkzSEIzNTBUQ2pQQ0xBajFqMTg?oc=5",
+        "fonte": "Além da Energia",
+        "data": "2026-11-10"
       }
     ],
-    "epc": [],
+    "epc": [
+      {
+        "titulo": "Conasa apresenta proposta para concessão rodoviária de R$15,44 bilhões no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0swa25jOXJpSUg0VXZyMExoR0ttMzZsblBnbThMaXVkbDEyX3BBRkstSnU0X1IyMU1RclotbzZkd1ZqMEN1REVVUVhGczIxNWtJaVIycWYxMlJmaU9jQ0xFajZ5N0xhakV5eGtLYnRwUTVEUkZKTWJvYTkxSkl1YmVFOFlCMDg1eHp4Q3oxZkljV3F3M1A5WU13WE9EUXdiTEowUzlsRGtQVC10d2I0YVNzSjZ1dXdhT1E?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-11-10"
+      }
+    ],
     "farma": [
       {
         "titulo": "1° Censo da Indústria farmacêutica da América Latina: levantamento inédito deve redefinir políticas públicas no Brasil",
@@ -171,16 +178,16 @@ window.NEWS = {
         "data": "2026-11-06"
       },
       {
-        "titulo": "Brasil que não se vê: o desafio das doenças tropicais negligenciadas",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOMkxnMGlaUDFmYmE2SjBiWDBqSEdfbDBNQ1FlZDdHdl9UY0ZvbVQteThQSk9SOGVvSERJdVZnNl9kY2t2WTdMMlUyWHJJeS1abHpiTkx6UGk2eTZ1TUMwU2stX2tnd1VIbTF1SFY0T3d1eVhlYTZtSTRSbWxFNzFkbGdhUzgxc0ppWUkxQURLeVVjWjV2MDVVTjhnQ2ZBc0lINFpBcnFZNzl4LTB1cW5vWG5CQmo1UGVLUTVUOTRtVExOaE82dkFpOF9mNA?oc=5",
-        "fonte": "Agência Brasil",
-        "data": "2026-11-03"
-      },
-      {
         "titulo": "Saúde em 2050: como investir em Ciência para apoiar o SUS?",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmpVbkhHd3ZLS0h0X2VBSFhROEh5cGF0ZXdWWGY1UzZqbF92b2hhd2pyM2ZkZkljSjRfUTFjWXl0dWtBbGNKX3FQa0xheWZsd3l1SnBvVmRGZ01tc2FKSW1mMEJCLUJuX0ZPeF9nM2MzLWgxZjZDRVVJVktQWTJjZndoYjdwZVdMSmYyeTVqZ3EzcTJuQWc?oc=5",
         "fonte": "The Conversation",
         "data": "2026-11-04"
+      },
+      {
+        "titulo": "Anvisa quer ampliar produção de insumos para medicamentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTElESzRtOGwxTUY1VGg5THQ3bWJ3Skd0T3pnNl9zZlhiX3pIOUFTRklFbngxUGlHY3RnZFltVGhpUDIwM0JQbHJxT3lua2FTcVhrZkZQTDhxREdzUlkwQlk4SkpHTXdja0pXMWUwZ2wyalFxRWtDVVN5WHFFMHZLbHI2dHJZZEdpMWJZdDlhQUJJWWQyZHE0Uw?oc=5",
+        "fonte": "Diário da Guanabara",
+        "data": "2026-11-07"
       }
     ],
     "fertilizantes": [],
@@ -198,10 +205,10 @@ window.NEWS = {
         "data": "2026-11-05"
       },
       {
-        "titulo": "BYD estaria planejando nova fábrica no Brasil para veículos comerciais, diz colunista",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5SLVdqckg4RjJ4N29scnNocnF2VXExUzNSNEYyXzhMUWRzNnlNVHRlS3RPM0pOSGo2NjFxODdJdEh4ZDBCQ0I2Z2ZjY2dkVVIzTlNkNmxWZkJLNDZiY3pBN2JrZ0J1ZVl4bG9QOHZybWFBVDJZS0VFX0RSaUY3Zw?oc=5",
-        "fonte": "Motor1.com Brasil",
-        "data": "2026-11-09"
+        "titulo": "Adama fecha fábrica no RS quatro anos após investimento de R$ 300 milhões",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0pORHVTRmhuWldiS0wyVk41Q1hjY2F5S1pkbHU5UGIxcnB3YXAwMGRKLTZaa09xY2F5R05yZmpkOHR3M28wUmUtOUVmclYwUWczckhYR0pnRm51MWZQM21BTkZZWE5vTU5ydXRPWEd3YmJIbFJmWGdNOE50VUt4bElvZDVqYnFYN2Z1eTlmVlpPdm9kZGU1djNRZkRRM2U4WjEwLUpmZHZMaTg?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-11-10"
       }
     ],
     "logistica": [
@@ -278,10 +285,10 @@ window.NEWS = {
         "data": "2026-11-09"
       },
       {
-        "titulo": "Cidades do Vale da Celulose alcançam 99% de cobertura de esgoto em Mato Grosso do Sul",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxON2FPLXc4SGtKaUE1MENsOE5KMHhScXdpN0IwMDRRcVlQdTlGRWJ6YkY2cml1ZUJ0OHB1TUFCYm1tOXllT3Jidm9USzUzZ1k2QkdWcVhuVU54M0lvYlFUajVXbEVpYzNjQ043TXd2S0hhVkRLMDFMdXJReTFNOVZ3SFdxWW1HTlNvcExXTUlucEZTMkVRWkZtRDNTWlhyYm9sdFI5eDlGNjd2OGR6bzQ3eEcwTU5uSGtydURtZnRtcG9KVmpjVzUyWV93c2xsS2pRYURobGFkNHdZbjRfeElv?oc=5",
-        "fonte": "Capital News",
-        "data": "2026-11-06"
+        "titulo": "METAIS | Meridian Mining avança na decisão final de investimento em Cabaçal",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTlYLVZ6dmFPOUxmcXdDeGZNaTRRWFFmWTBac3BueksxVVFxejg0UFlVaDVESzdPVmZLalRkamF3MFZpTTVPSDZibDIyTE4wMC1RWlBkdnNmdHpRNk1CVmFGazZnWjN2T1dsWk13OWV3N3NWc2tiLWM1b2I1aTE0SVgzV2E1Z1pQNVYtYzVPck9xNlR6MGRrOGt2QWZzYUZ2eVp6aFo2dw?oc=5",
+        "fonte": "Brasil Mineral",
+        "data": "2026-11-10"
       }
     ],
     "quimica": [
@@ -331,12 +338,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOSnRyaEZXUzNJU2xKTHpfYmN3NU9RODZtbHpqVmdzeU43aGh5X1FoNVBEXzNkbnNaa3RON3VscDY2VXpwWU1BVTVkLUxyWWlIbEllWWV3WHF2LXNZaWZ4Z1o4NWZfaG9KNTNMc3NtNjRwR1VocE5TSVkzUF9vTHRuSUlkNmxhWHRQbDRXYUV0VUg2N0ljSFljOGRYQjJnZkVCUjBzYlBwRHo2OFVQR2E1TkRwVEQ3YVYzdGpSdWpFem5HSll4YndvcklEUkpQQ3g3Wmp0azNmcVlEemNGSGxmbzdGVTVvcEowY3JmX2FJWUZycC10N2JTbG9QQVBKdw?oc=5",
         "fonte": "Insper",
         "data": "2026-11-04"
-      },
-      {
-        "titulo": "Palmeira investe R$ 585 mil em equipamentos e insumos odontológicos - aRede",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3hIZ1AyWHNlTVQ3NTJEUUtNS2Zibk9POExXR01aTzlTYjhTdmxmOHlpYldjY2hKMGRWTE0xdXh1bU0ySEhwNnMxR09zdzRfRXc4NFl1MjNuV0JubWlKRDBrdFRPN056YVlGU01WYzZfYkhxY3hUVGVscllvTm1QbUFHSDc3WFBqVG90ZFNTbkZ2dGVycVpVRVR30gGiAUFVX3lxTE1BSkgySjVNLUVQMzZLSEltX29aOERjWDdRNDl3X2xwMEd1RnVPak44THZ2NEdSU3VMeUxuWXZEdXNBLUZudFotcTBIQWFfTVFuSHlOczJnLVlwSkkzSEhpRGVoWjk0ZkFsaHd4UkwzbnhYN2hpelRsSzNuVHVMQzhqT2JkVzhCWEdNVmR2YzhJZG5TbWdvT3NoSjlLWEQySTBhdw?oc=5",
-        "fonte": "aRede",
-        "data": "2026-11-03"
       }
     ]
   }
