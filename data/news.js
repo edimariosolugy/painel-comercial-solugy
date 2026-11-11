@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-11T02:36:20+00:00",
+  "atualizadoEm": "2026-11-11T16:57:37+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -56,9 +56,9 @@ window.NEWS = {
         "data": "2026-11-09"
       },
       {
-        "titulo": "Montadora chinesa lança mini carro elétrico com 3 lugares por menos de R$ 10 mil",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2w2ZW16Y1RXUGJyUGZwY3hWMU5QVGgtTF9nSXIxb3RWRWowem9mZ1lYLXhTME1SUlpESFFvbHhMYTRGYTFMd2V6Y1MyckpNMm5QM2FBWWdGbHM1WnI0cGIyd09EOUFIS3hpcjdHWUx1aUE5V3ZGMTdWZEhYQ2Q3ZEx3czhkTjV5eU9PdnQ0eEV2U1NoX213ZlI4QzlsdGNnM3hZOGNqYVo4aUpfdS12RUVIMng3bnZiWTdlVjZ2bFlBVUU?oc=5",
-        "fonte": "www.jornalcruzeiro.com.br",
+        "titulo": "GWM pode transformar o Espírito Santo em novo polo automotivo e atrair mais indústrias",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOVW5pWjVseHBZeUpmUkhrNk9XeXZUcW81Yzh0OHB2czIxVGgyNU9vUFdqZlFLdENSbVMyWU50NWdfUE1WNEF1V003WFZZZU96bGRyT3UwLUVrdEtpRVNJblU0VF9iOEZxSGlDZW1GaVMxenFPWHBKR29MQkRwT3UzSWNIRFYyaHRhYjhYV1Nuaw?oc=5",
+        "fonte": "Folha Vitória",
         "data": "2026-11-09"
       }
     ],
@@ -116,10 +116,10 @@ window.NEWS = {
         "data": "2026-11-05"
       },
       {
-        "titulo": "Centro-Oeste de Minas leva sete teses atração de investimentos ao mercado em São Paulo",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnZ3eTVBbkdJMTJnWFU5RlFMTmpfNzZhWlhsNkNLM0RSVWxHTURCUkhpNUxMX0lLZl9BcTV5ZmY0ekZRZ0I4YlpWemhrdjdSVi1feEpQam40UTJXS3h2YnpWd1dDMVZMRE9yR3Eta1JRT3N5bXVyY3pEUU9sekZJLU9OejNEUWNqczBFWW5wc08xRVZzX0FLem1jQVNfZDk0bUI2N1VWY2RFLXR3d1Z1bQ?oc=5",
-        "fonte": "O Fator",
-        "data": "2026-11-06"
+        "titulo": "Com um investimento de mais de R$ 2 bilhões em curso no seu parque temático, mais R$ 250 milhões para o novo centro de distribuição em Itapevi – a ser inaugurado em dezembro – e R$ 50 milhões em máquinas previstos para o ano que vem, a Cacau S",
+        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ySnczQm9jRUVQbXhaM3Axam5ESnRzT3hHZ0VyN1ZHMWVLOGx3RXY4ZW9XMnlvcG1nVDY3RmhfZkMxc3BreFRZSTVjalBiZDZrTFE?oc=5",
+        "fonte": "Instagram",
+        "data": "2026-11-10"
       }
     ],
     "energia-gt": [
@@ -171,16 +171,16 @@ window.NEWS = {
         "data": "2026-11-06"
       },
       {
-        "titulo": "Saúde em 2050: como investir em Ciência para apoiar o SUS?",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQmpVbkhHd3ZLS0h0X2VBSFhROEh5cGF0ZXdWWGY1UzZqbF92b2hhd2pyM2ZkZkljSjRfUTFjWXl0dWtBbGNKX3FQa0xheWZsd3l1SnBvVmRGZ01tc2FKSW1mMEJCLUJuX0ZPeF9nM2MzLWgxZjZDRVVJVktQWTJjZndoYjdwZVdMSmYyeTVqZ3EzcTJuQWc?oc=5",
-        "fonte": "The Conversation",
-        "data": "2026-11-04"
+        "titulo": "Anvisa quer ampliar produção de insumos para medicamentos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTElESzRtOGwxTUY1VGg5THQ3bWJ3Skd0T3pnNl9zZlhiX3pIOUFTRklFbngxUGlHY3RnZFltVGhpUDIwM0JQbHJxT3lua2FTcVhrZkZQTDhxREdzUlkwQlk4SkpHTXdja0pXMWUwZ2wyalFxRWtDVVN5WHFFMHZLbHI2dHJZZEdpMWJZdDlhQUJJWWQyZHE0Uw?oc=5",
+        "fonte": "Diário da Guanabara",
+        "data": "2026-11-07"
       },
       {
-        "titulo": "Anvisa e a integração produtiva farmacêutica da América Latina",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmUxNUFLdDNRdWRWVUszOXA2R2dXWmpTZ0dMOFZVRGtzUmxFT3BHVk9NVnA0TXVCekN1Yk10QmxZT1pPX2k2SFY5RG9NdlpOQVFhcDR1REdYN3J5ekxPZENaT28tN0Vsd0g4RUVQTi1wa1FtNW9KY3RZb2laUXJkLVIzQWVObkhRMkJWbDdNd091RGI1U0Z4d3pSUXM?oc=5",
-        "fonte": "Abradilan",
-        "data": "2026-11-05"
+        "titulo": "BNDES aprova R$285 mi para investimento da Eurofarma em SP",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQZjM1MjQ4UGtKY09HaUk4aERrOW52dlRod2dINDNpX2NrV0QwTndLbEdvYkM4X3phbVIzanBRc3BXMWtCSER3aVdLRnpzcFJPVVllVEJjaWdYT0xYdjJzQXlLSGs4Um03Y3dmX0ZRRGFBTnFBUGNmZzBxNEN0R0xIb2hUUVF0TTREajZqUHEtTmQtd25jS3RXN3JvQlRpUzhBeHlkSDlUNkpOaWsxbFpScWwtenNfaHM4VDJwUnRXYzBwUjNPR2VmbzRBQkw3TktrZllB?oc=5",
+        "fonte": "Terra",
+        "data": "2026-11-04"
       }
     ],
     "fertilizantes": [],
@@ -198,10 +198,10 @@ window.NEWS = {
         "data": "2026-11-05"
       },
       {
-        "titulo": "Adama fecha fábrica no RS quatro anos após investimento de R$ 300 milhões",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0pORHVTRmhuWldiS0wyVk41Q1hjY2F5S1pkbHU5UGIxcnB3YXAwMGRKLTZaa09xY2F5R05yZmpkOHR3M28wUmUtOUVmclYwUWczckhYR0pnRm51MWZQM21BTkZZWE5vTU5ydXRPWEd3YmJIbFJmWGdNOE50VUt4bElvZDVqYnFYN2Z1eTlmVlpPdm9kZGU1djNRZkRRM2U4WjEwLUpmZHZMaTg?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-11-10"
+        "titulo": "Setor produtivo critica manutenção da Selic em 13,75% ao ano",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZndIMks5Yml3cTYtZ3NKTVdTYjUwMHRQdTRFQkMzaElYY2t2cTZLVVUtY2N6SVNKTHRzN2VZQjBUOUFKZVhLX2lRaWJldkNmckZLd2l0cjlQUkNYTFYxMjNVZTlEeWR3MUpaVi1jT2lNdE1SQXlFZTNYSHJ6TS10ZlFjbDIwT1FtNDRWazdRWWVIWnFnWXAxM1ZUMmIwNkhPU2NvVkdnX1JnV1NyWmc0NU9xR1V3bFU?oc=5",
+        "fonte": "Agência Brasil",
+        "data": "2026-11-04"
       }
     ],
     "logistica": [
@@ -212,16 +212,16 @@ window.NEWS = {
         "data": "2026-11-07"
       },
       {
+        "titulo": "Espírito Santo como parque logístico do Brasil é tema de nova edição do Diálogos.ag",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUUs1cnhxcEJVWTg5T1Q4ekJFck9aMEdtVmdkSXlQaWdGaVBJeVJJVDl1bG15VUhRWTl6enNtREdmOW8yUDhoNU1jUU5nbXNxWnFsTUFXQ1VlUDNndVJqSDNyNGZJckJ6NU5nOXNsZXViSWNtS3dROGN2bkhJRnBGRm92MzdwOVZ2VGh2UVNTY1BCWmxNTFBDd3REM2VNQXVQZF9sV284Q2twSFZQT0F5YWwycEw?oc=5",
+        "fonte": "Rede Gazeta",
+        "data": "2026-11-11"
+      },
+      {
         "titulo": "Falta de integração entre modais encarece transporte de cargas no Brasil",
         "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNVkx5OW9KOUQ5UDFkN3E2ZE5uRVNHLU5HVm16MlN4aDhKTVpzSF9TYnBla21hWlF2ejk0R3FYeXQwa0VUZXZTa0J2el9YUEo0alJqcTBGZGpiUXdSOGJYZXFZM185Z0JCd3V6OFZwYlhaVEJUcjNrZ0RUdk82UnhnbHFYbmM3dnN0TjZjQWZEY0stQzJPUUdGaTFQY1p6eFNZV2pCbGFvRldiXzBoMU5wVWRHeUEtYWM2Z3FnSnFkSFhGQzNCSkF2cDFqbWJQUTFvZHRROUNSd2U0dzZtWk03Yl9sRFIwRkhiMFVqUkFBZ2tVa0ZNNzBwWHNyUEtsLTJRNEVQcmN1NkR1eDRETGtJQWtGMlpTZDh10gGYAkFVX3lxTE1WTHk5b0o5RDlQMWQ3cTZkTm5FU0ctTkdWbXoyU3hoOEpNWnNIX1NicGVrbWFaUXZ6OTRHcVh5dDBrRVRldlNrQnZ6X1hQSjRqUmpxMEZkamJRd1I4YlhlcVkzXzlnQkJ3dXo4VnBiWFpUQlRyM2tnRFR2TzZSeGdscVhuYzd2c3RONmNBZkRjSy1DMk9RR0ZpMVBjWnp4U1lXakJsYW9GV2JfMGgxTnBVZEd5QS1hYzZncWdKcWRIWEZDM0JKQXZwMWptYlBRMW9kdFE5Q1J3ZTR3Nm1aTTdiX2xEUjBGSGIwVWpSQUFna1VrRk03MHBYc3JQS2wtMlE0RVByY3U2RHV4NERMa0lBa0YyWlNkOHU?oc=5",
         "fonte": "Valor Econômico",
         "data": "2026-11-10"
-      },
-      {
-        "titulo": "CODEBA e Bahiainveste firmam acordo para integrar portos, ferrovias e rodovias e ampliar logística na Bahia",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZDFRQS1Xd2IzLXZsSnYtbTZNdE94MlZ0bGYwSERITXdFNHFueklLejRVTE1VTFdHak1MSXQ0a0FOaDkzR1NRRDZrT1VYdzlFbjc0dUFrYkZLNnk2ZjhxeFFzdmJGdVZ1ZVhfc0FZdFQ2V3h1dVAxMFZOYXZjd1BudnllQjBuRE1hWkZIMUhTQzVnMElvMG95QThIdDYzZkp6N2lUQmNObmh6NXZsRzZOdFI3RlpXeXRCdG42Wkdnc1VQVDE1N2ltV3pnd2pTNWZkMm9ENk1aNW1rakJ3Y0NwSEhn?oc=5",
-        "fonte": "Jornal Grande Bahia",
-        "data": "2026-11-05"
       }
     ],
     "maquinas": [
@@ -266,10 +266,10 @@ window.NEWS = {
     ],
     "papel-celulose": [
       {
-        "titulo": "Tecnologias avançadas de regeneração de água da Veolia fortalecem a segurança ambiental da nova fábrica de celulose da Arauco no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMjZWbFNuVm9YZmV0eDkxd1Raa2Zqa2MwWF9ESHczT3lDT3Bwam03SWM5U0tZcU1acmMxNzNIRFMxYkd5VjlSd0doMGJva1ZhQVYwWFdsbS1ZR1REQkhzUGZpWHhkd1E4enZvbVUzeXBvVnI5MWZGOEMzSTZUMTRIZFFVVVpVUkROOXhwU1lxMzQwX0FQU3BLNFBGbjV6Y09oc1liUDMyZHhRckZNUjBDUU1sMXJOb0k4MGNCRld6UlFmRlZoOU9TMXRDUEFaVUZteWRaT2xfMlNGcTlnV1FSb2dSdXhPVTdfM2pubFh5X1MycDcwRkFJ?oc=5",
-        "fonte": "Tissue Online",
-        "data": "2026-11-04"
+        "titulo": "Celulose em MS: empresários miram Bataguassu após Inocência",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHp1QVJEUm83QmRVYmFiQ2NlT3FzQlNSU0p1RzhNTmdlR1dYMW8zVXl1NEQzUDQ2bzg1R2RyX3hmSUxfX0tXcVJIaDNkQVBqal95T2xSSkZJSHVOeXBwMXdhd2NQeXZJSFZuNGJiTjdQcTAxZHNwd21HbjBOWDlfU0g0SHluYVFieldTVGhQaXo0eWViWjdXeE9vVzE0RnIyLUlJUjBBQUhSbDVqanZiTHVOTHNwdTFTcVdsdlBxMlnSAcABQVVfeXFMUG1jRVJycEZ1NHdELS1TYi1wc0REcTFtZnpxUzNsTWsyNHlIUEY5OVNLU0RKZF82QnVRNXc3dmNUaWpUUnI5T2dyMWNsOU1Dcm9oZ2pPcWM4d182NnVwSHVsZEw5VnZyMmlKRzJOYzRwTlhlbHRiY081RXQtNVRvQktsaHo5Y3NzTV82TnFjVWdJV2Z5TmotMXhZcjI2Q0tMOEVkR3p0SDB0eHlacFZkYzF5ajFGZVpsNDlMWEZrOGwz?oc=5",
+        "fonte": "Campo Grande News",
+        "data": "2026-11-11"
       },
       {
         "titulo": "(Multimídia) Cooperação China-Brasil entra em nova fase com desenvolvimento verde e tecnológico",
@@ -286,16 +286,16 @@ window.NEWS = {
     ],
     "quimica": [
       {
+        "titulo": "Nova regra climática mira grandes emissores e pode mudar negócios da indústria e do agro no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmhHUkZpMlVvVzhsT2l2aV9oTVVFTmhMT1VRQTlDX1RVNDVSRmw1UFdSUnRVTUhROGxqR0FUMF85WVpBcHZzMmhKTzBnNm9nNjZzd2JzZHV3b09LQ0k4TGc0NVBCemJnRlJsZTFIem42Y3dvSlMzY3R4RkxxRjJZXzlMZmkxUmVma1NSUldkbmxPOG5fWGdrMS1lOW9uYW5KbmJXYlZma3MyejQ4V19Jc3ZtWS1VaDdMY2RMOEZR?oc=5",
+        "fonte": "JBNEWS",
+        "data": "2026-11-11"
+      },
+      {
         "titulo": "Mercado de catalisadores de decomposição de amônia até 2035: demanda de células a combustível impulsiona o crescimento - Notícias e Estatísticas",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQREwtQzl3YkJTWHJIR3BnRTJrNHNWOUFqYVhIa0pMR2haNDhaWlhxdy0yWTFocGczbHU5aDRFM1VSVGxXQTNxbG1jRUxfdVI1bExzQmpzbVpZWnJaaElGTDVwZkk4RHgtb0NFYjF2T0tBVmxGQUJqUDA1cG5paEl3anQwbTJZNHprSm5yaUtyelU1eVBBek5vMmwzNGdBSTVkdXN3Z05fSndyMHB3c3dsVjNxdDBJWWpuaDVZRUxYdDdEMk1QZkFWS3FiWmNyZU1TZTVtTA?oc=5",
         "fonte": "IndexBox",
         "data": "2026-11-09"
-      },
-      {
-        "titulo": "BEI defende mercado europeu integrado de hidrogênio limpo - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPd0ZfbVhqQldFV2NZOVJhU0FqZmpBWG1fWHJHNm85UmdRUFpkbGhwbFBTQm41U2dxQVEzNUVyMDRXaEwtejk2VkJ0TnExSkR3dU5vdXdwUWRsSGlEWHNoUzZTbUhpM1VDT2syTWxVX0g2dGw1LTVkNFJPT2t6VW52LWxGeVZmWmotdVF1VHhnQ1JROVBFQU8yWGJmVmN5ajFXT3lsVTNzeVpqWHdEOC13?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-11-08"
       },
       {
         "titulo": "Nova fábrica de R$ 140 milhões em Anápolis vai produzir oxigênio para mais de 30 hospitais de Goiás e do DF",
@@ -312,16 +312,16 @@ window.NEWS = {
         "data": "2026-11-10"
       },
       {
-        "titulo": "PPP no Paraná prevê R$ 950 milhões em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5zMUxNTmpiMlB3aW5EeXZ3cWhpU3RSUlJtTVRSOXA5b0dJNENlZE53UDlPbVQzMHV6ZlE3Y1BYYzNVbzNybE04YUFqVkRyLU5Ba1h1RGR3d2NaZVZSelhhazUwNzFsS3NOUmc?oc=5",
-        "fonte": "Revista O Empreiteiro",
-        "data": "2026-11-04"
-      },
-      {
         "titulo": "Governo fará mais 9 leilões até o fim de 2026",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUpOSXUtc1Mya213OTEzU3dyQ3NRUmEtWkhkdlBQb3NDZzlzb0FRb0MwdDFhM3B4cE15UzliVW93dFZURmMxNzVUUlFFLS1HQ3E3UTJxT3Y1dmFPa3hENUNuZkJCRUdkWGRVY2xFZXd6RklNcmtXS1FrYXBRZm0xNzE1SkY4aXlvc1g1R1RHOFh6ZGNl?oc=5",
         "fonte": "Poder360",
         "data": "2026-11-07"
+      },
+      {
+        "titulo": "Setor ferroviário de cargas no Brasil aposta em avanço de leilões e novos investimentos em 2027",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekdWanFGYk9CVjJCQjZxNUswU0RVdno3R1dPc0JyczNvcTlYUWd4VlFoNmVkLWNHdGY0SUV4bkcwYjliSzMwc0ItMVpFZU1MZGFBWk54bjh5Tzl3ekxMazlSQ0ZqOGRXWXlPSVJRQ3YwZ1E0WXNZdnNFZ0djMl83X3VZVkQ2a2NKSGoxTVo3eHFkZEZnaWhIb2dIRFVvMkVZeU1CODRkX1pNamlobEsxSXhpSDd0NWNjeF93MDl0TnN3amVGRjFiMkRua0NOblhITk9Z?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-11-11"
       }
     ],
     "siderurgia": [],
