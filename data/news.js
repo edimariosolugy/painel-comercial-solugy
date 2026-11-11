@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-10T22:12:05+00:00",
+  "atualizadoEm": "2026-11-11T02:36:20+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -50,15 +50,15 @@ window.NEWS = {
         "data": "2026-11-07"
       },
       {
-        "titulo": "Montadora chinesa lança mini carro elétrico com 3 lugares por menos de R$ 10 mil",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2w2ZW16Y1RXUGJyUGZwY3hWMU5QVGgtTF9nSXIxb3RWRWowem9mZ1lYLXhTME1SUlpESFFvbHhMYTRGYTFMd2V6Y1MyckpNMm5QM2FBWWdGbHM1WnI0cGIyd09EOUFIS3hpcjdHWUx1aUE5V3ZGMTdWZEhYQ2Q3ZEx3czhkTjV5eU9PdnQ0eEV2U1NoX213ZlI4QzlsdGNnM3hZOGNqYVo4aUpfdS12RUVIMng3bnZiWTdlVjZ2bFlBVUU?oc=5",
-        "fonte": "www.jornalcruzeiro.com.br",
-        "data": "2026-11-09"
-      },
-      {
         "titulo": "Fenatran 2026 reúne 13 montadoras de caminhões e mais de 700 marcas em edição histórica",
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOERfU0hSa3g3SmV6QkUtR052d21wVmZJRVZjMWV5eU1YcjRaRXdydXUzWFdBLS1TVjN3RHNCMExZc0ZqUUNha1RVLVBQUC01NkE2UG9NMl9URXotSnBNMHFjZlEwOUd4dFJJM3ZUWFhnU3hsZlRieFduSUNCWjctbTFkcmpzUlRNUS1fV2xDU0NxYU51aU1Jejd4bHc5MUt0TXFicGZlTE53N0NvNzBvRDhncHluNUJqaUE?oc=5",
         "fonte": "Brasil Inovador",
+        "data": "2026-11-09"
+      },
+      {
+        "titulo": "Montadora chinesa lança mini carro elétrico com 3 lugares por menos de R$ 10 mil",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2w2ZW16Y1RXUGJyUGZwY3hWMU5QVGgtTF9nSXIxb3RWRWowem9mZ1lYLXhTME1SUlpESFFvbHhMYTRGYTFMd2V6Y1MyckpNMm5QM2FBWWdGbHM1WnI0cGIyd09EOUFIS3hpcjdHWUx1aUE5V3ZGMTdWZEhYQ2Q3ZEx3czhkTjV5eU9PdnQ0eEV2U1NoX213ZlI4QzlsdGNnM3hZOGNqYVo4aUpfdS12RUVIMng3bnZiWTdlVjZ2bFlBVUU?oc=5",
+        "fonte": "www.jornalcruzeiro.com.br",
         "data": "2026-11-09"
       }
     ],
@@ -124,12 +124,6 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
-        "titulo": "Aneel homologa leilão de transmissão e confirma R$ 1,75 bilhão em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdHBkZnVueUZBa01rSUJiNkoyWWxMYzhORDl3U2JKTDY2WTdKQWd1QUsyZEhhOFNMLWhsQWlIb1kyV0ItOXYwRzdzaWp3UmtxWnJRRGIzTm9wWVJtT1dnOFlIU0dOMkppSGViUFpDVmFMQjBXVmlvSmg4VXc3QlNyWVJvS1E2bFU2eVQ3TU03QUNLd04xckRseFg5cGhSbTA2eUMzQmtuZnI2MDBTek5sT3RB?oc=5",
-        "fonte": "Times Brasil | CNBC",
-        "data": "2026-11-09"
-      },
-      {
         "titulo": "Setorial Setor Elétrico e Saneamento | Outubro de 2026",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRG0tLXYzYmE2dVJXa1BFY2pSRHo3T2tYektLQlZuWTNJdFdnZG9QaEREYU01TS04WmRFbHcxY2NnVEVfMmx3NzNFXy1wWEpYRWtKUFBFQlF1SV9uT1BBUk5yazJFaXZRT3RMWWpMR29JRGROWG5YX05ZMzR2UVNoN3psTE1pMnA4RXoycEQzdk0?oc=5",
         "fonte": "InvesTalk",
@@ -140,20 +134,26 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2duQ1FfbXc4QzU2ZE1oRl82QVJCMVM5Nm1lTWNVSW5RWGdCS2N3ZG1tU2o2ZFVsYXZSRGdRamlEYjZNQnRTS1YyVjZZUTUtcnRZaWxWN1J6N3dzNFhmRm9odVJrSVdMTVFoT1dJSVJUMW0zdW51RnBwWGk3OUlFQXUwQ1V2a0k1RndIU1FkNTJiUjNoZFE0UC1Dak92eTVnSk9oZm45Wk4wTDBveDRoMkluX28?oc=5",
         "fonte": "Poder360",
         "data": "2026-11-07"
+      },
+      {
+        "titulo": "Aneel prevê três leilões de transmissão de energia; investimento de R$ 50 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd0wwQzBtX0FDNlpmWUNDVkc5VnlOSndiU0NvUjNZWTJmR3JMczItY0k2SmNvOXVaLVdLTG9XcWNpY1dCaVdITF9KQzNCQUtrZEJnWkVDX29YaEdKMGVWamVBTTh6MUd5VVBRSlhhdjRGWm9YTERUdUhLZ2Ftd3ZMRnZ2UTJzdlJjTVY1V1dQNVhvREtWb1J6Uk5yN01mTXhOajdvWS1YZGhjWGhiaVd2SGhTYUxsaU1aZmNEMUxfUS1LSjh5MjBsVVVOTW1LZVM0SkpR?oc=5",
+        "fonte": "Paraíba Total",
+        "data": "2026-11-05"
       }
     ],
     "solar": [
-      {
-        "titulo": "Brasil colocou 26 novas usinas em operação em outubro e todas são de fontes renováveis",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BQmt4OXVJTDV1eVoyUVp0ZTVXOG9QSkIxcnRva3B1cVltYUdBejRYTG5vWmZiVVhWdE5yXzE5OGVRX05SRmhnTUIzLXBWX2UtNHcxamJQVkRoOVlVM19MSnZ2MGR1NXgyM284aVE3NzhNRmZkYVE?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-11-09"
-      },
       {
         "titulo": "O futuro da energia solar não depende apenas de gerar mais, mas de entregar melhor",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzBEOERFcy1mbE5xbEdKSUMtekZwdWlUaEJ6aTN5N3M1R2lVcVJoUFVCSW4zelZEVHJ3dzU1OXlWVW1uWTZ1UVJBbUpYYXZGVFdkT0hFdVg0NFhoNHdHNHFCd25mV1BYbnpWVFlHLU9zYnVfcGZHZjF5U2R5enFRYXRvUmZGU1NXaW0tQXZHX2RwdWstUEVxZDlpZnVWc1JNSnd0R3RxZUs1bzEtWndiUnlzeFFHT2NfdlJTQ3BldFRhNUlnbE1HVlZKUkwxMl9UTnRySQ?oc=5",
         "fonte": "Portal Solar",
         "data": "2026-11-10"
+      },
+      {
+        "titulo": "Brasil colocou 26 novas usinas em operação em outubro e todas são de fontes renováveis",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BQmt4OXVJTDV1eVoyUVp0ZTVXOG9QSkIxcnRva3B1cVltYUdBejRYTG5vWmZiVVhWdE5yXzE5OGVRX05SRmhnTUIzLXBWX2UtNHcxamJQVkRoOVlVM19MSnZ2MGR1NXgyM284aVE3NzhNRmZkYVE?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-11-09"
       },
       {
         "titulo": "Industrialização verde: energia e indústria na COP31",
@@ -162,14 +162,7 @@ window.NEWS = {
         "data": "2026-11-10"
       }
     ],
-    "epc": [
-      {
-        "titulo": "Conasa apresenta proposta para concessão rodoviária de R$15,44 bilhões no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQV0swa25jOXJpSUg0VXZyMExoR0ttMzZsblBnbThMaXVkbDEyX3BBRkstSnU0X1IyMU1RclotbzZkd1ZqMEN1REVVUVhGczIxNWtJaVIycWYxMlJmaU9jQ0xFajZ5N0xhakV5eGtLYnRwUTVEUkZKTWJvYTkxSkl1YmVFOFlCMDg1eHp4Q3oxZkljV3F3M1A5WU13WE9EUXdiTEowUzlsRGtQVC10d2I0YVNzSjZ1dXdhT1E?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-11-10"
-      }
-    ],
+    "epc": [],
     "farma": [
       {
         "titulo": "1° Censo da Indústria farmacêutica da América Latina: levantamento inédito deve redefinir políticas públicas no Brasil",
@@ -184,10 +177,10 @@ window.NEWS = {
         "data": "2026-11-04"
       },
       {
-        "titulo": "Anvisa quer ampliar produção de insumos para medicamentos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTElESzRtOGwxTUY1VGg5THQ3bWJ3Skd0T3pnNl9zZlhiX3pIOUFTRklFbngxUGlHY3RnZFltVGhpUDIwM0JQbHJxT3lua2FTcVhrZkZQTDhxREdzUlkwQlk4SkpHTXdja0pXMWUwZ2wyalFxRWtDVVN5WHFFMHZLbHI2dHJZZEdpMWJZdDlhQUJJWWQyZHE0Uw?oc=5",
-        "fonte": "Diário da Guanabara",
-        "data": "2026-11-07"
+        "titulo": "Anvisa e a integração produtiva farmacêutica da América Latina",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWmUxNUFLdDNRdWRWVUszOXA2R2dXWmpTZ0dMOFZVRGtzUmxFT3BHVk9NVnA0TXVCekN1Yk10QmxZT1pPX2k2SFY5RG9NdlpOQVFhcDR1REdYN3J5ekxPZENaT28tN0Vsd0g4RUVQTi1wa1FtNW9KY3RZb2laUXJkLVIzQWVObkhRMkJWbDdNd091RGI1U0Z4d3pSUXM?oc=5",
+        "fonte": "Abradilan",
+        "data": "2026-11-05"
       }
     ],
     "fertilizantes": [],
