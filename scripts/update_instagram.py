@@ -10,7 +10,8 @@ e grava data/instagram.js. Coleta por conta:
   - demografia dos seguidores (cidades, idade, gênero)
   - insights por post (alcance, views, salvos, compartilhamentos)
 
-Secrets: IG_TOKEN, IG_USER_ID e opcionais IG_USER_ID2/IG_TOKEN2.
+Secrets: IG_TOKEN, IG_USER_ID e, para mais contas, IG_USER_ID2..IG_USER_ID5
+(cada uma com IG_TOKEN2..IG_TOKEN5 opcional; sem ele, reaproveita o IG_TOKEN).
 Apenas biblioteca padrão do Python. Todas as métricas são tolerantes a falha —
 o que a Meta não liberar para a conta vem como nulo e o painel se adapta.
 """
@@ -177,8 +178,9 @@ def coleta_conta(ig, token):
 def main():
     token = os.environ["IG_TOKEN"]
     contas_cfg = [(os.environ["IG_USER_ID"], token)]
-    if os.environ.get("IG_USER_ID2"):
-        contas_cfg.append((os.environ["IG_USER_ID2"], os.environ.get("IG_TOKEN2") or token))
+    for n in range(2, 6):   # IG_USER_ID2 ... IG_USER_ID5 (ex.: @edimariosolugy, @lojasolugy)
+        if os.environ.get(f"IG_USER_ID{n}"):
+            contas_cfg.append((os.environ[f"IG_USER_ID{n}"], os.environ.get(f"IG_TOKEN{n}") or token))
 
     contas = []
     for ig_id, tk in contas_cfg:

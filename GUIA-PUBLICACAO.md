@@ -118,6 +118,18 @@ A aba suporta duas contas com um seletor. Para adicionar o @edimariosolugy:
 3. Crie o secret **`IG_USER_ID2`** com esse id. Se a página for administrada por outra conta/token, crie também **`IG_TOKEN2`**; senão, o `IG_TOKEN` principal é reaproveitado (basta o mesmo perfil pessoal administrar as duas páginas).
 4. Rode o workflow do Instagram — o seletor @solugyoficial / @edimariosolugy aparece sozinho na aba.
 
+### Terceira conta: @lojasolugy (Solugy Materiais Elétricos)
+
+1. O @lojasolugy precisa ser conta **profissional** e estar **vinculado à Página do Facebook da loja** (app do Instagram → Configurações → Central de contas).
+2. No Graph API Explorer (mesmo app `painel-solugy-instagram`), gere o token com as 4 permissões e rode `me/accounts` → localize a Página da loja → copie o **id** dela e o **access_token**.
+3. Rode `{id-da-pagina-da-loja}?fields=instagram_business_account` → copie o `id` retornado.
+4. No GitHub (Settings → Secrets and variables → Actions) crie:
+   - **`IG_USER_ID3`** = o id do passo 3;
+   - **`IG_TOKEN3`** = o access_token da Página da loja (só se ela tiver token diferente do `IG_TOKEN`; se o mesmo perfil administra as páginas, pode pular).
+5. Rode o workflow **"Atualizar Instagram (de hora em hora)"** → o botão **@lojasolugy** aparece no seletor da aba Instagram, com os mesmos indicadores das outras contas.
+
+> Até 5 contas: `IG_USER_ID4`/`IG_TOKEN4` seguem o mesmo padrão.
+
 ---
 
 ## Resumo do funcionamento automático
