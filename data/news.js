@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-11T23:24:33+00:00",
+  "atualizadoEm": "2026-11-12T17:26:11+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-11-09"
       },
       {
-        "titulo": "Agro quer redução de juros e ministro 'conectado' com o setor",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOHNTSmo5cm5WeUV2RU9UQnplemtsb2otVzFlT0MtMk50XzlWUDNreWs3cElBSzBzRmJHSkxpUmVodDdVQmxoZFZ3aENxdWNTcURsZWJOTlpzUDFJVzk5VEN5VEdEZUE2el9EMXBQdGo3U29QQW16TDZJaVZjVloycnk3ZUhac2h6V3ZubWpCRjdJNVdHZ1ZPRHU4R3pNRHRsOGVoWE1n?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-11-06"
+        "titulo": "Plano da China de aumentar produção própria de soja põe agronegócio brasileiro em alerta",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcDc2amUwX2k3OE1jZVcxS1dicDNiZGkyUkRrU3dXNVJwMnk0VVVaVnpBQmJiVDk5VGdqeDhnUVE3ZUx2czdXNDBKVjdOcHhVNTh2a2NTTkhTQjBqNEwtN3dsbjRKbWVSYWpGTkRoYktYeWwxRVRoMF9MemxCckNLMnotOTJHLUNSRkJZZjNDMlh1NGtRU0dlUUJxa2pXNnpxZWQtb1NqU3V0RlBnbGJQQ1lZRERpSUxfZ0HSAb8BQVVfeXFMUFVMakkxby16aEx3SnUzbF9oZ0NRY1J4N19yMnQwd2V4ZFozTDFWYk54NWVNcDFXbGljSTdhWTBJeWlTaFhONFRUQm54dHNXeFkxUUk0ZXA2amphSnVnSzNYNUFfa3psaWNwNlJ5djFQd244bFJya0dWQ0xabjhYM0xpR1ByX2tGWDNyWm5KdllnNmV6cGlJNTFJdURKYjRLQ0VnM09jbWVUQy04azMtNkR5U1pyR2xRdjFLcUFESlU?oc=5",
+        "fonte": "Estadão",
+        "data": "2026-11-08"
       }
     ],
     "alimentos-bebidas": [
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-11-06"
       },
       {
-        "titulo": "Quem é a gigante do Nordeste que acaba de comprar a dona dos sucos Maguary por R$ 500 milhões",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2p2d2dmZy1NVF9XU1gyUGVvMVp3eFM5NkE4dXpMUTd5cnhyclIzX2t4SFNhM05qZGhFaVBheDhkMnFyeDVCVm5WSWkzRDFJdV9ya0RwQ3E3cHNXSWJQenNlaVlkclNDekV4YnNxOHhlUnJLN2ZnN25Pd0I4R3laeC1oZ3dOMElEWkxFUndmWlBkZzNSOUR6SkFEdmFYMjhnNUxwZ2djbFN6UHNmSVpsZktNN1J6ank5TklWaA?oc=5",
-        "fonte": "Exame",
-        "data": "2026-11-09"
+        "titulo": "A floresta em pé precisa gerar valor: como transformar a bioeconomia amazônica em modelo de desenvolvimento",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR0hmanZqTU9nWjFxU3RBcXRuTG5teFNUTFpKVjcwVW4wdjZFZm80RlIzSFpVVE10TmlBZW1YcXFoMm4xaXljMi1UTWp4b25sZjRUNmViUU8wU1VLQjNZUWV4Mjl1bE45WnNLZkdVbm11R294OG5XUEJWdnJfZ0dNWTFFQUg1ekhwNTBWSkRBMDFEYkp0b1g5X2dRMVBwbFo2TnNEOHFxelJsYlpGdW1kaWF5SWtEY3hXWVN1M0k2MVpxODVEWThEbV9vc3p1UE9VWU5PeVFSWmo?oc=5",
+        "fonte": "Neo Mondo",
+        "data": "2026-11-12"
       }
     ],
     "automotivo": [
@@ -70,16 +70,16 @@ window.NEWS = {
         "data": "2026-11-06"
       },
       {
-        "titulo": "Brasil projeta 19 novas usinas de etanol de milho até 2028 e dobra capacidade de produção",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQmZyZzdSS25HN21BbW1mQk9pb0xKUzBIQmJhWEl1WDU2YWZ3dkEwUTFRUkZRLVc3M2tiazhzV3hBRmdES1o5SVVGZjltYmtRTi1UM2t4UnB6Y3RrcDJTTGlRWFZkVXlLZkUzWFF5d0hZVDhhcThOS0Y3dk1pcTdLMjMtamt3by02d2VYb2pabnZGT1U?oc=5",
+        "titulo": "Sertãozinho recebe Seminário Mensal UNICA com foco em energia e etanol",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMlpMWldYb2VVLTR4b05RY0F5WVhCX3hNWUJHTGEwdW8tZlJJUEZHSTlNNVJOVV9aMFJENXNuYUFiMElpQjNJNTFuRlE0NVRkZ0ptbHduY2ExQWkyVjh4djdtc183N0tWQlBtdzZUN21BbEZweGR0OWlXaEFsWjd0bGp5LXR2cWUzeWNEclZQOXdrUW1RdG9RaEVvRUJrWjAyZWFpU2NMX2RWSUItWGo3aVpQY2tkV1hSa2J2Qm9sa25XQVJpYTg0Xw?oc=5",
         "fonte": "JornalCana",
-        "data": "2026-11-05"
+        "data": "2026-11-09"
       },
       {
-        "titulo": "Piauí aposta em novas indústrias para agregar valor à produção de milho e minério",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRktGYVdseUxNal9yaUM2TkYtYndDQ1g0T2kwM1pSdTJUcjNUT2FMelVJbzJ0X0R1R3Nyb2ZBbWdzb2dLd3h1d0RxWjVTb1d6WVMtLWR1YnBSSXpWaUhyUWVSSkM5Vi03dFJ5QzYxVVltdndmUHRSZG5vdVRFS0J4QUg5V3ZHOXVEUmJ0NW9RWGdpYm0wN1FPSGZLMHctMENUZTlDeURYTEhKbTRwUmRRMjdDU21JV1l5LWdXUmpLeXR1bDhKWkRJMXZn0gHPAUFVX3lxTE0tZlN2VGw2RmJOdHBDZzhIcU00X29EdXo1dWdwUUQyVXBXX0JnVXJqNk5BaXpGTGpyNXlSaGVzcE0wS28welZ2MDhwemFJQmhZYU9QZk9xQ1NMU1pHV3ZBSlRLdmFNaGdNa2Vsa011bXp5X2tMOGhmMk9nSnZWWWFuSzV4SnFQZ2RCRUZaYXc2X0dmc1VWc3VaYWRsRTMtSkY2S25HYXEzOFA3YzlBcnFZTDFPd3d3U3VWeTdyN1dpaDVvVW85NHg4OEVwbnRCcw?oc=5",
-        "fonte": "Portal Piauí Hoje",
-        "data": "2026-11-06"
+        "titulo": "Presidente da Fieg participa da COP31 na Turquia e defende o papel dos biocombustíveis",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQTndaaEU0TTRsdUlJRTlfOVMyVm9wWThjQTM4YlZsUnpjb04zY3BJR1Y3U2xNMENkOHdRT3FCcTM3ZlVSR0pGNDVaMzRuM0hUNVcteG5ub0h3V0F0Nmt0Y2R6aVpFTDRtWFYtT3RzLUl2UHZ4RFYtTGt5RUtOSlpMYTNCQlJkN1Uta0F0TUFlNHYxcDFheEpQYW9xU18yWUVVV2YxZDk4dThGRkVJSGw2TQ?oc=5",
+        "fonte": "JornalCana",
+        "data": "2026-11-10"
       }
     ],
     "cimento": [
@@ -110,25 +110,19 @@ window.NEWS = {
         "data": "2026-11-08"
       },
       {
-        "titulo": "Coca-Cola FEMSA Brasil inaugura novo centro de distribuição com investimento estimado de R$75 milhões em Limeira (SP)",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQV19fa0pSYTdqbmx2aTZSVmVibDFnZ3lXRlFIeER5RVh2d05hY1R0V3RCTGVlYUtCNWszSzlXdUhDT2ZOZ0R3YlBBY3h6NXlNOUxtb0hadEFrMDVwV2N4aVI0QTF6MFR5RmxOM2VPZURIV05vV2NWcldjYVFCSHpWZE9LcW96cldCNGtJempodUZiUFhtQnpGV2h0djhNSnl1eWxRVUVvcm1QdXdlVld1LVMwYUR1VTRkUkJIMzZLSS1jZmtQakMtLVJubTlaT1hjd0RnYWdJT1doUENFeDRmaUhOX0hQTy1HZmtJ?oc=5",
-        "fonte": "SuperVarejo",
-        "data": "2026-11-05"
-      },
-      {
         "titulo": "Com um investimento de mais de R$ 2 bilhões em curso no seu parque temático, mais R$ 250 milhões para o novo centro de distribuição em Itapevi – a ser inaugurado em dezembro – e R$ 50 milhões em máquinas previstos para o ano que vem, a Cacau S",
         "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0ySnczQm9jRUVQbXhaM3Axam5ESnRzT3hHZ0VyN1ZHMWVLOGx3RXY4ZW9XMnlvcG1nVDY3RmhfZkMxc3BreFRZSTVjalBiZDZrTFE?oc=5",
         "fonte": "Instagram",
         "data": "2026-11-10"
+      },
+      {
+        "titulo": "Centro-Oeste de Minas leva sete teses atração de investimentos ao mercado em São Paulo",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnZ3eTVBbkdJMTJnWFU5RlFMTmpfNzZhWlhsNkNLM0RSVWxHTURCUkhpNUxMX0lLZl9BcTV5ZmY0ekZRZ0I4YlpWemhrdjdSVi1feEpQam40UTJXS3h2YnpWd1dDMVZMRE9yR3Eta1JRT3N5bXVyY3pEUU9sekZJLU9OejNEUWNqczBFWW5wc08xRVZzX0FLem1jQVNfZDk0bUI2N1VWY2RFLXR3d1Z1bQ?oc=5",
+        "fonte": "O Fator",
+        "data": "2026-11-06"
       }
     ],
     "energia-gt": [
-      {
-        "titulo": "Setorial Setor Elétrico e Saneamento | Outubro de 2026",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRG0tLXYzYmE2dVJXa1BFY2pSRHo3T2tYektLQlZuWTNJdFdnZG9QaEREYU01TS04WmRFbHcxY2NnVEVfMmx3NzNFXy1wWEpYRWtKUFBFQlF1SV9uT1BBUk5yazJFaXZRT3RMWWpMR29JRGROWG5YX05ZMzR2UVNoN3psTE1pMnA4RXoycEQzdk0?oc=5",
-        "fonte": "InvesTalk",
-        "data": "2026-11-05"
-      },
       {
         "titulo": "Aneel prevê três leilões de transmissão de energia; investimento de R$ 50 bilhões",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOd0wwQzBtX0FDNlpmWUNDVkc5VnlOSndiU0NvUjNZWTJmR3JMczItY0k2SmNvOXVaLVdLTG9XcWNpY1dCaVdITF9KQzNCQUtrZEJnWkVDX29YaEdKMGVWamVBTTh6MUd5VVBRSlhhdjRGWm9YTERUdUhLZ2Ftd3ZMRnZ2UTJzdlJjTVY1V1dQNVhvREtWb1J6Uk5yN01mTXhOajdvWS1YZGhjWGhiaVd2SGhTYUxsaU1aZmNEMUxfUS1LSjh5MjBsVVVOTW1LZVM0SkpR?oc=5",
@@ -136,13 +130,25 @@ window.NEWS = {
         "data": "2026-11-05"
       },
       {
-        "titulo": "Leilão de transmissão garante mais de 8 bilhões em investimentos para 7 estados brasileiros",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLW5zX3lnNk55Q1dkMGw1YmxqWWpLQlphbVU1LUdnZk5vdnUwMktEVmVWTmkxdlphNDIwbFZZaDdQVlYyM0RudlMybGdsa3J4am95SE1SQjhHaVJJbm9GdmN6d21EdXBySDlNZWpXelppU3BLdTR4cWxaaEtXWFhpVlBzT3ZsbE5vNmdBOC1tMEVwa2JUSTIwazVoN0xXTHp3Z2xYNXZ2STZtcUdoSkRUdTFWMmVnSWF4VHRUYjJLdmZ3N3JwWHNFd1B2MA?oc=5",
-        "fonte": "Coluna Política",
-        "data": "2026-11-05"
+        "titulo": "Governo planeja 113 leilões e R$ 470 bi em investimentos até 2030",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2duQ1FfbXc4QzU2ZE1oRl82QVJCMVM5Nm1lTWNVSW5RWGdCS2N3ZG1tU2o2ZFVsYXZSRGdRamlEYjZNQnRTS1YyVjZZUTUtcnRZaWxWN1J6N3dzNFhmRm9odVJrSVdMTVFoT1dJSVJUMW0zdW51RnBwWGk3OUlFQXUwQ1V2a0k1RndIU1FkNTJiUjNoZFE0UC1Dak92eTVnSk9oZm45Wk4wTDBveDRoMkluX28?oc=5",
+        "fonte": "Poder360",
+        "data": "2026-11-07"
+      },
+      {
+        "titulo": "Fundo da Perfin tem R$ 800 milhões para infraestrutura",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbTRLS3VldGhSc1dKOGJHTVFjOFY3cU5MalpibmhVOWFoZkI1SjZfZkpCcVg0eE5vTldCUmM4NTNXMDhkQ1dHRmJWalhGT0hnUFdieFJVMWVwdkRidmU1WnpNUUFUOUxleU9HRHdaQjgwYnpoMUQ3U3IyN1JwY0Q3cWp5M2Zpbnl0bG8wOVZqZVZGLTh5cnM0Y1hsOENab05LVmNQV0xOaU53QkRJMVdRS2ZHd256SXVyQmc40gG7AUFVX3lxTE9tNEtLdWV0aFJzV0o4YkdNUWM4VjdxTkxqWmJuaFU5YWhmQjVKNl9mSkJxWDR4Tm9OV0JSYzg1M1cwOGRDV0dGYlZqWEZPSGdQV2J4UlUxZXB2RGJ2ZTVaek1RQVQ5TGV5T0dEd1pCODBiemgxRDdTcjI3UnBjRDdxankzZmlueXRsbzA5VmplVkYtOHlyczRjWGw4Q1pvTktWY1BXTE5pTndCREkxV1FLZkd3bnpJdXJCZzg?oc=5",
+        "fonte": "Pipeline",
+        "data": "2026-11-10"
       }
     ],
     "solar": [
+      {
+        "titulo": "Balanço 2023-2026: Norte e Noroeste de Minas lideram geração de energia solar e atração de investimentos no setor",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbXVCY2lha1hJUXg3ZGVIelBKNTlzV0tCRVNtYktqQzZaQ3FwVVl0WUtqZzBvWUlsNlZhemRTQjFnY3JZTk1jaWxwZ0ZEdEV6TU1ITElZZFp0QTZ6eHVPZGN5OVhDd3ZIZ0hhMlVqb1ZLcnlISjU0bVp5aWdlaDhhYlhjbURUdHFoTXNwUE92NDdpcmQ3Q0lhc0tHc1RVTkpfWFpqRXI2aHVYN3E3cXZ0TWh2NVdMZmpucTFQN1B3QXVNOHMtUDF4clVJWEVHSkkzNEZMN0VvdlVVNDE0aUZ2SHZwdkRqWVlDVmo4?oc=5",
+        "fonte": "Agência Minas",
+        "data": "2026-11-06"
+      },
       {
         "titulo": "O futuro da energia solar não depende apenas de gerar mais, mas de entregar melhor",
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdzBEOERFcy1mbE5xbEdKSUMtekZwdWlUaEJ6aTN5N3M1R2lVcVJoUFVCSW4zelZEVHJ3dzU1OXlWVW1uWTZ1UVJBbUpYYXZGVFdkT0hFdVg0NFhoNHdHNHFCd25mV1BYbnpWVFlHLU9zYnVfcGZHZjF5U2R5enFRYXRvUmZGU1NXaW0tQXZHX2RwdWstUEVxZDlpZnVWc1JNSnd0R3RxZUs1bzEtWndiUnlzeFFHT2NfdlJTQ3BldFRhNUlnbE1HVlZKUkwxMl9UTnRySQ?oc=5",
@@ -154,12 +160,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVlU4LXhwNjBlMXlwNkdRT1Fvd3hUYl9QcTB3YUFtUG1sY3ZxX3RKOEJMSnFWWGZBcHpvY25IUzg4RHR2aGhVXzJ1S2w5T3ZPeDBDcjB5NHNRdHFjRUhoeXZxeUlLeDZTR3RUNHdBQUtRZmpIdEkzSEIzNTBUQ2pQQ0xBajFqMTg?oc=5",
         "fonte": "Além da Energia",
         "data": "2026-11-10"
-      },
-      {
-        "titulo": "Energia renovável perde força no Brasil e novas instalações caem 27%",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVHJ4RVJVVy0zREhodkFrZ2xBa29MdXUtUFJSNlJxUWpKelJJcnNwbHU5U0g2ZnhsTUlFay14WkVTdDNBaTVaSE9UNmFCUXRyZlpwYXBhN2xtWks5eThRM2cwZTV6X19YcGVzT2dmcl9mSzdWWE1kZ3kzSV96N0VaeGNkeU5vQ3I0QjhVNG5tSVdsbGNDWWxMelNmaTZ5MF9RRGtkNzRQeGpBVVB5dWxBWFdDY0cxc094SnpRcFh3bGI?oc=5",
-        "fonte": "Times Brasil | CNBC",
-        "data": "2026-11-11"
       }
     ],
     "epc": [
@@ -172,22 +172,22 @@ window.NEWS = {
     ],
     "farma": [
       {
+        "titulo": "Indústria farmacêutica no Brasil tem dependência média de 72,6% de insumos importados, revela censo",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1VyTjQ2dmJoWVBvZW1RMXdfNENFM2lpS1RQbDhYN01mX21IajQ4YzZRMGczNU5kQjZDOUo2MU1Celd5Z3B5ZVozV0FOem9tRFlwVm4zbHA2VHFkRXMyMlFFSW1zbFRVTHBQVm9YWVFOc1BJVnl2UU1xMW9HXzRIdy1Rb0txclU?oc=5",
+        "fonte": "Futuro da Saúde",
+        "data": "2026-11-11"
+      },
+      {
+        "titulo": "Inédito: 66% das farmacêuticas planejam investir em pesquisa e desenvolvimento nos próximos 3 anos, revela Censo inédito",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNDRSdzR6WFZ2NDBWN2pVN3REeVloUWVMTjVUbU5ib3J6cXlZLXE4T3VCMjh6RDdmRFpqVFFyb1FZc201dHJ3Z3VuYTRKOUVwUU5mbXlFZUY4UVZJUzVKZzF0OEdxa19uV1VjU19mWW1fNl9oTmNTZ3diV0FRajV6ZG9NSVd0dzJqZldTZ28yblBRY1lJOHpFRlJ0SVNRWEc2YkRzOUVJZGRMNDN0Y3NMOVBCeFBhcUhibGlfZWU3WXJXVy1OV2pMdmZsMXNLbDNVV0E2eDhFYjhtQ0NRWjUxS2NNRHktdw?oc=5",
+        "fonte": "Abradilan",
+        "data": "2026-11-12"
+      },
+      {
         "titulo": "1° Censo da Indústria farmacêutica da América Latina: levantamento inédito deve redefinir políticas públicas no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPR3ZMLUM1a2hJR1kyVHVLU0JHRWtnbXlGc0tTeThnenVwUjUxV19BNlZSZEtkMUtfNGt4cHdEdHl4WHdGQmpFZGRLU2R0alE0THdJblptdmZKUHN2a3hfVFJTVklqZmpYYzJrckRJOWstUGNxZTNaeVRUcGRCOUZERngwMWVDQ2pXTUtDWWV6UVZ2M2dKdXczSno5UzF4aUpQWFFLd3RuWEJ1UUNYTk1jTTNBUWFyQXI5T2cwUlpVVDExRWx3MTQ2ZmhOQzhGWnBXcnJZ?oc=5",
         "fonte": "CBDL",
         "data": "2026-11-06"
-      },
-      {
-        "titulo": "66% das farmacêuticas planejam investir em pesquisa e desenvolvimento nos próximos 3 anos, revela Censo inédito",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc0kwemtYSlZOM0hlbzdkTkprQ05Hb3ctWTgzNXpBQVhSUE5BZFloMHMxWllnc1RWeFcyMlozTzhocUpIQ1RsbGJtVjlXdVF2ZnpqREJWcWdyZXR6cDBOMDNUQ25Td00wS2lXSmJta0ZhRmNWV09lMU11M3FvR2ljVzRIMC1nTXJEcXdvY01CZUl6QlpiYVJSZHpfcG9ZeW1SbEtzNXVGQWhiSzZoelpaVXpkMmlPM2p2QVpXS0IxOVF4NnNqUUpWN0VwTFphdk1wUDJaYk5sTHdQNzRwMDhNZ1hzUVczZndp?oc=5",
-        "fonte": "Saúde Digital News",
-        "data": "2026-11-11"
-      },
-      {
-        "titulo": "7 em cada 10 laboratórios não fornecem remédios para o Farmácia Popular",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWkF3S243U083ZVV4UVU3VjBBNFB3eDVFVjRKOUFJekF0OFdZUlJXODdZcW1QT2c1M0xNemZPRkl0b0RsdVdGbUR2NmRNSHpMY3l6NTUxRy1PdXBid3dCR2ZJZTRxWThGUDV0OHJmX1JLd1ozVHNubG12YkFTYWZ2RGhCTjZ1YlFQTWJYMWhoT1ZwbGdsMU40cmp5Wk1najJUNGd3VkowYl9ObHgzSlNiR1M5d2s?oc=5",
-        "fonte": "viva.com.br",
-        "data": "2026-11-11"
       }
     ],
     "fertilizantes": [],
@@ -205,10 +205,10 @@ window.NEWS = {
         "data": "2026-11-05"
       },
       {
-        "titulo": "Honda investe R$ 3,3 bi no Brasil e celebra 50 anos",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5aal85OWlucENubGtqOElEQURQNE5HRVc1YzFac0tJbkhxWjhXZTZvUVpIVFFUOUg1bTJsVkFNc3R1MENOWFV5OVBxb29PNkprZEtjTUhoZG1NT3ZhSFJsb05JQUs0alpnOVlXUWZlMTFUcWc?oc=5",
-        "fonte": "Acia Araçatuba",
-        "data": "2026-11-06"
+        "titulo": "China pode ditar futuro da indústria se Brasil não reagir, alertam especialistas",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNQ2VabGF2MlhwQW84ZjZKajFTSU5lYzdYSW55VTIwdE5RXzN6RDFFcTdISlUtVWZQOGxfV1NRLW1hcmdvcS1aUjZjZmJLWUE3LU5xZmZRenI5bFlpRHBrUUlzUmwyeDNvd3dLc29FeGtGTmZ1NzVXT2JHTFh5UDRURXhKQjA4QdIBiwFBVV95cUxOMzBFY2NEc0V3S0hsa3QwcnVvcWNMd1JTcWFXMExmVWgwMlhYcnByUGh2Y0F5WnNkX1hOQWRpRFpaZm95dE9mVEMzY29NemxmcFRhMkhrRWJDa08zVG5EMzR6SkJLMmpLZU1odTUtYVJrYTdPYjY2R3BJVlRreTgyRkl3Q1MyTjBia244?oc=5",
+        "fonte": "InfoMoney",
+        "data": "2026-11-12"
       }
     ],
     "logistica": [
@@ -225,10 +225,10 @@ window.NEWS = {
         "data": "2026-11-10"
       },
       {
-        "titulo": "CODEBA e Bahiainveste firmam acordo para integrar portos, ferrovias e rodovias e ampliar logística na Bahia",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZDFRQS1Xd2IzLXZsSnYtbTZNdE94MlZ0bGYwSERITXdFNHFueklLejRVTE1VTFdHak1MSXQ0a0FOaDkzR1NRRDZrT1VYdzlFbjc0dUFrYkZLNnk2ZjhxeFFzdmJGdVZ1ZVhfc0FZdFQ2V3h1dVAxMFZOYXZjd1BudnllQjBuRE1hWkZIMUhTQzVnMElvMG95QThIdDYzZkp6N2lUQmNObmh6NXZsRzZOdFI3RlpXeXRCdG42Wkdnc1VQVDE1N2ltV3pnd2pTNWZkMm9ENk1aNW1rakJ3Y0NwSEhn?oc=5",
-        "fonte": "Jornal Grande Bahia",
-        "data": "2026-11-05"
+        "titulo": "Espírito Santo como parque logístico do Brasil é tema de nova edição do Diálogos.ag",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUUs1cnhxcEJVWTg5T1Q4ekJFck9aMEdtVmdkSXlQaWdGaVBJeVJJVDl1bG15VUhRWTl6enNtREdmOW8yUDhoNU1jUU5nbXNxWnFsTUFXQ1VlUDNndVJqSDNyNGZJckJ6NU5nOXNsZXViSWNtS3dROGN2bkhJRnBGRm92MzdwOVZ2VGh2UVNTY1BCWmxNTFBDd3REM2VNQXVQZF9sV284Q2twSFZQT0F5YWwycEw?oc=5",
+        "fonte": "Rede Gazeta",
+        "data": "2026-11-11"
       }
     ],
     "maquinas": [
@@ -239,16 +239,16 @@ window.NEWS = {
         "data": "2026-11-09"
       },
       {
-        "titulo": "Queda além do esperado na produção industrial acende alerta para PIB e investimentos",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQOW4yV1RwRGxSYkJ0LVpXdWl4anhTSEJqay12ZnVSdUFHZGZkZ2djelpsTlRNYjRXYmRZSkljX09FWE91TTN2Rng1TW5WYk5nNzhLMEVwRjZxczZRRE11SFZ0OTNwNzZlT1VWQ2oyajhaaVVwMmlWWGxwcm8wc2tUTlBFR3FOM2NVQ3N4M28yTWtKYWpNTUHSAZsBQVVfeXFMTTFwZTRiYjRQbXNYSUFlNTJ5OWxINEhoRjl3TFlYeEtGSFJqZmRsTnBIenRJbE5QWE1aYkVkRzdWbnpSM2l3TFBXbnZ4a1NKYUdfM3RycDZwU0dCbFdrUkZiZHVMa3BGaTduVjE0bGR3M2xybjNVd290cm1vaUV4T0pWc3JSdUlHRVpiMVpWa3NlOVY3bC02Mk1lcFU?oc=5",
-        "fonte": "InfoMoney",
-        "data": "2026-11-05"
+        "titulo": "Indústria farmacêutica no Brasil tem dependência média de 72,6% de insumos importados, revela censo",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1VyTjQ2dmJoWVBvZW1RMXdfNENFM2lpS1RQbDhYN01mX21IajQ4YzZRMGczNU5kQjZDOUo2MU1Celd5Z3B5ZVozV0FOem9tRFlwVm4zbHA2VHFkRXMyMlFFSW1zbFRVTHBQVm9YWVFOc1BJVnl2UU1xMW9HXzRIdy1Rb0txclU?oc=5",
+        "fonte": "Futuro da Saúde",
+        "data": "2026-11-11"
       },
       {
-        "titulo": "Produção industrial cai 0,8% em setembro e fica cinco meses sem crescer",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9oQWhBVkFFTmtFcmI0Z0czRl9ucXJiT251LS1ZcUtmb1VuU2R6QUQwWV9MQVlFOXJhZUYzRmhYRmVqblF0QXhCeE81WGlkVmV6cEZPQXE2dEVzbW8wUmV0RldCSjBpZEFyS2p0aUJ2OVB3UnRxanY4SdIBfkFVX3lxTFB1SzdaaVBRTWxsUkRHOEwwbGVqWXl6akNYSGJOandaR3pWN0ZSd2stb2RuWjBzREJ1MFpCeEF6bkhxR3JqalpISWxrY1pvMmNwQmVVc3VidDZ4Y3JrbmQ4N0FHVUdKODJFMm9tSE9aNFNMWkoyazNNcVZVdmlsQQ?oc=5",
-        "fonte": "Nord Investimentos",
-        "data": "2026-11-05"
+        "titulo": "Mercado de automação industrial no Brasil deve movimentar US$ 4,6 bilhões até 2030",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWd0TFEtZmRPdjVKeG9INmlZdjhZTGpiUDNLUDFPbWxRMUZZYWxFR2Jwb1FIVHBpVkFwOXp1MXRONUxNYkozUXZVTmIweHZ0NE43RTJlYXEwNWVHUzZyNjhBWVJNdTk2Vm1qWmVCMVRBVDBaX01Dajd6ZllDRFJSeWxzU3J6MjA1c1E5QktseUlTdE9ZTFp2WlB0OHJaZF9VeXJyazdWdkNLRzVGWTExZWR6TWdobGlxd1E?oc=5",
+        "fonte": "Automação Industrial",
+        "data": "2026-11-09"
       }
     ],
     "mineracao": [
@@ -305,10 +305,10 @@ window.NEWS = {
         "data": "2026-11-09"
       },
       {
-        "titulo": "Nova fábrica de R$ 140 milhões em Anápolis vai produzir oxigênio para mais de 30 hospitais de Goiás e do DF",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQR3VGMW1LNGV3RC1RVnpOdVdhMnZ5T3RUUXJXa3B5Tm0ydEJic091Y1Z3UEl0RkxnbWZvQ1E4bDVLLWlTT01tOElVVlE4enpwVENyLUh6SFFKaHVTNHNfSUxoT2dnZ2tfcXgyT1V2SkVyUDhkek9oZUljMGtBWExvZnAwTVpCUzhPMmRlZl9vOG5yeWpGdXpYMWYzbWw2QUx5ekxtTGtSWjhIQXRvREF5RXdqM1RTdlZCanNrVDl2bFp3VkFPWEtlNS1leFR3RXYydkwtMlRRbWY?oc=5",
-        "fonte": "Portal 6",
-        "data": "2026-11-10"
+        "titulo": "Previsão do mercado de selos labirinto até 2035, impulsionada por upgrades de eficiência na geração de energia",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRURLX1E4ZVh1bzUxbUx1b1R0ZHl3aHZMeEtCeDdLTWhZRmNkZ0pLMnVzRTlaUll5czR0TEhsMzZfemFqa1dpWkVFeTdLcXY2Y0t0bTdDd2FOVTFZc1R0cktKdGtjZ21LR0JzMF9RNnNlMFF4Yjd0ck53U0Y3eEFLNFlXV3g0ZDROVEo0Y2RVc3J0Rnk0cERoTFQtOHIycHlXdUU1UlhjZGliTU5WclV4LUoxZGpvUXg3NFZTWWFVVQ?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-11-12"
       }
     ],
     "saneamento": [
