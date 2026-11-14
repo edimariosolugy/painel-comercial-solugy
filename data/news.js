@@ -1,14 +1,8 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-13T23:22:50+00:00",
+  "atualizadoEm": "2026-11-14T15:38:52+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc00yT3RBRnB0TEg3bF9EbEwtLW9NTTBkSndfYjMxbjE1amFPajFnRHl5ZkxOZkF0M2ZKSzA5LXRrb2FqMU53VFV4enVSV1hGcDA2SEtJeUNwSHByU1dWMWV5WGthR2hoRFlXeEV4aUtGN3dZdC1WVi0xLWFtRkZ6Vzh1UHlIZDhNOUhQbTFQbTE4dlBMdGZTTVkydlh4bjlDNGVLdVg0NVYwT0lyM09lUFRrVkZfYzdEa2xONEpJMF9TUWR2Snpfdk5xRVVBT2REVUZjVGdodFVFZ2Y3cUdxVlJRVXJwVnp0QmRWWmprMk1nbFFG0gGDAkFVX3lxTE5kbTRXZDF5eUk5T1hNckVlRmdmdHV3OUctcFN3akpMdDVITmhVT1BzQkpMT25sVjFYZHd4Zms1Znc1bHZvMkhmOVNweWdiM2lpYkRuU28zWkw2amRNTEg5TWhFVzNWLU5rZ0s2ODg2elh5Q2ZKRmxNQ291Q2FwZVViTHQ2Zm1ZbHJkNUltcDV6ZzBaWjRqS1RvWTZzcE10dDZ0U21KUkV0c1ZvbzJzQktnbkE4NG9zcnRMZ3JKN24yWHZPLWk1Z1NyNDJKU29xcW9mSlFXYk0yRDBWbXhaMnNua3ZLVE9iN2VqVE9GYk5EOENnbi1kZW5aV3BGRXRmaTlxSFU?oc=5",
-        "fonte": "G1",
-        "data": "2026-11-13"
-      },
       {
         "titulo": "Vitória de Lula no Brasil: O Que Muda para o Agro Argentino e por Que os Investimentos Vão Além das Eleições",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUEJqaXZFbkVCeEt0TkNmaEJIbE9nYlkwVVYzRTVHc0ZtX2l6V0thWmc2TmFldjhOc1BPSlBpWmo0S2Z3dTdTeVI1dGlkX19uczZoWnlmYjNDZXg1VnFUemtHUDlXd3V4ekJZdHRSNk05aTN5cDBHUHc3QzlZUENVRkZOU3h3XzgxY0dKa1BNbjBQUGFJT00wdENvWGt0M3dQTkwxOVZNbFVkZXhqS3RHOVcybTRXVGRrWWhzUFgtdHFidktZNGZjeWZnbWxQTU1EbkQ1ZWNad1ozNVBwQW13Y1RrUm0?oc=5",
@@ -20,20 +14,26 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzcyS3FRSC1VS0NSMjBkSE5DaVlUWGF3RWNTLVVUelZMTTJoeml5VHpXOE9Oel9qRUdyQ3FVR3F4UGZ0SDQ0d3VJc3pLQVM3S19MN2IyczQwYWFQd05hX2taQW5raTRqNzJhcmJ3djVXa3BYN3R2ZVNjc0dFdG9HMVhqSWlITE1wU1VNVEFPMFp0dEsxcURlTEVPY3RTZVhDSkk3RVo1SVI3dVBEU2FvbzhR?oc=5",
         "fonte": "Exame",
         "data": "2026-11-12"
+      },
+      {
+        "titulo": "Banco do Brasil rebate críticas e diz que não generalizou agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSGtGM0YxLXhCOWJhS2tXTEMwQ0hOTXBxcUtnTjdzMlRRUElsXzFpakJhR3QzTDV4a0c0X2ZyeWo3UzN0cTBkbWc5T29hZWpOT25BNWtLNkFabDBFYkZ4dC1mY0JXUV9xME9kdW9wRTB6SF94dFlacWpEMnhNY3NPTWFzSTB1Q05wUEQ3aVE2ZXY0elZMTG5rd25BUVIzaHV5eGtGSzRydUpyZ0JSZF9XaTZfcy1DdjNIOVhPdG45UGJlNTMyMzByQ2RaOWhnZ1RSLWFVNlZ3QlgzYknSAeoBQVVfeXFMT1N2OVQ1R0p3bXhoY1BRQWtKam05NjRULVBGcXJxVVZ6ZzhMVWx6NTRaYlFVekFLYVlkRDNTVkNNbEZSd0o2TXY0aWVmX1ZXaW5LN3N6MzNaNGZvNl9KNThxaV9lZkJpT08zWHhsSFFkaUU4T09MdDlRbE1TTU9BMnV3LV91OWJ1c2RYbEdpb0lFd1hBMnI5NVVGdjlPbUxYNk5McUlLa0U1ZEpvdGRhMGtjTXRYdnd0ZnVhei1XRmhuT1JYR1VHbkRENjhRdXY1T0luS25HUzVVaGo4VXVjOE1SMWttNUNkaElB?oc=5",
+        "fonte": "Globo Rural",
+        "data": "2026-11-13"
       }
     ],
     "alimentos-bebidas": [
-      {
-        "titulo": "Mercado de misturadores dinâmicos até 2035: demanda química impulsiona crescimento - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQNWJxTTREdUlKVFdvdzZBVTJnWEZ4dWpOVGlGNnRYcEZTN1lNZGtVcWxZdlpkanZLTFp2OWFaRWc3Ung4dUdXdXAwUWNDdzJ2UmJaOW1WbTdwT2d0NHNHXzAzWlgwWjV2elRUeFB2ZG1IWTVRSHpHRi0yWmFLM201WlVIOGlHRXRneXd0ZklPUXRMVUt3b1h3M2puUFNOSlAyMTc2S1JUQ1pUdDJ4SFBhVlJDanBYS3hZamIxRkhkeFg?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-11-13"
-      },
       {
         "titulo": "A floresta em pé precisa gerar valor: como transformar a bioeconomia amazônica em modelo de desenvolvimento",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPR0hmanZqTU9nWjFxU3RBcXRuTG5teFNUTFpKVjcwVW4wdjZFZm80RlIzSFpVVE10TmlBZW1YcXFoMm4xaXljMi1UTWp4b25sZjRUNmViUU8wU1VLQjNZUWV4Mjl1bE45WnNLZkdVbm11R294OG5XUEJWdnJfZ0dNWTFFQUg1ekhwNTBWSkRBMDFEYkp0b1g5X2dRMVBwbFo2TnNEOHFxelJsYlpGdW1kaWF5SWtEY3hXWVN1M0k2MVpxODVEWThEbV9vc3p1UE9VWU5PeVFSWmo?oc=5",
         "fonte": "Neo Mondo",
         "data": "2026-11-12"
+      },
+      {
+        "titulo": "Quem é a gigante do Nordeste que acaba de comprar a dona dos sucos Maguary por R$ 500 milhões",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY2p2d2dmZy1NVF9XU1gyUGVvMVp3eFM5NkE4dXpMUTd5cnhyclIzX2t4SFNhM05qZGhFaVBheDhkMnFyeDVCVm5WSWkzRDFJdV9ya0RwQ3E3cHNXSWJQenNlaVlkclNDekV4YnNxOHhlUnJLN2ZnN25Pd0I4R3laeC1oZ3dOMElEWkxFUndmWlBkZzNSOUR6SkFEdmFYMjhnNUxwZ2djbFN6UHNmSVpsZktNN1J6ank5TklWaA?oc=5",
+        "fonte": "Exame",
+        "data": "2026-11-09"
       },
       {
         "titulo": "Industrialização verde: energia e indústria na COP31",
@@ -43,12 +43,6 @@ window.NEWS = {
       }
     ],
     "automotivo": [
-      {
-        "titulo": "Indústria automotiva brasileira busca adensamento produtivo para superar dependência externa",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbm9xTEFxV2ZCQndnbFNpZHV0Qlc1V2NfMk8tTlFkQlFhN21LSkNhNlBPQ3FrQXQxQkd0M0U5NXBqWjZWZ0hveDA2YlVhUE9pZ3pOSWxyZVlJeG5lVlY5Q3QtbWxNRmxNNVpXTVc0aUlaT1VtV1hURThfZ1lXZkk0LUlnZUZzTlAzbjdZSUM5LXZZZ2hMQksyMHpVdk1xZV9xNFZuN054SDdXVGRMYnliRzd4MVBLQkJvWll1U2VzR2lBaVcwcGZ1LTh1S0JicGRsdnVHWDVYLW1ITEsxOUQyenNZbl9DcnhKSjhKLUpYMlJ2dldKbkZ3?oc=5",
-        "fonte": "Agência de Notícias da Indústria",
-        "data": "2026-11-07"
-      },
       {
         "titulo": "Randoncorp (RAPT4) 3T26: Verticais Montadora e Autopeças são destaques no trimestre. Confira análise do BB-BI",
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQ09Pc29kV1Z3dHRSNmxYMy1JSXJGSlc2R2RvYVBjMDZ3bXg5Y0hYQ0ljVGstdDZfNGU1WWtBSXpGRjlXYmd3aDVVUDNqWUNnOHFsRDRsWUZQdnB4ZGdqcmhYMnk?oc=5",
@@ -60,20 +54,26 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOERfU0hSa3g3SmV6QkUtR052d21wVmZJRVZjMWV5eU1YcjRaRXdydXUzWFdBLS1TVjN3RHNCMExZc0ZqUUNha1RVLVBQUC01NkE2UG9NMl9URXotSnBNMHFjZlEwOUd4dFJJM3ZUWFhnU3hsZlRieFduSUNCWjctbTFkcmpzUlRNUS1fV2xDU0NxYU51aU1Jejd4bHc5MUt0TXFicGZlTE53N0NvNzBvRDhncHluNUJqaUE?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-11-09"
+      },
+      {
+        "titulo": "Montadora chinesa lança mini carro elétrico com 3 lugares por menos de R$ 10 mil",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNV2w2ZW16Y1RXUGJyUGZwY3hWMU5QVGgtTF9nSXIxb3RWRWowem9mZ1lYLXhTME1SUlpESFFvbHhMYTRGYTFMd2V6Y1MyckpNMm5QM2FBWWdGbHM1WnI0cGIyd09EOUFIS3hpcjdHWUx1aUE5V3ZGMTdWZEhYQ2Q3ZEx3czhkTjV5eU9PdnQ0eEV2U1NoX213ZlI4QzlsdGNnM3hZOGNqYVo4aUpfdS12RUVIMng3bnZiWTdlVjZ2bFlBVUU?oc=5",
+        "fonte": "www.jornalcruzeiro.com.br",
+        "data": "2026-11-09"
       }
     ],
     "bioenergia": [
-      {
-        "titulo": "Raízen tem prejuízo de R$ 843,7 milhões no segundo trimestre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTdfYURUeUwycW5VeDFDSEZyeGZETVROR3VaNXIxX2Z4V3FUaTUwRlY2eTBQSzhrUHZQVG5MWmVJTWZMaVdtZ0VCVjdpOFZ6UHdFdFJyblF6S2hUYzlPMTNDNy1IeTYtZ1NpY0xaalllWFEyMURpdlZUVExuUzBFbFNXbXl3OS1RYTFWRmtORF9xeUhmSE1Rb2pld2lsNVVUSU9OZnpfMzQ3MmlQRmFEbFg0US1uOFVlM0hXQg?oc=5",
-        "fonte": "UOL Economia",
-        "data": "2026-11-12"
-      },
       {
         "titulo": "Sertãozinho recebe Seminário Mensal UNICA com foco em energia e etanol",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPMlpMWldYb2VVLTR4b05RY0F5WVhCX3hNWUJHTGEwdW8tZlJJUEZHSTlNNVJOVV9aMFJENXNuYUFiMElpQjNJNTFuRlE0NVRkZ0ptbHduY2ExQWkyVjh4djdtc183N0tWQlBtdzZUN21BbEZweGR0OWlXaEFsWjd0bGp5LXR2cWUzeWNEclZQOXdrUW1RdG9RaEVvRUJrWjAyZWFpU2NMX2RWSUItWGo3aVpQY2tkV1hSa2J2Qm9sa25XQVJpYTg0Xw?oc=5",
         "fonte": "JornalCana",
         "data": "2026-11-09"
+      },
+      {
+        "titulo": "Raízen tem prejuízo de R$ 843,7 milhões no segundo trimestre de 2026",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTdfYURUeUwycW5VeDFDSEZyeGZETVROR3VaNXIxX2Z4V3FUaTUwRlY2eTBQSzhrUHZQVG5MWmVJTWZMaVdtZ0VCVjdpOFZ6UHdFdFJyblF6S2hUYzlPMTNDNy1IeTYtZ1NpY0xaalllWFEyMURpdlZUVExuUzBFbFNXbXl3OS1RYTFWRmtORF9xeUhmSE1Rb2pld2lsNVVUSU9OZnpfMzQ3MmlQRmFEbFg0US1uOFVlM0hXQg?oc=5",
+        "fonte": "UOL Economia",
+        "data": "2026-11-12"
       },
       {
         "titulo": "Presidente da Fieg participa da COP31 na Turquia e defende o papel dos biocombustíveis",
@@ -124,10 +124,10 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
-        "titulo": "Governo planeja 113 leilões e R$ 470 bi em investimentos até 2030",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2duQ1FfbXc4QzU2ZE1oRl82QVJCMVM5Nm1lTWNVSW5RWGdCS2N3ZG1tU2o2ZFVsYXZSRGdRamlEYjZNQnRTS1YyVjZZUTUtcnRZaWxWN1J6N3dzNFhmRm9odVJrSVdMTVFoT1dJSVJUMW0zdW51RnBwWGk3OUlFQXUwQ1V2a0k1RndIU1FkNTJiUjNoZFE0UC1Dak92eTVnSk9oZm45Wk4wTDBveDRoMkluX28?oc=5",
+        "titulo": "Leilão de transmissão trará economia de R$ 20 bilhões na conta de luz",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNem1fbnQtUndWVVZvbE9MMWVyYlo4X2xRQXNNMjl0UHZ6cElQZnc4MnNQMVJJOWxXbTc0SHY5UDd6SEtEUDNWM25uRVJIRGs0c1cyWkxNZFF0VzU2OE9tSnNScHBub0pjSXRmeENBYnNvaHNhZ3R0bE9rcmNfVnM0Zk1reFZmcWpaSDR4UmxDMWppVmxoQ3lTTWtOWmxVMDJNb01kUWltUUFUYWFOaGVr?oc=5",
         "fonte": "Poder360",
-        "data": "2026-11-07"
+        "data": "2026-11-08"
       },
       {
         "titulo": "Leilão de transmissão da Aneel viabiliza R$ 349,5 milhões para infraestrutura elétrica em Goiás",
@@ -211,10 +211,10 @@ window.NEWS = {
         "data": "2026-11-13"
       },
       {
-        "titulo": "WEG planeja investir US$ 250 milhões no México até 2030, com nova fábrica no país",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjd5UHlycFpfYzRBYmlveE9vN1JkZVNHa3g2SHNqZ2FSQzdCakVpeXBfazhSU1dQNWdYYWJINTlwVGpqRk1IV0NxT0FFYTk0N3hEaTMyMkZLZVk2QWxOUlkwcnM4alhMeFJidDBwUmE3ZVhtWXBGZXRncjQyQVhxWm9PVUZ1WFJVR1VSUE8tdzkySFFhajhhdXJicTd5SWl0czdETzNOQlkwWWRWTkZqUWswTVl1TE9nMWwxNFpqY0fSAdQBQVVfeXFMT2NzMTF5RW1qSkhJQzhxWlA2QTdZei1jV2ZDUnVVQ2U0cDl0SWJnMHhNZmFKdWdteW5NanJrMC1jLXpraUgzSjRhbzNRbVdXQW9HZnJmVTc4MTZMOXY2NUpHRDNDM1JCWnBGTWU4d1FKalJHbVlFd1EtLTBGMllpTno0TGdLU3lrUDRBZy1aMmhYcWJWai1fdU1RUk1NSGdDemxYaE0ybUhDMGZxc2VWZTNXMUM1RnIyeTRuOXZ4VlJnYWNSS3hUUmNFT2VWcFF2UW1HNkE?oc=5",
-        "fonte": "Bloomberg Linea Brasil",
-        "data": "2026-11-12"
+        "titulo": "Como o crédito pode ajudar a indústria a reduzir emissões (Ep. #228)",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOE02S0JuX1ZLbjJzUDNQamUtRTRQeHVIMjd2WWtfMDBLZTV2Z0JlcmdnZm9iTVdXc0hPUFlVZTdMLTR4dVRpc0ZHbmJyOXdsQXhKUzNUaElLaTFkRmZDeHN2VmNGcjM4YUlmQThsQkV4bDRMZEVTXzhsbFdtMkE1alZrMmVCSTBKeWNoQXVMajhiTF9XTDluTUtxcGx6LUhaWEJBMUJHcFdHMG54T05KLTd0VXhMSDdha0JxNHVkUjhsRjQ?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
+        "data": "2026-11-13"
       }
     ],
     "logistica": [
@@ -225,49 +225,43 @@ window.NEWS = {
         "data": "2026-11-12"
       },
       {
-        "titulo": "Movimentação em portos e ferrovias cresce em 2026; rodovia e aéreo recuam, aponta CNT",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVUphZ0pwbFBVUnY3S3RnbGNtN24wODVVbEplUWlTcHByWGdsVXBhOThfelVReExDMXRqaWNCYU5oTXVXLVNKSTFDVW9pOWpBSTZMTE1JQlNwSjRIbHJIMXZDdkplOGM5dHFQRWR1VzJPWGdCQ3h2d0JYSjg0TU1PaHh6MHNHV05vRlo3d0FB?oc=5",
-        "fonte": "Mundo Logística",
-        "data": "2026-11-07"
-      },
-      {
         "titulo": "Espírito Santo como parque logístico do Brasil é tema de nova edição do Diálogos.ag",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUUs1cnhxcEJVWTg5T1Q4ekJFck9aMEdtVmdkSXlQaWdGaVBJeVJJVDl1bG15VUhRWTl6enNtREdmOW8yUDhoNU1jUU5nbXNxWnFsTUFXQ1VlUDNndVJqSDNyNGZJckJ6NU5nOXNsZXViSWNtS3dROGN2bkhJRnBGRm92MzdwOVZ2VGh2UVNTY1BCWmxNTFBDd3REM2VNQXVQZF9sV284Q2twSFZQT0F5YWwycEw?oc=5",
         "fonte": "Rede Gazeta",
+        "data": "2026-11-11"
+      },
+      {
+        "titulo": "Setor ferroviário de cargas no Brasil aposta em avanço de leilões e novos investimentos em 2027",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekdWanFGYk9CVjJCQjZxNUswU0RVdno3R1dPc0JyczNvcTlYUWd4VlFoNmVkLWNHdGY0SUV4bkcwYjliSzMwc0ItMVpFZU1MZGFBWk54bjh5Tzl3ekxMazlSQ0ZqOGRXWXlPSVJRQ3YwZ1E0WXNZdnNFZ0djMl83X3VZVkQ2a2NKSGoxTVo3eHFkZEZnaWhIb2dIRFVvMkVZeU1CODRkX1pNamlobEsxSXhpSDd0NWNjeF93MDl0TnN3amVGRjFiMkRua0NOblhITk9Z?oc=5",
+        "fonte": "BNamericas",
         "data": "2026-11-11"
       }
     ],
     "maquinas": [
       {
+        "titulo": "Com incentivos do Estado, grupo Maratá vai investir R$ 400 milhões e gerar 600 empregos em Pilar",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkNkNGlPZkZtdTdiSzNaQlNmcW5EVUpmdXZMcVU1NE9FbFdYVE9kYkx4bWx2cGNpdjRTYmw0Njl4OGZrNVlhSU5EYjBjd0lSemRQSFhKanFBX3dWZjkzT1AwM19BelNQaFctSkFsYVlfbFRTOGY1TjlVVVVLUWdpUG1IVXE4TXR6LWlTUzhtVlR0LWNMa3FnMHZydUs3MHFtUmJPcGRhaFdiV1ZETGV4SWZWRE9rcjA2ZzByenNpdTg4OGFWZnVPcnZ3?oc=5",
+        "fonte": "Governo do Estado de Alagoas",
+        "data": "2026-11-13"
+      },
+      {
+        "titulo": "Além das tarifas: o que o Brasil precisa fazer para proteger a indústria do aço?",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2h6MGVWOWVJY1pUOFdwYVBqU1cxS1lkQ3FReUdwNnBYdWpFampTTUpjeEFfclo2TjNfMUxZdDl0d1FRc2huRDhKZXdwNVZpU0Q0SXdGWTc4RVhjcFVDbERYSFRBbWp0aVB6TWtjQzBpVmhUN05wUzdZdHcwdTB2ZDRfckpSeWZ2UGxqYmFtZzhpRUNoX1U2QnpITGZ6dEdxazRPdUNJc2dBUi0wZjJuWkJhemhRczNm0gG-AUFVX3lxTE1yYkpYb0RQTGVTM2FYZkw5NkQ5VnEyaGRzV3dxbks5VjBramtIT2k5RTRITlAyOVB6a25sQUIyNWhyeXZFd2EwZTlxU2RUbzI2VGhtdl9rWTJQZkJ6ellpbzlYWURmVkxVdFBSaE83VnV3YUZIdFl2aE44Ym9wN0V4bTFSM2hOVEhfQXdDMjNRd3djZXgxTWRuM1Z5cEg1R0xaU2d4bUVGTFdwUmlRVjA0YmdRNGIzQ0lCQTkzSWc?oc=5",
+        "fonte": "InfoMoney",
+        "data": "2026-11-12"
+      },
+      {
         "titulo": "Indústria farmacêutica no Brasil tem dependência média de 72,6% de insumos importados, revela censo",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1VyTjQ2dmJoWVBvZW1RMXdfNENFM2lpS1RQbDhYN01mX21IajQ4YzZRMGczNU5kQjZDOUo2MU1Celd5Z3B5ZVozV0FOem9tRFlwVm4zbHA2VHFkRXMyMlFFSW1zbFRVTHBQVm9YWVFOc1BJVnl2UU1xMW9HXzRIdy1Rb0txclU?oc=5",
         "fonte": "Futuro da Saúde",
         "data": "2026-11-11"
-      },
-      {
-        "titulo": "Cummins vai investir R$ 600 mi na fábrica de Guarulhos",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEFGSW9HUDZGZ19EYVg4Nlk0OVdXU2k3N196ZVNJVUVta0hRdVdWazJMX3o2bzZjOXNZcUxLYWtUdDVIM2xQQk4yUTB3cXN3aDQ1QnJ5LWQ3MS13bF9FZURzbmFLUkNkQUVac3FPYkI5ZFkxb20yR2dLS015OUx1LW53aGNudlZ1V2w4c1hBTEVHcWhnWDluVW12QnY1c1Fncmlja2otT3JNcW9VZ2VRMNIBvwFBVV95cUxNVW9Odm4xMnBHaVVZaVdsV3dqT0pxX281YTVVTmtocEptcTJCNVA3TkxlQ0x5SXNIMHJ3VEFRakl1T3dtTkh4UDV5bjVwd3FLbm9TNm5uLVhURWNHOEZJTWRyZ3RfbHg5cTV2Vmx1VkhqUTBEeUxMbzItS0dnbzZGLWZVMTh3dWhlTG91QkdoTmExNTJGejFYdDJaeDN3RTNKd0IwdUcxMHJ3RThoQmRYYWJBMFpZdk9QZTdtV3Qzdw?oc=5",
-        "fonte": "Valor Econômico",
-        "data": "2026-11-09"
-      },
-      {
-        "titulo": "Mercado de automação industrial no Brasil deve movimentar US$ 4,6 bilhões até 2030",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMWd0TFEtZmRPdjVKeG9INmlZdjhZTGpiUDNLUDFPbWxRMUZZYWxFR2Jwb1FIVHBpVkFwOXp1MXRONUxNYkozUXZVTmIweHZ0NE43RTJlYXEwNWVHUzZyNjhBWVJNdTk2Vm1qWmVCMVRBVDBaX01Dajd6ZllDRFJSeWxzU3J6MjA1c1E5QktseUlTdE9ZTFp2WlB0OHJaZF9VeXJyazdWdkNLRzVGWTExZWR6TWdobGlxd1E?oc=5",
-        "fonte": "Automação Industrial",
-        "data": "2026-11-09"
       }
     ],
     "mineracao": [
       {
-        "titulo": "Investimento em minerais críticos pode gerar retorno de até 25 vezes em impostos, aponta estudo",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMi1HS3NJc005UVlLWHFYNjY2TDduWUJTTW05RVB4bTY3YmhfZjVfYlBmUzNELUJlc0NENFdhNm1hcktmYXlrdTFDWWpUSUwwN09oNVdLMmJYXzF6Q1Y3cEJ4SXhUNDI3UG56VWxfUC1KQ2RmMkN4TVJ1WHo1WFNVNWdoeDNtUXJZeWt3NVI1d05pMUdHSjE4N0tHbE1WVEM4OFZyaEYxMFcyVWtCaUN5bUQyR1h3Yk9aZW4taGd4NWFMZmxqeEJXaHh1WFU?oc=5",
-        "fonte": "Muzambinho.com",
-        "data": "2026-11-08"
-      },
-      {
-        "titulo": "Agência de Comunicação - Brasil precisa ampliar incentivos para atrair investimentos no refino de minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSm5Vakk4T2s0NTd5aGNQb2NaU1FaSk9Pb0J5TEtuUFg5N3Z5bE14aXloOElZSm9OUlJ3T2o5WmpnOTZfUDJTb1ZOcDhsOE9LMWQyTE9BaVFjR1BlSjlFQ25QVU9EZEJaWlBBSmlzaFZTeUkwQ2M2VkFmV2tzN0hGSk5mcEJoNkVGbDJidzVwNXVZeUFhQi1OWW5qcXpGSERBRjlqeWlGdS1rY1RGVnVLLVY0MEltSWJzekdZYlVVSmlSVU8tTU5pd1VYaWtUR2FoTF8wYW9RbFQyaUR4aWF4TlpOVV9xNWxfaVJsVWN5SThlaU9jTktFTEQ5Z3JXVk0?oc=5",
-        "fonte": "Estadão Blue Studio",
+        "titulo": "Mineradoras apontam três prioridades para o desenvolvimento de minerais críticos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUhFd2c5UEhHNjYyZUVDVGFPOVRKQnYxLUdoYTZKbHkwZEdmc0FlZ2daSENZZ09kZnhyY2JWUnpORmJJZzhYTVQ1TDNyaEo1ZjFveGc1T09EU2FHaldhbGJvaHdCMjI1NlRYTHU5RmZ3M3hObXdCWWNVZEtJMXJFMlRkSlpfNDJkbkpTdkp1clFabTNONVl6YTM0aENIblNFamgxZjZpRWFEdlRzRzFBNzNWRTZUc3FKWVRsSXZNT2ZFRF9NQlFkdw?oc=5",
+        "fonte": "BNamericas",
         "data": "2026-11-10"
       },
       {
@@ -275,6 +269,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYjh3SHcyVDJmdmJpczdGNGl3YTJnT0xZaW1EWVNUUWR6YkstejhvNjVtSS1fR2hSakhGWXhwZ0Q3NVpIMUxGRUhNV0dIcXNIekc5MVNSM29qeTM1NzlFYjFDTENPWmRBanVhaEE3Y2ZWR21XU3d2d2tsYUJxOWpJOVJxRDV6a210NWhsdUxxSFdEQ2RjQndQdHpIR1hvaUlTczhMa2U4MnFHWFAyN0JR?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-11-09"
+      },
+      {
+        "titulo": "Agência de Comunicação - Brasil precisa ampliar incentivos para atrair investimentos no refino de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSm5Vakk4T2s0NTd5aGNQb2NaU1FaSk9Pb0J5TEtuUFg5N3Z5bE14aXloOElZSm9OUlJ3T2o5WmpnOTZfUDJTb1ZOcDhsOE9LMWQyTE9BaVFjR1BlSjlFQ25QVU9EZEJaWlBBSmlzaFZTeUkwQ2M2VkFmV2tzN0hGSk5mcEJoNkVGbDJidzVwNXVZeUFhQi1OWW5qcXpGSERBRjlqeWlGdS1rY1RGVnVLLVY0MEltSWJzekdZYlVVSmlSVU8tTU5pd1VYaWtUR2FoTF8wYW9RbFQyaUR4aWF4TlpOVV9xNWxfaVJsVWN5SThlaU9jTktFTEQ5Z3JXVk0?oc=5",
+        "fonte": "Estadão Blue Studio",
+        "data": "2026-11-10"
       }
     ],
     "papel-celulose": [
@@ -285,16 +285,16 @@ window.NEWS = {
         "data": "2026-11-11"
       },
       {
+        "titulo": "METAIS | Meridian Mining avança na decisão final de investimento em Cabaçal",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWTlYLVZ6dmFPOUxmcXdDeGZNaTRRWFFmWTBac3BueksxVVFxejg0UFlVaDVESzdPVmZLalRkamF3MFZpTTVPSDZibDIyTE4wMC1RWlBkdnNmdHpRNk1CVmFGazZnWjN2T1dsWk13OWV3N3NWc2tiLWM1b2I1aTE0SVgzV2E1Z1pQNVYtYzVPck9xNlR6MGRrOGt2QWZzYUZ2eVp6aFo2dw?oc=5",
+        "fonte": "Brasil Mineral",
+        "data": "2026-11-10"
+      },
+      {
         "titulo": "(Multimídia) Cooperação China-Brasil entra em nova fase com desenvolvimento verde e tecnológico",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSXB6aE0tb0JUYXdVZkZvazJXeEt0VjhIc192ZG4zM21UdXJZN2JZUTBiNm0xSnp6RDBQSEhid3JFZ0NoWkVNeTliUzYwUFJLaHZRT1daWUhPNHh5Ylh6b2hBSzMxYVZuOFZsalNtbkhsekVQaGRudV9TTkpzb0FHa3JpLWVUbGd5?oc=5",
         "fonte": "新华网",
         "data": "2026-11-09"
-      },
-      {
-        "titulo": "Setor ferroviário de cargas no Brasil aposta em avanço de leilões e novos investimentos em 2027",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekdWanFGYk9CVjJCQjZxNUswU0RVdno3R1dPc0JyczNvcTlYUWd4VlFoNmVkLWNHdGY0SUV4bkcwYjliSzMwc0ItMVpFZU1MZGFBWk54bjh5Tzl3ekxMazlSQ0ZqOGRXWXlPSVJRQ3YwZ1E0WXNZdnNFZ0djMl83X3VZVkQ2a2NKSGoxTVo3eHFkZEZnaWhIb2dIRFVvMkVZeU1CODRkX1pNamlobEsxSXhpSDd0NWNjeF93MDl0TnN3amVGRjFiMkRua0NOblhITk9Z?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-11-11"
       }
     ],
     "quimica": [
@@ -331,10 +331,10 @@ window.NEWS = {
         "data": "2026-11-11"
       },
       {
-        "titulo": "Governo fará mais 9 leilões até o fim de 2026",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObUpOSXUtc1Mya213OTEzU3dyQ3NRUmEtWkhkdlBQb3NDZzlzb0FRb0MwdDFhM3B4cE15UzliVW93dFZURmMxNzVUUlFFLS1HQ3E3UTJxT3Y1dmFPa3hENUNuZkJCRUdkWGRVY2xFZXd6RklNcmtXS1FrYXBRZm0xNzE1SkY4aXlvc1g1R1RHOFh6ZGNl?oc=5",
-        "fonte": "Poder360",
-        "data": "2026-11-07"
+        "titulo": "Leilões de rodovias e free flow: o que está em jogo nas concessões de novembro e dezembro",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUFlFd3FDSEpRRHNfa1EybDFaYmJIQXR6eS1HWEJGYnI5YmRHUGpibWcxYXNnT0tzSnloVTdveXJ2TTZHVUdMM3JSM3p6VXhhSEFjd0w2UFMzNVRFUWgtMkpyUVh4b2lCdHdGaGlKZjJ6OVhJTDluTlk3Z3lPbUtONVczdHp3anlZS0lia1RCekJYaHFEZ2ZHMENXMVZLR1RKLUFKSVJadUI4TUEzYnE4Snl5VEVBRzFrazF4TDNhSUZydHAzLWQ4dA?oc=5",
+        "fonte": "Exame",
+        "data": "2026-11-10"
       }
     ],
     "siderurgia": [],
