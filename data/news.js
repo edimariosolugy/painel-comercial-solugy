@@ -1,14 +1,8 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-14T15:38:52+00:00",
+  "atualizadoEm": "2026-11-14T20:30:03+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "Vitória de Lula no Brasil: O Que Muda para o Agro Argentino e por Que os Investimentos Vão Além das Eleições",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUEJqaXZFbkVCeEt0TkNmaEJIbE9nYlkwVVYzRTVHc0ZtX2l6V0thWmc2TmFldjhOc1BPSlBpWmo0S2Z3dTdTeVI1dGlkX19uczZoWnlmYjNDZXg1VnFUemtHUDlXd3V4ekJZdHRSNk05aTN5cDBHUHc3QzlZUENVRkZOU3h3XzgxY0dKa1BNbjBQUGFJT00wdENvWGt0M3dQTkwxOVZNbFVkZXhqS3RHOVcybTRXVGRrWWhzUFgtdHFidktZNGZjeWZnbWxQTU1EbkQ1ZWNad1ozNVBwQW13Y1RrUm0?oc=5",
-        "fonte": "Forbes Brasil",
-        "data": "2026-11-10"
-      },
       {
         "titulo": "Crise no agro é sem precedentes desde o Plano Real, diz CFO do Banco do Brasil",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzcyS3FRSC1VS0NSMjBkSE5DaVlUWGF3RWNTLVVUelZMTTJoeml5VHpXOE9Oel9qRUdyQ3FVR3F4UGZ0SDQ0d3VJc3pLQVM3S19MN2IyczQwYWFQd05hX2taQW5raTRqNzJhcmJ3djVXa3BYN3R2ZVNjc0dFdG9HMVhqSWlITE1wU1VNVEFPMFp0dEsxcURlTEVPY3RTZVhDSkk3RVo1SVI3dVBEU2FvbzhR?oc=5",
@@ -16,9 +10,15 @@ window.NEWS = {
         "data": "2026-11-12"
       },
       {
-        "titulo": "Banco do Brasil rebate críticas e diz que não generalizou agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSGtGM0YxLXhCOWJhS2tXTEMwQ0hOTXBxcUtnTjdzMlRRUElsXzFpakJhR3QzTDV4a0c0X2ZyeWo3UzN0cTBkbWc5T29hZWpOT25BNWtLNkFabDBFYkZ4dC1mY0JXUV9xME9kdW9wRTB6SF94dFlacWpEMnhNY3NPTWFzSTB1Q05wUEQ3aVE2ZXY0elZMTG5rd25BUVIzaHV5eGtGSzRydUpyZ0JSZF9XaTZfcy1DdjNIOVhPdG45UGJlNTMyMzByQ2RaOWhnZ1RSLWFVNlZ3QlgzYknSAeoBQVVfeXFMT1N2OVQ1R0p3bXhoY1BRQWtKam05NjRULVBGcXJxVVZ6ZzhMVWx6NTRaYlFVekFLYVlkRDNTVkNNbEZSd0o2TXY0aWVmX1ZXaW5LN3N6MzNaNGZvNl9KNThxaV9lZkJpT08zWHhsSFFkaUU4T09MdDlRbE1TTU9BMnV3LV91OWJ1c2RYbEdpb0lFd1hBMnI5NVVGdjlPbUxYNk5McUlLa0U1ZEpvdGRhMGtjTXRYdnd0ZnVhei1XRmhuT1JYR1VHbkRENjhRdXY1T0luS25HUzVVaGo4VXVjOE1SMWttNUNkaElB?oc=5",
-        "fonte": "Globo Rural",
+        "titulo": "Vitória de Lula no Brasil: O Que Muda para o Agro Argentino e por Que os Investimentos Vão Além das Eleições",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOUEJqaXZFbkVCeEt0TkNmaEJIbE9nYlkwVVYzRTVHc0ZtX2l6V0thWmc2TmFldjhOc1BPSlBpWmo0S2Z3dTdTeVI1dGlkX19uczZoWnlmYjNDZXg1VnFUemtHUDlXd3V4ekJZdHRSNk05aTN5cDBHUHc3QzlZUENVRkZOU3h3XzgxY0dKa1BNbjBQUGFJT00wdENvWGt0M3dQTkwxOVZNbFVkZXhqS3RHOVcybTRXVGRrWWhzUFgtdHFidktZNGZjeWZnbWxQTU1EbkQ1ZWNad1ozNVBwQW13Y1RrUm0?oc=5",
+        "fonte": "Forbes Brasil",
+        "data": "2026-11-10"
+      },
+      {
+        "titulo": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc00yT3RBRnB0TEg3bF9EbEwtLW9NTTBkSndfYjMxbjE1amFPajFnRHl5ZkxOZkF0M2ZKSzA5LXRrb2FqMU53VFV4enVSV1hGcDA2SEtJeUNwSHByU1dWMWV5WGthR2hoRFlXeEV4aUtGN3dZdC1WVi0xLWFtRkZ6Vzh1UHlIZDhNOUhQbTFQbTE4dlBMdGZTTVkydlh4bjlDNGVLdVg0NVYwT0lyM09lUFRrVkZfYzdEa2xONEpJMF9TUWR2Snpfdk5xRVVBT2REVUZjVGdodFVFZ2Y3cUdxVlJRVXJwVnp0QmRWWmprMk1nbFFG0gGDAkFVX3lxTE5kbTRXZDF5eUk5T1hNckVlRmdmdHV3OUctcFN3akpMdDVITmhVT1BzQkpMT25sVjFYZHd4Zms1Znc1bHZvMkhmOVNweWdiM2lpYkRuU28zWkw2amRNTEg5TWhFVzNWLU5rZ0s2ODg2elh5Q2ZKRmxNQ291Q2FwZVViTHQ2Zm1ZbHJkNUltcDV6ZzBaWjRqS1RvWTZzcE10dDZ0U21KUkV0c1ZvbzJzQktnbkE4NG9zcnRMZ3JKN24yWHZPLWk1Z1NyNDJKU29xcW9mSlFXYk0yRDBWbXhaMnNua3ZLVE9iN2VqVE9GYk5EOENnbi1kZW5aV3BGRXRmaTlxSFU?oc=5",
+        "fonte": "G1",
         "data": "2026-11-13"
       }
     ],
@@ -239,12 +239,6 @@ window.NEWS = {
     ],
     "maquinas": [
       {
-        "titulo": "Com incentivos do Estado, grupo Maratá vai investir R$ 400 milhões e gerar 600 empregos em Pilar",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUkNkNGlPZkZtdTdiSzNaQlNmcW5EVUpmdXZMcVU1NE9FbFdYVE9kYkx4bWx2cGNpdjRTYmw0Njl4OGZrNVlhSU5EYjBjd0lSemRQSFhKanFBX3dWZjkzT1AwM19BelNQaFctSkFsYVlfbFRTOGY1TjlVVVVLUWdpUG1IVXE4TXR6LWlTUzhtVlR0LWNMa3FnMHZydUs3MHFtUmJPcGRhaFdiV1ZETGV4SWZWRE9rcjA2ZzByenNpdTg4OGFWZnVPcnZ3?oc=5",
-        "fonte": "Governo do Estado de Alagoas",
-        "data": "2026-11-13"
-      },
-      {
         "titulo": "Além das tarifas: o que o Brasil precisa fazer para proteger a indústria do aço?",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN2h6MGVWOWVJY1pUOFdwYVBqU1cxS1lkQ3FReUdwNnBYdWpFampTTUpjeEFfclo2TjNfMUxZdDl0d1FRc2huRDhKZXdwNVZpU0Q0SXdGWTc4RVhjcFVDbERYSFRBbWp0aVB6TWtjQzBpVmhUN05wUzdZdHcwdTB2ZDRfckpSeWZ2UGxqYmFtZzhpRUNoX1U2QnpITGZ6dEdxazRPdUNJc2dBUi0wZjJuWkJhemhRczNm0gG-AUFVX3lxTE1yYkpYb0RQTGVTM2FYZkw5NkQ5VnEyaGRzV3dxbks5VjBramtIT2k5RTRITlAyOVB6a25sQUIyNWhyeXZFd2EwZTlxU2RUbzI2VGhtdl9rWTJQZkJ6ellpbzlYWURmVkxVdFBSaE83VnV3YUZIdFl2aE44Ym9wN0V4bTFSM2hOVEhfQXdDMjNRd3djZXgxTWRuM1Z5cEg1R0xaU2d4bUVGTFdwUmlRVjA0YmdRNGIzQ0lCQTkzSWc?oc=5",
         "fonte": "InfoMoney",
@@ -255,13 +249,19 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1VyTjQ2dmJoWVBvZW1RMXdfNENFM2lpS1RQbDhYN01mX21IajQ4YzZRMGczNU5kQjZDOUo2MU1Celd5Z3B5ZVozV0FOem9tRFlwVm4zbHA2VHFkRXMyMlFFSW1zbFRVTHBQVm9YWVFOc1BJVnl2UU1xMW9HXzRIdy1Rb0txclU?oc=5",
         "fonte": "Futuro da Saúde",
         "data": "2026-11-11"
+      },
+      {
+        "titulo": "Cummins vai investir R$ 600 mi na fábrica de Guarulhos",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeEFGSW9HUDZGZ19EYVg4Nlk0OVdXU2k3N196ZVNJVUVta0hRdVdWazJMX3o2bzZjOXNZcUxLYWtUdDVIM2xQQk4yUTB3cXN3aDQ1QnJ5LWQ3MS13bF9FZURzbmFLUkNkQUVac3FPYkI5ZFkxb20yR2dLS015OUx1LW53aGNudlZ1V2w4c1hBTEVHcWhnWDluVW12QnY1c1Fncmlja2otT3JNcW9VZ2VRMNIBvwFBVV95cUxNVW9Odm4xMnBHaVVZaVdsV3dqT0pxX281YTVVTmtocEptcTJCNVA3TkxlQ0x5SXNIMHJ3VEFRakl1T3dtTkh4UDV5bjVwd3FLbm9TNm5uLVhURWNHOEZJTWRyZ3RfbHg5cTV2Vmx1VkhqUTBEeUxMbzItS0dnbzZGLWZVMTh3dWhlTG91QkdoTmExNTJGejFYdDJaeDN3RTNKd0IwdUcxMHJ3RThoQmRYYWJBMFpZdk9QZTdtV3Qzdw?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-11-09"
       }
     ],
     "mineracao": [
       {
-        "titulo": "Mineradoras apontam três prioridades para o desenvolvimento de minerais críticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUhFd2c5UEhHNjYyZUVDVGFPOVRKQnYxLUdoYTZKbHkwZEdmc0FlZ2daSENZZ09kZnhyY2JWUnpORmJJZzhYTVQ1TDNyaEo1ZjFveGc1T09EU2FHaldhbGJvaHdCMjI1NlRYTHU5RmZ3M3hObXdCWWNVZEtJMXJFMlRkSlpfNDJkbkpTdkp1clFabTNONVl6YTM0aENIblNFamgxZjZpRWFEdlRzRzFBNzNWRTZUc3FKWVRsSXZNT2ZFRF9NQlFkdw?oc=5",
-        "fonte": "BNamericas",
+        "titulo": "Agência de Comunicação - Brasil precisa ampliar incentivos para atrair investimentos no refino de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSm5Vakk4T2s0NTd5aGNQb2NaU1FaSk9Pb0J5TEtuUFg5N3Z5bE14aXloOElZSm9OUlJ3T2o5WmpnOTZfUDJTb1ZOcDhsOE9LMWQyTE9BaVFjR1BlSjlFQ25QVU9EZEJaWlBBSmlzaFZTeUkwQ2M2VkFmV2tzN0hGSk5mcEJoNkVGbDJidzVwNXVZeUFhQi1OWW5qcXpGSERBRjlqeWlGdS1rY1RGVnVLLVY0MEltSWJzekdZYlVVSmlSVU8tTU5pd1VYaWtUR2FoTF8wYW9RbFQyaUR4aWF4TlpOVV9xNWxfaVJsVWN5SThlaU9jTktFTEQ5Z3JXVk0?oc=5",
+        "fonte": "Estadão Blue Studio",
         "data": "2026-11-10"
       },
       {
@@ -271,9 +271,9 @@ window.NEWS = {
         "data": "2026-11-09"
       },
       {
-        "titulo": "Agência de Comunicação - Brasil precisa ampliar incentivos para atrair investimentos no refino de minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQSm5Vakk4T2s0NTd5aGNQb2NaU1FaSk9Pb0J5TEtuUFg5N3Z5bE14aXloOElZSm9OUlJ3T2o5WmpnOTZfUDJTb1ZOcDhsOE9LMWQyTE9BaVFjR1BlSjlFQ25QVU9EZEJaWlBBSmlzaFZTeUkwQ2M2VkFmV2tzN0hGSk5mcEJoNkVGbDJidzVwNXVZeUFhQi1OWW5qcXpGSERBRjlqeWlGdS1rY1RGVnVLLVY0MEltSWJzekdZYlVVSmlSVU8tTU5pd1VYaWtUR2FoTF8wYW9RbFQyaUR4aWF4TlpOVV9xNWxfaVJsVWN5SThlaU9jTktFTEQ5Z3JXVk0?oc=5",
-        "fonte": "Estadão Blue Studio",
+        "titulo": "Mineradoras apontam três prioridades para o desenvolvimento de minerais críticos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTUhFd2c5UEhHNjYyZUVDVGFPOVRKQnYxLUdoYTZKbHkwZEdmc0FlZ2daSENZZ09kZnhyY2JWUnpORmJJZzhYTVQ1TDNyaEo1ZjFveGc1T09EU2FHaldhbGJvaHdCMjI1NlRYTHU5RmZ3M3hObXdCWWNVZEtJMXJFMlRkSlpfNDJkbkpTdkp1clFabTNONVl6YTM0aENIblNFamgxZjZpRWFEdlRzRzFBNzNWRTZUc3FKWVRsSXZNT2ZFRF9NQlFkdw?oc=5",
+        "fonte": "BNamericas",
         "data": "2026-11-10"
       }
     ],
