@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-14T20:30:03+00:00",
+  "atualizadoEm": "2026-11-15T00:51:46+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -50,10 +50,10 @@ window.NEWS = {
         "data": "2026-11-13"
       },
       {
-        "titulo": "Fenatran 2026 reúne 13 montadoras de caminhões e mais de 700 marcas em edição histórica",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOERfU0hSa3g3SmV6QkUtR052d21wVmZJRVZjMWV5eU1YcjRaRXdydXUzWFdBLS1TVjN3RHNCMExZc0ZqUUNha1RVLVBQUC01NkE2UG9NMl9URXotSnBNMHFjZlEwOUd4dFJJM3ZUWFhnU3hsZlRieFduSUNCWjctbTFkcmpzUlRNUS1fV2xDU0NxYU51aU1Jejd4bHc5MUt0TXFicGZlTE53N0NvNzBvRDhncHluNUJqaUE?oc=5",
+        "titulo": "Fenatran 2026 registra mais de 60 lançamentos de caminhões e R$ 6 bilhões em investimentos no setor automotivo",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdDVYNmpLT2JkZUhHeHd6Wnpnakx1MjIxQ2FfbTM4ekI1OHJYQ0NqbXktZ25DbHNLd2ZOV0hNajI3ZTQwZlZSbURQUzJZT0N3UXJydTJ3Rkl0MVU0bkZ1cUw4MF9NMU5hRnBlRmE4X1ZNT3d6RFNkWDZVVm5yOHJzcVpwSm1HUjdPTURGLXR1RnJRM0dFU1RXZDJnSlVsUkVZWGZkNUNMdWFCUGhEQWxjeUM2VDY5V1pWUG9oS2NzN25OdkF3emZQS2VqU1c3dGxoOXE1MVpYcw?oc=5",
         "fonte": "Brasil Inovador",
-        "data": "2026-11-09"
+        "data": "2026-11-14"
       },
       {
         "titulo": "Montadora chinesa lança mini carro elétrico com 3 lugares por menos de R$ 10 mil",
@@ -90,16 +90,16 @@ window.NEWS = {
         "data": "2026-11-08"
       },
       {
-        "titulo": "Título SEO: Votorantim Cimentos investe R$ 877 milhões no 3º tri",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQVZIcGd1YUhQQlVnZ3ZoQVFqT2gyWjZDOTdIQV9nOFFFSVQxaWlEY1lLdmdZd2JGNjhEQVEySy1pVGlIRjNEMnZVLVBabFRpOU1iWFZ6WnFVSUs2SVZ4MkdKLTJUMWdIdkhMcU5tcnloNGdxMTZ5QkcwcXRVMXV4aUxJU2VKemJoeWcwX0Z5VzNkTW9x?oc=5",
-        "fonte": "Revista O Empreiteiro",
-        "data": "2026-11-13"
-      },
-      {
         "titulo": "Concreto é o forte da Huaxin, mas o foco agora é estabilizar a CSN Cimentos após aquisição",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNelhQM3BjMGVuWUM5V0p1MExkSWNrTjltU09KdWdVZEtnNERXRVIyejJpUi1JTFduX2tIbW9sdi1rTkQzRmJZQTY2TXd3UGkyeE4xbUlPT1o5aEJNdElhY2JKTzNaUkpWa09QZ1R4VEtKT0lrVnBSNUlkUWJyZWk5ZFNOcVoydE41Qk9WNmcySmdvNVlDUmRlRy1PWmRieFNSU05pTUhNMWNicmQxTmpyTExrNllUSjhjYk0xSlBhaldoejdYTGVBSkJMNDN5cXNv0gHWAUFVX3lxTE84a3oxQkN4eWU5Q2NPMGNSVFdfSjg0S19MQlBJVWRxbTkwRFNRU0k3eUk1NUVWQ2k1cXI3Qmx3Z3BLRm1Bd3JoNnFZZndHSFdyNFBQb3Nib0ZRMi1NS3g5eEs4UE14UXkwX2VDRHhrNkpVZ0o0bkc2N0d6WEpUNGoySElUNVp3MlNhS2JKMjdWaTVZUUYxUHdkUU1oVUY5TUVRWDNuMmZDTmRhUzVGeDRTX2VWOWVJNVZKZk9nUy1lN3ZUbzRZakJxb1Bfb3ZIWHg2RXB0elE?oc=5",
         "fonte": "Estadão",
         "data": "2026-11-09"
+      },
+      {
+        "titulo": "CSN anuncia venda de fábrica de cimento para chinesa por R$ 12,7 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNNGpybFN1bFQ5M3l3N2ljLTF6SlJyNmwycW44UGdOa3g4YkZ0OVhPRXpDSnlERGFQaFFIUE1wNUlMQzgzMW55aEpUam82V0F1N2RYV1V6UDV4djVYUlJMUnBnX3U2ZjdGZnlJR2hlUFh1blY4WEJXZUlXbFJZV1NEUS1pYm90dWM?oc=5",
+        "fonte": "Folha do ES",
+        "data": "2026-11-10"
       }
     ],
     "comercio": [
