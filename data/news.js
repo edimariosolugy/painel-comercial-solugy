@@ -1,19 +1,19 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-18T01:31:55+00:00",
+  "atualizadoEm": "2026-11-18T17:52:42+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "Custos, clima e maiores investimentos levam crise ao agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDdBNTRnSTlPTlJSMGNILW5JOFUyTGY2QjhiWXVWTGZhNUFpdnhrbm1pRXlfVWVWblBFeDZVUU5Td2VfTFpvcFVyQjhaUk5ycEpNVjlUaGMzOVV4OUlpc2I0NmFvRE9UNEpWTGJvNnJzOXM5WFBjUUpfLUl0V25XZ1gwNGVlcXNYUW1XTXE3cTZ0RGtqVENFczJOWG9WbDZjcFg5UGxPZERBdVk?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-11-16"
-      },
       {
         "titulo": "Crise no agro é sem precedentes desde o Plano Real, diz CFO do Banco do Brasil",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzcyS3FRSC1VS0NSMjBkSE5DaVlUWGF3RWNTLVVUelZMTTJoeml5VHpXOE9Oel9qRUdyQ3FVR3F4UGZ0SDQ0d3VJc3pLQVM3S19MN2IyczQwYWFQd05hX2taQW5raTRqNzJhcmJ3djVXa3BYN3R2ZVNjc0dFdG9HMVhqSWlITE1wU1VNVEFPMFp0dEsxcURlTEVPY3RTZVhDSkk3RVo1SVI3dVBEU2FvbzhR?oc=5",
         "fonte": "Exame",
         "data": "2026-11-12"
+      },
+      {
+        "titulo": "Mapa lança portfólio para orientar parlamentares sobre investimentos no agro em 2027",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRGdUWU5DYzlZTzNsdy1GOS1ZYS16TEJRYXl1a0NBRVVHUjgtd2g0OGJ3Tl9QN2JVeThMN3FlRWVxdE9RUkp0VnJacXVlUU9SeXZsNi1xcjV4d0swRkJpeE8xNm9RaWlkV1o5QmozZkVsWW9zRFFHbjBoYUtPTzhISmFwVThtSnlieVU0NXVwUXViZTVORnplREpMMVQzWEVxQnY1cVJMNk1MaG40Q29La0pDQmNZYlppajU1M0lCNVZNeS12OGpGTmlyNlFJRUY5MjQxWEdlTmsyUDhP?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-11-18"
       },
       {
         "titulo": "Irga participa de debate sobre investimentos e adaptação climática no agronegócio",
@@ -30,10 +30,10 @@ window.NEWS = {
         "data": "2026-11-12"
       },
       {
-        "titulo": "Automação do final de linha desponta como prioridade para investimentos industriais rumo a 2027",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWVLMmx2V1Z0eGdIUW1PZUhsVTgzSlpWZFM1dkR2U05KUnZnSjhhbWY4VHpxOUliY3I3ZnQ2OVFCbUdOOXB0Vml0VUVraTFZN2c3elZMZDdwSlVXYWljNVM1VjBQX2NJejloUFZvQ01yOVQtWWpQaE1fTzljMWRXb1ZvejNLX2xrc2lpcTkzRWE4Mk5iM1BneUI3SVVOUnc3V2tYUjA5ZHhhX0hTc3ZEZDJKYmh2d2V0WnRfM2pJUEZLbktz?oc=5",
+        "titulo": "Empresas do Egito promovem rodada de negócios para expandir exportações de alimentos ao varejo brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYldwMnJqZlU5alo3RzBMQVBLZlFKNy00WTVaNWp3cFN2Q1RETjJjb1lPeUdLa05IU0tVcGVfWmlHbExBMzlERklLRDlVSU9VUjQ3elcwTWJMTENiODZtZGhDWENjSENwVkRmZWZKenhySllRRW9rb1I5b3IxSzlWdUhCWUtkT3dZU0dvalB4dWVveGJkMnR0aWp3MHEtc3VZUDRab1AzaTJ1YVFGb0o1VEFHY0tad2p2ckZ6YUgtT2dhaHQ0NGdRTDRhX1o2dUtjUHc?oc=5",
         "fonte": "Brasil Inovador",
-        "data": "2026-11-16"
+        "data": "2026-11-17"
       },
       {
         "titulo": "Quer investir na Anthropic? BDR da dona do Claude vai estrear na B3 custando menos de R$ 100",
@@ -78,6 +78,12 @@ window.NEWS = {
     ],
     "cimento": [
       {
+        "titulo": "CSN sela venda da CSN Cimentos para o grupo chinês Huaxin por R$ 12,7 bilhões",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZkoza1lpUVFPTVRZeEN2TldPcmNtTEN3Z0lnNDBFdFVwc3dxM21DbjNWR0tidzVTbFlRSG00NEVuTnFEOFhRbk9wbXNfRHNjSEUwRWZZc3pYVk1sZ2xBZ05wMFFwNS0yd2lvVFBmbXpfRllzMkhIX25lWEljMnA2QWxJaWpKSFRUZkF6c19kZzQ3MEdXdDhiOUo2UnJneV8yVVYyaWo4MDV6Zw?oc=5",
+        "fonte": "Brasil Inovador",
+        "data": "2026-11-12"
+      },
+      {
         "titulo": "Previsão do mercado de cimento da Arábia Saudita até 2035: megaprojetos de construção impulsionam o crescimento",
         "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlF5NWxiME1iWklqd0JCcGdPaE1VbGZqY1JsN2NHcnlieEZZdjd5c2d5YzZMajJQUFI4SVpHVVdiTnoxQW5OWFRxby14S080a3ZfdHFiNmdWTWo1clZuODVBRkhSSFRVTGlLOGdEbDRyVkhiWWt0LUlJY3I4S3I5dFhNd256SjI0VkRjcUxWci1sOFpPNGhOXzl5OG9uc0E5VENLektaclBsRGNUZS1EX240OUNxeThh?oc=5",
         "fonte": "IndexBox",
@@ -88,12 +94,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTUNONjhEU05TbjBfcHo1d2puZE9hYWxxV0JZR0dwODlpNjhSYnFPek5hRjBJcjdJbE0yWU5ScUV1U2Y4VUwxTlphM2F1TFlQSVNDdlhuTmRnUGF6Z2s0Z1NKajBFcktucVdzSlNXbDVocDlaRV9Fb01oZGNEdWctSDhsOVozVXVzS3N4QUJ6NXgwMWNqanJkdGZxTGtJdlEwV1FZX1BjbEZDYVBhYkt2QXRoMU9Ed0l5QWJLUUNCLXYySU8xWHJJd293RFAtRE93SExyNEt0N0xrVGszN3YtcU5CRU1QUzg?oc=5",
         "fonte": "Jornal da Região",
         "data": "2026-11-13"
-      },
-      {
-        "titulo": "Asfalto ou concreto: qual dura mais, custa menos e oferece mais segurança?",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTlRyWDhTWDJtY04ySjBoUHpwaWZrQVh6bnlDX3RKRTdLTHdqRHRQbEt2elVZenE3YTlQbHFQazl6eklxOHlZT3FXZmVVNXR4SE9PcDVObFJ2RlBIc1RpMUE4S2c1N1M5cENoaS1hSjgxV29mckFpbzRpd3V2azdaamdHcjExZw?oc=5",
-        "fonte": "Estradas",
-        "data": "2026-11-17"
       }
     ],
     "comercio": [
@@ -104,19 +104,25 @@ window.NEWS = {
         "data": "2026-11-16"
       },
       {
-        "titulo": "Rede TOP Supermercados reinaugura unidade com investimento de R$ 8 milhões em Indaial (SC)",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDB2VmZRRjkzbXRmVDk1cks2eFNTNEh4dUJneDZDczdUcUQyNDVSczRienc1cmlaSGNfblRTZXluVjVPTVliMHVudW0zeERXY1gtaE1ERHJpQVgyRWdnYWw0OW5INHROV2ZySEVfaF9xcTMwenFtNkY2WlQtSTlNZE9xcWIyUUFkLU15aU04UEp2VE1fVmQzWjEwbldxbkppMU5qNUhaWlhwc3dicmxEZDFlZzlpYk1MOV9ET081N3I4TEE?oc=5",
-        "fonte": "SuperVarejo",
-        "data": "2026-11-16"
-      },
-      {
         "titulo": "Investimento no varejo brasileiro exige seletividade diante de juros altos e concorrência digital em 2026",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOVJtU05WWjFFa0Y5cDdWYVlQR19PaVI2LXVza0pjaVJsZ3Y3NXR3Z0J0QS02T1IxQ3lOMjFiS2hZeHhGNFpvTXVKZ3loV3FyeDJHZWdodWpzdzhQcEJ4eFFMTDNOekpPeEItSHNSblJGT1ZkWnNJOEdxLXVHWXltUkVzTmN1TW1kYU9XREtibmlqNS1JMFV3T1RrUkx0OUs0SXd1SWRnYmwzNFh4SnI3Tk43WXZ3VS1yM3dvclZRaW94eVB6TzZPZUoxWnZwYjJyanc?oc=5",
         "fonte": "Brasil Inovador",
         "data": "2026-11-17"
+      },
+      {
+        "titulo": "Rede TOP Supermercados reinaugura unidade com investimento de R$ 8 milhões em Indaial (SC)",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDB2VmZRRjkzbXRmVDk1cks2eFNTNEh4dUJneDZDczdUcUQyNDVSczRienc1cmlaSGNfblRTZXluVjVPTVliMHVudW0zeERXY1gtaE1ERHJpQVgyRWdnYWw0OW5INHROV2ZySEVfaF9xcTMwenFtNkY2WlQtSTlNZE9xcWIyUUFkLU15aU04UEp2VE1fVmQzWjEwbldxbkppMU5qNUhaWlhwc3dicmxEZDFlZzlpYk1MOV9ET081N3I4TEE?oc=5",
+        "fonte": "SuperVarejo",
+        "data": "2026-11-16"
       }
     ],
     "energia-gt": [
+      {
+        "titulo": "Brasil entra na corrida global de baterias com aposta na indústria nacional",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb2ZnbGtRSmdFMFF3eGVtU2xJb0JrNHlsc2NQX3BKdklLckFGM2lSeXpmODU2SUJsV1NGRmVNS0ZQNXpIUzhDNHptZm9aNy14ZVZucjNuNkRodnBkYmRZSEhpOUZCcWtQLTlsMGRmX3R6RUZqLVpXTVdNRm5sV1o1RmpvUG9JeHBpTUtyMEY0RGIwUWExNG9vT2VIWnhCS0Fra0FRR2VPMXpjLTI2VW40TWRtMGcxSElaY3lnUGpWUWFEay1wZHhJdXF4aXktbVB5?oc=5",
+        "fonte": "UOL Economia",
+        "data": "2026-11-18"
+      },
       {
         "titulo": "CPFL Energia vê leilão de baterias como oportunidade e prepara projetos há mais de dois anos",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlTVlhYWgxTFZJaUxVNDE3M0JzRVV3cjFodVlaeS1YV3Q1LWVUZEpsNUJtMXhHRGExSzBRck1HLXlkTEdzOXNFR3NNTWx2Mk1CTFVoNU5PY0E4R3dHdVpNV2tRNzJKM0R2SW5LYmxiTnU4T3p2YUZF?oc=5",
@@ -128,12 +134,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSy1waWdnT0UtbTVpbjNwYkJ3MmstdW8tR2VmbjRXWlhrWHR3ejdOdnlEdFJHajlDWFBneHgtSl8zRDFITzItMlRwWDUzbE5JdWtjTVlienlmMC1fbFhjLXBXdHJxMjBVcjZLY216RERMWHJaXzdIYXZNY0xjM1RON19pWFVURVFhTWpla05McHhJQ0ZCVnF2dDlUeGRHMEFkWVJlbFQ2ckhna3RtVko4Nw?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-11-12"
-      },
-      {
-        "titulo": "Brasil compartilha experiência em planejamento energético e fortalece cooperação internacional na COP31",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYnZwZVB3TTN5b21FRmlpNDF2ZTdNZG83UVRTcVpkSkthVldzUjUwaG9GUmtRQV9CMXNVLUJRX1RRU3p1TEhUMmFDMG5VLXM4eHFSYzRWWGNpQllRLWkxcHJMcGRpY0d3amowT0pPdkZHYzllRU5MWjA5NUZxVmFBZkJEcENsZlY3UFlwekVXRWFHNlduUWl5NUQwWXkzTlVLUHMtb1AxRHc4azZGQV95MFJGZWZWeEQ1X1BPLUlWWk9aNTYwTlQtTE5RMHUyVGZMbmhTYnpNdmpYSkFqZ3ktRVdXN1A?oc=5",
-        "fonte": "www.gov.br",
-        "data": "2026-11-11"
       }
     ],
     "solar": [
@@ -144,25 +144,19 @@ window.NEWS = {
         "data": "2026-11-12"
       },
       {
-        "titulo": "Energia solar: de Tauá à revolução",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOV29TbGJ0U1Z6SWFBQXhBUmc1aVRidjdRX1c3YVNNSTlyZGxuclY0aDU5SmtpWEhfYnNac2VUUnVCalNUSzNEUnFQRDFabHJvZDJWb3E3R28zUzZnLURydFloOXR4dFBuNm1DY1ZnX1dtZjVtSzNTOE15bFROMlRoMXFDLUg5QWFVZTNnRFRYTE90YWVXSk90MVV1ZFBSWGpGSEF1YUFpTmJJOVVnSm1LeFU0VXZpRnRSb1BB?oc=5",
-        "fonte": "Diário do Nordeste",
-        "data": "2026-11-11"
+        "titulo": "O Equador possui um potencial de 3000 MW em energia renovável a ser explorado, enquanto empresas privadas antecipam um \"boom da energia solar\".",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc2hLc3BTTE1aVEpXYTlKcGtBdl9VMmVnaHpPVC1vR0x2eUt0VC1hbWNjaHo1T0tYenhfNjY1cHVubHhmNmhqaXM0aDhMNlo3QjVaamlqeERhZHRPUjZCT1d6dDNpQTk5djlWZmExRXA3V25VeEFmWTltQ0g4NnZscC1XakpxbERidk1UR295OG9pYWlzYVpBVUlZQWk2YmduTGlnSW9Dc043eGFiQURnLURzbnQ0Y0U0Ymh0QUtvdmFrQzNiMHJmdzFJLUFCMXJHdDFEZDdSWmVqUUhJYWtTY25R?oc=5",
+        "fonte": "Energía Estratégica",
+        "data": "2026-11-13"
       },
       {
-        "titulo": "Energia renovável pode colocar o Brasil no centro da expansão global dos data centers",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVMzU0EyN05mM2tTQ3E1WE9zLTFBV0xlY0Y5MmtjSVFETkczb2pvWFdtaUxEcTFfNlNXRE1OSlBJbVdRUUkyT1p0VzVFb19MYUNRSkZrcWZ4anMyam5tZU5HVjczSU1KbVBmd1VTbEFxQ2VPMXZxQnBUVGZhWmdKMDhQU2lHX01mNWFYazRwblhnZjFpN0M5cnNyaFdsQ0V2eG1VSEM4SnZKM3l6LUxPTHVpQjNsMnpEeUl5TXh6TEVMLTBUdzBOOXpsd0Rhc2U3M2c?oc=5",
-        "fonte": "MegaWhat",
-        "data": "2026-11-13"
+        "titulo": "Quinze anos após usina pioneira de Eike no Ceará, energia solar bate recorde, mas enfrenta desafios - Negócios",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVF9rd3M5bkdsOGx6TEFacmFJZGtkX0xsem4tY19JUUhDZ0hRTzdOTjE5MWxxWV9KMjQxcnBvcGFXTW9wc2draFN2dnRLal93cDRMRkxWS1BSRTRuTHZuSHZKTm9PUkhzaXZyYVk5eXF3aTBFaGpkUXB6eFFCVi1FaWhnX2F0MlhDc3pLTHdDQnZXZzBmVGhBZldSblc1M3NhZjc4b09TdHhxazVQcWV4ZllPaDIwTWdOZU94VGN1bXBub25kWG9udGhGem5oR3NjZUc1dzJqQk9WNnZiT2lrWlpEdkp3MWFWWEhKTkxFOE11Zw?oc=5",
+        "fonte": "Diário do Nordeste",
+        "data": "2026-11-12"
       }
     ],
     "epc": [
-      {
-        "titulo": "Setor ferroviário de cargas no Brasil aposta em avanço de leilões e novos investimentos em 2027",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekdWanFGYk9CVjJCQjZxNUswU0RVdno3R1dPc0JyczNvcTlYUWd4VlFoNmVkLWNHdGY0SUV4bkcwYjliSzMwc0ItMVpFZU1MZGFBWk54bjh5Tzl3ekxMazlSQ0ZqOGRXWXlPSVJRQ3YwZ1E0WXNZdnNFZ0djMl83X3VZVkQ2a2NKSGoxTVo3eHFkZEZnaWhIb2dIRFVvMkVZeU1CODRkX1pNamlobEsxSXhpSDd0NWNjeF93MDl0TnN3amVGRjFiMkRua0NOblhITk9Z?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-11-11"
-      },
       {
         "titulo": "Conasa vence leilão de concessão rodoviária de R$15,44 bilhões no Brasil",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPd2RwenBVNTBVTmNwYnFSZVMyOXdkUEIwSUUxVzJUYXlIaEwzekVuck03d2NCTkJLN3ZvelZJYXlZNktEUndCUjFvZzJUNkFhRzVObm42MkxWZGVGRW1JeUpobXJBQm0yTjV0SFpFeExpX2dNSjAtQ3UyUVN6Nnh3cXgyZUpZbGIyUmZKd0htRjRvV01VcVgtejFWLTJKZVYwYk9kX0o2WTBQazFQSHc?oc=5",
@@ -185,9 +179,9 @@ window.NEWS = {
       },
       {
         "titulo": "Censo revela prioridades da indústria farmacêutica",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZEZQRTdyVko1ZXJGSmJHQ2tMU2U4YkVpVjZGUmgwMm93eG5INnNaOWtIVk45aXFGSTB2T3hGbU92bzFRdloteFN4QjFza1BsNGNvWFh2VGJGY1l3NUlLZmhpZ3FMUzh2TWM1MGtBOHNLb2swUzhCblFFZEJYWGZZQ1BGQVNwVmc1RE1uYg?oc=5",
-        "fonte": "Abradilan",
-        "data": "2026-11-13"
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0U0cUc1Z19VUE9jNGdCVkphVXRhazN4a1g2bFdxVlpVSHF3OERpcWhwMWw2UXhMQVZLU01Ha3ZvTG9qUWExYkF6eXQ5QkhhUWQ2S2gycWNKMkRrcUxoSzZDNDVCdjFIcndnMFh4bjJ0SFR3YklXTzctMGY5bG5nSHQ1WHNBdTlITW11dEp2emI?oc=5",
+        "fonte": "Panorama Farmacêutico",
+        "data": "2026-11-12"
       }
     ],
     "fertilizantes": [],
@@ -219,19 +213,25 @@ window.NEWS = {
         "data": "2026-11-12"
       },
       {
-        "titulo": "Espírito Santo como parque logístico do Brasil é tema de nova edição do Diálogos.ag",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNUUs1cnhxcEJVWTg5T1Q4ekJFck9aMEdtVmdkSXlQaWdGaVBJeVJJVDl1bG15VUhRWTl6enNtREdmOW8yUDhoNU1jUU5nbXNxWnFsTUFXQ1VlUDNndVJqSDNyNGZJckJ6NU5nOXNsZXViSWNtS3dROGN2bkhJRnBGRm92MzdwOVZ2VGh2UVNTY1BCWmxNTFBDd3REM2VNQXVQZF9sV284Q2twSFZQT0F5YWwycEw?oc=5",
-        "fonte": "Rede Gazeta",
-        "data": "2026-11-11"
+        "titulo": "Integração entre modais é desafio para reduzir custos logísticos no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NamNUY3FoYlh2TmpoeXRHbEJFWXZEVzZ0WHAtQ1ZrbmNid2F0MkI0ZkU0YV81VkZnOUNEbVpyMzBVZ2ZYY2EtRXVUcUJleGx1Z3lEWWFEajZIcGVlZDNqNDY4ZkdaNzFXVHcxWUJrV2d4dw?oc=5",
+        "fonte": "Metrópoles",
+        "data": "2026-11-13"
       },
       {
-        "titulo": "Setor ferroviário de cargas no Brasil aposta em avanço de leilões e novos investimentos em 2027",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekdWanFGYk9CVjJCQjZxNUswU0RVdno3R1dPc0JyczNvcTlYUWd4VlFoNmVkLWNHdGY0SUV4bkcwYjliSzMwc0ItMVpFZU1MZGFBWk54bjh5Tzl3ekxMazlSQ0ZqOGRXWXlPSVJRQ3YwZ1E0WXNZdnNFZ0djMl83X3VZVkQ2a2NKSGoxTVo3eHFkZEZnaWhIb2dIRFVvMkVZeU1CODRkX1pNamlobEsxSXhpSDd0NWNjeF93MDl0TnN3amVGRjFiMkRua0NOblhITk9Z?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-11-11"
+        "titulo": "Os pesos da logística do Brasil",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNGJGZ2tvejNWQ2FUcFg3WElyOGYyVUNQeEt6cHpfSDhyYmtPYWZpZTV0SmpMX0x6WVY2cXd0b0d5Y3JRdUVqdTliUHoyZ2ttMmJSak1mTmhhcmpQbDJiaGYyZC00QVdBUF8xOWRLcXdwM21WWFFrY0lHd05adw?oc=5",
+        "fonte": "O Brasilianista",
+        "data": "2026-11-18"
       }
     ],
     "maquinas": [
+      {
+        "titulo": "Empresas planejam investir em 2027, mas juros altos e incertezas ameaçam projetos",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmZMWFJjdEkxMmx2ampnQnlvV2F1T1VPV3JmLXlmQkxiRlpUM0JlLUJjRUtHdzNBUEJuc25lRmppXzJKczNYcVlKb3JIS3BfVHJpZFhXNDBaLVl5b0c5R19VVzZkcVU1MzgweHF1aTdvQ21nWmw3V05lem5vY1NJc2d3STlyS1ZPS2FzRHJJTmN1bk1lVERNbnJlcU9VQUx5Y1hrc3hRUEJVZjRpVVdMeDhzWENFd0xieGw1WGRQOW5GWEVLMnlLS3ln?oc=5",
+        "fonte": "JOTA Info",
+        "data": "2026-11-18"
+      },
       {
         "titulo": "China Shock 2.0: por que a China produz tanto e como isso ameaça o Brasil?",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnpScmpwYmszVTBTYUw3OG9vWmhJSUJ4SU9vTUs5cXRXRWxZdmhKd0p5UDMxZVUtMUh1b0Y1RjVzT1ExYVVYclhQYmFTUExwS1h0NlZYZzNTSHh6ZjMzUXgtXzdIMDB0Rk1UMDlMdWR0WnhsNGtGMHV4dUZxZDhZbzluWFFteEI4NGt3ZFF0SQ?oc=5",
@@ -243,26 +243,20 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1VyTjQ2dmJoWVBvZW1RMXdfNENFM2lpS1RQbDhYN01mX21IajQ4YzZRMGczNU5kQjZDOUo2MU1Celd5Z3B5ZVozV0FOem9tRFlwVm4zbHA2VHFkRXMyMlFFSW1zbFRVTHBQVm9YWVFOc1BJVnl2UU1xMW9HXzRIdy1Rb0txclU?oc=5",
         "fonte": "Futuro da Saúde",
         "data": "2026-11-11"
-      },
-      {
-        "titulo": "TMSA compra 11,6% de participação na Kepler Weber, mas diz que não quer o controle",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTk0bEF2aE5TaDY2aHNoai0yRk5mWHdyRE5aUkhPajFaeWtqb1ppZ0d3MG1RTFVWNHZ4X3NubnotM3VkbUJ5bmRnRTM4eDFfeTYtcEZiYTNTQXNKSG1kNXRIODNMQ2NWTG50RE9SNjJHdGVISWtXbXVKYUI1SGVFN0JMaFA2YlJyQ0llOGpLd213clJ0dDl6WElCVlRvbTBvNjZlOXNvRTNReFVwbUNmOA?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-11-13"
       }
     ],
     "mineracao": [
-      {
-        "titulo": "Nordeste concentra 53,4% dos investimentos em pesquisa de minerais críticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOLVVaRmJWVnQzeFZlV0JlQXpsVGJveVFRcWtaNkk4ZEFMaFJJMTYwQndnLXhZX0FnSExYelBuZkRtUkNYaUtqaHE5TGJjci1TVkYzbVJNdWQ4Z2RGQ3NzQWo4NHlpbTBOTDE3UzVzNUt1VFk3Sk16R3ptTU9CYlJYSmxINGthYUVnWFpIQnVFWE5NaWVZaXk3YV9CZGtIZ1Noakp5Z3Zqd1lmamVTaElaUEhDRWpDbVZFUkRQcTNXRnlzTXZmTXNhYVNzSnlLUnJ1bnQ0VThTV19KNV8tU1UwRnp4djNYZFFMdTA0dm5XUnlNV0pDWkFRNGRaZThVQ0pGbGxZbWhB?oc=5",
-        "fonte": "Banco do Nordeste",
-        "data": "2026-11-11"
-      },
       {
         "titulo": "‘Política de minerais críticos e estratégicos demanda novas competências do Estado’",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnNTSEZBMDlJcThPYmoyVTl5T2dwZDZMT25FdVRjY1prUGlyU3oxVGh5THJuSGxyWm5IUGswUTlWeFg1Nm9NUlZBWExrUC1DWGhGNGZqN2l3aVYwRlEtN1dFaUV4dDdZbWItNlliY3BQeE5EZDJiOWtCV0lnUlU1ZE5RcTlDWm43bzlLU1oydkQ5c2d4T1BISE5lMWpSaUY2cXh2a2xIU29kNVdpYTQwb0d0dzBtMlgwUTR0eHk5dFNfLUo1TFJENFVhQnBuSXcwelE?oc=5",
         "fonte": "www.gov.br",
         "data": "2026-11-11"
+      },
+      {
+        "titulo": "Da ambição à ação: o Brasil na corrida pelos minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbVA1MkY3ZGhIMG9yN29XSUZfSTQtM2t2Q3pzRUM0ajNtQXAzWHBOdmF2Z2Uxa3dYRVNpSlFWcUZsaVhKUUZLRHBPRlZXaDlWUUdOaHBVNXp6ZE01YktwRFZ5MjlKS0t6RkZ4VGpVUjMySjZCNzBBNUk4b2dCV3hwYndBWkJCUTBHSHR1NU5vWFRLUEliOHBibEU1OExZd3c4ZzBtRFlNSFBPX0pfSVlyTkV0Z2JkdGw0ZjM3U1lJazBFclNiNldqNzJmQW9QYzB2V3VBZkd3NlV6aWdnUUxn?oc=5",
+        "fonte": "PwC Brasil",
+        "data": "2026-11-18"
       },
       {
         "titulo": "Nova lei deflagra corrida por minerais críticos no Brasil",
@@ -273,22 +267,22 @@ window.NEWS = {
     ],
     "papel-celulose": [
       {
-        "titulo": "Celulose em MS: empresários miram Bataguassu após Inocência",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSHp1QVJEUm83QmRVYmFiQ2NlT3FzQlNSU0p1RzhNTmdlR1dYMW8zVXl1NEQzUDQ2bzg1R2RyX3hmSUxfX0tXcVJIaDNkQVBqal95T2xSSkZJSHVOeXBwMXdhd2NQeXZJSFZuNGJiTjdQcTAxZHNwd21HbjBOWDlfU0g0SHluYVFieldTVGhQaXo0eWViWjdXeE9vVzE0RnIyLUlJUjBBQUhSbDVqanZiTHVOTHNwdTFTcVdsdlBxMlnSAcABQVVfeXFMUG1jRVJycEZ1NHdELS1TYi1wc0REcTFtZnpxUzNsTWsyNHlIUEY5OVNLU0RKZF82QnVRNXc3dmNUaWpUUnI5T2dyMWNsOU1Dcm9oZ2pPcWM4d182NnVwSHVsZEw5VnZyMmlKRzJOYzRwTlhlbHRiY081RXQtNVRvQktsaHo5Y3NzTV82TnFjVWdJV2Z5TmotMXhZcjI2Q0tMOEVkR3p0SDB0eHlacFZkYzF5ajFGZVpsNDlMWEZrOGwz?oc=5",
-        "fonte": "Campo Grande News",
-        "data": "2026-11-11"
-      },
-      {
         "titulo": "SUZANO PAPEL ON (SUZB3) Preço da ação",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWlVYclFMOGxUZnMwNHMyN2RCTEF4YkJQdlVpR0dMNU94MDRwN20xdUEtLVhPa3JqOTJMTXR1YTBEcjZCNGJ2ZllZcDBxZ3k2QVpzNHZGQXJXN0dYTUxWaTZMQ3NoUHRDVllEV205MXNSNk1kN0I5V1FSLWJBOGxXT09BbVlrNGYtcnZmN2dhQQ?oc=5",
         "fonte": "ADVFN",
         "data": "2026-11-13"
       },
       {
-        "titulo": "Setor ferroviário de cargas no Brasil aposta em avanço de leilões e novos investimentos em 2027",
-        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOekdWanFGYk9CVjJCQjZxNUswU0RVdno3R1dPc0JyczNvcTlYUWd4VlFoNmVkLWNHdGY0SUV4bkcwYjliSzMwc0ItMVpFZU1MZGFBWk54bjh5Tzl3ekxMazlSQ0ZqOGRXWXlPSVJRQ3YwZ1E0WXNZdnNFZ0djMl83X3VZVkQ2a2NKSGoxTVo3eHFkZEZnaWhIb2dIRFVvMkVZeU1CODRkX1pNamlobEsxSXhpSDd0NWNjeF93MDl0TnN3amVGRjFiMkRua0NOblhITk9Z?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-11-11"
+        "titulo": "Unidade Ortigueira da Klabin completa 10 anos como protagonista da operação integrada da Companhia",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQTQyMkh3aU9lOGNjNHFOR2lIY3U3ZWJRWmpDbGV1R1VQeFlaUkpLZHJrYUFScXIzVDlkM1hGaGpScmQ3eC1zck41QXV3QlpBMFdCclU5ajJGV3VIR3hqZGM3VkFTUHNvNmZ0a0hmOTRZdFVlUTVhd1lnMEZmRDZvQ1hPdGwtb2RXenhmRHY2eVZDODV0Tnl5M2hoUE1wX1BCVi1UM1JabE1iaGpHVGJwQ01qMHNrNzlDWXM1dFhjcW5ya1FwampVb3VIVTlFUzh4WlBaaG1R?oc=5",
+        "fonte": "Correio dos Campos",
+        "data": "2026-11-18"
+      },
+      {
+        "titulo": "BNDES libera R$ 97,9 milhões para modernizar a indústria de celulose no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2NocGFIVVNwVFF3MVl0cDU0WHJ4cC1MRDBWWHJIcjlCdm1EZlI4WFJzOFgwODNLdWFQcTFHYlY5TkdSVUZrUnQ4RlFxN1psMkdGaWlIX1c0RFhMQTRDczJTR0VXT0JHZDdDV2VraG56R2Y5Y2tGVGZMNWtlekxWSGRaWnZleVZhVEpOOWxhNFBqQ2xUQXN0N3psT3MxdllzdjBmOU8wR3pMcnBSSVhESVlwc1lDU2puUnNxUkV1V3NGZw?oc=5",
+        "fonte": "www.bra1.com.br",
+        "data": "2026-11-16"
       }
     ],
     "quimica": [
@@ -305,10 +299,10 @@ window.NEWS = {
         "data": "2026-11-13"
       },
       {
-        "titulo": "Nova regra climática mira grandes emissores e pode mudar negócios da indústria e do agro no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOMmhHUkZpMlVvVzhsT2l2aV9oTVVFTmhMT1VRQTlDX1RVNDVSRmw1UFdSUnRVTUhROGxqR0FUMF85WVpBcHZzMmhKTzBnNm9nNjZzd2JzZHV3b09LQ0k4TGc0NVBCemJnRlJsZTFIem42Y3dvSlMzY3R4RkxxRjJZXzlMZmkxUmVma1NSUldkbmxPOG5fWGdrMS1lOW9uYW5KbmJXYlZma3MyejQ4V19Jc3ZtWS1VaDdMY2RMOEZR?oc=5",
-        "fonte": "JBNEWS",
-        "data": "2026-11-11"
+        "titulo": "Mercado de selantes para roscas de tubos até 2035: manutenção e normas de segurança sustentam o crescimento - Notícias e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcllBREd3UzN2Q1g3UkZ5eWRyVlgwQTZ6a1haZFg1bTYwc01KTDZjMTVCTHRleEpsa3h1QTVzQ2hiODI3LU44cnU3a29Ta0RXX0YxSU5iSlJ5cHExWjRKNzNNaGdRREtCTDJ0a182Q2NRUEtsSi12dWFPSUtCUFdrWFpxUDhyUm52Wm5oYUJZNG9LeUJERXJXNnhiRjRHd0tiakJXLVhySlpRempiS1pveHk2cFdnd1o5cU5od3AwcVY4enVTYWFYTkpHS0xBcGhPdHVEVTREMUc4ekplR29JNUM1N1hBQ3hNUm9ETXpKQ2ZvMUR1UlE?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-11-15"
       }
     ],
     "saneamento": [
@@ -319,10 +313,10 @@ window.NEWS = {
         "data": "2026-11-17"
       },
       {
-        "titulo": "Publicado edital para PPP da Transposição do Rio São Francisco",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNV9YenFqZHFTTkRMZGY0WXJDX29fOWdwcTkwRXhhS1FOOF9CUnVQMnBCUEdhRGFkUVBuRW01eVF0bTBiaUFkajZGU291a0tNeW00dHV2eGpGRVJhTkM4QkZGd0ZNdWQ3bmVsWWJpT0ZKOFZnbHVNUWJpcTZ2S0twUlI0c2dZelhkRkNyVUsyV2g1eTNscVZhalpkRmlxdXRkVXc?oc=5",
-        "fonte": "Governo Federal",
-        "data": "2026-11-12"
+        "titulo": "Carteira de saneamento para 2027 anima mercado após ano de frustrações",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclR0eEJmekxIdUZycnlPWC1QYTFYODNhdWY1THlJWmkxUENOSGlQX0R5MlNPaF9yblhGSGZxZFd3c0pkdzVwZHRMb2hxck5idGFZQzBaZVNUVU9tMVlPaWJXUUFmNHJGcHFWbElET3pQdW5Tam1CbkF2NnlQUWZHZmpFRU0xSlZ3SEVOYlFRdFUtdzZpVjJNeG1XbUNyLWU3QmpxR0hzREJIZw?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-11-18"
       },
       {
         "titulo": "Brasil marca data para leilão de concessão de PPP da transposição do Rio São Francisco",
