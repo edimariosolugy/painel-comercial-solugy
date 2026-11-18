@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-17T18:16:52+00:00",
+  "atualizadoEm": "2026-11-18T01:31:55+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -50,16 +50,16 @@ window.NEWS = {
         "data": "2026-11-13"
       },
       {
-        "titulo": "Governo do Rio firma aditivo com a montadora Stellantis e garante R$ 3 bilhões em investimentos e 1,7 mil empregos em Porto Real | Desenvolvimento Econômico",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE8zTUROTl9pQzNwUnJ0Nm42TklySTY5QWpQdjJoVHdUa2QxSzBmT3hyUFJoeU42STZ0clgwaVJqRnpTckhDMUlFMzFzOUNmQWZXTHU3eHFaSkJyMzZyMHpNZkRWSkg1MHF5?oc=5",
-        "fonte": "Governo do Estado do Rio de Janeiro",
-        "data": "2026-11-17"
-      },
-      {
         "titulo": "Montadoras e fabricantes de autopeças pedem barreiras a carros importados; proposta inclui cota anual para veículos vindos da China",
         "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQY2xkU254X21nOUhUeGtIVHhNTGMtODRsSy1fc3paTmxPLWhTYncxVnlSREFqc2duUlpPanpsUkx0TW9mdS1MRUNrYVp6bnQwbjM3SjhWdS1xSThDMXUtbXBrNFhObTVEV1loUklvZWdHdTdZUzVKek54dHZPX3g1S2p1cFd3N1R3MktmWDBpbThvQU9SSUhoQ1ZJQndwbUpfamVvQVZHQ2JuVWIxMnhCMVdzV3o3elIwZG1JM0JiZm1CcTZ4aU1lb0hCYm5pOXFuak5UN1ZEc1dGS0ZGYzVxc3AtU3VrX2JLT3dtbjJjWUh4Ti1kSUE3bF91UWV3aEE?oc=5",
         "fonte": "Notícias Automotivas",
         "data": "2026-11-13"
+      },
+      {
+        "titulo": "Governo do Rio firma aditivo com a montadora Stellantis e garante R$ 3 bilhões em investimentos e 1,7 mil empregos em Porto Real",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNRTF2dkJIZi1kWkw3UDMtY2V3X1BDUkNubnQ1V1pYUjhRREFWYktPT3ZHOFZHVmQ3QUtlbXZuTFJrRUhwRmZlRHp4QjhKbzJhc2RKa3ZvcVVCV1k2cU5nS2hmMlhCX04zeFNPZTRFVUFoelM5ZjhlTGVpOE5lRnZVRGI3STFzb3p6VjZOeGxiT01iTnZTbVdkeEpiNTVEWmF4MnMtQ2xWUi1JaDVGamxZRlZYWTNjY0tyTFRHdHJtQ2dEWGdIZ0tDRzJrbXkwMFpJeHJYbHhMTXg1SmhsWHBEUUZ0SGdhT3BMc1R3?oc=5",
+        "fonte": "A Voz da Cidade",
+        "data": "2026-11-17"
       }
     ],
     "bioenergia": [
@@ -68,6 +68,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcTdfYURUeUwycW5VeDFDSEZyeGZETVROR3VaNXIxX2Z4V3FUaTUwRlY2eTBQSzhrUHZQVG5MWmVJTWZMaVdtZ0VCVjdpOFZ6UHdFdFJyblF6S2hUYzlPMTNDNy1IeTYtZ1NpY0xaalllWFEyMURpdlZUVExuUzBFbFNXbXl3OS1RYTFWRmtORF9xeUhmSE1Rb2pld2lsNVVUSU9OZnpfMzQ3MmlQRmFEbFg0US1uOFVlM0hXQg?oc=5",
         "fonte": "UOL Economia",
         "data": "2026-11-12"
+      },
+      {
+        "titulo": "Levantamento aponta R$ 40,3 bilhões em projetos agroindustriais no Brasil, mas 41 dos 68 registros não indicam obras iniciadas",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObzhKUGJCMmctUjloZk9pUllqWW9haVlRa3JwbTI3NUYyQmtyUUZZT2dVbTVFVzBuWThLbE16Y2hqTnFGZlZCdWU0aUU4bWxPX01yTDRzc09lXzlNaGtoMTBNNjlrTHZqNlRWcU1iazdwckdZdlZLZ2hRR004bTBpQmRSME5qUVBack9hUllDNlliRElCcEp1VG9NMVZjMjBhR2I0TG56bXFCdF9fN3k5ZTZtQzRCRG8xcVJYNXpDbnJxY0tCMVVnVFZ4UHc4ZWFkcXVIZ0NTamlNUzBWZ291VHUwZmZwbEpFakVXQXU0WFlodUNHYXdz?oc=5",
+        "fonte": "CPG Click Petróleo e Gás",
+        "data": "2026-11-17"
       }
     ],
     "cimento": [
@@ -112,12 +118,6 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
-        "titulo": "Juros altos levam empresas de energia a endurecer critérios de investimento",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdGM0UTQzRS1qV0xZeDBYbmtRUEtfQkRCWW8zallpclF3blVjejc4Z0F3MVg0cFZMLWk2SUMzd1F5c3Z3d2dhQmd4UU5uTjdCcndnc0RtaUJjei0wVVozOVZhNmFGekRNVWJGZ0Y1NE9Bbkhza0NqUW0zLTVKQ3lfOVVvV0REWnRmeTk5VFBHZmN0aHBVSnhUVVVUNjBIMHh3VzZDRU9ZckxEdnIyMEVraDl1VQ?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-11-17"
-      },
-      {
         "titulo": "CPFL Energia vê leilão de baterias como oportunidade e prepara projetos há mais de dois anos",
         "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlTVlhYWgxTFZJaUxVNDE3M0JzRVV3cjFodVlaeS1YV3Q1LWVUZEpsNUJtMXhHRGExSzBRck1HLXlkTEdzOXNFR3NNTWx2Mk1CTFVoNU5PY0E4R3dHdVpNV2tRNzJKM0R2SW5LYmxiTnU4T3p2YUZF?oc=5",
         "fonte": "Canal Solar",
@@ -128,6 +128,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSy1waWdnT0UtbTVpbjNwYkJ3MmstdW8tR2VmbjRXWlhrWHR3ejdOdnlEdFJHajlDWFBneHgtSl8zRDFITzItMlRwWDUzbE5JdWtjTVlienlmMC1fbFhjLXBXdHJxMjBVcjZLY216RERMWHJaXzdIYXZNY0xjM1RON19pWFVURVFhTWpla05McHhJQ0ZCVnF2dDlUeGRHMEFkWVJlbFQ2ckhna3RtVko4Nw?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-11-12"
+      },
+      {
+        "titulo": "Brasil compartilha experiência em planejamento energético e fortalece cooperação internacional na COP31",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYnZwZVB3TTN5b21FRmlpNDF2ZTdNZG83UVRTcVpkSkthVldzUjUwaG9GUmtRQV9CMXNVLUJRX1RRU3p1TEhUMmFDMG5VLXM4eHFSYzRWWGNpQllRLWkxcHJMcGRpY0d3amowT0pPdkZHYzllRU5MWjA5NUZxVmFBZkJEcENsZlY3UFlwekVXRWFHNlduUWl5NUQwWXkzTlVLUHMtb1AxRHc4azZGQV95MFJGZWZWeEQ1X1BPLUlWWk9aNTYwTlQtTE5RMHUyVGZMbmhTYnpNdmpYSkFqZ3ktRVdXN1A?oc=5",
+        "fonte": "www.gov.br",
+        "data": "2026-11-11"
       }
     ],
     "solar": [
@@ -199,17 +205,17 @@ window.NEWS = {
         "data": "2026-11-11"
       },
       {
-        "titulo": "Mercedes-Benz suspende investimentos e avalia fechar fábricas na Alemanha",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYy1nTzdUYjA5U2wxckkza0t0MllPREVOX1FQZTFpOEhsOFF0aFVOa1pRc0ZkWDdvNkR6MzBhS1B3TWllZWdmY0h6azlnRDFCOUxpZTdtU2RRSUt2cmpSanNONHJubmhTQjZmMWlxMEw1TzVaSXh3ZC0wWWdseUprOFFsOXBGU01RR0hMSmF5VzJwV2MybTFVQVY4bzNBVllSNHJZVVBGY1IzUmEwdGJXWmdwaWFMb3U1WWRsdHU5VWhtYlpTZHdsUUNrUjlCWS1xZnhqblUxNlJ6TmRVUW1mQkFDamZ6MUlGaUU5em5NMHkwSXlJMXNoRG5xUUJrQdIB_gFBVV95cUxQYy1nTzdUYjA5U2wxckkza0t0MllPREVOX1FQZTFpOEhsOFF0aFVOa1pRc0ZkWDdvNkR6MzBhS1B3TWllZWdmY0h6azlnRDFCOUxpZTdtU2RRSUt2cmpSanNONHJubmhTQjZmMWlxMEw1TzVaSXh3ZC0wWWdseUprOFFsOXBGU01RR0hMSmF5VzJwV2MybTFVQVY4bzNBVllSNHJZVVBGY1IzUmEwdGJXWmdwaWFMb3U1WWRsdHU5VWhtYlpTZHdsUUNrUjlCWS1xZnhqblUxNlJ6TmRVUW1mQkFDamZ6MUlGaUU5em5NMHkwSXlJMXNoRG5xUUJrQQ?oc=5",
-        "fonte": "Autoesporte",
-        "data": "2026-11-16"
+        "titulo": "Como o crédito pode ajudar a indústria a reduzir emissões (Ep. #228)",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOE02S0JuX1ZLbjJzUDNQamUtRTRQeHVIMjd2WWtfMDBLZTV2Z0JlcmdnZm9iTVdXc0hPUFlVZTdMLTR4dVRpc0ZHbmJyOXdsQXhKUzNUaElLaTFkRmZDeHN2VmNGcjM4YUlmQThsQkV4bDRMZEVTXzhsbFdtMkE1alZrMmVCSTBKeWNoQXVMajhiTF9XTDluTUtxcGx6LUhaWEJBMUJHcFdHMG54T05KLTd0VXhMSDdha0JxNHVkUjhsRjQ?oc=5",
+        "fonte": "Agência de Notícias da Indústria",
+        "data": "2026-11-13"
       }
     ],
     "logistica": [
       {
         "titulo": "Concessões reguladas pela ANTT ampliam integração entre rodovias, ferrovias e portos brasileiros",
         "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSTBPc3ZTOGVoMGF0OWVWQXQ5dlJYUk56ekkxTkJiZF9Tdk5GaU1HeUNEWWZPUWEteF9vMWdHek9zeXpJLXNPTWxKbklrMzdYN3JMVWtLMFZaa25kVkNqUFFtSXh6bk93dkJjYUI0anVNRmJhRlo0bXdlaGFuejVCbkR6bXhxRkJJcTl5VDJqNmtOS0huM0pwZ0ZDVFdobmpyamVnSllHRDNWTWk4cklGZFA0RTVpdnZ0dlZqa2RVWjdpTk5pVFBhdU1CX2NJTHVfQ1JVb1drNDMzVHJwZTZsdEQ2MXhMeWZCeUdJaA?oc=5",
-        "fonte": "GOV.BR",
+        "fonte": "Governo Federal",
         "data": "2026-11-12"
       },
       {
