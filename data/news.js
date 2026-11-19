@@ -1,13 +1,13 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-18T17:52:42+00:00",
+  "atualizadoEm": "2026-11-19T00:00:55+00:00",
   "itens": {
     "agronegocio": [
       {
-        "titulo": "Crise no agro é sem precedentes desde o Plano Real, diz CFO do Banco do Brasil",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzcyS3FRSC1VS0NSMjBkSE5DaVlUWGF3RWNTLVVUelZMTTJoeml5VHpXOE9Oel9qRUdyQ3FVR3F4UGZ0SDQ0d3VJc3pLQVM3S19MN2IyczQwYWFQd05hX2taQW5raTRqNzJhcmJ3djVXa3BYN3R2ZVNjc0dFdG9HMVhqSWlITE1wU1VNVEFPMFp0dEsxcURlTEVPY3RTZVhDSkk3RVo1SVI3dVBEU2FvbzhR?oc=5",
-        "fonte": "Exame",
-        "data": "2026-11-12"
+        "titulo": "Custos, clima e maiores investimentos levam crise ao agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDdBNTRnSTlPTlJSMGNILW5JOFUyTGY2QjhiWXVWTGZhNUFpdnhrbm1pRXlfVWVWblBFeDZVUU5Td2VfTFpvcFVyQjhaUk5ycEpNVjlUaGMzOVV4OUlpc2I0NmFvRE9UNEpWTGJvNnJzOXM5WFBjUUpfLUl0V25XZ1gwNGVlcXNYUW1XTXE3cTZ0RGtqVENFczJOWG9WbDZjcFg5UGxPZERBdVk?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-11-16"
       },
       {
         "titulo": "Mapa lança portfólio para orientar parlamentares sobre investimentos no agro em 2027",
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Irga participa de debate sobre investimentos e adaptação climática no agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3FVblQxbDdLWnVzZHZ3YUVSSG1zakdhWTFaclo5UTFZZzN6alVKaUJ3NnRUREZIc28yY1NPVldWZWtjN0JJMmJ1UmpuWFVMa2R4SFFNVzNWakpodHQ4cDdyUVpaa09SUnU2R0xaRWZvbnlOVWJnT1dzVlAwaEdYeGFDZDVtenJpX09kUUpLXzBzZ2dfUHFRSEZiODBRQ3lTaExwUDdSRQ?oc=5",
-        "fonte": "IRGA",
-        "data": "2026-11-17"
+        "titulo": "Crise no agro é sem precedentes desde o Plano Real, diz CFO do Banco do Brasil",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSzcyS3FRSC1VS0NSMjBkSE5DaVlUWGF3RWNTLVVUelZMTTJoeml5VHpXOE9Oel9qRUdyQ3FVR3F4UGZ0SDQ0d3VJc3pLQVM3S19MN2IyczQwYWFQd05hX2taQW5raTRqNzJhcmJ3djVXa3BYN3R2ZVNjc0dFdG9HMVhqSWlITE1wU1VNVEFPMFp0dEsxcURlTEVPY3RTZVhDSkk3RVo1SVI3dVBEU2FvbzhR?oc=5",
+        "fonte": "Exame",
+        "data": "2026-11-12"
       }
     ],
     "alimentos-bebidas": [
@@ -150,10 +150,10 @@ window.NEWS = {
         "data": "2026-11-13"
       },
       {
-        "titulo": "Quinze anos após usina pioneira de Eike no Ceará, energia solar bate recorde, mas enfrenta desafios - Negócios",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVF9rd3M5bkdsOGx6TEFacmFJZGtkX0xsem4tY19JUUhDZ0hRTzdOTjE5MWxxWV9KMjQxcnBvcGFXTW9wc2draFN2dnRLal93cDRMRkxWS1BSRTRuTHZuSHZKTm9PUkhzaXZyYVk5eXF3aTBFaGpkUXB6eFFCVi1FaWhnX2F0MlhDc3pLTHdDQnZXZzBmVGhBZldSblc1M3NhZjc4b09TdHhxazVQcWV4ZllPaDIwTWdOZU94VGN1bXBub25kWG9udGhGem5oR3NjZUc1dzJqQk9WNnZiT2lrWlpEdkp3MWFWWEhKTkxFOE11Zw?oc=5",
-        "fonte": "Diário do Nordeste",
-        "data": "2026-11-12"
+        "titulo": "Energia renovável pode colocar o Brasil no centro da expansão global dos data centers",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVMzU0EyN05mM2tTQ3E1WE9zLTFBV0xlY0Y5MmtjSVFETkczb2pvWFdtaUxEcTFfNlNXRE1OSlBJbVdRUUkyT1p0VzVFb19MYUNRSkZrcWZ4anMyam5tZU5HVjczSU1KbVBmd1VTbEFxQ2VPMXZxQnBUVGZhWmdKMDhQU2lHX01mNWFYazRwblhnZjFpN0M5cnNyaFdsQ0V2eG1VSEM4SnZKM3l6LUxPTHVpQjNsMnpEeUl5TXh6TEVMLTBUdzBOOXpsd0Rhc2U3M2c?oc=5",
+        "fonte": "MegaWhat",
+        "data": "2026-11-13"
       }
     ],
     "epc": [
@@ -166,22 +166,22 @@ window.NEWS = {
     ],
     "farma": [
       {
-        "titulo": "Indústria farmacêutica no Brasil tem dependência média de 72,6% de insumos importados, revela censo",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1VyTjQ2dmJoWVBvZW1RMXdfNENFM2lpS1RQbDhYN01mX21IajQ4YzZRMGczNU5kQjZDOUo2MU1Celd5Z3B5ZVozV0FOem9tRFlwVm4zbHA2VHFkRXMyMlFFSW1zbFRVTHBQVm9YWVFOc1BJVnl2UU1xMW9HXzRIdy1Rb0txclU?oc=5",
-        "fonte": "Futuro da Saúde",
-        "data": "2026-11-11"
-      },
-      {
-        "titulo": "66% das farmacêuticas planejam investir em pesquisa e desenvolvimento nos próximos 3 anos, revela Censo inédito",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc0kwemtYSlZOM0hlbzdkTkprQ05Hb3ctWTgzNXpBQVhSUE5BZFloMHMxWllnc1RWeFcyMlozTzhocUpIQ1RsbGJtVjlXdVF2ZnpqREJWcWdyZXR6cDBOMDNUQ25Td00wS2lXSmJta0ZhRmNWV09lMU11M3FvR2ljVzRIMC1nTXJEcXdvY01CZUl6QlpiYVJSZHpfcG9ZeW1SbEtzNXVGQWhiSzZoelpaVXpkMmlPM2p2QVpXS0IxOVF4NnNqUUpWN0VwTFphdk1wUDJaYk5sTHdQNzRwMDhNZ1hzUVczZndp?oc=5",
-        "fonte": "Saúde Digital News",
-        "data": "2026-11-11"
-      },
-      {
-        "titulo": "Censo revela prioridades da indústria farmacêutica",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZ0U0cUc1Z19VUE9jNGdCVkphVXRhazN4a1g2bFdxVlpVSHF3OERpcWhwMWw2UXhMQVZLU01Ha3ZvTG9qUWExYkF6eXQ5QkhhUWQ2S2gycWNKMkRrcUxoSzZDNDVCdjFIcndnMFh4bjJ0SFR3YklXTzctMGY5bG5nSHQ1WHNBdTlITW11dEp2emI?oc=5",
-        "fonte": "Panorama Farmacêutico",
+        "titulo": "Inédito: 66% das farmacêuticas planejam investir em pesquisa e desenvolvimento nos próximos 3 anos, revela Censo inédito",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNDRSdzR6WFZ2NDBWN2pVN3REeVloUWVMTjVUbU5ib3J6cXlZLXE4T3VCMjh6RDdmRFpqVFFyb1FZc201dHJ3Z3VuYTRKOUVwUU5mbXlFZUY4UVZJUzVKZzF0OEdxa19uV1VjU19mWW1fNl9oTmNTZ3diV0FRajV6ZG9NSVd0dzJqZldTZ28yblBRY1lJOHpFRlJ0SVNRWEc2YkRzOUVJZGRMNDN0Y3NMOVBCeFBhcUhibGlfZWU3WXJXVy1OV2pMdmZsMXNLbDNVV0E2eDhFYjhtQ0NRWjUxS2NNRHktdw?oc=5",
+        "fonte": "Abradilan",
         "data": "2026-11-12"
+      },
+      {
+        "titulo": "Ministério da Saúde apresenta quatro projetos para acelerar o desenvolvimento de novos tratamentos e tecnologias para o SUS",
+        "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOU1BYZ0ZRcGRuMVIyQkhkMXJ6QUkzUmhJclZJTlVORXF0MjlLUFNVdkRjamxBX3djNi1LWVZIanRWeUQxTy1LQzJ4OF8ySVlPY2RHeWpRLTVaU3ZweDV6aFZqMlZxV2FpTnEzNnhqUm9hT0RGVGVLRHptano1Vm5hdUplOWZuVGtwRHU2SHBaTFRBVVE1cWlfZFNBZVNFVXdyd2dtVTd3Q3FxUVN2WE5vTU1VN0NvZ0ZQMnlxNUdVc0dCbDhld1lCRkJqMDVYdGNnSFBJRjI3X0hwSE9xZDFZUXVBQlFsdlZ0dy0yUm5RT0xXZkdibC10NTNid1Bia01WNVhjZDJkS2FBQzhTa29Obmw1ZUg?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-11-17"
+      },
+      {
+        "titulo": "Evento debate os desafios para ampliar a inovação farmacêutica e o acesso a novas tecnologias no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzZLUnc4elFXZTFwaVZjQy1kakREUHpGUmR3aDdiWXFQYU9mYURxRUFYSkQ2NV9kVWdKUXUteC1ZQl9PZXZKR3VFWVpsRGFfU2NHeE1ZUzloc0tfTk5WUVFYQkR1d2tZam5EOEozQ1gtWUwyQVczWUtaOFRiYmY0dnJUWEZiM3ktWmc?oc=5",
+        "fonte": "Futuro da Saúde",
+        "data": "2026-11-17"
       }
     ],
     "fertilizantes": [],
@@ -193,16 +193,16 @@ window.NEWS = {
         "data": "2026-11-13"
       },
       {
-        "titulo": "Indústria farmacêutica no Brasil tem dependência média de 72,6% de insumos importados, revela censo",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1VyTjQ2dmJoWVBvZW1RMXdfNENFM2lpS1RQbDhYN01mX21IajQ4YzZRMGczNU5kQjZDOUo2MU1Celd5Z3B5ZVozV0FOem9tRFlwVm4zbHA2VHFkRXMyMlFFSW1zbFRVTHBQVm9YWVFOc1BJVnl2UU1xMW9HXzRIdy1Rb0txclU?oc=5",
-        "fonte": "Futuro da Saúde",
-        "data": "2026-11-11"
-      },
-      {
         "titulo": "Como o crédito pode ajudar a indústria a reduzir emissões (Ep. #228)",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNOE02S0JuX1ZLbjJzUDNQamUtRTRQeHVIMjd2WWtfMDBLZTV2Z0JlcmdnZm9iTVdXc0hPUFlVZTdMLTR4dVRpc0ZHbmJyOXdsQXhKUzNUaElLaTFkRmZDeHN2VmNGcjM4YUlmQThsQkV4bDRMZEVTXzhsbFdtMkE1alZrMmVCSTBKeWNoQXVMajhiTF9XTDluTUtxcGx6LUhaWEJBMUJHcFdHMG54T05KLTd0VXhMSDdha0JxNHVkUjhsRjQ?oc=5",
         "fonte": "Agência de Notícias da Indústria",
         "data": "2026-11-13"
+      },
+      {
+        "titulo": "WEG planeja investir US$ 250 milhões no México até 2030, com nova fábrica no país",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdjd5UHlycFpfYzRBYmlveE9vN1JkZVNHa3g2SHNqZ2FSQzdCakVpeXBfazhSU1dQNWdYYWJINTlwVGpqRk1IV0NxT0FFYTk0N3hEaTMyMkZLZVk2QWxOUlkwcnM4alhMeFJidDBwUmE3ZVhtWXBGZXRncjQyQVhxWm9PVUZ1WFJVR1VSUE8tdzkySFFhajhhdXJicTd5SWl0czdETzNOQlkwWWRWTkZqUWswTVl1TE9nMWwxNFpqY0fSAdQBQVVfeXFMT2NzMTF5RW1qSkhJQzhxWlA2QTdZei1jV2ZDUnVVQ2U0cDl0SWJnMHhNZmFKdWdteW5NanJrMC1jLXpraUgzSjRhbzNRbVdXQW9HZnJmVTc4MTZMOXY2NUpHRDNDM1JCWnBGTWU4d1FKalJHbVlFd1EtLTBGMllpTno0TGdLU3lrUDRBZy1aMmhYcWJWai1fdU1RUk1NSGdDemxYaE0ybUhDMGZxc2VWZTNXMUM1RnIyeTRuOXZ4VlJnYWNSS3hUUmNFT2VWcFF2UW1HNkE?oc=5",
+        "fonte": "Bloomberg Línea Brasil",
+        "data": "2026-11-12"
       }
     ],
     "logistica": [
@@ -219,10 +219,10 @@ window.NEWS = {
         "data": "2026-11-13"
       },
       {
-        "titulo": "Os pesos da logística do Brasil",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9hNGJGZ2tvejNWQ2FUcFg3WElyOGYyVUNQeEt6cHpfSDhyYmtPYWZpZTV0SmpMX0x6WVY2cXd0b0d5Y3JRdUVqdTliUHoyZ2ttMmJSak1mTmhhcmpQbDJiaGYyZC00QVdBUF8xOWRLcXdwM21WWFFrY0lHd05adw?oc=5",
-        "fonte": "O Brasilianista",
-        "data": "2026-11-18"
+        "titulo": "Portos, ferrovias e rodovias: como a logística sustenta a expansão da celulose brasileira",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOVZSU2VnWm5fUFY0U1VHc1NWVjYwTXFaUnJWRlVCcjRPZ2JiRkI4UEZXUTdBeHU5R29QTGFjRUdnLXlKcUZRZHhTUWxPR3ZLaU5YR2FPTTBLY09Ha1BERjlodzdDRDZqeGRRZlp6b1diSlB5YW9vaURxdVlzTnV3emE0TE5BVEZFQlZfV0hRVkJEbTBWQlQ1R1pkTXdOdTVZSEduMkpEQVhERDlXUnktRkVsOThoUmszaHc?oc=5",
+        "fonte": "Portal Celulose",
+        "data": "2026-11-12"
       }
     ],
     "maquinas": [
@@ -239,19 +239,13 @@ window.NEWS = {
         "data": "2026-11-15"
       },
       {
-        "titulo": "Indústria farmacêutica no Brasil tem dependência média de 72,6% de insumos importados, revela censo",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX1VyTjQ2dmJoWVBvZW1RMXdfNENFM2lpS1RQbDhYN01mX21IajQ4YzZRMGczNU5kQjZDOUo2MU1Celd5Z3B5ZVozV0FOem9tRFlwVm4zbHA2VHFkRXMyMlFFSW1zbFRVTHBQVm9YWVFOc1BJVnl2UU1xMW9HXzRIdy1Rb0txclU?oc=5",
-        "fonte": "Futuro da Saúde",
-        "data": "2026-11-11"
+        "titulo": "TMSA compra 11,6% de participação na Kepler Weber, mas diz que não quer o controle",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTk0bEF2aE5TaDY2aHNoai0yRk5mWHdyRE5aUkhPajFaeWtqb1ppZ0d3MG1RTFVWNHZ4X3NubnotM3VkbUJ5bmRnRTM4eDFfeTYtcEZiYTNTQXNKSG1kNXRIODNMQ2NWTG50RE9SNjJHdGVISWtXbXVKYUI1SGVFN0JMaFA2YlJyQ0llOGpLd213clJ0dDl6WElCVlRvbTBvNjZlOXNvRTNReFVwbUNmOA?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-11-13"
       }
     ],
     "mineracao": [
-      {
-        "titulo": "‘Política de minerais críticos e estratégicos demanda novas competências do Estado’",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSnNTSEZBMDlJcThPYmoyVTl5T2dwZDZMT25FdVRjY1prUGlyU3oxVGh5THJuSGxyWm5IUGswUTlWeFg1Nm9NUlZBWExrUC1DWGhGNGZqN2l3aVYwRlEtN1dFaUV4dDdZbWItNlliY3BQeE5EZDJiOWtCV0lnUlU1ZE5RcTlDWm43bzlLU1oydkQ5c2d4T1BISE5lMWpSaUY2cXh2a2xIU29kNVdpYTQwb0d0dzBtMlgwUTR0eHk5dFNfLUo1TFJENFVhQnBuSXcwelE?oc=5",
-        "fonte": "www.gov.br",
-        "data": "2026-11-11"
-      },
       {
         "titulo": "Da ambição à ação: o Brasil na corrida pelos minerais críticos",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbVA1MkY3ZGhIMG9yN29XSUZfSTQtM2t2Q3pzRUM0ajNtQXAzWHBOdmF2Z2Uxa3dYRVNpSlFWcUZsaVhKUUZLRHBPRlZXaDlWUUdOaHBVNXp6ZE01YktwRFZ5MjlKS0t6RkZ4VGpVUjMySjZCNzBBNUk4b2dCV3hwYndBWkJCUTBHSHR1NU5vWFRLUEliOHBibEU1OExZd3c4ZzBtRFlNSFBPX0pfSVlyTkV0Z2JkdGw0ZjM3U1lJazBFclNiNldqNzJmQW9QYzB2V3VBZkd3NlV6aWdnUUxn?oc=5",
@@ -262,6 +256,12 @@ window.NEWS = {
         "titulo": "Nova lei deflagra corrida por minerais críticos no Brasil",
         "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPUDZEaHNDUkNOaVNkb0hoazl2dzBEdDlvTDhjdXB1eElyMnVxTkMydTZvNmV3WF9saUM4QVRlUWwwX0UzeGtDejk4eTRsRkxlTDRsVFN2cVZzZUd0YjRMa3RIaEhzcWtmRTBPZkFEYkJuQVFScTlsUGhoRGNJZVlxSmRibFI0NWNpREJ4VkdWTVE0UExHdXpKajlBS1dLNHhQOWRxa0ctb21lRTgtSl9fOXJXY3ZwdENEWkJQR0Nn0gHMAUFVX3lxTE1qS1BHRjlyLWJHSFkwSk55NnFPYlZRVjZHOHgwS2hjenFyNUpTTHgzV2NZTmRKWGRFUlBHamJSN1Z0MWtuWS1TNFJxbW16LU1VRWNyTWEyUHY3Y1A4M0tQbWxnTkZwOW5ZLVNkeWpXXzhRQnlNZFUzRENjaGtFa21NcjdoS0JqTkVVT1hsaUxDd2dYVmFBRzJBbXhjVFV0YklVem9RSnRQYTVvenhhT1hRcWw1WVQzMlRiNTBKWC16TDltV2dtMmlSRnpPMA?oc=5",
         "fonte": "O GLOBO",
+        "data": "2026-11-16"
+      },
+      {
+        "titulo": "Lula busca parceiros para industrializar minerais críticos no Brasil em giro após eleição",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOM19fNVZVZUdrLTNNSVh6Nk0weDR6cGpnUi0yWnJDOS12WC05c3lBUjZlWS1tT3E2aHlHMEY5UXBkSWxIMU5FQTVtNFdhM2FjVXNfUkdzRUJuRk5XS0xhRTNnQjdtTnNOY0FxdXhmY0dWa0VBdnk2RGprX0pYaU5sZVJpZkwydENWOENvODhGTjZOU3RpN2xXVENSWloxMmpGYlc4c19NZWxyVGFMZFNjaUdVYnB3UVFhN25oRHZn?oc=5",
+        "fonte": "Agência eixos",
         "data": "2026-11-16"
       }
     ],
@@ -279,10 +279,10 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "BNDES libera R$ 97,9 milhões para modernizar a indústria de celulose no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNY2NocGFIVVNwVFF3MVl0cDU0WHJ4cC1MRDBWWHJIcjlCdm1EZlI4WFJzOFgwODNLdWFQcTFHYlY5TkdSVUZrUnQ4RlFxN1psMkdGaWlIX1c0RFhMQTRDczJTR0VXT0JHZDdDV2VraG56R2Y5Y2tGVGZMNWtlekxWSGRaWnZleVZhVEpOOWxhNFBqQ2xUQXN0N3psT3MxdllzdjBmOU8wR3pMcnBSSVhESVlwc1lDU2puUnNxUkV1V3NGZw?oc=5",
-        "fonte": "www.bra1.com.br",
-        "data": "2026-11-16"
+        "titulo": "Safra vê impacto de até 7% no Ebitda da Klabin (KLBN11) após acidente em caldeira, mas avalia como administrável",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEgzUVB5ME1yc2dEdEpmUnNRclNsLVM3SVF0WjZrYnBqR0ZmLXEzbW91MmtsRkxZalNYMjRkMnl1amNDSEpfNmZFdTdxVTdRRnR2cy1Caks2d2h3VHVvZVJkY21qTHlHblBGcnVTZXY0MHcycnZaR0hkcHdQSndIZXRSRzAwYnBMWEF2QTBXWUI2NHF5MWQ2NVJR?oc=5",
+        "fonte": "BPMoney",
+        "data": "2026-11-18"
       }
     ],
     "quimica": [
@@ -319,13 +319,20 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Brasil marca data para leilão de concessão de PPP da transposição do Rio São Francisco",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVzYxcnMxN2gwd2d6RF9SUllKV0JUQklXRVNHb3BwcTRxQjctSnZZSk9EOXpCNzh5dm1xNmNvLVdkNkpJSVJzdGN5YmVDSmhVWDNFMHRwa2ZKU2NUVnFWNlMySlpnVkJoUmZWbnRCUE5XenJadHB4UmlUb1pwWWFJc0tsNUJGeDg0Q2dTLW1rLXJMLWZzMlllbVVpcHM4WjNjREtIS0hjdEZ0QjdXNEMza1NzaUpzaVBZVGxMTDJKVldpRTg?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-11-13"
+        "titulo": "Publicado edital para PPP da Transposição do Rio São Francisco",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNV9YenFqZHFTTkRMZGY0WXJDX29fOWdwcTkwRXhhS1FOOF9CUnVQMnBCUEdhRGFkUVBuRW01eVF0bTBiaUFkajZGU291a0tNeW00dHV2eGpGRVJhTkM4QkZGd0ZNdWQ3bmVsWWJpT0ZKOFZnbHVNUWJpcTZ2S0twUlI0c2dZelhkRkNyVUsyV2g1eTNscVZhalpkRmlxdXRkVXc?oc=5",
+        "fonte": "GOV.BR",
+        "data": "2026-11-12"
       }
     ],
     "siderurgia": [],
-    "odontologia": []
+    "odontologia": [
+      {
+        "titulo": "Dispositivos odontológicos até 2035: odontologia digital e demografia impulsionam a expansão - Notícias e Estatísticas",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNby1HeHU3YmdORlBROGVmTEhhVjdlb3FOQ1lqVUdfc1VQbUVoNzBZazdQMm1uTjdValFCXzBOZGhhVkxQeXBqU1FPQy10VUZnQ2g4WnFKRFZURDZhSDQxbU9EYi11czFOQ1cwYkNNQUdPdWRzYkZOSmZPMG5JeHhJT25kTEJGcENDTDRfMGR4MnU3TTZMREpXeWpiS2NQTjktS3JMVGdaSjZDZXZ6d1pNaVNqa3liSWM4SGZ5RnN1Q2luV2dTcE0yT1pSTFl1U1BD?oc=5",
+        "fonte": "IndexBox",
+        "data": "2026-11-18"
+      }
+    ]
   }
 };
