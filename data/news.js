@@ -1,38 +1,13 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-20T01:05:36+00:00",
+  "atualizadoEm": "2026-11-20T17:38:13+00:00",
   "itens": {
-    "agronegocio": [
-      {
-        "titulo": "Custos, clima e maiores investimentos levam crise ao agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDdBNTRnSTlPTlJSMGNILW5JOFUyTGY2QjhiWXVWTGZhNUFpdnhrbm1pRXlfVWVWblBFeDZVUU5Td2VfTFpvcFVyQjhaUk5ycEpNVjlUaGMzOVV4OUlpc2I0NmFvRE9UNEpWTGJvNnJzOXM5WFBjUUpfLUl0V25XZ1gwNGVlcXNYUW1XTXE3cTZ0RGtqVENFczJOWG9WbDZjcFg5UGxPZERBdVk?oc=5",
-        "fonte": "brasilagro.com.br",
-        "data": "2026-11-16"
-      },
-      {
-        "titulo": "Quem são os produtores inadimplentes do Banco do Brasil? Especialistas explicam a crise no agro",
-        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNc00yT3RBRnB0TEg3bF9EbEwtLW9NTTBkSndfYjMxbjE1amFPajFnRHl5ZkxOZkF0M2ZKSzA5LXRrb2FqMU53VFV4enVSV1hGcDA2SEtJeUNwSHByU1dWMWV5WGthR2hoRFlXeEV4aUtGN3dZdC1WVi0xLWFtRkZ6Vzh1UHlIZDhNOUhQbTFQbTE4dlBMdGZTTVkydlh4bjlDNGVLdVg0NVYwT0lyM09lUFRrVkZfYzdEa2xONEpJMF9TUWR2Snpfdk5xRVVBT2REVUZjVGdodFVFZ2Y3cUdxVlJRVXJwVnp0QmRWWmprMk1nbFFG0gGDAkFVX3lxTE5kbTRXZDF5eUk5T1hNckVlRmdmdHV3OUctcFN3akpMdDVITmhVT1BzQkpMT25sVjFYZHd4Zms1Znc1bHZvMkhmOVNweWdiM2lpYkRuU28zWkw2amRNTEg5TWhFVzNWLU5rZ0s2ODg2elh5Q2ZKRmxNQ291Q2FwZVViTHQ2Zm1ZbHJkNUltcDV6ZzBaWjRqS1RvWTZzcE10dDZ0U21KUkV0c1ZvbzJzQktnbkE4NG9zcnRMZ3JKN24yWHZPLWk1Z1NyNDJKU29xcW9mSlFXYk0yRDBWbXhaMnNua3ZLVE9iN2VqVE9GYk5EOENnbi1kZW5aV3BGRXRmaTlxSFU?oc=5",
-        "fonte": "G1",
-        "data": "2026-11-13"
-      },
-      {
-        "titulo": "China vai comprar “menos agro” do resto do mundo. E mais do Brasil, aposta ex-presidente do Banco dos Brics",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVm5Bcml3SWdpMEw4d2JFQldMa1hJMUp6TjROVmdoLUMxYVNJVHJpcmQ4dHMxRHA1M3lwclN3bm9IM2tJNWxjNlNLTms2cFJzTVAwbGZpa3BUT1gxMHVRSzY4cEtKdTJsTVhzeGlsY3hMZGF3STFTT0xQck9xZHl0em1ER01lZGQ0TWtsN3FGb3FjeDB2VHB0UkJZSEVocGFFbi05S1BjNnJ2YXBlVHR1QWRUdzVaR0UySTZGOE9XMjJfRmlXUGJWa213SUo1Zm8t?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-11-19"
-      }
-    ],
+    "agronegocio": [],
     "alimentos-bebidas": [
       {
-        "titulo": "Automação do final de linha desponta como prioridade para investimentos industriais rumo a 2027",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWVLMmx2V1Z0eGdIUW1PZUhsVTgzSlpWZFM1dkR2U05KUnZnSjhhbWY4VHpxOUliY3I3ZnQ2OVFCbUdOOXB0Vml0VUVraTFZN2c3elZMZDdwSlVXYWljNVM1VjBQX2NJejloUFZvQ01yOVQtWWpQaE1fTzljMWRXb1ZvejNLX2xrc2lpcTkzRWE4Mk5iM1BneUI3SVVOUnc3V2tYUjA5ZHhhX0hTc3ZEZDJKYmh2d2V0WnRfM2pJUEZLbktz?oc=5",
+        "titulo": "Empresas do Egito promovem rodada de negócios para expandir exportações de alimentos ao varejo brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYldwMnJqZlU5alo3RzBMQVBLZlFKNy00WTVaNWp3cFN2Q1RETjJjb1lPeUdLa05IU0tVcGVfWmlHbExBMzlERklLRDlVSU9VUjQ3elcwTWJMTENiODZtZGhDWENjSENwVkRmZWZKenhySllRRW9rb1I5b3IxSzlWdUhCWUtkT3dZU0dvalB4dWVveGJkMnR0aWp3MHEtc3VZUDRab1AzaTJ1YVFGb0o1VEFHY0tad2p2ckZ6YUgtT2dhaHQ0NGdRTDRhX1o2dUtjUHc?oc=5",
         "fonte": "Brasil Inovador",
-        "data": "2026-11-16"
-      },
-      {
-        "titulo": "Quer investir na Anthropic? BDR da dona do Claude vai estrear na B3 custando menos de R$ 100",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXUtZzlmMENpU1hkTXpWVlNYVFZHSGdwbEo4eUJTR25tcFFUS09GbEpEZUg1bFlzOFhEakNKbnhIeEU2bXR5ZVcya1hyUm5xdzFDNU1teUZUQXVJaldET1FqbHJQaG12M1hOa1hpV2JOOHRUa0RTdzBCS3g3bHU0blQ0LXVpX2VNYm8ycTZJWWthQWV5TllaTUZNZjdqVHlzQThIYThEUWxzVGYxXzlhS0ZSbkpLVmh5d0RJOXUxNUxfaGI3SEV2NWl6MXE5MXdhajl5MHhodWNvUkk?oc=5",
-        "fonte": "Seu Dinheiro",
         "data": "2026-11-17"
       },
       {
@@ -40,6 +15,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjRiZzRSMHJqeTNDajFsNzdEVVVjX3k4NV9iNE4yT2xXZ2phZlRnNkNPUUJvRzQyd1RsXzZjdXRPbDNncmRQY1VXbjdPaGt0aTFrRXpvd3FjOTRKOXQ5YXNGTEczQ3BSN3RjS2pkWUZnSGdVSkt2STl1RXFHb2FGeVhBUEJuTjdnUFZvWXlFeGdFaEd6SWMyeWg4RWJFWjZmTHh3SGN1bEo4YTYzdGJQTE5yUjFVN2c?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-11-19"
+      },
+      {
+        "titulo": "Quer investir na Anthropic? BDR da dona do Claude vai estrear na B3 custando menos de R$ 100",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXUtZzlmMENpU1hkTXpWVlNYVFZHSGdwbEo4eUJTR25tcFFUS09GbEpEZUg1bFlzOFhEakNKbnhIeEU2bXR5ZVcya1hyUm5xdzFDNU1teUZUQXVJaldET1FqbHJQaG12M1hOa1hpV2JOOHRUa0RTdzBCS3g3bHU0blQ0LXVpX2VNYm8ycTZJWWthQWV5TllaTUZNZjdqVHlzQThIYThEUWxzVGYxXzlhS0ZSbkpLVmh5d0RJOXUxNUxfaGI3SEV2NWl6MXE5MXdhajl5MHhodWNvUkk?oc=5",
+        "fonte": "Seu Dinheiro",
+        "data": "2026-11-17"
       }
     ],
     "automotivo": [
@@ -84,16 +65,16 @@ window.NEWS = {
         "data": "2026-11-14"
       },
       {
-        "titulo": "Votorantim Cimentos avança no seu programa de competitividade estrutural e melhora alavancagem no terceiro trimestre de 2026",
-        "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTUNONjhEU05TbjBfcHo1d2puZE9hYWxxV0JZR0dwODlpNjhSYnFPek5hRjBJcjdJbE0yWU5ScUV1U2Y4VUwxTlphM2F1TFlQSVNDdlhuTmRnUGF6Z2s0Z1NKajBFcktucVdzSlNXbDVocDlaRV9Fb01oZGNEdWctSDhsOVozVXVzS3N4QUJ6NXgwMWNqanJkdGZxTGtJdlEwV1FZX1BjbEZDYVBhYkt2QXRoMU9Ed0l5QWJLUUNCLXYySU8xWHJJd293RFAtRE93SExyNEt0N0xrVGszN3YtcU5CRU1QUzg?oc=5",
-        "fonte": "Jornal da Região",
-        "data": "2026-11-13"
-      },
-      {
         "titulo": "Asfalto ou concreto: qual dura mais, custa menos e oferece mais segurança?",
         "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQTlRyWDhTWDJtY04ySjBoUHpwaWZrQVh6bnlDX3RKRTdLTHdqRHRQbEt2elVZenE3YTlQbHFQazl6eklxOHlZT3FXZmVVNXR4SE9PcDVObFJ2RlBIc1RpMUE4S2c1N1M5cENoaS1hSjgxV29mckFpbzRpd3V2azdaamdHcjExZw?oc=5",
         "fonte": "Estradas",
         "data": "2026-11-17"
+      },
+      {
+        "titulo": "Uma planta deixada de lado por décadas vira material de construção que isola até 15 vezes mais que o concreto",
+        "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOTklDUTZFaU9xVU5kSnV6a2NoX2duZG5JcVNaa05tN3hISF94a3ZSa0E2dHYxYnB6U2poVEV3RHdxNHdiVDQ0b0hwQ3NYbW5RMUw0UE1CMTNOeDlIRjltaUpLR3N0bmZVejZSR3F4NVBWZ3lLc1hrZzRGMm1ETVFveVhNeEp0Tldwd2MtdDc4bjhvV2s0Qm1tVS1WVjN5OGtOVEFYODF1VnVIZ0JDdUlrbVRGbE96VVVzNDNCNC1wamFmSmEzR0hYclRfeDM2emd6MVJaTFJrY2h3Vy15RmM5X0JjdnNfQUp5dE5tVUN0aw?oc=5",
+        "fonte": "Brasil 247",
+        "data": "2026-11-19"
       }
     ],
     "comercio": [
@@ -110,10 +91,10 @@ window.NEWS = {
         "data": "2026-11-16"
       },
       {
-        "titulo": "Puma investe R$ 75 milhões e quer chegar a 50 lojas no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmppM1RYblFJMmlQSjVid2tZemJBVWg0ODNIOWc0bkZOT25qUG9lQnN6NzlwVEo0amFyREw5dE5mSmtWUUlDVEZ5TFlMWGE1RjdsUm5LQ1hMWTc2b2p6dmNaRXdBSTVxY2xvdmdQQllxRTg3V3BDODhHY2ZlOFRDbWhucXk1YVZ1YTBFbEJ6Mk9lUQ?oc=5",
-        "fonte": "Exame",
-        "data": "2026-11-16"
+        "titulo": "Panvel faz investimento de mais de R$ 100 milhões no Rio Grande do Sul",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ2thLXMxX3hyY2VPMUQtdk9OWHFpYzdEUF9nMEowRGFJanBxT0h5NDJGeTFTTlZjc2IxaU1LNUViV0tqSW4xUDdJanpEVmZMeXA0SEpFMEJXSGoxWmJZRzVJeDJhNTdCWmdfSWNLUFU0R21Zb2lYaWsxdm84bHUzNW80YVFBZWZrUWx2VVdTVHBwaWxqVFk0cXVpY1NpemdFTEwzN3B3Ml92NWwyUlZkcVVZSjExalpXZ0Y1NzdWUkhDR24zN0M3cXVOWlpXdThSZGF4OWgyam1lbDBhT2Z1Ums0TDhRdXNQRzluVC1RMzlsb1UweXJqb0UyM1Y?oc=5",
+        "fonte": "Jornal do Comércio",
+        "data": "2026-11-19"
       }
     ],
     "energia-gt": [
@@ -138,16 +119,16 @@ window.NEWS = {
     ],
     "solar": [
       {
-        "titulo": "O Equador possui um potencial de 3000 MW em energia renovável a ser explorado, enquanto empresas privadas antecipam um \"boom da energia solar\".",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOc2hLc3BTTE1aVEpXYTlKcGtBdl9VMmVnaHpPVC1vR0x2eUt0VC1hbWNjaHo1T0tYenhfNjY1cHVubHhmNmhqaXM0aDhMNlo3QjVaamlqeERhZHRPUjZCT1d6dDNpQTk5djlWZmExRXA3V25VeEFmWTltQ0g4NnZscC1XakpxbERidk1UR295OG9pYWlzYVpBVUlZQWk2YmduTGlnSW9Dc043eGFiQURnLURzbnQ0Y0U0Ymh0QUtvdmFrQzNiMHJmdzFJLUFCMXJHdDFEZDdSWmVqUUhJYWtTY25R?oc=5",
-        "fonte": "Energía Estratégica",
-        "data": "2026-11-13"
+        "titulo": "O atraso do Redata custa previsibilidade ao Brasil",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fblJXajVScEhHOXp0UGlneFBQeTl6MHQzTTQ3cEg4Z0k3QzFkMzIzajlfMHdNTWlYWndfV0x5M3l3bUJvZlRxX2RsTlFIT3BmZE9oZzB2M1Y1dG9tS1l1eDF5THF3NVZrWnplWk5wRlJtOEZjQkVSdlo3SlRrVFE?oc=5",
+        "fonte": "Canal Solar",
+        "data": "2026-11-20"
       },
       {
-        "titulo": "Energia renovável pode colocar o Brasil no centro da expansão global dos data centers",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONVMzU0EyN05mM2tTQ3E1WE9zLTFBV0xlY0Y5MmtjSVFETkczb2pvWFdtaUxEcTFfNlNXRE1OSlBJbVdRUUkyT1p0VzVFb19MYUNRSkZrcWZ4anMyam5tZU5HVjczSU1KbVBmd1VTbEFxQ2VPMXZxQnBUVGZhWmdKMDhQU2lHX01mNWFYazRwblhnZjFpN0M5cnNyaFdsQ0V2eG1VSEM4SnZKM3l6LUxPTHVpQjNsMnpEeUl5TXh6TEVMLTBUdzBOOXpsd0Rhc2U3M2c?oc=5",
-        "fonte": "MegaWhat",
-        "data": "2026-11-13"
+        "titulo": "Norte de Minas é um dos líderes na produção e atração de investimentos",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM05LdmN5cFVyT3B5MkY4YnpMNzRTT0FsMW1fblVGS09hWW9uYXdrMHZkeW8xaVI1UnFTbllybXdod0tUY1VuYXhsYUtGT3BOSHJrZ29qUmZqeHFWUzhrZzRCclNOSzMwQnJCVEhIVF85dWhneW1ST3c5QkFRU2gtR3YxcXZpVzg2R0EyZjNEb0FwY3JFaVJFRjVUVTVLemEyN1hKQkZzdmFidWFBRzR3ZHVR?oc=5",
+        "fonte": "O Norte",
+        "data": "2026-11-17"
       },
       {
         "titulo": "Como China finalmente reduziu emissão de poluentes e planeja 'revolução de energias renováveis'",
@@ -186,8 +167,8 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Bahia celebra cadastro da Windey no BNDES e fortalecimento da indústria de armazenamento de energia do estado",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUmJjakNFWk9pNDlyN2xmdXIyZWNWYnBOeDd0YTMzQUxGTUZ0SGFQY1FGbTVJZnh4SVJ3enNjOWlhSC05dWxYXzg4U0Fpak80a0xGLVNxMjRHaWwwbGhfVWRuLW9GbEx3U01nRk14bnFvQzZLUFYyZldxWF9GM29pbmR2Ynd4TWZDWVpGOWpjS1RfWWduelFTd1BWTW9ZSTlqdzlTSjRLeU9pRVdKcWJZaDBvXzZ0c21OR0J1cDB4OA?oc=5",
+        "titulo": "Bahia celebra cadastro da Windey no BNDES e fortalecimento da indústria de energia",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONGM2VXU0d296ekZRRldVUDE3UHlxUnhYQkFXOTRqcjVqdHpMc1RTN3RQalJyLUY2R1VTOWdlZHNmUFB5VWJVQl9tZ09KTGhNaWpmUXY3ZlUydURDZzg2ckllWVBpSU5SU3NIT3V5UEwzcmoyOFBhTDVOUTJCal9DaDk2SmhFbWNxUm8zRE1XV1BjZE5heU9ub2t6UUFCUENDVlJoX3BqalZvMmkxaGhCaGtTbG50RDJ3Q21IY25qZ1RUY20xRUpWU25pUQ?oc=5",
         "fonte": "ba.gov.br",
         "data": "2026-11-19"
       },
@@ -212,10 +193,10 @@ window.NEWS = {
         "data": "2026-11-13"
       },
       {
-        "titulo": "Integração entre modais é desafio para reduzir custos logísticos no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1NamNUY3FoYlh2TmpoeXRHbEJFWXZEVzZ0WHAtQ1ZrbmNid2F0MkI0ZkU0YV81VkZnOUNEbVpyMzBVZ2ZYY2EtRXVUcUJleGx1Z3lEWWFEajZIcGVlZDNqNDY4ZkdaNzFXVHcxWUJrV2d4dw?oc=5",
-        "fonte": "Metrópoles",
-        "data": "2026-11-13"
+        "titulo": "São Paulo tem mais ferrovias desativadas do que em operação",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkdaU2FmT291OEIzSjFPNG02S3o2dW84ZHN3MWtMREw5akt2QVN2VkdoYnJQNUMtN19NQWpoR3h0czgxT0xGNU1OZVp2TV95UGZWWkdJZkE1LVBJN1lmWEZlVi1CZkhQdUgyV0tzdS15QlNsM2wwWU5KN1RUMUtFcjVzX1o0ZEVrejhiTThzdlI4QQ?oc=5",
+        "fonte": "Portal BE News",
+        "data": "2026-11-16"
       }
     ],
     "maquinas": [
@@ -232,10 +213,10 @@ window.NEWS = {
         "data": "2026-11-15"
       },
       {
-        "titulo": "TMSA compra 11,6% de participação na Kepler Weber, mas diz que não quer o controle",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTk0bEF2aE5TaDY2aHNoai0yRk5mWHdyRE5aUkhPajFaeWtqb1ppZ0d3MG1RTFVWNHZ4X3NubnotM3VkbUJ5bmRnRTM4eDFfeTYtcEZiYTNTQXNKSG1kNXRIODNMQ2NWTG50RE9SNjJHdGVISWtXbXVKYUI1SGVFN0JMaFA2YlJyQ0llOGpLd213clJ0dDl6WElCVlRvbTBvNjZlOXNvRTNReFVwbUNmOA?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-11-13"
+        "titulo": "Semicondutores devem faturar R$ 14 bilhões no Brasil em 2026, projeta Abisemi",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVm5PTUVITGRWWEpfck5ueEFKMEVWcDlpQ2JJeFZMQmtxczJ3SDBfOFlPZGNPT0NhS2ViV2h5enNtNzFSMDdJemhlT0J5THU0YkR3c2VKakNqSU1kUkJLeWlYR1h4Q0RZOHBoQllKZUhyRzM2aGNvbDlEcjdsaExZRVhVRWNjTmFNSnFRZEUzdjNiOU5MYk8tUUVUMzFnWENLN3VuS1Vn?oc=5",
+        "fonte": "TeleSíntese",
+        "data": "2026-11-17"
       }
     ],
     "mineracao": [
@@ -266,15 +247,15 @@ window.NEWS = {
         "data": "2026-11-20"
       },
       {
-        "titulo": "SUZANO PAPEL ON (SUZB3) Preço da ação",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWlVYclFMOGxUZnMwNHMyN2RCTEF4YkJQdlVpR0dMNU94MDRwN20xdUEtLVhPa3JqOTJMTXR1YTBEcjZCNGJ2ZllZcDBxZ3k2QVpzNHZGQXJXN0dYTUxWaTZMQ3NoUHRDVllEV205MXNSNk1kN0I5V1FSLWJBOGxXT09BbVlrNGYtcnZmN2dhQQ?oc=5",
-        "fonte": "ADVFN",
-        "data": "2026-11-13"
-      },
-      {
         "titulo": "Klabin evacua fábrica após explosão de caldeira que deixa feridos em SC",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXltN09rYzdEc1dqZXJXZnNRa3pzdS1EMWpVanFUN2NnVXNJZk04dnpwSXgzTWl3TnVMM3U5Q1d6OElESHFva2JrSnAzdFowU0RzcDhkRWhzVmNRNnItcC10THpFbDJNak5xMVVfem43a2lYSlpyTFkyM0NiSHhYWGVBdmItTVdTZjhyNEQtTlpmV3ZzX2VTSWRDeXF3XzhBckZxMTBHcnNLUFFn0gGyAUFVX3lxTE1lcWRILVNnQWpPNVlWUnFIUkVYZi12TllxUXd4cDI4QUhhdEhyc2dzSTFxYkVpY2xwYmhOODBMUGQ0ZVB5aW9xclZGM1Q4RnJPN2lHWlhKNWtSNjBkSmM2MXU2MG9IOFpCaFFkLW1wcG9OZW5YVkhtZWF6YmNTTG4zU3N6QTJIOTNuSTdnaklHVmQ3TkZkZ3FoNlAzN0JVTWtJVVlfaS1KLU1UUTA3QUpuMWc?oc=5",
         "fonte": "InfoMoney",
+        "data": "2026-11-18"
+      },
+      {
+        "titulo": "Safra vê impacto de até 7% no Ebitda da Klabin (KLBN11) após acidente em caldeira, mas avalia como administrável",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEgzUVB5ME1yc2dEdEpmUnNRclNsLVM3SVF0WjZrYnBqR0ZmLXEzbW91MmtsRkxZalNYMjRkMnl1amNDSEpfNmZFdTdxVTdRRnR2cy1Caks2d2h3VHVvZVJkY21qTHlHblBGcnVTZXY0MHcycnZaR0hkcHdQSndIZXRSRzAwYnBMWEF2QTBXWUI2NHF5MWQ2NVJR?oc=5",
+        "fonte": "BPMoney",
         "data": "2026-11-18"
       }
     ],
@@ -290,15 +271,15 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0piU0cyeVNvazJKaFBFVWJtMGR4blBmSVpvV2lYQ042djlGSzJRektidm5NV2JwWmdjN2ZiSjNzVmFMWFcwUm9aWkpCSzU1OW56SXFSS05PeUFZSWp2azZIRTMzbkNJcF91OWlOWmV2ODNGSHhJQVhTUEUyNW5fekVsYkpmbnZEc215eHZIMlJyVFhiaHVpbHNJbkdGcGN0Y20zWTUwazBxcTE0UGk3aG1BSHA2cnVpQ0tMMWVIclF6ZVVxNldtLUxxT3RMMUt1?oc=5",
         "fonte": "IndexBox",
         "data": "2026-11-13"
+      },
+      {
+        "titulo": "As indústrias que dão suporte aos semicondutores encontram seu lugar em cadeias de suprimentos multimilionárias.",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTW9aV2tvblk4OEhLRVRhYXg2bTdrbzcxS0ZBRXZXNGxVWWw2S2ZUVHNtbHpjdnh1SXRjMmxlWlo5N3UzeUVUbUliejYxcy1abmVrRFFiUHMzcDVVMnpxajJMM21ZTDhORkRma0dNbkRxS0JrSTJKZ1F6TTFkZUxfNGlEb2poMC1TaHVDQmRGQ1JGUQ?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-11-20"
       }
     ],
     "saneamento": [
-      {
-        "titulo": "Artigo | O recado dos leilões vazios no saneamento brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUGZJX00zWTBaZzV2SG82NVlWNnpudXV1bExGdkczXzhLSkotTDlFbnVESFRBTVFKMVN6ZXJ6Rkg4TmtaeWt3eXJFcFM5bk9wZ0wyOGN0bGxaM2lfR1JtV1k5b3JPU1hkTGJELW8zdExqRVdrQkk4UHU5em1HU2h4dFJIMUdwS0dEVE1ueDhiWlZKTnht?oc=5",
-        "fonte": "Agência iNFRA",
-        "data": "2026-11-17"
-      },
       {
         "titulo": "Carteira de saneamento para 2027 anima mercado após ano de frustrações",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclR0eEJmekxIdUZycnlPWC1QYTFYODNhdWY1THlJWmkxUENOSGlQX0R5MlNPaF9yblhGSGZxZFd3c0pkdzVwZHRMb2hxck5idGFZQzBaZVNUVU9tMVlPaWJXUUFmNHJGcHFWbElET3pQdW5Tam1CbkF2NnlQUWZHZmpFRU0xSlZ3SEVOYlFRdFUtdzZpVjJNeG1XbUNyLWU3QmpxR0hzREJIZw?oc=5",
@@ -307,12 +288,25 @@ window.NEWS = {
       },
       {
         "titulo": "Concessão parcial da Compesa começa a valer na segunda; veja o que muda em serviços e atendimento",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONTFWakJ2akhTY2h4YnM2X1hQWEIyWTFNZmFpMHh6bmZoR1Y2V1ZaT2pkVFNLMkQ0RXZXX1dlN0ZybEpPczJFU2tjT080WkVWSm9tMXluVjRxZ2tIS3M5aElrQnk4eG9mMXpUZDZLSktORlVCTmFWeEY5NzZjWEZPN285bjNkQXIzNFFSWnZySG4tZHlmbnlvQm4wOUFpWDhyWTJNc1JKOWszZWo1djdCRG5oazhlZHp2VE5KMlp4cFI5bVZhVUpXYVI3cFV4N3hDMHNKWmZqSTYzZlVsM09NR0kzSGptRFM1MVIyVNIB-wFBVV95cUxQd3ZfX0twNEl1eDdyX1NIOEtXQUg5OUhRUWtNckEyUjBjS2ZyWURmRGEyb2dRZXhTWUV0ZjV3YlhXZjZEZ2piQmdDcXRpZXcyOWUzcFNBa0pld3JIdVYxdGxtaXpYLUpPZ0tOd1piaWJ6T3hnRDZBQ3FXUkw0cmNWaTFseWFTMkNFRkVmZTRZLXhwRm9XNVkxdTFocy16MkdzSmJnNGhWVlFBZGFtNVRCVEtCX0F2ZG1hWm02YmZjcV9IZEZLQVUzWDFfZk5LOUpyR0dWS2Y3aE9xZ3FHRmtsSU1tNXZCZFdyUXVJMHB1ZmZSQy0teEhtVnhvaw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd3ZfX0twNEl1eDdyX1NIOEtXQUg5OUhRUWtNckEyUjBjS2ZyWURmRGEyb2dRZXhTWUV0ZjV3YlhXZjZEZ2piQmdDcXRpZXcyOWUzcFNBa0pld3JIdVYxdGxtaXpYLUpPZ0tOd1piaWJ6T3hnRDZBQ3FXUkw0cmNWaTFseWFTMkNFRkVmZTRZLXhwRm9XNVkxdTFocy16MkdzSmJnNGhWVlFBZGFtNVRCVEtCX0F2ZG1hWm02YmZjcV9IZEZLQVUzWDFfZk5LOUpyR0dWS2Y3aE9xZ3FHRmtsSU1tNXZCZFdyUXVJMHB1ZmZSQy0teEhtVnhva9IB-wFBVV95cUxQd3ZfX0twNEl1eDdyX1NIOEtXQUg5OUhRUWtNckEyUjBjS2ZyWURmRGEyb2dRZXhTWUV0ZjV3YlhXZjZEZ2piQmdDcXRpZXcyOWUzcFNBa0pld3JIdVYxdGxtaXpYLUpPZ0tOd1piaWJ6T3hnRDZBQ3FXUkw0cmNWaTFseWFTMkNFRkVmZTRZLXhwRm9XNVkxdTFocy16MkdzSmJnNGhWVlFBZGFtNVRCVEtCX0F2ZG1hWm02YmZjcV9IZEZLQVUzWDFfZk5LOUpyR0dWS2Y3aE9xZ3FHRmtsSU1tNXZCZFdyUXVJMHB1ZmZSQy0teEhtVnhvaw?oc=5",
         "fonte": "G1",
+        "data": "2026-11-18"
+      },
+      {
+        "titulo": "Concessão parcial dos serviços da Compesa: entenda principais pontos e saiba o que muda",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTBsNGxNenBaanBTSG5DVlFqRTg0R2V4MEhCWldiNEc5a25obmdzOTFWeTl3ckdCTFN0SkVKSUJTektXWHg2QXFnUEVVbVNPRFZwSzlRVkVkclV3OWlIQ0ozOEswdE5iRks4YVc3QlF1WmxTaWRDVjYzOUVPdnNSeE5nalk5ZDdnVmtBbzVvLVp5MTlUUnBOMDQ0VjdjX3JFaEFPcGtkdUxTejg4Z213YzU1ME5xQndLV1I4M181ejNxQQ?oc=5",
+        "fonte": "CBN Recife",
         "data": "2026-11-18"
       }
     ],
-    "siderurgia": [],
+    "siderurgia": [
+      {
+        "titulo": "Gerdau e Gustavo Werneck são líderes em reputação na indústria do aço no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUYxTzU0NDlORjZGUG4tRDVJUk5jbGEzY3FGSWdaZmpoQXdNblFNbjZUU3JvUEU3ei1ybEZyc3k1ZFowRGJ0Q1VxRTZlRlNTc3owYVdWMU9RWDZoLXVtNHV3TG9HbG15dTVILWpTNHlRcVdKS3BpaFZFdV9uMXJhWHo2MHV3Sk9ROXZHbVhlZGFXb1pjTUtROG9ocnNsNDNpbGxPQk5RZlpPNTVXNVVJY0d0dXQ3WFY3ZmExam1kdUJfQQ?oc=5",
+        "fonte": "Gazeta da Semana",
+        "data": "2026-11-19"
+      }
+    ],
     "odontologia": [
       {
         "titulo": "Dispositivos odontológicos até 2035: odontologia digital e demografia impulsionam a expansão - Notícias e Estatísticas",
