@@ -1,8 +1,27 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-20T17:38:13+00:00",
+  "atualizadoEm": "2026-11-20T23:46:39+00:00",
   "itens": {
-    "agronegocio": [],
+    "agronegocio": [
+      {
+        "titulo": "Custos, clima e maiores investimentos levam crise ao agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQdDdBNTRnSTlPTlJSMGNILW5JOFUyTGY2QjhiWXVWTGZhNUFpdnhrbm1pRXlfVWVWblBFeDZVUU5Td2VfTFpvcFVyQjhaUk5ycEpNVjlUaGMzOVV4OUlpc2I0NmFvRE9UNEpWTGJvNnJzOXM5WFBjUUpfLUl0V25XZ1gwNGVlcXNYUW1XTXE3cTZ0RGtqVENFczJOWG9WbDZjcFg5UGxPZERBdVk?oc=5",
+        "fonte": "brasilagro.com.br",
+        "data": "2026-11-16"
+      },
+      {
+        "titulo": "Mapa lança portfólio para orientar parlamentares sobre investimentos no agro em 2027",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRGdUWU5DYzlZTzNsdy1GOS1ZYS16TEJRYXl1a0NBRVVHUjgtd2g0OGJ3Tl9QN2JVeThMN3FlRWVxdE9RUkp0VnJacXVlUU9SeXZsNi1xcjV4d0swRkJpeE8xNm9RaWlkV1o5QmozZkVsWW9zRFFHbjBoYUtPTzhISmFwVThtSnlieVU0NXVwUXViZTVORnplREpMMVQzWEVxQnY1cVJMNk1MaG40Q29La0pDQmNZYlppajU1M0lCNVZNeS12OGpGTmlyNlFJRUY5MjQxWEdlTmsyUDhP?oc=5",
+        "fonte": "Governo Federal",
+        "data": "2026-11-18"
+      },
+      {
+        "titulo": "Irga participa de debate sobre investimentos e adaptação climática no agronegócio",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3FVblQxbDdLWnVzZHZ3YUVSSG1zakdhWTFaclo5UTFZZzN6alVKaUJ3NnRUREZIc28yY1NPVldWZWtjN0JJMmJ1UmpuWFVMa2R4SFFNVzNWakpodHQ4cDdyUVpaa09SUnU2R0xaRWZvbnlOVWJnT1dzVlAwaEdYeGFDZDVtenJpX09kUUpLXzBzZ2dfUHFRSEZiODBRQ3lTaExwUDdSRQ?oc=5",
+        "fonte": "IRGA",
+        "data": "2026-11-17"
+      }
+    ],
     "alimentos-bebidas": [
       {
         "titulo": "Empresas do Egito promovem rodada de negócios para expandir exportações de alimentos ao varejo brasileiro",
@@ -31,10 +50,10 @@ window.NEWS = {
         "data": "2026-11-19"
       },
       {
-        "titulo": "Randoncorp (RAPT4) 3T26: Verticais Montadora e Autopeças são destaques no trimestre. Confira análise do BB-BI",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1pQ09Pc29kV1Z3dHRSNmxYMy1JSXJGSlc2R2RvYVBjMDZ3bXg5Y0hYQ0ljVGstdDZfNGU1WWtBSXpGRjlXYmd3aDVVUDNqWUNnOHFsRDRsWUZQdnB4ZGdqcmhYMnk?oc=5",
-        "fonte": "InvesTalk",
-        "data": "2026-11-13"
+        "titulo": "Chinesas já dominam quase um quarto do mercado automotivo brasileiro e pressionam rivais",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3h6MDd0MVZSRk5DVHdzbTRyVDdPSlhRUVlJS3ZoN3FRWlJzMUhoNnBIbjJadHJkYmp5MFhoblBJQnpPVGNhNVZsQmtpSUZrc1NwU0hkc0tHeUo0dXBlbWFkb3Z3dFN2ZGtyMGhDV2lQckxHY3BfRW5qSEI4VW9CUjFmODlEMy1XWXB1bDJnZ3prUURZWEhCMGlUcFlWYnJVRDlzTDE2dy1LM2MzRVROZTN6SHY5X2ZO?oc=5",
+        "fonte": "Gazeta do Povo",
+        "data": "2026-11-20"
       },
       {
         "titulo": "Montadora chinesa prevê investir mais R$ 400 milhões no Brasil até 2027",
@@ -85,16 +104,16 @@ window.NEWS = {
         "data": "2026-11-19"
       },
       {
-        "titulo": "Rede TOP Supermercados reinaugura unidade com investimento de R$ 8 milhões em Indaial (SC)",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDB2VmZRRjkzbXRmVDk1cks2eFNTNEh4dUJneDZDczdUcUQyNDVSczRienc1cmlaSGNfblRTZXluVjVPTVliMHVudW0zeERXY1gtaE1ERHJpQVgyRWdnYWw0OW5INHROV2ZySEVfaF9xcTMwenFtNkY2WlQtSTlNZE9xcWIyUUFkLU15aU04UEp2VE1fVmQzWjEwbldxbkppMU5qNUhaWlhwc3dicmxEZDFlZzlpYk1MOV9ET081N3I4TEE?oc=5",
-        "fonte": "SuperVarejo",
-        "data": "2026-11-16"
-      },
-      {
         "titulo": "Panvel faz investimento de mais de R$ 100 milhões no Rio Grande do Sul",
         "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ2thLXMxX3hyY2VPMUQtdk9OWHFpYzdEUF9nMEowRGFJanBxT0h5NDJGeTFTTlZjc2IxaU1LNUViV0tqSW4xUDdJanpEVmZMeXA0SEpFMEJXSGoxWmJZRzVJeDJhNTdCWmdfSWNLUFU0R21Zb2lYaWsxdm84bHUzNW80YVFBZWZrUWx2VVdTVHBwaWxqVFk0cXVpY1NpemdFTEwzN3B3Ml92NWwyUlZkcVVZSjExalpXZ0Y1NzdWUkhDR24zN0M3cXVOWlpXdThSZGF4OWgyam1lbDBhT2Z1Ums0TDhRdXNQRzluVC1RMzlsb1UweXJqb0UyM1Y?oc=5",
         "fonte": "Jornal do Comércio",
         "data": "2026-11-19"
+      },
+      {
+        "titulo": "Rede TOP Supermercados reinaugura unidade com investimento de R$ 8 milhões em Indaial (SC)",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDB2VmZRRjkzbXRmVDk1cks2eFNTNEh4dUJneDZDczdUcUQyNDVSczRienc1cmlaSGNfblRTZXluVjVPTVliMHVudW0zeERXY1gtaE1ERHJpQVgyRWdnYWw0OW5INHROV2ZySEVfaF9xcTMwenFtNkY2WlQtSTlNZE9xcWIyUUFkLU15aU04UEp2VE1fVmQzWjEwbldxbkppMU5qNUhaWlhwc3dicmxEZDFlZzlpYk1MOV9ET081N3I4TEE?oc=5",
+        "fonte": "SuperVarejo",
+        "data": "2026-11-16"
       }
     ],
     "energia-gt": [
@@ -125,16 +144,16 @@ window.NEWS = {
         "data": "2026-11-20"
       },
       {
-        "titulo": "Norte de Minas é um dos líderes na produção e atração de investimentos",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOM05LdmN5cFVyT3B5MkY4YnpMNzRTT0FsMW1fblVGS09hWW9uYXdrMHZkeW8xaVI1UnFTbllybXdod0tUY1VuYXhsYUtGT3BOSHJrZ29qUmZqeHFWUzhrZzRCclNOSzMwQnJCVEhIVF85dWhneW1ST3c5QkFRU2gtR3YxcXZpVzg2R0EyZjNEb0FwY3JFaVJFRjVUVTVLemEyN1hKQkZzdmFidWFBRzR3ZHVR?oc=5",
-        "fonte": "O Norte",
-        "data": "2026-11-17"
-      },
-      {
         "titulo": "Como China finalmente reduziu emissão de poluentes e planeja 'revolução de energias renováveis'",
         "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1RR3N0UDRxNXVhSnFxMFBhVTI4RnZ2Qkx2MndqSURYbU40Ri1XUUFBU293bWY0bFdTaGFkeGJOZEYxTVBkdlR0eHgxRFhaZG9IMG9zanpJYS1nMXNHcWx5MEpYMNIBaEFVX3lxTE50bGVGa2gxMTMxX3M0NmxjUm14dHpmX1huNXU1MTdqRDN1am1FTnlnMjBMRU1EMUU4RUNOUHZ6dkJZeGJpZ09GWmRWaFIzY3hQVmRSNXVYNmgzeE9Wa1NuTUZkUlljSlhW?oc=5",
         "fonte": "BBC",
         "data": "2026-11-15"
+      },
+      {
+        "titulo": "Amazon investirá mais US$ 7 bilhões em energia renovável na Índia",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNbWY3T0dGdFZTTklTTDY1UWZWS1duMTBuVndfZXIteDBvRGVKX1hrZjBocEV1Y094MXZnTFp3dm1SV1dXNmZ5anF1eno1M0hLb21NckdaZ1hWLWQ3VWRpZmxBQ0xPY2FnaHBEWHdyOHdmUmpVZTJYR0FMZnpYeGlGc1RGVVZ3S2J3THJOSkpVbGt6ejJJOGFING5OVXhtVmEtREhEUWIzUV80Z2MtSl9kdU14WkZ1RFJtbHfSAcgBQVVfeXFMUGx4R0toUzFMcWVpNm9fXzJIbnFmdUM5WTNBVzJBdmFkckh4a3pPdmpjdVo0WDFlcXlIWUI1VDRnY2ZWdUN4WldZVW9MWkROOU5hcDRYeXdINnVMNE01TUZhbWFBeXFDRURRX00wMEpwdmg0dFNhQ21kbUtMS1NDM3Q3Y2R1X0RUMmM3eURISWp1dVdiX3FxNnVVYWZBWG4zVzJSa3F5emVLNl9lRV9QZWhCY2VJeU10YkNGV21iUDFwSUYtZjBpMXc?oc=5",
+        "fonte": "Valor Econômico",
+        "data": "2026-11-18"
       }
     ],
     "epc": [],
@@ -161,16 +180,16 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Governo de SP fortalece indústria automotiva com expansão da Toyota em Sorocaba",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdjZJTm5XUzRnYUtPQXJJUjhnSHVWam5nUlNXWkNYTHNBY2RnbEpwbTAySS1ZMF9xX1RmTTQ0VGlibTBRNWgxbXpDelZobWpSMnlUWTZoZEJBYlJDcHhOM2QyMzJxVm9VRjFBdzlqaFhJYWxuU184eDJtYW9pajJhLTlNZVdWMkRuaUo5TUVuM3ZtbnVIZmtQSHZwZTJwd0ZJb2pWMzljdVFmcUFFaFhLRDVpUGo0aUk0TjE5NC1GVzd4bV94NFE?oc=5",
-        "fonte": "agenciasp.sp.gov.br",
-        "data": "2026-11-18"
-      },
-      {
         "titulo": "Bahia celebra cadastro da Windey no BNDES e fortalecimento da indústria de energia",
         "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONGM2VXU0d296ekZRRldVUDE3UHlxUnhYQkFXOTRqcjVqdHpMc1RTN3RQalJyLUY2R1VTOWdlZHNmUFB5VWJVQl9tZ09KTGhNaWpmUXY3ZlUydURDZzg2ckllWVBpSU5SU3NIT3V5UEwzcmoyOFBhTDVOUTJCal9DaDk2SmhFbWNxUm8zRE1XV1BjZE5heU9ub2t6UUFCUENDVlJoX3BqalZvMmkxaGhCaGtTbG50RDJ3Q21IY25qZ1RUY20xRUpWU25pUQ?oc=5",
         "fonte": "ba.gov.br",
         "data": "2026-11-19"
+      },
+      {
+        "titulo": "Governo de SP fortalece indústria automotiva com expansão da Toyota em Sorocaba",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdjZJTm5XUzRnYUtPQXJJUjhnSHVWam5nUlNXWkNYTHNBY2RnbEpwbTAySS1ZMF9xX1RmTTQ0VGlibTBRNWgxbXpDelZobWpSMnlUWTZoZEJBYlJDcHhOM2QyMzJxVm9VRjFBdzlqaFhJYWxuU184eDJtYW9pajJhLTlNZVdWMkRuaUo5TUVuM3ZtbnVIZmtQSHZwZTJwd0ZJb2pWMzljdVFmcUFFaFhLRDVpUGo0aUk0TjE5NC1GVzd4bV94NFE?oc=5",
+        "fonte": "agenciasp.sp.gov.br",
+        "data": "2026-11-18"
       },
       {
         "titulo": "Mercedes-Benz suspende investimentos e avalia fechar fábricas na Alemanha",
@@ -187,16 +206,16 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Concessões reguladas pela ANTT ampliam integração entre rodovias, ferrovias e portos brasileiros",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdngzVXBmdTFDLTV3MjFaa1NsVEFDcnM5eEpwQk53RF9sTXJfNDJwSXRDMWk5Xzl3S0E1M3BFM3BPbHJ4Q3V6NnJPVHRLU3ROdV9JNnFvQzNLTmtrSzVSb3JiYmtoUE41aFJLOVFkdWlJeE8tMFktNW5FbEpmYkVVZ2w0WU94V1FGWUU4V0toQ0pKZjlUYUtFRFZnR0U1OGtKZUdQc0tPbFBsQXNBcXVGSzR5Nm50UEVYc1dQdVcyUTVkcWJrc3c0?oc=5",
-        "fonte": "Setcesp",
-        "data": "2026-11-13"
-      },
-      {
         "titulo": "São Paulo tem mais ferrovias desativadas do que em operação",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdkdaU2FmT291OEIzSjFPNG02S3o2dW84ZHN3MWtMREw5akt2QVN2VkdoYnJQNUMtN19NQWpoR3h0czgxT0xGNU1OZVp2TV95UGZWWkdJZkE1LVBJN1lmWEZlVi1CZkhQdUgyV0tzdS15QlNsM2wwWU5KN1RUMUtFcjVzX1o0ZEVrejhiTThzdlI4QQ?oc=5",
         "fonte": "Portal BE News",
         "data": "2026-11-16"
+      },
+      {
+        "titulo": "A logística no Sertão: integração como motor do desenvolvimento de Pernambuco",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPZ2diWEswVVJ2MjdnamVfdXJobVU5ZkhqdTZTRDBMZEJzWW94WTNPdWFUQUhoOXN6SkotTU81aGhodjFQLWw4N1dlVTZsMUlEbUZrYUJHYllDQzBiQ0VTZDVfeHMxeVBqNThEQmgwUVVLVk1idlh2SWlFSi1YV2xxbHBWRkIxMjVsSzZrNXctYkw4eGtyY1lZOW1sRWZBMmQ4SjhQN090WmVxOFdGS1JTU3d1UW9oaWQtMk5aVDBoTFNidEhBS2V5bVowSGdoU3RHLW9tQw?oc=5",
+        "fonte": "Movimento Econômico",
+        "data": "2026-11-18"
       }
     ],
     "maquinas": [
@@ -213,10 +232,10 @@ window.NEWS = {
         "data": "2026-11-15"
       },
       {
-        "titulo": "Semicondutores devem faturar R$ 14 bilhões no Brasil em 2026, projeta Abisemi",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVm5PTUVITGRWWEpfck5ueEFKMEVWcDlpQ2JJeFZMQmtxczJ3SDBfOFlPZGNPT0NhS2ViV2h5enNtNzFSMDdJemhlT0J5THU0YkR3c2VKakNqSU1kUkJLeWlYR1h4Q0RZOHBoQllKZUhyRzM2aGNvbDlEcjdsaExZRVhVRWNjTmFNSnFRZEUzdjNiOU5MYk8tUUVUMzFnWENLN3VuS1Vn?oc=5",
-        "fonte": "TeleSíntese",
-        "data": "2026-11-17"
+        "titulo": "66% das farmacêuticas planejam investir em P&D nos próximos 3 anos",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3pqVVk5WW1XY21tOWhQVl94LVpWY1lkVWRiSEpJeGp2V2JuOUNkdkg2cEh2V1YtNUhnSjN6VkNmb1AyLVZPN0VlZkZnNW9OaXlQbnhUeWRHTU1ZMFdLcmR6bkNPN2daM0w1aGMtMnVnWkcyR1hjRC14dU1BckF6dFZRLWJEcGVxeUs5YnlQaElhamcyQmxRemlRTnZ3djg?oc=5",
+        "fonte": "Abradilan",
+        "data": "2026-11-19"
       }
     ],
     "mineracao": [
@@ -267,12 +286,6 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Mercado de produtos químicos inorgânicos industriais até 2035: baterias e tratamento de água impulsionam o crescimento - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQ0piU0cyeVNvazJKaFBFVWJtMGR4blBmSVpvV2lYQ042djlGSzJRektidm5NV2JwWmdjN2ZiSjNzVmFMWFcwUm9aWkpCSzU1OW56SXFSS05PeUFZSWp2azZIRTMzbkNJcF91OWlOWmV2ODNGSHhJQVhTUEUyNW5fekVsYkpmbnZEc215eHZIMlJyVFhiaHVpbHNJbkdGcGN0Y20zWTUwazBxcTE0UGk3aG1BSHA2cnVpQ0tMMWVIclF6ZVVxNldtLUxxT3RMMUt1?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-11-13"
-      },
-      {
         "titulo": "As indústrias que dão suporte aos semicondutores encontram seu lugar em cadeias de suprimentos multimilionárias.",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTW9aV2tvblk4OEhLRVRhYXg2bTdrbzcxS0ZBRXZXNGxVWWw2S2ZUVHNtbHpjdnh1SXRjMmxlWlo5N3UzeUVUbUliejYxcy1abmVrRFFiUHMzcDVVMnpxajJMM21ZTDhORkRma0dNbkRxS0JrSTJKZ1F6TTFkZUxfNGlEb2poMC1TaHVDQmRGQ1JGUQ?oc=5",
         "fonte": "Vietnam.vn",
@@ -313,6 +326,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNby1HeHU3YmdORlBROGVmTEhhVjdlb3FOQ1lqVUdfc1VQbUVoNzBZazdQMm1uTjdValFCXzBOZGhhVkxQeXBqU1FPQy10VUZnQ2g4WnFKRFZURDZhSDQxbU9EYi11czFOQ1cwYkNNQUdPdWRzYkZOSmZPMG5JeHhJT25kTEJGcENDTDRfMGR4MnU3TTZMREpXeWpiS2NQTjktS3JMVGdaSjZDZXZ6d1pNaVNqa3liSWM4SGZ5RnN1Q2luV2dTcE0yT1pSTFl1U1BD?oc=5",
         "fonte": "IndexBox",
         "data": "2026-11-18"
+      },
+      {
+        "titulo": "APAE de Lages inaugura novos espaços de atendimento médico e odontológico com investimento superior a R$ 220 mil",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaV9XR0FER1V1SlZDNjB5dlM1RHZZRE94N1lCb0hlSW51bmc0WFA3cWZOQWt2TFFiaFp5WHhhOW1INkhmVnhhamxDZG9VSXdicVNDZkp6SUVlLUstQTd2WWZJWllQRmxGcU9KLU9kWVk5NHU0R2dQTW5XTm1yblFJMEo4SFZiMEJtd0JNM3RHNi04NHVSb25jTURPcGhvSi1Pa3A5RnZGYmw0d1lSUXJaUTdGRGFNWlBrdnE4bE5pS09DdFVFdWFoTHV2R1JOWWlRQ05RV1E4dlR2SkJ1Smc?oc=5",
+        "fonte": "Revista Expressiva",
+        "data": "2026-11-20"
       }
     ]
   }
