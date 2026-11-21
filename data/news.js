@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-20T23:46:39+00:00",
+  "atualizadoEm": "2026-11-21T16:39:40+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,18 +16,18 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Irga participa de debate sobre investimentos e adaptação climática no agronegócio",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT3FVblQxbDdLWnVzZHZ3YUVSSG1zakdhWTFaclo5UTFZZzN6alVKaUJ3NnRUREZIc28yY1NPVldWZWtjN0JJMmJ1UmpuWFVMa2R4SFFNVzNWakpodHQ4cDdyUVpaa09SUnU2R0xaRWZvbnlOVWJnT1dzVlAwaEdYeGFDZDVtenJpX09kUUpLXzBzZ2dfUHFRSEZiODBRQ3lTaExwUDdSRQ?oc=5",
-        "fonte": "IRGA",
-        "data": "2026-11-17"
+        "titulo": "Restrição de crédito e recuperações judiciais desafiam investimentos no agronegócio em 2027",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcVhsRG55UTQ2NGxaNVhJV1FjTi1NcmlvX1lTTlpTSVBwelBwQThLX3A0Qnc3TUNKTkxDU0cyNDM3UFhMMTNHb1pOc2dhZ1BNSnJMc3NjdGRwZzdGeEVETDFZYjRJUG9mc2dGUl9xbW8zRExVeVU0a0l0OFZSaTctenotUU9jLUhUTllueENBS0k2QUk5T0lIYkV2ZDVMQWNYQXVzemFSSjF3U0NaSkdXbWFucTdFLTByMUJpVFJydw?oc=5",
+        "fonte": "Brasil Inovador",
+        "data": "2026-11-16"
       }
     ],
     "alimentos-bebidas": [
       {
-        "titulo": "Empresas do Egito promovem rodada de negócios para expandir exportações de alimentos ao varejo brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOYldwMnJqZlU5alo3RzBMQVBLZlFKNy00WTVaNWp3cFN2Q1RETjJjb1lPeUdLa05IU0tVcGVfWmlHbExBMzlERklLRDlVSU9VUjQ3elcwTWJMTENiODZtZGhDWENjSENwVkRmZWZKenhySllRRW9rb1I5b3IxSzlWdUhCWUtkT3dZU0dvalB4dWVveGJkMnR0aWp3MHEtc3VZUDRab1AzaTJ1YVFGb0o1VEFHY0tad2p2ckZ6YUgtT2dhaHQ0NGdRTDRhX1o2dUtjUHc?oc=5",
+        "titulo": "Automação do final de linha desponta como prioridade para investimentos industriais rumo a 2027",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcWVLMmx2V1Z0eGdIUW1PZUhsVTgzSlpWZFM1dkR2U05KUnZnSjhhbWY4VHpxOUliY3I3ZnQ2OVFCbUdOOXB0Vml0VUVraTFZN2c3elZMZDdwSlVXYWljNVM1VjBQX2NJejloUFZvQ01yOVQtWWpQaE1fTzljMWRXb1ZvejNLX2xrc2lpcTkzRWE4Mk5iM1BneUI3SVVOUnc3V2tYUjA5ZHhhX0hTc3ZEZDJKYmh2d2V0WnRfM2pJUEZLbktz?oc=5",
         "fonte": "Brasil Inovador",
-        "data": "2026-11-17"
+        "data": "2026-11-16"
       },
       {
         "titulo": "IPO da Anthropic: BDRs serão negociados na B3; veja como investir",
@@ -44,16 +44,16 @@ window.NEWS = {
     ],
     "automotivo": [
       {
+        "titulo": "Montadoras chinesas dominam 23% do mercado automotivo no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPV1N6ZHhVVXg1clNtUXVCa1V1QTNLdEhBMjBzWlRyYlBDTm5CbEdCZHhITWtLMmZlSm16ZkQxUzd4M29wMzJ0OUhCWkpsaXBja21icHVjOFBuTFpQWm5DY2I5eVJHWXVKelhSYWRqOTBRRVUtZlZEbVVQcHF5TktOa0xXRTVxdnlmZVQwZWFBZEZzaDNYTUdfQk0zekx5RnUwc3k5NjNSUENoT0tFaXpHUmIxMllUTDJ5cHJpUEkxTWw?oc=5",
+        "fonte": "Gazeta do Povo",
+        "data": "2026-11-21"
+      },
+      {
         "titulo": "Montadora chinesa Jetour anuncia investimento de R$ 400 milhões em sua primeira fábrica no Brasil",
         "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQamhCdHN5QWJlb0g1RW84d0xwUVI3VG9TUjNka0o0MGp5eV8zNWNNQVljZ0NTRDUtcHNqTlFPQzR5RWdXMjYzdXRaSXVpc0dNMmtUMHZzaDRhRWNUOUdkSklvWEN1TUY2NWJ4cDlMRDFrWE9nRV9SZjkycUhpb1VHTTFiRldScmpUYkZ0RWY4dWpsWUlkZGdSdm12RWphVWl2QmExSF9RRGs1X2dmbWJYYzZIQTMteVh1NnRjamRsdGFiRmFIREJOMy1SVzNDWWpCV0s1VGZ6dVp0clltQTAtZXM4Z19nSXZqREJ5TXY5Ry00Z3B5VDJfRlM3TkNRWU01LWxrcE9B0gGGAkFVX3lxTFBqaEJ0c3lBYmVvSDVFbzh3THBRUjdUb1NSM2RrSjQwanl5XzM1Y01BWWNnQ1NENS1wc2pOUU9DNHlFZ1cyNjN1dFpJdWlzR00ya1QwdnNoNGFFY1Q5R2RKSW9YQ3VNRjY1YnhwOUxEMWtYT2dFX1JmOTJxSGlvVUdNMWJGV1JyalRiRnRFZjh1amxZSWRkZ1J2bXZFamFVaXZCYTFIX1FEazVfZ2ZtYlhjNkhBMy15WHU2dGNqZGx0YWJGYUhEQk4zLVJXM0NZakJXSzVUZnp1WnRyWW1BMC1lczhnX2dJdmpEQnlNdjlHLTRncHlUMl9GUzdOQ1FZTTUtbGtwT0E?oc=5",
         "fonte": "O GLOBO",
         "data": "2026-11-19"
-      },
-      {
-        "titulo": "Chinesas já dominam quase um quarto do mercado automotivo brasileiro e pressionam rivais",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN3h6MDd0MVZSRk5DVHdzbTRyVDdPSlhRUVlJS3ZoN3FRWlJzMUhoNnBIbjJadHJkYmp5MFhoblBJQnpPVGNhNVZsQmtpSUZrc1NwU0hkc0tHeUo0dXBlbWFkb3Z3dFN2ZGtyMGhDV2lQckxHY3BfRW5qSEI4VW9CUjFmODlEMy1XWXB1bDJnZ3prUURZWEhCMGlUcFlWYnJVRDlzTDE2dy1LM2MzRVROZTN6SHY5X2ZO?oc=5",
-        "fonte": "Gazeta do Povo",
-        "data": "2026-11-20"
       },
       {
         "titulo": "Montadora chinesa prevê investir mais R$ 400 milhões no Brasil até 2027",
@@ -62,26 +62,13 @@ window.NEWS = {
         "data": "2026-11-18"
       }
     ],
-    "bioenergia": [
-      {
-        "titulo": "Brasil reúne R$ 27,5 bilhões em 24 registros de usinas de etanol de milho em sete estados, mas 14 não indicam obras iniciadas",
-        "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNOHBFQ1QyR0wzaDNfbGhMVU94Y2xzbkFQT3Nkc19yZjRGRVE5UGtJZ2VTNVNVbVF6ZW5ybjJ4UzB0eGZaNGtLZm1LejNEbkluM0tVc2ViNWl2TC1IcktsQkRLQXE0WXlmd29PalIxb1ZYUEtleHNxZXBwUTh6VzQ1aU94TkFDRGlvRk9zalFLenhUMzBKWmV6OVdsbHhHTVlCZzFldVpTOWpTN1ZpYW1ublk5anRLN09HMUpnTXUxVG5CbWZsbk1fQ1FzeE0zNV8wdzhTeUVqLTUxOUZtM0FHR2lZTFlyU18ydlBlWlF5NS1QdmYxNFE?oc=5",
-        "fonte": "CPG Click Petróleo e Gás",
-        "data": "2026-11-19"
-      },
-      {
-        "titulo": "Levantamento aponta R$ 40,3 bilhões em projetos agroindustriais no Brasil, mas 41 dos 68 registros não indicam obras iniciadas",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxObzhKUGJCMmctUjloZk9pUllqWW9haVlRa3JwbTI3NUYyQmtyUUZZT2dVbTVFVzBuWThLbE16Y2hqTnFGZlZCdWU0aUU4bWxPX01yTDRzc09lXzlNaGtoMTBNNjlrTHZqNlRWcU1iazdwckdZdlZLZ2hRR004bTBpQmRSME5qUVBack9hUllDNlliRElCcEp1VG9NMVZjMjBhR2I0TG56bXFCdF9fN3k5ZTZtQzRCRG8xcVJYNXpDbnJxY0tCMVVnVFZ4UHc4ZWFkcXVIZ0NTamlNUzBWZ291VHUwZmZwbEpFakVXQXU0WFlodUNHYXdz?oc=5",
-        "fonte": "CPG Click Petróleo e Gás",
-        "data": "2026-11-17"
-      }
-    ],
+    "bioenergia": [],
     "cimento": [
       {
-        "titulo": "Previsão do mercado de cimento da Arábia Saudita até 2035: megaprojetos de construção impulsionam o crescimento",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZlF5NWxiME1iWklqd0JCcGdPaE1VbGZqY1JsN2NHcnlieEZZdjd5c2d5YzZMajJQUFI4SVpHVVdiTnoxQW5OWFRxby14S080a3ZfdHFiNmdWTWo1clZuODVBRkhSSFRVTGlLOGdEbDRyVkhiWWt0LUlJY3I4S3I5dFhNd256SjI0VkRjcUxWci1sOFpPNGhOXzl5OG9uc0E5VENLektaclBsRGNUZS1EX240OUNxeThh?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-11-14"
+        "titulo": "Construção civil mira ganhos de produtividade e industrialização com expansão de investimentos",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZllGZi05eWlzNmg5MnBhZ1BVZ2VtbWc5UzVaenZKWVlEVEJjNjdGLTVWUHpXeFpqTURHLTRDNG1qR0UxX3dyWl9QVmd3WGJSOEJjQzJac3RwbGc4cHF2SWE0V2tDNGxraTFhUW0zSlR5TkJqZndpYkFzdDV2RS02QUppRnIzcEJYTEoyakMzMnVlQmtNR19IZTFUSGRXUlFVWnlvWFJGUWxXTTllSW9IS0ZSQ2ZraHQ4LVFNTjFjdGRUWjQ?oc=5",
+        "fonte": "Brasil Inovador",
+        "data": "2026-11-20"
       },
       {
         "titulo": "Asfalto ou concreto: qual dura mais, custa menos e oferece mais segurança?",
@@ -180,22 +167,22 @@ window.NEWS = {
     "fertilizantes": [],
     "industria-geral": [
       {
-        "titulo": "Bahia celebra cadastro da Windey no BNDES e fortalecimento da indústria de energia",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONGM2VXU0d296ekZRRldVUDE3UHlxUnhYQkFXOTRqcjVqdHpMc1RTN3RQalJyLUY2R1VTOWdlZHNmUFB5VWJVQl9tZ09KTGhNaWpmUXY3ZlUydURDZzg2ckllWVBpSU5SU3NIT3V5UEwzcmoyOFBhTDVOUTJCal9DaDk2SmhFbWNxUm8zRE1XV1BjZE5heU9ub2t6UUFCUENDVlJoX3BqalZvMmkxaGhCaGtTbG50RDJ3Q21IY25qZ1RUY20xRUpWU25pUQ?oc=5",
-        "fonte": "ba.gov.br",
-        "data": "2026-11-19"
-      },
-      {
         "titulo": "Governo de SP fortalece indústria automotiva com expansão da Toyota em Sorocaba",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdjZJTm5XUzRnYUtPQXJJUjhnSHVWam5nUlNXWkNYTHNBY2RnbEpwbTAySS1ZMF9xX1RmTTQ0VGlibTBRNWgxbXpDelZobWpSMnlUWTZoZEJBYlJDcHhOM2QyMzJxVm9VRjFBdzlqaFhJYWxuU184eDJtYW9pajJhLTlNZVdWMkRuaUo5TUVuM3ZtbnVIZmtQSHZwZTJwd0ZJb2pWMzljdVFmcUFFaFhLRDVpUGo0aUk0TjE5NC1GVzd4bV94NFE?oc=5",
         "fonte": "agenciasp.sp.gov.br",
         "data": "2026-11-18"
       },
       {
-        "titulo": "Mercedes-Benz suspende investimentos e avalia fechar fábricas na Alemanha",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYy1nTzdUYjA5U2wxckkza0t0MllPREVOX1FQZTFpOEhsOFF0aFVOa1pRc0ZkWDdvNkR6MzBhS1B3TWllZWdmY0h6azlnRDFCOUxpZTdtU2RRSUt2cmpSanNONHJubmhTQjZmMWlxMEw1TzVaSXh3ZC0wWWdseUprOFFsOXBGU01RR0hMSmF5VzJwV2MybTFVQVY4bzNBVllSNHJZVVBGY1IzUmEwdGJXWmdwaWFMb3U1WWRsdHU5VWhtYlpTZHdsUUNrUjlCWS1xZnhqblUxNlJ6TmRVUW1mQkFDamZ6MUlGaUU5em5NMHkwSXlJMXNoRG5xUUJrQdIB_gFBVV95cUxQYy1nTzdUYjA5U2wxckkza0t0MllPREVOX1FQZTFpOEhsOFF0aFVOa1pRc0ZkWDdvNkR6MzBhS1B3TWllZWdmY0h6azlnRDFCOUxpZTdtU2RRSUt2cmpSanNONHJubmhTQjZmMWlxMEw1TzVaSXh3ZC0wWWdseUprOFFsOXBGU01RR0hMSmF5VzJwV2MybTFVQVY4bzNBVllSNHJZVVBGY1IzUmEwdGJXWmdwaWFMb3U1WWRsdHU5VWhtYlpTZHdsUUNrUjlCWS1xZnhqblUxNlJ6TmRVUW1mQkFDamZ6MUlGaUU5em5NMHkwSXlJMXNoRG5xUUJrQQ?oc=5",
-        "fonte": "Autoesporte",
-        "data": "2026-11-16"
+        "titulo": "Bahia celebra cadastro da Windey no BNDES e fortalecimento da indústria de energia",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxONGM2VXU0d296ekZRRldVUDE3UHlxUnhYQkFXOTRqcjVqdHpMc1RTN3RQalJyLUY2R1VTOWdlZHNmUFB5VWJVQl9tZ09KTGhNaWpmUXY3ZlUydURDZzg2ckllWVBpSU5SU3NIT3V5UEwzcmoyOFBhTDVOUTJCal9DaDk2SmhFbWNxUm8zRE1XV1BjZE5heU9ub2t6UUFCUENDVlJoX3BqalZvMmkxaGhCaGtTbG50RDJ3Q21IY25qZ1RUY20xRUpWU25pUQ?oc=5",
+        "fonte": "ba.gov.br",
+        "data": "2026-11-19"
+      },
+      {
+        "titulo": "China Shock 2.0: por que a China produz tanto e como isso ameaça o Brasil?",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORnpScmpwYmszVTBTYUw3OG9vWmhJSUJ4SU9vTUs5cXRXRWxZdmhKd0p5UDMxZVUtMUh1b0Y1RjVzT1ExYVVYclhQYmFTUExwS1h0NlZYZzNTSHh6ZjMzUXgtXzdIMDB0Rk1UMDlMdWR0WnhsNGtGMHV4dUZxZDhZbzluWFFteEI4NGt3ZFF0SQ?oc=5",
+        "fonte": "InfoMoney",
+        "data": "2026-11-15"
       }
     ],
     "logistica": [
@@ -232,10 +219,10 @@ window.NEWS = {
         "data": "2026-11-15"
       },
       {
-        "titulo": "66% das farmacêuticas planejam investir em P&D nos próximos 3 anos",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3pqVVk5WW1XY21tOWhQVl94LVpWY1lkVWRiSEpJeGp2V2JuOUNkdkg2cEh2V1YtNUhnSjN6VkNmb1AyLVZPN0VlZkZnNW9OaXlQbnhUeWRHTU1ZMFdLcmR6bkNPN2daM0w1aGMtMnVnWkcyR1hjRC14dU1BckF6dFZRLWJEcGVxeUs5YnlQaElhamcyQmxRemlRTnZ3djg?oc=5",
-        "fonte": "Abradilan",
-        "data": "2026-11-19"
+        "titulo": "Semicondutores devem faturar R$ 14 bilhões no Brasil em 2026, projeta Abisemi",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVm5PTUVITGRWWEpfck5ueEFKMEVWcDlpQ2JJeFZMQmtxczJ3SDBfOFlPZGNPT0NhS2ViV2h5enNtNzFSMDdJemhlT0J5THU0YkR3c2VKakNqSU1kUkJLeWlYR1h4Q0RZOHBoQllKZUhyRzM2aGNvbDlEcjdsaExZRVhVRWNjTmFNSnFRZEUzdjNiOU5MYk8tUUVUMzFnWENLN3VuS1Vn?oc=5",
+        "fonte": "TeleSíntese",
+        "data": "2026-11-17"
       }
     ],
     "mineracao": [
@@ -266,15 +253,15 @@ window.NEWS = {
         "data": "2026-11-20"
       },
       {
+        "titulo": "Adesão da CMPC ao programa Conexão Indústria abre oportunidades para fornecedores gaúchos em expansão",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdUs3V093SG5UdlFubFFONmNHbjhwY1JjUEw0VFQ2bmdOTTBRMlRvVUxvUUYxR3M2OHpnQVl2UEQtTE5rbnlkT1JmekdYbmxtSUlZRmxnUW1wTlpROWJBczhmYVNXZWozeTRZZmNxR1hkZDBVWUxhcVgtLUM1NkltanVFUUIwVGJrYVpvYkFyelRmekg2ek5rVnBHemI5dzVya2RsNVpNU3dKdy1fS0hEeC1Kc0Iwdi1kenpSWDRjSlctN21xSktFU1BNcGhYWGpQRmxmdUlEZEx0dnc1eDlpTA?oc=5",
+        "fonte": "Jornal Bom Dia",
+        "data": "2026-11-19"
+      },
+      {
         "titulo": "Klabin evacua fábrica após explosão de caldeira que deixa feridos em SC",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdXltN09rYzdEc1dqZXJXZnNRa3pzdS1EMWpVanFUN2NnVXNJZk04dnpwSXgzTWl3TnVMM3U5Q1d6OElESHFva2JrSnAzdFowU0RzcDhkRWhzVmNRNnItcC10THpFbDJNak5xMVVfem43a2lYSlpyTFkyM0NiSHhYWGVBdmItTVdTZjhyNEQtTlpmV3ZzX2VTSWRDeXF3XzhBckZxMTBHcnNLUFFn0gGyAUFVX3lxTE1lcWRILVNnQWpPNVlWUnFIUkVYZi12TllxUXd4cDI4QUhhdEhyc2dzSTFxYkVpY2xwYmhOODBMUGQ0ZVB5aW9xclZGM1Q4RnJPN2lHWlhKNWtSNjBkSmM2MXU2MG9IOFpCaFFkLW1wcG9OZW5YVkhtZWF6YmNTTG4zU3N6QTJIOTNuSTdnaklHVmQ3TkZkZ3FoNlAzN0JVTWtJVVlfaS1KLU1UUTA3QUpuMWc?oc=5",
         "fonte": "InfoMoney",
-        "data": "2026-11-18"
-      },
-      {
-        "titulo": "Safra vê impacto de até 7% no Ebitda da Klabin (KLBN11) após acidente em caldeira, mas avalia como administrável",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQdEgzUVB5ME1yc2dEdEpmUnNRclNsLVM3SVF0WjZrYnBqR0ZmLXEzbW91MmtsRkxZalNYMjRkMnl1amNDSEpfNmZFdTdxVTdRRnR2cy1Caks2d2h3VHVvZVJkY21qTHlHblBGcnVTZXY0MHcycnZaR0hkcHdQSndIZXRSRzAwYnBMWEF2QTBXWUI2NHF5MWQ2NVJR?oc=5",
-        "fonte": "BPMoney",
         "data": "2026-11-18"
       }
     ],
@@ -300,10 +287,10 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Concessão parcial da Compesa começa a valer na segunda; veja o que muda em serviços e atendimento",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd3ZfX0twNEl1eDdyX1NIOEtXQUg5OUhRUWtNckEyUjBjS2ZyWURmRGEyb2dRZXhTWUV0ZjV3YlhXZjZEZ2piQmdDcXRpZXcyOWUzcFNBa0pld3JIdVYxdGxtaXpYLUpPZ0tOd1piaWJ6T3hnRDZBQ3FXUkw0cmNWaTFseWFTMkNFRkVmZTRZLXhwRm9XNVkxdTFocy16MkdzSmJnNGhWVlFBZGFtNVRCVEtCX0F2ZG1hWm02YmZjcV9IZEZLQVUzWDFfZk5LOUpyR0dWS2Y3aE9xZ3FHRmtsSU1tNXZCZFdyUXVJMHB1ZmZSQy0teEhtVnhva9IB-wFBVV95cUxQd3ZfX0twNEl1eDdyX1NIOEtXQUg5OUhRUWtNckEyUjBjS2ZyWURmRGEyb2dRZXhTWUV0ZjV3YlhXZjZEZ2piQmdDcXRpZXcyOWUzcFNBa0pld3JIdVYxdGxtaXpYLUpPZ0tOd1piaWJ6T3hnRDZBQ3FXUkw0cmNWaTFseWFTMkNFRkVmZTRZLXhwRm9XNVkxdTFocy16MkdzSmJnNGhWVlFBZGFtNVRCVEtCX0F2ZG1hWm02YmZjcV9IZEZLQVUzWDFfZk5LOUpyR0dWS2Y3aE9xZ3FHRmtsSU1tNXZCZFdyUXVJMHB1ZmZSQy0teEhtVnhvaw?oc=5",
-        "fonte": "G1",
-        "data": "2026-11-18"
+        "titulo": "Juros elevados e reforma tributária levam Conasa Infraestrutura a adotar postura conservadora no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWHVVN3BvenhoV014ZUNDaUotZWNOSUQzcVF2MzhES01sS2FrdFhwakZWeUQ4Y244dmozRlNueE9kVDRoV284TWNzeklOZml5ZkdiZ3g1dHlzeHdEVmUyRm5kUTQ5NDFUdUFRLWlDUWNUNDl3QTl4TEZxckdWUFQzUkItaGdrOThDd0tQeHRZSjhQMkRDRnFHaW1uam9pVjF0ZHJ0ZEx0WXdpOE9lZTc4YW95bjVCOUJMWDc1OWppcHhVWlVYdWxpUEM3NEZibGVfa1B4aEdhN2xDZ0FZb2c?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-11-16"
       },
       {
         "titulo": "Concessão parcial dos serviços da Compesa: entenda principais pontos e saiba o que muda",
@@ -321,12 +308,6 @@ window.NEWS = {
       }
     ],
     "odontologia": [
-      {
-        "titulo": "Dispositivos odontológicos até 2035: odontologia digital e demografia impulsionam a expansão - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNby1HeHU3YmdORlBROGVmTEhhVjdlb3FOQ1lqVUdfc1VQbUVoNzBZazdQMm1uTjdValFCXzBOZGhhVkxQeXBqU1FPQy10VUZnQ2g4WnFKRFZURDZhSDQxbU9EYi11czFOQ1cwYkNNQUdPdWRzYkZOSmZPMG5JeHhJT25kTEJGcENDTDRfMGR4MnU3TTZMREpXeWpiS2NQTjktS3JMVGdaSjZDZXZ6d1pNaVNqa3liSWM4SGZ5RnN1Q2luV2dTcE0yT1pSTFl1U1BD?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-11-18"
-      },
       {
         "titulo": "APAE de Lages inaugura novos espaços de atendimento médico e odontológico com investimento superior a R$ 220 mil",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaV9XR0FER1V1SlZDNjB5dlM1RHZZRE94N1lCb0hlSW51bmc0WFA3cWZOQWt2TFFiaFp5WHhhOW1INkhmVnhhamxDZG9VSXdicVNDZkp6SUVlLUstQTd2WWZJWllQRmxGcU9KLU9kWVk5NHU0R2dQTW5XTm1yblFJMEo4SFZiMEJtd0JNM3RHNi04NHVSb25jTURPcGhvSi1Pa3A5RnZGYmw0d1lSUXJaUTdGRGFNWlBrdnE4bE5pS09DdFVFdWFoTHV2R1JOWWlRQ05RV1E4dlR2SkJ1Smc?oc=5",
