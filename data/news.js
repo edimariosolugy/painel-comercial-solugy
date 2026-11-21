@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-21T16:39:40+00:00",
+  "atualizadoEm": "2026-11-21T22:04:14+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -91,15 +91,15 @@ window.NEWS = {
         "data": "2026-11-19"
       },
       {
-        "titulo": "Panvel faz investimento de mais de R$ 100 milhões no Rio Grande do Sul",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOZ2thLXMxX3hyY2VPMUQtdk9OWHFpYzdEUF9nMEowRGFJanBxT0h5NDJGeTFTTlZjc2IxaU1LNUViV0tqSW4xUDdJanpEVmZMeXA0SEpFMEJXSGoxWmJZRzVJeDJhNTdCWmdfSWNLUFU0R21Zb2lYaWsxdm84bHUzNW80YVFBZWZrUWx2VVdTVHBwaWxqVFk0cXVpY1NpemdFTEwzN3B3Ml92NWwyUlZkcVVZSjExalpXZ0Y1NzdWUkhDR24zN0M3cXVOWlpXdThSZGF4OWgyam1lbDBhT2Z1Ums0TDhRdXNQRzluVC1RMzlsb1UweXJqb0UyM1Y?oc=5",
-        "fonte": "Jornal do Comércio",
-        "data": "2026-11-19"
-      },
-      {
         "titulo": "Rede TOP Supermercados reinaugura unidade com investimento de R$ 8 milhões em Indaial (SC)",
         "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMDB2VmZRRjkzbXRmVDk1cks2eFNTNEh4dUJneDZDczdUcUQyNDVSczRienc1cmlaSGNfblRTZXluVjVPTVliMHVudW0zeERXY1gtaE1ERHJpQVgyRWdnYWw0OW5INHROV2ZySEVfaF9xcTMwenFtNkY2WlQtSTlNZE9xcWIyUUFkLU15aU04UEp2VE1fVmQzWjEwbldxbkppMU5qNUhaWlhwc3dicmxEZDFlZzlpYk1MOV9ET081N3I4TEE?oc=5",
         "fonte": "SuperVarejo",
+        "data": "2026-11-16"
+      },
+      {
+        "titulo": "Puma investe R$ 75 milhões e quer chegar a 50 lojas no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTmppM1RYblFJMmlQSjVid2tZemJBVWg0ODNIOWc0bkZOT25qUG9lQnN6NzlwVEo0amFyREw5dE5mSmtWUUlDVEZ5TFlMWGE1RjdsUm5LQ1hMWTc2b2p6dmNaRXdBSTVxY2xvdmdQQllxRTg3V3BDODhHY2ZlOFRDbWhucXk1YVZ1YTBFbEJ6Mk9lUQ?oc=5",
+        "fonte": "Exame",
         "data": "2026-11-16"
       }
     ],
@@ -248,7 +248,7 @@ window.NEWS = {
     "papel-celulose": [
       {
         "titulo": "CMPC adere ao Conexão Indústria e assina termo de engajamento com a Invest RS",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmx2V2ZZNDY4XzNCWmMwVHdiS2R2R3NuTE5kX1VNTlRIdjEya21VQ3BlTXlNNTBDS3NXWUc5QlIzak95am1Ycm14endLN3RnS2JLY3R5STV3bFJrUGlvcXZVSUFwdEtVUEQySzRKMllBMmc4TDJjZ1Z6MEhGNHNHRmllMmZxZ0lMbzJuN2lrRUVYRUI3TmgyMDhzSEhUN0huaWhRNQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzB0TUg3THVPWFdMc1BkeldualhWcjdBZW5hVjljSFZTQnJMcDRaSEppMDN5ZHlfUmRJYVhKVHFfbGZiZU9YSy1tdUNzZEpycDg4VTZucnY5LWRmWk8wSVVodUhpaTNHdjhOWEZhOGxiSENQMmtKdmtaNTltam5hWlUtb083Qjg1d25HQkJCa3FaVDhDZnhHNTNlWnZmQmN0WkFnQklHZ0p6UQ?oc=5",
         "fonte": "Portal do Estado do Rio Grande do Sul",
         "data": "2026-11-20"
       },
@@ -267,12 +267,6 @@ window.NEWS = {
     ],
     "quimica": [
       {
-        "titulo": "Mercado de gasômetros até 2035: biogás e balanceamento de rede impulsionam o crescimento - Notícias e Estatísticas",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONDlZYk5OcTBUNWE0bzROemN2ZDd1MzVKbU55QXFiR3Y1ZG15eE5Id1BNZXJqMGl1d09UazMwemRWZ1I2bVZTWlUySDNLZm1fbWNBN0JpYU9qckE2dGVkZ1FzaUZabVVPQUtFN1ZScjJaWXlNdl9ieVJCT192Rk1hLW50MTBGTHVsMU1EdlRIdHl1SHJ0N21mczFJNENxb01aVXlDdDBTclBremFJNkhSSzl2YzZRMWlJZWJiODNB?oc=5",
-        "fonte": "IndexBox",
-        "data": "2026-11-18"
-      },
-      {
         "titulo": "As indústrias que dão suporte aos semicondutores encontram seu lugar em cadeias de suprimentos multimilionárias.",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTW9aV2tvblk4OEhLRVRhYXg2bTdrbzcxS0ZBRXZXNGxVWWw2S2ZUVHNtbHpjdnh1SXRjMmxlWlo5N3UzeUVUbUliejYxcy1abmVrRFFiUHMzcDVVMnpxajJMM21ZTDhORkRma0dNbkRxS0JrSTJKZ1F6TTFkZUxfNGlEb2poMC1TaHVDQmRGQ1JGUQ?oc=5",
         "fonte": "Vietnam.vn",
@@ -287,16 +281,16 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Juros elevados e reforma tributária levam Conasa Infraestrutura a adotar postura conservadora no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWHVVN3BvenhoV014ZUNDaUotZWNOSUQzcVF2MzhES01sS2FrdFhwakZWeUQ4Y244dmozRlNueE9kVDRoV284TWNzeklOZml5ZkdiZ3g1dHlzeHdEVmUyRm5kUTQ5NDFUdUFRLWlDUWNUNDl3QTl4TEZxckdWUFQzUkItaGdrOThDd0tQeHRZSjhQMkRDRnFHaW1uam9pVjF0ZHJ0ZEx0WXdpOE9lZTc4YW95bjVCOUJMWDc1OWppcHhVWlVYdWxpUEM3NEZibGVfa1B4aEdhN2xDZ0FZb2c?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-11-16"
-      },
-      {
         "titulo": "Concessão parcial dos serviços da Compesa: entenda principais pontos e saiba o que muda",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTBsNGxNenBaanBTSG5DVlFqRTg0R2V4MEhCWldiNEc5a25obmdzOTFWeTl3ckdCTFN0SkVKSUJTektXWHg2QXFnUEVVbVNPRFZwSzlRVkVkclV3OWlIQ0ozOEswdE5iRks4YVc3QlF1WmxTaWRDVjYzOUVPdnNSeE5nalk5ZDdnVmtBbzVvLVp5MTlUUnBOMDQ0VjdjX3JFaEFPcGtkdUxTejg4Z213YzU1ME5xQndLV1I4M181ejNxQQ?oc=5",
         "fonte": "CBN Recife",
         "data": "2026-11-18"
+      },
+      {
+        "titulo": "Juros elevados e reforma tributária levam Conasa Infraestrutura a adotar postura conservadora no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWHVVN3BvenhoV014ZUNDaUotZWNOSUQzcVF2MzhES01sS2FrdFhwakZWeUQ4Y244dmozRlNueE9kVDRoV284TWNzeklOZml5ZkdiZ3g1dHlzeHdEVmUyRm5kUTQ5NDFUdUFRLWlDUWNUNDl3QTl4TEZxckdWUFQzUkItaGdrOThDd0tQeHRZSjhQMkRDRnFHaW1uam9pVjF0ZHJ0ZEx0WXdpOE9lZTc4YW95bjVCOUJMWDc1OWppcHhVWlVYdWxpUEM3NEZibGVfa1B4aEdhN2xDZ0FZb2c?oc=5",
+        "fonte": "BNamericas",
+        "data": "2026-11-16"
       }
     ],
     "siderurgia": [
