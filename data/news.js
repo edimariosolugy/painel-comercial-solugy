@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-21T22:04:14+00:00",
+  "atualizadoEm": "2026-11-22T02:53:32+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -30,16 +30,16 @@ window.NEWS = {
         "data": "2026-11-16"
       },
       {
-        "titulo": "IPO da Anthropic: BDRs serão negociados na B3; veja como investir",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjRiZzRSMHJqeTNDajFsNzdEVVVjX3k4NV9iNE4yT2xXZ2phZlRnNkNPUUJvRzQyd1RsXzZjdXRPbDNncmRQY1VXbjdPaGt0aTFrRXpvd3FjOTRKOXQ5YXNGTEczQ3BSN3RjS2pkWUZnSGdVSkt2STl1RXFHb2FGeVhBUEJuTjdnUFZvWXlFeGdFaEd6SWMyeWg4RWJFWjZmTHh3SGN1bEo4YTYzdGJQTE5yUjFVN2c?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-11-19"
-      },
-      {
         "titulo": "Quer investir na Anthropic? BDR da dona do Claude vai estrear na B3 custando menos de R$ 100",
         "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNXUtZzlmMENpU1hkTXpWVlNYVFZHSGdwbEo4eUJTR25tcFFUS09GbEpEZUg1bFlzOFhEakNKbnhIeEU2bXR5ZVcya1hyUm5xdzFDNU1teUZUQXVJaldET1FqbHJQaG12M1hOa1hpV2JOOHRUa0RTdzBCS3g3bHU0blQ0LXVpX2VNYm8ycTZJWWthQWV5TllaTUZNZjdqVHlzQThIYThEUWxzVGYxXzlhS0ZSbkpLVmh5d0RJOXUxNUxfaGI3SEV2NWl6MXE5MXdhajl5MHhodWNvUkk?oc=5",
         "fonte": "Seu Dinheiro",
         "data": "2026-11-17"
+      },
+      {
+        "titulo": "IPO da Anthropic: BDRs serão negociados na B3; veja como investir",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjRiZzRSMHJqeTNDajFsNzdEVVVjX3k4NV9iNE4yT2xXZ2phZlRnNkNPUUJvRzQyd1RsXzZjdXRPbDNncmRQY1VXbjdPaGt0aTFrRXpvd3FjOTRKOXQ5YXNGTEczQ3BSN3RjS2pkWUZnSGdVSkt2STl1RXFHb2FGeVhBUEJuTjdnUFZvWXlFeGdFaEd6SWMyeWg4RWJFWjZmTHh3SGN1bEo4YTYzdGJQTE5yUjFVN2c?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-11-19"
       }
     ],
     "automotivo": [
@@ -248,7 +248,7 @@ window.NEWS = {
     "papel-celulose": [
       {
         "titulo": "CMPC adere ao Conexão Indústria e assina termo de engajamento com a Invest RS",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYzB0TUg3THVPWFdMc1BkeldualhWcjdBZW5hVjljSFZTQnJMcDRaSEppMDN5ZHlfUmRJYVhKVHFfbGZiZU9YSy1tdUNzZEpycDg4VTZucnY5LWRmWk8wSVVodUhpaTNHdjhOWEZhOGxiSENQMmtKdmtaNTltam5hWlUtb083Qjg1d25HQkJCa3FaVDhDZnhHNTNlWnZmQmN0WkFnQklHZ0p6UQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQmx2V2ZZNDY4XzNCWmMwVHdiS2R2R3NuTE5kX1VNTlRIdjEya21VQ3BlTXlNNTBDS3NXWUc5QlIzak95am1Ycm14endLN3RnS2JLY3R5STV3bFJrUGlvcXZVSUFwdEtVUEQySzRKMllBMmc4TDJjZ1Z6MEhGNHNHRmllMmZxZ0lMbzJuN2lrRUVYRUI3TmgyMDhzSEhUN0huaWhRNQ?oc=5",
         "fonte": "Portal do Estado do Rio Grande do Sul",
         "data": "2026-11-20"
       },
@@ -281,26 +281,19 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Concessão parcial dos serviços da Compesa: entenda principais pontos e saiba o que muda",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTBsNGxNenBaanBTSG5DVlFqRTg0R2V4MEhCWldiNEc5a25obmdzOTFWeTl3ckdCTFN0SkVKSUJTektXWHg2QXFnUEVVbVNPRFZwSzlRVkVkclV3OWlIQ0ozOEswdE5iRks4YVc3QlF1WmxTaWRDVjYzOUVPdnNSeE5nalk5ZDdnVmtBbzVvLVp5MTlUUnBOMDQ0VjdjX3JFaEFPcGtkdUxTejg4Z213YzU1ME5xQndLV1I4M181ejNxQQ?oc=5",
-        "fonte": "CBN Recife",
-        "data": "2026-11-18"
-      },
-      {
         "titulo": "Juros elevados e reforma tributária levam Conasa Infraestrutura a adotar postura conservadora no Brasil",
         "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOWHVVN3BvenhoV014ZUNDaUotZWNOSUQzcVF2MzhES01sS2FrdFhwakZWeUQ4Y244dmozRlNueE9kVDRoV284TWNzeklOZml5ZkdiZ3g1dHlzeHdEVmUyRm5kUTQ5NDFUdUFRLWlDUWNUNDl3QTl4TEZxckdWUFQzUkItaGdrOThDd0tQeHRZSjhQMkRDRnFHaW1uam9pVjF0ZHJ0ZEx0WXdpOE9lZTc4YW95bjVCOUJMWDc1OWppcHhVWlVYdWxpUEM3NEZibGVfa1B4aEdhN2xDZ0FZb2c?oc=5",
         "fonte": "BNamericas",
         "data": "2026-11-16"
-      }
-    ],
-    "siderurgia": [
+      },
       {
-        "titulo": "Gerdau e Gustavo Werneck são líderes em reputação na indústria do aço no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUYxTzU0NDlORjZGUG4tRDVJUk5jbGEzY3FGSWdaZmpoQXdNblFNbjZUU3JvUEU3ei1ybEZyc3k1ZFowRGJ0Q1VxRTZlRlNTc3owYVdWMU9RWDZoLXVtNHV3TG9HbG15dTVILWpTNHlRcVdKS3BpaFZFdV9uMXJhWHo2MHV3Sk9ROXZHbVhlZGFXb1pjTUtROG9ocnNsNDNpbGxPQk5RZlpPNTVXNVVJY0d0dXQ3WFY3ZmExam1kdUJfQQ?oc=5",
-        "fonte": "Gazeta da Semana",
-        "data": "2026-11-19"
+        "titulo": "Concessão parcial dos serviços da Compesa: entenda principais pontos e saiba o que muda",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPYTBsNGxNenBaanBTSG5DVlFqRTg0R2V4MEhCWldiNEc5a25obmdzOTFWeTl3ckdCTFN0SkVKSUJTektXWHg2QXFnUEVVbVNPRFZwSzlRVkVkclV3OWlIQ0ozOEswdE5iRks4YVc3QlF1WmxTaWRDVjYzOUVPdnNSeE5nalk5ZDdnVmtBbzVvLVp5MTlUUnBOMDQ0VjdjX3JFaEFPcGtkdUxTejg4Z213YzU1ME5xQndLV1I4M181ejNxQQ?oc=5",
+        "fonte": "CBN Recife",
+        "data": "2026-11-18"
       }
     ],
+    "siderurgia": [],
     "odontologia": [
       {
         "titulo": "APAE de Lages inaugura novos espaços de atendimento médico e odontológico com investimento superior a R$ 220 mil",
