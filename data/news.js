@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-24T20:00:48+00:00",
+  "atualizadoEm": "2026-11-25T03:59:19+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -10,16 +10,16 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
+        "titulo": "Transporte de cargas no Brasil precisa de investimento de 2,2% do PIB ao ano, defende setor produtivo",
+        "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZXpXOEFyU2VZSTRNZW1sOEE4REtmTlpST0Q0eGtTc0xzQzU5aUp4WVc5QTcwVzBZSkphM1pSVmJQQ2o2bG5CZW9vdWlkdUNBeHdycXZvWlVXUHMyWjh6cUU1MWEzcDlhcmxILUJoSmJaM0k3QTdkSlVKUHNRY2c2V25xUnh1MGk5QjdTMm1Bbi1XN1JXLS1BT3dlUkdWTF9DQktaVWk1WkVTWmtHUXZBTjNNTDZrYjdiQm1ET0poYUs3WTlUVGFVYjk1dHhtcUVOanU1cFpfbWI5SFJwMXJ1VWtCWEJjNnJtNzgtNXgyQ2FUNXMyM1BrTU9uakpFLTFKa0J4RjFWZnNMVXlxU0RYcw?oc=5",
+        "fonte": "Portal do Agronegócio",
+        "data": "2026-11-23"
+      },
+      {
         "titulo": "Tarcísio cobra previsibilidade para o agronegócio em evento em SP",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUxuUm1RU0dJVEQtS053S2RsenBiTHlFeWpfbjZ2bjNmRVBWTmhCd3dSckxETnJ5Skx4UWE1Q3lUYXVyNGxjYXRHdTd0ZGRFVjEzT1M0SzdjU0ZqQXVoel9oQVJfVG1Ga3pmSnNRNFdOa2RGOWNrYzVacTNlSWRhaW1MRVZ3VTNiRE4wZHVqMmxocjEyZkcxZzFobVBQY2ExUXc?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-11-23"
-      },
-      {
-        "titulo": "SNA e CVM reúnem especialistas para discutir novas formas de financiamento do agronegócio brasileiro",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcnNndTNENGEyV1Q2OFZTRUFIbThGempjZTlicnlWY2pBU0VrdWNDTDFzYmlRNkI1c2g5UVFLa2J6MGFPSmN2dGlIb3VfQ2FNTk1DcVotN3VFcDA0dERkN21uMGVSbUp4TG0xY0Z3RWI5Z2F3dFlDcGJjOHlLOWx1V2xPeURrbU1Rdi1nQlYyYVgzeDFrRXhwOHViS0o1V2g1b2xDbTExc0t3S01zTlUzZDF1ZjdvZTdDVXRKa19SVGU1dnVYVkRqc2RyUlc2MFkzRUV5eA?oc=5",
-        "fonte": "Agência Incomparáveis",
-        "data": "2026-11-20"
       }
     ],
     "alimentos-bebidas": [
@@ -36,9 +36,9 @@ window.NEWS = {
         "data": "2026-11-24"
       },
       {
-        "titulo": "Ingredientes alimentares movimentam negócios bilionários",
-        "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9fQU43ZDdIazhqSUxsTklFTmRsZ0RCUnBwZ3Z4ZmtnUUc4MC1lY1I4Zk9rMHktcDlsQ3N6b3RpODdSMV9yUkd3RG15SHZtZU9MdUUxeXR3MjFkbTd5OFFvNkFUU1U?oc=5",
-        "fonte": "BHB FOOD",
+        "titulo": "IPO da Anthropic: BDRs serão negociados na B3; veja como investir",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjRiZzRSMHJqeTNDajFsNzdEVVVjX3k4NV9iNE4yT2xXZ2phZlRnNkNPUUJvRzQyd1RsXzZjdXRPbDNncmRQY1VXbjdPaGt0aTFrRXpvd3FjOTRKOXQ5YXNGTEczQ3BSN3RjS2pkWUZnSGdVSkt2STl1RXFHb2FGeVhBUEJuTjdnUFZvWXlFeGdFaEd6SWMyeWg4RWJFWjZmTHh3SGN1bEo4YTYzdGJQTE5yUjFVN2c?oc=5",
+        "fonte": "CNN Brasil",
         "data": "2026-11-19"
       }
     ],
@@ -116,10 +116,10 @@ window.NEWS = {
         "data": "2026-11-19"
       },
       {
-        "titulo": "O trabalho por trás das prateleiras",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcl9KWklqb3pDV3pLbnMxUFprbExXUGJKNUliNnNlSjBpU1AwMDJnYkcyb0RMa2FQM3pCSUxIbzlrel9keTRpR0ZLSFlrOUpGeGFnbV9CQUpURm9nY2xaaHJiWW1DTTRLbjcxQWlLSExrQll6TXpyS3dLLWtCbnM1dmd0ZHVvemdqOGV3bW1YVnVnb0xhajVrckVvdjdUc0xkRE1pcl9RbF8?oc=5",
-        "fonte": "Correio Braziliense",
-        "data": "2026-11-21"
+        "titulo": "Stok Center inaugura primeira loja em Camaquã no RS",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeERvX25hSnZldDRwU1BYbjc2N1AwMkNrSk5wcnVtSzRTWUl6aTRqdTFSbDNXTUxSMGk2czIzRlBsMkV2OGlrUDFINXpBMGRMZHR3bzdISC1rUUpTUmFWd1cwazRVeXhXZzRVX0M2eVN0cS1ZTm9PZnlEUVVCT3N1NQ?oc=5",
+        "fonte": "Grupo AMANHÃ",
+        "data": "2026-11-24"
       }
     ],
     "energia-gt": [
@@ -171,10 +171,10 @@ window.NEWS = {
         "data": "2026-11-24"
       },
       {
-        "titulo": "Evento debate os desafios para ampliar a inovação farmacêutica e o acesso a novas tecnologias no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQzZLUnc4elFXZTFwaVZjQy1kakREUHpGUmR3aDdiWXFQYU9mYURxRUFYSkQ2NV9kVWdKUXUteC1ZQl9PZXZKR3VFWVpsRGFfU2NHeE1ZUzloc0tfTk5WUVFYQkR1d2tZam5EOEozQ1gtWUwyQVczWUtaOFRiYmY0dnJUWEZiM3ktWmc?oc=5",
+        "titulo": "Anvisa reafirma vedação à venda de medicamentos de marcas próprias por farmácias",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjBnVVJqUmxhblFsTXJFNk1nVGxmbS02c0YzM0JMTkc0UnZwc1hFOEVaUXNzckdUWVJ4UVNLTmkwckpTN2g3QTl5dldxNWlrUXA0di10REtOWWk0UHZjVmYwRVRLbWxOZENFd0pQeVBWM2M3Z3llMEZWWFZvSTgyNVVQalNZb2JPcnlmbWJmSHRNUQ?oc=5",
         "fonte": "Futuro da Saúde",
-        "data": "2026-11-17"
+        "data": "2026-11-19"
       },
       {
         "titulo": "66% das farmacêuticas planejam investir em P&D nos próximos 3 anos",
@@ -212,16 +212,16 @@ window.NEWS = {
         "data": "2026-11-23"
       },
       {
-        "titulo": "TCU autoriza retomada das obras da Transnordestina em Pernambuco",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYU1Ca3dTREtZRG1mazg1R1dNWGxtSTJwRlN1ZkgxSGFVdkFHTGp3RjU0SHV6UzJSN0gzQ1RVUTlZb1JCclF3Z25rRldDM05GWkpkNVF0Z3VJZnEtbkR2YVRTMnZVblBrNU05V0J3ZHBQTVdYN0Y5dEZfeVBVMXpIVW1kYU1INEFKQUNRVnU2V3FZbkRSVjY3TFhWV0F0SUpXNTdwTUxxY1hEQ1VWbHp1ejFudmdFTGU3S3prUnY2cThTWkZmYXc?oc=5",
-        "fonte": "www.gov.br",
-        "data": "2026-11-18"
-      },
-      {
         "titulo": "Setor produtivo defende elevar investimento em transportes a 2,2% do PIB",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3JXVVNDVkdKY2NmVGQ4aEZPaDR1VG1neEtFZU5zNzNoTTBGbnN5S24zUlF0TEtyV1ZsaENIU2Ewanc5enRMYjdPQmxjLWJtekhHblhWOTM5a1dOeDdQcmhHczkwX0hUczhWVkRKXzZycEFDeUpLQkFmNk9veVc4ZG5Pdlp0VTlPWmMwenhnYXZMWmRQR1BKUnhFUEE3dEVTXzlscTlnV1o3Z0lKdndmRVpaMkk0WmN3QXFJc0JxQmtKUHI2ZGdFN3lkQ0FIeUJVY1E?oc=5",
         "fonte": "Tecnologística",
         "data": "2026-11-23"
+      },
+      {
+        "titulo": "Montagem da grade da Transnordestina para terminais prossegue no Porto do Pecém",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFVsRjhEdjRmNGxJZ0NYQ2JjY2xDSGxocHVwTmlfRHJYNi1Xcml3dmgwV1JKeTY5T3VMUVlsNkhBRjdLNGhaMTVhTFBjUzI5d2tIMHgwNEQ1c0tMOVhjSXZuUmxWMmtWb0N0cHdfc3hLT1pBNHJGeGpHdTZic1VyeE5WbXJjbHBuX3N1aWljUXFYdW5fZGZ1blI1QWJxTzRFMEFTVjJuOFpOQ0szRERKOFBKWWRkcHBySXlR?oc=5",
+        "fonte": "TrendsCE",
+        "data": "2026-11-24"
       }
     ],
     "maquinas": [
@@ -238,10 +238,10 @@ window.NEWS = {
         "data": "2026-11-18"
       },
       {
-        "titulo": "Lutepel completa 30 anos com evolução industrial e investimentos em eficiência e sustentabilidade",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRzZtMUZuLWltaGRrMnZxX0dmZk5HdV9XVGtXdFJpWXVCWEhZS09EbHM4dTFwM25DTk9UQ1pTVVc4MVpXRGUyRk9pcU02VndEcjhDTEE2LTJUTUdlck9HaTdxVG9tVWRmRzJzbEU4OTZPVnlTTk42UlgtUV9KOTVGT2Zwd2tNQm1xVGp6azlLb09aUkpRVW84eHVOSzNUV0VhVFp0REtaRE9fSWt6SnV5UXhxM25McjR6VWdqRWlIR3dteGJI?oc=5",
-        "fonte": "Tissue Online",
-        "data": "2026-11-18"
+        "titulo": "Agência de Comunicação - O que a queda na produção de máquinas diz sobre o investimento das empresas",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaF9RQTJ1Qng0dFlqYzZIbXdLX0ZmSGJCOE1lS2lCekVIemRILVNYUU55Z0dYUnNGeWN5SC14a3R6azhHaE9OZHFfOTAzTVZhcEJGbTNXUEpkOWdwY1hhbEloN2tQUmI0RmtlNGxVU3lienhqaXpiZEdsdFJuX1Y1RUJ4dU9zNFZhRnhCMmE5SWdidmFXQnRNQkZwcWFpNkRkX3ltVF9Ca0JtV2w2d0xKQTJSakM2V2NzQlFkWTlPcnlWbGxURXR6ZjROMHMtenBNN2FJLVJ0RWRWX1NmNU40clFOTTVzSlZRcHFxVWZCNERRdw?oc=5",
+        "fonte": "Estadão Blue Studio",
+        "data": "2026-11-24"
       }
     ],
     "mineracao": [
@@ -290,16 +290,35 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPVWN5NmFUbVNuTTNmZHJtTEgyc2c5eEVySFhSQUdZS2ZEeklKZDJVemdoaWppZ1lEWS1hVGR3aEpuMndlTHJ3b2QwNWRDc1k3bTRzZjBxNzlEZkhtUEpWZjdQQS1IX1B4RnFmVmYzdFludGZwaUNtUkNma2J3eE9zS1NZdUQyTDk4Ui1INm02RDJPUFFaVDFRZjJDSDBqTFgweElWdzFZUEVMN2lLX3FTMzlPbTFfMlFvcmFtRGlvVHNmelo1UDExUnBzWlUyNmhGSmpmUWc5ZG5iRlRydzBaRkdFVlBVcjFKbFQ3N01uUkJLQQ?oc=5",
         "fonte": "IndexBox",
         "data": "2026-11-24"
+      },
+      {
+        "titulo": "Bac Ninh: O \"canal verde\" desbloqueia os fluxos de capital de investimento.",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB0N0Vsb2ZWSmZpMjdsVU5tbVAtaHZ0aWRqY1pfY1BNdFhHb1lWQmd0X3VuMFpHOEVxVHVfUVduXzFVcDBtYW9fRmVUT05QMVVEcExFR3JacUZoaUNWUGhVUzgtRXlmaDRmOVpJTllwRkVRU1hPWFd3RG1yUHQ?oc=5",
+        "fonte": "Vietnam.vn",
+        "data": "2026-11-25"
       }
     ],
-    "saneamento": [],
-    "siderurgia": [
+    "saneamento": [
       {
-        "titulo": "Gerdau e Gustavo Werneck são líderes em reputação na indústria do aço no Brasil",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUYxTzU0NDlORjZGUG4tRDVJUk5jbGEzY3FGSWdaZmpoQXdNblFNbjZUU3JvUEU3ei1ybEZyc3k1ZFowRGJ0Q1VxRTZlRlNTc3owYVdWMU9RWDZoLXVtNHV3TG9HbG15dTVILWpTNHlRcVdKS3BpaFZFdV9uMXJhWHo2MHV3Sk9ROXZHbVhlZGFXb1pjTUtROG9ocnNsNDNpbGxPQk5RZlpPNTVXNVVJY0d0dXQ3WFY3ZmExam1kdUJfQQ?oc=5",
-        "fonte": "Gazeta da Semana",
-        "data": "2026-11-19"
+        "titulo": "Carteira de saneamento para 2027 anima mercado após ano de frustrações",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclR0eEJmekxIdUZycnlPWC1QYTFYODNhdWY1THlJWmkxUENOSGlQX0R5MlNPaF9yblhGSGZxZFd3c0pkdzVwZHRMb2hxck5idGFZQzBaZVNUVU9tMVlPaWJXUUFmNHJGcHFWbElET3pQdW5Tam1CbkF2NnlQUWZHZmpFRU0xSlZ3SEVOYlFRdFUtdzZpVjJNeG1XbUNyLWU3QmpxR0hzREJIZw?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-11-18"
       },
+      {
+        "titulo": "COMPESA INICIA NOVA ETAPA DO SANEAMENTO EM PERNAMBUCO NA PRÓXIMA SEGUNDA-FEIRA (23)",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORWhtdDZiMkVKd1pvaU8xNzJFYTZMMkRpRnZtNEdTV2lfZG1DQl9xcE96b3ViNTBKRmE0MmRSeU5qMFFJMG1KTkJ6OG1WaWdjM09va3U2Ri0yMnBDTlNqS0hZY0FqTmNaT3E4dTNxUmtlVzJhdV9nbjRUYzVjZG9TVzdVWGZ4eng2N19KNG5fWXgwN01FbVY3eGEwSWJEcE9QRHZ1R2xHcHZ5VTB6M2RtbDBkOVQ?oc=5",
+        "fonte": "Compesa PE",
+        "data": "2026-11-18"
+      },
+      {
+        "titulo": "Concessão parcial da Compesa começa a valer na segunda; veja o que muda em serviços e atendimento",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONTFWakJ2akhTY2h4YnM2X1hQWEIyWTFNZmFpMHh6bmZoR1Y2V1ZaT2pkVFNLMkQ0RXZXX1dlN0ZybEpPczJFU2tjT080WkVWSm9tMXluVjRxZ2tIS3M5aElrQnk4eG9mMXpUZDZLSktORlVCTmFWeEY5NzZjWEZPN285bjNkQXIzNFFSWnZySG4tZHlmbnlvQm4wOUFpWDhyWTJNc1JKOWszZWo1djdCRG5oazhlZHp2VE5KMlp4cFI5bVZhVUpXYVI3cFV4N3hDMHNKWmZqSTYzZlVsM09NR0kzSGptRFM1MVIyVNIB-wFBVV95cUxQd3ZfX0twNEl1eDdyX1NIOEtXQUg5OUhRUWtNckEyUjBjS2ZyWURmRGEyb2dRZXhTWUV0ZjV3YlhXZjZEZ2piQmdDcXRpZXcyOWUzcFNBa0pld3JIdVYxdGxtaXpYLUpPZ0tOd1piaWJ6T3hnRDZBQ3FXUkw0cmNWaTFseWFTMkNFRkVmZTRZLXhwRm9XNVkxdTFocy16MkdzSmJnNGhWVlFBZGFtNVRCVEtCX0F2ZG1hWm02YmZjcV9IZEZLQVUzWDFfZk5LOUpyR0dWS2Y3aE9xZ3FHRmtsSU1tNXZCZFdyUXVJMHB1ZmZSQy0teEhtVnhvaw?oc=5",
+        "fonte": "G1",
+        "data": "2026-11-18"
+      }
+    ],
+    "siderurgia": [
       {
         "titulo": "ANUÁRIO DO INSTITUTO DO AÇO REVELA QUE DESCARBONIZAR A PRODUÇÃO DE AÇO NO BRASIL ESTÁ EXIGINDO MAIS ENERGIA",
         "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQRENyOFZobkZZRWxmWHpObmF3c3QxbDhUb0tiV3ZOd0s1cDFZcFlVdzMyaU56WTNwMjE2SFQyRzR0WElzZDloNlZjRU1GVlVkek41d2ZHNDY4RG5DZHpLSURzVUExOVFpMmszU0tmTXZhdVpKNkZDYXFIQkZRb1ExNjM4TTd6YlZPaEhjejdLclNFOG1YS21uSm1JMnp2bFBtU1VqNkNYVXZvM05OX0h1djJvczdtYmg0U2ZkZ2l5Ukg0T0N4UERhc0xiWU8za3FmMWRqVDZIX3dwZw?oc=5",
