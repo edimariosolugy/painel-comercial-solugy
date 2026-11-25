@@ -1,14 +1,8 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-25T03:59:19+00:00",
+  "atualizadoEm": "2026-11-25T19:01:03+00:00",
   "itens": {
     "agronegocio": [
-      {
-        "titulo": "Mapa lança portfólio para orientar parlamentares sobre investimentos no agro em 2027",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRGdUWU5DYzlZTzNsdy1GOS1ZYS16TEJRYXl1a0NBRVVHUjgtd2g0OGJ3Tl9QN2JVeThMN3FlRWVxdE9RUkp0VnJacXVlUU9SeXZsNi1xcjV4d0swRkJpeE8xNm9RaWlkV1o5QmozZkVsWW9zRFFHbjBoYUtPTzhISmFwVThtSnlieVU0NXVwUXViZTVORnplREpMMVQzWEVxQnY1cVJMNk1MaG40Q29La0pDQmNZYlppajU1M0lCNVZNeS12OGpGTmlyNlFJRUY5MjQxWEdlTmsyUDhP?oc=5",
-        "fonte": "Governo Federal",
-        "data": "2026-11-18"
-      },
       {
         "titulo": "Transporte de cargas no Brasil precisa de investimento de 2,2% do PIB ao ano, defende setor produtivo",
         "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOZXpXOEFyU2VZSTRNZW1sOEE4REtmTlpST0Q0eGtTc0xzQzU5aUp4WVc5QTcwVzBZSkphM1pSVmJQQ2o2bG5CZW9vdWlkdUNBeHdycXZvWlVXUHMyWjh6cUU1MWEzcDlhcmxILUJoSmJaM0k3QTdkSlVKUHNRY2c2V25xUnh1MGk5QjdTMm1Bbi1XN1JXLS1BT3dlUkdWTF9DQktaVWk1WkVTWmtHUXZBTjNNTDZrYjdiQm1ET0poYUs3WTlUVGFVYjk1dHhtcUVOanU1cFpfbWI5SFJwMXJ1VWtCWEJjNnJtNzgtNXgyQ2FUNXMyM1BrTU9uakpFLTFKa0J4RjFWZnNMVXlxU0RYcw?oc=5",
@@ -20,6 +14,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUxuUm1RU0dJVEQtS053S2RsenBiTHlFeWpfbjZ2bjNmRVBWTmhCd3dSckxETnJ5Skx4UWE1Q3lUYXVyNGxjYXRHdTd0ZGRFVjEzT1M0SzdjU0ZqQXVoel9oQVJfVG1Ga3pmSnNRNFdOa2RGOWNrYzVacTNlSWRhaW1MRVZ3VTNiRE4wZHVqMmxocjEyZkcxZzFobVBQY2ExUXc?oc=5",
         "fonte": "CNN Brasil",
         "data": "2026-11-23"
+      },
+      {
+        "titulo": "SNA e CVM reúnem especialistas para discutir novas formas de financiamento do agronegócio brasileiro",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcnNndTNENGEyV1Q2OFZTRUFIbThGempjZTlicnlWY2pBU0VrdWNDTDFzYmlRNkI1c2g5UVFLa2J6MGFPSmN2dGlIb3VfQ2FNTk1DcVotN3VFcDA0dERkN21uMGVSbUp4TG0xY0Z3RWI5Z2F3dFlDcGJjOHlLOWx1V2xPeURrbU1Rdi1nQlYyYVgzeDFrRXhwOHViS0o1V2g1b2xDbTExc0t3S01zTlUzZDF1ZjdvZTdDVXRKa19SVGU1dnVYVkRqc2RyUlc2MFkzRUV5eA?oc=5",
+        "fonte": "Agência Incomparáveis",
+        "data": "2026-11-20"
       }
     ],
     "alimentos-bebidas": [
@@ -36,10 +36,10 @@ window.NEWS = {
         "data": "2026-11-24"
       },
       {
-        "titulo": "IPO da Anthropic: BDRs serão negociados na B3; veja como investir",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSjRiZzRSMHJqeTNDajFsNzdEVVVjX3k4NV9iNE4yT2xXZ2phZlRnNkNPUUJvRzQyd1RsXzZjdXRPbDNncmRQY1VXbjdPaGt0aTFrRXpvd3FjOTRKOXQ5YXNGTEczQ3BSN3RjS2pkWUZnSGdVSkt2STl1RXFHb2FGeVhBUEJuTjdnUFZvWXlFeGdFaEd6SWMyeWg4RWJFWjZmTHh3SGN1bEo4YTYzdGJQTE5yUjFVN2c?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-11-19"
+        "titulo": "Embrapa Cerrados e Federação das Indústrias do DF articulam cooperação técnica para impulsionar bioeconomia e simbiose industrial",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNemplSnNpVXZlMFlNai1Kc1hPcU5xSGVMSnh6MTJkZkRqcFRld0ppZmFUYnN1emllOG5zMXpuRkRyaUxRZ1ZNdTIxZWpLeTRBOWlzMndtSVlNbTdnLXEwNG13QmJrQndxTUh4djlVcUhtSU5qdjduUDJpMEFra0hPTUpSSVRVRmtkZTJjUDdXOWM4TmRKLW1kMnNiNDR1R1JqTzV3aXJQbjVNd3ZpZ1lPUnFMdHFWcTJLR1FCUFpuMzBRZ2tBMTMyUWpSUlhxM1ZrMkRtREZpckhGb0xwUWdDX2ZtQkMyN0tOZDVUenBiQWpiZw?oc=5",
+        "fonte": "Brasil Inovador",
+        "data": "2026-11-20"
       }
     ],
     "automotivo": [
@@ -64,8 +64,8 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
-        "titulo": "Com Petrobras como sócia, Cerradinho quer ampliar etanol de milho em cerca de 80%",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVERRRC1CeFFnc0pMRTNpV1Z6YXRkWHNnUFgzRVNVaTZSWTlTeEhpU2lvV3IyR3lMdTJsZGdOR1llR3d4bXJCZ2VfLWJIMzVNNkNMMDBMRzh0bFJ5Szd3YWRsaTNScE9pUjRWMHg3OEFMVFVFNC1lWVM4ZWNtMVZPZmo3by1WZUUxcjExRTlaV09jbTJ6ZlM2dFEta1NyY2cxdkh5Yzk1SjlDMHlwel9qb0xaSQ?oc=5",
+        "titulo": "Petrobras buscará outras empresas de etanol de milho após compra de fatia na Neomille",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFkzaHFwdG83a28xWWdXbjF0R3hxM3NfcGxnalUtclhwbVh0TXJyYzhhWnpMSEJqaWhjZGJDXzJaUU5Vemhyb1ZJSzc5VFdablpJLWZyNHRYaDFVeWM5WVBxRUt1WEd4ZGUyR1hMRGRfNTVzOFRkb3JZWnkzSEFWUVM2STlDWkxEa3lhUEpOUjYwUXQtWDYtMnljbndONm52cnNtUklKSEVOelhzc05pUWxFbVIxTXh5cW5j?oc=5",
         "fonte": "NovaCana",
         "data": "2026-11-24"
       },
@@ -76,8 +76,8 @@ window.NEWS = {
         "data": "2026-11-24"
       },
       {
-        "titulo": "Petrobras volta ao mercado de etanol com aquisição de fatia da Neomille por R$ 2,8 bilhões",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU1PU1FrWENNb05PU29qeTlJVVZuVklXSml1M1hZdWZfLUh2d0RobV9NOHlEU1pRR3NYWlNfSG5seGhVamc1c0c0UkwtSjRZN1V3cTQwV1dLdG1KcFB3Wi1hOE82M1VDcnZ0WktxN29HcDJlcThtWkE4SlE0TkVoa1RpYnRmdy1vRXM5N0FpNG16cF9oOFpnbUJzckhWMU5ZX21uVkFzQVQ2cU1jYWd1VEVrNFUzU3doMV9jZkw4ZDc?oc=5",
+        "titulo": "Com Petrobras como sócia, Cerradinho quer ampliar etanol de milho em cerca de 80%",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVERRRC1CeFFnc0pMRTNpV1Z6YXRkWHNnUFgzRVNVaTZSWTlTeEhpU2lvV3IyR3lMdTJsZGdOR1llR3d4bXJCZ2VfLWJIMzVNNkNMMDBMRzh0bFJ5Szd3YWRsaTNScE9pUjRWMHg3OEFMVFVFNC1lWVM4ZWNtMVZPZmo3by1WZUUxcjExRTlaV09jbTJ6ZlM2dFEta1NyY2cxdkh5Yzk1SjlDMHlwel9qb0xaSQ?oc=5",
         "fonte": "NovaCana",
         "data": "2026-11-24"
       }
@@ -142,28 +142,15 @@ window.NEWS = {
         "data": "2026-11-19"
       }
     ],
-    "solar": [
-      {
-        "titulo": "Iguaba Grande recebe usina fotovoltaica da UFF com investimento de R$ 10 milhões e aposta em pesquisa e energia sustentável",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUzhnNHlvWFRVSEFwZEtUTmdPZEhKNUJmQnQxOGZzVk80S0pQSHpqSzBDQmdKVmk3VE9tb1hfZVJMTHF2V2RCM3pVNTVSdW9ZbXlYRmU2V292MnRISWxfMUlndlg4dmZsYy1sWGs2QVlSQTlVSi13emNOTHFLUU13UUtZU243VE9jQjJWQmk2dUU3RFJ6N1NjMXItZ0YtcU9SQ0ZFTmhJei05ZW9VMUJUWFdjcEZNOElCQjJYTlFrd3BJUS1BaEQ0UHdYYzVaSGlpeVpPdGo2d2p3Z244VV9PYTFn?oc=5",
-        "fonte": "Prefeitura de Iguaba Grande",
-        "data": "2026-11-23"
-      },
-      {
-        "titulo": "Energia da Nação: Flamengo firma parceria e leva energia renovável com desconto ao torcedor rubro-negro",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPR1o0WHE4THhaSDYwQXdOSGdCOHdWQktNQmZnZVZCalFadlJfRUY2QmpUTzlmTl9iNldJa0JzdW0yN2RCaVAyOEtNQUlzRXk5MjVvcENsMUJQZHdFT2lwcEx5dVN4c0tXVTlIdkcxay1uTTlwQzRxT0p5UGtIb3daWFdVYkhEWXJUTVRPc3FXVzBxMXI3T2NZejg1TWN5XzQ3Ni1VRmg1ZmpMcmhLcGpGOGZzWC1ON2hoR2dYMWMyTlF6Y0xMbFdvRGlLaTNVZHItbE5lenpQOVF4UHo4bGZSazdPSjlVWDYw?oc=5",
-        "fonte": "Clube de Regatas do Flamengo",
-        "data": "2026-11-23"
-      },
-      {
-        "titulo": "ABSOLAR nomeia Tiago Soares para diretoria técnico-regulatória",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PdVRXWXJUajFCRHlJM0RYc0xTYmZ2U1Y3bmxnYkl6YW9rYzdWbjQ2cXgxbEZHUFhvQVVkQllTUGZJN0ZuSVhNLVRaVC00eVRZTC1PQU10OGFGaXRHVEM0eFBxQ1J0a2M0SngxUmFUQVJ2VDVseDJB?oc=5",
-        "fonte": "Canal Solar",
-        "data": "2026-11-23"
-      }
-    ],
+    "solar": [],
     "epc": [],
     "farma": [
+      {
+        "titulo": "66% das farmacêuticas planejam investir em P&D nos próximos 3 anos",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQN3pqVVk5WW1XY21tOWhQVl94LVpWY1lkVWRiSEpJeGp2V2JuOUNkdkg2cEh2V1YtNUhnSjN6VkNmb1AyLVZPN0VlZkZnNW9OaXlQbnhUeWRHTU1ZMFdLcmR6bkNPN2daM0w1aGMtMnVnWkcyR1hjRC14dU1BckF6dFZRLWJEcGVxeUs5YnlQaElhamcyQmxRemlRTnZ3djg?oc=5",
+        "fonte": "Abradilan",
+        "data": "2026-11-19"
+      },
       {
         "titulo": "As empresas farmacêuticas de melhor reputação no Brasil",
         "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNakRiODJSMG83bUc2QnFVOXRVejNYMUJZem5nOFZBUEpnZDlLN2Z4enlTWkxZdjRjZFdUUkZfZndmQmRiT1pNVlR5YkU3WTF5VDRPbHY3c2R4TnpuYlRXZVZCbWoxUmNzMDN1RkNLZWVWNWlrcE5yMVQybGZ6SGcyLVBiNDdFdDRTd1RONDBYTWpaRlNVenpicjlNWVJSVjA?oc=5",
@@ -171,16 +158,10 @@ window.NEWS = {
         "data": "2026-11-24"
       },
       {
-        "titulo": "Anvisa reafirma vedação à venda de medicamentos de marcas próprias por farmácias",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMjBnVVJqUmxhblFsTXJFNk1nVGxmbS02c0YzM0JMTkc0UnZwc1hFOEVaUXNzckdUWVJ4UVNLTmkwckpTN2g3QTl5dldxNWlrUXA0di10REtOWWk0UHZjVmYwRVRLbWxOZENFd0pQeVBWM2M3Z3llMEZWWFZvSTgyNVVQalNZb2JPcnlmbWJmSHRNUQ?oc=5",
-        "fonte": "Futuro da Saúde",
-        "data": "2026-11-19"
-      },
-      {
-        "titulo": "66% das farmacêuticas planejam investir em P&D nos próximos 3 anos",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZ0k5aUVQRUFBZDFHbGd3aWZnem9LaXJTRW04N3NTZXZGd3hjSWd4Z282Z0xjTDJFb2w4WmpsU1ZIT0lWYnN0YS1leUIyODJBcHpyckhkNHc0UjNTUmJJWi1UbVVIdWsxMFkzNUN3VnNJSjBWdHI0VTFydnludHVrajZKRmptZzFYMGdMV0RGNnVyLW9uUmtsVXFxZw?oc=5",
-        "fonte": "Guia da Farmácia",
-        "data": "2026-11-18"
+        "titulo": "Médico que troca a tirzepatida manipulada em farmácia de estéreis pela contrabandeada arrisca a carreira por R$ 200, diz consultor",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjdfTHhDQTVWM3hYWkJFY2ZHQV9sRmJsQk9aN2UxTUw3ME9GYWhHUkJ4Q1JmbWRWZVVTTkRYNnJJWWdIcVcxaUp0NjNfNFM0WWl3RUlfTWIwUWE3OGx4Q2FPWmltZG0yTVM5R3VTVVhJRHN1czJ4XzBBMGZ5cWU2Z25WS095NEhkM0h6a2R3OFhaZXRPT2xjOXlXVmtVQWRwSzRQdmV2Q1NjS3BYazRYRkRXYjdVRUF6U3d0anVLTldTVUU5X0Q5aC1YaDdWTmp4aGtSbG96UGhfaVFCNmpUZjVEVHRVVnhUX2VWWWY0c3JhRzdELTdhMmJlS2ZNSnc?oc=5",
+        "fonte": "ICTQ",
+        "data": "2026-11-24"
       }
     ],
     "fertilizantes": [],
@@ -212,36 +193,36 @@ window.NEWS = {
         "data": "2026-11-23"
       },
       {
+        "titulo": "Como superar 20 anos de atraso",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pZmRaTkVHSXhGakU5aEZnOHBhMjdRd3phX2hycnl5YjNSbWZfSHQzcU5TNW1rLWlzaWluYXdfZm5hcThJNXhXb1Y0MmE5YTBBVnBRdElmV2E3VmZDYnBNR2toNW9hRjlvN2o1WUNJLTQ0OXlm?oc=5",
+        "fonte": "FIESC",
+        "data": "2026-11-25"
+      },
+      {
         "titulo": "Setor produtivo defende elevar investimento em transportes a 2,2% do PIB",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3JXVVNDVkdKY2NmVGQ4aEZPaDR1VG1neEtFZU5zNzNoTTBGbnN5S24zUlF0TEtyV1ZsaENIU2Ewanc5enRMYjdPQmxjLWJtekhHblhWOTM5a1dOeDdQcmhHczkwX0hUczhWVkRKXzZycEFDeUpLQkFmNk9veVc4ZG5Pdlp0VTlPWmMwenhnYXZMWmRQR1BKUnhFUEE3dEVTXzlscTlnV1o3Z0lKdndmRVpaMkk0WmN3QXFJc0JxQmtKUHI2ZGdFN3lkQ0FIeUJVY1E?oc=5",
         "fonte": "Tecnologística",
         "data": "2026-11-23"
-      },
-      {
-        "titulo": "Montagem da grade da Transnordestina para terminais prossegue no Porto do Pecém",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUFVsRjhEdjRmNGxJZ0NYQ2JjY2xDSGxocHVwTmlfRHJYNi1Xcml3dmgwV1JKeTY5T3VMUVlsNkhBRjdLNGhaMTVhTFBjUzI5d2tIMHgwNEQ1c0tMOVhjSXZuUmxWMmtWb0N0cHdfc3hLT1pBNHJGeGpHdTZic1VyeE5WbXJjbHBuX3N1aWljUXFYdW5fZGZ1blI1QWJxTzRFMEFTVjJuOFpOQ0szRERKOFBKWWRkcHBySXlR?oc=5",
-        "fonte": "TrendsCE",
-        "data": "2026-11-24"
       }
     ],
     "maquinas": [
       {
-        "titulo": "Investimento industrial: da intenção ao projeto",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbktadnNjUHlOemp5SWQtZjRWRXoyMVhOSC1pU2o4S2xTbFpmcWZ5WmxWT2NtUHJISWtramtNLXpyVjcta0Q2R0F0Z19wMHpTamNaaDdvQXNldjBYbnZuT1RWUUlic0daTHR3MXU5R1JTLTF6MDJDLS1EckduZGFRSWFVc1J4TUg3ckZOWGpxM1ZWclM3UUx6Mm5zVVhIb19xcmFyaTY4OThZcWlaLW16SmRTQUXSAcMBQVVfeXFMTjNRcWloUllWelBSTXBBRkp2NktZZW85OENRV01waHBDajFUcldQMF9vZUE4Z0FpUS03T2ZZZHNUSmxFNUppRzhLLWx6bFBDeGN1Mk85NmQwVElCZnlnc0p1bDdTcUZoNkRwLWpQR0w4MEQyT1owWjJRRkRKUFFPZHc0ZVZoOXpQNllwdmx1SzMtU1BqRDB6WUV4TmxmcDdncnFaRWd5X3dfSXdDOVRhd2tseUpFc0ZKbHBkM3RwY3IyclNn?oc=5",
-        "fonte": "Valor Econômico",
+        "titulo": "Investimento industrial: da intenção ao projeto",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVV9qVVVOOUx0OFdvMzNvdVZ3NTBsVlR2MkhDenBzWkFvMk5xTkp6OVhMVENZV0JRZVd2QlQxb0k1OGRTRDhoazU5SzFqZ0hkQ05vLUxyYVpuOTY5Q0pGcHptbndyQmtfVThBQ25iTndPWU5oYlRJRHIxMmoxZ2lDLU9OMWlsSHdXMWNrbTZNWU5SU3Z2eHhRQ3g0WlJpSGpwUlNleGdhSVBGaXI2YThqY3VvN0VjQQ?oc=5",
+        "fonte": "O GLOBO",
         "data": "2026-11-23"
-      },
-      {
-        "titulo": "Empresas planejam investir em 2027, mas juros altos e incertezas ameaçam projetos",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVmZMWFJjdEkxMmx2ampnQnlvV2F1T1VPV3JmLXlmQkxiRlpUM0JlLUJjRUtHdzNBUEJuc25lRmppXzJKczNYcVlKb3JIS3BfVHJpZFhXNDBaLVl5b0c5R19VVzZkcVU1MzgweHF1aTdvQ21nWmw3V05lem5vY1NJc2d3STlyS1ZPS2FzRHJJTmN1bk1lVERNbnJlcU9VQUx5Y1hrc3hRUEJVZjRpVVdMeDhzWENFd0xieGw1WGRQOW5GWEVLMnlLS3ln?oc=5",
-        "fonte": "JOTA Info",
-        "data": "2026-11-18"
       },
       {
         "titulo": "Agência de Comunicação - O que a queda na produção de máquinas diz sobre o investimento das empresas",
         "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaF9RQTJ1Qng0dFlqYzZIbXdLX0ZmSGJCOE1lS2lCekVIemRILVNYUU55Z0dYUnNGeWN5SC14a3R6azhHaE9OZHFfOTAzTVZhcEJGbTNXUEpkOWdwY1hhbEloN2tQUmI0RmtlNGxVU3lienhqaXpiZEdsdFJuX1Y1RUJ4dU9zNFZhRnhCMmE5SWdidmFXQnRNQkZwcWFpNkRkX3ltVF9Ca0JtV2w2d0xKQTJSakM2V2NzQlFkWTlPcnlWbGxURXR6ZjROMHMtenBNN2FJLVJ0RWRWX1NmNU40clFOTTVzSlZRcHFxVWZCNERRdw?oc=5",
         "fonte": "Estadão Blue Studio",
         "data": "2026-11-24"
+      },
+      {
+        "titulo": "Pequenas indústrias: como avaliar a automação?",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0s4czZUaklvLVZ3dHg3bWI5d3F0dGxpVXVHMnoyd1FKX3k2ZDBoRnRPem10ZlBQQ1hLZ2E4LTlTS1JLVVNrNXZKMDFwZUxqN1E5ZjNSQlctSTFuYXVsQkNhNjM1X180WHVBMHB6VzVadzEyUDZnWEtja2tRRk1GdkFZdG9oWVJwZnc?oc=5",
+        "fonte": "REDE BRASIL DE TELEVISÃO",
+        "data": "2026-11-23"
       }
     ],
     "mineracao": [
@@ -252,16 +233,16 @@ window.NEWS = {
         "data": "2026-11-23"
       },
       {
-        "titulo": "Da ambição à ação: o Brasil na corrida pelos minerais críticos",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPbVA1MkY3ZGhIMG9yN29XSUZfSTQtM2t2Q3pzRUM0ajNtQXAzWHBOdmF2Z2Uxa3dYRVNpSlFWcUZsaVhKUUZLRHBPRlZXaDlWUUdOaHBVNXp6ZE01YktwRFZ5MjlKS0t6RkZ4VGpVUjMySjZCNzBBNUk4b2dCV3hwYndBWkJCUTBHSHR1NU5vWFRLUEliOHBibEU1OExZd3c4ZzBtRFlNSFBPX0pfSVlyTkV0Z2JkdGw0ZjM3U1lJazBFclNiNldqNzJmQW9QYzB2V3VBZkd3NlV6aWdnUUxn?oc=5",
-        "fonte": "PwC Brasil",
-        "data": "2026-11-18"
-      },
-      {
         "titulo": "Brasil leva à COP31 36 projetos de mineração que buscam US$ 7,3 bilhões",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLW1xOFFKR3ZYMEs2YlozZl9qcVBxd3M2bExyNi1NcFdid2RzSml6M3ZkWDlScExHRWdXOU5ZaGtyVVo5RWhiRFhQbVdRN1BybWdrZ0VhRkZobHVHSmxSSFl5em9ad0I1RVFxbDVHWFRCeTdSMHJqOTFtanB0M2xCNXdNVGxDUXBhT2czX1pKN0VJWHo0bEc5NHZQUXZSejUwY0hod2pJdWVjcnh3Sk5pRzlXMG9LanZZNkEw?oc=5",
         "fonte": "A Crítica de Campo Grande",
         "data": "2026-11-18"
+      },
+      {
+        "titulo": "Governo nomeia três subsecretários para conselho de minerais críticos",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMUQ4T2psRm52d0VIY1lib0JSQzAwWjZQOFRSdy1nZlpyU2J4RGlWVE1MN24zcFhfeHF1QXlPQVN6Z1diNnhTa1JUR3ZQYVdVTndLclQ1NFNkOWZCbXBCV05Ha2lCY3lPWEtOallmT2Q4M1g2aGd5bV91TnZoN1RNd1M3OTdYanNiMGVRN0ttUW9Zc3BMYWtGbDR4Qk5qWkRTVG9nOUhXN2g?oc=5",
+        "fonte": "CNN Brasil",
+        "data": "2026-11-19"
       }
     ],
     "papel-celulose": [
@@ -278,10 +259,10 @@ window.NEWS = {
         "data": "2026-11-24"
       },
       {
-        "titulo": "Klabin suspende operações em fábrica de SC após ocorrência em caldeira; 10 são hospitalizados",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa0FsSWRNNDhKNXNvQWpwY1lITEFGdkwxeWpIY0tSNVRjeHpyVlJtTGppWjRqSm15SFVfR3VHMEhfQ2VHQ2xjVWROLUtvTDFIQzR0bHBCNi1iLWsyVjBweC1JbzFqOFZ3Vi1VdkdKdTM1bjdaZEFMM25rT2pER1R6Ylllbnc5X1pBNEEzSlZ3SU1rZHJjdFBDWXQwUjFsTjRuaUxtbkdON19rbW9idm9VMXJBVDV0S2RhRWxtZmhiTjNSRzgyUW9n0gHMAUFVX3lxTE56OWxYZ25jY3dLWGRWWmZaNUdjTklZY0t3dGVoSktkZzRZRndXcG95RE1xR2paNnNHTVNuSzF2R1FrWlFsTFY1aVlSelQ1OHE5RWZNWFFEQW1QbWFqZDJjaGhGVmczQkRVa0FrbUlHUnB3MzJjaEE0R3Q2QUMtT2E3aHc3QlZiTDFZSjZVRzhucGJYb2FJSHRUQTZfRkhnaGI4Q2lmejVtdGktUkJMUHNRWFpNOXpqQXNzVkpwVF9PcTNyWEpWUWJldExfQg?oc=5",
-        "fonte": "InvestNews",
-        "data": "2026-11-18"
+        "titulo": "Expansão da CMPC deve gerar quase 8 mil empregos no RS",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0FaWkpNTXdVYzlJV3FkZUpSYl9WMzA2N1FvcldXb0JraktyVlBSOF8tTHFJc1dsVTBBN1lNaEpuQ1pXMHhXN0FMN0llckM0ejZ4dlQ0bEhGRHh5SFVXMmtPS3cxaUtBTGktb3dkR3lVOUNFR2h5Vm11UjdzdlkzMXVyMG1kNURuemMyNA?oc=5",
+        "fonte": "Grupo AMANHÃ",
+        "data": "2026-11-23"
       }
     ],
     "quimica": [
@@ -300,22 +281,22 @@ window.NEWS = {
     ],
     "saneamento": [
       {
-        "titulo": "Carteira de saneamento para 2027 anima mercado após ano de frustrações",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPclR0eEJmekxIdUZycnlPWC1QYTFYODNhdWY1THlJWmkxUENOSGlQX0R5MlNPaF9yblhGSGZxZFd3c0pkdzVwZHRMb2hxck5idGFZQzBaZVNUVU9tMVlPaWJXUUFmNHJGcHFWbElET3pQdW5Tam1CbkF2NnlQUWZHZmpFRU0xSlZ3SEVOYlFRdFUtdzZpVjJNeG1XbUNyLWU3QmpxR0hzREJIZw?oc=5",
-        "fonte": "CNN Brasil",
+        "titulo": "Concessão parcial da Compesa começa a valer na segunda-feira; veja o que muda nos serviços e atendimento",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRjBrMVZrZnZMYzRiN0VGenFSbWxCMnlmb3pQWm5EUW0yUUhfb0dTWWNFSEtSbnZQbHMwTVVQQmtNcGVDR2M1dHNVNXczclZLVTI0UU8xQWdlcm12Nmlvd2FaNnhuNXdNTFc3MGkzQUN4UHdIZXNFYzRWOEN6UWI4VE1xTURRSWI2MVQ3cnFPRVdNTmktU21BNnl6SW1janRxM25mYnczNDRxeUp6dGduTzNweDV6VmJxNEd3V1VsQ002MHk3V0JsYVQ3Zw?oc=5",
+        "fonte": "Blog do Ricardo Antunes",
         "data": "2026-11-18"
       },
       {
-        "titulo": "COMPESA INICIA NOVA ETAPA DO SANEAMENTO EM PERNAMBUCO NA PRÓXIMA SEGUNDA-FEIRA (23)",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORWhtdDZiMkVKd1pvaU8xNzJFYTZMMkRpRnZtNEdTV2lfZG1DQl9xcE96b3ViNTBKRmE0MmRSeU5qMFFJMG1KTkJ6OG1WaWdjM09va3U2Ri0yMnBDTlNqS0hZY0FqTmNaT3E4dTNxUmtlVzJhdV9nbjRUYzVjZG9TVzdVWGZ4eng2N19KNG5fWXgwN01FbVY3eGEwSWJEcE9QRHZ1R2xHcHZ5VTB6M2RtbDBkOVQ?oc=5",
-        "fonte": "Compesa PE",
-        "data": "2026-11-18"
+        "titulo": "Matozinhos apresenta projeto de concessão do saneamento com previsão de R$ 76,4 milhões em investimentos",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSHVsVVRvMEVfUm9uNHpVbHhONGVMVElIb3pIdTRDdkRJUzcyZDBxXzZKZUExcmlFaDRLbjFObW1vdEhxa1pRQ2pFZFBPMnFsMTlJbnRpaHhtUGlOWk9RSWFXUmRmbFROQ1ZfNE82b0hKaXhTcm16R3lTdFZrdnphZkhCUFZpWU1NUHE0OUVIQ1lCa2VmT1NFRm1lOFNQN0JtSUtaME1ONEprQ1dDZzRPQ1c1VHItLW44MHlWX0dFT2JhWDFkR3g4ZnN2akVuWlduWkE?oc=5",
+        "fonte": "Por Dentro de Tudo",
+        "data": "2026-11-25"
       },
       {
-        "titulo": "Concessão parcial da Compesa começa a valer na segunda; veja o que muda em serviços e atendimento",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxONTFWakJ2akhTY2h4YnM2X1hQWEIyWTFNZmFpMHh6bmZoR1Y2V1ZaT2pkVFNLMkQ0RXZXX1dlN0ZybEpPczJFU2tjT080WkVWSm9tMXluVjRxZ2tIS3M5aElrQnk4eG9mMXpUZDZLSktORlVCTmFWeEY5NzZjWEZPN285bjNkQXIzNFFSWnZySG4tZHlmbnlvQm4wOUFpWDhyWTJNc1JKOWszZWo1djdCRG5oazhlZHp2VE5KMlp4cFI5bVZhVUpXYVI3cFV4N3hDMHNKWmZqSTYzZlVsM09NR0kzSGptRFM1MVIyVNIB-wFBVV95cUxQd3ZfX0twNEl1eDdyX1NIOEtXQUg5OUhRUWtNckEyUjBjS2ZyWURmRGEyb2dRZXhTWUV0ZjV3YlhXZjZEZ2piQmdDcXRpZXcyOWUzcFNBa0pld3JIdVYxdGxtaXpYLUpPZ0tOd1piaWJ6T3hnRDZBQ3FXUkw0cmNWaTFseWFTMkNFRkVmZTRZLXhwRm9XNVkxdTFocy16MkdzSmJnNGhWVlFBZGFtNVRCVEtCX0F2ZG1hWm02YmZjcV9IZEZLQVUzWDFfZk5LOUpyR0dWS2Y3aE9xZ3FHRmtsSU1tNXZCZFdyUXVJMHB1ZmZSQy0teEhtVnhvaw?oc=5",
-        "fonte": "G1",
-        "data": "2026-11-18"
+        "titulo": "Compesa passa por concessão parcial nesta segunda-feira (23) e conta de água terá reajuste de 8,85% em dezembro",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQd2tISzN2RlhnajI5dnpIbTBlVHVuVDFmM1hVUUd6WjhSZUx5c1MxeG02UTYtTnZCMXEtMVpIODBSYnF2M0RaejJCbDFtV0tBWGtCN2lLWDhhLVVRY1czcElnUG1LRlBtUUhkOGlzVTE1eGdzTjJST3Atc0FQVG1XVzlqMTd3c2cyM3RZYmRTVzZYZ3REMEtzZkhvTGRwX0dnVlJKQ0Nxd0owOE53cHRDZ0dRWmFVdnpORm5xbk95NjVISWdXamRQWHd3M0lHMkJ6OEFia3NEazBPUQ?oc=5",
+        "fonte": "Pernambuco Notícias",
+        "data": "2026-11-19"
       }
     ],
     "siderurgia": [
