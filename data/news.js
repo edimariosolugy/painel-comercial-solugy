@@ -1,6 +1,6 @@
 // Gerado automaticamente por scripts/update_news.py — não editar manualmente.
 window.NEWS = {
-  "atualizadoEm": "2026-11-27T18:45:08+00:00",
+  "atualizadoEm": "2026-11-28T01:48:27+00:00",
   "itens": {
     "agronegocio": [
       {
@@ -16,10 +16,10 @@ window.NEWS = {
         "data": "2026-11-27"
       },
       {
-        "titulo": "Tarcísio cobra previsibilidade para o agronegócio em evento em SP",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUxuUm1RU0dJVEQtS053S2RsenBiTHlFeWpfbjZ2bjNmRVBWTmhCd3dSckxETnJ5Skx4UWE1Q3lUYXVyNGxjYXRHdTd0ZGRFVjEzT1M0SzdjU0ZqQXVoel9oQVJfVG1Ga3pmSnNRNFdOa2RGOWNrYzVacTNlSWRhaW1MRVZ3VTNiRE4wZHVqMmxocjEyZkcxZzFobVBQY2ExUXc?oc=5",
-        "fonte": "CNN Brasil",
-        "data": "2026-11-23"
+        "titulo": "CVM e SNA debatem Agenda do Mercado de Capitais 2027 para o Agro em evento no Rio de Janeiro",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ2l5WlZBbkRZeHd2Z05MXzkxdk5pQUtCenpKbWFta21vblIyV05JXzMtekFZN1ktT1hUSHYwSDMzb0FNSnZ4TE1Rd2xySzlXTjR2WmZhWkFJUTdKb1VkY3Q3bFpibkRoWmQzTHVrVHY0RjlONW13NE4wWjNjOFVBUFlsdFdzdFctelNLMzMzNTZQZENEeGwtQl9LS2JoY2FYV0J2Y1lIcDdpT2JOM2JRZDFQcTF1RnNvMjhCOVNzck5sNzJvNFhibVNkYVRhUWFoU2I1Q2kwVmc5RHB1?oc=5",
+        "fonte": "Governo Federal",
+        "data": "2026-11-27"
       }
     ],
     "alimentos-bebidas": [
@@ -64,16 +64,16 @@ window.NEWS = {
     ],
     "bioenergia": [
       {
+        "titulo": "Entidades defendem renovação do E32, enquanto Santander aponta sobreoferta no etanol",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNERSWV9xSGhYTHI4UDhtUGZDVTkwc1NTcGIwdDdqOGZNMEZvQWpfVXdHUW0zMHJZNDlfSjhLUWRiZW5yNE5PcDZCQ2FQb2xvQkgyTVV5VFpBbklXXzhsdmhXdUhYS2ZoQnY3N2MtRkRvcVdrN1A3SWZVM2NLT0RBVGUyTXVDd2kxcDFON0VaalhjTE9RZllmVDZUd0hILXNoc08yWWgzX2xvR3plY19RT0U1a2Q?oc=5",
+        "fonte": "AgFeed",
+        "data": "2026-11-27"
+      },
+      {
         "titulo": "Petrobras buscará outras empresas de etanol de milho após compra de fatia na Neomille",
         "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMFkzaHFwdG83a28xWWdXbjF0R3hxM3NfcGxnalUtclhwbVh0TXJyYzhhWnpMSEJqaWhjZGJDXzJaUU5Vemhyb1ZJSzc5VFdablpJLWZyNHRYaDFVeWM5WVBxRUt1WEd4ZGUyR1hMRGRfNTVzOFRkb3JZWnkzSEFWUVM2STlDWkxEa3lhUEpOUjYwUXQtWDYtMnljbndONm52cnNtUklKSEVOelhzc05pUWxFbVIxTXh5cW5j?oc=5",
         "fonte": "NovaCana",
         "data": "2026-11-24"
-      },
-      {
-        "titulo": "Petrobras compra participação da Neomille por R$ 2,8 bi e põe os pés no etanol de milho",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNcmpFR2p5SGR4NkpSZzVFRlpaZ3Nsbk1QLVFXNGM4OWlUT0RGRkJFTk56TFZWLVB0TWVJd3ZQUEx1eU1FZEZfYTc3YXJMWXE3cF9EeVVoOUR3WmxaMlB0Y2Z0Z2hiZk5rMER3ZW1TZUJPR3NJdXFHUWNZZ2c2WFVyMnZoV0xhdTRkc3ctWG56eGVPWEV2UWJnR2tPM1QycDc5RUphdFBQTnR2NElFdk53cVBsRzJQdGZJ?oc=5",
-        "fonte": "AgFeed",
-        "data": "2026-11-23"
       },
       {
         "titulo": "Petrobras retoma produção de etanol com investimento de R$ 2,8 bilhões",
@@ -83,12 +83,6 @@ window.NEWS = {
       }
     ],
     "cimento": [
-      {
-        "titulo": "Construção civil mira ganhos de produtividade e industrialização com expansão de investimentos",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZllGZi05eWlzNmg5MnBhZ1BVZ2VtbWc5UzVaenZKWVlEVEJjNjdGLTVWUHpXeFpqTURHLTRDNG1qR0UxX3dyWl9QVmd3WGJSOEJjQzJac3RwbGc4cHF2SWE0V2tDNGxraTFhUW0zSlR5TkJqZndpYkFzdDV2RS02QUppRnIzcEJYTEoyakMzMnVlQmtNR19IZTFUSGRXUlFVWnlvWFJGUWxXTTllSW9IS0ZSQ2ZraHQ4LVFNTjFjdGRUWjQ?oc=5",
-        "fonte": "Brasil Inovador",
-        "data": "2026-11-20"
-      },
       {
         "titulo": "Investimentos em hospedagem movimentam comércio de materiais de construção no Araguaia",
         "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQR0dRd29wOHRRMjV4bFBOTm9kdkpaRThYQmF3UlY3TUpQRnp3ZDdQNE9hNDd0Yk5YNjlRVk5ZSVVmWDZqZk5jaE9HTGRMWnlDWjJpQ1ZPV2c4RXJRb3VaeTEtZkR4WFhpMDZYUFJHT2lRLVIxSmFrSnZDS0xEOXFldElERFFUV1BiVU9YMHRSdFJQWnRRcVItdnVscmh2RFNwNnp0OFExaklVTExBZUhuaWtIby1RZHpPN1JLaUV1VmxTV1RrZmd0a0ZJMGRrWHRoS1MtSWNVbHU3YTJkWVZfYUdzMklScTR6Ullj?oc=5",
@@ -100,6 +94,12 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWJ1WFFhUzRYYWYzSjRsYjFtQ0R5RWg0M1lOZWN3cDczdHVDcTA4VG1fLUN5dUVoWU5rTzhFWU9wenM3Vm1YY0RBTEJHMWs5MlcyX3FFSWR4cC1ucjdIc1VYY29DbDJZYVlONkhHczEwWmdwWlUyYkoxdWdWMzBRRE1uRzhGWGNwSUV3QXlsZHlyZDV3S216dDE5RQ?oc=5",
         "fonte": "SB24HORAS",
         "data": "2026-11-26"
+      },
+      {
+        "titulo": "Qual o valor do INCC em 2026? Confira a tabela completa",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYY1hkZ003NkVZU3EtZEZjdG54ZWtFTWUybndwcVp6aXpHeWVBVWQ1RHFtalVEQzhscjJXRjdIYXlTSkROTWpqOVhtVzRXb2xTRGNOTGxQOG5TV1lvLTY2a2V3TkNBVUU?oc=5",
+        "fonte": "Remessa Online",
+        "data": "2026-11-25"
       }
     ],
     "comercio": [
@@ -124,6 +124,12 @@ window.NEWS = {
     ],
     "energia-gt": [
       {
+        "titulo": "Brasil pode atrair mais de R$ 147 bi em investimentos na transmissão de energia, diz PDE 2036",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmo1WHBza1B3X0RrNVJZaFppN3NFRGJ0alVmM1FDcFViQjVLZVlENEZLX3oxMkZPQTdkZUpMWWVMRG9vZzM5cnpyV2NqSGVhMEt5Sy00LWs0VXBHNVcyc1NHZGp0UXp2Q2JIU3NBVVlFZ25idXUxR05jdXVlcHFDdUpGQ1I1OTJ6RzB0NXU5ZzV0WnZCUFYwMlMtZ1NUV3R4WUVPQzZpWXVuNFNPOW5rNC1mMENjVXR4ZXhnWWhrZw?oc=5",
+        "fonte": "Agência eixos",
+        "data": "2026-11-27"
+      },
+      {
         "titulo": "Pela primeira vez, Brasil vai fazer um leilão para empresas que queiram investir em superbaterias",
         "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQa2NDREtMRXd0cVNNWjFOZ2RmWlFCamFBWmVEbmtUZmV4UVBGSFJpTVhiZ3FTdWtTNXpRbTVlQ083ajBsb2dNMjRuOGlkWG1HZklyWHJpbzQ5c3AxRFh1bVhiQnBkSTBRcTFHZ3FHSFZuTDBYZzNtOWJKNjNKaHpmMHhmbEZMSkRzUVFNUGVnWnVQdG1yaG1TTXNvNFdDdzhCYURaYmJXTjR0d2pnLTNwYUJiTXEyNklIelgxWFVsSVVRd0xDMDMwUUdCY2lvS0E0b01ETVppdmJ0WGQwa0lpcTg2ZWhfbV8zNEhhVkkwNNIB_gFBVV95cUxNOGJjY2M0U2h4dTByTC1janVMamtYN3paaUtNZnZSY3g4SHI0dTFOSzlsTkhmTkFER01MUFNBVkl1SURWZGpiTGh0ZFJMTjdJcGVqbmFBekdlMkVRaUhxVVg2Y3FmQ3E1cW00NllCSzg1MzE0dFVmcjg1N1VFZ0Z2dmhYUlFhQkN5ZjJHWTVuRU5qWEtURjRvdHlLUmRJSXh6UGUyUXhER2xoSkw3TFJWZi1kVmEtYS10WWNCYzgtX2lxRE0tM0FLVGlCNldCZUYwNHd3N3h0MGg1Skp0NEJZNUJ0Wk5JdEZ6bklGMkpEU1d0dzR3Z0tzUEI5Z2ktZw?oc=5",
         "fonte": "G1",
@@ -134,12 +140,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUNKbDlUUlVnb1hCa3VlN3BtZmRyUkFiSHliYkEwR1FZQm5DNTZvTDh0bFdYWTY1cDZoUkk5OTJ4a3dnTVRUUUk2c2Nmc3RRcVV0QURoUjc3aC1wcEJjc05GNy1XX0lfcjNhYzVNRFdLbWdvTmt4Y3MtRW9fVmVLMTBKWXJWYjFGbWNzbnhsZlBxRE1ObjNNb1N2TGJoM2VQZjBZWS13aFZZU0Y0SlkyVXEtM3E5SVFsekxXc2hueFM0aTZWWEwweVp3?oc=5",
         "fonte": "MegaWhat",
         "data": "2026-11-24"
-      },
-      {
-        "titulo": "Brasil fará leilões de baterias gigantes para reforçar sistema elétrico",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNTZVSFVzMC1rTmZSU2l6RVpUVXhwUXRKdjBTcUVnNkhvemZzTEN5OFlzWnlpYmFRaDVIZzF6X0ZsMzZDakRKanh3cXRXN0MxT3dpNVdfVlAwdlA0N2Noc29ick5QLVF3ai1ZaWprSE1ZTVlCUUVEV0NoUnQ4NnBUeU1iRkZYSm1wQjktQV9oUlJhRFhfSUZicFNZMGc1Y2tMVXp0aQ?oc=5",
-        "fonte": "Transmissão Política",
-        "data": "2026-11-23"
       }
     ],
     "solar": [
@@ -156,10 +156,10 @@ window.NEWS = {
         "data": "2026-11-23"
       },
       {
-        "titulo": "Índia prevê investimento bilionário para ampliar integração de energia renovável",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY0hQSGNjRlFBTmlmSEhYSEJyVFF2elA4eDRQMzRkT0VOQnBRSHBYNTJRMzBpRXR5WVdKa2ZfdzVXRVFrQVo4TlRDV1UtVTM1X3gxOEZHQ0ZxZFpMejYybGtRYVliT00xckpRUl9nZFhPOXZ2S2xCeGZnRGFKSHZrN3cwWEl4QmRzYW85TkxZMDhxaHhJb3dOTVVFUQ?oc=5",
-        "fonte": "Além da Energia",
-        "data": "2026-11-26"
+        "titulo": "Com 30 anos de Brasil e R$ 51,5 bilhões investidos, EDP mira novo ciclo de crescimento",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUNKbDlUUlVnb1hCa3VlN3BtZmRyUkFiSHliYkEwR1FZQm5DNTZvTDh0bFdYWTY1cDZoUkk5OTJ4a3dnTVRUUUk2c2Nmc3RRcVV0QURoUjc3aC1wcEJjc05GNy1XX0lfcjNhYzVNRFdLbWdvTmt4Y3MtRW9fVmVLMTBKWXJWYjFGbWNzbnhsZlBxRE1ObjNNb1N2TGJoM2VQZjBZWS13aFZZU0Y0SlkyVXEtM3E5SVFsekxXc2hueFM0aTZWWEwweVp3?oc=5",
+        "fonte": "MegaWhat",
+        "data": "2026-11-24"
       }
     ],
     "epc": [],
@@ -171,16 +171,16 @@ window.NEWS = {
         "data": "2026-11-24"
       },
       {
+        "titulo": "Medicamentos a base de GLP-1 elevam retorno da indústria farmacêutica",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbWVRa2lhVXJwTzNlSlBFQ245c0FXZWdvU1dZZEpTYk41NEdfUWw3UXpyVkFzSG5XOXk0Skh3MndhREhoYzNGV0RVQUhNS3BITlR3dVRQdmVYS1l1TmNRNjlmV2kyRE1XWkUyWGl1QVBRVzdhN3lmS053dkFFSkZQWENUUzJVd01qRTNocWk4WV9hSEgybkotb0hEVHd5VFFNSzJfbUxR?oc=5",
+        "fonte": "viva.com.br",
+        "data": "2026-11-27"
+      },
+      {
         "titulo": "Healthcare Media: lideranças do setor de saúde discutirão o futuro de um mercado em transformação",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOaGgxaEZHcGZCLVA0OW1HNWN0LWRTR2M1Z2lJUDg2SlNycnBsRmlTVW5OUEZNenZhNHRmYXRVRXNzN3dRYUlDaS16cFRHalhNQmJSd3FyODFNZkVVTzF3Vm5xUVNBZGVQYkhCVUZyc2VnUE5lQWNJblZ6NUV5OHhRc3BOWHl4ODlLeHZ4cFhvdDFHQXRfWTZSb3EtNFAwbTVfNko1elVJRFo0U0UzamhtajJsUmxDLUl3aGJFclBMaEF5ZHg5M0E?oc=5",
         "fonte": "Guia da Farmácia",
         "data": "2026-11-26"
-      },
-      {
-        "titulo": "Médico que troca a tirzepatida manipulada em farmácia de estéreis pela contrabandeada arrisca a carreira por R$ 200, diz consultor",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQWjdfTHhDQTVWM3hYWkJFY2ZHQV9sRmJsQk9aN2UxTUw3ME9GYWhHUkJ4Q1JmbWRWZVVTTkRYNnJJWWdIcVcxaUp0NjNfNFM0WWl3RUlfTWIwUWE3OGx4Q2FPWmltZG0yTVM5R3VTVVhJRHN1czJ4XzBBMGZ5cWU2Z25WS095NEhkM0h6a2R3OFhaZXRPT2xjOXlXVmtVQWRwSzRQdmV2Q1NjS3BYazRYRkRXYjdVRUF6U3d0anVLTldTVUU5X0Q5aC1YaDdWTmp4aGtSbG96UGhfaVFCNmpUZjVEVHRVVnhUX2VWWWY0c3JhRzdELTdhMmJlS2ZNSnc?oc=5",
-        "fonte": "ICTQ",
-        "data": "2026-11-24"
       }
     ],
     "fertilizantes": [],
@@ -212,45 +212,39 @@ window.NEWS = {
         "data": "2026-11-23"
       },
       {
-        "titulo": "Como superar 20 anos de atraso",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9pZmRaTkVHSXhGakU5aEZnOHBhMjdRd3phX2hycnl5YjNSbWZfSHQzcU5TNW1rLWlzaWluYXdfZm5hcThJNXhXb1Y0MmE5YTBBVnBRdElmV2E3VmZDYnBNR2toNW9hRjlvN2o1WUNJLTQ0OXlm?oc=5",
-        "fonte": "FIESC",
-        "data": "2026-11-25"
-      },
-      {
         "titulo": "Setor produtivo defende elevar investimento em transportes a 2,2% do PIB",
         "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ3JXVVNDVkdKY2NmVGQ4aEZPaDR1VG1neEtFZU5zNzNoTTBGbnN5S24zUlF0TEtyV1ZsaENIU2Ewanc5enRMYjdPQmxjLWJtekhHblhWOTM5a1dOeDdQcmhHczkwX0hUczhWVkRKXzZycEFDeUpLQkFmNk9veVc4ZG5Pdlp0VTlPWmMwenhnYXZMWmRQR1BKUnhFUEE3dEVTXzlscTlnV1o3Z0lKdndmRVpaMkk0WmN3QXFJc0JxQmtKUHI2ZGdFN3lkQ0FIeUJVY1E?oc=5",
         "fonte": "Tecnologística",
+        "data": "2026-11-23"
+      },
+      {
+        "titulo": "Ferrovias: engenharia digital pode reduzir custos e ampliar capacidade logística no Brasil",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOem9nVGZwaTU5ZXZPcEV1U2dsZVNzNnoyRm12Wk1zRDNzS3VDMVIzOU5ENm5FeWNjTU02ZERhcm02VFh6b0JmUDdQSEZveVduWXY0Xy1IRWFSbno3MFZzZGoycUU0eDhDcC1qZldxdHRMQ25Uc2VqNjJWRU1DZk1SMjNzdHJqbkNEdmtCSWlHTVZnMm14b3lHeHhKLUtLUnctTmF0SDhQUkZlRDNRYlYzT29EZjNPZmY0bWEweURJbEkwaGJlWFRDSDNkYUJlSWtXdDZ4cg?oc=5",
+        "fonte": "RADAR DIGITAL BRASÍLIA",
         "data": "2026-11-23"
       }
     ],
     "maquinas": [
       {
-        "titulo": "Investimento industrial: da intenção ao projeto",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVV9qVVVOOUx0OFdvMzNvdVZ3NTBsVlR2MkhDenBzWkFvMk5xTkp6OVhMVENZV0JRZVd2QlQxb0k1OGRTRDhoazU5SzFqZ0hkQ05vLUxyYVpuOTY5Q0pGcHptbndyQmtfVThBQ25iTndPWU5oYlRJRHIxMmoxZ2lDLU9OMWlsSHdXMWNrbTZNWU5SU3Z2eHhRQ3g0WlJpSGpwUlNleGdhSVBGaXI2YThqY3VvN0VjQQ?oc=5",
+        "titulo": "Investimento industrial: da intenção ao projeto",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVV9qVVVOOUx0OFdvMzNvdVZ3NTBsVlR2MkhDenBzWkFvMk5xTkp6OVhMVENZV0JRZVd2QlQxb0k1OGRTRDhoazU5SzFqZ0hkQ05vLUxyYVpuOTY5Q0pGcHptbndyQmtfVThBQ25iTndPWU5oYlRJRHIxMmoxZ2lDLU9OMWlsSHdXMWNrbTZNWU5SU3Z2eHhRQ3g0WlJpSGpwUlNleGdhSVBGaXI2YThqY3VvN0VjQdIBxAFBVV95cUxPSlUtTGNhQzhwNWFjN0Y1MmllcjIydDJEMW52ZVo5ZmxhSGFwMjg4Zy1JUWJ3WnppdElEWHV2TFRxLUhDa2dPckkzZU93UmRmVFBxQjV1VmFQejZEb3ZzWDVZeUxfQXFJN182VWoya1l6OFdYTG00U1NnNHVVQk1DTWJ3NDZZbE5pV2lVN1NnLXlUd2xJYkFua255VnRiYTdZQmFZVGlhd3VpMERYWm9NY0VmbmUxRV9VcTd5SnlncVZIOXV5?oc=5",
         "fonte": "O GLOBO",
         "data": "2026-11-23"
+      },
+      {
+        "titulo": "Agência de Comunicação - O que a queda na produção de máquinas diz sobre o investimento das empresas",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQaF9RQTJ1Qng0dFlqYzZIbXdLX0ZmSGJCOE1lS2lCekVIemRILVNYUU55Z0dYUnNGeWN5SC14a3R6azhHaE9OZHFfOTAzTVZhcEJGbTNXUEpkOWdwY1hhbEloN2tQUmI0RmtlNGxVU3lienhqaXpiZEdsdFJuX1Y1RUJ4dU9zNFZhRnhCMmE5SWdidmFXQnRNQkZwcWFpNkRkX3ltVF9Ca0JtV2w2d0xKQTJSakM2V2NzQlFkWTlPcnlWbGxURXR6ZjROMHMtenBNN2FJLVJ0RWRWX1NmNU40clFOTTVzSlZRcHFxVWZCNERRdw?oc=5",
+        "fonte": "Estadão Blue Studio",
+        "data": "2026-11-24"
       },
       {
         "titulo": "Pequenas indústrias: como avaliar a automação?",
         "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS0s4czZUaklvLVZ3dHg3bWI5d3F0dGxpVXVHMnoyd1FKX3k2ZDBoRnRPem10ZlBQQ1hLZ2E4LTlTS1JLVVNrNXZKMDFwZUxqN1E5ZjNSQlctSTFuYXVsQkNhNjM1X180WHVBMHB6VzVadzEyUDZnWEtja2tRRk1GdkFZdG9oWVJwZnc?oc=5",
         "fonte": "REDE BRASIL DE TELEVISÃO",
         "data": "2026-11-23"
-      },
-      {
-        "titulo": "IBBX separa negócios da Antiwire e prevê R$ 100M em investimentos",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSzhlR1dTcEdNYXBvd0RxeFN3a3VQQ2RHZGxsWTZPRjVUV3YxUlZ0UjdERzFFQzZKam9NY1dvd2YxUkdTUlhoTXp5LUZXM1BPU2ZKMWE4elF6b0k3OE8zWjhpbHA0czZTNS14SHEtREVEU2UwWktyS2pRaW5YeVdaZzJBQWt6aUtacGV3VnVJT3pId1BPT2FOc2oteXZqclk?oc=5",
-        "fonte": "Startups",
-        "data": "2026-11-25"
       }
     ],
     "mineracao": [
-      {
-        "titulo": "Minerais críticos no Brasil: dois modelos de atração de investimento estrangeiro direto com um mesmo dilema",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYnVGRDYzbTdaV1E3aWVCYktIZkpsTXBnaUdNcE1VeHJ4TmRKNTRfX3hVbjd4eTBqa2V4dmFhQUI4Skk3bmVYUmNNdzNxRzd4U1BvY2lkZG1vWmZxLWZ4VWc2OVNaR3NUWnpDa1Q4SXNjaHQ2UFVPMU1PbTBsYzF4cXVjR1E3Nk9sYm9JcnNyZG5lOXJOb3BUekVzNE9wdXlfWDk3NlBha0lwUEdVS2ktMWVuakttbm5IZDIyX2Y3YWQ5Y1Y0RU40Y3QwMHludw?oc=5",
-        "fonte": "Comex do Brasil",
-        "data": "2026-11-23"
-      },
       {
         "titulo": "ARTIGO | China, minerais críticos e terras-raras: situação atual, perspectivas e janela de oportunidade",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbm5jektoLWlvMno0Z2dBbW9tV3c4VmVYM29NVVhoMERpenVsUWdub0h1RG4zZjlIcWVBMWtMZGpXUV9IWldNNUctQkJ0SkxjdFFRYXM0aGYtZHRIMVBCTXhsZFdHenZjaHRNazVBazNSbUdDU1JYZFJvTndoV1dUaG4zOHN5YlFiZnJTM1JNd2daZG85dmpRT2VoVHJ0UDZSeWVJb0FNUmwwUnVJdkY2ZkdlamJCVDFIZGJ6NjhmYm50dWNNbTBRUg?oc=5",
@@ -258,9 +252,15 @@ window.NEWS = {
         "data": "2026-11-26"
       },
       {
-        "titulo": "Agências estatais de mineração de Brasil e Coreia do Sul fazem reunião em Brasília",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObEJON0ctTm9hc1Uwcl8wMERIRmxaaFVkZWhVcVJhTW1OVURGTmVpWXp4Mm5DVkM1RzFxNmg0cjl1d0tyTngyVmFHVkVhQTNYZkN0NTVTeG4ycUhleVFUU0o5NmZYZXhyQUNrUkYwTTA2Q1RuTlBLem44VWlHSktaN21XOTZTY2U2OWpjdTg5cU5LN1ZHSWo2ckphOVlKc2RFb3FXM2NtV0I4ZThiN0FObXQ3bXNaRTZxbUY0cnlSVHB4M1pfVDhYLTFnSlhmTHdjMDdWSS16VU0?oc=5",
-        "fonte": "Agência Gov",
+        "titulo": "Minerais críticos no Brasil: dois modelos de atração de investimento estrangeiro direto com um mesmo dilema",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYnVGRDYzbTdaV1E3aWVCYktIZkpsTXBnaUdNcE1VeHJ4TmRKNTRfX3hVbjd4eTBqa2V4dmFhQUI4Skk3bmVYUmNNdzNxRzd4U1BvY2lkZG1vWmZxLWZ4VWc2OVNaR3NUWnpDa1Q4SXNjaHQ2UFVPMU1PbTBsYzF4cXVjR1E3Nk9sYm9JcnNyZG5lOXJOb3BUekVzNE9wdXlfWDk3NlBha0lwUEdVS2ktMWVuakttbm5IZDIyX2Y3YWQ5Y1Y0RU40Y3QwMHludw?oc=5",
+        "fonte": "Comex do Brasil",
+        "data": "2026-11-23"
+      },
+      {
+        "titulo": "Minerais críticos e estratégicos, passaporte para o futuro",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWHo0VlVaTTMzemFUQ3k3NjRUYWhtOFJHRFh2WlBLTFAyc0sxZk16d1lub2xMdWJfZU1JdzJMWkNpQ3ZVSm01cnllaTFCY0dLNjhCYUJXdGEzeWx1QW9fUTg4R21GeFRsSl8xbm41RldnZFZUN0tBT05KeWVDR1ZCRGl3ODFvQzE5RENBZU9iUWJuN0xfVVc4SkJTVjdkRDl0ZkVkdzVuTWM?oc=5",
+        "fonte": "JOTA Info",
         "data": "2026-11-26"
       }
     ],
@@ -272,30 +272,30 @@ window.NEWS = {
         "data": "2026-11-23"
       },
       {
-        "titulo": "Arcadis: incerteza geopolítica adia investimentos mesmo com demanda",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTno3bnh3Y1BBRUt6OVZhSEZMbU9ENVFaSVZ6cjVtUGRtSXB1bzl5amZGaURoejBHZERzMXV0TlhhcndEVUhUeHF1UVBjNmxGYmE2MGJOckQ2bG1vY2RWWXpqVG1zRnZrVjFsZTR2dmFtNnZhaFlhNUxjaGU5cVVoQlJZUjhEdENldlgxZ3VVTHpRdW5rNzBCeEpPa2Z0NjA2YlJXOWF0c0Y5TmJ2?oc=5",
-        "fonte": "BNamericas",
-        "data": "2026-11-27"
-      },
-      {
         "titulo": "Expansão da CMPC deve gerar quase 8 mil empregos no RS",
         "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNb0FaWkpNTXdVYzlJV3FkZUpSYl9WMzA2N1FvcldXb0JraktyVlBSOF8tTHFJc1dsVTBBN1lNaEpuQ1pXMHhXN0FMN0llckM0ejZ4dlQ0bEhGRHh5SFVXMmtPS3cxaUtBTGktb3dkR3lVOUNFR2h5Vm11UjdzdlkzMXVyMG1kNURuemMyNA?oc=5",
         "fonte": "Grupo AMANHÃ",
         "data": "2026-11-23"
+      },
+      {
+        "titulo": "Projeto Natureza, da CMPC, deve gerar 7,8 mil empregos e movimentar R$ 3,5 bilhões por ano no RS",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWTA4bWxQZkVGRXFXZEVfbU10S3BlZ0k4dGVIUXRZQzFZa3ppOEZRYS1pQk5zbU5iN3JSZUVXSDhTVkoxbkhiTTgwdWdBZExBT1kzZDItdzVyZ0FFNmJhb0NTLVdZUkE3c3VmT0ZLSDh6OXNFTTBVM25hVEFZeVUzb2Ytbk5aNkhwQnJheDZOaXM1dGt2c1RiSjRSMG9yRXc3UFE4RklaRWtGY1Q0N2FMQzlIQ0pNdC05V2xucE9ESQ?oc=5",
+        "fonte": "Portal Celulose",
+        "data": "2026-11-27"
       }
     ],
     "quimica": [
-      {
-        "titulo": "Linde, odisseia de 101 anos: a história da maior empresa de gases industriais do mundo",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0JieDgwUmxrelZmNWp4Z3FmT21JM29UR1dPUnYzVS1HNzJ5M2pVVzlGVDRYeXNVUGR4Y2c4YmJBTnpKZW9CNVphMXg0YXBLcmJNRWl1bjZILTQzeTl5SU0wS19ZX1JLR1lMdXZ2VkxmWjQyYUdzNUpwTzdtWW9CNmp4dDIyZW4ySmtoM9IBkgFBVV95cUxOLWVaQjE0RGhfWFV0dzFFY1ZtVGVNMW1pQk11azExWUdsZjFPX1dyc3F6djBoZmJPcUUyX1dFeXNnSWNZeTVvZEtLYWVqY2txcXNxeFdTRXBKWnFuSm5mVjIwdVIzUm41Mk9yQWxfVm5nZUxxZExsRmtpTnI4YlVLUDAxS3pWcGlhakR1ZE5BTDJRdw?oc=5",
-        "fonte": "Nord Investimentos",
-        "data": "2026-11-25"
-      },
       {
         "titulo": "Com nova tecnologia, White Martins expande unidade no Cabo de Santo Agostinho",
         "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWDV4bGFzSVJMelhrMUJLUWZzUXVfNXM0WW1GZTdOTzROclJMZks0VXJmYmNyVUhSYU1ZRDZUMUE1T1ZvQy1QV2tWekx5bzRWdFNENnBRVHloeTVycGNpMjAwSkpudEgyenZuVGJNMW1rQWtQdktMTkphdEk1aTAyS2VXV2ZUNFZ0cWphakNHakNmaXNxbjd3ME5zcFQ1RTRIR1haYWlkMHlUcF9QNVhlWFpFMWw?oc=5",
         "fonte": "CBN Recife",
         "data": "2026-11-27"
+      },
+      {
+        "titulo": "Linde, odisseia de 101 anos: a história da maior empresa de gases industriais do mundo",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ0JieDgwUmxrelZmNWp4Z3FmT21JM29UR1dPUnYzVS1HNzJ5M2pVVzlGVDRYeXNVUGR4Y2c4YmJBTnpKZW9CNVphMXg0YXBLcmJNRWl1bjZILTQzeTl5SU0wS19ZX1JLR1lMdXZ2VkxmWjQyYUdzNUpwTzdtWW9CNmp4dDIyZW4ySmtoM9IBkgFBVV95cUxOLWVaQjE0RGhfWFV0dzFFY1ZtVGVNMW1pQk11azExWUdsZjFPX1dyc3F6djBoZmJPcUUyX1dFeXNnSWNZeTVvZEtLYWVqY2txcXNxeFdTRXBKWnFuSm5mVjIwdVIzUm41Mk9yQWxfVm5nZUxxZExsRmtpTnI4YlVLUDAxS3pWcGlhakR1ZE5BTDJRdw?oc=5",
+        "fonte": "Nord Investimentos",
+        "data": "2026-11-25"
       },
       {
         "titulo": "Mercado de lavadores de gases até 2035: regras de emissões do setor químico impulsionam a demanda - Notícias e Estatísticas",
@@ -305,6 +305,12 @@ window.NEWS = {
       }
     ],
     "saneamento": [
+      {
+        "titulo": "Matozinhos (MG) apresenta projeto de concessão de saneamento",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxTGI5cVp6bDlqTzZwYndQVEZNQ0JPUDdHd3o0NlFsUkZPMUlPZlY0dnJJV0tzS2Ruc25ELWVuaGJqaUZFcjhfWHlBWjlFMlI4TWZ4Wkc4Q25mcFQzV09lcGh0ckkwOWc4aFNvdg?oc=5",
+        "fonte": "Revista O Empreiteiro",
+        "data": "2026-11-27"
+      },
       {
         "titulo": "O canteiro das obras de infraestrutura tem \"novos donos\" no Brasil",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTllnZDdyWmllQ2ZZdzN0VVB1Y18xaGE4VUdIX0pUU0UzbWdqWGJ4YVlxZVE2R0xDby0xdHprMGNtTlFmdGFVVkpTdnRKTjljS1VSUE9GZS1id2gzTmtKNnNodjdVVmZQZzdmY1QtVE9iZnEyM2VIcktNb0MzWGtCTnRSUnJJUHBfVWt6TTZVb3hkYjFOMTFHTlhaNnM1UQ?oc=5",
@@ -316,12 +322,6 @@ window.NEWS = {
         "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBYR2RSV3I4LXJGSHJLNnZoYjRjNWdmQ3pRZnFFR19LQVRtX0p3bmQzVkNIaEZTLWdxZ0M2MjNfRVZ0SlgwV3VqeXdlSkVhN2duQXlYd2U0ZVA1dkhjelg0ZFM3dkFfQTV0SVBKRDRkTm9sdVE2eWNKcGZiUDBRZw?oc=5",
         "fonte": "Diário do Comércio",
         "data": "2026-11-25"
-      },
-      {
-        "titulo": "São Paulo alcança R$ 394 bilhões em investimentos em parcerias e concessões",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3k3VzlOam4zdzk4dkZPUHU4ZGZhZ0xJdnA3a29fMnFCTWtvZ3R5WUt1dTc5em16SGExVGl6NnNTU1czV25WNHJtZC05WDNkQ0dZb05kbnhReFVIb3VZRHhjOGpDeHBZY3NuUFZLWjh0Wlp1RDRpb19BdHNmUk9hakRvNzRMNGZi?oc=5",
-        "fonte": "boca.com.br",
-        "data": "2026-11-26"
       }
     ],
     "siderurgia": [],
